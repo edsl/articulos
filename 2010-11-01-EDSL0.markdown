@@ -1,0 +1,18 @@
+---
+layout: default
+title: En Defensa del Software Libre 0
+thumbnail: /images/cover_endefensadelsl_nr0.png
+categories:
+- publicacion
+---
+## {{ page.title }}
+### {{ page.date }}
+
+![Cubierta de EDSL 0](/images/cover_endefensadelsl_nr0.png)
+[Descargar](/descargas/En.Defensa.del.Software.Libre.Nro0.pdf)
+
+* Eben Moglen - Libertad en la nube: Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube (cc-by-nc-nd 2.0)
+* Johan Söderberg - ¡Hackers GNUíos! (cc-by-sa)
+* Nicolás Reynolds - El Software-martillo (cc-by-sa-ar 2.5)
+* Benjamin Mako Hill - Piratería y Software Libre (cc-by-sa)
+* Lucy Watts - Richard Stallman: Qué es el Software Libre (cc-by-sa)

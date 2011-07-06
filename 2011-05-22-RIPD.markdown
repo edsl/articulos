@@ -1,0 +1,14 @@
+---
+layout: default
+title: Redes Inalámbricas para Países en Desarrollo
+thumbnail: /images/cubierta_ripd.png
+categories:
+- publicacion
+---
+## {{ page.title }}
+### {{ page.date }}
+
+![Cubierta de RIPD](/images/cubierta_ripd.png)
+[Sitio web](http://wndw.net)
+
+Edición comunitaria realizada
