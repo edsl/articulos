@@ -1,14 +1,18 @@
 ---
-layout: default
+layout: post
+author: Publicación
 title: Redes Inalámbricas para Países en Desarrollo
-thumbnail: /images/cubierta_ripd.png
-categories:
-- publicacion
 ---
-## {{ page.title }}
-### {{ page.date }}
+# {{ page.title }}
 
-![Cubierta de RIPD](/images/cubierta_ripd.png)
-[Sitio web](http://wndw.net)
+![BuenosAiresLibre](http://wiki.buenosaireslibre.org/LogoBAL?action=AttachFile&do=get&target=LogoBAL.png)
 
-Edición comunitaria realizada
+[Sitio web][1] [Descarga][2]
+
+Edición comunitaria realizada en conjunto con la comunidad de
+[BuenosAiresLibre.org][3].
+
+
+[1]: http://wndw.net/pdf/wndw3-es/wndw3-es-ebook.pdf "Sitio web RIPD"
+[2]: http://wndw.net/pdf/wndw3-es/wndw3-es-ebook.pdf "Descargar RIPD en español"
+[3]: http://buenosaireslibre.org "BAL"
