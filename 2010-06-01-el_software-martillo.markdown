@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /el_software-martillo.html
 title: El Software-martillo
 author: Nicolás Reynolds
 ---
@@ -279,7 +278,7 @@ punto de vista político.
 [^5]: Término difuso para referirse a una nueva administración de Internet en
 que los datos se almacenan en medios virtualizados. Dice Moglen: "La nube
 significa que los servidores dejaron de estar hechos de metal. 'Nube' significa
-que la virtualización de los servidores ha ocurrido [...] ya no podemos señalar
+que la virtualización de los servidores ha ocurrido \[...\] ya no podemos señalar
 en la dirección del servidor y por eso no tenemos medios extra-técnicos
 o no-técnicos confiables para controlar este desastre en cámara lenta." Se
 refiere a que no hay forma de controlar dónde y cómo se almacenan los datos

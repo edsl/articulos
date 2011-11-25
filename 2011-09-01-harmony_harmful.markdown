@@ -79,9 +79,9 @@ la FSF. Mientras muchos de ellos aprueban la GPL, no necesariamente acuerdan
 con las posiciones morales de la FSF. En efecto, en muchos casos, estos
 desarrolladores se oponen completamente a asignar el copyright a nadie, sea la
 FSF o cualquier otro. Por ejemplo, [Linus Torvalds][16], fundador de Linux, ha
-declarado repetidas veces que "nunca quis[o] hacer asignaciones de copyright,
-por varias razones: personalmente piens[a] que son sucias y erróneas, odiaría
-hacer todo el papeleo y piens[a] que actuaría como detractor del modelo de
+declarado repetidas veces que "nunca quis\[o\] hacer asignaciones de copyright,
+por varias razones: personalmente piens\[a\] que son sucias y erróneas, odiaría
+hacer todo el papeleo y piens\[a\] que actuaría como detractor del modelo de
 desarrollo".
 
 Obviamente, mi posición no es tan radical como la de Linus; pienso que los ©AA
@@ -246,8 +246,8 @@ Harmony no puede aproximarse adecuadamente a entrante=saliente.
 Específicamente, el Proyecto Harmony intenta limitar el licenciamiento de
 salida en su sección 2.3 (llamada "Licencia saliente"). Sin embargo, todas las
 versiones copyleft de esta plantilla incluyen una cláusula que dice: "Nosotros
-[los receptores del CLA] acordamos licenciar la Contribución [...] bajo los
-términos de las [...] licencias que Nosotros estemos utilizando a la Fecha de
+\[los receptores del CLA\] acordamos licenciar la Contribución \[...\] bajo los
+términos de las \[...\] licencias que Nosotros estemos utilizando a la Fecha de
 Envío del Material". Pero _no hay forma_ de que el contribuyente verifique con
 seguridad cuáles licencias usa en privado la entidad que recibe el CLA. Si esa
 entidad ya tiene un modelo de negocio de [relicenciamiento propietario][27]
@@ -488,26 +488,44 @@ problema.
 Véase también (en inglés)
 -------------------------
 
-  * [El problema con Harmony, Parte I][52] de Richard Fontana
-  * [Los acuerdos Harmony 1.0][53] de Dave Neary
-  * [Algunos pensamientos sobre la asignación de copyright][54] de Michael Meek
-  * [La asignación de copyright y otras barreras para ingresar][55] de Dave Neary
-  * [El relicenciamiento propietario es el nuevo shareware][56] por mí mismo
-  * [Cuando una compañía te pide tu copyright][57] de RMS
-  * [La FSF y el Proyecto Harmony][58] de Brett Smith
-  * [Hay][59] [varios][60] [hilos][61] [diferentes][62] [que][63] [pueden][64]
-[encontrarse][65] [en][66] [identi.ca][67] [donde][68] [se][69] [discuten][70]
-[los][71] [acuerdos][72] [del][72] [Proyecto][73] [Harmony][74]. El hashtag
-["#Harmony"][75] se usa a menudo. El hashtag ["#CLA"][76] también puede ser de
-interés.
-  * [El problema de traer armonía a la asignación de copyright][77] de Jos Poortvliet
-  * [Balanceando transparencia y privacidad][78] de Simon Phipp
-  * [Política de asignación de copyright de GNOME][79]
-  * [Los lineamientos de la Fundación GNOME sobre la asignación de copyright][80]
-  * [El Proyecto Harmony busca mejorar los acuerdos de contribución][81] de Amanda Brock
-  * [Los archivos de la lista de correo del Proyecto Harmony][82]
-  * [Los borradores de los Acuerdos Harmony][83]
-  * [Políticas de contribución de proyectos de código abierto][84] diapositivas de la charla de Richard Fontana.
+* [El problema con Harmony, Parte I][52] de Richard Fontana
+
+* [Los acuerdos Harmony 1.0][53] de Dave Neary
+
+* [Algunos pensamientos sobre la asignación de copyright][54] de Michael Meek
+
+* [La asignación de copyright y otras barreras para ingresar][55] de Dave Neary
+
+* [El relicenciamiento propietario es el nuevo shareware][56] por mí mismo
+
+* [Cuando una compañía te pide tu copyright][57] de RMS
+
+* [La FSF y el Proyecto Harmony][58] de Brett Smith
+
+* [Hay][59] [varios][60] [hilos][61] [diferentes][62] [que][63] [pueden][64]
+  [encontrarse][65] [en][66] [identi.ca][67] [donde][68] [se][69]
+  [discuten][70] [los][71] [acuerdos][72] [del][72] [Proyecto][73]
+  [Harmony][74]. El hashtag ["#Harmony"][75] se usa a menudo. El hashtag
+  ["#CLA"][76] también puede ser de interés.
+
+* [El problema de traer armonía a la asignación de copyright][77] de Jos
+  Poortvliet
+
+* [Balanceando transparencia y privacidad][78] de Simon Phipp
+
+* [Política de asignación de copyright de GNOME][79]
+
+* [Los lineamientos de la Fundación GNOME sobre la asignación de copyright][80]
+
+* [El Proyecto Harmony busca mejorar los acuerdos de contribución][81] de
+  Amanda Brock
+
+* [Los archivos de la lista de correo del Proyecto Harmony][82]
+
+* [Los borradores de los Acuerdos Harmony][83]
+
+* [Políticas de contribución de proyectos de código abierto][84] diapositivas
+  de la charla de Richard Fontana.
 
 
 [^0]: Los defensores del Proyecto Harmony reclamarán que su sección 5, "Renuncia

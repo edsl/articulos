@@ -2,7 +2,6 @@
 layout: post
 author: Johan Söderberg
 title: "¡Hackers GNUníos!"
-permalink: /hackers_gnunited.html
 ---
 ## Johan Söderberg
 # ¡Hackers GNUníos! [^0]

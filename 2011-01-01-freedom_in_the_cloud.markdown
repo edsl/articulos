@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /freedom_in_the_cloud.html
 title: Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube
 author: Eben Moglen
 ---

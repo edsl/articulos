@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /why_political_liberty.html
 title: Por qué la libertad política depende de la libertad del software más que nunca 
 author: Eben Moglen
 ---
