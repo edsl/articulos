@@ -692,7 +692,7 @@ de este artículo.
 
 [^0]: Este artículo es la traducción al castellano de "Hackers GNUnited!",
 publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
-encontrarse en [http:freebeer.fscons.org][0]. Traducción por Nicolás Reynolds
+encontrarse en [http://freebeer.fscons.org][0]. Traducción por Nicolás Reynolds
 <fauno@kiwwwi.com.ar>, revisión y correcciones por Leonardo G. De Luca, agosto,
 2010. Este artículo y el original están licenciados bajo [Creative Commons
 Atribución-CompartirIgual 2.5][1]
@@ -703,14 +703,14 @@ Ensayo sobre el don, de M. Mauss, y El enigma del don, de M. Godelier.
 
 [^2]: Por ejemplo el Jargon File, que es considerada la fuente autorizada de
 argot hacker, hace malabares para distinguir entre crackers y hackers 'reales':
-[http:ur1.caf6o3](http:ur1.caf6o3) (última visita: 27-05-2009).
+[http://ur1.caf6o3](http://ur1.caf6o3) (última visita: 27-05-2009).
 
 [^3]: El reporte de investigación de mercado al que se hace referencia es
 Tendencias en Código Abierto y fue publicado por el Grupo Standish. Dado que el
 acceso a este informe es restringido, la información sobre este viene de los
 medios de noticias[^gnunited-broersma08]
 
-[^4]: [http:ur1.caf6o4](http:ur1.caf6o4) (fecha de acceso: 01-11-2009).
+[^4]: [http://ur1.caf6o4](http://ur1.caf6o4) (fecha de acceso: 01-11-2009).
 
 [^5]: Muchos críticos de la regulación del copyright y las patentes rechazan
 las palabras 'propiedad intelectual'. En su opinión, estas palabras están
@@ -721,8 +721,8 @@ que uso las palabras 'propiedad intelectual' en el artículo porque pienso que
 la asociación a otras formas de propiedad está enteramente justificada.
 
 
-[0]: http:freebeer.fscons.org "Free Beer"
-[1]: http:creativecommons.orglicensesby-sa2.5 "CC-BY-SA"
+[0]: http://freebeer.fscons.org "Free Beer"
+[1]: http://creativecommons.orglicensesby-sa2.5 "CC-BY-SA"
 
 
 [^gnunited-jordan02]: Jordan, T. (2002). Activism!: Direct Action, Hacktivism
