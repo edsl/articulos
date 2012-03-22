@@ -506,7 +506,7 @@ compartición en línea. La gente usaba la Web para, por ejemplo, navegar una
 librería, pero continuó empleando las tecnologías distribuidas para comunicarse
 con otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
 riesgo, se colocó de forma tal que los sitios web operados por grandes
-corporaciones se convirtieron en las principales plataformas sociales . La misma
+corporaciones se convirtieron en las principales plataformas sociales. La misma
 internet desaparecería pronto detrás de la Web, y los usuarios nunca más
 saldrían del navegador.
 
