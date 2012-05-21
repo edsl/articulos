@@ -447,7 +447,7 @@ Estaba diseñado para decir "vos sos un cliente, yo soy un servidor, yo inventé
 Windows 7. Me voy a quedar los registros, muchas gracias." Así era la
 industria. Nosotros construimos otra industria. Está aquí. Pero no está \[en
 uso\]. Bueno, sí, está aquí de alguna manera. Asi qué ¿dónde no está? Bueno, no
-está en el servidor web personal que no tengo y que prevendría que cayera\ldots
+está en el servidor web personal que no tengo y que prevendría que cayera...
 bueno, ¿por qué no hacemos algo al respecto?
 
 ¿Qué necesitamos? Necesitamos un buen servidor web que puedas poner en tu
@@ -460,7 +460,7 @@ saber cómo iniciar el servidor web, cómo recolectar todas tus cosas de las red
 sociales en que las tengas. Debería saber cómo enviar una copia de seguridad
 cifrada de todo a los servidores de tus amigos. Debería saber cómo
 microbloguear. Debería saber cómo hacer un ruido que suene como tweet pero no
-infrinja la marca de nadie. En otras palabras, debería saber cómo ser vos\ldots ah
+infrinja la marca de nadie. En otras palabras, debería saber cómo ser vos... ah
 perdónenme porque necesito usar una palabra peligrosa -tu avatar- en una red
 libre que trabaja para vos y que mantiene los registros. Siempre podés saber qué
 pasa en tu servidor y si alguien quiere saberlo tiene que conseguirse una orden
@@ -476,7 +476,7 @@ chips ARM. Exactamente lo que especifiqué recién. Los enchufás, los conectás
 ¿Cuál es el software que tiene? Bueno, es cualquier software que le quieras
 poner.
 
-De hecho, te lo mandan con la distro\footnote{Distribución de GNU/Linux.} más
+De hecho, te lo mandan con la [distro] más
 popular adentro, sólo tenés que decir la que querés. ¿Cuál querés? Bueno podés
 querer Debian GNU/Linux para Redes Sociales y va a serte entregado libremente,
 libremente como en libertad quiero decir. Lo que hace que todas las cosas que
@@ -692,3 +692,5 @@ desgrabación se licenció bajo CC-BY-NC-ND 2.0.
 [2]: http://ur1.ca/lch5 "Grabación de Libertad en la Nube"
 [3]: http://ur1.ca/uups "Desgrabación"
 [4]: http://creativecommons.org/licenses/by-sa/3.0/us/legalcode "CC-BY-SA 3.0 US"
+
+[distro]: Distribución de GNU/Linux.
