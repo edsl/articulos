@@ -46,6 +46,17 @@ five freedoms:
   exercise this freedom, but it is an issue regardless of where the relevant bits
   are stored.
 
+* Libertad 2) La libertad para determinar con quiénes son compartidos los bits
+  propios.
+
+  La libertad 2 trata sobre tu derecho a controlar el acceso a tus datos.
+
+  La minería de datos y la monetización del compartir se ha vuelto una práctica
+  común. Los participantes deberían ser libres de elegir a aquellos con quienes
+  les gustaría compartir una determinada información. Sólo alquien que posee
+  sus propios datos puede ejercitar completamente esta libertad, pero es un
+  problema sin importar dónde estén guardados los bits relevantes.
+
 * Freedom 3) The freedom to transmit bits to one's peers without the prospect
   of interference, interception or censorship.
 
@@ -65,8 +76,9 @@ five freedoms:
   Los flujos de información en las redes convencionales son rutinaria e
   intencionalmente interceptadas, obstruídas y censuradas. Esto se hace a
   instancias de actores corporativos y estatales alrededor del mundo. En una
-  red libre, las comunicaciones privadas deben permanecer sin examinar desde el
-  momento en que entran a la red hasta el momento en que llegan a su destino.
+  red libre, las comunicaciones privadas deberían permanecer sin examinar desde
+  el momento en que entran a la red hasta el momento en que llegan a su
+  destino.
 
 * Freedom 4) The freedom to maintain anonymity, or to present a unique, trusted
   identity.
