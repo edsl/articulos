@@ -57,6 +57,17 @@ five freedoms:
   should remain unexamined from the time they enter the network until the time
   they reach their destination.
 
+* Libertad 3) La libertad para transmitir bits a un igual sin el prospecto de
+  interferencia, intercepción o censura.
+
+  La libertad 3 trata sobre el derecho de hablar libremente con tus pares.
+
+  Los flujos de información en las redes convencionales son rutinaria e
+  intencionalmente interceptadas, obstruídas y censuradas. Esto se hace a
+  instancias de actores corporativos y estatales alrededor del mundo. En una
+  red libre, las comunicaciones privadas deben permanecer sin examinar desde el
+  momento en que entran a la red hasta el momento en que llegan a su destino.
+
 * Freedom 4) The freedom to maintain anonymity, or to present a unique, trusted
   identity.
 
