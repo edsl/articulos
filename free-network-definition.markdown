@@ -71,3 +71,21 @@ five freedoms:
   between them at will. Clear delineation between anonymous, pseudonymous, and
   onymous actors would enable all of us to better asses the trustworthiness of
   others on the network.
+
+* Libertad 4) La libertad para mantener el anonimato, o presentar una identidad
+  única y confiable.
+
+  La libertad 4 trata sobre tu derecho a construir tu propia identidad
+
+  Existe una presión en aumento para prohibir el anonimato, y sin embargo las
+  comunicaciones confiables permanecen escasas. Mientras que es esencial para
+  la libertad que los individuos puedan mantenerse anónimos en la esfera
+  pública online, también es esencial que sean capaces de construir y mantener
+  identidades persistentes y verificables. Tales identidades pueden mostrar un
+  nombre legal, uno común o un avatar que enmascara nuestro ser corpóreo - los
+  individuos pueden tener muchas de tales identidades, y cambiar entre ellas a
+  voluntad. Una clara delineación entre actores anónimos, pseudónimos y
+  ónimos[^NdT] nos permitiría a todos evaluar mejor la confiabilidad de otros
+  en la red.
+
+[^NdT]: WTF!
