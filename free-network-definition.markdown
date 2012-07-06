@@ -30,11 +30,24 @@ five freedoms:
 * Freedom 1) The freedom to determine where one's bits are stored.
 
   Freedom 1 regards your right to own the material stores of your data.
+
   Conventional networks encourage (if not force) their participants to store
   their data in machines which are under the administrative auspices of an
   external service provider or host. Most folks are not able to serve data from
   their homes. Participants ought to be free to store their own data (so that it
   is under their care) without sacrificing their ability to publish it.
+
+* Libertad 1) La libertad de determinar dónde son guardados los bits propios.
+
+  La libertad 1 trata sobre tu derecho de poseer el almacenamiento material de
+  tus datos.
+
+  Las redes convencionales promueven (si no fuerzan) que sus participantes
+  almacenen sus datos en máquinas que están bajo los auspicios administrativos
+  de un alojamiento o proveedor de servicio externo. La mayoría de la gente no
+  es capaz de servir datos desde sus casas. Los participantes deben ser libre
+  de almacenar sus propios datos (así está bajo su cuidado) sin sacrificar su
+  habilidad para publicarlos.
 
 * Freedom 2) The freedom to determine the parties with whom one's bits are shared.
 
