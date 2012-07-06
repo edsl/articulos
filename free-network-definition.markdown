@@ -15,7 +15,9 @@ five freedoms:
 
 * Freedom 0) The freedom to participate in the network.
 
-  Freedom 0 regards your right to organize cooperative networks.  Conventional
+  Freedom 0 regards your right to organize cooperative networks.
+
+  Conventional
   networks are characterized by a distinction between provider and user. This
   mode of organization encourages network operation in the service of
   self-interest. The provider builds and owns the infrastructure, and the user
@@ -26,6 +28,22 @@ five freedoms:
   profits as investment. In this way, those that join the network are able to
   become owners. This mode of organization encourages network operation in the
   service of the common good.
+
+* Libertad 0) La libertad de participar en la red.
+
+  La libertad 0 trata sobre tu derecho de organizar redes cooperativas.
+
+  Las redes convencionales se caracterizan por una distinción entre usuario y
+  proveedor. Este modo de organización promueve la operación de la red al
+  servicio del interés propio. El proveedor construye y posee la
+  infraestructura y el usuario paga por el acceso. En una red libre, sin
+  embargo, los nodos se conectan entre sí, en vez de a un único proveedor
+  monolítico. Por la naturaleza de su diseño, una red libre es poseída por
+  aquellos que le dan uso. Los participantes actúan como proveedores y usuarios
+  al mismo tiempo, y el crecimiento es distribuido automáticamente al tratar
+  cualquier ganancia como inversión. De esta forma, aquellos que se unen a la
+  red son capaces de volverse propietarios. Este modo de organización promueve
+  la operación de la red al servicio del bien común.
 
 * Freedom 1) The freedom to determine where one's bits are stored.
 
