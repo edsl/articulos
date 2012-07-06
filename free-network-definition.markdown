@@ -1,17 +1,32 @@
 The fundamental dialectic of our struggle is this: will we be enslaved by our
 technology, or liberated by it?
 
+La dialéctica fundamental de nuestro conflicto es este: ¿seremos esclavizados
+por nuestra tecnología, o liberados por ella?
+
 It was in cognizance of this notion, and in service to our collective freedom
 that the Free Software Movement was born. It is in this spirit that we aim here
 to define exactly what it means to say that a network is free.  We hope that
 the existence of this definition will help illuminate the path to a more just
 world.
 
+Fue en reconocimiento de esta noción, y en servicio de nuestra libertad
+colectiva, que el Movimiento del Software Libre nació. Es en este espíritu en
+el que tratamos aquí de definir exactamente lo que significa que una red es
+libre. Esperamos que la existencia de esta definición ayude a iluminar el
+camino hacia un mundo más justo.
+
 Our intention is to build communications systems that are owned by the people
 that use them, that allow participants to own their own data, and that use
 end-to-end encryption and cryptographic trust mechanisms to assure privacy. We
 call such systems 'free networks' and they are characterized by the following
 five freedoms:
+
+Nuestra intención es construir sistemas de comunicaciones que son poseídos por
+la gente que los usa, que permite a los participantes poseer sus propios datos
+y que usa encriptación de punta a punta y mecanismos de confianza
+criptográficos para garantizar la privacidad. Llamamos a tales sistemas 'redes
+libres' y estos están caracterizados por las siguientes cinco libertades:
 
 * Freedom 0) The freedom to participate in the network.
 
