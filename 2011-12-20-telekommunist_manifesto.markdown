@@ -148,7 +148,7 @@ motivaciones políticas, no para evangelizarlos a una posición fija, sino para
 contribuir a un continuo diálogo crítico.
 
 
-# El comunismo de pares contra el estado capitalista cliente-servidor
+## El comunismo de pares contra el estado capitalista cliente-servidor
 
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
