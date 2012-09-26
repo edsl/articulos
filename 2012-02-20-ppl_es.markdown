@@ -5,7 +5,17 @@ author: Telekommunisten
 permalink: /ppl.html
 ---
 ## Telekommunisten
-# Licencia de Producción de Pares
+## La licencia de producción de pares: un modelo para el copyfarleft
+
+La Licencia de Producción de Pares es un modelo de licencia copyfarleft,
+derivada de la licencia Creative Commons 'Atribución-NoComercial-CompartirIgual
+3.0 Unported': http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Para la traducción al castellano se adaptó el texto de la licencia Creative
+Commons Atribución-NoComercial-CompartirIgual 3.0 Chile':
+http://creativecommons.org/licenses/by-nc-sa/3.0/cl/
+
+### Licencia de Producción de Pares
 
 LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA
 COPYFARLEFT PÚBLICA ("LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS DE AUTOR
@@ -28,7 +38,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     o interpretación, e incluye las adaptaciones cinematográficas o cualquier
     otra forma en que la Obra pueda ser transformada o modificada,
     comprendiendo cualquier forma reconocible derivada de la original, que
-    constituya una creación autónoma , excepto que una obra forme parte de una
+    constituya una creación autónoma, excepto que una obra forme parte de una
     Colección, en cuyo caso no será considerada una Adaptación para los fines
     de esta Licencia. Para evitar dudas, cuando la Obra es una creación
     musical, interpretación o fonograma, la sincronización de ella en cuanto al
@@ -40,7 +50,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     fonogramas o emisiones, u otras creaciones o materias distintas de las
     obras enumeradas en la Sección 1(g) siguiente, las que, en razón de la
     selección y distribución de sus contenidos, constituyan creaciones
-    intelectuales, en los cuales la Obra esté incluida en su totalidad sin
+    intelectuales, en las cuales la Obra esté incluida en su totalidad sin
     modificaciones junto con una o más de otras contribuciones, constituyendo
     cada una obras separadas e independientes en sí mismas, que al encontrarse
     juntas están unidas en un todo colectivo. Una obra que constituya una
