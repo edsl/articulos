@@ -2146,7 +2146,7 @@ una sociedad nueva dentro del caparazón de la antigua', el ideal histórico de
 los Trabajadores Industriales del Mundo.[@iww-sf]
 
 
-# La Cultura Libre necesita una Sociedad Libre: El copyfarleft
+## La Cultura Libre necesita una Sociedad Libre: El copyfarleft
 
 A pesar del rol beneficioso del copyleft para formar un valioso stock común de
 software, se vuelve problemático cuando el modelo es forzado en el dominio del
@@ -2406,7 +2406,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     musical, interpretación o fonograma, la sincronización de ella en cuanto al
     tiempo en relación con la imagen en movimiento será considerada una
     Adaptación para los fines de esta Licencia.
-   
+ 
     b. "Colección" se refiere a aquellas recopilaciones de obras literarias
     o artísticas, tales como enciclopedias y antologías, o interpretaciones,
     fonogramas o emisiones, u otras creaciones o materias distintas de las
