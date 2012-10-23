@@ -221,8 +221,6 @@ y necesidades de las personas. En la praxis hacker, se trata de arreglar los
 problemas, como si se tratara de un _bug_, o como propone el título del libro
 de Söderberg, _hackear al capitalismo_.
 
-## Bibliografía
-
 [^0]: Este artículo se libera bajo la licencia CC-BY-SA[@cc-by-sa-ar]
 
 [^1]: El sentido correcto del término no es ni pirata ni criminal informático.

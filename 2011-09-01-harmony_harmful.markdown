@@ -547,7 +547,7 @@ el código bajo copyleft.
 Por favor envíenme comentarios o correo si creen que no ha sido corregido
 adecuadamente.
 
-[^2][Creative Commons License][86] Esta traducción y el artículo original se
+[^2]: [Creative Commons License][86] Esta traducción y el artículo original se
 liberan bajo Creative Commons Atribución CompartirDerivadasIgual 3.0 de
 Argentina y Estados Unidos respectivamente. Traducido por Nicolás Reynolds y
 Mauricio Pasquier Juan.
