@@ -322,7 +322,7 @@ comunidad'.[^ricardo_1825] Este análisis no se basa en los medios sociales, com
 distinción general entre las clases altas y bajas, sino en la relación con los
 factores de la producción, tierra, trabajo o capital. Este modelo ricardiano
 provee una base lógica para la idea de que las clases, terrateniente,
-trabajador y capitalista, tienen intereses diametralmente opuestos. 
+trabajador y capitalista, tienen intereses diametralmente opuestos.
 
 Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
 distinción no necesariamente implica intereses en conflicto y por lo tanto no
@@ -588,9 +588,9 @@ La caracterización que hace Graham del 'amateur' tiene una extraña semejanza a
 Si tuviera un circo, de Dr. Seuss, donde el joven Morris McGurk dice al staff
 del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.   
-> Dicen, '¡Trabájanos! ¡Por favor hazlo!   
-> Trabajaremos y trabajaremos tantas sorpresas    
+> Mis obreros aman trabajar.
+> Dicen, '¡Trabájanos! ¡Por favor hazlo!
+> Trabajaremos y trabajaremos tantas sorpresas
 > ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [^seuss_1956]
 
 Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
@@ -1122,7 +1122,7 @@ construcción de una sociedad sin clases, una sociedad de iguales.
 Tienen un mundo por ganar.
 
 
-## Notas 
+## Notas
 
 [^22]: El ‘Paquete de Reformas de Telecomunicadoras’ fue presentado por la
 Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre de 2007.

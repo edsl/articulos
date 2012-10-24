@@ -470,7 +470,7 @@ como la distinción general entre las clases altas y bajas, sino en la relación
 con los factores de la producción, tierra, trabajo o capital. Este modelo
 ricardiano provee una base lógica para la idea de que las clases,
 terrateniente, trabajador y capitalista, tienen intereses diametralmente
-opuestos. 
+opuestos.
 
 Que existan clases altas y bajas puede implicar una sociedad injusta, pero esta
 distinción no necesariamente implica intereses en conflicto y por lo tanto no
@@ -738,9 +738,9 @@ La caracterización que hace Graham del 'amateur' tiene una extraña semejanza
 a Si tuviera un circo, de Dr. Seuss, donde el joven Morris McGurk dice al staff
 del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.   
-> Dicen, '¡Trabájanos! ¡Por favor hazlo!   
-> Trabajaremos y trabajaremos tantas sorpresas    
+> Mis obreros aman trabajar.
+> Dicen, '¡Trabájanos! ¡Por favor hazlo!
+> Trabajaremos y trabajaremos tantas sorpresas
 > ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [@seuss-1956]
 
 Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
@@ -1031,7 +1031,7 @@ comunes se aplique exclusivamente a los comunes informacionales y el modo de
 producción capitalista siga dominando la producción de la riqueza material, los
 dueños de la propiedad material continuarán capturando la riqueza marginal
 creada como resultado de la productividad de esos comunes informacionales.
-Cualquiera sea el valor de cambio derivado de los comunes informacionales, 
+Cualquiera sea el valor de cambio derivado de los comunes informacionales,
 será siempre capturado por los dueños de la propiedad real, que se encuentra
 fuera de los comunes.
 
@@ -2406,7 +2406,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     musical, interpretación o fonograma, la sincronización de ella en cuanto al
     tiempo en relación con la imagen en movimiento será considerada una
     Adaptación para los fines de esta Licencia.
- 
+
     b. "Colección" se refiere a aquellas recopilaciones de obras literarias
     o artísticas, tales como enciclopedias y antologías, o interpretaciones,
     fonogramas o emisiones, u otras creaciones o materias distintas de las
@@ -2772,7 +2772,7 @@ europeo para los 27 miembros.
 una extensa y diversa investigación. Muchos recursos primarias pueden
 encontrarse en el archivo digital _[Primary Sources on Copyright
 (1450-1900)](http://www.copyrighthistory.com/)_ iniciado por el Consejo de
-Investigación en Artes y Humanidades del Reino Unido. 
+Investigación en Artes y Humanidades del Reino Unido.
 
 [^34]: El archivo de la Internacional Situacionista y el periódico
 _Internationale Situationniste_ pueden leerse en el sitio [Situationist

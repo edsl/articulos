@@ -29,7 +29,7 @@ capital en formas distintas a las "tradicionales".
 Este trabajo intenta establecer algunos puntos en común entre discusiones
 epistemológicas acerca de la neutralidad tecnocientífica y sus alcances
 sociales y los del movimiento que nos ocupa, tomando los aportes de Enrique
-Marí y Oscar Varsavsky. 
+Marí y Oscar Varsavsky.
 
 ## La ciencia martillo
 
@@ -101,10 +101,10 @@ lugar que ocupan en el desarrollo de la sociedad.
 
 ## El software martillo
 
-> Libertad 0: Libertad de ejecutar un programa con cualquier propósito; 
+> Libertad 0: Libertad de ejecutar un programa con cualquier propósito;
 > Libertad 1: Libertad de estudiar su funcionamiento y adaptarlo a tus necesidades
-> –su condición indispensable es tener acceso al código fuente; 
-> Libertad 2: Libertad de distribuir copias y ayudar a tus vecinos; 
+> –su condición indispensable es tener acceso al código fuente;
+> Libertad 2: Libertad de distribuir copias y ayudar a tus vecinos;
 > Libertad 3: Libertad de mejorar el programa y distribuirlo para el bien de toda
 > la comunidad –su condición indispensable es tener acceso al código fuente;
 > [@stallman-1996]

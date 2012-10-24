@@ -64,7 +64,7 @@ Soviets'[@gnunited-zizek02]. Por lo menos unos pocos comunistas de la vieja
 escuela están tomando esta idea con seriedad. Creen que la tecnología
 informática ha provisto el vínculo faltante que al fin podría hacer de una
 economía planificada una alternativa viable a la economía de
-mercado[@gnunited-pollack98]. 
+mercado[@gnunited-pollack98].
 
 Pero estas afirmaciones positivas del hacking y la tecnología informática
 probablemente sean opiniones minoritarias dentro de la izquierda tradicional.
@@ -449,7 +449,7 @@ sean copiadas y distribuidas gratuitamente. Mientras la licencia libre reside
 perfectamente en un mercado libre idealizado, difícilmente lo sea dentro del
 mercado existente que presupone siempre los cuasi monopolios y las regulaciones
 estatales[@gnunited-polanyi01].
- 
+
 Esto explica de alguna manera por qué la derecha política tiene dos visiones
 sobre las licencias de software libre. Los autoproclamados _libertarians_, como
 Eric Raymond, ven el crecimiento de los modelos de negocio basados en código

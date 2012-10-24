@@ -322,7 +322,7 @@ particularmente cuando los desarrolladores encuentran una organización
 confiable que se alinea con su código moral personal y se encargarán de
 defender el copyleft por ellos. No obstante, para los CLAs, el DCO de Linux
 cumple con este importante trabajo y deja de lado el costado pro-corporativo
-inútil. 
+inútil.
 
 Francamente, si tengo que elegir entre hacer las cosas fáciles para los
 desarrolladores o hacerlas fáciles para los abogados corporativos, voy a elegir

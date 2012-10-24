@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Por qué la libertad política depende de la libertad del software más que nunca 
+title: Por qué la libertad política depende de la libertad del software más que nunca
 author: Eben Moglen
 ---
 ## Eben Moglen
-# Por qué la libertad política depende de la libertad del software más que nunca 
+# Por qué la libertad política depende de la libertad del software más que nunca
 
 _Un discurso de Eben Moglen en la conferencia FOSDEM 2011, Bruselas, 5 de
 Febrero, 2011_
@@ -440,7 +440,7 @@ inteligentes para evitar la actividad anti-neutralidad levantada por los
 proveedores de Internet, todo eso puede hacerse fácilmente encima de cosas
 que ya hacemos y usamos todo el tiempo. Tenemos distribuciones de
 propósito general más que robustas suficientes para todo esto y un poco de
-trabajo en cuanto a capa de aplicaciones para ponerle encima. 
+trabajo en cuanto a capa de aplicaciones para ponerle encima.
 
 Ayer en los Estados Unidos, formamos la Fundación FreedomBox, la cual
 planeo usar temporalmente, o a largo plazo si es necesario, como el
