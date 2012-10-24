@@ -738,9 +738,9 @@ La caracterización que hace Graham del 'amateur' tiene una extraña semejanza
 a Si tuviera un circo, de Dr. Seuss, donde el joven Morris McGurk dice al staff
 del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.
-> Dicen, '¡Trabájanos! ¡Por favor hazlo!
-> Trabajaremos y trabajaremos tantas sorpresas
+> Mis obreros aman trabajar.\
+> Dicen, '¡Trabájanos! ¡Por favor hazlo!\
+> Trabajaremos y trabajaremos tantas sorpresas\
 > ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [@seuss-1956]
 
 Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
