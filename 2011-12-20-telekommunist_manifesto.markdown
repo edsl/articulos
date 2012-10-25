@@ -18,6 +18,9 @@ Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
 Se promueve el uso comercial hecho por colectivos y trabajadores independientes
 que trabajen en el dominio común.
 
+Traducido al castellano por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
+Pasquier Juan <mpj@endefensadelsl.org>.
+
 
 ## Prefacio
 
