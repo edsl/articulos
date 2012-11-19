@@ -18,8 +18,9 @@ Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
 Se promueve el uso comercial hecho por colectivos y trabajadores independientes
 que trabajen en el dominio común.
 
-Traducido al castellano por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
-Pasquier Juan <mpj@endefensadelsl.org>.
+Traducido al castellano por Nicolás Reynolds <fauno@endefensadelsl.org>
+y Mauricio Pasquier Juan <mpj@endefensadelsl.org>. Correcciones por Andrea
+Granate y Facundo Acevedo.
 
 
 ## Prefacio
@@ -30,8 +31,8 @@ conflicto de clase. Telekommunisten \[telecomunista\] es un colectivo con base
 en Berlín, Alemania, donde vivo desde el 2003. Me encontré con el término
 "Telekommunisten" (que se convertiría en el nombre del colectivo) en el 2005,
 cuando visitaba el departamento de un amigo. Él y su compañero habían nombrado
-"telecomunista" a la red de área local que usaban para compartir el acceso a
-Internet._
+"telecomunista" a la red de área local que usaban para compartir el acceso
+a Internet._
 
 Telecomunista había sido usado como un nombre despectivo para la antigua
 telefónica estatal de Alemania, _Deutsch Telekomm_, que ahora es una
