@@ -187,6 +187,16 @@ capitalist crisis is to combine the emergent counter-economy, and its
 working solutions to issues of social reproduction, to the broad social
 movements that emerge to protect the life conditions of working people.
 
+A través del uso de un nuevo tipo de licencia de producción de pares, los
+comuneros puede compartir libremente los bienes comunes con entidades afines a
+los mismos, mientras le cobran a las entidades pro-beneficio que no devuelven a
+los comunes, creando así un ciclo de realimentación positivo que genera una
+contra-economía centrada en los comunes. Combinar la emergente contra-economía,
+y sus soluciones funcionales para asuntos de reproducción social, con los
+amplios movimientos sociales que emergen para proteger las condiciones de vida
+de la clase trabajadora es crucial para el cambio de estado bajo condiciones
+de crisis capitalista.
+
 Traditional labor and their organizations has an objective interest,
 under conditions of declining capitalism, to adopt the idea of global
 and shared innovation commons, and thereby ally themselves with the
@@ -195,10 +205,24 @@ strife, capitalist corporations can be transformed into workers-owned,
 self-managed entities that create their own commons of shared knowledge,
 code, and design.
 
+El trabajo tradicional y sus organizaciones tienen un interés objetivo, bajo
+condiciones de capitalismo declinante, en adoptar la idea de comunes globales y
+de innovación conjunta, y por lo tanto aliarse con la emergente y profundizante
+producción de pares. En condiciones de conflicto social, las corporaciones
+capitalistas pueden ser transformadas en entidades propiedad de los
+trabajadores, auto-administradas que crean sus propios comunes de conocimiento,
+código y diseño compartidos.
+
 Farmers and agricultural workers have a similar interest in the creation
 of shared innovation commons in order to transform soil-depleting
 industrial agriculture into smart eco-agriculture based on shared
 innovation commons uniting farmers and agricultural knowledge workers.
+
+Los granjeros y trabajadores del agro tienen un interés similar en la creación
+de comunes de innovación compartida con el objetivo de transformar a la
+agricultura industrial agota-suelos en una eco-agricultura inteligente basada
+en comunes de innovación compartida uniendo a granjeros y trabajadores del
+conocimiento agricultural.
 
 Commons-oriented peer production can both strengthen netarchical capital
 and hence the system of capital accumulation, and the reproduction of
@@ -206,6 +230,14 @@ the commons. Peer producers can both benefit for corporate platforms,
 while struggling for their own rights as the real value creators, and in
 conditions of social strength, could potentially take over such
 platforms as common or publicly owned utilities.
+
+La producción de pares orientada a los comunes puede tanto fortalecer el
+capital redárquico y así el sistema de acumulación de capital, como la
+reproducción de los comunes. Los productores-pares pueden simultáneamente
+generar beneficios para plataformas corporativas, mientras luchan por sus
+propios derechos como los verdaderos creadores de valor, y en condiciones de
+fuerza social podrían potencialmente tomar dichas plataformas como comunes o
+utilidades poseídas popularmente.
 
 Participants in commoner-owned for-benefit entities can significantly
 transcend purely competitive market dynamics, while avoiding
@@ -216,6 +248,16 @@ does not obviate possible need for democratic planning through citizen
 participation, whenever this is needed and wished for. However, it
 creates broad areas for mutual alignment of productive capacities.
 
+Los participantes de entidades pro-beneficio poseídas por comuneros pueden
+trascender significativamente dinámicas de mercado puramente competitivas,
+mientras evitan la planificación central autoritaria, a través de la adopción
+de una administración de libro abierto, y adaptación al señalización
+públicamente disponible, así como a través de la coordinación negociada de la
+producción y la distribución. Esto no ignora una posible necesidad de
+planeamiento democrático a través de la participación ciudadana, siempre que
+esto sea necesario y deseado. Sin embargo, crea amplias áreas de alineamiento
+mutuo de las capacidades productivas.
+
 The traditional ideologies and movements of the industrial labor
 movement became largely associated with collective property. Peer
 production opens the avenue for more distributed property, whereby
@@ -223,6 +265,14 @@ individuals can freely aggregate, not only their immaterial productive
 resources, but their material productive resources. Under those
 conditions, possible abuse of collective property is balanced by the
 individual freedom of forking productive resources.
+
+Las ideologías y movimientos tradicionales y del movimiento laboral industrial
+se volvieron muy asociados a la propiedad colectiva. La producción de pares
+abre la vía para más propiedad distribuida, donde los individuos pueden
+agregar libremente, no sólo sus recursos productivos inmateriales, sino sus
+recursos productivos materiales. Bajo esas condiciones, el posible abuso de la
+propiedad colectiva es balanceado por la libertad individual de copiar y
+derivar los recursos productivos.
 
 Peer production is vital for sustainability and biosphere-friendly
 production methods, as open design communities design naturally for
@@ -236,10 +286,30 @@ of global phyles uniting peer production entities on a global 'material'
 scale. Phyles are transnational, community-supportive entities, which
 create a new layer of post-capitalist material cooperation.
 
+La producción de pares es vital para la sostenibilidad y los métodos de
+producción amigables con la biósfera, ya que las comunidades de diseño abierto
+diseñan naturalmente para la sostenibilidad, pero también transforman el mismo
+proceso productivo, por ejemplo, para garantizar la participación y un acceso
+más distribuido a los recursos productivos. Combinado con el desarrollo de
+maquinaria más distribuida, así como de asignación de capital más distribuido,
+la producción de pares puede llevar a un nuevo sistema que combina
+re-localización de material inteligente, con innovación cooperativa global, y
+la existencia de files[^2] globales uniendo entidades de producción de pares en
+una escala 'material' global. Las files son entidades transnacionales,
+fomentadoras de comunidad, que crean una nueva capa de cooperación material
+post-capitalista.
+
+[^2]: Del inglés *phyles*. Ver http://lasindias.net/indianopedia/Fil%C3%A9
+
 Free labor is only problematic under conditions of precarity and
 non-reciprocal value capture by (netarchical) capital. Under conditions
 of social solidarity, the freely given participation to common value
 projects is a highly emancipatory activity.
+
+El trabajo gratis sólo es problemático bajo condiciones de precariedad y
+captura de capital (redárquico) no-recíproca. Bajo condiciones de solidaridad
+social, la participación ofrecida libremente a los proyectos de valor común es
+una actividad altamente emancipatoria.
 
 Because of its hyper-productive nature, and inherent ecological
 sustainability, peer production becomes the condition for transcending
@@ -253,6 +323,18 @@ collective services, which form the basis of a new model of the Partner
 State, which enables and empowers social production as the core reason
 of its existence.
 
+Gracias a su naturaleza hiper-productiva, y su inherente sostenibilidad
+ecológica, la producción de pares se convierte en la condición para transcender
+el capitalismo. Su propia lógica, o sea la contribución libre a los comunes,
+administrado por asociaciones pro-beneficio y hechas sostenibles a través de
+emprendimientos pro-beneficio de los comuneros mismos, crea una forma simiente
+para una nueva forma económica y social, centrada alrededor de la principal
+creación de valor de los comunes, administrado y recibiendo contribuciones
+tanto de asociaciones pro-beneficio como de coaliciones de emprendedores, y
+sostenido por servicios colectivos participativos. que forman la base de un
+nuevo modelo de Estado Socio, que habilita y empodera la producción social como
+la razón principal de su existencia.
+
 The hyper-productivity of peer production, makes it conform to the dual
 conditions for phase transitions, i.e. the crisis of the old model of
 production, and the availability of a working alternative which can
@@ -262,3 +344,13 @@ cognitive and other forms of labor, is to create a new hegemony and a
 new commons- based alliance for social change, which challenges the
 domination of capital, the commodity form, and the biospheric
 destruction that is inherent to it."
+
+La hiper-productividad de la producción de pares, hace que cuadre con las
+condiciones duales para cambios de estado, o sea la crisis del viejo modelo de
+producción y la disponibilidad de una alternativa funcional que pueda
+desempeñarse mejor mientras resuelve una cantidad de problemas sistémicos que
+plagan la actual forma de producción dominante. La tarea de los movimientos de
+trabajo cognitivo y de todo tipo, es crear una nueva hegemonía y una nueva
+alianza basasa en los comunes para el cambio social, que desafíe la dominación
+del capital, su forma en mercancías y la destrucción biosférica que es
+inherente al mismo.
