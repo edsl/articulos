@@ -241,18 +241,18 @@ de hacer surgir un nuevo tipo de sociedad. Ningún orden social, sin importar
 cuan fuerte y despiadadamente impuesto, puede resistir su transformación cuando
 emergen nuevas formas de producir y compartir.
 
-Para reiterar, la sociedad está compuesta de relaciones sociales, relaciones
-que incluyen relaciones de producción. Estas relaciones de producción
-constituyen la estructura económica de la sociedad, que hacen surgir
-estructuras legales y políticas que luego la definen. Las relaciones entre
-compradores y vendedores, inquilinos y dueños, empleado y empleador, aquellos
-que nacen en la riqueza y el privilegio y aquellos que nacen en la precariedad
-y la lucha, todos son producto de estas relaciones de producción. Estas
-relaciones determinan cómo se producen y se comparten las cosas en la sociedad.
-Aquellos que son capaces de controlar la circulación del producto del trabajo
-de otros pueden imponer leyes e instituciones sociales que protegen sus
-intereses. Aquellos que no son capaces de retener el control del producto de su
-trabajo no son capaces de resistirlas.
+Resumiendo, la sociedad se compone de vínculos sociales que incluyen relaciones
+de producción. Las mismas constituyen la organización económica de la sociedad,
+haciendo surgir estructuras legales y políticas que luego la definen. La
+vinculación entre compradores y vendedores, inquilinos y dueños, empleado
+y empleador, aquellos que nacen en la riqueza y el privilegio y aquellos que
+nacen en la precariedad y la lucha, todos son producto de estas relaciones de
+producción, que determinan cómo se producen y se comparten las cosas en la
+sociedad.  Aquellos que son capaces de controlar la circulación del producto
+del trabajo de otros pueden imponer leyes e instituciones sociales que protegen
+sus intereses. Aquellos que no son capaces de retener el control del producto
+de su trabajo no son capaces de resistirlas.
+
 
 El capitalismo depende de la apropiación de valor para subsistir y crecer. La
 falsa retórica de la "economía de libre mercado" es una pantalla de humo para
@@ -292,38 +292,38 @@ donde las contribuciones a la producción y el consumo deben medirse en detalle.
 Es una economía de contadores y guardias de seguridad. La contabilidad del
 valor de cambio en pequeñas y reductoras listas de transacciones valoradas
 individualmente debe superarse por formas de intercambio más fluidas
-y generalizadas. El motivo por el que se maximiza el beneficio a partir de la propiedad,
-que es tan a menudo la fuerza motriz detrás de formas de producción
+y generalizadas. El motivo por el que se maximiza el beneficio a partir de la
+propiedad, que es tan a menudo la fuerza motriz detrás de formas de producción
 irracionales y destructivas, dará paso a un motivo de producir mucho más
 fuerte: realizar trabajo con beneficio directo sobre nuestras vidas y nuestra
 sociedad, una producción que cumpla necesidades y deseos del mundo real.
 
-Los apólogistas del capitalismo insistirán que esos motivos son uno y el mismo,
+Los apologistas del capitalismo insistirán que esos motivos son uno y el mismo,
 que el beneficio es simplemente la recompensa monetaria de producir lo que la
 comunidad necesita, pero esta relación es por lo menos tenue. Mientras que el
-abultado precio de los bienes de oferta reducida sí dirige las actividades
-productivas hacia áreas particulares, la extracción de ganancias de esta
-producción por parte de los dueños de la propiedad hace muy poco por nuestras
-necesidades sociales. Cuando la ganancia es el motivo, el precio puede
-aumentarse o los costos reducirse a través de prácticas de negocio predatorias,
-explotadoras y anticompetitivas, que no contribuyen al cumplimiento de las
-necesidades comunitarias. Cuando los trabajadores son capaces de formar su
-propio capital, y por lo tanto mantener el producto completo de su trabajo, las
-motivaciones para perseguir esas prácticas se desvanecen.
+elevado precio de los bienes escasos se dirige directamente desde las
+actividades productivas hacia áreas particulares, la obtención de ganancias de
+esta producción por parte de los dueños de la propiedad hace muy poco por
+nuestras necesidades sociales. Cuando la ganancia es lo principal, el precio
+puede aumentarse o los costos reducirse a través de prácticas de negocio
+predatorias, explotadoras y anticompetitivas, que no contribuyen a satisfacer
+las  necesidades comunitarias.  Cuando los trabajadores son capaces de formar
+su propio capital, y por lo tanto mantener el producto completo de su trabajo,
+las motivaciones para perseguir esas prácticas se desvanecen.
 
-Sin la necesidad de contabilizar y medir nuestros consumo y producción para
+Sin la necesidad de contabilizar y medir nuestro consumo y producción para
 apaciguar a los que imponen el control capitalista, los trabajadores en una
-sociedad libre tal vez no se molestarían en producir exclusivamente para maximizar la
-ganancia dentro de una "economía de mercado". En su lugar, podrían decidir
-enfocar sus esfuerzos en producir lo que quieren y lo que su comunidad
-necesita, y están motivados a compartir los productos de su labor sólo por
+sociedad libre tal vez no se molestarían en producir exclusivamente para
+maximizar la ganancia dentro de una "economía de mercado". En su lugar, podrían
+decidir enfocar sus esfuerzos en producir lo que quieren y lo que su comunidad
+necesita, y estar motivados a compartir los productos de su labor sólo por
 respeto mutuo. Este tipo de economía no se parece a un "mercado".
 
 El "mercado" se ha convertido en una metáfora tan penetrante del "intercambio
 libre" que la sociedad entera es frecuente y acríticamente descrita en términos
 de un mercado físico. Un mercado físico no es un espacio libre. El control de
-la ubicación física del mercado ha sido siempre el dominio de las jerarquías
-y la autoridad, y la proximidad al mercado físico es el ejemplo de manual del
+la ubicación física del mercado ha sido siempre dominio de las jerarquías y la
+autoridad, y la proximidad al mercado físico es el ejemplo de manual del
 ingreso no ganado, referido por los economistas como la "renta económica". El
 puesto en el mercado es la manifestación física de la división entre productor
 y consumidor. Ninguna de estas parece ser una característica esencial de una
@@ -341,20 +341,20 @@ por los productores. Se introducen puntos de control en la trama natural de las
 relaciones sociales. La "economía de mercado" es entonces la imposición de los
 términos "no libres" del mercado físico a la sociedad en su conjunto. La
 distinción entre productor y consumidor debe aplicarse para que la circulación
-puede ser controlada. Sólo la jerarquía y la autoridad deben tener acceso
+pueda ser controlada. Sólo la jerarquía y la autoridad deben tener acceso
 privilegiado.
 
 La idea absurda y reduccionista de que debemos concebir a la sociedad misma
 como un mercado nace de la imaginación del capitalismo, un paraíso para los
-extorsionistas y corredores de apuestas. Los medios para imponer las relaciones
-del mercado a la sociedad entera son provistos por el Estado. El rol
+extorsionadores y corredores de apuestas. Los medios para imponer las
+relaciones del mercado a la sociedad entera son provistos por el Estado. El rol
 tradicional del Estado como mediador entre clases en nombre de la clase
 dominante depende de su soberanía territorial. La habilidad del Estado para
 imponer control sobre la economía de red depende del hecho de que los
 participantes actúan principalmente dentro de los límites del Estado. Una vez
 que la red se expande más allá del Estado tiene el potencial para convertirse
-en una amenaza para el Estado mismo, al socavar la captura de valor basada
-en el territorio.
+en una amenaza para el Estado mismo, al socavar la captura de valor basada en
+el territorio.
 
 La habilidad del Estado para garantizar títulos y privilegios se basa en su
 habilidad para asegurar tales ventajas a través del monopolio sobre el uso
@@ -380,40 +380,40 @@ que las mantiene corriendo, sirven como un capital común que es usado
 independientemente por mucha gente. El Software Libre, cuya producción
 y distribución depende frecuentemente de redes de pares, es un capital común
 disponible para todos. El Software Libre es producido por productores diversos
-y distribuidos que contribuyen a él porque ganan mayor valor al usar el
-software para su propia producción que el valor de sus contribuciones
-individuales al software. Los ataques populares a las regalías y tasas
-capturadas por la industría discográfica y fílmica por parte de los usuarios de
-tecnologías de compartición de archivos nos muestran las dificultades que
-enfrentan aquellos cuyos ingresos dependen del control de la reproducción. El
-transporte masivo y la migración internacional han creado comunidades
-distribuidas que mantienen relaciones interpersonales y, a menudo, económicas
-informales a través de los límites nacionales.
+y distribuidos que contribuyen a él porque ganan mayor valor al usarlo para su
+propia producción que el valor de sus contribuciones individuales al software.
+Los ataques populares a las regalías y tasas capturadas por la industria
+discográfica y fílmica por parte de los usuarios de tecnologías de compartición
+de archivos nos muestran las dificultades que enfrentan aquellos cuyos ingresos
+dependen del control de la reproducción. El transporte masivo y la migración
+internacional han creado comunidades distribuidas que mantienen relaciones
+interpersonales y, a menudo, económicas informales a través de los límites
+nacionales.
 
 Todos estos son ejemplos de nuevas relaciones productivas que trascienden las
-actuales relaciones basadas en la propiedad y apuntan a un progreso potencial.
-El desarrollo de las telecomunicaciones, notablemente la emergencia de redes de
+actuales basadas en la propiedad y apuntan a un progreso potencial. El
+desarrollo de las telecomunicaciones, notablemente la emergencia de redes de
 pares como la Internet, así como el transporte y migración internacional, crean
 amplias posibilidades revolucionarias mientras las comunidades dispersas se
 vuelven capaces de interactuar instantáneamente a escala global. Nuestras vidas
 y relaciones ya no necesitan confinarse a naciones estado vinculadas a un
 territorio. Aunque los elementos coercitivos en la jerarquía política
-y corporativa imponen cada vez más controles draconianos en un intento por prevenir
-nuestra resistencia a, o la evasión de, tal confinamiento, podemos colocar
-nuestras esperanzas revolucionarias en la posibilidad de que la escala del
-cambio es simplemente tan amplia que nunca podrán triunfar del todo.
+y corporativa imponen cada vez más controles draconianos en un intento por
+prevenir nuestra resistencia a, o la evasión de, tal confinamiento, podemos
+colocar nuestras esperanzas revolucionarias en la posibilidad de que la escala
+del cambio es simplemente tan amplia que nunca podrán triunfar del todo.
 
 En proporción a la audaz emergencia de las tecnologías de pares, el software
 libre y las comunidades internacionales, los obstáculos para el cambio social
 son increiblemente grandes. Debemos superar la gran acumulación de riqueza de
 la que la elite capitalista dispone. Esta riqueza les da la habilidad de
-moldear la sociedad de acuerdo a sus intereses. Para poder cambiar la
-sociedad debemos expandir activamente el alcance de nuestros comunes, para que
-nuestras comunidades independientes de pares puedan sostenerse materialmente
-y resistir los avances del capitalismo.
+moldear la sociedad de acuerdo a sus intereses. Para poder cambiar la sociedad
+debemos expandir activamente el alcance de nuestros comunes, para que nuestras
+comunidades independientes de pares puedan sostenerse materialmente y resistir
+los avances del capitalismo.
 
-Cualquier porción de nuestra productividad que permitamos que nos saquen
-retornará en la forma de nuestra propia opresión.
+Cualquier porción de productividad que permitamos que nos saquen retornará en
+la forma de nuestra propia opresión.
 
 La cabeza de la intervención estatal en la economía de red es la coacción de la
 propiedad. La propiedad es por naturaleza antagónica de la libertad. La
@@ -421,8 +421,8 @@ propiedad es la habilidad de controlar bienes productivos a distancia, la
 habilidad de 'adueñarse' de algo que es puesto en uso productivo por otra
 persona. La propiedad hace posible la subyugación de individuos y comunidades.
 Donde la propiedad es soberana, no puede haber libertad alguna bajo su dominio.
-Los dueños de la propiedad escasa pueden negar la vida al negar el acceso
-a la propiedad, para entonces poner a los vivos a trabajar como esclavos sin
+Los dueños de la propiedad escasa pueden negar la vida al no otorgar el acceso
+a la misma, para entonces poner a los vivos a trabajar como esclavos sin
 pagarles más que el costo de su reproducción.
 
 En la terminología económica, el ingreso que los dueños reciben, al apropiarse
@@ -441,33 +441,33 @@ y no hay diferencia en términos de costos que los dueños deben sobrellevar par
 poner estos edificios en el mercado, como lugares comerciales o de vivienda.
 El edificio en la ciudad mayor ganará, sin embargo, más ingresos que el
 edificio de la ciudad menor, sin tomar en cuenta la cantidad igual de trabajo
-y gastos necesitarios para mantenerlos. Esta diferencia es la renta económica,
+y gastos necesarios para mantenerlos. Esta diferencia es la renta económica,
 y no renta en términos del precio que pagás por el alquiler de tu casa. La
 renta no se recolecta por ninguna contribución a la producción, sino por
 privilegios legales, como el título de posesión de una ubicación de valor.
 
 Esto no significa que el dueño no contribuya al valor de la propiedad, por
 ejemplo a través de su mantenimiento, sino que el valor de cualquier
-contribución que hagan no se calcula como renta, pero por ejemplo, como interés
-si incrementa directamente el valor de la propiedad. La renta, en términos
-económicos, es el ingreso ganado por permitir a otros usar la propiedad; en
-última instancia, este ingreso se deriva de la porción que el terrateniente
-reclama de lo que producen ilos inquilinos como propio. Esto no se refiere
-solamente a los terratenientes, la renta y la propiedad en el sentido edilicio.
-Mientras nuestra habilidad para proveernos subsistencia material requiera
-acceso a la propiedad que forma nuestros 'medios de producción', debemos
-acordar transferir una porción de lo que producimos a aquellos que nos permiten
-el acceso a tales medios, o de lo contrario no podríamos vivir.
+contribución que hagan no se calcula como renta, pero por ejemplo, como
+interés, si incrementa directamente el valor de la propiedad. La renta, en
+términos económicos, es el ingreso ganado por permitir a otros usar la
+propiedad; en última instancia, este ingreso se deriva de la porción que el
+terrateniente reclama de lo que producen los inquilinos como propio. Esto no se
+refiere solamente a los terratenientes, la renta y la propiedad en el sentido
+edilicio.  Mientras nuestra habilidad para proveernos subsistencia material
+requiera acceso a la propiedad que forma nuestros 'medios de producción',
+debemos acordar transferir una porción de lo que producimos a aquellos que nos
+permiten el acceso a tales medios, o de lo contrario no podríamos vivir.
 
 La porción de la salida productiva de un productor que puede demandarse por el
 derecho a existir es el total de esa salida productiva menos los costos de
 subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
 en su _Sobre los principios de la economía política y los impuestos_ de
-1817,[@ricardo-1821] y esta es la base de negociación que nos encontramos
-todos aquellos que nacimos en un mundo enteramente apropiado por otros.
+1817,[@ricardo-1821] y esta es la base de negociación que nos encontramos todos
+aquellos que nacimos en un mundo enteramente apropiado por otros.
 
 En su 'Ensayo sobre los beneficios', Ricardo argumenta: 'El interés del
-terraniente siempre se opone al interés de cualquiera otra clase de la
+terrateniente siempre se opone al interés de cualquier otra clase de la
 comunidad'.[@ricardo-1815] Este análisis no se basa en los medios sociales,
 como la distinción general entre las clases altas y bajas, sino en la relación
 con los factores de la producción, tierra, trabajo o capital. Este modelo
@@ -551,8 +551,8 @@ habilidad para extraer renta depende de la habilidad propia para controlar un
 recursos escaso aun si es utilizado por alguien más. En otras palabras, la
 propiedad le da la capacidad al propietario de forzar a esa otra persona
 a compartir el producto de su trabajo. La propiedad, entonces, es el control
-a distancia. De esta manera, la renta sólo es posible mientras sea apoyada
-por la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
+a distancia. De esta manera, la renta sólo es posible mientras sea apoyada por
+la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
 
 Sin un medio para forzar a aquellos que ponen la propiedad en uso productivo
 a compartir el producto de su trabajo con el dueño ausente y ocioso, ese
