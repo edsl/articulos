@@ -1,11 +1,24 @@
 **Thesis on Digital Labor, by Michel Bauwens:**
 
+Michel Bauwens
+--------------
+
+Tesis sobre el trabajo digital
+==============================
+
 "Peer to peer is the ideology of the new cognitive working class. The
 majority of workers in Western countries are no longer involved in
 factory work, but are either cognitive or service workers. There are
 strong connections between peer-to-peer values such as openness,
 participation, as well as commons-orientation and the structural
 conditions of this new working class.
+
+El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La
+mayoría de los trabajadores de los países occidentales ya no están involucrados
+en el trabajo fabril, sino que son trabajadores cognitivos o de servicios.
+Existen conexiones muy fuertes entre los valores de pares tales como la
+apertura y la participación, así como la orientación hacia los comunes y las
+condiciones estructurales de esta nueva clase trabajadora.
 
 First, peer-to-peer responds to the ideal conditions for cognitive work.
 For cognitive work to progress, it needs participation of all those who
@@ -15,6 +28,14 @@ that peer production was born amongst the developers of software code,
 who are uniquely dependent on access to shareable code in order to
 progress in their work.
 
+Primero, el par-a-par responde a las condiciones ideales del trabajo cognitivo.
+Para que el trabajo cognitivo progrese, necesita la participación de todos
+aquellos que puedan contribuir, el conocimiento necesita ser compartido
+libremente y estar disponible para todos los que necesiten el mismo material en
+el futuro. No es accidental que la producción de pares haya nacido entre los
+desarrolladores de software, que dependen específicamente del acceso a código
+compartible para poder desarrollar tu trabajo.
+
 Under structural conditions of exploitative and Intellectual
 Property-constrained wage-based knowledge work, peer production is the
 modality of life and work that cognitive workers aspire too, and engage
@@ -22,6 +43,13 @@ in whenever they can either escape voluntarily from waged labor, or are
 obliged to engage in because of a precarious exodus outside of wage
 labor in the context of conditions of temporary or permanent economic
 crisis.
+
+En el trabajo cognitivo asalariado bajo condiciones estructurales de
+explotación y propiedad intelectual, la producción de pares es la modalidad de
+vida y trabajo a la que los trabajadores cognitivos aspiran y en la que se
+involucran en cuanto pueden escapar del trabajo asalariado; o al que están
+obligados luego de un precario éxodo del trabajo asalariado en el contexto de
+condiciones de crisis económica temporal o permanente.
 
 Peer-to-peer corresponds to the objective needs of the new craft
 structure of cognitive labor. Cognitive workers are no longer primarily
@@ -34,6 +62,17 @@ gain practical experience, and social and reputational capital, as well
 as access to networks of exchange and solidarity. Networked peer
 production is the best avenue to obtain these advantages.
 
+El par-a-par corresponde a las necesidades objetivas de la nueva estructura
+artesanal del trabajo cognitivo. Los trabajadores cognitivos ya no se
+encuentran principalmente envueltos en el trabajo fabril de larzo plazo, sino
+que tienen carreras bastante flexibles, por opción o necesidad, que requieren
+el salto de trabajadores asalariados, a consultores independientes _freelance_,
+a _entrepeneurs_ y de vuelta a trabajadores. Bajo condiciones de flexibilidad
+elegida o forzada, los trabajadores tienen un interés objetivo en ser puestos
+en red, para ganar experiencia práctica y capital tanto social como
+reputacional, así como acceso a redes de intercambio y solidaridad. La
+producción de pares en red es el mejor camino para percibir estas ventajas.
+
 Peer to peer, and engagement with peer production, is the objective
 condition of participation into networks, and therefore affects and
 engages all network users, to the degree that they are engaged in online
@@ -45,16 +84,40 @@ peer production as a social dynamic are therefore NOT constrained to
 full-time knowledge workers, but to the totality of the working class
 and working people.
 
+El par-a-par y el involucramiento en la producción de pares son las condiciones
+objetivas de la participación en redes y por lo tanto afecta e involucra
+a todos los usuarios de la red, al grado de involucrarse en la colaboración
+e intercambio de conocimiento en línea y la eventual creación de valor común
+a través de esa agregación libre de esfuerzos. Todo trabajo, sin embargo, posee
+aspectos cognitivos y hoy en día todos los trabajadores están expuestos a las
+redes y al sistemas de valores de pares. Por lo tanto, este sistema de valores
+y producción en tanto dinámica social *no está* constrenido a los trabajos
+cognitivos de tiempo completo sino a la totalidad de la clase trabajadora y de
+la gente trabajando.
+
 Because of the hyperproductive nature of peer production, which allows
 for broader participation and input, passionate engagement, and
 universal distribution of its benefits (conditioned by network access),
 it attracts the participation and engagement of capital, through the
 activities of netarchical capitalists.
 
+Debido a la naturaleza hiperproductiva de la producción de pares, que permite
+la más amplia participación e ingreso, involucramiento apasionado
+y distribución universal de sus beneficios (condicionados por el acceso a la
+red), atrae la participación e involucramiento del capital a través de la
+actividad e los capitalistas [redárquicos][^1].
+
+[^1]: _Netarchical_ en el original.
+
 Netarchical capital is that sector of capital, which understands the
 hyper-productive nature of peer production and therefore enables and
 empowers social production to occur, but conditioned by the possibility
 of value extraction to the benefit of the holders of capital.
+
+El capital redárquico es el sector del capital que comprende la naturaleza
+hiperproductiva de la producción de pares y por lo tanto habilita y empodera la
+ocurrencia de la producción social, condicionada por la posibilidad de la
+extracción de valor para el beneficio de los poseedores del capital.
 
 Peer production is both immanent and transcendent vis a vis capitalism
 because it has features which strongly decommodifies both labor and
@@ -66,6 +129,16 @@ capital uses peer production for its own accumulation of capital; peer
 producers naturally strive for the continued existence and protection of
 their commons.
 
+La producción de pares es inmanente a la vez que trascendente frente al
+capitalismo porque posee características que des-comodifican tanto el trabajo
+como el valor inmaterial e instituyen un campo de acción basado en las
+dinámicas de pares y su sistema de valores. La producción de pares funciona
+dentro del ciclo de acumulación del capital pero también dentro del nuevo ciclo
+de creación y acumulación de los comunes. El capital redárquico utiliza la
+producción de pares para su propia acumulación de capital; los pares
+productores abogan naturalmente por la existencia continuada y protección de
+sus comunes.
+
 The creation of commons under the rule of capital is NOT a zero sum
 game. This means that the fact or objective relation between the commons
 and capital does not automatically constitute a hard and fast
@@ -74,6 +147,15 @@ associated with peer production have a natural interest to maintain and
 expand the commons of knowledge, code and design, and under conditions
 of capital, the role of wage labor and capitalist investment contributes
 to the sustainability of both the commons and the commoners.
+
+La creación de comunes bajo el reinado del capital *no es* un juego de suma
+cero. Esto significa que el hecho o la relación objetiva entre los comunes y el
+capital no constituye automáticamente una distinción pura y dura entre comunes
+capitalistas y anti-capitalistas. Los trabajadores asociados en la producción
+de pares tienen un interés natural en mantener y expandir los comunes del
+conocimiento, el código y el diseño y bajo las condiciones del capital, el rol
+del trabajo asalariado y la inversión capitalista contribuyen a la
+sostenibilidad de los comunes y de los comuneros.
 
 However, under conditions of capitalist crisis, commoners have an
 objective interest in maintaining commons and conditions of
@@ -85,6 +167,16 @@ participating in capital accumulation. Benefit-driven institutions are
 responsible for the financial sustainability and social reproduction of
 the commoners, as well as for the protection and strengthening of the
 commons.
+
+No obstante, bajo condiciones de crisis capitalista, los comuneros tienen un
+interés objetivo en mantener los comunes y las condiciones de participación que
+crean la máxima independencia del capital y abogan por su eventual reemplazo en
+tanto sistema dominante. Nosotros proponemos que esto puede suceder a través de
+la creación de entidades no capitalistas, comunitarias, orientadas al beneficio
+que participen en el intercambio de mercado sin participar en la acumulación de
+capital. Las instituciones orientadas al beneficio son responsables de la
+sostenibilidad financiera y la reproducción social de los comuneros, así como
+de la protección y el fortalecimiento de los comunes.
 
 Through the use of a new type of peer production license, commoners can
 freely share the commons with commons-friendly entities, while charging
