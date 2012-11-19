@@ -962,53 +962,55 @@ del P2P.
 ## La Producción de Pares y la Pobreza de las Redes
 
 Una Internet más libre no puede existir dentro del actual sistema de
-financiamiento capitalista. Argumentos a favor de la clara superioridad técnica
-de las tecnologías distribuídas sobre las centralizadas no han sido los
+financiamiento capitalista. Los argumentos a favor de la evidente superioridad
+técnica de las tecnologías distribuídas sobre las centralizadas no han sido los
 factores decisivos en el desarrollo, en última instancia, de nuestra
 infraestructura de comunicación global, que se ha consolidado como una
 infraestructura restrictiva y regulada. El factor determinante es, como
 siempre, el hecho de que aquellos cuyos intereses están asegurados por la
 restricción de la libertad, tienen más riqueza a su disposición para presionar
 implacablemente hacia sus fines, que la riqueza disponible para resistirse
-a ellos. Las razones económicas de esto son bien entendidas; la clase
-numéricamente pequeña de capitalistas es la beneficiaria de la injusta
-distribución de los activos productivos que le permite capturar la riqueza
-producida por las masas de trabajadores sin propiedad.
+a ellos. Las razones económicas son bien entendidas; la clase numéricamente
+pequeña de capitalistas es la beneficiaria de la injusta distribución de los
+activos productivos que le permite capturar la riqueza producida por las masas
+de trabajadores sin propiedad.
 
-Si queremos tener voz en la forma en como las redes de comunicaciones son
-operadas, o si queremos hacer cualquier reforma social, debemos comenzar por no
-permitir que los dueños de la propiedad conviertan nuestra productividad en
-riqueza acumulada por ellos. La riqueza que usan para imponer restricciones
-a nuestras libertades es la riqueza que nos han quitado. Sin nosotros no
-tendrían fuente de riqueza. Ni siquiera toda la riqueza acumulada durante
-siglos de explotación puede salvar a la elite económica si se vuelve incapaz de
-continuar capturando la riqueza del presente. El valor del futuro es muchísimo
-mayor que el del pasado. Nuestras ideas sobre topología de redes finalmente no
-son una amenaza para el capitalismo, que siempre las puede co-optar, sabotear
-o simplemente ignorar. Antes bien, son nuestras nuevas formas de trabajar
-y compartir a través de fronteras nacionales las que tienen el potencial de
-amenazar el orden capitalista y abrir paso a una nueva sociedad.
+Si queremos tener voz en la forma en como las redes de comunicaciones
+se operan, o si queremos hacer cualquier reforma social, debemos
+comenzar por no permitir que los dueños de la propiedad conviertan
+nuestra productividad en riqueza acumulada por y para ellos. La riqueza que
+usan para imponer restricciones a nuestras libertades es la riqueza que
+nos han quitado. Sin nosotros no tendrían fuente de riqueza. Ni siquiera
+toda la riqueza acumulada durante siglos de explotación puede salvar a
+la elite económica si se vuelve incapaz de continuar capturando la
+riqueza del presente. El valor del futuro es muchísimo mayor que el del
+pasado. Nuestras ideas sobre topología de redes finalmente no son una
+amenaza para el capitalismo, que siempre las puede co-optar, sabotear o
+simplemente ignorar. Antes bien, son nuestras nuevas formas de trabajar
+y compartir a través de fronteras nacionales las que tienen el potencial
+de amenazar el orden capitalista y abrir paso a una nueva sociedad.
 
-Frecuentemente, las discusiones sobre las relaciones productivas en los proyectos de
-software libre y otros proyectos colaborativos como Wikipedia, intentan
-embotellar la producción basada en los comunes y atraparla dentro de la esfera
-de la producción inmaterial e intangible, restringiéndola a un dominio en el
-que no puede afectar la distribución de la riqueza, y por lo tanto desempeñar
-un papel en el conflicto de clases. Yochai Benkler, profesor de Estudios
-Legales Empresariales en la Escuela de Leyes de Harvard, acuñó el término
-"produccion de pares" para describir la forma en que el software libre, los articulos
-de Wikipedia y otros trabajos similares son producidos. Limitando su análisis
-a la llamada 'economía de la información en red', la novedad de la producción
-de pares como es entendida por Benkler y muchos otros es que la propiedad en el
-patrimonio común es 'propiedad no rival', que puede ser consumida sin prevenir
-a otros consumirla al mismo tiempo. Esta propiedad no rival puede incluir la
-transmisión radial, el video en Internet o cualquier otro recurso transferible
-o accesible por red, como el software libre. Tal propiedad carece virtualmente
-de costos de reproducción. Otra característica distintiva del concepto limitado
-de producción de pares de Benkler es que es no reciprocitaria, es decir que los
-productores no reciben remuneración directa por lo que han producido, ya que
-sus productos están disponibles sin costo. Por ejemplo, a los usuarios de
-software libre no se les requiere compensar a los desarrolladores originales.
+Con frecuencia, las discusiones sobre las relaciones productivas en los
+proyectos de software libre y otros proyectos colaborativos como Wikipedia,
+intentan embotellar la producción basada en los comunes y atraparla dentro de
+la esfera de la producción inmaterial e intangible, restringiéndola a un
+dominio en el que no puede afectar la distribución de la riqueza ni por lo
+tanto desempeñar un papel en el conflicto de clases. Yochai Benkler, profesor
+de Estudios Legales Empresariales en la Escuela de Leyes de Harvard, acuñó el
+término "produccion de pares" para describir la forma en que el software libre,
+los articulos de Wikipedia y otros trabajos similares se producen. Limitando su
+análisis a la llamada 'economía de la información en red', la novedad de la
+producción de pares como es entendida por Benkler y muchos otros es que la
+propiedad en el patrimonio común es 'propiedad no rival', que puede ser
+consumida sin prevenir a otros consumirla al mismo tiempo. Esta propiedad no
+rival puede incluir la transmisión radial, el video en Internet o cualquier
+otro recurso transferible o accesible por red, como el software libre. Tal
+propiedad carece virtualmente de costos de reproducción. Otra característica
+distintiva del concepto limitado de producción de pares de Benkler es que no es
+reciprocitaria, es decir que los productores no reciben remuneración directa
+por lo que han producido, ya que sus productos están disponibles sin costo. Por
+ejemplo, a los usuarios de software libre no se les requiere compensar a los
+desarrolladores originales.
 
 No hay que negar que la red de riqueza de Benkler tiene mucho que ofrecer. El
 valor de estos comunes informacionales para sus usuarios es fantástico, como
@@ -1016,15 +1018,15 @@ evidencian los millones que, por ejemplo, usan software libre, Wikipedia,
 comunicaciones en línea y herramientas de redes sociales. Sin embargo, si la
 producción de pares basada en comunes se limita exclusivamente a bienes comunes
 hechos de propiedad digital sin costo de reproducción, ¿cómo puede el valor de
-uso producido traducirse en valor de cambio? ¿Donde está el dinero para pagar
-la producción de estas cosas valiosas? Algo sin costos de reproducción no puede
+uso producido traducirse en valor de cambio? ¿Dónde está el dinero para pagar
+la producción de estas cosas valiosas? Algo sin costo de reproducción no puede
 tener valor de cambio en el contexto del libre intercambio. Cualquiera que
 quiera una copia puede obtenerla de cualquiera que tenga una. Pero si lo que
 producen no tiene valor de cambio, ¿cómo pueden los demás pares productores ser
 capaces de adquirir los bienes materiales necesarios para su subsistencia?
 
 La red de riqueza existe dentro del contexto de un planeta pobre. Las causas de
-la pobreza no son la falta de cultura o información, sino la explotación
+la pobreza no son la falta de cultura e información, sino la explotación
 directa de la clase productora por las clases dueñas de la propiedad. La fuente
 de la pobreza no son los costos de reproducción sino la renta económica
 extraída, la plusvalía capturada al forzar a los productores a aceptar como
@@ -1033,29 +1035,29 @@ independiente a los medios de producción. Mientras la producción basada en los
 comunes se aplique exclusivamente a los comunes informacionales y el modo de
 producción capitalista siga dominando la producción de la riqueza material, los
 dueños de la propiedad material continuarán capturando la riqueza marginal
-creada como resultado de la productividad de esos comunes informacionales.
-Cualquiera sea el valor de cambio derivado de los comunes informacionales,
-será siempre capturado por los dueños de la propiedad real, que se encuentra
-fuera de los comunes.
+creada como resultado de la productividad de esos comunes informacionales. 
+Cualquiera sea el valor de cambio derivado de los comunes informacionales, será
+siempre capturado por los dueños de la propiedad real, que se encuentra fuera
+de los comunes.
 
 Para que la producción de pares tenga algún efecto sobre la riqueza material en
 general, tiene que operar en el contexto de un sistema completo de bienes
 y servicios, donde tanto los medios de producción físicos como los virtuales
-están disponibles en los comunes productivos. Al establecer una producción de
-pares únicamente en el contexto del patrimonio común de la informacion,
-Benkler está creando una trampa, asegurándose que el valor creado en la
-economía de pares sea apropiado por el privilegio sobre la propiedad.
-Encontramos a Benkler sobre su cabeza y necesitamos redefinir la producción de
-pares para volver a colocarlo sobre sus pies.
+estén disponibles en los comunes productivos. Al establecer una producción de
+pares únicamente en el contexto del patrimonio común de la informacion, Benkler
+está creando una trampa, asegurándose que el valor creado en la economía de
+pares sea apropiado por el privilegio sobre la propiedad.  Encontramos
+a Benkler de cabeza y necesitamos redefinir la producción de pares para volver
+a colocarlo de pie.
 
-No es la producción lo que es inmaterial, en la producción inmaterial no
+No es la producción lo que es inmaterial en la producción inmaterial no
 reciprocitaria. Las computadoras, redes, desarrolladores y sus lugares de
 residencia y trabajo son muy materiales y requieren mantenimiento material. Lo
 que es inmaterial es la distribución. La información digitalizada, sea código
-fuente u obra cultural, puede multiplicarse y enviarse por las redes globales
-en fracciones de segundo, aunque su producción sigue siendo un asunto bastante
+fuente u obra cultural puede multiplicarse y enviarse por las redes globales en
+fracciones de segundo, aunque su producción sigue siendo un asunto bastante
 material. Si la produccion de pares sólo puede producir bienes inmateriales
-como el software, y si los productores no obtienen nada a cambio por esa
+como el software y si los productores no obtienen nada a cambio por esa
 producción, entonces esa forma de 'producción' no puede llamarse modo de
 producción en lo absoluto. En primer término, cualquier modo de producción debe
 dar cuenta de sus insumos materiales o se desvanecerá. Estos insumos deben
@@ -1065,12 +1067,12 @@ y perpetuar su raza', en palabras de Ricardo.[@ricardo-1821]
 
 La producción inmaterial no reciprocitaria no puede hacerlo, ya que para
 producir software libre, cultura libre o sopa libre, los productores deben
-obtener su subsistencia de alguna otra fuente, y por lo tanto la producción
+obtener su subsistencia de alguna otra fuente y por lo tanto la producción
 inmaterial no reciprocitaria no es una forma de producción en lo absoluto, sino
 un caso especial de distribución dentro de otra forma de producción. La
 producción inmaterial no reciprocitaria no es más modo de producción que una
 olla popular o la medicina socializada. Se trata simplemente de un fenómeno
-superestructural que tiene otro modo de producción como base, el capitalismo.
+superestructural que tiene otro modo de producción como base: el capitalismo.
 
 En lugar de poner el énfasis en la distribucion inmaterial de lo que es
 producido por los ejemplos actuales de la produccion de pares, podríamos notar
@@ -1082,28 +1084,28 @@ su labor a un acervo común para beneficio mutuo e individual, ciertamente
 resuena en las viejas propuestas de modos socialistas de producción, donde en
 una comunidad sin clases de trabajadores ('pares') producen colaborativamente
 dentro de una sociedad sin propiedad ('basada en los comunes'). A diferencia de
-la definición inmaterial y no reciprocitaria, esta formulación puede dar cuenta
+la definición inmaterial y no reciprocitaria. Esta formulación puede dar cuenta
 de insumos materiales, especialización del trabajo y medios de formación de
-capital, y tambien se relaciona cercanamente a la topología de las redes de
+capital y tambien se relaciona cercanamente a la topología de las redes de
 pares (P2P) de la cual se deriva el término. Esta definición también describe
 mejor la producción de software libre, Wikipedia y otros trabajos ofrecidos
 como ejemplos de producción de pares.
 
-Aun más, esta formulación está mejor arraigada en la historia, como describen los
-ejemplos históricos de producción basada en comunes, como los terrenos
+Aun más, esta formulación está mejor arraigada en la historia, como describen
+los ejemplos históricos de producción basada en comunes, como los terrenos
 pastoriles. Como la distribución de los activos producidos está tan en la raíz
-de la inequidad de riqueza y poder que perpetuan los sistemas
-explotadores, un modo de producción donde los activos productivos son
-apropiados en común se vuelve potencialmente revolucionario. Sin embargo, si
-esta forma de producción se encapsula en lo inmaterial, si puede ser
-categorizada como inmaterial por definición, entonces sus productores no podrán
-capturar el valor que generen. Esta, vale la pena decirlo, es precisamente
-la razón por la que los profesores de leyes de la Ivy League y otras elites
-prefieren mantener esta limitación. No obstante, si podemos implementar formas
-de compartir independientemente un acervo común de activos materiales y por lo
-tanto expandir el alcance de los comunes para incluir bienes materiales tanto
-como inmateriales, entonces los productores que emplean estos activos en su
-producción pueden retener una mayor parte de su producto.
+de la inequidad de riqueza y poder que perpetuan los sistemas explotadores, un
+modo de producción donde los activos productivos son apropiados en común se
+vuelve potencialmente revolucionario. Sin embargo, si esta forma de producción
+se encapsula en lo inmaterial, si puede ser categorizada como inmaterial por
+definición, entonces sus productores no podrán capturar el valor que generen.
+Ésta, vale la pena decirlo, es precisamente la razón por la que los profesores
+de leyes de la Ivy League y otras elites prefieren mantener esta limitación. No
+obstante, si podemos implementar formas de compartir independientemente un
+acervo común de activos materiales y por lo tanto expandir el alcance de los
+comunes para incluir bienes materiales tanto como inmateriales, entonces los
+productores que emplean estos activos en su producción pueden retener una mayor
+parte de su producto.
 
 La producción de pares es distinta de otros modos de producción. Los
 trabajadores que emplean independientemente un acervo común de activos
@@ -1111,44 +1113,44 @@ productivos es un modo diferente, distinto de los enfoques capitalistas
 y colectivistas. El modo de producción capitalista es explotador por
 naturaleza; su lógica fundamental es capturar la plusvalía del trabajo al negar
 el acceso independiente a los medios de producción. Sin embargo, los modos de
-producción colectivistas pueden ser explotadores también. Por ejemplo en la
+producción colectivistas pueden ser explotadores también. Por ejemplo, en la
 producción cooperativa, en la que los productores emplean colectivamente los
 activos productivos poseídos en común, la distribución de éstos tiende a ser
-injusta entre diferentes cooperativas, permitiendo a unas explotar a otras.
+injusta entre diferentes cooperativas, permitiendo a unas explotar a otras. 
 Puede decirse que las formas colectivistas a gran escala, como los estados
-socialistas o grandes cooperativas diversificadas, eliminan el tipo de
-explotación que puede ocurrir entre cooperativas. Sin embargo las capas de
+socialistas o las grandes cooperativas diversificadas, eliminan el tipo de
+explotación que puede ocurrir entre cooperativas. Sin embargo, las capas de
 coordinación en expansión necesarias para administrar estas grandes
-organizaciones da origen a una clase coordinadora, una nueva clase consistente
+organizaciones dan origen a una clase coordinadora, una nueva clase consistente
 en una élite tecno-administrativa que históricamente ha probado tener la
 capacidad de ser tan parasitaria y severa con los trabajadores como la clase
 capitalista.
 
 Una comunidad de pares productores puede crecer sin desarrollar capas de
-coordinación porque se auto-organiza y produce independientemente, y como tal
+coordinación porque se auto-organiza y produce independientemente y como tal,
 no necesita de capas administrativas además de las requeridas para proveer el
 acervo común de activos productivos. Así, la coordinación se limita a la
 asignación del común entre quienes deseen emplearlo. No es sorprendente que
 este tipo de producción haya aparecido y se haya desarrollado donde el
-patrimonio común es propiedad inmaterial, como el software libre, porque los
+patrimonio común es propiedad inmaterial, como el software libre, ya que los
 bajos costos de reproducción eliminan el problema de la asignación. Por lo
-tanto lo que se necesita para que la producción de pares pueda incorporar
+tanto, lo que se necesita para que la producción de pares pueda incorporar
 bienes materiales a su patrimonio común es un sistema de asignación de activos
-materiales entre pares independientes, que impone solamente una mínima carga de
-coordinación. El comunismo de riesgo es esta forma.
+materiales entre pares independientes, que imponga solamente una mínima carga
+de coordinación. El comunismo de riesgo es esta forma.
 
 ## Comunismo de riesgo
 
-El comunismo de riesgo provee una estructura para que productores
+El comunismo de riesgo provee una estructura para que los productores
 independientes compartan un patrimonio común de activos productivos,
-permitiendo que formas de producción antes asociadas exclusivamente con la creación de valor
-inmaterial, como el software libre, extendido a la esfera material. Parte del
-aparato que permitió a la comunidad del software libre crecer y expandirse fue
-la creación del copyleft, un tipo de licencia que permite la re-utilización del
-software que cubre, mientras las obras derivadas también se licencien bajo los
-mismos términos. Al publicar el software bajo tales licencias, la obra se
-convierte en patrimonio colectivo de todos los desarrolladores de software
-libre.
+permitiendo que las formas de producción antes asociadas exclusivamente con la
+creación de valor inmaterial, como el software libre, se extiendan a la esfera
+material. Parte del aparato que permitió a la comunidad del software libre
+crecer y expandirse fue la creación del copyleft, un tipo de licencia que
+permite la re-utilización del software que cubre, mientras las obras derivadas
+también se licencian bajo los mismos términos. Al publicar el software bajo
+tales licencias, la obra se convierte en patrimonio colectivo de todos los
+desarrolladores de software libre.
 
 La innovación principal del copyleft fue el de volver el sistema de copyright
 contra sí mismo. El vehículo para establecer control con el copyright es la
@@ -1156,16 +1158,16 @@ licencia bajo la cual se publica una obra, que establece los términos en los
 cuales se permite a otros usar el material con copyright. El copyleft secuestra
 efectivamente el aparato existente que refuerza el privilegio sobre los activos
 intelectuales, usando la autoridad concedida por la licencia de copyright para
-garantizar el acceso a todos, y requerir que esta libertad se mantenga. Esto es
-consistente con las leyes de copyright, y depende de ellas, porque sin
-copyright y las instituciones que lo protegen, no podría haber copyleft.
+garantizar el acceso a todos y requerir que esta libertad se mantenga. Esto es
+consistente con las leyes de copyright y depende de ellas, porque sin copyright
+ni las instituciones que lo protegen, no podría haber copyleft.
 
 El comunismo de riesgo requiere que esta misma libertad se extienda a los
 activos productivos materiales. El vehículo para establecer control sobre los
 activos productivos es la compañía. El comunismo de riesgo se basa entonces en
 una forma corporativa: la comuna de riesgo. Emplear una comuna de riesgo para
 compartir propiedad material secuestra el aparato existente que refuerza el
-privilegio, para proteger un patrimonio común de activos productivos disponible
+privilegio para proteger un patrimonio común de activos productivos disponibles
 para el uso de productores independientes.
 
 Legalmente, la comuna de riesgo es una compañía, muy similar a los fondos de
@@ -1176,87 +1178,87 @@ activos productivos que hacen al patrimonio común empleado por una red diversa
 y distribuida geográficamente de pares productores colectivos e independientes.
 La comuna de riesgo no coordina la producción; una comunidad de pares
 productores produce de acuerdo a sus propias necesidades y deseos. El rol de la
-comuna es el de administrar el patrimonio común, haciendo que la propiedad,
-como el alojamiento y las herramientas requeridas, estén disponibles para los
-pares productores.
+comuna es administrar el patrimonio común, haciendo que la propiedad, como el
+alojamiento y las herramientas requeridas, estén disponibles para los pares
+productores.
 
 La comuna de riesgo es la federación de colectivos de trabajadores y de
-trabajadores individuales, y es en sí misma propiedad de cada uno de ellos,
+trabajadores individuales y es en sí misma propiedad de cada uno de ellos,
 donde cada miembro posee sólo una acción. En el caso de los trabajadores que
 trabajen en un colectivo o cooperativa, la propiedad se posee individualmente,
-por cada persona que forma ese colectivo o cooperativa. La propiedad en una
+por cada persona que forme ese colectivo o cooperativa. La propiedad en una
 comuna de riesgo sólo puede ser adquirida por contribuciones de trabajo, no de
 propiedad. Sólo mediante el trabajo se gana una acción de la comuna, no por la
-contribución de tierra, capital o dinero; sólo de trabajo. La propiedad siempre se
-posee en común por todos los miembros de la comuna, y la comuna de riesgo es
+contribución de tierra, capital o dinero; sólo de trabajo. La propiedad siempre
+se posee en común por todos los miembros de la comuna y la comuna de riesgo es
 poseída en partes iguales por todos sus miembros. Así, cada miembro no podría
-nunca acumular una parte desproporcionada de lo recaudado por la propiedad. La propiedad no
-puede concentrarse en pocas manos.
+nunca acumular una parte desproporcionada de lo recaudado por la propiedad. La
+propiedad no puede concentrarse en pocas manos.
 
 La función de la comuna de riesgo es adquirir los activos materiales que sus
 miembros necesitan para vivir y trabajar, como el equipamiento y las
-herramientas, y asignarlas a esos miembros. La comuna adquiere estos bienes cuando
-uno de los miembros lo requiere. Los miembros interesados en utilizar esa
-propiedad ofrecen un acuerdo de renta a la comuna, dando los términos que
-deseen para tomar posesión de los bienes. La comuna emite una serie de bonos para juntar
-los fondos necesarios para la adquisición, que entonces se vuelve colateral
-a los bonistas. El acuerdo de renta se ofrece como una garantía de que los
-fondos estarán disponibles para amortizar los bonos.
+herramientas y asignarlas a esos miembros. La comuna adquiere estos bienes
+cuando uno de los miembros lo requiere. Los miembros interesados en utilizar
+esa propiedad ofrecen un acuerdo de renta a la comuna, dando los términos que
+deseen para tomar posesión de los bienes. La comuna emite una serie de bonos
+para juntar los fondos necesarios para la adquisición, que entonces se vuelve
+colateral a los bonistas. El acuerdo de renta se ofrece como una garantía de
+que los fondos estarán disponibles para amortizar los bonos.
 
 Si esta garantía no se cumple, la propiedad puede liquidarse a favor de los
 bonistas. Esta serie de bonos se venden en una subasta pública. Si la venta se
-realiza, la comuna adquiere la propiedad, y el acuerdo de renta se ejecuta
+realiza, la comuna adquiere la propiedad y el acuerdo de renta se ejecuta
 transfiriendo la posesión al arrendador. La propiedad retorna a la comuna en
-cuanto los arrendadores dejen de necesitarla o son incapaces de cumplir con los
-términos acordados, momento en el que la comuna lo ofrece otra vez en subasta
-a sus miembros, que ofertan por términos de renta nuevos. Si no existiera demanda por el
-activo, este se liquida. Después de que los bonos que fueron emitidos para
-adquirir un activo son cancelados completamente, este se vuelve propiedad
-de la comuna.
+cuanto los arrendadores dejen de necesitarla o sean incapaces de cumplir con
+los términos acordados, momento en el que la comuna lo ofrece otra vez en
+subasta a sus miembros, quienes a su vez ofertan por términos de renta nuevos.
+Si no existiera demanda por el activo, se liquida. Después de que los bonos que
+fueron emitidos para adquirir un activo se cancelan completamente, se vuelve
+propiedad de la comuna.
 
 El ingreso restante de la renta que la propiedad gana se divide en partes
 iguales entre todos los miembros de la comuna y se les paga. Las ganancias de
 la liquidación de la propiedad se dividen del mismo modo. Dado que la renta
 recolectada por la renta de la propiedad se divide igualmente entre los
 miembros de la comuna, aquellos miembros que pagan renta por una propiedad
-igual al monto que recibirían de vuelta, esencialmente usan una parte igual de la
+recibirán igual monto de vuelta, esencialmente usan una parte igual de la
 propiedad colectiva gratis. Lo que pagan en renta por la propiedad es igual
 a la renta que reciben como miembros de la comuna. Los miembros que alquilan
-por sobre su parte per-cápita de la propiedad colectiva pagarán más,
+por sobre su parte per-cápita de la propiedad colectiva pagarán más
 y presumiblemente elegirán pagar porque están empleando la propiedad como un
-activo productivo, y por lo tanto ganando lo suficiente para pagar.
+activo productivo y por lo tanto, ganando lo suficiente para pagar.
 
-En cambio, los miembros que utilicen menos que su parte per-cápita reciben
-más en pago de lo que pagan en renta, es decir se les premia por no acumular
-propiedad. Las actividades principales de la comuna de riesgo, administrar
-bonos y acuerdos de renta, no imponen un gran nivel de coordinación y, como las
+En cambio, los miembros que utilicen menos que su parte per-cápita reciben más
+en pago de lo que pagan en renta, es decir se les premia por no acumular
+propiedad. Las actividades principales de la comuna de riesgo: administrar
+bonos y acuerdos de renta, no imponen un gran nivel de coordinación y como las
 redes informáticas que administran la asignación de bienes inmateriales, son
 actividades muy bien dispuestas para la automatización computarizada. Podrían
 existir muchas comunas de riesgo y comunidades más estables y sostenibles de
 productores basados en los comunes.
 
 Cualquier cambio que puede producir una sociedad más equitativa depende de un
-cambio previo en el modo de producción que incrementa la parte de la riqueza retenida
-por los trabajadores. El cambio en el modo de producción debe ocurrir primero.
-Este cambio no puede alcanzarse políticamente, por voto, lobby, militancia
-o violencia revolucionaria, no mientras los dueños de la propiedad tengan más
-riqueza para usar en prevenir cualquier cambio financiando a sus propios
-candidatos, lobbistas, militantes y en última instancia, desarrollando una
-mayor capacidad para la violencia contrarrevolucionaria. La sociedad no puede
-ser cambiada por una huelga, no mientras los dueños de la propiedad tengan más
-riqueza acumulada para sostenerse durante las interrupciones de la producción.
-Ni siquiera la negociación colectiva puede funcionar, dado que como los dueños de la
-propiedad poseen el producto, establecen su precio y por lo tanto
-cualquier ganancia en salarios se pierde en el aumento de precios.
+cambio previo en el modo de producción que incrementa la parte de la riqueza
+retenida por los trabajadores. El cambio en el modo de producción debe ocurrir
+primero. Este cambio no puede alcanzarse políticamente, por voto, lobby,
+militancia o violencia revolucionaria. No mientras los dueños de la propiedad
+tengan más riqueza para usar en prevenir cualquier cambio financiando a sus
+propios candidatos, lobbistas, militantes y en última instancia, desarrollando
+una mayor capacidad para la violencia contrarrevolucionaria. La sociedad no
+puede cambiarse por una huelga, no mientras los dueños de la propiedad tengan
+más riqueza acumulada para sostenerse durante las interrupciones de la
+producción. Ni siquiera la negociación colectiva puede funcionar, dado que
+como los dueños de la propiedad poseen el producto, establecen su precio y por
+lo tanto cualquier ganancia en salarios se pierde en el aumento de precios.
 
 El comunismo de riesgo no debe entenderse como una propuesta para una nueva
 forma de sociedad. Es una forma organizacional para la lucha social. Las
 comunas de riesgo no intentan reemplazar los sindicatos, los partidos
-políticos, ONGs y otros vehículos potenciales para el conflicto de clase, sino
-complementarlos, para inclinar la balanza económica en favor de los
+políticos, ONGs ni otros vehículos potenciales para el conflicto de clase. Sino,
+complementarlos para inclinar la balanza económica en favor de los
 representantes de los intereses de clase de los trabajadores. Sin el comunismo
-de riesgo, estas otras formas organizadas están forzadas a trabajar siempre
-en oposición a bolsillos mucho más profundos y por lo tanto condenadas
+de riesgo, estas otras formas organizadas están forzadas a trabajar siempre en
+oposición a bolsillos mucho más profundos y por lo tanto condenadas
 a cooptación, fracaso y retroceso infinitos. La única forma es detener la
 aplicación de nuestro trabajo a la propiedad privada de los no-productores y en
 cambio formar un patrimonio común de activos productivos.
@@ -1278,26 +1280,25 @@ Tienen un mundo por ganar.
 
 ## El manifiesto de la red telecomunista
 
-_Derivado de la Sección 2 del Manifiesto del Partido Comunista. Marx y Engels,
+_Derivado de la Sección 2 del Manifiesto del Partido Comunista; Marx y Engels,
 1948._ [@manifesto-1848]
 
 _Revisado utilizando el texto del Manifiesto Comunista en castellano._ [^100]
 
 Ya dejamos dicho que el primer paso de la revolución obrera será ~~la
-exaltación del proletariado al Poder,~~ **el desarrollo de una red de
-empresas donde el pueblo produzca por el valor social mismo y lo comparta entre
-iguales y la construcción y expansión económica de estas para elevar al
-proletariado como la clase económicamente dominante. Sólo cuando los
-trabajadores controlen su propia producción será alcanzada** la conquista de la
-democracia.
+exaltación del proletariado al Poder,~~ **el desarrollo de una red de empresas
+donde el pueblo produzca por el valor social mismo y lo comparta entre iguales
+y la construcción y expansión económica de estas para elevar al proletariado
+como la clase económicamente dominante. Sólo cuando los trabajadores controlen
+su propia producción será alcanzada** la conquista de la democracia.
 
 El proletariado se valdrá del Poder **Económico** para ir despojando
 paulatinamente a la burguesía de todo el capital, de todos los instrumentos de
 la producción, **de**centralizándolos ~~en manos del Estado, es decir, del
-proletariado organizado como clase gobernante,~~ **en un stock común
-controlado directamente por aquellos que lo utilizan para producir,**
-y procurando fomentar por todos los medios y con la mayor rapidez posible las
-energías productivas.
+proletariado organizado como clase gobernante,~~ **en un stock común controlado
+directamente por aquellos que lo utilizan para producir,** y procurando
+fomentar por todos los medios y con la mayor rapidez posible las energías
+productivas.
 
 Claro está que, al principio, esto sólo podrá llevarse a cabo mediante una
 ~~acción despótica sobre~~ **reestructuración de nuestras empresas a** la
@@ -1307,23 +1308,23 @@ a nuestros fines**, en el transcurso del movimiento serán un gran resorte
 propulsor y de las que no puede prescindiese como medio para transformar todo
 el régimen de producción vigente.
 
-Estas medidas no podrán ser las mismas, naturalmente, en ~~todos los
-países~~ **todas las comunidades**.
+Estas medidas no podrán ser las mismas, naturalmente, en ~~todos los países~~
+**todas las comunidades**.
 
 Para l**a**s más progresiv**a**s mencionaremos unas cuantas, susceptibles, sin
 duda, de ser aplicadas con carácter más o menos general, según los casos.
 
-1. ~~Expropiación~~ **Mutualización** de la propiedad ~~inmueble~~
-   **sobre todos los medios de producción** y aplicación de la renta ~~del
-   suelo~~ a los gastos ~~públicos~~ **mutuales**.
+1. ~~Expropiación~~ **Mutualización** de la propiedad ~~inmueble~~ **sobre
+   todos los medios de producción** y aplicación de la renta ~~del suelo~~
+   a los gastos ~~públicos~~ **mutuales**.
 
 2. ~~Fuerte impuesto progresivo.~~ **Establecimiento de un ingreso
    garantizado en la forma de dividendos pagados a cada miembro de la
    comunidad, igual en cantidad a la parte per cápita de toda la renta
    mutualmente recolectada.**
 
-3. ~~Abolición del derecho de herencia.~~ **Derecho a la membresía para
-   todos aquellos que contribuyan con su labor, y sola compensación por esta
+3. ~~Abolición del derecho de herencia.~~ **Derecho a la membresía para todos
+   aquellos que contribuyan con su labor, y sola compensación por esta
    contribución de labor, no por herencia, compra o transferencia de ningún
    tipo.**
 
@@ -1332,9 +1333,9 @@ duda, de ser aplicadas con carácter más o menos general, según los casos.
    las empresas de los miembros, y en su lugar, toma de posesión de sus
    necesidades productivas por alquiler al stock común.**
 
-5. ~~Centralización del crédito en el Estado por medio de un Banco nacional
-   con capital del Estado y régimen de monopolio.~~ **Establecimiento de un
-   mercado mutual de bonos, donde los bonos son subastados con el propósito de
+5. ~~Centralización del crédito en el Estado por medio de un Banco nacional con
+   capital del Estado y régimen de monopolio.~~ **Establecimiento de un mercado
+   mutual de bonos, donde los bonos son subastados con el propósito de
    construir el stock común de activos productivos.**
 
 6. ~~Nacionalización de los transportes.~~ **Desarrollo de los recursos
@@ -1359,21 +1360,21 @@ duda, de ser aplicadas con carácter más o menos general, según los casos.
 
 10. ~~Educación pública y gratuita de todos los niños. Prohibición del trabajo
     infantil en las fábricas bajo su forma actual.  Régimen combinado de la
-    educación con la producción material, etc.~~ **Establecimiento de redes
-    de compartición de conocimiento y capacidades y sistemas de apoyo para
-    todos los miembros, y provisión de oportunidades para el desarrollo de
+    educación con la producción material, etc.~~ **Establecimiento de redes de
+    compartición de conocimiento y capacidades y sistemas de apoyo para todos
+    los miembros, y provisión de oportunidades para el desarrollo de
     habilidades de contribución y producción.**
 
 Tan pronto como, en el transcurso del tiempo, hayan desaparecido las
-diferencias de clase y toda la producción esté ~~concentrada~~
-**distribuida** en manos de la sociedad, el Estado perderá todo carácter
-político. El Poder político no es, en rigor, más que el poder organizado de una
-clase para la opresión de la otra. El proletariado se ve forzado a organizarse
-como clase para luchar contra la burguesía; la ~~revolución~~
-**auto-organización** le lleva al Poder; mas tan pronto como desde él, como
-clase gobernante, derribe por la fuerza el régimen vigente de producción, con
-éste hará desaparecer las condiciones que determinan el antagonismo de clases,
-las clases mismas, y, por tanto, su propia soberanía como tal clase.
+diferencias de clase y toda la producción esté ~~concentrada~~ **distribuida**
+en manos de la sociedad, el Estado perderá todo carácter político. El Poder
+político no es, en rigor, más que el poder organizado de una clase para la
+opresión de la otra. El proletariado se ve forzado a organizarse como clase
+para luchar contra la burguesía; la ~~revolución~~ **auto-organización** le
+lleva al Poder; mas tan pronto como desde él, como clase gobernante, derribe
+por la fuerza el régimen vigente de producción, con éste hará desaparecer las
+condiciones que determinan el antagonismo de clases, las clases mismas, y, por
+tanto, su propia soberanía como tal clase.
 
 Y a la vieja sociedad burguesa, con sus clases y sus antagonismos de clase,
 sustituirá una asociación en que el libre desarrollo de cada uno condicione el
