@@ -352,5 +352,5 @@ desempeñarse mejor mientras resuelve una cantidad de problemas sistémicos que
 plagan la actual forma de producción dominante. La tarea de los movimientos de
 trabajo cognitivo y de todo tipo, es crear una nueva hegemonía y una nueva
 alianza basasa en los comunes para el cambio social, que desafíe la dominación
-del capital, su forma en mercancías y la destrucción biosférica que es
+del capital, su forma-mercancía y la destrucción biosférica que es
 inherente al mismo.
