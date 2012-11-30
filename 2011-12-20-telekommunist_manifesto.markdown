@@ -4,9 +4,6 @@ title: El Manifiesto Telecomunista
 author: Dmitry Kleiner
 ---
 
-Dmitry Kleiner
---------------
-
 El Manifiesto Telecomunista
 ===========================
 
@@ -69,22 +66,22 @@ a través del Institute of Network Cultures, como editor.
 
 El Manifiesto Telecomunista es en gran medida un cut-up, un collage de textos
 que produje y co-produje durante los últimos años. Incorpora pasajes
-significativos de 'Copyright, Copyleft y los Anti Comunes Creativos' producido
-en cooperación con Joanne Richardson y publicado originalmente en 'Anna Nimmus'
+significativos de "Copyright, Copyleft y los Anti Comunes Creativos" producido
+en cooperación con Joanne Richardson y publicado originalmente en "Anna Nimmus"
 en el sitio web homónimo. Muchas partes del texto concerniente a la
-comercialización de Internet fueron tomadas de 'Infocercamiento 2.0',
+comercialización de Internet fueron tomadas de "Infocercamiento 2.0",
 co-escrito con Brian Wyrick y publicado originalmente en Mute Magazine. También
 hay que dar crédito a los editores de Mute Magazine Josephine Berry Slater
-y Anthony Iles, por su trabajo en 'Infocercamiento 2.0' y 'Copyjustright,
-Copyfarleft', que también han sido usados aquí.
+y Anthony Iles, por su trabajo en "Infocercamiento 2.0" y "Copyjustright,
+Copyfarleft", que también han sido usados aquí.
 
 
 ## Introducción
 
 En el prefacio a Contribución a la Crítica de la Economía Política, Marx
-argumenta que, 'en un punto del estado de desarrollo, las fuerzas productivas
+argumenta que, "en un punto del estado de desarrollo, las fuerzas productivas
 de la sociedad entran en conflicto con las relaciones de producción
-existentes'.[@marx-1859] Lo que es posible en la era de la información entra
+existentes".[@marx-1859] Lo que es posible en la era de la información entra
 en conflicto directo con lo que es permisible. Editores, productores
 cinematográficos y la industria de las telecomunicaciones conspiran con los
 legisladores para embotellar y sabotear a las redes libres, para impedir que la
@@ -102,10 +99,10 @@ o la Internet como la conocemos deberá desaparecer o el capitalismo lo hará.
 ¿Nos arrojará el capitalismo hacia la edad media de la red, a CompuServe, los
 teléfonos móviles y la TV por cable antes de permitir que las comunicaciones
 entre pares nos lleven a una nueva sociedad? Sí, si pueden. Marx concluye que
-'ningún orden social perece antes que todas las fuerzas productivas que entren
+"ningún orden social perece antes que todas las fuerzas productivas que entren
 en su interior se hayan desarrollado; y nuevas y más altas relaciones de
 producción nunca aparecen antes que las condiciones materiales de su existencia
-hayan madurado en el útero mismo de la antigua sociedad'.[@marx-1859]
+hayan madurado en el útero mismo de la antigua sociedad".[@marx-1859]
 
 El Manifiesto Telecomunista es una exploración del conflicto de clases y la
 propiedad, nacido de la comprensión de la primacía de la capacidad económica en
@@ -128,18 +125,18 @@ clase en la era de las telecomunicaciones internacionales, la migración global
 y la emergencia de la economía de la información. El objetivo de este texto es
 introducir las motivaciones políticas de Telekommunisten, incluyendo un croquis
 del marco teorético básico en el que se enraiza. A través de dos secciones
-interrelacionadas, 'El comunismo de pares contra el capitalismo
-cliente-servidor' y 'Contribución a la Crítica de la Cultura Libre', el
+interrelacionadas, "El comunismo de pares contra el capitalismo
+cliente-servidor" y "Contribución a la Crítica de la Cultura Libre", el
 manifiesto cubre la economía política de las topologías de red y la producción
-cultural, respectivamente. 'El comunismo de pares...' se enfoca en la
+cultural, respectivamente. "El comunismo de pares..." se enfoca en la
 comercialización de Internet y la emergencia de la producción distribuida por
 red. Propone una nueva forma de organización como vehículo de la lucha de
 clases: el comunismo de riesgo. La sección termina con el famoso programa
 delineado por Marx y Engels en su Manifiesto Comunista, adaptado en un
 manifiesto por una sociedad en red.
 
-Construyendo sobre la sección previa, en 'Contribución a la Crítica de la
-Cultura Libre', el manifiesto continúa con la historia y las falsas
+Construyendo sobre la sección previa, en "Contribución a la Crítica de la
+Cultura Libre", el manifiesto continúa con la historia y las falsas
 concepciones del copyright, el movimiento del Software Libre, el disenso
 anticopyright/copyleft y la economía política del software y la cultura libres.
 El reto de extender los logros del software libre a la cultura libre se aborda
@@ -201,7 +198,7 @@ no-nato del futuro. Ni los innovadores, ni ninguno de los trabajadores
 futuros en las organizaciones e industrias que crean, son capaces de retener el
 valor de su contribución.
 
-Este valor 'no retenido' forma la riqueza que se utiliza para capturar la
+Este valor "no retenido" forma la riqueza que se utiliza para capturar la
 siguiente ola de innovación. Esta riqueza capturada es aplicada por sus dueños
 privados al control político, para imponer los intereses de los dueños de la
 propiedad a la sociedad a expensas de los intereses de los trabajadores. Para
@@ -419,7 +416,7 @@ la forma de nuestra propia opresión.
 La cabeza de la intervención estatal en la economía de red es la coacción de la
 propiedad. La propiedad es por naturaleza antagónica de la libertad. La
 propiedad es la habilidad de controlar bienes productivos a distancia, la
-habilidad de 'adueñarse' de algo que es puesto en uso productivo por otra
+habilidad de "adueñarse" de algo que es puesto en uso productivo por otra
 persona. La propiedad hace posible la subyugación de individuos y comunidades.
 Donde la propiedad es soberana, no puede haber libertad alguna bajo su dominio.
 Los dueños de la propiedad escasa pueden negar la vida al no otorgar el acceso
@@ -456,7 +453,7 @@ propiedad; en última instancia, este ingreso se deriva de la porción que el
 terrateniente reclama de lo que producen los inquilinos como propio. Esto no se
 refiere solamente a los terratenientes, la renta y la propiedad en el sentido
 edilicio.  Mientras nuestra habilidad para proveernos subsistencia material
-requiera acceso a la propiedad que forma nuestros 'medios de producción',
+requiera acceso a la propiedad que forma nuestros "medios de producción",
 debemos acordar transferir una porción de lo que producimos a aquellos que nos
 permiten el acceso a tales medios, o de lo contrario no podríamos vivir.
 
@@ -467,9 +464,9 @@ en su _Sobre los principios de la economía política y los impuestos_ de
 1817,[@ricardo-1821] y esta es la base de negociación que nos encontramos todos
 aquellos que nacimos en un mundo enteramente apropiado por otros.
 
-En su 'Ensayo sobre los beneficios', Ricardo argumenta: 'El interés del
+En su "Ensayo sobre los beneficios", Ricardo argumenta: "El interés del
 terrateniente siempre se opone al interés de cualquier otra clase de la
-comunidad'.[@ricardo-1815] Este análisis no se basa en los medios sociales,
+comunidad".[@ricardo-1815] Este análisis no se basa en los medios sociales,
 como la distinción general entre las clases altas y bajas, sino en la relación
 con los factores de la producción, tierra, trabajo o capital. Este modelo
 ricardiano provee una base lógica para la idea de que las clases,
@@ -482,14 +479,14 @@ ofrece una comprensión de la fuente de la estratificación de clase.
 Como representante de la clase capitalista emergente, Ricardo no intentaba que su
 crítica de la renta sobre la tierra se extendiera al ingreso ganado por los
 capitalistas. Los comentaristas críticos como William Thompson y Thomas
-Hodgsking, los más reconocidos 'socialistas ricardianos', hicieron exactamente
+Hodgsking, los más reconocidos "socialistas ricardianos", hicieron exactamente
 eso, argumentando que el lucro obtenido por los capitalistas es tan explotador
 e inmerecido como la renta de los terratenientes, y que los intereses de los
 trabajadores se oponen a los intereses tanto de los terratenientes como de los
-capitalistas. De su trabajo se desprende la crítica del 'capitalismo', un
+capitalistas. De su trabajo se desprende la crítica del "capitalismo", un
 término acuñado como analogía del feudalismo.
 
-El socialismo y todos los demás movimientos de 'la izquierda', comienzan en
+El socialismo y todos los demás movimientos de "la izquierda", comienzan en
 este conflicto de clase. La creencia de que los medios de producción deben ser
 propiedad de los productores ya era común entre los socialistas de la época,
 notablemente entre los que apoyaban al reformista social Robert Owen y el
@@ -500,30 +497,30 @@ clero y campesino, proveyó una sólida base intelectual que permitió que
 emergiera un socialismo más científico desde esas raíces utópicas.
 
 La renta permite a los dueños de la propiedad escasa llevar a los trabajadores
-desposeídos al nivel de subsistencia. Como lo explica Ricardo, 'el precio
+desposeídos al nivel de subsistencia. Como lo explica Ricardo, "el precio
 natural del trabajo es aquel que es necesario para permitir a los trabajadores,
-uno tras otro, subsistir y perpetuar su raza'.[@ricardo-1821] A veces se
+uno tras otro, subsistir y perpetuar su raza".[@ricardo-1821] A veces se
 proclama que esto puede ser refutado por la diferencia entre el precio
-'natural' teórico y el precio del trabajo en el mercado real, pero tal
+"natural" teórico y el precio del trabajo en el mercado real, pero tal
 argumento es simplemente una equivocación, explica Ricardo, porque el precio
 del mercado fluctúa. La subsistencia no puede tomarse como el mínimo
 indispensable que requiere la supervivencia y la reproducción. Aun en tiempos
 de Ricardo, muchos trabajadores no estaban en posición de morirse si ganaban un
 centavo menos.  Antes bien los trabajadores, por su propia definición, son
 incapaces de ganar lo suficiente para hacer algo más que vivir y luchar por
-vivir de acuerdo a los estándares aceptables de su comunidad. Estos 'estándares
-aceptables' se establecen en términos canónicos de gusto y decencia
+vivir de acuerdo a los estándares aceptables de su comunidad. Estos "estándares
+aceptables" se establecen en términos canónicos de gusto y decencia
 establecidos por una elite económica depredadora.
 
 Thorstein Veblen, un economista y sociólogo noruego-estadounidense cuyo trabajo
 dispone las bases del movimiento institucionalista económico, argumenta que, en
 una sociedad de clases, todos excepto los más ricos se ven compelidos
 a disponer prácticamente de su ganancia completa para vivir de acuerdo a los
-estándares comunitarios de respetabilidad, en lo que él llama 'consumo
-conspicuo' y 'derroche conspicuo'. No participar en el consumo conspicuo
+estándares comunitarios de respetabilidad, en lo que él llama "consumo
+conspicuo" y "derroche conspicuo". No participar en el consumo conspicuo
 significa enfrentarse a la exclusión social y aun más reducir los prospectos de
-movilidad ascendente.[@thorstein-2010] 'Fracasar en consumir en cantidad
-y calidad debida se convierte en una marca de inferioridad y desmerecimiento',
+movilidad ascendente.[@thorstein-2010] "Fracasar en consumir en cantidad
+y calidad debida se convierte en una marca de inferioridad y desmerecimiento",
 argumenta Veblen en _La teoría de clase ociosa_, de 1889. [@thorstein-2010]
 
 Los trabajadores tienen algo más que fuerzas culturales trabajando contra su
@@ -534,15 +531,15 @@ a menudo como resultado del crecimiento de la competencia monetaria por
 ubicaciones y el incremento de la renta sobre la tierra. Esto no es ningún
 secreto para los negociadores capitalistas y sus colaboradores en el sector
 público. Reducir los salarios reales por la inflación como alternativa a la
-reducción salarial funciona por la 'ilusión del dinero'. Como escribe John
+reducción salarial funciona por la "ilusión del dinero". Como escribe John
 Maynard Keynes, tal vez el economista más importante de su tiempo y el fundador
-de la 'macroeconomía' moderna, en su libro de 1936 _La teoría general del
-empleo, el interés y el dinero_, 'a veces se dice que sería ilógico que los
+de la "macroeconomía" moderna, en su libro de 1936 _La teoría general del
+empleo, el interés y el dinero_, "a veces se dice que sería ilógico que los
 trabajadores resistan una reducción del salario monetario pero no lo hagan
 frente a una reducción del salario real \[...\] la experiencia demuestra que de
-hecho es de esta manera como se comporta la mano de obra'. [@keynes-2002]
-Daniel Bell pone en claro este proceso en su paper 'La subversión de la
-negociación colectiva'. Bell muestra que estos casos no llevan a un cambio en
+hecho es de esta manera como se comporta la mano de obra". [@keynes-2002]
+Daniel Bell pone en claro este proceso en su paper "La subversión de la
+negociación colectiva". Bell muestra que estos casos no llevan a un cambio en
 el nivel general de la riqueza real; en la mayoría de los casos, los
 trabajadores que recibieron un aumento salarial no incrementaron su parte de la
 riqueza, sino que terminaron pagando precios más altos. [@bell-1960]
@@ -558,16 +555,16 @@ la fuerza, felizmente provista por el Estado a los dueños de la propiedad.
 Sin un medio para forzar a aquellos que ponen la propiedad en uso productivo
 a compartir el producto de su trabajo con el dueño ausente y ocioso, ese
 propietario no podría ganarse la vida, y menos acumular más propiedad. Como
-diría el revolucionario marxista alemán Ernest Mandel en su 'El materialismo
-histórico y el Estado capitalista', 'sin la violencia del estado capitalista,
-no hay capitalismo seguro'.[@mandel-1981] El propósito de la propiedad es
+diría el revolucionario marxista alemán Ernest Mandel en su "El materialismo
+histórico y el Estado capitalista", "sin la violencia del estado capitalista,
+no hay capitalismo seguro".[@mandel-1981] El propósito de la propiedad es
 asegurar que la clase desapropiada exista para producir riqueza disfrutada por
 la clase propietaria. La institución de la propiedad no beneficia a los
 trabajadores. Esto no es lo mismo que decir que los trabajadores individuales
 no puedan convertirse en propietarios, sino que al hacerlo dejan de pertenecer
 a su clase. Las historias de éxito individual no cambian el sistema de clases.
 Como dijo el filósofo político canadiense Gerald Cohen, proponente del marxismo
-analítico, 'quiero elevarme con mi clase, ¡no sobre ella!' [@cohen-1988;
+analítico, "quiero elevarme con mi clase, ¡no sobre ella!" [@cohen-1988;
 @cohen-2009]
 
 La situación global actual confirma que los trabajadores, como clase, no son
@@ -605,8 +602,8 @@ públicas, investigación militar y la sociedad civil. Fue promovida por una
 industria casera de proveedores de Internet pequeños e independientes, que eran
 capaces de ganarse unos pesos al proveer acceso a la red construida y financiada por
 el Estado. Mientras tanto, el mundo corporativo pujaba por una idea muy
-diferente sobre la supercarretera de la información, produciendo 'servicios
-online' monolíticos y centralizados como CompuServe, Prodigy y AOL.  Lo que
+diferente sobre la supercarretera de la información, produciendo "servicios
+online" monolíticos y centralizados como CompuServe, Prodigy y AOL.  Lo que
 hizo a estos servicios corporativos diferentes de Internet fue que eran
 servicios centralizados a los que los usuarios se conectaban directamente,
 mientras que la Internet es una red de pares (P2P) donde cada dispositivo podía
@@ -676,21 +673,21 @@ Wikipedia dice que:
 > enfatizan la colaboración en línea y la compartición entre
 > usuarios.[@wikipedia-web20]
 
-El uso de la palabra 'supuesta' es digna de notarse. Wikipedia, debería
+El uso de la palabra "supuesta" es digna de notarse. Wikipedia, debería
 saberlo, siendo el más amplio trabajo colectivamente editado de la historia. Al
 contrario de la mayoría de los miembros de la generación 2.0, Wikipedia es
 controlada por una fundación sin fines de lucro, obtiene ingresos sólo por
 donación y lanza su contenido bajo una licencia copyleft. Dice mucho que el
-artículo en la Wikipedia continúa con: '\[La Web 2.0\] se ha vuelto una (aunque
+artículo en la Wikipedia continúa con: "\[La Web 2.0\] se ha vuelto una (aunque
 mal definida y a menudo criticada) palabra de moda \[buzzword\] popular entre
-ciertas comunidades técnicas y de marketing'.
+ciertas comunidades técnicas y de marketing".
 
 La comunidad del software libre ha tendido a sospechar, si no a desdeñar del
 todo, a la moda 2.0. Tim Berners-Lee, el creador de la World Wide Web, desechó
-el término diciendo que 'la Web 2.0 es por supuesto una pieza de argot, nadie
-sabe realmente qué significa'. Continua diciendo que 'significa usar los
+el término diciendo que "la Web 2.0 es por supuesto una pieza de argot, nadie
+sabe realmente qué significa". Continua diciendo que "significa usar los
 estándares que fueron producidos por todas estas personas que traban en la Web
-1.0'.[@developer-2006] En realidad, entonces, no hay ni una Web 1.0 ni una
+1.0".[@developer-2006] En realidad, entonces, no hay ni una Web 1.0 ni una
 2.0.  Hay solo un desarrollo continuo de aplicaciones en línea que no puede
 dividirse claramente.
 
@@ -732,27 +729,27 @@ diferencia los roles de la comunidad/usuario más específicamente. Esto incluye
 al profesional, al amateur y al usuario (más precisamente, al usuario final).
 Los roles del profesional y el usuario eran, siguiendo a Graham, bien
 entendidos en la Web 1.0, pero el amateur no tenía un lugar bien
-definido.[@graham-2005] Como Graham describe en 'Qué pueden aprender los
-negocios del Código Abierto', el amateur ama trabajar, sin preocuparse por
+definido.[@graham-2005] Como Graham describe en "Qué pueden aprender los
+negocios del Código Abierto", el amateur ama trabajar, sin preocuparse por
 compensación o reconocimiento alguno por su trabajo. En desarrollo, el amateur
 contribuye al software de código abierto mientras que el profesional es pagado
 por su trabajo propietario.[@graham-2005a]
 
-La caracterización que hace Graham del 'amateur' tiene una extraña semejanza
+La caracterización que hace Graham del "amateur" tiene una extraña semejanza
 a Si tuviera un circo, de Dr. Seuss, donde el joven Morris McGurk dice al staff
 del imaginario Circo McGurkus:
 
 > Mis obreros aman trabajar.\
-> Dicen, '¡Trabájanos! ¡Por favor hazlo!\
+> Dicen, "¡Trabájanos! ¡Por favor hazlo!\
 > Trabajaremos y trabajaremos tantas sorpresas\
-> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!' [@seuss-1956]
+> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!" [@seuss-1956]
 
-Y mientras el término 'Web 2.0' puede no significar nada para Tim Berners-Lee,
+Y mientras el término "Web 2.0" puede no significar nada para Tim Berners-Lee,
 quien ve a las innovaciones recientes como nada más que un desarrollo
 continuado de la Web, para los capitalistas de riesgo, que como Morris McGurk
 sueñan con trabajadores incansables produciendo contenidos infinitos sin
 demandar un salario, suena estupendo. Y en efecto, de YouTube a Flickr
-a Wikipedia, verdaderamente 'no verías la mitad si tuvieras cuarentas ojos'.
+a Wikipedia, verdaderamente "no verías la mitad si tuvieras cuarentas ojos".
 Tim Berners-Lee tiene razón. No hay nada, desde un punto de vista técnico o del
 usuario en la Web 2.0 que no tenga sus raíces en, y no sea un desarrollo
 natural de, la generación temprana de la Web. La tecnología asociada con la
@@ -762,7 +759,7 @@ crecimiento de los sitios 2.0.
 
 Internet siempre ha sido sobre compartir entre usuarios. En efecto Usenet, el
 sistema de mensajería distribuida, ha estado operando desde 1979. Desde
-entonces, Usenet ha estado almacenando discusiones, periodismo 'amateur'
+entonces, Usenet ha estado almacenando discusiones, periodismo "amateur"
 y compartición de fotos y archivos. Como la Internet, es un sistema distribuido
 no apropiado ni controlado por nadie. Es esta cualidad, la falta de control
 y apropiación central, la que diferencia servicios como Usenet de la Web 2.0.
@@ -771,9 +768,9 @@ Si Web 2.0 significa algo, este significado descansa sobre la racionalidad del
 capital de riesgo. La Web 2.0 representa el retorno de la inversión en
 emprendimientos de Internet. Despúes de la decadencia puntocom (el fin real de
 la Web 1.0), aquellos que buscaban inversiones en dólares necesitaban una nueva
-razón para invertir en emprendimientos en línea. 'Constrúyelo y ellos vendrán',
+razón para invertir en emprendimientos en línea. "Constrúyelo y ellos vendrán",
 la actitud dominante del boom puntocom de los '90, junto con la delirante
-'nueva economía' ya no eran atractivos despúes de que tantos emprendimientos
+"nueva economía" ya no eran atractivos despúes de que tantos emprendimientos
 fallaran.  Construir infraestructura y financiar la capitalización real ya no
 era lo que los inversores buscaban. Capturar el valor creado por otros, sin
 embargo, probó ser una propuesta más atractiva.
@@ -805,7 +802,7 @@ podés publicitarte efectivamente.
 
 El principal triunfo de una compañía de la Web 2.0, entonces, viene de su
 relación con la comunidad. Más específicamente, el éxito viene de la capacidad
-de la compañía para 'aprovechar la inteligencia colectiva', como dice Tim
+de la compañía para "aprovechar la inteligencia colectiva", como dice Tim
 O'Reilly. [@oreilly-2007] Desde esta perspectiva, las compañías de la Web 1.0
 eran demasiado monolíticas y unilaterales en su acercamiento al contenido. Las
 historias de éxito en la transición de la Web 1.0 a 2.0 se basaron en su
@@ -816,7 +813,7 @@ la comunidad mientras se mantenía como la ubicación centralizada para
 encontrarlo. eBay permite que la comunidad venda sus bienes al tiempo que es
 dueño del mercado para esos bienes. Amazon, aun vendiendo los mismos productos
 que otros sitios, tuvo éxito al permitir que la comunidad participe en el
-'flujo' alrededor de sus productos.
+"flujo" alrededor de sus productos.
 
 Debido a que los capitalistas que invierten en emprendimientos de la Web 2.0
 usualmente no financian la capitalización temprana, su comportamiento es
@@ -833,7 +830,7 @@ utilizan.  Con el énfasis puesto en el contenido creado por la comunidad y la
 compartición, es muy fácil pasar por alto preguntas acerca de la propiedad del
 contenido y la habilidad para monetizar su valor. Estas preguntas son rara vez
 hechas por el usuario. Son parte de la letra chica en los Términos de Servicio
-de Facebook, o en el 'flickr.com' en la URL de sus fotos. La propiedad rara vez
+de Facebook, o en el "flickr.com" en la URL de sus fotos. La propiedad rara vez
 es un problema para la comunidad, y es un pequeño precio a pagar por el uso de
 esas aplicaciones maravillosas. Ya que la mayoría de los usuarios no tienen
 acceso a medios alternativos para producir y publicar su propio contenido, son
@@ -843,7 +840,7 @@ Debe agregarse que muchos proyectos de código abierto pueden citarse como las
 innovaciones clave para el desarrollo de la Web 2.0: software libre como Linux,
 Apache, PHP, Ruby, Python, etc. son la columna vertebral de la Web 2.0 y de la
 Web en sí misma. Pero existe una falla fundamental en todos estos proyectos en
-términos de a lo que O'Reilly refiere como las 'competencias principales' de
+términos de a lo que O'Reilly refiere como las "competencias principales" de
 las compañías de la Web 2.0, es decir el control sobre fuentes de datos únicas,
 difíciles de recrear, enriquecidas por el uso de la gente y el aprovechamiento
 de la inteligencia colectiva que atraen. [@oreilly-2007] Permitir a la
@@ -857,7 +854,7 @@ de la Web 2.0 necesita crear mecanismos para compartir y colaborar controlados
 centralmente. La falta de control central que poseen Usenet y otras tecnologías
 controladas por pares es, en el contexto de la Web 2.0, una falla fundamental.
 Solo benefician a sus usuarios, no a los inversores ausentes, porque no son
-'poseídas'. Así, porque la Web 2.0 está financiada por el viejo capitalismo,
+"poseídas". Así, porque la Web 2.0 está financiada por el viejo capitalismo,
 Usenet está practicamente olvidada. Mientras YouTube vale mil millones de
 dólares, PeerCast, una innovadora red de streaming de video P2P que existe
 desde hace varios años más que YouTube, es virtualmente desconocida.
@@ -878,7 +875,7 @@ prominencia, muchos grupos de noticias permanecen en actividad. Por ejemplo, la
 Iglesia de los SubGenios, alt.slack, continua teniendo importancia como un foro
 social para la popular religión de burla con sede en EEUU. La falta de una infraestructura
 central también conlleva una falta de control central, significando la ausencia
-de censura, a menudo un problema de la propiedad privada de las 'comunidades',
+de censura, a menudo un problema de la propiedad privada de las "comunidades",
 que frecuentemente ceden a los grupos de presión públicos y privados y aplican
 limitaciones al tipo de contenido que permiten. Además, la falta de grandes
 bases de datos cruzadas con bases de información sobre los usuarios es una
@@ -893,7 +890,7 @@ hacia las soluciones centralizadas, volviéndolas fáciles y baratas o gratuitas
 para que los productores no-técnicos de información las adoptasen. Esta
 facilidad de acceso, comparada a la técnicamente desafiante y costosa empresa
 de poseer tus propios medios de producción de información, ha
-creado un proletariado 'sin tierra' listo para proveer de trabajo alienado de
+creado un proletariado "sin tierra" listo para proveer de trabajo alienado de
 creación de contenido a los nuevos terratenientes informáticos de la Web 2.0.
 La misión de la Web 2.0 es destruir el aspecto P2P de la Internet y hacerte
 junto con tu computadora y tu conexión a Internet, dependiente de la conexión
@@ -938,8 +935,8 @@ La tercera ola de cercamiento de los bienes informacionales ya está
 apareciendo. La computación en la nube, provista por grandes corporaciones como
 Google y Amazon, donde los clientes no son propietarios de la infraestructura
 física que utilizan, profundiza la centralización de la infraestructura de la
-Internet.  Adicionalmente, legislaciones como el 'Paquete de Reformas de
-Telecomunicaciones'[^22] presentadas al Parlamento Europeo, buscan posibilitar
+Internet.  Adicionalmente, legislaciones como el "Paquete de Reformas de
+Telecomunicaciones"[^22] presentadas al Parlamento Europeo, buscan posibilitar
 que los proveedores de servicios (grandes conglomerados de telecomunicaciones)
 puedan decidir a cuáles sitios web pueden acceder sus usuarios. El capital nos
 está mostrando su visión del futuro de Internet, y el futuro es muy parecido
@@ -1000,9 +997,9 @@ tanto desempeñar un papel en el conflicto de clases. Yochai Benkler, profesor
 de Estudios Legales Empresariales en la Escuela de Leyes de Harvard, acuñó el
 término "produccion de pares" para describir la forma en que el software libre,
 los articulos de Wikipedia y otros trabajos similares se producen. Limitando su
-análisis a la llamada 'economía de la información en red', la novedad de la
+análisis a la llamada "economía de la información en red", la novedad de la
 producción de pares como es entendida por Benkler y muchos otros es que la
-propiedad en el patrimonio común es 'propiedad no rival', que puede ser
+propiedad en el patrimonio común es "propiedad no rival", que puede ser
 consumida sin prevenir a otros consumirla al mismo tiempo. Esta propiedad no
 rival puede incluir la transmisión radial, el video en Internet o cualquier
 otro recurso transferible o accesible por red, como el software libre. Tal
@@ -1059,12 +1056,12 @@ fuente u obra cultural puede multiplicarse y enviarse por las redes globales en
 fracciones de segundo, aunque su producción sigue siendo un asunto bastante
 material. Si la produccion de pares sólo puede producir bienes inmateriales
 como el software y si los productores no obtienen nada a cambio por esa
-producción, entonces esa forma de 'producción' no puede llamarse modo de
+producción, entonces esa forma de "producción" no puede llamarse modo de
 producción en lo absoluto. En primer término, cualquier modo de producción debe
 dar cuenta de sus insumos materiales o se desvanecerá. Estos insumos deben
 incluir los costos de subsistencia de quienes contribuyeron con su trabajo,
-para, como mínimo, 'permitir a los trabajadores, uno con otro, subsistir
-y perpetuar su raza', en palabras de Ricardo.[@ricardo-1821]
+para, como mínimo, "permitir a los trabajadores, uno con otro, subsistir
+y perpetuar su raza", en palabras de Ricardo.[@ricardo-1821]
 
 La producción inmaterial no reciprocitaria no puede hacerlo, ya que para
 producir software libre, cultura libre o sopa libre, los productores deben
@@ -1083,8 +1080,8 @@ de pares no se limita categóricamente a los bienes inmateriales. Entendido de
 esta forma, el concepto de producción de pares, donde una red de pares aplican
 su labor a un acervo común para beneficio mutuo e individual, ciertamente
 resuena en las viejas propuestas de modos socialistas de producción, donde en
-una comunidad sin clases de trabajadores ('pares') producen colaborativamente
-dentro de una sociedad sin propiedad ('basada en los comunes'). A diferencia de
+una comunidad sin clases de trabajadores ("pares") producen colaborativamente
+dentro de una sociedad sin propiedad ("basada en los comunes"). A diferencia de
 la definición inmaterial y no reciprocitaria. Esta formulación puede dar cuenta
 de insumos materiales, especialización del trabajo y medios de formación de
 capital y tambien se relaciona cercanamente a la topología de las redes de
@@ -1384,9 +1381,9 @@ libre desarrollo de todos.
 
 ## Contribución a la Crítica de la Cultura Libre
 
-'Estamos en medio de una revolución de las formas en que el conocimiento y la
-cultura son creados, accedidos y transformados', establece la 'Carta por la
-Innovación, la Creatividad y el Acceso al Conocimiento', algo así como un
+"Estamos en medio de una revolución de las formas en que el conocimiento y la
+cultura son creados, accedidos y transformados", establece la "Carta por la
+Innovación, la Creatividad y el Acceso al Conocimiento", algo así como un
 manifiesto del movimiento de la cultura libre.[@charter-sf] La revolución es
 contra un sistema de copyright que se desarrolló junto con el capitalismo
 y tiene como base a la explotación de los creadores. Es en el contexto de la
@@ -1431,7 +1428,7 @@ organizaciones que mantienen sus propios activos por fuera del dominio común.
 
 ## El copyright es un sistema de censura y explotación
 
-La existencia de los 'derechos de copia' es previa a las nociones sobre el
+La existencia de los "derechos de copia" es previa a las nociones sobre el
 derecho del autor a la propiedad del siglo XVIII.[^26] Desde el siglo XVI al
 XVII las licencias reales otorgaron derechos exclusivos a ciertos editores para
 la impresión de textos particulares. En 1557, un monopolio exclusivo sobre la
@@ -1444,7 +1441,7 @@ conocimiento y censurar el disenso.
 
 Después de que el Acta de Licenciamiento hubiera expirado en 1694, el monopolio
 de la Stationers' Company se vio amenazado por los libreros provinciales, los
-llamados 'piratas' de Irlanda y Escocia. La Stationers' Company pidió al
+llamados "piratas" de Irlanda y Escocia. La Stationers' Company pidió al
 Parlamento una nueva acta para extender su monopolio sobre el copyright. Pero
 esta era una Inglaterra diferente a la de 1557, diferente del Parlamento que
 había ejecutado al rey Charles I en 1649, que abolió la monarquía y instaló una
@@ -1462,9 +1459,9 @@ Estatuto de Ana, promulgado por el Parlamento en 1709, fue un duro embate para
 la Stationers' Company. El Estatuto declaraba que los autores, no los editores,
 eran los dueños de sus obras y limitaban el término del copyright a catorce
 años para los libros nuevos y veintiuno para los copyright existentes. El
-Estatuto, subtitulado 'Un Acta para la Promoción del Aprendizaje, Invistiendo
+Estatuto, subtitulado "Un Acta para la Promoción del Aprendizaje, Invistiendo
 las Copias de Libros Impresos en los Autores o los Compradores de tales Copias,
-Durante el Tiempo Debajo Mencionado', creó un mercado para el conocimiento
+Durante el Tiempo Debajo Mencionado", creó un mercado para el conocimiento
 a través de la competencia. El objetivo del Estatuto no era crear un copyright
 para el autor, sino quebrar el monopolio de la Stationers' Company.
 
@@ -1514,7 +1511,7 @@ un contrato a los propietarios antes de que esos derechos posean algún valor
 financiero real, por no más del costo de reproducción de tu trabajo.
 
 Pierre-Joseph Proudhon, socialista francés decimonónico y la primera persona en
-llamarse a sí mismo 'anarquista', argumentó que la propiedad es el robo. De
+llamarse a sí mismo "anarquista", argumentó que la propiedad es el robo. De
 acuerdo con esta lógica, si la propiedad es el robo, entonces la propiedad
 intelectual es un fraude. La propiedad no es el robo en el sentido
 estrictamente legal, ya que las leyes del Estado capitalista liberal son el
@@ -1528,8 +1525,8 @@ contribuyen al proceso productivo. Una clase capitalista entonces no puede
 existir sin negar a los trabajadores el acceso independiente a los medios de
 producción.
 
-En palabras del anarcoindividualista estadounidense Benjamin Tucker, 'el que
-presta capital tiene asegurado su retorno intacto, y nada más'.[@tucker-1926]
+En palabras del anarcoindividualista estadounidense Benjamin Tucker, "el que
+presta capital tiene asegurado su retorno intacto, y nada más".[@tucker-1926]
 Ya que las tierras comunes no se consideraban propiedad, cuando a los
 campesinos de la era pre-industrial se les negó el acceso por medio de
 cercamientos, puede decirse que su tierra fue robada. Aún más, cuando fueron
@@ -1557,8 +1554,8 @@ creativas reensamblan ideas, palabras e imágenes de la historia y de su
 contexto contemporáneo. Antes del siglo XVIII, los poetas citaban a sus
 ancestros y fuentes de inspiración sin reconocimiento formal y los guionistas
 tomaban libremente los argumentos y diálogos de fuentes anteriores, sin
-atribución. Homero basó la 'Ilíada' y la 'Odisea' en tradiciones orales con
-siglos de antigüedad. La 'Eneida' de Virgilio está basada fuertemente en
+atribución. Homero basó la "Ilíada" y la "Odisea" en tradiciones orales con
+siglos de antigüedad. La "Eneida" de Virgilio está basada fuertemente en
 Homero. Shakespeare tomó muchos de sus argumentos narrativos y diálogos de
 Holinshed.
 
@@ -1581,10 +1578,10 @@ hacia territorios desconocidos. Los regímenes de propiedad intelectual
 restringen la promiscuidad de las ideas y las atrapan en cercamientos
 artificiales, extrayendo beneficios exclusivos a través de su propiedad
 y control. La propiedad intelectual es el fraude, un privilegio legal para
-representarse falsamente como el único 'propietario' de una idea, expresión
+representarse falsamente como el único "propietario" de una idea, expresión
 o técnica y cobrar tarifa a todos aquellos que quieran percibir, expresar o aplicar
-esta 'propiedad' en sus propias prácticas productivas. No es el plagio el que
-desposee a un 'propietario' de una idea, es la propiedad intelectual, apoyada
+esta "propiedad" en sus propias prácticas productivas. No es el plagio el que
+desposee a un "propietario" de una idea, es la propiedad intelectual, apoyada
 por la invasiva violencia de un Estado que desposee a todos del uso de su
 cultura común.
 
@@ -1607,7 +1604,7 @@ naturaliza un cierto proceso de producción de conocimiento, deslegitimiza la
 noción de una cultura común y daña las relaciones sociales. Los artistas
 no son incentivados a compartir sus pensamientos, expresiones y obras,
 o a contribuir a un pozo común de creatividad. En su lugar, se ven obligados
-a proteger celosamente su 'propiedad' de los demás, a los que ven como
+a proteger celosamente su "propiedad" de los demás, a los que ven como
 potenciales competidores, espías y ladrones esperando para robar y violar sus
 originales ideas. Esta es una visión sobre el mundo del arte creada a imagen
 del capitalismo, un capitalismo que busca apropiarse del producto alienado de
@@ -1640,15 +1637,15 @@ erradicar la memoria de una cultura común o el reconocimiento de que el
 conocimiento florece cuando las ideas, palabras, sonidos e imágenes son libres
 para el uso de todos. Desde el mismo nacimiento del autor propietario,
 diferentes individuos y grupos han desafiado el régimen de propiedad
-intelectual y el 'derecho' que daba a algunos individuos privados a 'poseer'
+intelectual y el "derecho" que daba a algunos individuos privados a "poseer"
 obras creativas mientras impide a otros a usarlas y re-interpretarlas.
 
-En su 'Poesías' de 1870, un par de textos descubiertos y reverenciados por los
+En su "Poesías" de 1870, un par de textos descubiertos y reverenciados por los
 surrealistas Louis Aragon y André Breton, el poeta francés nacido en Uruguay
 Conde de Lautreamont llamaba al regreso de una poesía impersonal, una poesía
-escrita por todos. 'El plagio es necesario', decía Lautreamont, 'el progreso
+escrita por todos. "El plagio es necesario", decía Lautreamont, "el progreso
 depende de eso. Toma la frase de un autor, usa sus expresiones, borra una falsa
-idea, la reemplaza por una verdadera'.[@khayati-1966] Su definición subvertía
+idea, la reemplaza por una verdadera".[@khayati-1966] Su definición subvertía
 el mito de la creatividad individual usado para justificar las relaciones de
 propiedad, en nombre del progreso, cuando en realidad el mito de la creatividad individual
 impedía el progreso a través de la privatización de la cultura. La
@@ -1680,7 +1677,7 @@ principalmente una insurrección contra el pasado sino una forma de aprender
 a vivir en una forma diferente, creando nuevas prácticas y formas de
 comportamiento. Estas formas de comportamiento incluían la escritura colectiva,
 a menudo no firmada, y un rechazo explícito al régimen de copyright al añadir
-las etiquetas 'sin copyright' o 'anticopyright' a sus obras, junto con
+las etiquetas "sin copyright" o "anticopyright" a sus obras, junto con
 instrucciones para su uso, como: todos los textos de este libro pueden
 reproducirse, traducirse o adaptarse libremente, incluso sin mencionar la
 fuente.
@@ -1757,15 +1754,15 @@ subordinados al control de los productores -los Beatles y Gloria Gaynor
 respectivamente- y sus representantes legales. El problema es que el control
 del productor está creando una cultura de sólo-lectura y destruyendo la
 vitalidad y diversidad de la producción creativa. Está promoviendo los
-intereses estrechos de unos pocos 'productores' privilegiados a expensas de
+intereses estrechos de unos pocos "productores" privilegiados a expensas de
 todos los demás.
 
 Lessig contrasta el control del productor con los comunes culturales (un stock
 común de valor al que todos pueden utilizar y contribuir). Los comunes niegan el
-control del productor e insisten en la libertad de los consumidores. Lo 'libre'
+control del productor e insisten en la libertad de los consumidores. Lo "libre"
 de la cultura libre refiere a la libertad natural de los consumidores a usar un
 stock cultural común y no a la libertad hecha cumplir por el Estado de los
-productores para controlar el uso de 'sus' obras. En principio, la noción de un
+productores para controlar el uso de "sus" obras. En principio, la noción de un
 común cultural suprime la distinción entre productores y consumidores, viéndolos
 como actores iguales en un proceso continuo.
 
@@ -1775,10 +1772,10 @@ es Creative Commons realmente un dominio común? Según su sitio web, Creative
 Commons define el espectro de posibilidades entre el copyright completo (todos
 los derechos reservados) y el dominio público (ningún derecho reservado).
 Creative Commons también ofrece licencias que ayudan a mantener el copyright
-mientras invitan a ciertos usos de la obra, un copyright de 'algunos derechos
-reservados'. El punto es claro: Creative Commons existe para ayudarte a 'vos',
-como productor, a mantener el control de 'tu' obra. Estás invitado a elegir
-entre un rango de restricciones que deseas aplicar a 'tu' obra, como prohibir
+mientras invitan a ciertos usos de la obra, un copyright de "algunos derechos
+reservados". El punto es claro: Creative Commons existe para ayudarte a "vos",
+como productor, a mantener el control de "tu" obra. Estás invitado a elegir
+entre un rango de restricciones que deseas aplicar a "tu" obra, como prohibir
 la duplicación, prohibir las obras derivadas o prohibir el uso comercial. Se
 asume que, como un autor-productor, todo lo que hagas y digas es de tu
 propiedad. El derecho del consumidor nunca es mencionado, como tampoco se disputa la distinción
@@ -1788,7 +1785,7 @@ entre productor y consumidor. Expande el marco legal para que los productores
 nieguen a los consumidores la posibilidad de crear valor de uso o valor de
 cambio del stock común.
 
-El problema de crear 'escrituras comunes' para obras que no están realmente entre
+El problema de crear "escrituras comunes" para obras que no están realmente entre
 las existencias de comunes es típico del abordaje copy-just-right (apenas derecho de copia)
 tipificado por Creative Commons. Si los Beatles o Gloria Gaynor hubieran
 publicado sus obras en el marco de Creative Commons, todavía hubiera sido su
@@ -1797,10 +1794,10 @@ o Jesus Christ: The Musical deberían tener permiso para existir. Los representa
 legales de los Beatles o Gloria Gaynor fácilmente podrían haber utilizado
 licencias CC para reforzar su control sobre el uso de sus obras. El problema
 real del control de los productores presentado por Lessig no se resuelve con la
-'solución' Creative Commons mientras el productor posea un derecho exclusivo
+"solución" Creative Commons mientras el productor posea un derecho exclusivo
 para elegir el nivel de libertad cedido al consumidor, un derecho que Lessig
 nunca ha cuestionado. La misión de Creative Commons de permitir a los
-productores la 'libertad' de elegir los niveles de restricción para publicar
+productores la "libertad" de elegir los niveles de restricción para publicar
 sus obras contradice las condiciones reales de una producción basada en los
 comunes. Lessig no tiene ninguna base para usar a DJ Danger Mouse y Javier
 Prato como ejemplos para promover la causa de Creative Commons.
@@ -1841,7 +1838,7 @@ Commons no es mantenida en común, porque es la elección de los autores
 individuales para permitir su uso o negarlo. Entonces, Creative Commons es un
 anti-común que encubre la lógica capitalista de privatización bajo un
 nombre engañoso elegido deliberadamente. Su propósito es ayudar a los dueños de la
-'propiedad intelectual' a alcanzar el rápido paso del intercambio de
+"propiedad intelectual" a alcanzar el rápido paso del intercambio de
 información, no mediante la liberación de la información, sino al proveerles
 definiciones más sofisticadas para las varias gamas de propiedad y control del
 productor.
@@ -1855,7 +1852,7 @@ este escenario muchas veces en la historia. De hecho, uno de los más
 espectaculares ejemplos de tal cooptación fue la transformación de consejos
 autoorganizados de obreros en un movimiento sindical que negocia contratos
 legales con los propietarios de las corporaciones. Creative Commons es una
-subversión similar que no cuestiona el 'derecho' a la propiedad privada, sino
+subversión similar que no cuestiona el "derecho" a la propiedad privada, sino
 que en su lugar trata de obtener pequeñas concesiones en un campo de juego
 donde el juego mismo y sus reglas están determinadas por adelantado. El efecto
 real de Creative Commons es estrechar la respuesta política dentro de la esfera
@@ -1871,12 +1868,12 @@ del régimen de propiedad intelectual en general.
 La marca Creative Commons es invocada moralmente en muchos sitios, blogs,
 discursos, ensayos, obras artísticas y piezas musicales como si constituyera la
 condición necesaria y suficiente de la revolución próxima por una verdadera
-'cultura libre'. Creative Commons es parte de un movimiento más grande de
+"cultura libre". Creative Commons es parte de un movimiento más grande de
 copyfight (lucha por la copia), que se define como una lucha para abolir la
-'propiedad intelectual' y regresar a los principios míticos de una legislación
-del copyright pre-corrupta que fue planeada 'genuinamente' para proteger los
+"propiedad intelectual" y regresar a los principios míticos de una legislación
+del copyright pre-corrupta que fue planeada "genuinamente" para proteger los
 derechos de los autores. Los individuos y grupos asociados a este movimiento
-militan por lo que llaman una 'propiedad intelectual más inteligente' o una
+militan por lo que llaman una "propiedad intelectual más inteligente" o una
 reforma de la propiedad intelectual que no amenace la libertad de expresión, la
 democracia, la competencia, innovación, educación, progreso de las ciencias
 y otras cosas que son críticamente importantes para nuestro bienestar social,
@@ -1887,17 +1884,17 @@ por primera vez durante el romanticismo, los excesos de la forma capitalista de
 propiedad intelectual se combaten utilizando el lenguaje
 y presuposiciones propias del capital. Creative Commons preserva las ideas
 románticas de originalidad, creatividad y derecho a la propiedad,
-y similarmente considera la 'cultura libre' como una esfera separada que existe
+y similarmente considera la "cultura libre" como una esfera separada que existe
 en aislamiento perfecto del mundo de la producción material. Desde el
-siglo XVIII las ideas de 'creatividad' y 'originalidad' estuvieron vinculadas
+siglo XVIII las ideas de "creatividad" y "originalidad" estuvieron vinculadas
 inextricablemente con un anti-común de conocimiento. Creative Commons no es la
 excepción. Esta visión sobre el movimiento copyfight, un movimiento que incluye
-a Creative Commons, es inconsistente con la idea de 'libre' en la historia de
+a Creative Commons, es inconsistente con la idea de "libre" en la historia de
 la cultura libre. Por ejemplo, el periódico Internationale Situationniste, que
 existió desde los '50 tardíos hasta principios de los '70, era publicado con la
-siguiente declaración de copyright: 'Todos los textos publicados en
+siguiente declaración de copyright: "Todos los textos publicados en
 Internationale Situationniste pueden ser reproducidos libremente, traducidos
-o adaptados, incluso sin indicación de origen'.[^34]
+o adaptados, incluso sin indicación de origen".[^34]
 
 Aún antes, en un libro de canciones que Woody Guthrie distribuyó en los '30
 a los escuchas que querían saber las palabras de sus grabaciones, la siguiente
@@ -1910,7 +1907,7 @@ nos importa un comino. Publicalo. Escribilo. Cantalo. Bailalo. Yodealo.
 Nosotros lo escribimos, y es todo lo que quisimos hacer.[@miller-2004]
 
 En estos casos, lo que es evidente es que la libertad de la que se habla es la
-libertad del consumidor para usar y producir, no la 'libertad' del productor
+libertad del consumidor para usar y producir, no la "libertad" del productor
 para controlar. Si la cultura libre está realmente orientada a crear un stock
 común para la producción cultural entre pares, entonces el marco provisto debe
 diseñarse específicamente de forma tal que no pueda ser utilizado para atacar
@@ -1942,7 +1939,7 @@ y de las licencias como la GPL en particular, es revertir esta reversión.
 El copyleft utiliza la legislación del copyright volviéndola sobre sí misma
 para servir los propósitos opuestos. En lugar de promover la privatización, se
 convierte en una garantía de la libertad de todos para usar, copiar, distribuir
-y modificar el software o cualquier otra obra. Su única 'restricción' es
+y modificar el software o cualquier otra obra. Su única "restricción" es
 precisamente la que garantiza la libertad, es decir que los usuarios no tienen
 permitido restringir la libertad de nadie más ya que todas las copias
 y derivaciones deben redistribuirse bajo la misma licencia. El copyleft reclama
@@ -1954,13 +1951,13 @@ uso.
 
 Las licencias copyleft garantizan libertad de la propiedad intelectual al
 requerir que la reutilización y redistribución de la información esté gobernada
-por las 'cuatro libertades' de la Fundación del Software Libre (FSF). Estas son
+por las "cuatro libertades" de la Fundación del Software Libre (FSF). Estas son
 las libertades de usar, estudiar, modificar y redistribuir.[^36] Puesto en
 contexto histórico, el copyleft descansa en algún lugar entre el copyright y el
 anticopyright. El gesto de los escritores al poner en anticopyright sus obras
 era hecho con un espíritu de generosidad, afirmando que el conocimiento puede
-florecer sólo cuando carece de propietarios. En tanto declaración de 'ningún
-derecho reservado', el anticopyright era un eslógan perfecto lanzado en un mundo
+florecer sólo cuando carece de propietarios. En tanto declaración de "ningún
+derecho reservado", el anticopyright era un eslógan perfecto lanzado en un mundo
 imperfecto. Se suponía que los demás usarían la información en el mismo
 espíritu de generosidad. Pero las corporaciones aprendieron a explotar la falta
 de copyright y redistribuir las obras por lucro.
@@ -1985,23 +1982,23 @@ textos a autores, transformó ideas en mercancías para crear beneficios para lo
 propietarios del capital.
 
 Esta miopía específica sobre el copyright es parte de un desinvolucramiento
-general con cuestiones económicas. La 'izquierda' del copyleft asemeja un tipo
+general con cuestiones económicas. La "izquierda" del copyleft asemeja un tipo
 vago de libertarianismo en oposición a sistemas cerrados y opacos
 y a restricciones totalitarias en el acceso a la información, antes que al
 privilegio económico o la explotación del trabajo. El copyleft emergió de una
 ética hacker que se acerca a la persecución del conocimiento por el
 conocimiento mismo. Su objetivo principal es defender la libertad de la
-información contra las restricciones impuestas por 'el sistema', lo que explica
+información contra las restricciones impuestas por "el sistema", lo que explica
 en parte por qué existe una amplia gama de posturas políticas entre los
 hackers. También explica por qué la comunalidad que vincula a los hackers entre
-sí -la 'izquierda' en la visión de Stallman sobre el copyleft- no es la
+sí -la "izquierda" en la visión de Stallman sobre el copyleft- no es la
 izquierda entendida por la mayoría de los activistas políticos.
 
 La GPL y el copyleft son frecuentemente invocados como ejemplos de la tendencia
 anticomercial del movimiento del Software Libre. Pero no hay tal tendencia. Las
 cuatro libertades requeridas por la GPL significan que cualquier restricción
 adicional, como una cláusula no comercial, convertiría a la obra en no-libre
-aún si cumple con algunas de las libertades. Mantener el software 'libre' no
+aún si cumple con algunas de las libertades. Mantener el software "libre" no
 previene a los desarrolladores vender copias que hayan modificado con su propio
 trabajo, y tampoco previene la redistribución hecha por una compañía comercial
 cobrando una tarifa, mientras que la misma licencia sea utilizada y el código
@@ -2011,7 +2008,7 @@ Esta versión de la libertad no suprime el intercambio, como han proclamado
 algunos entusiastas del software libre, ni es incompatible con una economía
 capitalista basada en el robo de la plusvalía. La contradicción inherente en
 estos comunes se debe a un entendimiento de lo propietario como sinónimo de
-código cerrado o no transparente. 'Propietario' significa tener un dueño
+código cerrado o no transparente. "Propietario" significa tener un dueño
 que prohibe el acceso a la información y mantiene el código fuente en secreto,
 pero no necesariamente significa tener un dueño que extraiga un rédito,
 aunque mantener el código fuente en secreto y extraer rédito a menudo coincidan
@@ -2044,13 +2041,13 @@ por ejemplo, reducir el precio de sus medios de producción.
 
 Pero el software libre no fue concebido como una mera forma de reducir los
 costos corporativos de producción de software. Richard Stallman escribe en el
-sitio de web de su organización: 'Mi trabajo por el software libre es motivado
+sitio de web de su organización: "Mi trabajo por el software libre es motivado
 por un objetivo idealista: propagar libertad y cooperación. Quiero fomentar el
 software libre para reemplazar el software propietario que proscribe la
-cooperación y así mejorar nuestra sociedad.'[@stallman-2010] Sin embargo, ya que
+cooperación y así mejorar nuestra sociedad."[@stallman-2010] Sin embargo, ya que
 el software libre no puede capturar directamente el valor de cambio, sus
 productores todavía deben vender su trabajo para lograr su subsistencia
-material. Por lo tanto el copyleft no es capaz de 'mejorar la sociedad' en
+material. Por lo tanto el copyleft no es capaz de "mejorar la sociedad" en
 ningún sentido material, porque la mayoría del valor de cambio creado por los
 productores del software libre es capturado por los propietarios de lo material
 que son los que proveen su subsistencia. Como el copyleft no puede hacer que
@@ -2109,7 +2106,7 @@ del anticopyright, la posición política del copyleft es un retroceso de la
 posición ideológica de la izquierda socialista. Aun cuando se apropia de
 argumentos de la izquierda en contra de la propiedad, el copyleft limita su
 crítica al estrecho campo de la propiedad inmaterial. Un ejemplo
-particularmente desvergonzado de esto es el 'Manifiesto puntoComunista' de Eben
+particularmente desvergonzado de esto es el "Manifiesto puntoComunista" de Eben
 Moglen,[@moglen-2003] un ofensivo pastiche del manifiesto seminal de Marx
 y Engels, que convierte aquella llamada a las armas de la clase trabajadora por
 la abolición del capitalismo para sólo demandar la abolición de la propiedad
@@ -2146,8 +2143,8 @@ que la comunidad del software fue pionera en la organización cooperativa de
 proyectos distribuidos de gran escala, aunando contribuidores dispersos
 internacionalmente para trabajar en el desarrollo de software valioso. De esta
 manera, el movimiento del software libre realiza contribuciones importantes
-hacia el objetivo de 'organizar industrialmente \[y\] formar la estructura de
-una sociedad nueva dentro del caparazón de la antigua', el ideal histórico de
+hacia el objetivo de "organizar industrialmente \[y\] formar la estructura de
+una sociedad nueva dentro del caparazón de la antigua", el ideal histórico de
 los Trabajadores Industriales del Mundo.[@iww-sf]
 
 
@@ -2204,7 +2201,7 @@ financiamiento.
 El problema resulta obvio cuando se intenta traducir el copyleft a las obras
 culturales. Si alguien libera una novela bajo una licencia copyleft, y Random
 House la imprime y obtiene ganancias de esa obra, Random House no ha violado el
-copyleft mientras lo haya aplicado. Ser 'libre' significa estar abierto a la
+copyleft mientras lo haya aplicado. Ser "libre" significa estar abierto a la
 apropiación comercial, ya que la libertad en términos del copyleft se define
 por la circulación irrestricta de información antes que libertad de la
 explotación. No es una sorpresa que la mayor aplicación de copyleft en la
@@ -2220,11 +2217,11 @@ remuneración justa del trabajo son la piedra fundacional histórica de la
 izquierda. Otros proveedores de contenido y editores de libros, Verso por
 ejemplo, han expandido esta restricción reclamando que la copia, modificación
 y redistribución no sólo debe ser no lucrativa, sino también en el espíritu del
-original, sin explicar qué es lo que este 'espíritu' significa.
+original, sin explicar qué es lo que este "espíritu" significa.
 
 Indymedia de Rumania ha revisado su definición de copyleft para aclarar el
-significado de 'en el espíritu del original' luego de tener problemas con el
-sitio web neo-fascista Altermedia Rumania, cuyas 'jodas' fueron desde
+significado de "en el espíritu del original" luego de tener problemas con el
+sitio web neo-fascista Altermedia Rumania, cuyas "jodas" fueron desde
 secuestrar el dominio indymedia.ro a copiar textos de Indymedia mintiendo sobre
 nombres y fuentes. Las restricciones de Indymedia Rumania incluyen la no
 modificación del nombre original y la fuente porque se opone al deseo de
@@ -2235,7 +2232,7 @@ etnicidad, género o sexualidad porque contraviene su compromiso con la
 igualdad.
 
 Otras versiones del copyleft han intentado añadir otras restricciones basándose
-en una interpretación fuerte de la 'izquierda' de copyleft, utilizando
+en una interpretación fuerte de la "izquierda" de copyleft, utilizando
 principios positivos en lugar de la libertad negativa basada en restricciones,
 como valor la cooperación social sobre el lucro, la partición no
 jerárquica y la no discriminación. Las definiciones más restrictivas del
@@ -2259,14 +2256,14 @@ recursos para manufacturar y distribuir en una escala comercial. Entonces,
 necesitan de hecho a aquellos que poseen el capital para hacerlo y no pueden
 negociar nada más que su subsistencia. En esencia, vender sus ideas es como
 para otros trabajadores vender su trabajo. Esto se ilustra en
-'Ganancias de los artistas musicales y digitalización: una revisión de datos
-empíricos en Inglaterra y Alemania' de Martin Kretschmer, Profesor de
+"Ganancias de los artistas musicales y digitalización: una revisión de datos
+empíricos en Inglaterra y Alemania" de Martin Kretschmer, Profesor de
 Jurisprudencia de la Información en la Universidad Bournemouth, donde concluye
-que 'los creadores tienen poco para ganar de la exclusividad'.[@kretschmer-sf]
-Similarmente, en su estudio 'Evidencia empírica de las ganancias por copyright'
-del 2006, dice: 'Las ganancias del no-copyright, e incluso de las actividades
+que "los creadores tienen poco para ganar de la exclusividad".[@kretschmer-sf]
+Similarmente, en su estudio "Evidencia empírica de las ganancias por copyright"
+del 2006, dice: "Las ganancias del no-copyright, e incluso de las actividades
 no artísticas, son una fuente importante de ingresos para muchos
-creadores'.[@kretschmer-2006] Este estudio incluye muchas cifras
+creadores".[@kretschmer-2006] Este estudio incluye muchas cifras
 sorprendentes. Por ejemplo, el pago medio distribuido por la Performing Right
 Society (Reino Unido) en 1994 a los detentadores de copyright fue de
 £84.[@kretschmer-2006]
@@ -2284,7 +2281,7 @@ izquierda socialista: la creación de una economía controlada por los
 trabajadores.
 
 Para que el copyleft transmute en un instrumento revolucionario en el dominio
-de la producción cultural, debe convertirse en 'copy-far-left' (extremaizquierda
+de la producción cultural, debe convertirse en "copy-far-left" (extremaizquierda
 de copia). Debe insistir en la propiedad de los trabajadores sobre los medios
 de producción. Las obras mismas deben formar parte de ese stock común y estar
 disponibles para su uso productivo por otros productores con base en el común.
@@ -2342,7 +2339,7 @@ compartición entre pares lo que más se acerca al gesto del anticopyright. El m
 ejemplo de esto es el blog _Copyriot_ de Rasmus Fleischer del Piratbyrån (Buró
 de Piratería), un _think tank_ anti propiedad intelectual, y los alguna vez
 fundadores de Pirate Bay, el más conocido sitio BitTorrent de la comunidad P2P.
-El leit motiv de Copyriot es 'Sin copyright. Sin licencia'. Pero existe una
+El leit motiv de Copyriot es "Sin copyright. Sin licencia". Pero existe una
 diferencia con respecto a la vieja tradición anticopyright. Fleischer afirma que
 el copyright se ha vuelto absurdo en la era de la tecnología digital porque
 debe recurrir a toda suerte de ficciones, como distinciones entre subidas
@@ -2358,7 +2355,7 @@ copyright, el contexto político más amplio sugiere que los modelos inspirados 
 copyleft también tienen un rol importante que jugar. El rechazo total del
 ambiente legal no siempre es posible cuando se toman en cuenta las
 consideraciones prácticas. Construir formas alternativas de producir
-y compartir, 'construir la sociedad nueva en el caparazón de la vieja',
+y compartir, "construir la sociedad nueva en el caparazón de la vieja",
 requiere que operemos dentro del sistema legal capitalista donde la lógica de
 captura y explotación está imbuida. Aunque existe el espacio para gestos
 desafiantes, debemos ponernos a buscar las formas y estructuras requeridas para
@@ -2375,11 +2372,11 @@ libre sin restricciones.
 ## La licencia de producción de pares: un modelo para el copyfarleft
 
 La Licencia de Producción de Pares es un modelo de licencia copyfarleft,
-derivada de la licencia Creative Commons 'Atribución-NoComercial-CompartirIgual
-3.0 Unported': http://creativecommons.org/licenses/by-nc-sa/3.0/
+derivada de la licencia Creative Commons "Atribución-NoComercial-CompartirIgual
+3.0 Unported": http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-Para la traducción al castellano se adaptó el texto de la licencia Creative
-Commons Atribución-NoComercial-CompartirIgual 3.0 Chile':
+Para la traducción al castellano se adaptó el texto de la licencia "Creative
+Commons Atribución-NoComercial-CompartirIgual 3.0 Chile":
 http://creativecommons.org/licenses/by-nc-sa/3.0/cl/
 
 ### Licencia de Producción de Pares
@@ -2728,7 +2725,7 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
 
 > "El Estado es una condición, una cierta relación entre seres humanos,
 > un modo de comportamiento humano; lo destruimos cuando contraemos otras
-> relaciones, comportándonos diferente...' - Gustav Landauer[@landauer-2010]
+> relaciones, comportándonos diferente..." - Gustav Landauer[@landauer-2010]
 
 Proponer un abordaje de la lucha de clases basada en el comunismo de riesgo
 y el copyfarleft puede ser chocante para muchos revolucionarios por la
@@ -2739,11 +2736,11 @@ comunismo de riesgo y el copyfarleft son sólo uno de los medios de la lucha de
 clases, no objetivos ideales por sí mismos. Su intención es ser medios de
 organizar la producción con el objetivo de construir la capacidad económica
 necesaria para entrar en el conflicto de clase y transformar el sistema
-capitalista. En palabras de los Trabajadores Industriales del Mundo 'no sólo
+capitalista. En palabras de los Trabajadores Industriales del Mundo "no sólo
 por la lucha diaria contra los capitalistas, sino para sostener la producción
 una vez que el capitalismo haya sido destronado. Al organizarnos
 industrialmente estamos formando la estructura de la nueva sociedad dentro del
-caparazón de la antigua'.[@iww-sf]
+caparazón de la antigua".[@iww-sf]
 
 El capitalismo, un modo de producción donde el trabajador gana sólo su
 subsistencia mientras que los propietarios retienen el resto del producto, sólo
