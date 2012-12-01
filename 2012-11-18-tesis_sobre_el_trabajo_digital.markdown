@@ -1,5 +1,7 @@
-Michel Bauwens
---------------
+---
+author: Michel Bauwens
+title: Tesis sobre el trabajo digital
+---
 
 Tesis sobre el trabajo digital
 ==============================
