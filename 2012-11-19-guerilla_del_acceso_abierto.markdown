@@ -1,5 +1,8 @@
-Aaron Swartz
-------------
+---
+layout: post
+author: Aaron Swartz
+title: Manifiesto por la Guerrilla del Acceso Abierto
+---
 
 Manifiesto por la Guerrilla del Acceso Abierto
 ==============================================
