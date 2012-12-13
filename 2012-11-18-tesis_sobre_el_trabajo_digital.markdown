@@ -159,8 +159,8 @@ producción de pares en una escala "material" global. Las filés son entidades
 transnacionales, fomentadoras de las comunidades, que crean una nueva capa de
 cooperación material post-capitalista.
 
-[^file]: Griego antiguo para _tribu_, para su resignificación moderna ver
-         http://lasindias.net/indianopedia/Fil%C3%A9
+[^file]: Griego antiguo para _tribu_, para su resignificación moderna, [ver
+         Filé en Indianopedia][http://lasindias.net/indianopedia/Fil%C3%A9]
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
 y captura de capital (redárquico) no-recíproco. Bajo condiciones de solidaridad
