@@ -4,7 +4,7 @@ title: Licencia de Producción de Pares
 author: Telekommunisten
 ---
 ## Telekommunisten
-## La licencia de producción de pares: un modelo para el copyfarleft
+# La licencia de producción de pares: un modelo para el copyfarleft
 
 La Licencia de Producción de Pares es un modelo de licencia copyfarleft,
 derivada de la licencia Creative Commons 'Atribución-NoComercial-CompartirIgual
@@ -14,7 +14,7 @@ Para la traducción al castellano se adaptó el texto de la licencia Creative
 Commons Atribución-NoComercial-CompartirIgual 3.0 Chile':
 http://creativecommons.org/licenses/by-nc-sa/3.0/cl/
 
-### Licencia de Producción de Pares
+## Licencia de Producción de Pares
 
 LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA
 COPYFARLEFT PÚBLICA ("LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS DE AUTOR
