@@ -55,7 +55,7 @@ Debido a la naturaleza hiperproductiva de la producción de pares, que permite
 la más amplia participación e ingreso, involucramiento apasionado
 y distribución universal de sus beneficios (condicionados por el acceso a la
 red), atrae la participación e involucramiento del capital a través de la
-actividad e los capitalistas [redárquicos][^netarchic].
+actividad e los capitalistas redárquicos[^netarchic].
 
 [^netarchic]: _Netarchical_ en el original.
 
@@ -141,7 +141,7 @@ estuvieron muy asociados con la propiedad colectiva. La producción de pares
 abre la vía para más propiedad distribuida, donde los individuos pueden agregar
 libremente no sólo sus recursos productivos inmateriales, sino también sus
 recursos productivos materiales. Bajo esas condiciones, el posible abuso de la
-propiedad colectiva se balancea por la libertad individual de [derivar][^fork]
+propiedad colectiva se balancea por la libertad individual de derivar[^fork]
 los recursos productivos.
 
 [^fork]: _Forking_ en el original.
@@ -160,7 +160,7 @@ transnacionales, fomentadoras de las comunidades, que crean una nueva capa de
 cooperación material post-capitalista.
 
 [^file]: Griego antiguo para _tribu_, para su resignificación moderna, [ver
-         Filé en Indianopedia][http://lasindias.net/indianopedia/Fil%C3%A9]
+         Filé en Indianopedia](http://lasindias.net/indianopedia/Fil%C3%A9)
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
 y captura de capital (redárquico) no-recíproco. Bajo condiciones de solidaridad
