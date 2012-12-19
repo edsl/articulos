@@ -3,9 +3,8 @@ layout: post
 title: El Manifiesto Telecomunista
 author: Dmitry Kleiner
 ---
-
-El Manifiesto Telecomunista
-===========================
+## Dmitry Kleiner
+# El Manifiesto Telecomunista
 
 El Manifiesto Telecomunista se compone de textos extendidos y re-trabajados por
 Dmytri Kleiner, a partir de trabajos de Joanne Richardson, Brian Wyrick y
