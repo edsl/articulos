@@ -4,9 +4,6 @@ author: Michel Bauwens
 title: Tesis sobre el trabajo digital
 ---
 
-Michel Bauwens
---------------
-
 Tesis sobre el trabajo digital
 ==============================
 

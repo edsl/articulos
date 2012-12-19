@@ -3,7 +3,8 @@ layout: default
 author: Publicación
 title: En Defensa del Software Libre 0
 ---
-# {{ page.title }}
+
+# En Defensa del Software Libre 0
 [Descargar][0]
 
 En Defensa del Software Libre es una revista de teoría sobre Software y

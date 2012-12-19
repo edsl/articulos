@@ -4,9 +4,6 @@ author: Aaron Swartz
 title: Manifiesto por la Guerrilla del Acceso Abierto
 ---
 
-Aaron Swartz
-------------
-
 Manifiesto por la Guerrilla del Acceso Abierto
 ==============================================
 
