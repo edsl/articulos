@@ -48,34 +48,93 @@ decentralized network (all nodes have to pass through hubs). In a
 distributed network the nodes, as autonomous agents, can connect through
 any number of links. Hubs may exist, but are not obligatory.
 
+Este formato está emergiendo alrededor de todo el campo social: como un formato
+de tecnología (la Internet punto a punto, la compartición de archivos, la
+computación en grilla, las iniciativas Writable Web[^ww], los blogs), como un
+tercer modo de producción también llamado producción de pares basada en el
+Común (sin planificación central ni con fines de lucro), produciendo hardware,
+software (a menudo llamados Free Libre Open Source Software o FLOSS[^floss])
+y recursos intelectuales y culturales (wetware[^wetware]) de gran valor para la
+humanidad (Wikipedia) a la vez que como modo general de intercambio de
+conocimiento y educación colectiva practicada masivamente en la Internet.
+También emerge como un nuevo formato organizacional en la política y la
+espiritualidad; como una nueva "cultura del trabajo".  Este ensayo traza por
+tanto la expansión de este formato, visto como un "isomorfismo" (de formato),
+en tantos campos como sea posible.  El formato común del que emerge la dinámica
+de pares es el formato de la "red distribuida" que, de acuerdo a la definición
+de A. Galloway en su libro Protocol, difiere tanto de la red centralizada
+(todos los nodos deben pasar por un único hub[^hub]) como de la red
+decentralizada (todo los nodos deben pasar por hubs). En una red distribuida
+los nodos, como agentes autónomos, pueden conectarse a través de cualquier
+cantidad de enlaces. Los hubs pueden existir, pero no son obligatorios.
+
+[^ww]: "La Web Escribible".
+
+[^floss]: FLOSS es un acrónimo que intenta englobar el software libre
+(Free/Libre) y de código abierto (Open Source), en castellano usamos Software
+Libre.
+
+[^hub]: Concentrador
+
+[^wetware]: ?
+
 The essay tries not only to describe, but attempts to provide an
 explanatory framework of why it is emerging now, and how it fits in a
 wider evolutionary framework (not in the sense of an inevitable natural
 evolution, but as an intentional moral breakthrough).
+
+Este ensayo intenta no sólo describir, sino también proveer un marco
+explicatorio sobre por qué se encuentra en emergencia en la actualidad y cómo
+encaja en un marco evolutivo más amplio (no en el sentido de una evolución
+natural inevitable, sino en el de un rompimiento[?] moral intencional).
 
 The underlying logic of development in which the emergence of P2P is
 best understood, may be by viewing 'participation' as the key variable,
 seeing how it intensifies historically in various social formations.
 This idea was best expressed by John Heron in a personal communication:
 
+La lógica de desarrollo subyacente en la que la emergencia del P2P es mejor
+entendida podría ser aquella en la que la "participación" es una variable
+clave, al observar cómo se intensifica históricamente en varias formaciones
+sociales. Esta idea fue mejor expresada por John Heron en una comunicación
+personal:
+
 "There seem to be at least four degrees of cultural development, rooted
 in degrees of moral insight and not in an evolutionary logic:
 
+"Parece haber al menos cuatro grados de desarrollo cultural, enraizado en
+grados de [moral insight][?] y no en lógica evolucionaria:
+
 ​(1) autocratic cultures which define rights in a limited and oppressive
 way and there are no rights of political participation;
+
+ 1. Culturas autocráticas que definen los derechos de forma limitada
+    y opresiva, en las que no hay derechos de participación política;
 
 ​(2) narrow democratic cultures which practise political participation
 through representation, but have no or very limited participation of
 people in decision-making in all other realms, such as research,
 religion, education, industry etc.;
 
+ 2. Culturas de democracia estrecha que practican la participación política
+    a través de la representación, pero no tienen o tienen muy limitadamente
+    participación en la toma de decisiones en otros ámbitos, como la
+    investigación, la religión, la educación, la industria, etc.;
+
 \
  (3) wider democratic cultures which practice both political
 participation and varying degree of wider kinds of participation;
 
+ 3. Culturas de democracia más amplia que practican tanto la participación
+    política y grados variantes de formas de participación más amplias;
+
 ​(4) commons p2p cultures in a libertarian and abundance-oriented global
 network with equipotential rights of participation of everyone in every
 field of human endeavour."
+
+ 4. Culturas P2P del Común en una red global libertaria y orientada a la
+    abundancia con derechos equipotentes de participación para cualquiera en
+    cualquier campo de la empresa humana."
 
 Note that within most of the sections, the organisation is as follows:
 the first subsection is descriptive, the second is explanatory, and the
@@ -96,6 +155,27 @@ the contermporary period, more or less starting after 1968, which is
 marked by the emergence of the informational mode of capitalism. I will
 use the term cognitive capitalism most frequently in my characterization
 of the current regime, as it corresponds to the interpretation, which is
+
+Nótese que en la mayoría de las secciones de este ensayo, su organización es la
+siguiente: la primera subsección es descriptiva, la segunda es explicatoria
+y la tercera es histórica.  En la última, utilizo la tríada
+premodernidad/modernidad/posmodernidad teniendo bien en cuenta que se trata de
+una simplificación y que une varias distinciones importantes, por ejemplo entre
+las eras tribales y las agrarias.  Pero como una generalización orientativa que
+permite la contrastación de los cambios que ocurren después de la emergencia de
+la modernidad se mantiene útil.  Entonces, lo "premoderno" conceptualiza a las
+sociedades basadas en la tradición, antes del advenimiento del capitalismo
+industrial, con roles sociales fijos y una organización social inspirada en lo
+que se cree un orden divino; moderno esencialmente significa la era del
+capitalismo industrial; finalmente, la elección del término posmoderno no
+denota una preferencia específica en las "guerras de la interpretación" entre
+conceptos como posmodernidad, modernidad líquida, modernidad reflexitiva[?],
+transmodernidad, etc.  Simplemente significa el período contemporario, que más
+o menos comienza después de 1968, marcado por la emergencia del modo
+informacional del capitalismo.  Utilizaré frecuentemente el término capitalismo
+cognitivo en mi caracterización del régimen actual, como corresponde a la
+interpretación,
+
 the most convincing in my view. The French magazine Multitude is my main
 source for such interpretations. It's essential meaning is the
 replacement of an older 'regime of accumulation', centered on machines
@@ -108,19 +188,44 @@ distinguished from a hypothetical coming situation where P2P is more
 dominant than it is today, and what that would change in the
 characteristics of such a society.
 
+que es la más convincente desde mi punto de vista. La revista francesa
+_Multitude_ es mi fuente principal de tales interpretaciones.  Su significado
+esencial es el reemplazo del antiguo "régimen de acumulación", centrado en la
+maquinaria y la división del trabajo que le correspondían; a otro régimen
+centrado en ser parte del proceso de acumulación de conocimiento y creatividad
+como nueva fuente del que emanan poder y lucro.  Finalmente, nótese que en los
+gráficos y figuras subsiguientes a veces utilizo el marco "modernidad temprana
+/ modernidad tardía / era del P2P".  De esta forma, el marco temporal actual
+puede distinguirse una situación hipotética por venir, donde el P2P es más
+dominante que hoy en día y aquello que podría cambiar en las características de
+una sociedad tal.
+
 I will conclude my essay with the conclusion that P2P is nothing else
 than a premise of a new type of civilization that is not exclusively
 geared towards the profit motive. What I have to convince the user of is
 that
+
+Terminaré mi ensayo con la conclusión que el P2P no es más que el principio de
+un nuevo tipo de civilización que no está exclusivamente dirigida hacia el
+lucro. Tendré que convencer a su usuario que
 
 - 1) a particular type of human relational dynamic is growing very fast
 across the social fields, and that such combined occurrence is the
 result of a deep shift in ways of feeling and being (ontology), of
 knowing (epistemology), and of core value constellations (axiology)
 
+ 1. Un tipo particular de dinámica relacional humana está creciendo rápidamente
+    a través de los campos sociales y que tal ocurrencia combinada es el
+    resultado de un cambio profundo en las formas de sentir y ser (ontología),
+    de conocer (epistemología) y su constelación de valores centrales
+    (axiología);
+
 \
  - 2) That it has a coherent logic that cannot be fully contained within
 the present ‘regime’ of society.
+
+ 2. Con una lógica coherente que no puede ser contenida enteramente dentro del
+    "régimen" actual de la sociedad;
 
 \
  - 3) that it is not an utopia , but, as ‘an already existing social
@@ -131,6 +236,14 @@ a major breakthrough in social evolution, leading to the possibility of
 a new political, economic, and cultural 'formation' with a new coherent
 logic.
 
+ 3. Que no es una utopía, sino, en tanto "práctica social existente", la
+    simiente de una probable transformación mayor por venir.  No argumentaré
+    que existe una "lógica evolucionaria inevitable trabajando" sino que se
+    trata de una nueva e intencional visión moral con el potencial de
+    [breakthrough] en la evolución social, llevando a la posibilidad de una
+    nueva "formación" política, económica y cultural con una nueva lógica
+    coherente.
+
 Implicit in my interpretation of peer to peer as a social formation, is
 that it is accompanied by a nascent socio-political movement, much as
 industrial class relations triggered a labour movement. In the case of
@@ -139,6 +252,15 @@ promotion and defense of the Commons, i.e. the existence of a
 common-property regime that exists alongside the state and the market,
 but which is also under threat by a frenetic movement to privately
 appropriate common resources.
+
+Está implícita en mi interpretación del par-a-par como una formación social es
+que viene acompañada por un naciente movimiento sociopolítico, así como las
+relaciones industriales de clase iniciaron el movimiento obrero.  En el caso
+del "movimiento par-a-par" su interés está puesto en la promoción y defensa de
+los Comunes, es decir la existencia de un régimen de propiedad común que existe
+paralelamente al Estado y al Mercado, pero que también se encuentra bajo la
+amenaza de un movimiento frenético para apropiarse privadamente [?] los
+recursos comunes.
 
 Such a large overview will inevitably bring errors of interpretation
 concerning detailed fields. I would appreciate if readers could bring
@@ -153,12 +275,31 @@ essay inspires people from these different fields to connect, aware that
 they are sharing a set of values, and that these values have potential
 in creating a better, but not perfect or ideal, society.
 
+Tal amplitud de vistas contraerá inevitablemente errores de interpretación
+concernientes a los campos detallados.  Apreciaré que los lectores traigan
+tales errores a mi atención.  Pero a pesar de estos errores, el ensayo debe
+caer o mantenerse en el contexto de su punto interpretativo más general: que en
+efecto existe una emergencia isomórfica del par-a-par a través del campo
+social, que a pesar de las diferencias en su expresión, se trata del mismo
+fenómeno, y que no es un desarrollo marginal, sino "fundamental".  Es este
+sentido que mis esfuerzos deben ser juzgados.  Si este esfuerzo es
+efectivamente juzgado exitoso, entonces espero que este ensayo inspire a las
+personas de estos campos diferentes a conectarse, concientes de estar
+compartiendo los mismos valores y que estos valores tienen la potencialidad de
+crear una sociedad mejor, aunque no perfecta o ideal.
+
 How does the explanatory framework which I will provide for P2P, differ
 from the use of the earlier metaphor of the network society, described
 by Manuel Castells and many others, and lately in particular by the
 network sociality concept proposed by Andreas Wittel? The best way to
 differentiate the approaches is to see P2P as a subset of network
 conceptions.
+
+¿Cómo es que el marco explicatorio que proveeré para el P2P difiere de la
+metáfora temprana de la sociedad red descrita por Manuel Castells y tantos
+otros, y más tarde y particularmente por el concepto de la socialización red
+propuesto por Andreas Wittel?  La mejor manera de diferenciar estos
+acercamientos es ver al P2P como un subgrupo de concepciones red.
 
 If you would have been a social scientist during the lifetime of Marx
 and witnessed the emergence and growth of the factory-based industrial
@@ -170,6 +311,18 @@ reaction was created as well. Workers were creating cooperatives and
 mutualities, unions and new political parties and movements, which would
 go on to fundamentally alter the world. Today, this is what happens with
 peer to peer. Whereas Castells and Wittel focus on the general emergence
+
+Si hubieras sido un científico social en la época de Marx y hubieras
+presenciado la emergencia y crecimiento del modelo industrial basado en la
+fábrica y entonces hubieras llegado al equivalente de la teoría social en red
+de hoy, es decir a un análisis de sociedad hegemónica y su socialización.  Este
+es el modelo de socialización red que provee Andreas Wittel.  Pero al mismo
+tiempo que el sistema fabril se desarrollaba, una reacción lo hacía al mismo
+tiempo.  Los trabajadores estaban creando cooperativas y mutuales, sindicatos
+y nuevos partidos políticos y movimientos, que llegarían a alterar el mundo
+desde sus fundamentos.  Hoy, esto es lo que sucede con el par-a-par.  Así como
+Castells y Wittel se enfocan en la emergencia general
+
 of network society and society, and describes the networks overall and
 the dominant features of it, I want and tend to focus on the birth of a
 counter-movement, centered around a particular format of sociality based
@@ -184,6 +337,22 @@ multitude(s). These forces are using peer to peer processes, and a peer
 to peer ethos, to create new forms of social life, and this is what I
 want to document in this essay.
 
+de la sociedad red y la sociedad, y describen las redes en general y sus
+característica dominantes, yo intento y tiendo a enfocarme en el nacimiento de
+una contra-movimiento, centrado sobre un formato particular de socialización
+basado en las redes distribuidas, donde el foco está puesto en crear
+participación para todos y no en [buttressing][?] las "las mallas[^meshwork] de
+explotación".  Mientras las fuerzas dominantes de la sociedad están mutando
+a formas de organización en red de la economía política (lo que Toni Negri
+llamó Imperio), una reacción desde las bases contra esta nueva alienación está
+ocurriendo (alienada, porque en el Imperio, las mallas están al servicio de la
+creación de desigualdad), llevada a cabo por las fueras que Negri y Hardt
+llamaron la(s) multitud(es).  Estas fuerzas están usando procesos de pares y un
+_etos_ de pares, para crear nuevas formas de vida social; esto es lo que quiero
+documentar en este ensayo.
+
+[^meshwork]: _Meshwork_.
+
 **1.B. Some acknowledgments**
 
 This essay is part of a larger project, the writing of a French-language
@@ -194,6 +363,16 @@ clarification in terms of the ideas expressed in this essay. We share an
 enthousiasm for understanding P2P, though we frequently differ in our
 interpretations. The current essay therefore reflects my own vision.
 
+### Reconocimientos
+
+Este ensayo es parte de un proyecto más grande, la escritura de un libro en
+francés que estoy realizando con Remi Sussan, un periodista _freelance_
+parisino que trabaja en revistas "digitales" como _TechnikArt_.  El diálogo
+continuo con él ha sido una gran fuente de inspiración y clarificación en
+términos de las ideas que se expresan aquí.  Compartimos un entusiasmo por
+comprender el P2P, aunque diferimos frecuentemente en nuestras
+interpretaciones.  Por lo tanto este ensayo sólo refleja mi punto de vista.
+
 A first essay on P2P, essentially descriptive, but supported by many
 citations, is available on the internet on the Noosphere.cc site, and
 was written in 2003. However, most of these citations have now been
@@ -201,6 +380,9 @@ integrated as endnotes. In this current essay, which was written pretty
 much in a ‘free flow of consciousness’ mode, though I will mention quite
 a few names of social theorists, citations have been kept at a minimum,
 but I may add them in later version as footnotes.
+
+Un primer ensayo sobre el P2P, esencialmente descriptivo pero con muchas citas, :wq
+
 
 Some acknowledgements about the sources used: amongst the contemporary
 and near-contemporary thinkers that I have been reading most recently in
