@@ -3,8 +3,9 @@ layout: post
 author: Johan Söderberg
 title: "¡Hackers GNUníos!"
 ---
-## Johan Söderberg
-# ¡Hackers GNUníos! [^0]
+
+¡Hackers GNUníos! [^0]
+======================
 
 ## La izquierda política y la política de los hackers
 

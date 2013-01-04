@@ -3,7 +3,7 @@ layout: post
 author: Publicación
 title: Redes Inalámbricas para Países en Desarrollo
 ---
-# {{ page.title }}
+# Redes Inalámbricas para Países en Desarrollo
 
 ![BuenosAiresLibre](http://wiki.buenosaireslibre.org/LogoBAL?action=AttachFile&do=get&target=LogoBAL.png)
 

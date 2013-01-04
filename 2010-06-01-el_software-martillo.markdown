@@ -3,7 +3,7 @@ layout: post
 title: El Software-martillo
 author: Nicolás Reynolds
 ---
-## Nicolás Reynolds
+
 # El Software-martillo [^0]
 
 ## Introducción
