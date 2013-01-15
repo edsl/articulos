@@ -1,62 +1,8 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 2.1.B. The emergence of peer to peer as technological infrastructure
 ====================================================================
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**2.1.B. The emergence of peer to peer as technological infrastructure**
+La emergencia del P2P como infraestructura tecnológica
+======================================================
 
 But how does all of the above it apply to technology?
 
@@ -67,6 +13,17 @@ of communication being created are in fact an alternative communication
 infrastructure that in part transcends the state and corporate control
 of traditional one-to-many mass media. It is also emerging as a
 infrastructure of the free cooperation of autonomous agents.
+
+Pero ¿cómo todo lo anterior aplica a la tecnología?
+
+En esta sección y en la siguiente, intentaré describir dos aspectos
+relacionados.  El primero es que la las tecnologías con formato de pares son
+ahora la infraestructura misma de los procesos de negocio.  El segundo es que
+las nuevas tecnologías de la comunicación que están siendo creadas en este
+momento son de hecho una infraestructura de comunicación alternativa que
+trasciende en parte el control estatal y corporativo de los medios masivos
+tradicionales de uno-a-muchos.  A su vez, está emergiendo como la
+infraestructura de la cooperación libre de agentes autónomos.
 
 This is not to say that the new infrastructure is not controlled 'at
 all', that corporate forces are not at work in it, but means that we
@@ -82,6 +39,20 @@ relationship is borne out by our description of the use of P2P
 technologies to create an alternative peer-based communications
 infrastructure (2.1.C), as well as for an infrastructure of human
 cooperation (2.1.D.).
+
+Esto no quiere decir que esta nueva infraestructura no esté _para nada_
+controlada, ni que las fuerzas corporativas no trabajan en ella, sino que no
+podemos cegarnos a su potencial radical ni tampoco a su _actualidad_ radical.
+Aquí tanto como en las otras secciones veremos cómo el P2P es al mismo tiempo
+la base misma del sistema mientras que lo está trascendiendo
+significativamente.  En este sentido, no hay causa directa para vincular
+efectivamente la tecnología de pares como tal con la dinámica relacional de
+pares que es el tópico de nuestra investigación.  Pero la tecnología de pares
+tiene más chances de ser la base tecnológica para habilitar y soportar las
+relaciones humanas de pares que la tecnología centralizada.  Esta relación nace
+de nuestra descripción del uso de las tecnologías de pares para crear una
+infraestructura de comunicaciones alternativa de pares (ver 2.1.C), tanto como
+una infraestructura de la cooperación humana (ver 2.1.D).
 
 The Internet, as it was conceived by its founders (Abbate, 1999), and
 evolved in its earliest format, was a point to point network, consisting
@@ -99,6 +70,23 @@ many-to-many communication and participation, but enable it. The
 evolution of the internet is largely seen to be 'organic' rather than
 centrally directed, no single central player can direct it, though some
 players are more influential than others.
+
+Internet, tal como fuera concebida por sus fundadores[@abbate-1999]
+y evolucionara en su formato más temprano, era una red de punto a punto,
+consistente de redes iguales, donde el tráfico de datos usaba diferentes
+recursos según fuera necesario.  Es más tarde, luego del surgimiento de redes
+más fuertes y más débiles, de redes abiertas, semi-cerradas y cerradas, que
+Internet se convirtió en un híbrido, aunque todavíá funciona esencialmente como
+una red distribuida, sin un centro que administre el sistema.  Sus elementos
+jerárquicos, como la pila de capas que es el protocolo de Internet (aunque
+diseñado específicamente para permitir procesos de pares), el sistema de
+dominio de nombres (un sistema decentralizado de servidores autoritarios que
+pueden desconectar participantes, porque no se puede llegar a una dirección sin
+la intervención del DNS) o los cuerpos de gobernanza de Internet no prohíben la
+comunicación de muchos-a-muchos ni la participación, sino que la habilitan.  La
+evolución de Internet es ampliamente vista como _orgánica_ antes que dirigida
+centralizadamente, donde ningún participante solitario puede dirigirla aunque
+algunos sean más influenciales que otros.
 
 The web similarly was seen as a many-to-many publishing medium, even
 though it follows a semi-hierarchical client-server model (hence
@@ -118,6 +106,27 @@ in which all members, also the weak members (without fixed DNS address
 for the internet, blogs with permalinks in case of the web) can
 participate.
 
+Similarmente, la web fue vista como un medio de publicación de muchos-a-muchos,
+aun cuando sigue un modelo semi-jerárquico de cliente-servidor (de ahí que sea
+decentralizada antes que distribuida).  Sin embargo, es todavía y seguirá
+siendo un medio esencialmente participativo permitiendo a cualquiera publicar
+sus propias páginas web.  Es por su naturaleza P2P incompleta que se está
+convirtiendo en un medio de publicación verdaderamente P2P con los proyectos de
+la _Writeable Web_ (también llamada la _read/write web_)[^ww] que permite
+a cualquiera publicar desde su propia o cualquier computadora, en la forma de
+bloqueo, etc.  Otros medios de pares son la mensajería instantánea, el chat,
+los sistemas de telefonía IP, etc.  Para Internet y la Web el P2P no había sido
+teorizado explícitamente (aunque la idea de la red de redes sí lo fue) y por lo
+tanto son sistemas de pares débiles por tanto reconocen miembros "fuertes",
+como las computadores con direcciones DNS en Internet y los servidores en el
+caso de la Web.  En los sistemas desarrollados más tarde, el P2P ya se había
+teorizado explícitamente: son sistemas P2P _fuertes_ donde todos los miembros,
+aun los miembros débiles (sin una dirección DNS fija en Internet, blogs con
+permalinks en el caso de la Web) pueden participar.
+
+[^ww]: Web "Escribible", en referencia a que la web original es de sólo lectura
+(read).
+
 Filesharing systems were the first to be explicitly tagged with the P2P
 label, and this is probably the origin of the concept in the world of
 technology. In such systems, all voluntary computers on the internet are
@@ -134,12 +143,37 @@ true P2P systems, in particular Bittorrent and the planned development
 of Exeem. Each generation of P2P filesharing has been more consistent in
 its applications of peer to peer principles .
 
+Los sistemas de compartición de archivos fueron los primeros en ser
+explícitamente etiquetados como P2P y este es probablemente el origen del
+concepto en el mundo de la tecnología.  En tales sistemas, todas las
+computadoras voluntarias en Internet son movilizadas para compartir archivos
+entre todos los sistemas participantes, sean estos documentos, archivos de
+sonido o material audiovisual.  En junio de 2003, la transmisión de video se
+convirtió en la aplicación de Internet con mayor consumo de ancho de banda y un
+tiempo después, la distribución en línea de música sobrepasaría a la
+distribución física de CDs (en los Estados Unidos).  Por supuesto, la imagen
+pública de la compartición de archivos está asociada con la compartición pirata
+de música y video con copyright.  Aunque las encarnaciones más tempranas de
+estos sistemas de pares aun utilizaban bases de datos centralizadas, ahora
+y gracias a los esfuerzos de la industria musical son verdaderos sistemas de
+pares, en particular _BitTorrent_ y el desarrollo planeado de _Exeem_.  Cada
+generación de compartición de archivos entre pares ha sido más consistente en
+su aplicación de los principios de par-a-par.
+
 Finally, grid computing uses the P2P concept to create ‘participative
 supercomputers’, where resources, spaces, computing cycles can be used
 from any participant in the system, on the basis of need. It is
 generally seen as the next paradigm for computing. Even programming now
 uses the P2P concept of object-oriented programming, where each object
 can be seen as a node in a distributed network.
+
+Finalmente, la computación en grilla utiliza el concepto P2P para crear
+"supercomputadoras participativas", donde los recursos, espacios y ciclos de
+computación pueden ser utilizados por cualquier participante del sistema,
+basándose en la necesidad.  Es generalmente visto como el próximo paradigma de
+la computación.  También la programación utiliza el concepto P2P de
+programación orientada a objetos, donde cada objeto puede ser visto como un
+nodo de una red distribuida.
 
 All of the above clearly shows that the new format of our technological
 infrastructure, which lies at the basis of basic and economic processes,
@@ -149,6 +183,15 @@ company, and the interlinking of all the individuals involved. Soon, and
 perhaps it is already the case today, it will be justified to claim that
 without P2P-formatted technologies, it will be impossible to carry out
 production and all the related economic mechanisms.
+
+Todo lo anterior muestra claramente que el nuevo formato de nuestra
+infraestructura tecnológica, que descansa en la base de procesos básicos
+y económicos, sigue el diseño P2P.  Esta infraestructura habilita la
+intervinculación de procesos de negocios, más allá de las fronteras de la
+fábrica o la compañía individual y la intervinculación de los individuos
+involucrados.  Pronto, aunque tal vez ya esté sucediendo, podrá decirse con
+justificación que sin las tecnologías con formato de pares resultará imposible
+mantener la producción y todos sus mecanismos económicos relacionados.
 
 I could go on, but what should emerge in your mind, is not a picture of
 a series of marginal developments, but the awareness that P2P networks
@@ -168,6 +211,24 @@ multi-authorship in different scientific fields, with hundreds of people
 involved in research projects, and the distributed use of scientific
 instruments, such as arrays of small radio telescopes.
 
+Podría continuar, pero lo que debería imaginarse no es la foto de una serie de
+desarrollos marginales, sino la conciencia de que las redes de pares son el
+formato clave de la infraestructura tecnológica que soporta los sistemas
+económicos, políticos y sociales actuales.  Las compañías han utilizado estas
+tecnologías para integrar sus procesos con los de sus _partners_, proveedores,
+consumidores y entre sí, utilizando una combinación de redes internas, externas
+y la Internet pública y se ha convertido absolutamente en la herramienta
+esencial para la comunicación internacional y los negocios, tanto como para
+habilitar proyectos cooperativos coordinados internacionalmente y realizados
+por equipos.  Como veremos en nuestra revisión de la emergencia de prácticas de
+pares a través del campo social, hacer énfasis en los procesos económicos y de
+negocios resultaríá en un análisis unilateral.  La política, la cultura y la
+ciencia están siendo igualmente cambiadas por las prácticas distribuidas que
+habilita la nueva infraestructura tecnológica.  Son ejemplo de esto el aumento
+de la multi-autoría masiva en diferentes campos científicos, con cientos de
+personas involucradas en proyectos de investigación y el uso distribuido de
+instrumentos científicos, como grupos de pequeños telescopios de radio.
+
 On the other hand, P2P systems are not just the outcome of plans of the
 establishment, but are the result of the active intervention of
 consumers avid for free access to culture, of knowledge workers actively
@@ -176,65 +237,10 @@ and of activists consciously working for the creation of tools for an
 emerging participative culture . P2P is both 'within' and 'beyond' the
 current system.
 
-Retrieved from
-"[?title=2.1.B.\_The\_emergence\_of\_peer\_to\_peer\_as\_technological\_infrastructure&oldid=1122][]"
-
--   This page was last modified on 30 September 2005, at 03:25.
--   This page has been accessed 1,178 times.
--   [Copyright Information][]
-
--   [\<!-- --\>][]
--   [About the P2P Foundation Wiki][]
--   \<!-- --\>
-
--   [![Attribution-ShareAlike 3.0 Unported][]][]
--   [![Powered by MediaWiki][]][]
-
-  []: /Main_Page "Visit the main page"
-  [Page]: /2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
-    "View the content page [c]"
-  [Discussion]: ?title=Talk:2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=edit&redlink=1
-    "Discussion about the content page [t]"
-  [1]: #
-  [Share this]: http://www.addthis.com/bookmark.php?v=20
-  [Read]: /2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
-  [View source]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=edit
-    "This page is protected.
-    You can view its source [e]"
-  [View history]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=history
-    "Past revisions of this page [h]"
-  [Search]: /skins/vector/images/search-ltr.png?303
-  [Log in]: ?title=Special:UserLogin&returnto=2.1.B.+The+emergence+of+peer+to+peer+as+technological+infrastructure
-    "You are encouraged to log in; however, it is not mandatory [o]"
-  [Wiki Main Page]: /Main_Page
-  [Blog [EN]]: http://blog.p2pfoundation.net/
-  [Blog [GR]]: http://bloggr.p2pfoundation.net/
-  [Ning Network]: http://p2pfoundation.ning.com
-  [Recent changes]: /Special:RecentChanges
-    "A list of recent changes in the wiki [r]"
-  [Random page]: /Special:Random "Load a random page [x]"
-  [Help]: /Help:Contents "The place to find out"
-  [Donations]: /P2P_Foundation:Site_support
-  [What links here]: /Special:WhatLinksHere/2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
-    "A list of all wiki pages that link here [j]"
-  [Related changes]: /Special:RecentChangesLinked/2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
-    "Recent changes in pages linked from this page [k]"
-  [Special pages]: /Special:SpecialPages
-    "A list of all special pages [q]"
-  [Printable version]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&printable=yes
-  [Permanent link]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&oldid=1122
-    "Permanent link to this revision of the page"
-  [navigation]: #mw-head
-  [search]: #p-search
-  [?title=2.1.B.\_The\_emergence\_of\_peer\_to\_peer\_as\_technological\_infrastructure&oldid=1122]:
-    ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&oldid=1122
-  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
-    "P2P Foundation Notice on Copyrights"
-  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
-    "P2P Foundation:Privacy policy"
-  [About the P2P Foundation Wiki]: /P2P_Foundation:About
-    "P2P Foundation:About"
-  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
-  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
-  [![Powered by MediaWiki][]]: //www.mediawiki.org/
+Por otro lado, los sistemas de pares no son sólo el producto de la
+planificación del _stablishment_ sino el resultado de la intervención activa de
+los consumidores ávidos de acceso libre a la cultura, de los trabajadores del
+conocimiento trabajando activamente para encontrar soluciones técnicas a su
+necesidad de trabajo cooperativo y de los activistas trabajando concientemente
+por la creación de herramientas para una cultura participativa en emergencia.
+El P2P es a la vez "dentro" y "más allá" del sistema actual.
