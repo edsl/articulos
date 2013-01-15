@@ -381,7 +381,13 @@ much in a ‘free flow of consciousness’ mode, though I will mention quite
 a few names of social theorists, citations have been kept at a minimum,
 but I may add them in later version as footnotes.
 
-Un primer ensayo sobre el P2P, esencialmente descriptivo pero con muchas citas, :wq
+Un primer ensayo sobre el P2P, esencialmente descriptivo pero con muchas citas
+se encuentra disponible en Internet en el sitio
+[noosphere.cc](http://noosphere.cc) y fue escrito en el año 2003. Sin embargo,
+muchas de esas citas rsultaron integradas como notas al final.  En este ensayo,
+escrito más o menos de modo "flujo libre de la conciencia", aunque mencionaré
+a unos cuantos teoristas sociales, las citas serán mantenidas al mínimo, pero
+versiones posteriores podrán incluirlas como notas al pie.
 
 
 Some acknowledgements about the sources used: amongst the contemporary
@@ -399,3 +405,19 @@ Edward Haskell and Arthur Coulter, on synergetics and cooperation, which
 are explained on his website. Mackenzie Wark's Hacker Manifesto (Wark,
 2004) and Alexander Galloway's Protocol (Galloway, 2004), have strongly
 influenced my analysis of P2P power structures.
+
+Algunos reconocimientos a las fuentes utilizadas: entre los pensadores
+contemporáneos y los casi-contemporáneos a los que he estado leyendo durante la
+preparación de este ensayo se encuentran: Norbert Elias[@elias-1975], Louis
+Dumont[@vibert-2004] y Cornelius Castoriadis[@castoriadis-1975]; la escuela de
+pensamiento franco-italiana alrededor de la revista _Multitude_, especialmente
+a Toni Negri y Michael Hardt, Maurizio Lazzarato[@lazzarato-2004], Phillippe
+Zafirian[@zafirian-2003].  Entre los pioneros del P2P que he leído están Pekka
+Himanen[@himanen-2002], por su estudio sobre la cultura del trabajo; John
+Heron[@heron-1998] y Jorge Ferrer[@ferrer-2001], por su trabajo en la
+espiritualidad participativa.  Timothy Wilken de [synearth.org][] fue
+instrumental en el descubrimiento de las teorías de Edward Haskell y Arthur
+Coulter sobre sinergética y cooperación, las cuales son explicadas en su sitio
+web.  El _Manifiesto Hacker_ de Mackenzie Wark[@wark-2004] y _Protocol_ de
+Alexander Galloway[@galloway-2004], han influenciado fuertemente mi análisis de
+las estructuras de poder P2P.
