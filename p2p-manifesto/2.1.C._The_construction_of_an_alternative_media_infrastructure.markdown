@@ -1,62 +1,8 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 2.1.C. The construction of an alternative media infrastructure
 ==============================================================
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**2.1.C. The construction of an alternative media infrastructure**
+La construcción de una infraestructura de medios alternativa
+============================================================
 
 Distributed technological networks are the most important infrastructure
 for cognitive capitalism. But as a communication infrastructure, the
@@ -77,6 +23,27 @@ the internet is also characterized by a certain commercial exploitation,
 and by very strong commercial entities such as Yahoo, as a whole, and as
 a distributed network, it is not owned nor controlled by commercial
 entities, but by a network of various entities: commercial,
+
+Las redes tecnológicas distribuidas son la más importante infraestructura del
+capitalismo cognitivo.  Pero en tanto infraestructura de comunicaciones, las
+corporaciones transnacionales dominantes podrían descansar por un largo tiempo
+en sus propias redes de privadas de telecomunicación.  Internet ha
+democratizado radicalmente el acceso a este tipo de infraestructura a todo
+aquel con acceso a una computadora.  Similarmente, por su hegemonía cultural,
+el sistema social dominante ha confiado en el sistema "uno a muchos" de
+difusión, que requiere una gran inversión de capital y está controlado por
+intereses corporativos monopólicos a cargo del "consenso manufacturado" y en
+otros países, incluso por el Estado mismo.  El predominio de los medios
+corporativos es tal, que incluye nuestra propia psique ("pensamos como la
+televisión" aun cuando no la hemos visto por años).  Se ha vuelto imposible
+para cualquier minoría social (a excepción de los grupos religiosos
+y étnicos[!] que pueden reunir vastos recursos por sí mismos) hacerse escuchar.
+La reforma de los medios aparece definitivamente como fuera del alcance.  No
+obstante, aunque Internet también se caracteriza por una cierta explotación
+comercial y por entidades comerciales muy fuertes como _Yahoo!_, como un todo
+y como una red distribuida, no es controlada por ni propiedad de entidades
+comerciales, sino por una red de varias entidades: comerciales,
+
 governmental, nongovernmental, etc... It contains the historical promise
 of an 'alternative information and communication infrastructure', a many
 to many, bottom-up resource that can be used by various social forces.
@@ -88,6 +55,19 @@ distribution and exchange, that functions at least partly outside of the
 control of what he calls the 'vectoralist' class. The situation seems to
 be the following, and we use the distinctions drawn up by Yochai Benkler
 in his "The Political Economy of the Commons" essay. The physical layer,
+
+gubernamentales, no-gubernamentales, etc.  Contiene la promesa histórica de una
+"infraestructura alternativa de información y comunicación", un recursos de
+muchos a muchos, de abajo-arriba, que puede ser utilizado por varias fuerzas
+sociales.  Mackenzie Wark, en su _Manifiesto Hacker_, distingue a los
+productores del valor de uso inmaterial de los propietarios de los vectores de
+información, sin los cuales podría realizarse valor de cambio alguno.  La
+promesa de Internet es que ahora poseemos un vector de producción de
+información, distribución e intercambio que funciona al menos parcialmente por
+fuera del control de lo que él llama la clase "vectoralista".  La situación
+pareciera ser la siguiente, utilizando las distinciones realizadas por Yochai
+Benkler en su ensayo "La economía política de los comunes".  La capa física,
+
 networks, and communication lines, are widely distributed between
 commercial, state, and academic interests, with no single player or set
 of players dominating, and the computers themselves are widely in the
@@ -104,6 +84,13 @@ content, and has been doing so by the millions. While part of the
 previously existing Information Commons or public domain is
 disappearing, other parts are being continuously constructed through the
 myriad combined efforts of civil society users.
+
+las redes y las líneas de comunicación, están ampliamente distribuidas entre
+intereses comerciales, estatales y académicos, sin un participante o grupo de
+participantes en posición dominante, y las computadoras mismas están en las
+manos del público y la sociedad civil.  La capa lógica, especialmente el TCP/IP,
+y crecientemente los aspectos varios de la read/write web, y los protocolos de
+compartición de archivos 
 
 This process is in full swing and is what we attempt to describe in this
 section. Below, I reproduce an adapted version of a diagram from Hans
