@@ -87,10 +87,21 @@ myriad combined efforts of civil society users.
 
 las redes y las líneas de comunicación, están ampliamente distribuidas entre
 intereses comerciales, estatales y académicos, sin un participante o grupo de
-participantes en posición dominante, y las computadoras mismas están en las
-manos del público y la sociedad civil.  La capa lógica, especialmente el TCP/IP,
-y crecientemente los aspectos varios de la read/write web, y los protocolos de
-compartición de archivos 
+participantes en posición dominante y las computadoras mismas están en las
+manos del público y la sociedad civil.  La capa lógica, especialmente el
+TCP/IP, y crecientemente los aspectos variados[?] de la read/write web y los
+protocolos de compartición de archivos están sistemáticamente [rigged] de
+participación.  La capa de contenido está por un lado sujeta a un régimen cada
+vez más duro de propiedad intelectual pero por otro los participantes
+comerciales están ellos mismos sujetos a la lógica de la economía de la
+atención y el Juego de la Sabiduría[?], dictando políticas de la compartición
+y entrega de información de forma de mantener la atención.  Junto a los
+portales comerciales, que pueden o no jugar un rol vil, el público tiene
+ampliamente habilitada la creación de su propio contenido y lo ha estado
+haciendo por millones.  Mientras que parte de los Comunes Informacionales
+preexistentes o el Dominio Público están desapareciendo, otras partes están
+siendo construidas permanantemente a través de una miríada de esfuerzos
+combinados de los usuarios de la sociedad civil.
 
 This process is in full swing and is what we attempt to describe in this
 section. Below, I reproduce an adapted version of a diagram from Hans
@@ -110,6 +121,23 @@ This does not mean that the alternative internet media infrastructure
 automatically leads to emancipation, but that it can certainly enable
 political processes in that direction.
 
+Este proceso se encuentra en pleno desarrollo y es el que intentamos describir
+en esta sección.  Debajo reproduzco una versión adaptada del diagrama de Hans
+Magnus Enzensberger, que delinea la diferencia entre medios "represivos"
+y "emancipatorios".  Sin duda alguna, la infraestructura de medios alternativa
+que está emergiendo posee un sobrecogedor número de las características propias
+los medios "emancipatorios": 1) se basa en la programación distribuida (no sólo
+algunos); 2) cada receptor es un transmisor potencial (no sólo algunos pocos
+difusores); 3) posee un potencial movilizador (no genera pasividad); 4) se
+caracteriza por la interacción y la autoreproducción; 5) habilita el
+aprendizaje político y permite la producción colectiva entre participantes
+equipotentes; 6) el control social es afectado por la autoorganización.  ¡Sólo
+basta comparar esta lista con las características de la televisión corporativa!
+Entonces, la importancia histórica de estos desarrollos aparece abrumadoramente
+clara.  Esto no significa que la infraestructura de medios alternativa que es
+Internet lleve automáticamente a la emancipación, pero ciertamente puede
+permitir la aparición de procesos políticos hacia esa dirección.
+
 Let us now summarise these developments in technical terms. In terms of
 media, the broadband internet is rapidly mutating to enhance the
 capacities to create distributed online publishing in the form of the
@@ -125,6 +153,24 @@ public webcasting as it incorporates both audio and video, is possible
 through the emerging video blogging (vlogging ), but mostly through
 broadband P2P filesharing systems such as Bittorrent and Exeem , now
 already responsible for the majority of internet traffic . While Exeem
+
+Resumamos estos desarrollos en términos técnicos.  En términos de los medios,
+la Internet de banda ancha está mutando rápidamente para mejorar la capacidad
+de crear formas de publicación en línea distribuidas, tales como la Writeable
+Web (también llamada la read/write web) y el blogueo en particular;  la
+distribución de programas de audio se vuelve posible gracias a la radio en
+Internet y a varios desarrollos de audioblogueo como el _podcasteo_ (es decir
+la distribución de contenidos de audio, música o video a través de iPods
+y reproductores de MP3) y otros tipos de "radio a destiempo" como el
+_mobcasteo_ (la difusión a teléfonos móviles) e incluso el _Skypecasteo_
+(utilizando el popular software de Voz sobre IP, Skype, con el propósito de
+radiodifundir,[?] especialmente programas de radio por Internet).  La
+distribución audiovisual, a la que podemos llamar _webcasteo_ público ya que
+incorpora tanto audio como video, se vuelve posible gracias al emergente
+blogueo de video (vlogueo) pero más que nada a través de sistemas de
+compartición de archivos P2P como BitTorrent y [Exeem][], convertidos en los
+responsables de la mayor parte del tráfico en Internet.  Mientras que Exeem
+
 is still in development at the time of writing this paragraph (June
 2005), Bittorrent is considered to be a major innovation making easy
 broadband-based audiovisual distribution all but inevitable. A wide
@@ -134,6 +180,18 @@ audiovisual material . What these services such as Common Bits and the
 Broadcast Machine do, is to transform Bittorrent technology into a
 internet broadcasting platform that can be used by common users without
 expert technical knowledge.
+
+aun se encuentra en desarrollo durante la escritura de este párrafo (junio,
+2005), BitTorrent se considera la mayor innovación que convierte la
+distribución audiovisual de banda ancha en algo inevitable.  Una amplia
+variedad de servicios asociados es desarrollada por pequeñas compañías o grupos
+cooperativos que asisten a los ciudadanos en su propia producción de material
+audiovisual.  Lo que servicios como _Common Bits_ o _Broadcast Machine_ hacen
+es transformar la tecnología BitTorrent en una plataforma de difusión por
+Internet que puede ser utilizada por usuarios comunes sin conocimiento técnico
+experto.
+
+[Exeem]: https://es.wikipedia.org/wiki/EXeem
 
 All these developments taking together mean that the creation of an
 alternative information and communication infrastructure, outside of the
@@ -148,6 +206,20 @@ this alternative infrastructure, from the edges onward, step by step,
 and this is also why it seems quite unstoppable . In a sense, this is
 another example of the 'production without a manufacturer' or 'the
 supply-side supplying itself*, explained in 3.1.A (and notes).*
+
+El conjunto de estos desarrollos significa que la creación de una
+infraestructura alternativa de información y comunicación, por fuera del
+control y propiedad de los sistemas uno-a-muchos estatales y corporativos, se
+encuentra en marcha.  Estos desarrollos no son el producto de una estrategia
+activista conciente tal como la que propone Mark Pesce y es practicada por
+participantes como Indymedia, sino que es en un alto grado la extensión natural
+del empoderamiento de los usuarios, quienes, al conectarse a un hub
+inalámbrico, o instalando Skype para uso personal, o mediante cualquier otro
+acto natural de mejoramiento de la conectividad propia, están construyendo esta
+infraestructura alternativa desde los márgenes hacia dentro, paso a paso y es
+por esto mismo que parece indetenible.  En cierto sentido, este es otro ejemplo
+de la "producción sin fabricante" o "el sector de los recursos
+autoproveyéndose" explicados en la sección 3.1.A.
 
 These technological developments form the basis for a new practice of
 citizen-produced 'journalism' or 'reporting' by a 'self-informing
@@ -164,6 +236,21 @@ opportunity to distribute views that fall outside the purview of
 amateurisation' , an analysis that is related to my own concept of
 'de-institutionalisation', a key aspect of peer to peer process which I
 discuss in 3.3.C.
+
+Estos desarrollos tecnológicos forman la base de una nueva práctica de
+"periodismo" o "reportaje" ciudadano realizado por un "público auto-informado"
+centrado en el fenómeno de los blogs y aumentado por las otras técnicas que ya
+hemos discutivo.  Ejemplo de este nuevo tipo de periodismo híbrido es el
+coreano _OhMyNews_ que trabaja con 35 mil reporteros ciudadanos y un staff de
+40 miembros.  Estos desarrollos son el nuevo vehículo para la producción de la
+"opinión pública", para la creación, expresión, distribuición y compartición
+del conocimiento.  Y es tanto suplementación como competencia con los _mass
+media_ tradicionales que anteriormente moldeaban la opinión pública.
+Representa una oportunidad única de distribuir puntos de vista que pasan por
+fuera del "consenso manufacturado".  Clay Shirky lo llama "proceso de
+amauterización masiva", un análisis relacionado con mi propio concepto de
+"desinstitucionalización", un aspecto clave de los procesos de pares
+discutidos en la sección 3.3.C.
 
 All this outpouring of expression, news and commentary is interlinked in
 a blogosphere, which has developed its own techniques to distill what is
@@ -307,72 +394,3 @@ What needs to be built is:
     Tuner proposal)
 -   better social mechanisms to select quality into such an alternative
     framework
-
-\
- *Figure – Repressive Media vs. Emancipatory Media: Not available in
-this version, request manuscript by email*
-
-\
-
-Retrieved from
-"[?title=2.1.C.\_The\_construction\_of\_an\_alternative\_media\_infrastructure&oldid=16456][]"
-
--   This page was last modified on 3 November 2007, at 11:50.
--   This page has been accessed 2,389 times.
--   [Copyright Information][]
-
--   [\<!-- --\>][]
--   [About the P2P Foundation Wiki][]
--   \<!-- --\>
-
--   [![Attribution-ShareAlike 3.0 Unported][]][]
--   [![Powered by MediaWiki][]][]
-
-  []: /Main_Page "Visit the main page"
-  [Page]: /2.1.C._The_construction_of_an_alternative_media_infrastructure
-    "View the content page [c]"
-  [Discussion]: ?title=Talk:2.1.C._The_construction_of_an_alternative_media_infrastructure&action=edit&redlink=1
-    "Discussion about the content page [t]"
-  [1]: #
-  [Share this]: http://www.addthis.com/bookmark.php?v=20
-  [Read]: /2.1.C._The_construction_of_an_alternative_media_infrastructure
-  [View source]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&action=edit
-    "This page is protected.
-    You can view its source [e]"
-  [View history]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&action=history
-    "Past revisions of this page [h]"
-  [Search]: /skins/vector/images/search-ltr.png?303
-  [Log in]: ?title=Special:UserLogin&returnto=2.1.C.+The+construction+of+an+alternative+media+infrastructure
-    "You are encouraged to log in; however, it is not mandatory [o]"
-  [Wiki Main Page]: /Main_Page
-  [Blog [EN]]: http://blog.p2pfoundation.net/
-  [Blog [GR]]: http://bloggr.p2pfoundation.net/
-  [Ning Network]: http://p2pfoundation.ning.com
-  [Recent changes]: /Special:RecentChanges
-    "A list of recent changes in the wiki [r]"
-  [Random page]: /Special:Random "Load a random page [x]"
-  [Help]: /Help:Contents "The place to find out"
-  [Donations]: /P2P_Foundation:Site_support
-  [What links here]: /Special:WhatLinksHere/2.1.C._The_construction_of_an_alternative_media_infrastructure
-    "A list of all wiki pages that link here [j]"
-  [Related changes]: /Special:RecentChangesLinked/2.1.C._The_construction_of_an_alternative_media_infrastructure
-    "Recent changes in pages linked from this page [k]"
-  [Special pages]: /Special:SpecialPages
-    "A list of all special pages [q]"
-  [Printable version]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&printable=yes
-  [Permanent link]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&oldid=16456
-    "Permanent link to this revision of the page"
-  [navigation]: #mw-head
-  [search]: #p-search
-  [?title=2.1.C.\_The\_construction\_of\_an\_alternative\_media\_infrastructure&oldid=16456]:
-    ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&oldid=16456
-  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
-    "P2P Foundation Notice on Copyrights"
-  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
-    "P2P Foundation:Privacy policy"
-  [About the P2P Foundation Wiki]: /P2P_Foundation:About
-    "P2P Foundation:About"
-  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
-  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
-  [![Powered by MediaWiki][]]: //www.mediawiki.org/
