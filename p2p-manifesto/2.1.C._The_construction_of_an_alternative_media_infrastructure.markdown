@@ -276,6 +276,32 @@ is the growth in self-publishing, no longer the domain of dejected
 authors, but becoming a first choice for many who desire to reach a
 public directly without the traditional publisher intermediaries .
 
+Todo este rebalse de expresiones, noticias y comentarios se intervincula en la
+blogosfera, que ha desarrollado sus propias técnicas de destilación de lo
+importante.  A semejanza del modelo de radiodifusión [?], la blogosfera todavía
+posee hubs y conectores dirigiendo a grandes multitudes, pero se diferencia en
+que también crea la posibilidad de la "cola larga".  Esto significa que
+mientras en el mundo de la radiodifusión la curva de la distribución hace fondo
+en el final, sin dejar recursos para los intereses minoritarios, mientras que
+en los medios de pares, este hacer fondo no ocurre (la curva se achata antes de
+llegar al fondo), porque existe la posibilidad de crear cientos y cientos de
+micro-comunidades, organizadas por afinidad.  David Weinberger, enfocándose en
+el rol del blog para el individuo, dice que es "una expresión del 'yo en
+conversación'" que se hace disponible como un registro permanente (a través de
+la innovación que fueron los _permalinks_, que crean una URL fija y permanente
+para cada entrada, a diferencia de las páginas web que siempre estaban sujetas
+al cambio y la desaparición).  Una innovación crucial para la difusión de los
+blogs ha sido el desarrollo de los _feeds_ RSS, esto es la _Really Simple
+Syndication_[^rss], que permite a los usuarios de Internet "suscribirse"
+a cualquier blog que deseen y administrar la totalidad de sus _feeds_ a través
+de su email, software de lectura de RSS o sitios online como _Bloglines_.
+Relacionado con la emergencia y crecimiento de la blogosfera, el crecimiento de
+la autopublicación ha eliminado al autor rechazado al convertirse en la primera
+elección para muchos que desean llegar directamente al público sin necesitar de
+los intermediarios editoriales tradicionales.
+
+[^rss]: Sindicación Realmente Simple.
+
 Therefore, in physical terms, for the evolving telecommunications
 infrastructure, the broadcast model is being replaced by the ‘meshwork
 system’, which is already used by the Wireless Commons movement to
@@ -284,6 +310,16 @@ the Telco infrastructure . Several local governments aim to aid such a
 process . For Yochai Benkler,the development of a "Open physical layer"
 based on open wireless networks, the so-called Spectrum Commons, is a
 key precondition for the existence of a "Core Common Infrastructure".
+
+Por lo tanto, en términos físicos, en la evolución de la infraestructura de
+telecomunicaciones el modelo de radiodifusión está siendo reemplazado por un
+"sistema de red en malla", que de hecho está siendo utilizado por el movimiento
+de los Comunes Inalámbricos para crear una red de comunicaciones inalámbrica
+universal que salte [?] la infraestructura de las Telcos.  Varios gobiernos
+locales apuntan a ayudar tal proceso.  Para Yochai Benkler, el desarrollo de de
+una "capa física abierta" basada en redes inalámbricas abiertas, los llamados
+Espectros Comunes [o Comunes del Espectro?] es una precondición clave para la
+existencia de una "Infraestructura Común Base".
 
 In such a system a wide array of local networks is created at very low
 cost, while they are interlinked with ‘bridges’. The technical
@@ -297,6 +333,23 @@ years , based on similar premises, and with the additional concept of
 developing a 'Open Source TV Tuner' which he predicts will completely
 overturn traditional broadcasting. (The same technology could also be
 used for phone calls, once hybrid WiFi phones are available .) He has
+
+En tal sistema una amplitud de redes locales es creada a muy bajo costo,
+mientras que se intervinculan mediante "puentes".  El [breakthrough] técnico
+que lo vuelve posible es la invención de los Comunicadores Virales, o redes en
+malla de dispositivos en cooperación que no necesitan una infraestructura o un
+_backbone_[^backbone] sino que por sí mismos crean una red utilizando su
+capacidad [excess, no me sale la palabra].  La comunicación dentro de estas
+redes sigue un modelo P2P, así como Internet.  Mark Pesce ha desarrollado una
+propuesta realista para construir una red alternativa integrada dentro de un
+período de 10 años basándose en premisas similares, con el concepto añadido de
+desarrollar un "Sintonizador de TV de Código Abierto" del cual predice que
+reemplazará completamente la radiodifusión tradicional. (La misma tecnología
+puede ser también utilizada para llamadas telefónicas, una vez que haya
+disponibilidad de teléfonos inalámbricos híbridos.)  El ha desarrollado
+
+[^backbone]: ?
+
 developed serious arguments about why 'netcasting' is not only
 economically feasible, but superior to the broadcasting model . There
 are also already commercial versions of ‘file-serving television’ models
@@ -311,6 +364,13 @@ infrastructure, even by the industry itself, and confirmed by my own
 former experience as strategic planner in that industry. British Telecom
 has declared that by 2008, the entirety of its network will have been
 converted to TCP/IP protocols.
+
+varios argumentos sobre por qué el "netcasteo" no sólo es económicamente
+realizable sino también superior al modelo de radiodifusión.  Incluso existen
+versiones comerciales de la "televisión servidora de archivos" como el pionero
+TiVo así como planes diferentes para la TV sobre el Protocolo de Internet.
+"Radio Your Way" es una aplicación de radio similar, aunque mucho menos popular
+y también existen otros desarrollos de radio en Internet similares.  
 
 While mobile telephony is strongly centralized and controlled, it will
 have to compete with wireless broadband networks, and users are busily
