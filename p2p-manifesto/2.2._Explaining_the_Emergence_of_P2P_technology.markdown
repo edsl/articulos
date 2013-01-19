@@ -1,62 +1,8 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 2.2. Explaining the Emergence of P2P technology
 ===============================================
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**2.2. Explaining the Emergence of P2P technology**
+Explicando la emergencia de la tecnología de pares
+==================================================
 
 Why this emergence? The short answer is: P2P is a consequence of
 abundance (in fact it is both cause and consequence). With the advent of
@@ -80,6 +26,30 @@ probably do not need to remind the reader of this, is different from
 material goods, in that its sharing does not diminish its value, but on
 the contrary augments it. Conclusion: P2P is 'deblocking'.
 
+¿Cuál es el por qué de esta emergencia?  La respuesta corta es: el P2P es la
+consecuencia de la abundancia (aunque de hecho es a la vez causa
+y consecuencia).  Con el advenimiento de la "Era de la Información" que comenzó
+con los _mass media_ y las redes privadas y aisladas de las multinacionales,
+pero especialmente con el advenimiento de Internet y la Web misma, que permiten
+la copia y distribución digital de cualquier creación digital a costo marginal,
+fue creada la abundancia de información.  Para los procesos de negocio, la
+palabra clave fue el "flujo" y la integración de estos flujos infinitos.  La
+producción de bienes materiales se encuentra bajo el predicado de los flujos
+inmateriales.  En tal contexto, los sistemas centralizados crea casi
+inevitablemente cuellos de botella que retiene este flujo.  En un sistema de
+pares, cualquier nodo puede contactar a cualquier otro sin pasar por estos
+cuellos de botella.  La jerarquía sólo funciona en la escasez y en una
+situación donde el control de los recursos escasos determina el resultado final
+de los juegos de poder de suma cero que se dan en ella.  En situación de
+abundancia, los nodos centralizados no tienen posibilidad de [cope].  Por lo
+tanto desde el punto de vista de la ingeniería, el P2P es una solución
+apropiada para distribuir la carga de trabajo entre un gran número de
+cargas[?], una solución que resulta efectiva en muchos casos, pero no en todos.
+La información, aunque probablemente no haga falta recordarle al lector, es
+diferente de los bienes materiales en cuanto su compartición no disminuye su
+valor, sino que por el contrario lo aumenta.  En conclusión: el P2P es
+"desbloqueante".
+
 Second, P2P systems are predicated on redundancy, several resources are
 always available to conduct any process. This makes them a lot less
 vulnerable than centralized systems to any kind of disruption, P2P
@@ -87,6 +57,15 @@ systems are extraordinarily robust. One cannot, in terms of resources,
 compare any centralized system, to the extraordinary combination of
 millions of peripheral systems with the billions and trillions of unused
 memory, computing cycles, etc…. These are only unlocked in a P2P system.
+
+En segundo lugar, los sistemas de pares se predican en la redundancia, donde
+varios recursos están siempre disponibles para conducir un proceso cualquiera.
+Esto los vuelve muchos menos vulnerables a la disrupción que los sistemas
+centralizados; los sistemas de pares son extraordinariamente robustos.  No se
+puede, en términos de recursos, comparar un sistema centralizado con la
+extraordinaria combinación de millones de sistema periféricos con sus billones
+y trillones sin usar de memoria, ciclos de computación, etc.  Estos sólo pueden
+desbloquearse en un sistema de pares.
 
 Abundance is again both a cause and a consequence of complexity. In a
 situation of a multiplication of flows, flows that no longer follow
@@ -97,70 +76,21 @@ systems are needed that allow expertise to unexpectedly announce itself,
 when it learns that it is needed. This is precisely what P2P systems
 allow to an unprecendented degree. Conclusion: P2P is 'enabling'.
 
+La abundancia es una vez más causa y consecuencia de la complejidad.  En una
+situación de mulplicidad de flujos que ya no siguen rutas predeterminadas no es
+posible predecir dónde se encuentra la "solución" a un problema.  La experticia
+proviene de una combinación precisa de la experiencia, que es no es predecible.
+Entonces, se necesitan sistemas que permitan el anuncio repentino de la
+experticia allí donde se aprenda necesario.  Esto es precisamente lo que los
+sistemas de pares permiten en un grado sin precedentes.  En conclusión: el P2P
+es "habilitante".
+
 There is also a 'democratic rationale' to the above enabling of
 resources. Since it is a bottom-up rather than a top-down process. P2P
 is 'empowering'. It reflects the cultural evolution towards an ethos of
 sharing abundant resources that gain value through their distribution.
 
-Retrieved from
-"[?title=2.2.\_Explaining\_the\_Emergence\_of\_P2P\_technology&oldid=1125][]"
-
--   This page was last modified on 4 October 2005, at 11:41.
--   This page has been accessed 1,201 times.
--   [Copyright Information][]
-
--   [\<!-- --\>][]
--   [About the P2P Foundation Wiki][]
--   \<!-- --\>
-
--   [![Attribution-ShareAlike 3.0 Unported][]][]
--   [![Powered by MediaWiki][]][]
-
-  []: /Main_Page "Visit the main page"
-  [Page]: /2.2._Explaining_the_Emergence_of_P2P_technology
-    "View the content page [c]"
-  [Discussion]: ?title=Talk:2.2._Explaining_the_Emergence_of_P2P_technology&action=edit&redlink=1
-    "Discussion about the content page [t]"
-  [1]: #
-  [Share this]: http://www.addthis.com/bookmark.php?v=20
-  [Read]: /2.2._Explaining_the_Emergence_of_P2P_technology
-  [View source]: ?title=2.2._Explaining_the_Emergence_of_P2P_technology&action=edit
-    "This page is protected.
-    You can view its source [e]"
-  [View history]: ?title=2.2._Explaining_the_Emergence_of_P2P_technology&action=history
-    "Past revisions of this page [h]"
-  [Search]: /skins/vector/images/search-ltr.png?303
-  [Log in]: ?title=Special:UserLogin&returnto=2.2.+Explaining+the+Emergence+of+P2P+technology
-    "You are encouraged to log in; however, it is not mandatory [o]"
-  [Wiki Main Page]: /Main_Page
-  [Blog [EN]]: http://blog.p2pfoundation.net/
-  [Blog [GR]]: http://bloggr.p2pfoundation.net/
-  [Ning Network]: http://p2pfoundation.ning.com
-  [Recent changes]: /Special:RecentChanges
-    "A list of recent changes in the wiki [r]"
-  [Random page]: /Special:Random "Load a random page [x]"
-  [Help]: /Help:Contents "The place to find out"
-  [Donations]: /P2P_Foundation:Site_support
-  [What links here]: /Special:WhatLinksHere/2.2._Explaining_the_Emergence_of_P2P_technology
-    "A list of all wiki pages that link here [j]"
-  [Related changes]: /Special:RecentChangesLinked/2.2._Explaining_the_Emergence_of_P2P_technology
-    "Recent changes in pages linked from this page [k]"
-  [Special pages]: /Special:SpecialPages
-    "A list of all special pages [q]"
-  [Printable version]: ?title=2.2._Explaining_the_Emergence_of_P2P_technology&printable=yes
-  [Permanent link]: ?title=2.2._Explaining_the_Emergence_of_P2P_technology&oldid=1125
-    "Permanent link to this revision of the page"
-  [navigation]: #mw-head
-  [search]: #p-search
-  [?title=2.2.\_Explaining\_the\_Emergence\_of\_P2P\_technology&oldid=1125]:
-    ?title=2.2._Explaining_the_Emergence_of_P2P_technology&oldid=1125
-  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
-    "P2P Foundation Notice on Copyrights"
-  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
-    "P2P Foundation:Privacy policy"
-  [About the P2P Foundation Wiki]: /P2P_Foundation:About
-    "P2P Foundation:About"
-  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
-  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
-  [![Powered by MediaWiki][]]: //www.mediawiki.org/
+Existe también una "razón democrática" de la habilitación de recursos, ya que
+es un proceso de abajo-arriba antes que de arriba-abajo.  El P2P es
+"empoderante".  Refleja la evolución cultural hacia un ethos de la compartición
+de recursos abundantes que ganan valor a través de su distribución.

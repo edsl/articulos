@@ -1,62 +1,8 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 2.3.A. Placing P2P in the context of the evolution of technology
 ================================================================
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**2.3.A. Placing P2P in the context of the evolution of technology**
+Colocando el P2P en el contexto de la evolución de la tecnología
+================================================================
 
 Premodern technology was participative, and not as differentiated and
 autonomous. The instruments of artisans were extensions of their bodies,
@@ -67,6 +13,15 @@ autonomous individuals, but much more as parts of a whole, following the
 dictates of the whole (holism), moving in a world dominated by spirits,
 the spirits of men (the ancestors), of the natural world, and of the
 objects they used. (Dumont, 1981).
+
+La tecnologia premoderna era participativa y no tan diferenciada ni autónoma.
+Los instrumentos de los artesaanos eran extensiones de sus cuerpos, con los que
+"cooperaban".  La vida social no estaba aun diferenciada en distintas esferas
+o en distinciones sujeto/objeto ya que se veían a sí mismas no tanto como
+individuos separados y autónomos sino como partes de un todo, siguiendo los
+dictados del todo (holismo), moviéndose en un mundo dominado por espíritus, los
+espíritus de los hombres (los ancestros), del mundo natural y de los objetos
+que utilizaban.[@dumont-1981]
 
 Modern technology could be said to be differentiated (division of
 labour, differentiation of social fields, relative autonomy of
@@ -82,6 +37,8 @@ by itself intelligent, and are organized in hierarchical frameworks.
 Modern humans think themselves as autonomous agents using objects, but
 become themselves objects of the systems of their own creation. This is
 the drama of modernity, the key to its alienation.
+
+Puede decirse que la tecnología moderna 
 
 In post-modernity, machines become intelligent (though not in the same
 way as humans, they can only use the intelligence put in them by the

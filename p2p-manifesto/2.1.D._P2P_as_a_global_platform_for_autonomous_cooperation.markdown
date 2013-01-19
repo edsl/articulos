@@ -1,62 +1,8 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 2.1.D. P2P as a global platform for autonomous cooperation
 ==========================================================
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**2.1.D. P2P as a global platform for autonomous cooperation**
+P2P como una plataforma global para la cooperación autónoma
+===========================================================
 
 We have described peer to peer as the technological infrastructure of
 cognitive capitalism, and as an alternative information and
@@ -64,7 +10,15 @@ communications infrastructure. But is also emerging as much more than
 that: as a whole set of enabling technologies that allow global affinity
 groups to work and create value together on a autonomous basis.
 
+Hemos descrito el P2P como la infraestructura tecnológica del capitalismo
+cognitivo y también como una infraestructura alternativa de información
+y comunicación.  Asimismo está emergiendo como mucho más que so: como un juego
+completo de tecnologías que habilitan a grupos de afinidad globales trabajar
+y crear valor en conjunto y autónomamente.
+
 Let's quickly review what we have already seen, but in this new context.
+
+Revisemos rápidamente lo que ya hemos visto pero bajo este nuevo contexto.
 
 As a technological infrastructure we have seen how grid computing can
 function as a way to combine untapped resources that lay dormant
@@ -84,6 +38,25 @@ filesharer, or user of Bittorrent. This obligatory participation can be
 generalized because it comes at no extra cost to the owner of the
 technological resource.
 
+En tanto infraestructura tecnológica hemos visto como la computación en grilla
+puede funcionar como una forma de combinar recursos que permanecen adormecidos
+a través de la red.  Dado que el poder de procesamiento humano es
+inherentemente más lento que los procesos computacionales, ningún usuario
+individual utiliza la totalidad de sus recursos por lo que esta capacidad puede
+combinarse en proyectos comunes.  Utilizando esta metodología cualquier
+comunidad puede movilizar vastos recursos de "supercómputo".  La compartición
+de archivos es también un ejemplo de esta habilidad que puede ser extendido
+a cualquier malla de dispositivos que puedan ser conectados.  Los recursos que
+pueden compartirse son el poder de procesamiento, almacenamiento de memoria,
+contenido ubicado en cualquiera de las computadoras participantes y el
+monitoreo colectivo realizado a través de toda clase de sensores
+interconectados.  El rol clave de estos sistemas es que cualquier computadora
+participante se convierte automáticamente en un proveedor.  Cualquier usuario
+de la red de telefonía de Skype está ofreciendo también su computadora personal
+como un recurso de la red, como lo hace cualquier compartidor de archivos
+o usuario de BitTorrent.  Esta participación obligatoria puede generalizarse
+porque no es un costo extra para el propietario del recurso tecnológico.
+
 As a information and communications infrastructure it enables any group
 to communicate and create online knowledge collectives and to become a
 publisher. A combination of the open source infrastructure consisting of
@@ -97,6 +70,18 @@ intermediation of a formal publishers , is rapidly becoming an accepted
 means of distributing books, and it is practiced even by established
 authors, when they want to reach specialized audiences that are not of
 interest to a traditional publisher.
+
+En tanto infraestructura de información y comunicación permite a cualquier
+grupo comunicarse y crear colectivos de conocimiento en línea al convertirse en
+un editor.  La combinación de la infraestructura de código abierto que hacen el
+sistema operativo Linux, el servidor web Apache, la base de datos MySQL y el
+sistema de publicación PHP (llamados LAMP) en conjunto con BitTorrent, permiten
+el webcasteo multimedia de banda ancha.  Sumado a esto, la autopublicación, es
+decir la publicación mediante imprenta o impresión a demanda y que no requiere
+de la intermediación de editores formales, se está convirtiendo rápidamente en
+un medio aceptable de distribución de libros incluso siendo practicada por
+autores reconocidos cuando intentar llegar a audiencias especializadas que no
+resultan de interés a los editores tradicionales.
 
 Social mobile computing enables dispersed groups to act in a coherent
 fashion, it is a powerful agent of mobilization. Such mobile or
@@ -194,77 +179,3 @@ cooperative tools as enabling autonomous cooperation and peer
 production, and not just as an auxiliary to the corporate world. In our
 overview of the emergence of P2P in the economic sphere we will see that
 this is not a pious wish.
-
-Retrieved from
-"[?title=2.1.D.\_P2P\_as\_a\_global\_platform\_for\_autonomous\_cooperation&oldid=51719][]"
-
-[Categories][]:
-
--   [Global Commons][]
--   [Cooperation][]
--   [Collaborative Economy][]
-
--   This page was last modified on 23 July 2011, at 04:54.
--   This page has been accessed 2,185 times.
--   [Copyright Information][]
-
--   [\<!-- --\>][]
--   [About the P2P Foundation Wiki][]
--   \<!-- --\>
-
--   [![Attribution-ShareAlike 3.0 Unported][]][]
--   [![Powered by MediaWiki][]][]
-
-  []: /Main_Page "Visit the main page"
-  [Page]: /2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation
-    "View the content page [c]"
-  [Discussion]: ?title=Talk:2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&action=edit&redlink=1
-    "Discussion about the content page [t]"
-  [1]: #
-  [Share this]: http://www.addthis.com/bookmark.php?v=20
-  [Read]: /2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation
-  [View source]: ?title=2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&action=edit
-    "This page is protected.
-    You can view its source [e]"
-  [View history]: ?title=2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&action=history
-    "Past revisions of this page [h]"
-  [Search]: /skins/vector/images/search-ltr.png?303
-  [Log in]: ?title=Special:UserLogin&returnto=2.1.D.+P2P+as+a+global+platform+for+autonomous+cooperation
-    "You are encouraged to log in; however, it is not mandatory [o]"
-  [Wiki Main Page]: /Main_Page
-  [Blog [EN]]: http://blog.p2pfoundation.net/
-  [Blog [GR]]: http://bloggr.p2pfoundation.net/
-  [Ning Network]: http://p2pfoundation.ning.com
-  [Recent changes]: /Special:RecentChanges
-    "A list of recent changes in the wiki [r]"
-  [Random page]: /Special:Random "Load a random page [x]"
-  [Help]: /Help:Contents "The place to find out"
-  [Donations]: /P2P_Foundation:Site_support
-  [What links here]: /Special:WhatLinksHere/2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation
-    "A list of all wiki pages that link here [j]"
-  [Related changes]: /Special:RecentChangesLinked/2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation
-    "Recent changes in pages linked from this page [k]"
-  [Special pages]: /Special:SpecialPages
-    "A list of all special pages [q]"
-  [Printable version]: ?title=2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&printable=yes
-  [Permanent link]: ?title=2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&oldid=51719
-    "Permanent link to this revision of the page"
-  [navigation]: #mw-head
-  [search]: #p-search
-  [?title=2.1.D.\_P2P\_as\_a\_global\_platform\_for\_autonomous\_cooperation&oldid=51719]:
-    ?title=2.1.D._P2P_as_a_global_platform_for_autonomous_cooperation&oldid=51719
-  [Categories]: /Special:Categories "Special:Categories"
-  [Global Commons]: /Category:Global_Commons "Category:Global Commons"
-  [Cooperation]: /Category:Cooperation "Category:Cooperation"
-  [Collaborative Economy]: /Category:Collaborative_Economy
-    "Category:Collaborative Economy"
-  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
-    "P2P Foundation Notice on Copyrights"
-  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
-    "P2P Foundation:Privacy policy"
-  [About the P2P Foundation Wiki]: /P2P_Foundation:About
-    "P2P Foundation:About"
-  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
-  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
-  [![Powered by MediaWiki][]]: //www.mediawiki.org/
