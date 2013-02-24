@@ -1,4 +1,9 @@
-http://peerproduction.net/issues/issue-1/peer-reviewed-papers/caring-about-the-plumbing/
+---
+title: Teniendo en cuenta la plomería: Sobre la importancia de las arquitecturas en los estudios sociales de la tecnología (de pares)
+author: Francesca Musiani
+url: http://peerproduction.net/issues/issue-1/peer-reviewed-papers/caring-about-the-plumbing/
+---
+
 
 · Caring about the plumbing: On the importance of architectures in
 social studies of (peer-to-peer) technology
@@ -11,8 +16,15 @@ settings,\
 change.*\
  - Susan Leigh Star (1999, p. 339)
 
+> Estudia un sistema de información y descuida sus estándares, cables y
+> configuraciones y te perderás aspectos igualmente esenciales sobre estética,
+> justicia y cambio. [@leigh-1999 p. 339]
+
 1. Introduction
 ---------------
+
+Introducción
+------------
 
 “Peer-to-peer is plumbing, and most people don’t care about plumbing,”
 pointed out some years ago Dan Bricklin, the father of the first
@@ -22,6 +34,15 @@ Oram, 2001, p. 59). The “most people” Bricklin refers to in this
 citation are, of course, end users of the popular first-generation P2P
 file-sharing applications, like Napster, that were experiencing their
 hour of glory at the dawn of the 21st century.
+
+"El P2P es plomería y la mayor parte de la gente no se preocupa por la
+plomería", notó hace unos años Dan Bricklin, el padre de la primer planilla de
+cálculos VisiCalc en un libro seminal sobre el potencial "disruptivo" de la
+tecnología de pares (P2P)[@bricklin-2001, @oram-2001 p.59].  La "mayor parte de
+la gente" a la que se refiere Bricklin en esta cita son, por supuesto, los
+usuarios finales de las populares aplicaciones de compartición de archivos P2P
+de primera generación, como Napster, que experimentaban su hora de gloria en el
+amanecer del siglo XXI.
 
 Indeed, Bricklin may have been right in his assessment of the first P2P
 file-sharing applications’ success: likely, it owes more to the
@@ -35,6 +56,17 @@ only to a majority of users of Internet-based services, but to these
 scholars, as well – and why, instead, it is important for them to
 “care”?
 
+En efecto, Bricklin puede haber estado en lo cierto en su aserción sobre el
+éxito de las primeras aplicaciones P2P:  se debía probablemente a la capacidad
+de tales herramientas para encontrar rápidamente una canción y descargarla, que
+a la arquitectura de pares subyacente.  Este argumento genera nuevas e
+interesantes preguntas metodológicas para los estudios sociales de las
+tecnologías de red, sean estas utilizadas para la comunicación, compartición o
+producción.  ¿Hasta qué punto la percepción de Bricklin sobre la indiferencia
+hacia la arquitectura se aplica no sólo a la mayoría de los usuarios de
+servicios de Internet, sino también a estos académicos y por qué resulta
+importante que les "importe"?
+
 This article discusses the relevance, for scholars working on social
 studies of network media, of addressing elements of application
 architecture and design as an integral part of their subject of study.
@@ -45,6 +77,18 @@ or as Susan Leigh Star has effectively put it, “surface invisible work”
 (1999, p. 385) underlying networked practices, uses and exchanges – as
 an integral part of the “processes of constitution, organization, and
 change of […] the network society” (Castells, 2000, p. 693).
+
+Este artículo discute la relevancia, para los académicos trabajando en estudios
+sociales de medios de red, de abordar elementos de la arquitectura y diseño de
+aplicaciones como parte integral de su tema de estudio.  Al discutir las
+investigaciones en curso sobre aplicaciones "alternativas" o
+"legítimas"[@verma-2004] de los modelos de redes de pares, el artículo
+argumenta que los estudios sociales de medios de red necesitan "preocuparse por
+la plomería", o como Susan Leigh Star ha efectivamente dicho, "traer a la
+superficie el trabajo invisible"[@leigh-1999 p. 385] subyacente a las
+prácticas, usos e intercambios de red --como parte integral de los "procesos de
+constitución, organización y cambio de [...] la sociedad red".
+[@castells-2000 p. 693]
 
 In doing so, the article proposes to acknowledge how Internet-based
 services’ current trajectories of innovation increasingly suggest that
@@ -67,6 +111,28 @@ socio-technical dynamics of distribution, decentralization,
 collaboration and peer production, are currently questioning more
 traditional or institutionalized models of content creation, search and
 sharing.
+
+Al hacerlo, el artículo propone reconocer cómo las trayectorias corrientes de
+innovación de los servicios basados en Internet sugieren cada vez más que
+formas particulares de distribución y decentralización (o la falta de),
+impactan sobre procedimientos, prácticas y usos específicos.  Como ha sugerido
+recientemente Barbara van Schewick, las arquitecturas deben entenderse como una
+"forma alternativa de influenciar sistemas económicos"[@schewick-2010 p. 3], y
+en efecto como la trama misma del comportamiento y la interacción de los
+usuarios.  Notablemente, el estatus de todo usuario de Internet como
+consumidor, compartidor, productor y posiblemente administrador de contenido
+digital está informado y formado por la estructura y organización técnica de
+esos servicios a los que accede: sus puntos de pasos mandatorios, los lugares
+de almacenamiento e intercambio, las intersecciones requeridas.  Este artículo
+es una llamada a estudiar la arquitectura de las aplicaciones de red como una
+"propiedad relacional, no una cosa despojada de uso", 
+[@star-ruhleder-1996 p. 113] "como parte de la organización humana y tan
+problemática como cualquier otra"[@star-2002 p. 116].  Sugiere que un abordaje
+tal provee un valor agregado al estudio de estas comunidades, grupos y
+prácticas que aprovechando las dinámicas sociotécnicas de distribución,
+decentralización, colaboración y producción de pares, están actualmente
+cuestionando modelos más tradicionales o institucionalizados de creación de
+contenido, búsqueda y compartición.
 
 2. Architectures, fieldwork and methods: fleshing out the invisible
 -------------------------------------------------------------------
