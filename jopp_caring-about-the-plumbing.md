@@ -137,6 +137,9 @@ contenido, búsqueda y compartición.
 2. Architectures, fieldwork and methods: fleshing out the invisible
 -------------------------------------------------------------------
 
+Arquitecturas, trabajos de campo y métodos: dándole contenido a lo invisible
+----------------------------------------------------------------------------
+
 The architecture of a network or an application is its underlying
 technical structure (van Schewick, 2010), designed according to a
 “matrix of concepts” (Agre, 2003): its logical and structural layout,
@@ -146,6 +149,16 @@ choice of taking architectures, artifacts transparent to end users by
 fiat of their creators, as the starting point – or at least as an
 important and integral part – of a study of practices and uses with
 network media raises a number of challenges, as well as great promise.
+
+La arquitectura de una red o una aplicación es su estructura técnica
+subyacente[@schewick-2010], diseñado de acuerdo a una "matriz de
+conceptos"[@agre-2003]:  su disposición lógica y estructural, que consiste de
+su equipo de transmisión, protocolos de comunicación, infraestructura y
+conectividad entre sus componentes o nodos.[^1]  La elección de tomar las
+arquitecturas, esos artefactos transparentes a los usuarios finales por decreto
+de sus creadores, como el punto de partida --o al menos como una parte integral
+e importante-- del estudio de las prácticas y usos en los medios de red provoca
+un número de desafíos, así como una gran promesa.
 
 As Barbara van Schewick points out, the compartmentalization of
 disciplines may have led in the past to a general understanding of
@@ -162,7 +175,26 @@ methodological approaches to architectures, working on the integration
 of architectures and practices in their analyses. These bodies of work
 will now be addressed in some more detail.
 
+Como apunta Barbara van Schewick, la compartimentalización de las disciplinas
+puede haber llevado a una comprensión general de las arquitecturas como
+artefactos que son "sólo relevantes para los ingenieros" y como tal, debería
+ser dejado exclusivamente a ellos[@schewick-2010 p. 2].  Sin embargo, en
+relación a los medios de red, software, código y ciberinfraestructura, han
+estado apareciendo estudios que enfrentan el desafío de la
+interdisciplinariedad[@fuller-2008], retomando empresas pasadas en el campo de
+la sociología de la tecnología y la ciencia, explorando las cualidades
+políticas y sociales de las infraestructuras[@star-1999].  Además, algunos
+autores han experimentado con la intersección entre las ciencias informáticas,
+la sociología, la ley y los estudios de ciencia y tecnología (STS por sus
+siglas en inglés) explorando acercamientos metodológicos innovadores de las
+arquitecturas, trabajando en la integración de arquitecturas y prácticas en sus
+análisis.  Estos cuerpos de trabajo serán abordados con más detalle a
+continuación.
+
 **2.1. Disciplines and layers**\
+
+### Disciplinas y capas
+
  Literature in computer science and computer engineering has, perhaps
 quite obviously, paid a great deal of attention to architectures of
 Internet-based applications and networks: their definition (Schollmeier,
@@ -186,6 +218,21 @@ ever-increasing size and complexity of networks, and more able to face
 the increasing inadequacy of traditional statistical and sampling
 methods to account for the magnitude of this scaling process (Baccelli,
 2005).
+
+La literatura de las ciencias y la ingeniería informática han, tal vez muy
+obviamente, puesto mucha atención a las arquitecturas de las aplicaciones
+basadas en Internet y en las redes:  su definición[@schollmeier-2002;
+@schoder-fischbach-2003; @shirky-2001], sus ventajas y desventajas técnicas en
+perspectiva comparativa (por ejemplo, arquitecturas cliente-servidor versus
+par-a-par[@verma-2004 p. 11-16]) y su aplicación a proyectos específicos
+sirviendo a una variedad de usos[@oram-2001 p. 67-159];  estos aspectos
+"puramente" técnicos de tales sistemas son raras vez abordados en relación a
+tus propiedades societales, relacionales y organizacionales
+[@taylor-harrison-2009 p. 113-115].  En algunos casos altamente publicitados y
+debatidos sobre aplicaciones --como el caso de los sistemas P2P-- los
+ingenieros han tenido que presentar una perspectiva técnica sobre los límites y
+ventajas de arquitecturas específicas dentro de debates políticos y públicos
+más amplios[@auber-2007; @fessant-2006; @fessant-2009]
 
 On the other hand, as of today, an important number of works in economic
 and social sciences has sought to explore the practices of sharing,
