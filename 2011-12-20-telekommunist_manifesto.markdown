@@ -2760,7 +2760,7 @@ sino colectivos, retenemos la riqueza que creamos y por lo tanto la posibilidad
 de una sociedad nueva se pone a nuestro alcance.
 
 
-[^100]: [Manifiesto del Partido Comunista (1848)](http://marxists.org/espanol/m_e/1840s/48_manif.htm)
+[^100]: [Manifiesto del Partido Comunista (1848)](http://www.marxists.org/espanol/m-e/1840s/48-manif.htm)
 
 [^22]: El [‘Paquete de Reformas de
 Telecomunicadoras’](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/07/1677&format=HTML&aged=0&language=EN&guiLanguage=en)
