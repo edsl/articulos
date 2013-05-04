@@ -232,7 +232,15 @@ tus propiedades societales, relacionales y organizacionales
 debatidos sobre aplicaciones --como el caso de los sistemas P2P-- los
 ingenieros han tenido que presentar una perspectiva técnica sobre los límites y
 ventajas de arquitecturas específicas dentro de debates políticos y públicos
-más amplios[@auber-2007; @fessant-2006; @fessant-2009]
+más amplios[@auber-2007; @fessant-2006; @fessant-2009].  Otros estudiosos,
+interesados en la metrología de las redes, buscan modelar interacciones por
+medio de grafos a gran escala, de forma de poder estudiar los patrones de
+propagación de la información, la robustez de las redes, las formas de
+intercambio y compartición [@aidouni-2009].  Su objetivo es construir
+instrumentos de medición adaptados a los siempre crecientes tamaño y
+complejidad de las redes y tanto más capaces de enfrentar la creciente
+inadecuación de los métodos estadísticos y de muestreo tradicionales para
+abordar la magnitud de este proceso en escala [@baccelli-2005].
 
 On the other hand, as of today, an important number of works in economic
 and social sciences has sought to explore the practices of sharing,
@@ -242,6 +250,15 @@ of organization, contribution and collaboration, like social networks
 (e.g. Boyd, 2004; Cardon, 2008) or online communities (Auray, 2011), be
 they composed of fans (Hellekson & Busse, 2006), contributors to wiki
 projects (Reagle, 2010), or specialized professionals (Lock, 2006).
+
+Por otro lado, al día de hoy un número importante de trabajos de las ciencias
+sociales y económicas se ha dedicado a explorar las prácticas de la
+compartición, cooperación e interacción facilitadas o habilitadas por los
+ambientes en líneas:  este es el caso de muchas contribuciones que exploran
+nuevas formas de organización, contribución y colaboración, como las redes
+sociales [@boyd-2004, @cardon-2008] o las comunidades en línea [@auray-2011],
+estén compuestas por fanáticos [@hellekson-busse-2006], contribuidores a
+proyectos wiki [@reagle-2010] o profesionales especializados [@lock-2006].
 
 The body of work on the law of network technologies has extensively
 addressed, on its hand – again, perhaps unsurprisingly – the dynamics of
@@ -255,13 +272,35 @@ number of works has been devoted to the ways in which law can take into
 account the objects and sources of value (such as metadata and personal
 data) produced by new technical configurations.
 
+El corpus sobre las leyes de las tecnologías de red ha abordado extensivamente
+--y tal no vez no resulte sorprendente-- las dinámicas de las prácticas de la
+compartición por medio de tecnologías de red de intercambio directo y ha
+enfocado el debate en las formas en que las prácticas de red innovadoras pueden
+ser asimiladas, por analogía, a mecanismos de remuneración y compensación
+similares a aquellos que tienen lugar para las copias materiales y privadas
+[@gasser-ernst-2006].  Como señala Mélanie Dulong de Rosnay [@dulong-2005,
+@dulong-2007] al día de hoy sólo un número comparativamente pequeño de obras se
+han dedicado a las formas en las que las leyes pueden tomar en cuenta los
+objetos y fuentes de valor (como los metadatos y los datos personales)
+producidos por las nuevas configuraciones técnicas.
+
 **2.2. Towards an integration of architectures and practices: the STS
 legacy\
+
+Hacia una integración de las arquitecturas y las prácticas: el legado de los CTS
+--------------------------------------------------------------------------------
+
 **Some examples in recent literature open very interesting paths by
 undertaking the next step in the experimentation with
 interdisciplinarity. These authors, coming from a variety of different
 backgrounds, approach architectures in innovative ways by integrating
 the link between architectures and practices in their analyses.
+
+Algunos ejemplos de la literatura reciente abren caminos muy interesantes para
+tomar el próximo paso en la experimentación con la interdisciplinariedad.
+Estos autores, que provienen de una diversidad de trasfondos teóricos, abordan
+las arquitecturas en formas innovadoras al integrar el vínculo entre las
+arquitecturas y las prácticas en sus análisis.
 
 Perhaps the most notable attempt in this direction is constituted by the
 work, carried out during the last fifteen years by Susan Leigh Star and
@@ -277,6 +316,23 @@ systems because they are “hidden mechanisms subtending those processes
 more familiar to social scientists” (Star, 1999, p. 337). As she writes
 in a seminal article on the ethnography of infrastructure:
 
+Tal vez el intento más notable en esta dirección está constituido por el
+trabajo llevado a cabo durante los últimos quince años por Susan Leigh Star y
+sus colegas en el campo de los [CTS] sobre las infraestructuras en tanto
+sistemas sociotécnicos en evolución constante, informados no sólo por elementos
+físicos invisibles al usuario final, sino también por factores como la
+organización social y la compartición de conocimiento [@star-ruhleder-2006,
+@neumann-star-1996, @star-1999, @star-2002, @star-bowker-2006].  En su "llamada
+al estudio de las cosas aburridas", Star constituye efectivamente la idea donde
+las elecciones de diseño arquitectural, las especificaciones técnicas, los
+estándares y las secuencias numéricas son también importantes para el estudio de
+los sistemas de inforamción  ya que son "mecanismos ocultos subyacentes a
+aquellos procesos más familiares a los científicos sociales" [@star-1999, p.
+337].  Como escribe en su artículo seminal sobre la etnografía de la
+infraestructura:
+
+[CTS]: Estudios sobre Ciencia, Tecnología y Sociedad.
+
 It takes some digging to unearth the dramas inherent in system design
 creating, to restore narrative to what appears to be dead lists. […]
 Much of the ethnographic study of information systems implicitly
@@ -288,6 +344,17 @@ technology. […] Study an information system and neglect its standards,
 wires, and settings, and you miss equally essential aspects of
 aesthetics, justice, and change (Star, 1999, p. 337-339).
 
+> Hay que excavar un poco más para desenterrar los dramas inherentes a la
+> creación del diseño de un sistem, para restaurar la narrativa de lo que
+> parecieran ser listas muertas. \[...\] Mucho del estudio etnográfico de los
+> sistemas de información están construidos dentro de la trama misma del
+> trabajo técnico \[...\].  Sin embargo, resulta fácil mantenerse dentro del
+> punto de vista tradicional de los trabajos de campo: habla, comunidad,
+> identidad y procesos grupales, ahora mediados por la tecnología de la
+> información. \[...\] Estudia un sistema de la información y olvida sus
+> estándares, cables y opciones y te perderás aspectos igualmente esenciales de
+> su estética, justicia y cambio [@star-1999, p. 337-339].
+
 This “relational” approach brings about considerable changes in methods,
 as the scope of the fieldwork enlarges to include arenas where the
 shapes of architecture and infrastructure are observed, deconstructed,
@@ -296,6 +363,16 @@ bricolages, reconfigurations (Star & Bowker, 2006, p. 151-152), where
 the scholar undertakes a combination of “historical and literary
 analysis, traditional tools like interviews and observations, systems
 analysis, and usability studies” (Star, 1999, p. 382).
+
+El abordaje "relacional" trae cambios considerables en los métodos ya que el
+alcance del trabajo de campo se agranda para incluir arenas donde las formas de
+la arquitectura y la infraestructura se observan, deconstruyen, reconstruyen y
+se toman decisiones sobre códigos, estándares, bricolages, reconfiguraciones
+[@star-bowker-2006, p. 151-152], donde el estudioso toma una combinación de
+"análisis histórico y literario, herramientas tradicionales como las
+entrevistas y observaciones, análisis de sistemas y estudios de usabilidad"
+[@star-1999, p. 382].
+
 
 Emergent bodies of work such as software studies, critical code studies
 and cyberinfrastructure studies (Manovich, 2001; Fuller, 2008; Marino,
@@ -307,13 +384,34 @@ materiality of software, code, and so-called virtual elements of the
 Internet user’s experience is reaffirmed, and the relationship between
 these layers (or “levels”, as defined by Mark Marino) explored:
 
+Corpus emergentes como los estudios de software, estudios críticos del código y
+estudios de la ciberinfraestructura [@manovich-2001, @fuller-2008,
+@marino-2006, @ribes-lee-2010] le deben mucho al abordaje de los CTS, buscando,
+como dice Matt Kirschenbaum [@kirschenbaum-2003] balancear "el despliegue de
+términos críticos como la 'virtualidad' \[con\] un compromiso con la
+meticulosa investigación documental para recuperar y estabilizar las trazas
+materiales de los nuevos medios".  La materialidad del software, del código y
+los así llamados elementos virtuales de la experiencia del usuario de Internet
+es reafirmada y la relación entre estas capas (o "niveles", como los define
+Mark Marino) es explorada:
+
 Meaning grows out of the functioning of the code but is not limited to
 the literal processes the code enacts. Through CCS, practitioners may
 critique the larger human and computer systems,from the level of the
 computer to the level of the society in which these code objects
 circulate and exert influence (Marino, 2006).
 
+> El significado crece a partir del funcionamiento del código pero no se limita
+> a los procesos literales que el código activa.  A través del CCS\[?\], los
+> practicamentes pueden ser críticos de los sistemas humanos y computacionales
+> mayores, desde el nivel de la computadora al nivel de la sociedad en la que
+> estos objetos de código circulan y ejercen influencia [@marino-2006].
+
 **2.3. Architectures: social, legal, political\
+
+Arquitecturas: sociales, legales, políticas
+-------------------------------------------
+
 **On the side of computational and quantitative sociology, David Hales
 and colleagues seek to explore features of particular groupings that he
 calls “virtual tribes”, such as dynamic formation and dissolution
@@ -323,6 +421,15 @@ understanding of such phenomena is a necessary precondition for the
 construction of robust and resilient software systems, both today and in
 the future (Hales, 2006; Marcozzi & Hales, 2008; Hales, Arteconi,
 Marcozzi & Chao, 2008).
+
+Del lado de la sociología computacional y cuantitativa, David Hales y sus
+colegas buscan explorar las características de agrupaciones particulares que da
+en llamar "tribus virtuales", como la formación y disolución dinámica, la
+cooperación, especialización, los sistemas de reputación y el comportamiento
+antagónico ocasional;  considera que una comprensión profunda de tales
+fenómenos es una condición necesaria para la construcción de sistemas de
+software robustos y resistentes, tanto en la actualidad como en el futuro
+[@hales-2006, @marcozzi-hales-2008, @hales-arteconi-et-al-2008].
 
 Information studies scholar and Internet pioneer Philip Agre explores on
 his side the relationship between technical architecture and
@@ -342,6 +449,24 @@ decentralized architecture are not naturally related. They reconfigure
 and evolve constantly, and for these reconfigurations and evolutions to
 share a common direction, they need work:
 
+El académico de los estudios de la información y pionero de la Internet Philip
+Agre explora desde este lado la relación entre arquitectura técnica e
+instituciones, notablemente la diferencia entre "arquitectura como política" y
+"arquitectura como sustituto de la política" [@agre-2003] y mientras que estas
+historias podrían no explicar los motivos de los tecnólogos, en efecto resultan
+útiles para tomar en cuenta la energía que hace que una tecnología sea
+inherentemente social y la proyecta en el mundo [@agre-2003, p. 39].  Al
+definir las arquitecturas como matrices de conceptos (por ejemplo en la
+distinción entre clientes y servidores) diseñados en la tecnología y las
+instituciones como las matrices de conceptos que organizan el lenguaje, las
+reglas, los títulos de trabajo y otras categorías sociales en sectores
+societales particulares, Agre sugiere que la historia de la ingeniería de la
+computación distribuida racionalmente y la historia política del cambio
+institucional a través de la arquitectura decentralizada no están naturalmente
+relacionadas.  Se reconfiguran y evolucionan constantemente y para que estas
+reconfiguraciones y evoluciones compartan una dirección común, necesitan
+trabajar:
+
 Decentralized institutions do not imply decentralized architectures, or
 vice versa. The drive toward decentralized architectures need not serve
 the political purpose of decentralizing society. Architectures and
@@ -351,6 +476,16 @@ information and communication technologies do open new possibilities for
 institutional change. To explore those possibilities, though,
 technologists will need better ideas about institutions (Agre, 2003, p.
 42).
+
+> Instituciones decentralizadas no implican arquitecturas decentralizadas y
+> viceversa.  El empuje hacia arquitecturas decentralizadas no necesita servir
+> al propósito de decentralizar la sociedad.  Las arquitecturas y las
+> instituciones coevolucionan inevitablemente al punto de que pueden y deben
+> ser diseñados en conjunto.  \[...\] Las tecnologías de la comunicación y la
+> información mejoradas radicalmente abren nuevas posibilidades para el cambio
+> institucional.  Para explorar estas posibilidades, no obstante, los
+> tecnólogos necesitarán mejores ideas sobre las instituciones [@agre-2003, p.
+> 42]
 
 At the crossroads of informatics, economics and law, Barbara van
 Schewick has recently put forward the idea that the architecture of the
@@ -369,6 +504,23 @@ architecture and innovation impact each other (p. 2-3). Perhaps, van
 Schewick suggests, this is due to the intrinsic appeal of architectures
 as purely technical systems:
 
+En el cruce entre la informática, la economía y la ley, Barbara van Schewick ha
+empujado recientemente la idea de que la arquitectura de la Internet y de las
+aplicaciones que corren sobre ella es relevante para la economía.  Su trabajo
+busca examinar cómo los cambios, notablemente las elecciones de diseño, en la
+arquitectura de Internet (a la que define operacionalmente como la "estructura
+técnica subyacente" de la red de redes) afecta el ambiente económico para la
+innovación y evalúa el impacto de esos cambios desde la perspectiva de las
+políticas públicas [@schewick-2010, p. 2].  De acuerdo con van Schewick, este
+es el primer paso hacia cerrar la brecha entre cómo los académicos entienden
+las decisiones de los innovadores de innovar y el ambiente económico para la
+innovación: luego de muchos años de investigación sobre los procesos de la
+innovación, comprendemos cómo estos son afectados por cambios en las leyes,
+normas y precios; aun cuando carecemos de una comprensión similar sobre cómo la
+arquitectura y la innovación impactan entre sí [@schewick-2010, p. 2-3].  Tal
+vez, sugiere van Schewick, esto se deba al parecer intrínseco de las
+arquitecturas como sistemas puramente técnicos:
+
 Just as the architecture of a house describes its basic inner structure,
 the architecture of a complex system describes the basic inner structure
 of the system — its components, what they do, and how they interact to
@@ -379,11 +531,28 @@ relevant only to engineers. Thus, understanding how the Internet’s
 architecture affects innovation requires us to think more generally
 about how architectures affect innovation (van Schewick, 2010, p. 4).
 
+> Tal como la arquitectura de una casa describe su estructura interna básica,
+> la arquitectura de un sistema complejo describar la estructura interna básica
+> del sistema -- sus componentes, lo que hacen y cómo interactúan para proveer
+> la funcionalidad del sistemas.  Que tal estructura técnica posea
+> consecuencias económicas es un abordaje relativamente reciente.  La mayor
+> parte de la gente piensa todavía las arquitecturas como artefactos técnicos
+> sólo relevantes para los ingenieros.  Por lo tanto, comprender cómo la
+> arquitectura de Internet afecta la innovación requiere que pensemos más
+> generalmente sobre cómo las arquitecturas afectan la innovación
+> [@schewick-2010, p. 4]
+
 Traditionally, she concludes, policy makers have used the law to bring
 about desired economic effects. Architecture de facto constitutes an
 alternative way of influencing economic systems, and as such, it is
 becoming another tool that actors can use to further their interests (p.
 389).
+
+Tradicionalmente, concluye, los políticos han usado la ley para generar los
+efectos económicos deseados.  La arquitectura constituye de facto una forma
+alternativa de influenciar los sistemas económicos y como tal se está
+convirtiendo en otra herramienta que los actores pueden usar para llevar a cabo
+sus intereses [@schewick, p. 389].
 
 Along the same lines, within a large-scale project investigating how the
 corpus of Requests for Comments (RFCs) of the Internet Engineering Task
@@ -397,6 +566,8 @@ designers, Braman argues that undertaking research on architectural «
 design for instability » as applied to the Internet provides insight not
 only into the Internet itself, but into its social, legal and technical
 relations with other information and communication technologies (ICTs).
+
+En esa misma línea, 
 
 Drawing on pioneering works such as those of Yochai Benkler on sharing
 as a paradigm of economic production in its own right (2004) and of
@@ -837,6 +1008,8 @@ CONTINT-Contenus et Interactions, Project ADAM-Architectures distribuées
 et applications multimédias.
 
 **Works cited**
+
+% TODO convertir todo esto a bibtex
 
 Aigrain, P. (2010). Declouding Freedom: Reclaiming Servers, Services and
 Data. In 2020 FLOSS Roadmap (2010 Version/3rd Edition), retrieved
