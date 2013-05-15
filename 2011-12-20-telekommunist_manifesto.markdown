@@ -2763,8 +2763,8 @@ de una sociedad nueva se pone a nuestro alcance.
 [^100]: [Manifiesto del Partido Comunista (1848)](http://www.marxists.org/espanol/m-e/1840s/48-manif.htm)
 
 [^22]: El [‘Paquete de Reformas de
-Telecomunicadoras’](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/07/1677&format=HTML&aged=0&language=EN&guiLanguage=en)
-fue presentado por la Viviane Reding al Parlamento Europeo en Estrasburgo el 13
+Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
+fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
 de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
 europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
 europeo para los 27 miembros.
