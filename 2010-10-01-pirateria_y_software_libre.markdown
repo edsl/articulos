@@ -7,18 +7,18 @@ Piratería y Software Libre[^1]
 ==============================
 
 > Este ensayo es un resumen de mi presentación en el taller “Inlaws and
-> Outlaws”[@nsnd-split] realizado los días 19 y 20 de agosto, 2010 en Split,
+> Outlaws” [@nsnd-split] realizado los días 19 y 20 de agosto, 2010 en Split,
 > Croacia. El taller reunió militantes de la piratería con participantes de los
 > movimientos por la Cultura y el Software Libres.
 
-En “Por qué el software no debería tener dueños”[@stallman-definition], Richard
+En “Por qué el software no debería tener dueños” [@stallman-definition], Richard
 Stallman explica que, si un amigo te pide una pieza de software y la licencia
 de ese software te impide compartirlo, vas a tener que elegir entre ser un mal
 amigo o violar la licencia del software. Stallman sugiere que los usuarios
 tendrán que elegir el menor de dos males y elegirán violar la licencia.
 Enfatiza que es injusto pedir a un usuario que realice tal elección.
 
-En los últimos años, los partidos piratas[@wikipedia-pirate-parties] han
+En los últimos años, los partidos piratas [@wikipedia-pirate-parties] han
 crecido a través del mundo desarrollado. Por supuesto, la piratería es el medio
 principal de distribuir medios entre todos los demás. Los militantes del acceso
 a la información se han juntado y organizado bajo la bandera ’pirata’,
@@ -27,16 +27,16 @@ términos de las licencias.
 
 Tanto el movimiento del Software Libre y Abierto como el de la Cultura Libre
 parecen tener reacciones confusas y contradictorias a esto. Por un lado, los
-mayores proponentes de varios partidos piratas[@ppde-partei-programm,
+mayores proponentes de varios partidos piratas [@ppde-partei-programm,
 ppuk-copyright] son también militantes por el Software Libre y varios partidos
 piratas han hecho de la militancia por el Software Libre uno de los componentes
 de sus plataformas políticas. La clara oposición del Partido Pirata a las
 patentes del software y el DRM resuena junto a la de las comunidades del
 Software y de la Cultura libres. Por otro lado, líderes del movimiento del
 Software Libre, incluyendo a Stallman, nos han prevenido acerca de las
-políticas ’piratas’ anti-copyright[@stallman-pirate-party].  Líderes de la
+políticas ’piratas’ anti-copyright [@stallman-pirate-party].  Líderes de la
 Cultura Libre, como Lawrence Lessig, han repetida y vociferadamente denunciado
-la piratería[@lessig-there-he-goes, lessig-news-flash, lessig-ascap], hasta
+la piratería [@lessig-there-he-goes, lessig-news-flash, lessig-ascap], hasta
 tratado la sugerencia de una asociación con la piratería como una afronta, y se
 han distanciado sistemáticamente de ella.
 
@@ -64,8 +64,8 @@ pro-piratería.
 Primero, el sistemático no respeto al copyright mina el respeto por todas las
 licencias que tienen un enorme beneficio táctico para el Software Libre y un
 factor cada vez más importante para el éxito de la Cultura Libre. Las licencias
-copyleft como la GPL[@gpl] o CC-BY-SA[@cc-by-sa] tienen poder sólo porque el
-copyright lo tiene.  Como Stallman ha sugerido[@stallman-pirate-party], las
+copyleft como la GPL [@gpl] o CC-BY-SA [@cc-by-sa] tienen poder sólo porque el
+copyright lo tiene.  Como Stallman ha sugerido [@stallman-pirate-party], las
 acciones anti-copyright son también acciones anti-copyleft. Esto no tiene por
 qué ser un argumento contra los intentos para limitar el copyright. En efecto,
 pienso que debemos limitar y reducir el copyright. Pero debemos hilar
