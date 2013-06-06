@@ -24,7 +24,7 @@ de cambiar su mundo ahora mismo.
 
 El software es de lo que está hecho el siglo XXI. Lo que el acero fue para
 la economía del siglo XX, lo que el acero fue para el poder del siglo XX,
-lo que el acero fue para la política del siglo 20, es ahora el software.
+lo que el acero fue para la política del siglo XX, es ahora el software.
 Es el ladrillo crucial, el componente del que todo lo demás está hecho, y,
 cuando hablo de todo lo demás, por supuesto me refiero a la libertad, así
 como a la tiranía, así como al negocio de siempre, así como espiar a todos
@@ -85,7 +85,7 @@ poder que están siendo enfrentadas por el deseo de crear libertad.
 Wikileaks fue tratada en todo el mundo en una forma cuasi criminal, en
 Navidad, y los eventos en Túnez lo complicaron un poco más.
 
-Mientras se volvía claro que estaba siendo reportada como una conspiración
+Mientras se volvía claro que lo que estaba siendo reportada como una conspiración
 mundial para dañar la dignidad del departamento de Estado de los Estados
 Unidos, o para avergonzar a las fuerzas militares estadounidenses, era
 realmente, un intento para permitir a la gente a aprender sobre su mundo.
@@ -93,9 +93,9 @@ realmente, un intento para permitir a la gente a aprender sobre su mundo.
 A aprender sobre cómo el poder opera realmente, y por lo tanto para hacer
 algo al respecto.
 
-Y lo que pasó en Túnez, creo, fue un rechazo elegante a la idea de que el
-fin de Wikileaks en la cultura libre y el software libre estuvo
-principalmente dispuesta a la destrucción, el nihilismo o -me encojo de
+Y lo que pasó en Túnez, creo, fue una refutación elegante a la idea de que el
+lado Wikileaks de la cultura libre y el software libre estuvo
+principalmente orientado a la destrucción, el nihilismo o -tiemblo de
 sólo usar la palabra en este contexto-, el terrorismo. Fue de hecho la
 libertad, que es desordenada, complicada, potencialmente peligrosa en el
 corto plazo, pero salvadora en el largo plazo, la medicina para el
@@ -142,7 +142,7 @@ costearse insultar con frecuencia.
 Estamos viviendo en un mundo en el cual la información en tiempo real que
 es crucial para la gente que está en las calles buscando construir su
 libertad depende de un servicio comercial de microblogueo en California
-del norte, que para conseguir réditos que justifiquen su existencia a la
+del norte, que para conseguir ganancias que justifiquen su existencia a la
 gente que diseña su tecnología y de la que sabemos que es capaz de
 decidir, por sí misma, durante la noche, donar la historia entera de todo
 lo que todos dijeron a través de ésta a la Biblioteca del Congreso. Lo que
