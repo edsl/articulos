@@ -49,12 +49,12 @@ Una cesión de copyright que carece de garantías reales
 Antes que nada, casi la mitad del Proyecto Harmony se trata de acuerdos de
 asignación de copyright (©AA por sus siglas en inglés). La asignación de
 copyright cede completamente el trabajo a alguien más. Una vez que el ©AA está
-firmado, el trabajo deja de pertenecer el asignante. Es como si el trabajo en
-realidad hubiera sido hecho por el asignado. Existe algo de valor en la
+firmado, el trabajo deja de pertenecer al asignante. Es como si el trabajo en
+realidad hubiera sido hecho por el asignado. Admitido, hay algún valor en la
 asignación de copyright, particularmente cuando los desarrolladores quieren
 asegurarse que la GPL u otra forma de copyleft es debidamente protegida en su
 trabajo pero no tienen el tiempo de hacerlo ellos mismos. (Aunque los
-desarrolladores también pueden designar un agente de reforzamiento que lo haga
+desarrolladores también pueden designar un agente de ejecución que lo haga
 en su nombre sin tener que asignar el copyright, así que esa necesidad es
 limitada.)
 
@@ -62,12 +62,12 @@ Uno debe tener una confianza inmensa en la organización asignada.
 Personalmente, yo sólo he asignado algunos de mis copyright a una sola
 organización en toda mi vida: la [Free Software Foundation][13], porque la FSF
 es la única organización que he encontrado que está institucionalmente
-comprometida a hacer lo correcto con los copyright de forma similar a mis
+comprometida a hacer lo correcto con los copyrights de forma similar a mis
 creencias morales personales.
 
 En primer lugar, [como he escrito antes][14], los ©AA de la FSF hacen toda
 suerte de promesas al asignante. En segundo, la FSF está institucionalmente
-comprometida con [la GPL][15] y en reforzar la GPL de forma de avanzar la
+comprometida con [la GPL][15] y en hacer cumplir la GPL de forma de avanzar la
 militancia sin fines de lucro de la FSF por la libertad del software. Toda esta
 actividad está contenida en mis principios morales, por lo que no he tenido
 problema en firmar los ©AA de la FSF.
@@ -94,7 +94,7 @@ desarrolladores que las firman. Mientras, los ©AA del Proyecto Harmony ponen
 unas pocas opciones que parecen vagamente aceptables (aunque tienen problemas
 propios que discuto más abajo), no las hacen obligatorias. Yo mismo he señalado
 en varias ocasiones a los que escribieron los borradores de Harmony que [los
-términos][19] de la FSF ha propuesto deberían ser obligatorios en cualquier ©AA
+términos][19] que la FSF ha propuesto deberían ser obligatorios en cualquier ©AA
 de una compañía con fines de lucro, pero se han negado a incorporar estas
 garantías como un requisito de sus acuerdos. (Noten que tales garantías también
 deben incluirse en las opciones de los CLA; ver debajo para más detalles.)
@@ -110,7 +110,7 @@ asignación a la FSF es opcional. Algunos proyectos GNU, como [GNOME][21],
 tienen sus propias posiciones sobre los ©AAs que difieren radicalmente de las
 de la FSF. Dudo seriamente que las compañías que adopten los acuerdos del
 Proyecto Harmony lleguen a ser tan flexibles en cuanto a la asignación de
-copyright como lo es la FSF, o que ninguno de las opciones posibles que el
+copyright como lo es la FSF, o que alguna de las opciones posibles que el
 Proyecto Harmony provea sean aceptables para la política actual de GNOME.
 
 
@@ -125,7 +125,7 @@ en la comunidad del Software Libre. La Apache Software Foundation siempre ha
 estado fuertemente influenciada por IBM y otras compañías, y tales compañías
 generalmente han sentido "mariposas en la panza" al lograr que cada contribuidor
 asienta a firmar un documento legal complejo que afirma varias garantías
-respecto al código y da ciertas poderes a la compañía.
+respecto al código y da ciertos poderes a la compañía.
 
 El punto principal de un CLA (y hasta cierto punto válido) es asegurar que los
 desarrolladores han verificado su derecho a contribuir código bajo la licencia
@@ -156,7 +156,7 @@ La "Elección de Ley" y los Arreglos Contractuales embarran los reclamos de copy
 
 El CLA de Apache no posee una cláusula de elección de ley, lo que es preferible
 en mi opinión. La mayoría de los abogados _aman_ una cláusula de "elección de
-ley" ("choise of law" en inglés) por varias razones. La más grande es que
+ley" ("choice of law" en inglés) por varias razones. La más grande es que
 significa que las reglas que se aplican sobre el acuerdo son las más familiares
 a los abogados y la jurisdicción para las disputas será la jurisdicción local
 de la compañía, no la del desarrollador. Adicionalmente, los abogados a menudo
@@ -171,13 +171,13 @@ variable, que casi siempre será la que no prefiera el desarrollador individual.
 Probablemente el término no sea negociable en ese punto, aunque haya podido
 configurarse en la plantilla.
 
-Y no sólo eso, imagina un escenario mucho más probable para ese CLA: la
-compañía falla en usar la licencia que prometieron. Por ejemplo, supongan que
+Y no sólo eso, imaginá un escenario mucho más probable para ese CLA: la
+compañía falla en usar la licencia saliente que prometieron. Por ejemplo, supongan que
 prometieron a los desarrolladores que sería AGPL para siempre (¡aunque ninguna
 opción como esta existe en el Proyecto Harmony, vean más abajo!), pero entonces
 la compañía lanza versiones propietarias. Los desarrolladores que firmaron el
-CLA todavía detentan copyright, por lo que pueden reforzar bajo la ley de
-copyright que, por sí misma, puede lograr que los desarrolladores refuercen la
+CLA todavía detentan copyright, por lo que pueden ejercer sus derechos bajo la ley de
+copyright que, por sí misma, puede lograr que los desarrolladores hagan cumplir la
 licencia bajo la ley en cualquier jurisdicción que les parezca (asumiendo que
 la infracción sucede en esa, por supuesto).
 
@@ -197,8 +197,8 @@ jurisdicción se ve forzada a interpretar las leyes de otro lugar. Esto lleva
 a resultados altamente variables y confusos.
 
 
-Problemas por el reforzamiento de copyright individual contra terceras partes
------------------------------------------------------------------------------
+Problemas para hacer cumplir el copyright individualmente contra terceras partes
+--------------------------------------------------------------------------------
 
 Además, aún cuando los desarrolladores individuales retienen sus copyrights,
 los CLAs del Proyecto Harmony garantizan muchos derechos y permisos
@@ -206,17 +206,17 @@ transferibles al receptor del CLA (otra vez, usualmente a una compañía). Aún
 _si_ las razones para requerirlos fuesen nobles, introducen un manojo de
 permisos extra que pueden ser pasados a otras entidades.
 
-De repente, lo que una vez fuera una simple demanda de reforzamiento de
+De repente, lo que una vez fuera una simple demanda para hacer cumplir el
 copyright hecha por un desarrollador que descubre una violación del copyleft se
 convierte en una pregunta: "¿Recibió de alguna manera esa entidad violatoria
 permisos especiales de esta otra entidad colectora del CLA?" Los violadores van
-a moverse rápidamente a este tipo de defensa. Mientras la defensa pueda no
+a moverse rápidamente a este tipo de defensa. Aunque la defensa pueda no
 tener mérito (por ejemplo, el receptor del CLA ni siquiera conoce al violador),
 introduce confusión. La mayoría de los procedimientos legales que involucran
 software ya son suficientemente confusos para las cortes debido a la compleja
 tecnología involucrada. Agregar algo como esto sólo causará problemas y
-demoras, agregando más peso a nuestros mínimamente financiados esfuerzos de
-reforzar la comunidad copyleft.
+demoras, agregando más peso a nuestros mínimamente financiados esfuerzos por
+hacer cumplir el copyleft de la comunidad.
 
 
 Entrante=Saliente es todo lo que necesitás
@@ -224,14 +224,14 @@ Entrante=Saliente es todo lo que necesitás
 
 Mientras tanto, la pregunta sobre el CLA es esta única consideración
 fundamental: ¿Necesitamos esto? La respuesta del Proyecto Harmony es clara: sus
-proponentes claman que existe una confusión masiva sobre los CLAs y ninguna
+defensores claman que existe una confusión masiva sobre los CLAs y ninguna
 estandarización, por lo que el Proyecto Harmony debe proveer un set estándar de
 acuerdos que encarnen todas las opciones usadas típicamente.
 
 Aun más, el Proyecto Harmony ha rechazado a propósito ofrecer la opción más
 simple y popular de todas, que mi colega Richard Fontana (un abogado de Red Hat
 que [también se opone][24] al Proyecto Harmony) [ha llamado][25] [el año pasado
-"entrada=salida"][26]. Específicamente, el acuerdo por defecto en la abrumadora
+"entrante=saliente"][26]. Específicamente, el acuerdo por defecto en la abrumadora
 mayoría de los proyectos FLOSS es simplemente esta: cada contribuidor acuerda
 licenciar cada contribución bajo la licencia de copyright específica del
 proyecto (o una licencia compatible).
@@ -242,7 +242,7 @@ porque el receptor del CLA nunca está legalmente obligado por la licencia del
 proyecto. Mientras tanto, y aún bajo su mejor configuración, el Proyecto
 Harmony no puede aproximarse adecuadamente a entrante=saliente.
 Específicamente, el Proyecto Harmony intenta limitar el licenciamiento de
-salida en su sección 2.3 (llamada "Licencia saliente"). Sin embargo, todas las
+saliente en su sección 2.3 (llamada "Licencia saliente"). Sin embargo, todas las
 versiones copyleft de esta plantilla incluyen una cláusula que dice: "Nosotros
 \[los receptores del CLA\] acordamos licenciar la Contribución \[...\] bajo los
 términos de las \[...\] licencias que Nosotros estemos utilizando a la Fecha de
@@ -251,7 +251,7 @@ seguridad cuáles licencias usa en privado la entidad que recibe el CLA. Si esa
 entidad ya tiene un modelo de negocio de [relicenciamiento propietario][27]
 a la Fecha de Envío, entonces el contribuyente concede su permiso para tal
 relicenciamiento en esa contribución nueva, aún si el resto de la sección 2.3
-le promete copyleft. Esto no es hipotético: han habido muchos casos donde no
+le promete copyleft. Esto no es hipotético: ha habido muchos casos donde no
 está claro si la compañía estaba o no estaba involucrada en relicenciamiento
 propietario, para más tarde descubrir que lo habían estado haciendo en privado
 durante años. Tal como está escrita, por lo tanto, **cualquier configuración de
@@ -274,7 +274,7 @@ completamente incapaz de acomodarse a mis preferencias y aproximarse a un
 entrante=saliente que sea AGPL (aún si ignoro los numerosos problemas ya
 discutidos).
 
-Mientras que la normal, mundana y extendida práctica entrante=saliente es
+Mientras tanto, la normal, mundana y extendida práctica entrante=saliente es
 simple, efectiva y no mezcla sus complicadas disputas contractuales
 y estructuras de control con la gobernanza del proyecto. En esencia, para la
 mayoría de los proyectos FLOSS, la licencia de copyright del proyecto sirve
@@ -287,7 +287,7 @@ Los Hackers de Linux han fijado ingeniosamente entrante=saliente
 ----------------------------------------------------------------
 
 Hace casi 10 años atrás, recuerdo haber asistido a un sesión del [USENIX 2001
-Linux BoF][30]. En esa sesión, [Ted T'so][31] y yo tuvimos un vivo debate; yo
+Linux BoF][30]. En esa sesión, [Ted T'so][31] y yo tuvimos un acalorado debate; yo
 afirmé que el ©AA de la FSF aseguraba certeza legal sobre el código GNU, pero
 que Linux no poseía tal seguro. (Por cierto, incluso _yo_ estaba confundido en
 esos días y pensaba que todos los paquetes de GNU requerían un ©AA de la FSF.)
@@ -324,7 +324,7 @@ inútil.
 
 Francamente, si tengo que elegir entre hacer las cosas fáciles para los
 desarrolladores o hacerlas fáciles para los abogados corporativos, voy a elegir
-entre los primeros en todos los casos: los desarrolladores escriben el código;
+lo primero en todos los casos: los desarrolladores escriben el código;
 mientras que la mayor parte del tiempo, los departamentos legales de una
 compañía sólo se meten en el medio. La comunidad de FLOSS necesita cubrirse el
 culo lo suficiente como para zafar; el DCO muestra lo que es realmente
@@ -336,20 +336,20 @@ sus desarrolladores.
 ----------------------------------
 
 El DCO de Linux no permite que una sola entidad relicencie el código; esta es
-la razón por la que el cambio a GPLv3 en Linux es una ardua tarea para
-conseguir el permiso de todos. Sin embargo, hay que notar que la cultura
+la razón por la que el cambio a GPLv3 en Linux será una ardua tarea de procesos
+públicos por conseguir el permiso para el cambio. Sin embargo, hay que notar que la cultura
 linuxera _cree_ que la GPLv2 es el fundamento moral y el principio de su
 comunidad. No es un principio con el que concuerdo; la mayoría de mis lectores
 saben que mi [licencia preferida][34] es la AGPLv3 o superior. Pero este es el
 punto: entrante=saliente es _la_ forma en que una comunidad FLOSS implementa su
-moralidad; el Proyecto Harmony busca remover a la comunidad de las decisiones
+moralidad; el Proyecto Harmony busca remover las decisiones comunitarias
 sobre el licenciamiento de casi todos los proyectos.
 
 Estoy a favor de permitir el relicenciamiento "o superior"; la GPL, la LGPL y
 la AGPL han dejado la opción a la comunidad ya que la [GPLv1][35] fue publicada
 a finales de los '80. Los proyectos se declaran "GPLv2 o superior" o "LGPL o
 superior", o incluso ["GPLv1 o superior o Artística"][36] (como Perl 5) para
-identificar su cultura y permisos de relicenciamiento.  Mientras que a veces
+identificar su cultura y permisos de relicenciamiento. Aunque a veces
 sería bueno tener una autoridad en relicenciamiento, el precio es muy caro: el
 abandono de una claridad comunitaria con respecto a los términos en que se
 define su cultura de desarrollo.
@@ -371,7 +371,7 @@ desarrolladores) el poder unilateral de tomar decisiones de relicenciamiento
 y convertir un proyecto bajo GPL en LGPL o cualquier otra licencia de copyleft
 débil es ridículo.
 
-En su lanzamiento 1.0, el Proyecto Harmony intentó agregar una opción "de sólo
+En su lanzamiento 1.0, el Proyecto Harmony intentó agregar una opción de "sólo
 copyleft fuerte". Por supuesto que no funciona, por las razones discutidas más
 arriba. Pero aun así, esta solución es sólo una de las muchas y no es requerida
 por defecto cuando un proyecto ya es copyleft.
@@ -391,7 +391,7 @@ débiles.
 Esto no es Creative Commons, pero si lo fuera, ¿vale la pena emularlo?
 ----------------------------------------------------------------------
 
-Los proponentes del Proyecto Harmony aman compararlo con [Creative
+Los defensores del Proyecto Harmony aman compararlo con [Creative
 Commons][41], pero la comparación no es particularmente apta. Aún más, no estoy
 convencido de la que la comunidad FLOSS deba emular al grupo de licencias de CC
 del todo, ya que algunos aspectos de la estructura de CC son problemáticos al
@@ -401,7 +401,7 @@ En primer lugar, [Larry Lessig][42] (quien es ampliamente considerado como un
 visionario) inició el licenciamiento CC para capturar un movimiento por la
 Cultura Libre que se estaba moldeando a semejanza del movimiento del Software
 Libre (la cual pasó una década estudiando). Sin embargo, Lessig realizó varios
-compromisos morales en su intentó de construir un puente a la mentalidad
+compromisos morales en su intento de construir un puente a la mentalidad
 "algunos derechos reservados". Así, muchas de las licencias CC -notablemente
 las que incluyen las cláusulas NoComercial (NC) o SinDerivadas (ND)- son
 consideradas demasiado restrictivas y son por lo tanto rechazadas tanto por
@@ -435,7 +435,7 @@ experto en políticas de libertad del software. En esa vena -sin tener en cuenta
 el apoyo de los abogados corporativos- mi opinión es que el Proyecto Harmony
 debe abandonarse por completo.
 
-De hecho, la distinción entre política y experticia legal muestra la raíz del
+De hecho, la distinción entre experticia política y legal muestra la raíz del
 problema del Proyecto Harmony. Es un sistema de documentos diseñados por un
 comité compuesto principalmente por abogados corporativos, aun cuando se
 muestra como un consenso de desarrolladores FLOSS. En efecto, el Proyecto
@@ -446,11 +446,11 @@ defendido][48] [violadores de la GPL][49]) para escribir el borrador de las
 versiones alpha del documento, y aun continúa haciéndolo. Aún más, el proceso
 primario de escritura de esos borradores se hizo en secreto en reuniones
 cerradas dominadas por abogados corporativos hasta que los documentos
-estuvierons casi completos; el proceso no se hizo público a la comunidad hasta
+estuvieron casi completos; el proceso no se hizo público a la comunidad hasta
 abril del 2011. La versión 1.0 de los documentos poco difiere de los borradores
 que se lanzaron en abril, y por lo tanto se mantienen como documentos que
 fueron principalmente redactados en secreto por abogados corporativos que sólo
-tienen una lejana familiaridad con el cultura del software libre.
+tienen una lejana familiaridad con la cultura del software libre.
 
 [He preguntado][50] muchas veces a los defensores del Proyecto Harmony quién
 está a cargo del mismo hoy, y nadie puede darme una respuesta directa. Uno se
@@ -466,7 +466,7 @@ extralimitados CLAs y ©AAs. Para mí, el proceso completo del Proyecto Harmony
 se siente como una guerra de desgaste para convencer a los desarrolladores de
 aceptar algo que no necesariamente quieren con un mínimo de disenso. En
 definitiva, la necesidad del Proyecto Harmony no se ha articulado para los
-ellos.
+desarrolladores.
 
 Por último, pregunto, ¿qué es lo que está realmente roto? La industria ha
 estado adoptando GNU y Linux durante años de manera continua. GNU, por su
@@ -476,7 +476,7 @@ contrarios tanto al uso de ©AAs como de CLAs, o se han mostrado indiferentes y
 han usado entrante=saliente. Linux, por su lado, usa el DCO, que realiza el
 trabajo de manejar las partes más urgentes e importantes de un CLA sin ponerse
 en el camino de los desarrolladores y sin forzarles riesgos legales extra y
-entregarle las decisiones de licenciamiento (incluyendo debilitantes del
+entregarle las decisiones de licenciamiento (incluyendo las debilitantes del
 copyleft) a una única entidad (usualmente con fines de lucro).
 
 En definitiva, el Proyecto Harmony es una solución mal diseñada buscando un
