@@ -155,19 +155,19 @@ Tenemos que arreglarlo rápido.
 
 Ahora estamos detrás de la curva de los movimientos por la libertad que
 dependen del código. Y todos los días que pasan sin que arreglemos los
-problemas creados por el uso de medios en redes sociales inseguras,
-sobre-centralizadas, sobre-capitalizadas, para hacer la política de la
+problemas creados por el uso de redes sociales inseguras, sobre-centralizadas,
+sobre-capitalizadas, como medios de comunicación para hacer la política de la
 libertad, la política real de la libertad, en la calle, donde están los
 tanques. Más tiempo pasa sin arreglarlo, más nos convertimos en parte del
 sistema que pronto producirá una tragedia.
 
 Lo que pasó en Egipto es enormemente inspirador pero el Estado egipcio
-llegó tarde en intentar controlar la red, y no estaba tan listo para no
-tener remordimientos de lo que podría haber estado.
+llegó tarde a intentar controlar la red, y no estaba listo para ser
+tan despiadado como podría haber sido.
 
 No es difícil, cuando todos están en sólo una gran base de datos
 controlada por el señor Zuckerberg, decapitar una revolución mandando una
-orden al señor Zuckerberg que no puede costearse rechazar.
+orden al señor Zuckerberg que no puede permitirse rechazar.
 
 Necesitamos pensar profundamente, y rápidamente, y con buen efecto
 tecnológico, acerca de las consecuencias de lo que hemos construido y de
@@ -188,7 +188,7 @@ Si nos preocupa la libertad tanto como lo hacemos, y si somos tan
 brillantes con la tecnología como lo somos, tenemos que enfrentar el
 problema. Nos estamos quedando sin tiempo. Porque la gente de cuyos
 movimientos nos preocupamos profundamente ya están allá afuera en el
-camino del daño usando cosas que los pueden dañar.
+camino del peligro usando cosas que los pueden dañar.
 
 No quiero que nadie tome riesgos de vida o muerte para crear libertad en
 algún lado usando un iPhone.
@@ -251,7 +251,7 @@ Seguro.
 Si no lo hacemos, entonces la gran promesa social del movimiento del
 software libre, que el software libre puede llevar a una sociedad libre,
 va a empezar a romperse. La fuerza va a intervenir en algún lado, pronto.
-Y una demostración será ofrecida a la humanidad en que aún con toda la
+Y una demostración será ofrecida a la humanidad, de que aún con toda la
 tecnología de red y todas esas personas jóvenes buscando construir una
 vida para sí mismos, el Estado todavía gana.
 
@@ -270,7 +270,7 @@ saberlo todo de todos en todo el mundo.
 Cuando Dwight Eisenhower dejaba la presidencia en 1961 hizo un famoso
 discurso de despedida al pueblo estadounidense en el que les advertía
 contra el poder del complejo industrial-militar, una frase que se
-convirtió en un lugar común en la discusión que la gente dejó de pensar
+convirtió tanto en un lugar común en la discusión que la gente dejó de pensar
 seriamente en lo que significaba.
 
 El general que había mandado la mayor actividad militar del siglo XX, la
@@ -297,14 +297,14 @@ contratistas clasificados a los que tuvieron acceso a través de registros
 públicos, incluyendo qué es lo que hacen para el gobierno, cuánto se les
 paga, y qué puede saberse sobre ellos; una base de datos que puede usarse
 para crear cualquier tipo de periodismo más allá de lo que el Post haya
-publicado. Recomiendo a todos que revisen "Top Secret America".  Lo que
-muestra es cuántos Googles existen bajo el control directo del gobierno de
+publicado. Recomiendo a todos que revisen "Top Secret America".  Lo que te va a
+mostrar es cuántos Googles existen bajo el control directo del gobierno de
 los Estados Unidos, así como cuántos Googles existen bajo el control de
 Google. En otras palabras, la vasta red que une el escuchar a todo el
 mundo en todo el mundo fuera de Estados Unidos que es tradición en los
-Estados Unidos post-Segunda Guerra Mundial, al nuevo escucharlo todo
-dentro de los Estados Unidos -que estaba contra la ley en mi país como sé
-que era ley-, a toda la información ahora disponible en todos los sistemas
+Estados Unidos post-Segunda Guerra Mundial, al recientemente disponible escucharlo todo
+dentro de los Estados Unidos -que estaba contra la ley en mi país mientras
+conocia su ley-, a toda la información ahora disponible en todos los sistemas
 comerciales de recolección, que incluye todo lo que tipean en cuadros de
 búsqueda acerca de lo que creen, esperan, temen, o dudan, así como toda
 reserva de viaje que hagan, y toda pieza de información de rastreo que
@@ -353,10 +353,10 @@ No necesito caracterizar cuál de estos gobiernos -los Estados Unidos, la
 Unión Europea, o la República Popular China- toman esas posiciones
 diferentes, y diría que dentro de esos gobiernos existen diferencias de
 opinión en esos puntos, entre facciones dominantes y facciones menos
-dominantes. Pero todas las partes son cada vez más concientes que es en
+dominantes. Pero todos los grupos son cada vez más concientes que es en
 Norteamérica donde está la minería de datos, y eso es un beneficio, una
-duda o un problema, dependiendo en cuál Estado o colección de Estados
-representen.
+duda o un problema, dependiendo de a cuál Estado o colección de Estados
+representás.
 
 La ley de protección de datos europea ha hecho esto: ha puesto tus datos
 personales casi exclusivamente en Norteamérica donde no puede ser
@@ -382,7 +382,7 @@ las telecomunicaciones estadounidenses de participar en el espionaje
 doméstico dentro de los Estados Unidos sin autorización legal pública
 directa. Por el momento en que ya era candidato en las elecciones
 generales, ya no estaba a favor de prevenir la inmunización, de hecho él
-mismo como senador por Illinois no filibusteó (?) la legislación que
+mismo como senador por Illinois no obstruyó la legislación que
 inmunizaba a los gigantes de las telecomunicaciones y la legislación pasó.
 Como ustedes saben, las políticas de la administración de Obama con
 respecto a la minería de datos, vigilancia, y seguridad doméstica en la
@@ -395,12 +395,12 @@ del mundo. El motivo del lucro no va a producir privacidad, sin contar que
 vaya a producir una defensa robusta de la libertad en las calles.
 
 Si vamos a construir sistemas de comunicación para la política futura,
-vamos a tener que construirlas bajo la asunción de que la red no sólo es
-insegura, sino también no confiable. Y vamos a tener que construir sobre
-la asunción de que los servicios centralizados te pueden matar.
+vamos a tener que construirlas bajo el supuesto de que la red no sólo es
+insegura, sino que no merece confianza. Y vamos a tener que construir sobre
+el supuesto de que los servicios centralizados te pueden matar.
 
-No podemos joder con esto. No podemos dejar que Facebook baile arriba y
-abajo sobre su política de privacidad. Es ridículo.
+No podemos joder con esto. No podemos dejar que Facebook vaya de acá para
+allá con su política de privacidad. Es ridículo.
 
 Tenemos que reemplazar las cosas que crean vulnerabilidad y convencer a
 nuestros colegas alrededor del mundo de que no las usen para crear
@@ -448,8 +448,8 @@ planeo usar temporalmente, o a largo plazo si es necesario, como el
 cuartel general para crear software libre que corra en servidores
 pequeños, hardware libre cuando sea posible, hardware no libre donde
 debamos, en orden a poner a disposición del mundo, a bajo precio,
-dispositivos con que los seres humanos interactuarán, que producirán
-privacidad y ayudarán a asegurar una libertad robusta.
+dispositivos con que los que seres humanos disfrutarán interactuar, que
+producen privacidad y ayudan a asegurar una libertad robusta.
 
 _Aplausos_
 
