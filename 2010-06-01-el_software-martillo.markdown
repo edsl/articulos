@@ -36,7 +36,7 @@ Marí y Oscar Varsavsky.
 Enrique Marí nos recuerda que las formas dominantes de la filosofía son
 producto del juego de fuerzas sociales de una época, siendo la epistemología,
 la filosofía de las ciencias, la rama preponderante en la
-actualidad[@mari-2000]. Su función principal ha sido la de enunciar este juego
+actualidad [@mari-2000]. Su función principal ha sido la de enunciar este juego
 al nivel del pensamiento, forjar un mundo del pensamiento que proporcione
 instrumentos de justificación teórica del desarrollo del capitalismo
 [@rivera-2003].
@@ -81,7 +81,7 @@ la sociedad.
 Otro tema que queda soslayado en las posiciones estándar acerca de las ciencias
 es la incidencia de los sistemas de propiedad privada de las ideas, la llamada
 'propiedad intelectual', que convierte por arte de magia los bienes intangibles
-en bienes materiales –legalmente hablando, en bienes rivales[@busaniche-2007].
+en bienes materiales –legalmente hablando, en bienes rivales [@busaniche-2007].
 Los descubrimientos científicos no son del dominio público, pertenecen
 a alguien, generalmente a quien espera obtener un rédito económico por ellos.
 No es este el caso sólo para las ciencias prácticas, ya que sucesivos cambios
@@ -221,7 +221,7 @@ y necesidades de las personas. En la praxis hacker, se trata de arreglar los
 problemas, como si se tratara de un _bug_, o como propone el título del libro
 de Söderberg, _hackear al capitalismo_.
 
-[^0]: Este artículo se libera bajo la licencia CC-BY-SA[@cc-by-sa-ar]
+[^0]: Este artículo se libera bajo la licencia CC-BY-SA [@cc-by-sa-ar]
 
 [^1]: El sentido correcto del término no es ni pirata ni criminal informático.
 _Hacker_ es todo aquel que utiliza su creatividad para resolver un problema de

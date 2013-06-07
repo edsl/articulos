@@ -15,13 +15,13 @@ izquierda, aunque existen algunos vasos comunicantes entre el movimiento hacker
 y movimientos sociales más tradicionales. Los más notables de estos grupos
 dentro del underground informático son los autodenominados 'hacktivistas'.
 Tratan de aplicar sus habilidades informáticas a una agenda política ya
-establecida, como el feminismo o el ecologismo[@gnunited-jordan02]. Pero es más
+establecida, como el feminismo o el ecologismo [@gnunited-jordan02]. Pero es más
 desafiante darle sentido a la agenda política del núcleo del movimiento hacker.
 De inmediato, uno se pregunta si el underground informático puede siquiera
 considerarse un movimiento social. Muchos hackers, tal vez la mayoría, dirían
 que este no es el caso. A lo más, la política es tenida como un punto
 secundario frente a la alegría de jugar con tecnología
-informática[@gnunited-torvalds-diamond01]. Aún así, de esta apasionada
+informática [@gnunited-torvalds-diamond01]. Aún así, de esta apasionada
 afirmación de las computadoras han crecido ideas con ramificaciones políticas.
 Por caso, hackers que de otra manera no se considerarían 'políticos' tienden
 a oponerse a las patentes del software y la vigilancia estatal de Internet,
@@ -37,7 +37,7 @@ cortan por ejes diferentes de los de la división derecha-izquierda tradicional.
 Cuando los científicos sociales han analizado los supuestos que descansan
 detrás de las declaraciones públicas de estos grupos de lobby hacker han
 encontrado sin embargo una cercana afinidad con el
-liberalismo[@gnunited-coleman08].
+liberalismo [@gnunited-coleman08].
 
 Un par de escritores de izquierda han hecho un corte en el que no interpretan
 el hacking como una ideología liberal. Muy al contrario, creen que el
@@ -48,24 +48,24 @@ el hacking es Eben Moglen. Es profesor de leyes y fue por un largo tiempo una
 figura maestra en la Fundación del Software Libre (FSF). Moglen es además el
 autor del _Manifiesto puntoComunista_, donde predijo que el anarquismo del
 desarrollo de software reemplazará a las firmas capitalistas como el modo más
-eficiente de organizar la producción en el futuro[@gnunited-moglen99]. El
+eficiente de organizar la producción en el futuro [@gnunited-moglen99]. El
 estudioso de los medios Richard Barbrook razonaba en forma similar cuando
 desbancaba el hype acerca de los 'mercados libres en el ciberespacio' creado en
 los '90. En su lugar presentó su propia visión de una economía anarquista del
 don de alta tecnología.[^1]. El impulso a dar se genera automáticamente del
 hecho de que en Internet la gente tiene un interés propio en compartir
 información libremente antes que comercializarla en un
-mercado[@gnunited-barbrook02]. Podría decirse que el surgimiento de Napster
+mercado [@gnunited-barbrook02]. Podría decirse que el surgimiento de Napster
 y generaciones posteriores de tecnologías de compartición de archivos probaría
 que Barbrook estaba en lo cierto. Aun más iconoclasta en su adopción de la
 retórica socialista es el filósofo esloveno Slavoj Zizek. Parafraseó el apoyo
 de Lenin a la electricidad diciendo, en tono de burla, que 'el socialismo es
 igual a libre acceso a Internet más todo el poder a los
-Soviets'[@gnunited-zizek02]. Por lo menos unos pocos comunistas de la vieja
+Soviets' [@gnunited-zizek02]. Por lo menos unos pocos comunistas de la vieja
 escuela están tomando esta idea con seriedad. Creen que la tecnología
 informática ha provisto el vínculo faltante que al fin podría hacer de una
 economía planificada una alternativa viable a la economía de
-mercado[@gnunited-pollack98].
+mercado [@gnunited-pollack98].
 
 Pero estas afirmaciones positivas del hacking y la tecnología informática
 probablemente sean opiniones minoritarias dentro de la izquierda tradicional.
@@ -73,7 +73,7 @@ Hay una sospecha profundamente arraigada entre los intelectuales de izquierda
 hacia la tecnología informática y, por extensión, a sus más celosos usuarios,
 es decir los hackers. El origen de Internet dentro de instituciones del EEUU de
 la Guerra Fría es suficiente para desanimar a muchos pensadores
-progresistas[@gnunited-edwards96;@gnunited-shiller99]. Hay que agregar a esto
+progresistas [@gnunited-edwards96;@gnunited-shiller99]. Hay que agregar a esto
 el hype alrededor de Internet a mediados de los '90. Dió rienda suelta al viejo
 dilema de la 'Edad de la Información'. Esta noción data de los '50 y proviene
 de sociólogos conservadores estadounidenses que se propusieron desaprobar la
@@ -83,17 +83,17 @@ disuelto y la lucha ideológica entre liberalismo y socialismo se estaba
 volviendo obsoleta. En consecuencia, los académicos con tendencias de izquierda
 protestaron contra las nociones acerca del surgimiento de la Edad de la
 Información e insistieron en la existencia y continuidad del industrialismo,
-capitalismo y conflicto de clases[@gnunited-webster02]. Para probar este punto
+capitalismo y conflicto de clases [@gnunited-webster02]. Para probar este punto
 les basta con llamar atención sobre las condiciones inhumanas bajo las que la
 electrónica informática es manufacturada en zonas de exportación de países del
-tercer mundo[@gnunited-sussman-lent98]. Un informe de 2008 ha documentado cómo
+tercer mundo [@gnunited-sussman-lent98]. Un informe de 2008 ha documentado cómo
 en China chicas de 16 años de edad trabajan de doce a quince horas diarias,
-seis o siete días a la semana, y apenas ganan para vivir[@gnunited-weed08].
+seis o siete días a la semana, y apenas ganan para vivir [@gnunited-weed08].
 Estos descubrimientos resuenan junto a la circunstancia histórica de que las
 tarjetas perforadas, maquinaria de control numérico, mainframes y otros
 embriones de computadoras modernas fueron instrumental para volver redundantes
 a los obreros y degradar sus calificaciones laborales en el momento de la
-producción[@gnunited-braverman74;@gnunited-kraft77].
+producción [@gnunited-braverman74;@gnunited-kraft77].
 
 Ahora, habiendo delineado brevemente la relación confusa entre la izquierda
 tradicional y el empuje político de los hackers, este artículo procederá
@@ -124,7 +124,7 @@ y trabajadores. Además, la similaridad entre la lucha de los trabajadores
 contra la maquinaria fabril y la lucha del movimiento hacker contra el software
 propietario va a ser puesta en relieve. El libre acceso al código fuente,
 preocupación clave de los hackers, contradice el sistema fabril y la lógica del
-gerenciamiento científico en la programación informática[@gnunited-hannemyr99].
+gerenciamiento científico en la programación informática [@gnunited-hannemyr99].
 Aunque la situación de los programadores comparada con la de los obreros es muy
 diferente en muchos aspectos, el artículo muestra que ambos grupos están
 preocupados en la meta de preservar sus calificaciones y la autonomía obrera
@@ -140,10 +140,10 @@ Los sentimientos ambivalentes de entusiasmo y miedo que a menudo evoca la
 tecnología informática entre la gente tienen un precedente histórico. En el
 amanecer de la revolución industrial, se debatió fuertemente en todos los
 segmentos de la sociedad qué efecto tendría la mecanización sobre el ser
-humano, tanto social como espiritualmente[@gnunited-berg80]. Incluso algunos de
+humano, tanto social como espiritualmente [@gnunited-berg80]. Incluso algunos de
 los adelantados de la teoría económica liberal, como David Ricardo, admitieron
 que la clase trabajadora tenía buenas razones para resentir de la maquinaria
-fabril[@gnunited-riccardo1821]. La miseria que cayó sobre los trabajadores que
+fabril [@gnunited-riccardo1821]. La miseria que cayó sobre los trabajadores que
 estaban subyugados a la maquinaria y la disciplina fabril fue vívidamente
 descripta por James Kay, un reformista social que trabajó como doctor en las
 villas:
@@ -151,7 +151,7 @@ villas:
 > "Mientras la máquina anda la gente debe trabajar –hombres, mujeres y niños
 > están uncidos juntos con hierro y vapor. La máquina animal –frágil en el mejor
 > de los casos, sujeta a mil fuentes de sufrimiento– está encadenada a la máquina
-> de hierro, que no conoce sufrimiento ni fatiga."[@gnunited-kay1832]
+> de hierro, que no conoce sufrimiento ni fatiga." [@gnunited-kay1832]
 
 Escritores sobre el gerenciamiento tempranos como Andrew Ure y Charles Babbage
 dieron la bienvenida a esta oportunidad y aconsejaron a los dueños de las
@@ -163,7 +163,7 @@ también cualificó su crítica contra la tecnología agregando que: "Tomó tiem
 y experiencia para que los trabajadores aprendieran a distinguir la maquinaria
 de su empleo por el capital, y en consecuencia a transferir sus ataques de los
 instrumentos materiales de producción a la formación social que utiliza esos
-instrumentos."[@gnunited-marx76]. Así Marx renunció a la estrategia de
+instrumentos." [@gnunited-marx76] Así Marx renunció a la estrategia de
 rompimiento de máquinas que fue el sello de los Luditas. Los Luditas consistían
 en peinadores, tejedores y artesanos que sintieron que su oficio era amenazado
 por la introducción de nuevos telares y una subsecuente reorganización de la
@@ -173,7 +173,7 @@ actividades alcanzaron su punto cúlmine en 1811-1813 y una vez la corona
 inglesa tuvo que desplegar 14.400 soldados en la región para poder aplastar las
 insurgencias nocturnas. Remarcablemente, fueron movilizados más soldados
 ingleses contra los Luditas de los que habían sido enviados a Portugal cuatro
-años antes para enfrentar al ejército de Napoleón[@gnunited-sale95]. En su
+años antes para enfrentar al ejército de Napoleón [@gnunited-sale95]. En su
 clásico reexamen del levantamiento Ludita, Eric Hobsbawm mostró que el
 rompimiento de máquinas no fue una resistencia fútil contra la tecnología y el
 progreso, como se hizo ver después. En su lugar la interpretó como un método de
@@ -182,7 +182,7 @@ opción, pero los obreros también pudieron presionar a sus empleadores
 prendiendo fuego los lugares de trabajo o enviando amenazas anónimas. Hobsbawm
 concluye que, a juzgar por la habilidad de los trabajadores de preservar sus
 salarios y condiciones laborales, tuvieron un éxito
-moderado[@gnunited-hobsbawm52].
+moderado [@gnunited-hobsbawm52].
 
 La lectura equivocada de la rebelión Ludita como alocada, irresponsable y, más
 importante, sin relación alguna con la política, se asemeja al retrato de los
@@ -201,7 +201,7 @@ mente, sugiere una definición de hacking más amplia:
 > trabajadores de alta tecnología –sin importar cuán inexpertos– que puedan
 > interrumpir, molestar y redirigir el suave flujo de comunicaciones
 > estructuradas que dicta su posición en las redes sociales de intercambio
-> y determina el paso de su agenda de trabajo."[@gnunited-ross91]
+> y determina el paso de su agenda de trabajo." [@gnunited-ross91]
 
 La sospecha de Andrew Ross es confirmada por estudios conducidos por
 organizaciones de empleadores. Que el personal provoque la falla del
@@ -211,7 +211,7 @@ externos. De acuerdo a una encuesta realizada en 1998 por la Iniciativa por la
 Seguridad Informática en conjunto con el FBI, el costo medio de un ataque
 informático exitoso en los EEUU por un usuario externo es de US$56.000. En
 comparación, el costo medio de actos maliciosos hechos por usuarios internos
-(es decir, empleados) se estimó en US$2,7 millones[@gnunited-shell-dodge02]. La
+(es decir, empleados) se estimó en US$2,7 millones [@gnunited-shell-dodge02]. La
 afición de los empleados por atacar los sistemas informáticos de sus
 empleadores subraya el rol de la computarización en la transformación de las
 condiciones de trabajo de los trabajadores de cuello blanco. La comparación de
@@ -231,7 +231,7 @@ foto. En efecto, los sindicatos han tenido bastante éxito en formalizar el
 conflicto entre trabajo y capital como un problema de negociación
 institucionalizada. No obstante, puede decirse que la negociación colectiva del
 trabajo todavía descansa sobre la amenaza velada del sabotaje, las huelgas
-y los disturbios[@gnunited-brown77]. De la misma manera, entiendo la distinción
+y los disturbios [@gnunited-brown77]. De la misma manera, entiendo la distinción
 entre hackers y crackers como una construcción discursiva que no retrata
 certeramente las raíces históricas ni el solapamiento actual de esta
 subcultura. En cambio, busca redefinir el significado de hacking y dirigirlo
@@ -270,7 +270,7 @@ hackers recuperan tecnología informática de las compañías e instituciones
 gubernamentales. Las pistas de cómo se llegó a esta situación pueden
 encontrarse en lo que se llamó el Debate Braverman. La controversia tuvo lugar
 contra el telón de la idea acerca de la llegada de una era
-post-industrial[@gnunited-bell73]. Dos décadas después, la misma idea fue
+post-industrial [@gnunited-bell73]. Dos décadas después, la misma idea fue
 reempaquetada como 'el surgimiento de la Era de la Información' o la 'Sociedad
 en Red'. Esta noción ha tenido muchos tonos pero invariablemente pinta un
 futuro brillante donde el capitalismo avanzará más allá del conflicto de clases
@@ -300,7 +300,7 @@ economía. A primera vista, la emergencia de la profesión de programador pareci
 haber probado que sus críticos tenían razón. Uno de ellos, Stephen Wood,
 reprochó a Braverman por idealizar al trabajador artesanal del siglo XIX. Wood
 señaló la difusión de la alfabetización para probar que las calificaciones
-también habían aumentado en la sociedad moderna[@gnunited-wood82]. Su
+también habían aumentado en la sociedad moderna [@gnunited-wood82]. Su
 comentario es intrigante ya que trae una sutileza que se perdió en el calor del
 intercambio. No es la descalificación _per se_ el objetivo del capital, sino el
 hacer reemplazables a los trabajadores. Cuando las tareas y cualificaciones se
@@ -325,7 +325,7 @@ dominarse y requieren grandes y costosas instalaciones. La militancia sindical
 que caracterizó la industria de la imprenta se fundaba sobre este monopolio del
 conocimiento por parte de los trabajadores. La introducción de procesos
 informáticos fue decisiva para romper la fuerza de los trabajadores
-gráficos[@gnunited-zimbalist79]. Las computadoras personales pueden verse como
+gráficos [@gnunited-zimbalist79]. Las computadoras personales pueden verse como
 una extensión de este desarrollo. La mediación por el software permite que la
 simple capacidad de navegar una interfaz gráfica se convierta en múltiples
 capacidades. Con una computadora corriendo GNULinux y Scribus, por ejemplo, el
@@ -352,7 +352,7 @@ propósito especial había fallado en reemplazar a estos obreros, ya que aún
 tenían que tomarse iniciativas en la línea de producción para integrar los
 estadios separados de la producción especializada. En contraste, las máquinas
 de propósito general simulaban la versatilidad de los seres humanos, por lo que
-estaban mejor capacitadas para reemplazarlos[@gnunited-noble84]. Esta conexión
+estaban mejor capacitadas para reemplazarlos [@gnunited-noble84]. Esta conexión
 histórica es importante de enfatizar porque ahora es un lugar común que la
 universalidad de las herramientas informáticas se asuma como una cualidad
 inherente de la tecnología de la información en sí misma. De ahí que la
@@ -371,7 +371,7 @@ fuerza de trabajo causada por la maquinaria acarreó un potencial positivo.
 > cuales necesita gastar toda su vida en una sola función cualquiera y donde
 > todos pueden participar en la ingeniería, diseño, mejora, reparación
 > y operación de estas máquinas aún más
-> productivas."[@gnunited-braverman98-320]
+> productivas." [@gnunited-braverman98-320]
 
 Con una herramienta universal, la computadora, y la casi universal calificación
 de usarla, el público puede involucrarse en cualquier cantidad y tipo de
@@ -409,7 +409,7 @@ verse contra el trasfondo de un mercado de trabajo restructurado. Durante las
 donde la fábrica está perdiendo su anterior estatus como el modelo de
 producción principal. La producción se vuelve cada vez más descentralizada
 y dispersa en una red de subcontratistas, trabajadores independientes, esquemas
-de trabajo en casa y franquicias[@gnunited-mcchesney-wood-foster98]. Las
+de trabajo en casa y franquicias [@gnunited-mcchesney-wood-foster98]. Las
 compañías ahora pueden agregar a las comunidades voluntarias de desarrollo a la
 lista de formas heterogéneas de contratación de trabajo. O, para decirlo con
 una frase pegadiza, el trabajo es _outsource_ y _opensource_. La oportunidad
@@ -426,7 +426,7 @@ mediático activo, primero celebrada en la disciplina de los estudios culturales
 desde los '80 en adelante y más recientemente actualizada con el hype alrededor
 de la Web 2.0. En respuesta a estas declaraciones a menudo infundadas,
 Terranova dijo que el capital siempre ha anticipado al consumidor activo en sus
-estrategias de negocio[@gnunited-terranova00] (2000). Su argumento provee un
+estrategias de negocio [@gnunited-terranova00]. Su argumento provee un
 correctivo a los aplausos acríticos a la subcultura del _fan fiction_, la
 licencia Creative Commons y otras expresiones de 'medios participativos'. No
 obstante, en mi opinión, los críticos de izquierda como Terranova han estado
@@ -444,12 +444,12 @@ claramente articulada: hacer del software libre el estándar en computación. Es
 verdad que este punto de vista no es anti comercial en un sentido concreto.
 Como el lector probablemente sepa, la Licencia Pública General (GPL) protege el
 derecho del usuario a correr el software con cualquier propósito, incluido el
-comercial[@gnunited-gay02]. En la práctica, por supuesto, esta opción está
+comercial [@gnunited-gay02]. En la práctica, por supuesto, esta opción está
 limitada por el hecho de que la GPL también permite que las copias vendidas
 sean copiadas y distribuidas gratuitamente. Mientras la licencia libre reside
 perfectamente en un mercado libre idealizado, difícilmente lo sea dentro del
 mercado existente que presupone siempre los cuasi monopolios y las regulaciones
-estatales[@gnunited-polanyi01].
+estatales [@gnunited-polanyi01].
 
 Esto explica de alguna manera por qué la derecha política tiene dos visiones
 sobre las licencias de software libre. Los autoproclamados _libertarians_, como
@@ -497,7 +497,7 @@ convertirse en profesionales informáticos [@gnunited-lakhani-wolf05]. Por lo
 tanto, no sería inverosímil conectar los puntos entre los hackers y el mercado
 laboral que los espera. En efecto, esta línea de razonamiento ya ha sido
 intentada en el famoso artículo de Josh Lerner y Jean
-Tirole[@gnunited-lerner-tirole02]. Ellos trataron de enmarcar el supuesto
+Tirole [@gnunited-lerner-tirole02]. Ellos trataron de enmarcar el supuesto
 altruismo de los desarrolladores de software libre en la presunción de la
 teoría económica neoclásica acerca del 'hombre racional económico'. Los dos
 autores concluyen que los hackers regalan código a cambio de nada para crearse
@@ -533,7 +533,7 @@ algoritmos de software e información) están disponibles en tales cantidades qu
 se han convertido en el estándar común en lugar de ser una ventaja competitiva
 contra otros propietarios (capitalistas) y un umbral para los no propietarios
 (obreros). Una horda de sociólogos industriales y filósofos gerenciales han
-escrito sobre esta tendencia desde principios de los '80[@gnunited-zuboff88].
+escrito sobre esta tendencia desde principios de los '80 [@gnunited-zuboff88].
 Es un truismo de este cuerpo literario afirmar que los empleados, no el parque
 fabril, son en la actualidad el recurso más valioso en una corporación moderna.
 Está afirmación está nublada por la retórica, pero su validez puede probarse
@@ -563,7 +563,7 @@ organizar a estos trabajadores. Ya que los trabajos se proveen a destajo, las
 estrategias colectivas de los sindicatos carecen de agarre. Una de las
 conclusiones de O'Riain es que la movilidad se convierte en el medio principal
 por el que los empleados negocian sus condiciones laborales
-y salarios[@gnunited-oriain04]. Al tener en cuenta este hecho, el significado
+y salarios [@gnunited-oriain04]. Al tener en cuenta este hecho, el significado
 de los acuerdos contractuales mencionados arriba debe ser reconsiderado. Las
 limitaciones que ponen a la capacidad de los empleados a 'votar con los pies'
 significa que la firma regana la ventaja. En cuanto al alcance en que los
@@ -608,7 +608,7 @@ especializadas en vender servicios relacionados al software libre:
 > "Porque el 'producto' es código abierto, y está disponible libremente, los
 > negocios deben necesariamente basarse alrededor de un tipo distinto de
 > escasez: las capacidades de la gente que escribe y provee ese
-> software."[@gnunited-moody01]
+> software." [@gnunited-moody01]
 
 En otras palabras, cuando el código fuente se hace disponible públicamente bajo
 la GPL, las únicas cosas que se mantienen escasas en el mercado son las
@@ -643,7 +643,7 @@ embargo, enfocarse en aspectos monetarios. Tanto más importante es el costado
 subjetivo de la programación. Un ejemplo de esto es el descubrimiento
 consistente de que los hackers consideran más divertido participar en proyectos
 de software libre que trabajar con código
-propietario[@gnunited-lakhani-wolf05]. Tampoco creo que las estrategias
+propietario [@gnunited-lakhani-wolf05]. Tampoco creo que las estrategias
 sindicales escondidas son la única explicación de que los hackers publiquen
 bajo la GPL. Muy probablemente, la preocupación por las libertades civiles y un
 ethos antiautoritario dentro de la subcultura hacker sean factores más
@@ -670,7 +670,7 @@ En efecto, desde los tempranos '60, los escritores de revistas de
 gerenciamiento han llamado repetidamente al subyugamiento de los programadores
 bajo el mismo régimen fabril que previamente, y en parte a través de la
 introducción de la maquinaria informática, había sido impuesto a los
-trabajadores de cuello azul[@gnunited-dafermos-soderberg09]. Con esta historia
+trabajadores de cuello azul [@gnunited-dafermos-soderberg09]. Con esta historia
 en mente me gustaría proponer que la militancia por el software libre, en lugar
 de caer en la enmienda de libre expresión de la Constitución estadounidense,
 pueda tomar su credo de la 'Declaración de Derechos Tecnológicos'. Esta
@@ -681,7 +681,7 @@ en el medio de un conflicto industrial rabioso:
 > son el producto de \[un proceso\] mundial de acumulación de conocimiento que
 > duró siglos. De este modo, los trabajadores y sus comunidades tienen el
 > derecho a compartir las decisiones y el provecho sobre la nueva
-> tecnología."[@gnunited-shaiken86]
+> tecnología." [@gnunited-shaiken86]
 
 
 ## Reconocimientos
@@ -709,7 +709,7 @@ argot hacker, hace malabares para distinguir entre crackers y hackers 'reales':
 [^3]: El reporte de investigación de mercado al que se hace referencia es
 Tendencias en Código Abierto y fue publicado por el Grupo Standish. Dado que el
 acceso a este informe es restringido, la información sobre este viene de los
-medios de noticias[@gnunited-broersma08]
+medios de noticias [@gnunited-broersma08]
 
 [^4]: [http://ur1.caf6o4](http://ur1.caf6o4) (fecha de acceso: 01-11-2009).
 
