@@ -8,12 +8,12 @@ La licencia de producción de pares: un modelo para el copyfarleft
 =================================================================
 
 La Licencia de Producción de Pares es un modelo de licencia copyfarleft,
-derivada de la licencia Creative Commons 'Atribución-NoComercial-CompartirIgual
-3.0 Unported': http://creativecommons.org/licenses/by-nc-sa/3.0/
+derivada de la licencia Creative Commons [Atribución-NoComercial-CompartirIgual
+3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Para la traducción al castellano se adaptó el texto de la licencia Creative
-Commons Atribución-NoComercial-CompartirIgual 3.0 Chile':
-http://creativecommons.org/licenses/by-nc-sa/3.0/cl/
+Para la traducción al castellano se adaptó el texto de la licencia [Creative
+Commons Atribución-NoComercial-CompartirIgual 3.0
+Chile](http://creativecommons.org/licenses/by-nc-sa/3.0/cl/)
 
 Licencia de Producción de Pares
 -------------------------------
@@ -204,12 +204,13 @@ CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
     c. Usted puede ejercer los derechos concedidos en la Sección 3 precedente
     con fines comerciales sólo si:
 
-        i. Usted es o pertenece a un colectivo o empresa bajo posesión
-        y control obrero;
+        i. Usted es o pertenece a una organización o colectivo sin fines de
+        lucro u organización bajo posesión y control de sus trabajadores, y;
 
-        ii. Toda ganancia, valor añadido, rédito o beneficio producido por el
-        ejercicio de los derechos concedidos en esta Obra se distribuyen entre
-        los trabajadores pertenecientes al colectivo o empresa.
+        ii. Todo excedente, ganancia, plusvalía, rédito o beneficio producido
+        por el ejercicio de los derechos concedidos sobre esta Obra son
+        distribuidos entre los trabajadores pertenecientes a la organización,
+        colectivo o cooperativa.
 
     d. Cualquier uso realizado por una empresa poseída y administrada en forma
     privada, y que busque obtener rédito del trabajo asalariado de sus
