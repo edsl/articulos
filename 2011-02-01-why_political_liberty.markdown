@@ -228,6 +228,8 @@ Las redes en malla en ambientes urbanos densamente poblados son capaces de
 sostener el tipo de acción social que vimos en Cairo y en Alejandría esta
 semana.
 
+![](images/galaxia_regular_invertido.png)
+
 Aún sin proveedores de servicios de red centralizados, si la gente tiene
 routers inalámbricos que arman mallas en sus departamentos, en sus lugares
 de trabajo, en los lugares de acceso público alrededor suyo, pueden
@@ -442,6 +444,8 @@ proveedores de Internet, todo eso puede hacerse fácilmente encima de cosas
 que ya hacemos y usamos todo el tiempo. Tenemos distribuciones de
 propósito general más que robustas suficientes para todo esto y un poco de
 trabajo en cuanto a capa de aplicaciones para ponerle encima.
+
+![](images/galaxia_regular_guevara.png)
 
 Ayer en los Estados Unidos, formamos la Fundación FreedomBox, la cual
 planeo usar temporalmente, o a largo plazo si es necesario, como el

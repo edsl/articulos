@@ -218,6 +218,7 @@ tecnología involucrada. Agregar algo como esto sólo causará problemas y
 demoras, agregando más peso a nuestros mínimamente financiados esfuerzos por
 hacer cumplir el copyleft de la comunidad.
 
+![](images/harmony.png)
 
 Entrante=Saliente es todo lo que necesitás
 ------------------------------------------
