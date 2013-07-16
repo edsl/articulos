@@ -7,6 +7,10 @@ author: Telekommunisten
 La licencia de producción de pares: un modelo para el copyfarleft
 =================================================================
 
+> Este es el texto legal de la Licencia de Producción de Pares. También
+> puede leer el [resumen legible por
+> humanos](http://endefensadelsl.org/ppl_deed_es.html)
+
 La Licencia de Producción de Pares es un modelo de licencia copyfarleft,
 derivada de la licencia Creative Commons [Atribución-NoComercial-CompartirIgual
 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
