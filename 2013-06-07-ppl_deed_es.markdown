@@ -1,4 +1,8 @@
-# Licencia de Producción de Pares
+---
+title: Licencia de Producción de Pares
+author: En Defensa del Software Libre
+layout: post
+---
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
