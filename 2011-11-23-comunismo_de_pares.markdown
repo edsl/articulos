@@ -2,6 +2,7 @@
 layout: post
 author: Dmytri Kleiner
 title: El comunismo de pares contra el estado capitalista cliente-servidor
+cover: images/cover_endefensadelsl_nr1.png
 ---
 
 El comunismo de pares contra el estado capitalista cliente-servidor
