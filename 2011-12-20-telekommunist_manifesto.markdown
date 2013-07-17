@@ -231,6 +231,8 @@ Estas capacidades son, en su base, capacidades económicas. El cambio requiere
 entonces la aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
 
+![](images/gran_hermano.png)
+
 Las nuevas formas de producir y compartir, entonces, son la precondición de
 cualquier cambio en el orden social. Estos nuevos métodos de producir
 y compartir requieren la creación de nuevas formas de relaciones, nuevas
@@ -463,6 +465,8 @@ subsistencia del productor. Esta es la conclusión alcanzada por David Ricardo
 en su _Sobre los principios de la economía política y los impuestos_ de
 1817 [@ricardo-1821] y esta es la base de negociación que nos encontramos todos
 aquellos que nacimos en un mundo enteramente apropiado por otros.
+
+![](images/software_libre.png)
 
 En su "Ensayo sobre los beneficios", Ricardo argumenta: "El interés del
 terrateniente siempre se opone al interés de cualquier otra clase de la
