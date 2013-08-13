@@ -50,7 +50,7 @@ Ver el archivo `.gitflow`.
 
 8.  Mergea en la rama *queue*
 
-    git flow feature finish nombre-del-articulo
+        git flow feature finish nombre-del-articulo
 
 
 ## Correcciones después de publicado
