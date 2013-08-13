@@ -63,9 +63,13 @@ Ver el archivo `.gitflow`.
 
     git flow hotfix finish nombre-del-articulo
 
-## No quiero/puedo traducir, pero puedo revisar traducciones ya hechas
+## Sólo quiero/puedo revisar
 
+Para ver los artículos traducidos pero que aún no se publicaron, podés usar
 
+    git diff --name-only master queue
+
+Cualquier revisión en cualquiera de esos artículos es bienvenida.
 
 ### Más información
 
