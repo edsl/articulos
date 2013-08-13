@@ -1,0 +1,77 @@
+Ciclo de trabajo
+================
+
+## Herramientas
+
+[Git](http://git-scm.com) con [git-flow](https://github.com/nvie/gitflow).
+
+Configuración:
+
+* master   => master
+* develop  => queue
+* feature  => traduccion
+* hotfix   => hotfix
+* release  => edicion
+
+Ver el archivo `.gitflow`.
+
+## Propuesta de texto
+
+1.  Crear una nueva feature con el artículo a traducir
+
+        git flow feature start nombre-del-articulo
+
+2.  Agregar el texto (en formato markdown)
+
+        git add nombre-del-articulo.mdwn
+
+3.  Guardar el cambio
+
+        git commit -m "Explicación de por qué publicar este artículo"
+
+4.  Traducir un párrafo, agregar y guardar el cambio
+
+        git commit -am "Tal vez un comentario sobre algunas elecciones de traducción..."
+
+5.  Repetir 4 hasta terminar
+
+    Traducir párrafo por párrafo es para facilitar la revisión, al contrastar
+    directamente el párrafo original (eliminado) con el párrafo traducido
+    (agregado) con un simple `git diff`, antes de realizar el commit, o con `git
+    log -p` después.
+
+6.  Si tenés un repositorio público (e.g. cuenta en
+    [Github](http://github.com/)) de donde podamos incorporar tus cambios,
+    pusheá la rama del artículo y avisanos.
+
+        git push repositorio traduccion/nombre-del-articulo
+
+7.  ¡Revisar! Mejor una persona diferente a la que tradujo
+
+8.  Mergea en la rama *queue*
+
+        git flow feature finish nombre-del-articulo
+
+
+## Correcciones después de publicado
+
+1.  Crear un hotfix
+
+    git flow hotfix start nombre-del-articulo
+
+2.  Corregir y cerrar el hotfix
+
+    git flow hotfix finish nombre-del-articulo
+
+## Sólo quiero/puedo revisar
+
+Para ver los artículos traducidos pero que aún no se publicaron, podés usar
+
+    git diff --name-only master queue
+
+Cualquier revisión en cualquiera de esos artículos es bienvenida.
+
+### Más información
+
+* [Modelo de ramas](http://nvie.com/git-model)
+* [Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
