@@ -57,11 +57,11 @@ Ver el archivo `.gitflow`.
 
 1.  Crear un hotfix
 
-    git flow hotfix start nombre-del-articulo
+        git flow hotfix start nombre-del-articulo
 
 2.  Corregir y cerrar el hotfix
 
-    git flow hotfix finish nombre-del-articulo
+        git flow hotfix finish nombre-del-articulo
 
 ## Sólo quiero/puedo revisar
 
