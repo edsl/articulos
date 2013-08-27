@@ -1,3 +1,12 @@
+---
+title: "La parodia de los comunes"
+author: Vasilis Kostakis y Stelios Stavroulakis
+layout: post
+---
+
+La parodia de los comunes
+=========================
+
 tripleC 11(2): 412-424, 2013 http://www.triple-c.at
 
 The Parody of the Commons Vasilis Kostakis1 and Stelios Stavroulakis2 1
@@ -19,6 +28,20 @@ profit-driven relations of production into power. This subversion can
 arguably become a state policy, and the subsequent outcome is the full
 absorption of the Commons as well as of the underpinning peer-to-peer
 relations into the dominant mode of production. To tackle this threat,
+
+Este ensayo se basa en la idea de que la producción de pares basada en
+los bienes comunes es un avance social dentro del capitalismo pero con
+varios aspectos post-capitalistas que necesitan protección, aplicación,
+estimulación y conexión con movimientos sociales progresivos.  Usamos
+teoría y ejemplos para decir que las relaciones ecónomicas entre pares
+pueden resultar socavadas en el largo plazo, distorsionadas por los
+medios extraeconómicos de un contexto político diseñado para mantener en
+el poder a relaciones de producción orientadas al lucro.  Esta
+subversión bien puede convertirse en una política de estado y el
+resultado será la absorción completa de los Comunes así como las
+relaciones de pares concomitantes en el modo dominante de producción.
+Para detener esta amenaza
+
 we argue in favour of a certain working agenda for Commons-based
 communities. Such an agenda should aim the enforcement of the circulation
 of the Commons. Therefore, any useful social transformation will be
