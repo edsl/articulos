@@ -500,6 +500,22 @@ difference is related solely to the composition of the mixture. For
 Hardin, more privatisation is required, whereas according to Ostrom it
 should be constrained.
 
+La posición de Hardin [-@hardin-1968] sobre la salvación a través de la
+privatización ha sido proclamada para los bosques.  Si los bosques son
+privatizados, el interés del administrador será proteger la madera del
+fuego y el trabajo indiscriminado de los leñadores.  Lo que tenemos aquí
+es un error de categoría.  Lo que el administrador protege es el área
+vallada antes que el bosque.  Frente a los derechos de propiedad
+"sagrados" no existe documento legal que garantice que el área se
+mantendrá como un bosque.  Hoy en día, la destrucción del medioambiente
+no ocurre porque es un recurso común.  Está sucediendo porque las
+políticas aplicadas son diseñadas para soportar medios de producción
+para la apropiación privada, que explotarán el recurso común
+incondicionalmente.  En este punto los abordajes tanto de Hardin como de
+Ostrom son igualmente inútiles, porque su diferencia está asociada
+solamente a la composición de la mezcla.  Para Hardin, se requiere más
+privatización, mientras que para Ostrom debe ser contenida.
+
 Benkler (2006, 378) explains that traditionally the tragedy of the
 Commons is described by (i) the absence of incentives, i.e., nobody
 invests resources in a project since no privatisation follows; (ii) the
