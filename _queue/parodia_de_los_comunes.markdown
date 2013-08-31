@@ -335,17 +335,33 @@ al modelo de dispositivos bloqueados y controlados centralmente como
 si de lectrodomésticos informacionales se tratara.
 
 
-The initial P2P architecture of the Internet,
-based on the end-to-end principle, has been distorted into a client-server
-format where the server has the absolute authority over the client,
-who stands unprotected with limited intervention possibility (Kempf and
-Austein 2004).  The “addiction” of the client to assign tasks, which
-concern him/her on the first place, to the supposed convenience that the
-server offers is a phenomenon observed in proprietary, centralised social
-networks and SaaS models (i.e., “Software as a Service” acronym;
-for example, think of Facebook). This exemplifies the tendency of the
-user population to neutralise and detach from issues important for their
-online and offline future.  Further, in this contradictory framework we
+The initial P2P architecture of the Internet, based on the end-to-end
+principle, has been distorted into a client-server format where
+the server has the absolute authority over the client, who stands
+unprotected with limited intervention possibility (Kempf and Austein
+2004).  The “addiction” of the client to assign tasks, which concern
+him/her on the first place, to the supposed convenience that the server
+offers is a phenomenon observed in proprietary, centralised social
+networks and SaaS models (i.e., “Software as a Service” acronym; for
+example, think of Facebook). This exemplifies the tendency of the user
+population to neutralise and detach from issues important for their
+online and offline future.
+
+La arquitectura P2P inicial de la Internet, basada en el principio de
+extremo-a-extremo, ha sido distorsionada hacia un formato
+cliente-servidor donde el servidor tiene autoridad absoluta sobre el
+cliente, que se encuentra desprotegido y con posibilidad de intervención
+limitada [@kempf-austein-2004].  La "adicción" del cliente a asignar
+tareas, que le conciernen a él/ella en primer lugar, por la supuesta
+conveniencia que el servidor ofrecer es un fenómeno observado en las
+redes sociales y los modelos SaaS[^SaaS].  Esto ejemplifica la tendencia
+de la población usuaria a neutralizar y disociarse de problemas
+importantes para su futuro en y fuera de línea.
+
+[^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
+         por ejemplo Facebook.
+
+Further, in this contradictory framework we
 observe nuanced changes not only in the institutional design concerning
 the Internet but also in the used terminology. For instance, see the
 shift from “free” to just “open source” software. The term
