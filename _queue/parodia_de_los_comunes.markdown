@@ -561,6 +561,11 @@ its free component and its quality becomes questionable, since the
 distribution of code's changes depends on the personal stance of the
 entrepreneur who can package them up under restrictive terms. That is
 to say, the programmer or the entrepreneur can shift from a permissive
+
+No obstante, pueden encontrarse contra-ejemplos contra los que presenta
+Benkler para apoyar su argumentación.  Por ejemplo, 
+
+
 license to an “end-user license agreement”. In addition, production
 shifts to the terms with which the non-free, proprietary software is
 produced.  Thereby the software community experiences higher pressure
