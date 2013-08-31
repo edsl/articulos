@@ -398,20 +398,36 @@ libre con cualquier otro nombre te puede dar las mismas libertades hoy,
 establecer la libertad de forma duradera depende sobre todo de enseñar a
 la gente a valorar la libertad."
 
-We attempt to move from
-a strict techno-economic analysis towards a discussion of the Commons
-within a turbulent, contradictory socio-economic framework. In other
-words, what is the role of the Commons in the capitalist accumulation
-while the emancipatory potential of peer communities is neutralised
-without affecting their productive function? The capitalist system
-arguably seeks to incorporate Commons-based, peer communities because
-of their cost-effective advantage (low-cost labour with high quality
-products). We argue that the development of P2P relations in itself,
-if placed in the current socio-economic conditions, can take place
-only temporarily because in the long run it will be undermined by
-means designed to maintain profit-driven relations of production into
-power. We call this transformation process “parody of the Commons” in
-relation to what Benkler (2006) defines as “tragedy of the Commons”.
+We attempt to move from a strict techno-economic analysis towards
+a discussion of the Commons within a turbulent, contradictory
+socio-economic framework. In other words, what is the role of the
+Commons in the capitalist accumulation while the emancipatory potential
+of peer communities is neutralised without affecting their productive
+function? The capitalist system arguably seeks to incorporate
+Commons-based, peer communities because of their cost-effective
+advantage (low-cost labour with high quality products). We argue that
+the development of P2P relations in itself, if placed in the current
+socio-economic conditions, can take place only temporarily because
+in the long run it will be undermined by means designed to maintain
+profit-driven relations of production into power. We call this
+transformation process “parody of the Commons” in relation to what
+Benkler (2006) defines as “tragedy of the Commons”.
+
+Intentamos salir de un análisis estrictamente tecno-económico hacia una
+discusión de los Comunes dentro de un marco socioeconómico turbulento y
+contradictorio.  En otras palabras, ¿cuál es el rol de los Comunes en la
+acumulación capitalista mientras el potencial emancipatorio de las
+comunidades de pares es neutralizada sin afectar su función productiva?
+El sistema capitalista intenta incorporar a las comunidades de pares por
+su rentabilidad ventajosa (trabajo de bajo costo con productos de alta
+calidad).  Decimos entonces que el desarrollo de las relaciones de pares
+por sí solo, al situarse en las condiciones socioeconómicas actuales,
+puede tomar lugar temporalmente porque en el largo plazo será socavado
+por medios diseñados para mantener en el poder a las relaciones de
+producción orientadas al lucro.  Llamamos a este proceso de
+transformación "parodia de los Comunes" en relación a lo que Benkler
+[-@benkler-2006] define como "tragedia de los Comunes".
+
 In 1968, Garret Hardin first introduced the concept of the tragedy of
 the Commons referring to the degradation of a finite resource used by a
 group of individuals who act independently and rationally on the basis of
