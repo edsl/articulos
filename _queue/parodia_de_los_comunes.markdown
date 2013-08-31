@@ -78,72 +78,94 @@ institucionales y normativos".
 
 ## Introducción
 
-It has been claimed that an increasing number of people are now able to
-manage their political, social, and productive lives through a variety
-of interdependent networks enabled by the Information and Communication
-Technologies (ICT) (Castells 2000, 2003; Benkler 2006; Bauwens 2005; Perez
-2002). However, authors, such as Webster (2002a, 2002b), have argued
-against the idea of an “information society”. They emphasise the
-continuities of the current age with former capitalist-oriented social
-and economic arrangements (Schiller 1981, 1984, 1996; Webster 2002a,
-2002b). Kumar (1995, 154) maintains that the information explosion
-“has not produced a radical shift in the way industrial societies
-are organized” to conclude that “the imperatives of profit, power
-and control seem as predominant now as they have ever been in the
-history of capitalist industrialism”. In addition, Berry (2008, 369)
-postulates that scholars such as Benkler (2006) fail to recognise the
-extent to which network forms of production “will be co-opted into
-mainstream 'industrial' ways of production”.  Through several cases of
-successful networked-based, collaborative projects such as free software
-or Wikipedia, we see the emergence of new ‘‘technological-economic
-feasibility spaces’’ for social practice (Benkler 2006, 31). These
-feasibility spaces include different social and economic arrangements,
-in contrast to what Kumar and Webster claim, where profit, power,
-and control do not seem as predominant as they have been in the
-history of modern capitalism. Benkler (2006) has argued that from this
-new communicational environment a new social productive model, i.e.,
-Commons-based peer production, is emerging different from the industrial
-one. Peer production, exemplified by various free software (GNU, the Linux
-kernel, KDE) and free content (Wikipedia) projects, makes information
-sharing more important than the value of proprietary strategies and
-allows for large-scale information production efforts (Benkler 2006). In this context, peer production could
-be considered an early seed form stage of a new mode of production
+It has been claimed that an increasing number of people are now able
+to manage their political, social, and productive lives through
+a variety of interdependent networks enabled by the Information
+and Communication Technologies (ICT) (Castells 2000, 2003; Benkler
+2006; Bauwens 2005; Perez 2002). However, authors, such as Webster
+(2002a, 2002b), have argued against the idea of an “information
+society”. They emphasise the continuities of the current age with
+former capitalist-oriented social and economic arrangements (Schiller
+1981, 1984, 1996; Webster 2002a, 2002b). Kumar (1995, 154) maintains
+that the information explosion “has not produced a radical shift in
+the way industrial societies are organized” to conclude that “the
+imperatives of profit, power and control seem as predominant now as
+they have ever been in the history of capitalist industrialism”. In
+addition, Berry (2008, 369) postulates that scholars such as Benkler
+(2006) fail to recognise the extent to which network forms of production
+“will be co-opted into mainstream 'industrial' ways of production”.
+
+Se ha dicho que un número creciente de personas son ahora capaces de
+administrar sus vidas políticas, sociales y productivas a través de una
+variedad de redes interdependientes habilitadas por las Tecnologías de
+la Información y la Comunicación (TICs) [@castells-2000; @castells-2003;
+@benkler-2006; @bauwens-2005; @perez-2002].  Sin embargo, autores como
+Webster [-@webster-2002a; -@webster-2002b] se oponen a la idea de una
+"sociedad de la información".  Enfatizan en cambio la continuidad de la
+era actual con antiguos arreglos socioeconómicos capitalistas
+[@schiller-1981; @schiller-1984; @schiller-1996; @webster-2002a;
+@webster-2002b].  Kumar [-@kumar-1995, pp. 154] sostiene que la
+explosión de la información "no ha producido un cambio radical en la
+forma en que se organizan las sociedades industriales" para concluir que
+"los imperativos del lucro, el poder y el control parecen tan
+predominantes ahora como lo han sido durante toda la historia del
+industrialismo capitalista".  Además, Berry [-@berry-2008, pp. 369]
+postula que académicos como Benkler [-@benkler-2006] fallan en reconocer
+la extensión en que las formas de producción en red "serán cooptadas en
+las formas de producción 'industrial' hegemónicas".
+
+Through several cases of successful networked-based, collaborative
+projects such as free software or Wikipedia, we see the emergence of
+new ‘‘technological-economic feasibility spaces’’ for social practice
+(Benkler 2006, 31). These feasibility spaces include different social
+and economic arrangements, in contrast to what Kumar and Webster claim,
+where profit, power, and control do not seem as predominant as they
+have been in the history of modern capitalism. Benkler (2006) has
+argued that from this new communicational environment a new social
+productive model, i.e.,  Commons-based peer production, is emerging
+different from the industrial one. Peer production, exemplified by
+various free software (GNU, the Linux kernel, KDE) and free content
+(Wikipedia) projects, makes information sharing more important than the
+value of proprietary strategies and allows for large-scale information
+production efforts (Benkler 2006). In this context, peer production
+could be considered an early seed form stage of a new mode of production
 enabled through Internet-based coordination where decisions arise from
 the free engagement and cooperation of the people. They coalesce to
 create common value without recourse to monetary compensation as key
-motivating factor (Bauwens 2005; Orsi 2009; Kostakis 2013).  Our take is
-that peer production is a social advancement within capitalism but with
-various post-capitalistic aspects, in need of protection, enforcement,
-stimulation and connection with progressive social movements around
-Commons-oriented policy platforms. As “Commons” we understand the
-cultural and natural resources, which are held in common (not owned
-privately) and remain accessible to all members of a society (see Ostrom
-1990; Hardt and Negri 2011; Bollier 2009). In this essay, our point of
-departure is the digital Commons (knowledge, software, design) since peer
-production was first noticed in the information sphere of production. We
-consider the “Commons” a third sector alongside the market and the
-state, which conceptualises the deep affinities amongst several forms
-of collaboration and helps validate their distinctive social dynamics
-as significant forces in economic and cultural production (Bollier in
-Laisne et al. 2010).  The term “peer production” or “peer-to-peer
-production” originates from the innovative nature of peer-to-peer (P2P)
-networking architecture that enabled the advent of the Internet.  The
-introduction of P2P architecture in the social relations of production and
-exchange of goods and services is based on the idea that every networked
-community, just like every networked node, becomes a “server” to
-satisfy the needs of other communities, as well as a “client” to
-satisfy its own. Peer production operates on a non-competitive, synergetic
-basis leading to an optimal distribution of resources (Benkler 2006;
-Bauwens 2005, 2009). The traditional market approach with its pricing
-mechanism has mostly been unable to achieve such optimal allocations due
-to productive information asymmetry whereas peer production maximises
-the access to information. Contrary to the traditional economic thought,
-in peer production we become witnesses of consumer/producer dichotomy's
+motivating factor (Bauwens 2005; Orsi 2009; Kostakis 2013).  Our take
+is that peer production is a social advancement within capitalism
+but with various post-capitalistic aspects, in need of protection,
+enforcement, stimulation and connection with progressive social
+movements around Commons-oriented policy platforms. As “Commons” we
+understand the cultural and natural resources, which are held in
+common (not owned privately) and remain accessible to all members of
+a society (see Ostrom 1990; Hardt and Negri 2011; Bollier 2009). In
+this essay, our point of departure is the digital Commons (knowledge,
+software, design) since peer production was first noticed in the
+information sphere of production. We consider the “Commons” a third
+sector alongside the market and the state, which conceptualises the
+deep affinities amongst several forms of collaboration and helps
+validate their distinctive social dynamics as significant forces in
+economic and cultural production (Bollier in Laisne et al. 2010).  The
+term “peer production” or “peer-to-peer production” originates from
+the innovative nature of peer-to-peer (P2P) networking architecture
+that enabled the advent of the Internet.  The introduction of P2P
+architecture in the social relations of production and exchange of
+goods and services is based on the idea that every networked community,
+just like every networked node, becomes a “server” to satisfy the needs
+of other communities, as well as a “client” to satisfy its own. Peer
+production operates on a non-competitive, synergetic basis leading
+to an optimal distribution of resources (Benkler 2006; Bauwens 2005,
+2009). The traditional market approach with its pricing mechanism
+has mostly been unable to achieve such optimal allocations due to
+productive information asymmetry whereas peer production maximises the
+access to information. Contrary to the traditional economic thought, in
+peer production we become witnesses of consumer/producer dichotomy's
 collapse towards a new understanding in the form of the “multitude”
 (Hardt and Negri 2001), “prosumers” (Toffler and Toffler 2006),
-“produsers” (Bruns 2008), or “user-innovation communities” (von
-Hippel 2005).  Further, it has been shown (Benkler 2002, 2006; Bauwens
-2005) how peer production, given certain resources, optimally exploits the
+“produsers” (Bruns 2008), or “user-innovation communities” (von Hippel
+2005).  Further, it has been shown (Benkler 2002, 2006; Bauwens 2005)
+how peer production, given certain resources, optimally exploits the
 skills and abilities of the producers involving participatory ownership
 structures, participatory learning and decision-making (Fuchs 2013).
 Whereas the firm binds by contract only a fraction of capabilities,
@@ -165,8 +187,8 @@ we discuss how the emancipatory promise of the (digital) Commons and of
 peer production can evolve into a parody bringing to the fore the case
 of free software. To tackle the threat of the Commons' full absorption
 as well as of the underpinning peer-to-peer relations into the dominant
-mode of production, we conclude by arguing in favour of a certain working
-agenda for Commons-based communities.
+mode of production, we conclude by arguing in favour of a certain
+working agenda for Commons-based communities.
 
 1. From the Tragedy to the Parody of the Commons Benkler (2006)
 postulates his assumptions about the conditions for the development of
