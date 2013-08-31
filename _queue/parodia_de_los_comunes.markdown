@@ -132,12 +132,35 @@ could be considered an early seed form stage of a new mode of production
 enabled through Internet-based coordination where decisions arise from
 the free engagement and cooperation of the people. They coalesce to
 create common value without recourse to monetary compensation as key
-motivating factor (Bauwens 2005; Orsi 2009; Kostakis 2013).  Our take
-is that peer production is a social advancement within capitalism
-but with various post-capitalistic aspects, in need of protection,
-enforcement, stimulation and connection with progressive social
-movements around Commons-oriented policy platforms. As “Commons” we
-understand the cultural and natural resources, which are held in
+motivating factor (Bauwens 2005; Orsi 2009; Kostakis 2013).
+
+A través de varios casos de éxito de proyectos colaborativos en red como
+el Software Libre o Wikipedia, vemos la emergencia de nuevos "espacios
+de posibilidad tecnológico-ecónomicos" para la práctica social
+[@benkler-2006, pp. 31].  Estos espacios de posibilidad incluyen
+diferentes arreglos sociales y económicos, en contraste con lo que Kumar
+y Webster dicen, donde el lucro, el poder y el control no parecen tan
+predominantes como lo han sido en la historia del capitalismo moderno.
+Benkler [-@benkler-2006] ha argumentado que está emergiendo de este
+nuevo ambiente comunicacional un nuevo modelo social productivo, es
+decir la producción de pares basada en el Común, que se diferencia del
+modelo industrial.  La producción de pares, ejemplificada por varios
+proyectos de Software Libre (GNU, el kernel Linux, KDE) y de contenido
+libre (Wikipedia), vuelve a la compartición de información más
+importante aun que el valor de las estrategias propietarias y posibilita
+esfuerzos de producción de información a gran escala [@benkler-2006].
+En este contexto, la producción de pares puede ser considerada una
+forma seminal de un nuevo modo de producción posibilitado por la
+coordinación a través de Internet donde las decisiones surgen del
+involucramiento y cooperación libres entre las personas.  Se juntan para
+crear un valor común sin recurrir a la compensación monetaria como una
+forma clave de motivación [@bauwens-2005; @orsi-2009; @kostakis-2013].
+
+Our take is that peer production is a social advancement within
+capitalism but with various post-capitalistic aspects, in need of
+protection, enforcement, stimulation and connection with progressive
+social movements around Commons-oriented policy platforms. As “Commons”
+we understand the cultural and natural resources, which are held in
 common (not owned privately) and remain accessible to all members of
 a society (see Ostrom 1990; Hardt and Negri 2011; Bollier 2009). In
 this essay, our point of departure is the digital Commons (knowledge,
