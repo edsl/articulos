@@ -187,8 +187,7 @@ afinidades entre varias formas de colaboración y ayuda a validar sus
 dinámicas sociales distintivas en tanto fuerzas significativas en la
 producción económica y cultural [@bollier-2010].
 
-The
-term “peer production” or “peer-to-peer production” originates from
+The term “peer production” or “peer-to-peer production” originates from
 the innovative nature of peer-to-peer (P2P) networking architecture
 that enabled the advent of the Internet.  The introduction of P2P
 architecture in the social relations of production and exchange of
@@ -197,25 +196,58 @@ just like every networked node, becomes a “server” to satisfy the needs
 of other communities, as well as a “client” to satisfy its own. Peer
 production operates on a non-competitive, synergetic basis leading
 to an optimal distribution of resources (Benkler 2006; Bauwens 2005,
-2009). The traditional market approach with its pricing mechanism
-has mostly been unable to achieve such optimal allocations due to
-productive information asymmetry whereas peer production maximises the
-access to information. Contrary to the traditional economic thought, in
-peer production we become witnesses of consumer/producer dichotomy's
-collapse towards a new understanding in the form of the “multitude”
-(Hardt and Negri 2001), “prosumers” (Toffler and Toffler 2006),
-“produsers” (Bruns 2008), or “user-innovation communities” (von Hippel
-2005).  Further, it has been shown (Benkler 2002, 2006; Bauwens 2005)
-how peer production, given certain resources, optimally exploits the
-skills and abilities of the producers involving participatory ownership
-structures, participatory learning and decision-making (Fuchs 2013).
-Whereas the firm binds by contract only a fraction of capabilities,
-which considers appropriate for realising a certain goal. In a peer
-production project the motive emerges when a full set of capabilities
-is accessing a given amount of resources. Peer production achieves
-the optimal allocation of resources being a more productive system
-for information than the market-based or the bureaucratic-state ones
-(Bauwens 2005; Kostakis 2012).  This article begins with a brief outline
+2009). The traditional market approach with its pricing mechanism has
+mostly been unable to achieve such optimal allocations due to productive
+information asymmetry whereas peer production maximises the access to
+information. Contrary to the traditional economic thought, in peer
+production we become witnesses of consumer/producer dichotomy's collapse
+towards a new understanding in the form of the “multitude” (Hardt
+and Negri 2001), “prosumers” (Toffler and Toffler 2006), “produsers”
+(Bruns 2008), or “user-innovation communities” (von Hippel 2005).
+Further, it has been shown (Benkler 2002, 2006; Bauwens 2005) how peer
+production, given certain resources, optimally exploits the skills and
+abilities of the producers involving participatory ownership structures,
+participatory learning and decision-making (Fuchs 2013).  Whereas the
+firm binds by contract only a fraction of capabilities, which considers
+appropriate for realising a certain goal. In a peer production project
+the motive emerges when a full set of capabilities is accessing a given
+amount of resources. Peer production achieves the optimal allocation
+of resources being a more productive system for information than the
+market-based or the bureaucratic-state ones (Bauwens 2005; Kostakis
+2012).
+
+El término "producción de pares" o "producción P2P" se origina en la
+naturaleza innovativa de la arquitectura de redes de pares (P2P) que
+posibilitaron el advenimiento de Internet.  La introducción de la
+arquitectura P2P en las relaciones sociales de producción e intercambio
+de bienes y servicios se basa en la idea que cada comunidad de red, tal
+como cada nodo en la red, se vuelve "servidora" para satisfacer las
+necesidades de otras comunidades, así como en "cliente" para satisfacer
+las propias.  La producción de pares opera sobre una base no
+competitiva, sinergética, llevando a una distribución óptima de los
+recursos [@benkler-2006; @bauwens-2005; @bauwens-2009].  El abordaje
+tradicional de mercado con su mecanismo de precios ha sido incapaz de
+lograr tales asignaciones de recursos debido a la asimetría en la
+información productiva mientras que la producción de pares maximiza el
+acceso a la información.  En contra del pensamiento económico
+tradicional, en la producción de pares nos volvemos testigos del colapso
+de la dicotomía consumidor/productor hacia una nueva comprensión bajo la
+forma de la "multitud" [@hardt-negri-2001], "prosumidores"
+[@toffler-2006], "produsuarios" [@bruns-2008] o "comunidades de
+innovación de los usuarios" [@hippel-2005].  Además, se ha demostrado
+[@benkler-2002; @benkler-2006; @bauwens-2005] cómo la producción de
+pares, dados ciertos recursos, explota óptimamente las capacidades y
+habilidades de los productores al involucrar estructuras de propiedad,
+aprendizaje y toma de decisiones participativas [@fuchs-2013].  Mientras
+que la empresa enlaza por contrato sólo una fracción de las capacidades,
+a las que considera apropiadas para realizar cierto objetivo, en un
+proyecto de pares el motivo emerge cuando el conjunto completo de las
+capacidades accede una cantidad determinada de recursos.  La producción
+de pares alcanza la asignación óptima de recursos al ser un sistema más
+productivo de información que los mercados o las burocracias estatales
+[@bauwens-2005; @kostakis-2012].
+
+This article begins with a brief outline
 of how the initial architecture of the Internet is being distorted
 into a client-server format as observed in proprietary social networks
 managed by the cognitive capitalists of the web. We, then, address
