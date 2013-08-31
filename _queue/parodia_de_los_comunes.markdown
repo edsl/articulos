@@ -429,29 +429,61 @@ transformación "parodia de los Comunes" en relación a lo que Benkler
 [-@benkler-2006] define como "tragedia de los Comunes".
 
 In 1968, Garret Hardin first introduced the concept of the tragedy of
-the Commons referring to the degradation of a finite resource used by a
-group of individuals who act independently and rationally on the basis of
-their self-interest. If individuals agreed to assign private management
-responsibility, which would implement a protection fence around the
-resource against the “rational” behaviour of all, the resource would
-be safe (Hardin 1968). Elinor Ostrom (1990) understates Hardin's approach
-claiming that if those, who share a certain resource, belonged to a local
-community, then they would adopt the optimal solutions to serve their
-interests. In certain cases the aforementioned statement cannot apply,
-because of a lack of confidence amongst community members due to the high
-communication costs and/or because of the small benefit from the problem
-solving. However, the criteria that Ostrom (1990) articulates are also immanent in Hardin's definition as a
-matter of the rational behaviour of individuals. Ostrom (1990) correctly
-denotes that the resource sustainability can be achieved by adopting best
-practices without the need of privatisation. What eludes both Hardin and
-Ostrom is that the best practices or the technical means are defined by
-those in power. There is arguably almost no possibility of implementing
-measures that would not enforce the established structure. The shared
-resource may not become private, but the extraeconomic support of
-other privatised means in the infrastructure of the common resource
-(e.g. friendly policies toward activities regardless of business plan)
-could gradually eradicate the resource. Once again, the ruling agenda
-defines whether the technical means can be considered best practice.
+the Commons referring to the degradation of a finite resource used by
+a group of individuals who act independently and rationally on the
+basis of their self-interest. If individuals agreed to assign private
+management responsibility, which would implement a protection fence
+around the resource against the “rational” behaviour of all, the
+resource would be safe (Hardin 1968). Elinor Ostrom (1990) understates
+Hardin's approach claiming that if those, who share a certain resource,
+belonged to a local community, then they would adopt the optimal
+solutions to serve their interests. In certain cases the aforementioned
+statement cannot apply, because of a lack of confidence amongst
+community members due to the high communication costs and/or because
+of the small benefit from the problem solving. However, the criteria
+that Ostrom (1990) articulates are also immanent in Hardin's definition
+as a matter of the rational behaviour of individuals. Ostrom (1990)
+correctly denotes that the resource sustainability can be achieved by
+adopting best practices without the need of privatisation. What eludes
+both Hardin and Ostrom is that the best practices or the technical means
+are defined by those in power. There is arguably almost no possibility
+of implementing measures that would not enforce the established
+structure. The shared resource may not become private, but the
+extraeconomic support of other privatised means in the infrastructure of
+the common resource (e.g. friendly policies toward activities regardless
+of business plan) could gradually eradicate the resource. Once again,
+the ruling agenda defines whether the technical means can be considered
+best practice.
+
+En 1968, Garret Hardin introdujo por primera vez el concepto de la
+tragedia de los Comunes en referencia a la degradación de un recurso
+finito al ser utilizado por individuos que actúan independiente y
+racionalmente sobre la base del interés propio.  Si los individuos
+acuerdan asignar una responsabilidad administrativa privada, lo que
+implementaría un vallado protectivo alrededor del recurso contra el
+comportamiento "racional" de todos, el recurso estaría a salvo
+[@hardin-1968].  Elinor Ostrom [-@ostrom-1990] minimiza el abordaje de
+Hardin al decir que si aquellos que comparte un recurso determinado
+pertenecen a una misma comunidad, entonces adoptarán las soluciones
+óptimas para servir a sus intereses.  En ciertos casos la declaración
+anterior no puede aplicarse, por la falta de confianza entre los
+miembros de la comunidad debido a los altos costos comunicacionales y/o
+por el pequeño beneficio que otorga solucionar el problema.  Sin
+embargo, el criterio que Ostrom [-@ostrom-1990] articula son también
+inmanentes a la definición de Hardin porque en ambos casos se trata de
+la conducta racional de individuos.  Ostrom [-@ostrom-1990] denota
+correctamente que la sostenibilidad del recurso puede alcanzarse
+mediante la adopción de buenas prácticas sin necesidad de privatización.
+Lo que eluden tanto Hardin como Ostrom es que las buenas prácticas o los
+medios técnicos son definidos por aquellos que tienen el poder.  No hay
+casi ninguna posibilidad de implementar medidas que no requieran la
+aplicación de la estructura establecida.  El recurso compartido no se
+privatiza pero el soporte extraeconómico de otros medios privatizados en
+la infraestructura del recurso común (por ejemplo las políticas
+amistosas hacia actividades a pesar del plan de negocios) pueden llegar
+a erradicarlo gradualmente.  Una vez más, la agenda dominante define
+cuáles medios técnicos pueden ser considerados buenas prácticas.
+
 Hardin's (1968) position about salvation through privatisation has been
 claimed for forests. If forests get privatised, the manager's best
 interest would be to protect the wood from fire and the uncontrolled
