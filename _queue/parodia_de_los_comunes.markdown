@@ -169,7 +169,25 @@ information sphere of production. We consider the “Commons” a third
 sector alongside the market and the state, which conceptualises the
 deep affinities amongst several forms of collaboration and helps
 validate their distinctive social dynamics as significant forces in
-economic and cultural production (Bollier in Laisne et al. 2010).  The
+economic and cultural production (Bollier in Laisne et al. 2010).
+
+Nuestra posición es que la producción de pares es un avance social
+dentro del capitalismo pero con varios aspectos post-capitalistas, que
+necesitan protección, fortalecimiento, estimulación y conexión con los
+movimientos sociales progresivos alrededor de plataformas de políticas
+del Común.  Como "Comunes" entendemos los recursos culturales y
+naturales, que son apropiados en común (no como propiedad privada) y se
+mantienen accesibles a todos los miembros de la sociedad [@ostrom-1990;
+@hardt-negri-2011; @bollier-2009].  En este ensayo, nuestro punto de
+partida son los Comunes digitales (conocimiento, software, diseño) ya
+que la producción de pares fue advertida primeramente en la esfera de la
+producción de información.  Consideramos los "Comunes" un tercer sector
+en paralelo al Mercado y al Estado, conceptualizando las profundas
+afinidades entre varias formas de colaboración y ayuda a validar sus
+dinámicas sociales distintivas en tanto fuerzas significativas en la
+producción económica y cultural [@bollier-2010].
+
+The
 term “peer production” or “peer-to-peer production” originates from
 the innovative nature of peer-to-peer (P2P) networking architecture
 that enabled the advent of the Internet.  The introduction of P2P
