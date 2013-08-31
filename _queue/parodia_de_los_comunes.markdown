@@ -59,8 +59,8 @@ State Modernization in 21st Century Europe” and ETF 8571 "Web 2.0 and
 Governance: Institutional and Normative Changes and Challenges”.
 
 argumentamos a favor de una cierta agenda para las comunidades basadas
-en el Común.  Tal agenda debe tener como objetivo el fortalecimiento de
-la circulación de los Comunes.  Por lo tanto, cualquier transformación
+en el Común.  Tal agenda debe tener como objetivo la aplicación de la
+circulación de los Comunes.  Por lo tanto, cualquier transformación
 social útil será significativa si es la gente misma la que decide y
 aplica políticas para su propio beneficio, óptimamente con el apoyo de
 un Estado soberano acompañante.  Si la producción de pares se vuelve
@@ -172,8 +172,8 @@ validate their distinctive social dynamics as significant forces in
 economic and cultural production (Bollier in Laisne et al. 2010).
 
 Nuestra posición es que la producción de pares es un avance social
-dentro del capitalismo pero con varios aspectos post-capitalistas, que
-necesitan protección, fortalecimiento, estimulación y conexión con los
+dentro del capitalismo pero con varios aspectos post-capitalistas,
+que necesitan protección, aplicación, estimulación y conexión con los
 movimientos sociales progresivos alrededor de plataformas de políticas
 del Común.  Como "Comunes" entendemos los recursos culturales y
 naturales, que son apropiados en común (no como propiedad privada) y se
@@ -280,28 +280,62 @@ los Comunes así como el avasallamiento de las relaciones de pares por el
 modo de producción dominante, concluimos argumentando a favor de una
 agenda para las comunidades basadas en los Comunes.
 
-1. From the Tragedy to the Parody of the Commons Benkler (2006)
-postulates his assumptions about the conditions for the development of
-peer production, taking for granted a general stable economy. He does
-not deal with the threats Commons-based peer production will face once
-exposed to a hostile economic environment.  An emerging question is why
-the dominant socio-economic framework would resist to the building of a Commons sphere. After all, one may argue, it is within
+1. From the Tragedy to the Parody of the Commons
+
+De la tragedia a la parodia de los comunes
+------------------------------------------
+
+Benkler (2006) postulates his assumptions about the conditions for the
+development of peer production, taking for granted a general stable
+economy. He does not deal with the threats Commons-based peer production
+will face once exposed to a hostile economic environment.  An emerging
+question is why the dominant socio-economic framework would resist to
+the building of a Commons sphere. After all, one may argue, it is within
 this sphere that the Internet and many other digital technologies have
 been developing. Our position is that the aforementioned statement is
 partially true: The emergence of web technologies, and of the Internet
 itself, has taken place in a contradictory framework. The previously
-failed attempts for the adoption of ACTA/SOPA/PIPA proposals that seek to
-restrict the freedom of the individuals through a global enforcement of
-strict “intellectual property” standards; the efforts for a regulatory
-regime with an architecture of transactions in the first place (rather
-than policing the transactions afterwards) (Boyle 1997); the attempts for
-surveillance and censorship by both authoritarian and liberal countries;
-and “the growing tendency to link the Internet’s security problems
-to the very properties that made it innovative and revolutionary in
-the first place” (Mueller 2010, 160), are only some reasons that have
-made scholars, like Zittrain (2008), worry that digital systems may be
-pushed back to the model of locked-down devices centrally controlled
-information appliances.  The initial P2P architecture of the Internet,
+failed attempts for the adoption of ACTA/SOPA/PIPA proposals that
+seek to restrict the freedom of the individuals through a global
+enforcement of strict “intellectual property” standards; the efforts for
+a regulatory regime with an architecture of transactions in the first
+place (rather than policing the transactions afterwards) (Boyle 1997);
+the attempts for surveillance and censorship by both authoritarian and
+liberal countries; and “the growing tendency to link the Internet’s
+security problems to the very properties that made it innovative and
+revolutionary in the first place” (Mueller 2010, 160), are only some
+reasons that have made scholars, like Zittrain (2008), worry that
+digital systems may be pushed back to the model of locked-down devices
+centrally controlled information appliances.
+
+Benkler [-@benkler-2006] postula sus asunciones sobre las condiciones
+para el desarrollo de la producción de pares, dando por sentada una
+economía general estable.  No toma en cuenta las amenazas que la
+producción de pares enfrentará una vez que se exponga a un ambiente
+económico hostil.  Una pregunta que emerge es por qué el marco
+socioeconómico dominante resistirá la construcción de una esfera de
+los Comunes.  Después de todo, se podría argumentar, es dentro de esta
+esfera que la Internet y muchas otras tecnologías digitales se han
+estado desarrollando.  Nuestra posición es que la declaración anterior
+es parcialmente verdadera:  La emergencia de las tecnologías web y
+de la Internet misma, ha tomado lugar en un marco contradictorio.
+Los intentos fallidos de adopción de las propuestas ACTA/SOPA/PIPA
+que buscan restringir la libertad de los individuos a través de
+la aplicación de estándares de "propiedad intelectual" estrictos;
+los esfuerzos por un régimen regulatorio con una arquitectura de
+transacciones de primera mano (en lugar de aplicarla una vez que
+las transacciones fueron realizadas) [@boyle-1997]; los intentos de
+vigilancia y censura tanto por países autoritarios como liberales; y "la
+tendencia creciente a vincular los problemas de seguridad de Internet
+con las mismas propiedades que la hicieron innovativa y revolucionaria
+en primer lugar" [@mueller-2010, pp. 160], son sólo algunas de las
+razones por las que académicos como Zittrain [-@zittrain-2008] han
+expresado preocupación por que los sistemas digitales podrían retroceder
+al modelo de dispositivos bloqueados y controlados centralmente como
+si de lectrodomésticos informacionales se tratara.
+
+
+The initial P2P architecture of the Internet,
 based on the end-to-end principle, has been distorted into a client-server
 format where the server has the absolute authority over the client,
 who stands unprotected with limited intervention possibility (Kempf and
