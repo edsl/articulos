@@ -532,6 +532,24 @@ responsibility, hence, the common resource has no future, according
 to Hardin. Benkler (2006) states that this does not apply in peer
 production: Commons-based communities manage to find their own ways.
 
+Benkler [-@benkler-2006, pp. 378] explica que la tragedia de los comunes
+es tradicionalmente descrita por (i) la ausencia de incentivos, es
+decir, nadie invierte recursos en un proyecto porque no puede ser
+privatizado luego; (ii) la ausencia de liderazgo, es decir nadie posee
+la autoridad apropiada para guiar y realizar tal proyecto.  Lo que
+Benkler dice es esto:  "Asumamos que la proposición de Benkler es
+verdadera: la privatización asegura la sostenibilidad del recurso.
+¿Pero cómo llegamos ahí?  Por empezar, ¿cuál es nuestro incentivo para
+asumir la propiedad o la administración de un recurso común, si no
+cobramos por su utilización?  Suponiendo que el incentivo ha sido
+encontrado: ¿somos capaces de lograr la sostenibilidad cuando esta
+capacidad es parte de la inteligencia colectiva?"  La dificultad para
+alcanzar ambas condiciones significa que hay una inadecuación para
+asumir responsabilidad y por lo tanto, el recurso común no tiene futuro,
+de acuerdo con Hardin.  Benkler [-@benkler-2006] establece que esto no
+sucede en la producción de pares:  las comunidades basadas en los
+Comunes se las arreglan para encontrar sus propias formas.
+
 However, counter-examples can be found against the cases Benkler
 brings to the fore to support his argument. For instance, see the
 software development in traditional corporate environments on projects
