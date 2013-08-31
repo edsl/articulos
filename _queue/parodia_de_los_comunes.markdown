@@ -58,6 +58,26 @@ financial support received by the grants SF 014006 “Challenges to
 State Modernization in 21st Century Europe” and ETF 8571 "Web 2.0 and
 Governance: Institutional and Normative Changes and Challenges”.
 
+argumentamos a favor de una cierta agenda para las comunidades basadas
+en el Común.  Tal agenda debe tener como objetivo el fortalecimiento de
+la circulación de los Comunes.  Por lo tanto, cualquier transformación
+social útil será significativa si es la gente misma la que decide y
+aplica políticas para su propio beneficio, óptimamente con el apoyo de
+un Estado soberano acompañante.  Si la producción de pares se vuelve
+predominante, debe controlar la acumulación de capital con el objetivo
+de marginalizar y eventualmente trascender el capitalismo.
+
+## Reconocimientos
+
+Este ensayo se ha beneficiado grandemente por dos revisores anónimos.
+También queremos agradecer a Christos Giotitsas por su crítica.  Además,
+Vasilis Kostakis agradece el apoyo financiero recibido por las becas SG
+014006 "Desafíos para el modernización del Estado en la Europa del siglo
+XXI" y ETF 8571 "La Web 2.0 y la gobernanza: Cambios y desafíos
+institucionales y normativos".
+
+## Introducción
+
 It has been claimed that an increasing number of people are now able to
 manage their political, social, and productive lives through a variety
 of interdependent networks enabled by the Information and Communication
