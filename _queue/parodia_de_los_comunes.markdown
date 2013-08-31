@@ -263,6 +263,23 @@ as well as of the underpinning peer-to-peer relations into the dominant
 mode of production, we conclude by arguing in favour of a certain
 working agenda for Commons-based communities.
 
+Este artículo comienza con una breve introducción a cómo la arquitectura
+inicial de Internet está siendo distorsionada en un formato
+cliente-servidor tal como es observado en las redes sociales
+administradas por los capitalistas cognitivos de la Web.  Nosotros,
+entonces, abordamos y cuestionamos los argumentos principales en
+relación a "la tragedia de los comunes" y el fenómeno de la producción
+de pares con base en el Común.  ¿Cuál es el rol de los comunes
+producidos entre pares en la acumulación capitalista mientras el
+potencial emancipatorio de las comunidades de pares es neutralizado sin
+afectar su función productiva?  Para responder esta pregunta, discutimos
+cómo la promesa emancipatoria de los Comunes (digitales) y de la
+producción de pares pueden evolucionar hacia una parodia usando el caso
+del software libre.  Para atajar la amenaza de la absorción completa de
+los Comunes así como el avasallamiento de las relaciones de pares por el
+modo de producción dominante, concluimos argumentando a favor de una
+agenda para las comunidades basadas en los Comunes.
+
 1. From the Tragedy to the Parody of the Commons Benkler (2006)
 postulates his assumptions about the conditions for the development of
 peer production, taking for granted a general stable economy. He does
