@@ -361,23 +361,44 @@ importantes para su futuro en y fuera de línea.
 [^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
          por ejemplo Facebook.
 
-Further, in this contradictory framework we
-observe nuanced changes not only in the institutional design concerning
-the Internet but also in the used terminology. For instance, see the
-shift from “free” to just “open source” software. The term
-“open source” has become related to ideas and arguments based only
-on practical values, such as having powerful software (Stallman 2012). As
-Stallman (2012) writes: “the two terms describe almost the same category
-of software, but they stand for views based on fundamentally different
-values. Open source is a development methodology; free software is a
-social movement.” The open source implies that non-free software is an
-inferior solution to the practical problem at hand, whereas for the free
-software advocates non-free software “is a social problem” (Stallman
-2012). “If it's the same software (or nearly so), does it matter which
-name you use?”, Stallman asks to answer, “yes, because different words
-convey different ideas. While a free program by any other name would give
-you the same freedom today, establishing freedom in a lasting way depends
-above all on teaching people to value freedom.” We attempt to move from
+Further, in this contradictory framework we observe nuanced changes
+not only in the institutional design concerning the Internet but also
+in the used terminology. For instance, see the shift from “free” to
+just “open source” software. The term “open source” has become related
+to ideas and arguments based only on practical values, such as having
+powerful software (Stallman 2012). As Stallman (2012) writes: “the two
+terms describe almost the same category of software, but they stand
+for views based on fundamentally different values. Open source is a
+development methodology; free software is a social movement.” The open
+source implies that non-free software is an inferior solution to the
+practical problem at hand, whereas for the free software advocates
+non-free software “is a social problem” (Stallman 2012). “If it's
+the same software (or nearly so), does it matter which name you
+use?”, Stallman asks to answer, “yes, because different words convey
+different ideas. While a free program by any other name would give you
+the same freedom today, establishing freedom in a lasting way depends
+above all on teaching people to value freedom.”
+
+Aun más, en este marco contradictorio observamos matices no sólo en el
+diseño institucional concerniente a la Internet sino también en la
+terminología utilizada.  Por ejemplo, el giro de software "libre" a "de
+código abierto".  El término "código abierto" se ha relacionado con
+ideas y argumentos basados en los valores prácticos, tales como en la
+capacidad técnica del software [@stallman-2012].  Como escribe Stallman
+[-@stallman-2012]: "los dos términos describen casi la misma categoría
+de software, pero se basan en valores fundamentalmente diferentes.  El
+código abierto es una metodología de desarrollo; el software libre es un
+movimiento social."  El código abierto presupone que el software no
+libre es una solución inferior de un problema práctico dado, mientras
+que el software libre advoca que el software libre "es un problema
+social" [@stallman-2012].  "Si es el mismo software (o casi), ¿importa
+qué nombre se le de?", pregunta Stallman para responder, "sí, porque
+palabras diferentes conllevan diferentes ideas.  Mientras un programa
+libre con cualquier otro nombre te puede dar las mismas libertades hoy,
+establecer la libertad de forma duradera depende sobre todo de enseñar a
+la gente a valorar la libertad."
+
+We attempt to move from
 a strict techno-economic analysis towards a discussion of the Commons
 within a turbulent, contradictory socio-economic framework. In other
 words, what is the role of the Commons in the capitalist accumulation
