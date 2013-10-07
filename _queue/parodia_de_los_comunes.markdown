@@ -562,8 +562,18 @@ distribution of code's changes depends on the personal stance of the
 entrepreneur who can package them up under restrictive terms. That is
 to say, the programmer or the entrepreneur can shift from a permissive
 
-No obstante, pueden encontrarse contra-ejemplos contra los que presenta
-Benkler para apoyar su argumentación.  Por ejemplo, 
+No obstante, pueden encontrarse contraejemplos a los que presenta
+Benkler para apoyar su argumentación.  Por ejemplo, el desarrollo de
+software en los ambientes corporativos tradicionales cuyos proyectos son
+liberados bajo licencias permisivas (como la MIT o las BSD), que
+permiten la privatización de las modificaciones del código y que por lo
+tanto no toman partido hacia la "perfidia" de las patentes [@peren-1999;
+@gnu-2013; @fitzgerald-2006].  De esta forma el software pierde su
+componente de libertad y su calidad se vuelve cuestionable, ya que la
+distribución de los cambios en el código depende de la posición personal
+de un _entrepeneur_ que los puede empaquetar bajo términos restrictivos.
+Es decir, el programador o el _entrepeneur_ pueden cambiar de una
+licencia permisiva
 
 
 license to an “end-user license agreement”. In addition, production
@@ -595,7 +605,41 @@ gratis. Free software is defined by the four freedoms the user of that
 software has in order to use, study, share copies, and share modified
 versions of the software.
 
+a un acuerdo de usuario final (EULA en inglés).  Además, la producción
+cambia hacia los términos en los que el software no libre, propietario,
+es producido.  Por lo tanto la comunidad de software experimenta una
+mayor presión y los derechos del usuario final son eventualmente
+reducidos.  En otras palabras, las licencias permisivas pueden llevar a
+una "tragedia" antes que a una "parodia de los Comunes" por la promesa
+emancipatoria del Software Libre.  En tal escenario la maximización
+de la libertad individual contra las necesidades sociales tendría
+consecuencias totales aun peores que la aplicación de regulaciones que
+maximicen la libertad social en su lugar.  Podría decirse que el código
+abunda, en tanto bien informacional con costos marginales tendientes
+a cero; sin embargo necesita mejoras y mantenimiento, es decir, horas
+de trabajo.  Por lo tanto, al invertir horas de trabajo libres en un
+proyecto sin salida, las licencias permisivas pueden provocar una
+parodia de los Comunes, al desacelerar el paso de la adopción general
+del software libre.  En contraste las licencias copyleft (como la
+Licencia Pública General, GPL) garantizan a los usuarios finales las
+libertades de usar, estudiar, compartir (copiar) y modificar el
+software.  El copyleft es un método de producción social tanto como un
+proceso de compartición de conocimiento, que vuelve un programa o
+cualquier trabajo en libre y requiere que todas las modificaciones y
+versiones extendidas también lo sean [@gnu-2012].  De ahí que las
+licencias copyleft definan las relaciones entre los miembros de las
+comunidades de software y les permitan crear ecologías por fuera o más
+bien en los intersticios del mercado capitalista.  Para que no haya
+malentendidos, necesitamos clarificar el significado de "software
+libre".  Lo "libre" en el software libre, a diferencia de lo "libre" en
+trabajo libre, no significa gratis.  El Software Libre se define por
+cuatro libertades que el usuario tiene para usar, estudiar, compartir
+copias y compartir versiones modificadas del software.
+
 Defining the Parody of the Commons
+
+Definiendo la Parodia de los Comunes
+------------------------------------
 
 We name “parody of the Commons” the introduction of privatisation in the
 management of the common resources realised either by the assignment of
