@@ -687,6 +687,19 @@ incapable by nature or due to its size.  The state policies are, most of
 the times, what they are because of commitments and facilitations by the
 political system to the financial sector.
 
+No obstante, esta intervención es una ataque a la esfera pública que
+subvierte las comunidades.  Si una comunidad comienza a crecer, aparecen
+inspectores desde arriba para definir especificaciones, procedimientos y
+límites financieros que configuran la dirección futura del recurso
+común.  Además alienan los intereses inmediatos de aquellos que ahora
+deben obedecer reglas impuestas por cuerpos irrelevantes a las
+necesidades locales.  La idea base que se origina del principio de la
+racionalidad limitada es que la regulación no puede detener el abuso y
+eventualmente el agotamiento de los Comunes.  Este abordaje no indica
+que el Estado es incapaz por naturaleza o por su tamaño.  Las políticas
+estatales son, la mayor parte del tiempo, lo que son por compromisos y
+facilidades que el sistema política hace al sector financiero.
+
 We define two main features of the parody of the Commons. The first
 feature is the institutional integration, which is the absorption of
 the proportional dividend of every individual by a mandatory private
