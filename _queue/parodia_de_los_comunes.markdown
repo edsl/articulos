@@ -657,6 +657,23 @@ Hardin's schema following other routes. The state perceives as “public”
 all goods and resources of some value and then intervenes introducing
 regulations for the “common good”.
 
+Decimos que la "Parodia de los Comunes" es la introducción de la
+privatización en el manejo de los recursos comunes que se realiza ya sea
+por la asignación de la propiedad a individuos o por interferencia de la
+regulación estatal, cuando el capital es la fuerza prevaleciente así
+como la apropiación de los resultados financieros.  Ambas rutas
+descansan en la asunción de propiedad sobre mejores _pools_
+informacionales, a los que se contraponen los desarrollos actuales de
+las sociedades liberal-democráticas.  Si la producción de pares basada
+en los Comunes no se convierte en el modo de producción dominante, las
+condiciones para una tragedia estarán dadas y la promesa emancipatoria
+de los Comunes quedará destrozada.  Puede decirse que las políticas de
+Estado deben ser consideradas como un parámetro.  Decimos que la
+intervención estatal --cuando legisla reforzando o facilitando medidas--
+aplica el esquema de Hardin por otras rutas.  El Estado percibe como
+"público" todos los bienes y recursos de valor e interviene
+introduciendo regulaciones por el "bien común".
+
 However, this intervention is an attack to the public sphere and
 subverts communities. If a community starts to grow, inspectors
 from above turn up to define specifications, procedures, financial
