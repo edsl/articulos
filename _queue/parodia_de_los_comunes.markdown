@@ -735,6 +735,43 @@ many examples of structural reforms taking place that damaged equally
 the industrial and agricultural sector in the last 40 years. This is
 arguably a path to a dead-end.
 
+Definimos dos características principales en la parodia de los Comunes.
+La primera es la integración institucional, es decir la absorción del
+dividendo proporcional de cada individuo por una apropiación privada
+obligatoria forzada por legislación.  Las políticas aplicadas no pueden
+afectar a las comunidades de software libre a gran escala, pero sí
+pueden dañar otras formas de los Comunes tanto como cualquier otro
+tipo de unidad industrial involucrada en la producción de un material
+cualquiera.  Los individuos ingresan a los Comunes para disfrutar la
+naturaleza participativa de un esfuerzo productivo y/o creativo bajo la
+creencia que el involucramiento de otros miembros construya una suma que
+le pertenece a todos y de la que todos se benefician.  En esa suma, cada
+contribuidor a una comunidad basada en los Comunes espera un retorno a
+su contribución más una recompensa por su trabajo involuntario.  Los
+mercados de capital desafían seriamente esta creencia al perseguir
+su propia agenda, basada en, según la ley internacional, onerosas e
+ilegales deudas que ahogan la economía real.  Las administraciones
+centrales o locales, al intentar cumplir con las obligaciones
+financieras hacia sus acreedores, aplican políticas que obligan a la
+sociedad en su conjunto a transferir una gran parte del producto
+nacional hacia los pagos a estos acreedores.  En lugar de reinvertir en
+las necesidades locales, la sociedad es privada de valiosos recursos y
+bienes.  El Estado trata a las comunidades basadas en los Comunes como a
+cualquier otra unidad de negocios y aplica duras tasas impositivas.
+Cualquier actividad ambiciosa finalmente resulta detenida y una de las
+primeras víctimas es el trabajo voluntario que realizan los miembros de
+las comunidades de pares.  Esta no es una situación imaginaria; es la
+realidad de la Eurozona actual, donde el sector bancario tiene permitido
+concentrar una cantidad imprecedente de poder.  El vínculo, que vuelve
+esta situación insoportable para todos, es el puño de hierro de la
+moneda común.  Aun Alemania, la más poderosa economía de la Eurozona,
+está cayendo lentamente en recesión [@indexmundi-2013; @economist-2011]
+mientras que la mayor parte de las ciudades y pueblos pasaron a
+pertenecer a los bancos antes que al Estado federal [@czucka-2012].
+Para el Sur europeo existen muchos ejemplos de reformas estructurales
+que dañaron tanto el sector industrial como el agrícola en los últimos
+40 años.  Esto es entonces el camino hacia un callejón sin salida.
+
 The second feature is the external outsourcing, according to which,
 regardless of the partners’ intentions and plans, the project is
 converted into a mode of crowdsourcing/aggregation economy. In
