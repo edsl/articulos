@@ -934,6 +934,34 @@ services. Williamson (1995, 1998), also, from a different perspective
 reaches a similar conclusion: Every firm will stop developing once its
 organisational costs surpass the organisational costs of a smaller firm.
 
+Mientras que el evento disparador de su explosión fue la falla de las
+hipotecas _subprime_, muchas opiniones se han alzado sobre las causas
+de la burbuja financiera del 2008.  Alguna de naturaleza tecnoeconómica
+[@perez-2009a; @perez-2009b] y otras [@sowell-2010; @krugman-2009;
+@krugman-2012; @stiglitz-2010] que se enfocan en los síntomas antes
+que en las características contradictorias inherentes al sistema
+capitalista.  De acuerdo con Karl Marx [-@marx-1992; -@marx-1993], el
+patrón general del sistema capitalista, que vuelve inevitables las
+crisis económicas, es creado por la acción combinada de dos leyes de
+la integración capitalista.  La primera ley concierne la tendencia de
+la cuota de ganancias a decrecer mientras que la segunda describe la
+necesidad de una creciente concentración y acumulación de capital.
+Estas dos leyes se contradicen mutuamente llevando a un sistema
+que colapsa y entra en crisis: el Capital no puede ser invertido
+cuando la tasa en descenso de la cuota ganancias es más rápida que la
+creciente tasa de acumulación de capital.  En el análisis de Marx, el
+capitalismo está inherentemente construido sobre una lógica sisífea que
+alcanza siempre un callejón sin salida, donde la política de escape
+a menudo constituye la destrucción parcial del capital total.  Por
+un período determinado, el capitalismo --un proceso de "creatividad
+destructiva" según Schumpeter [-@schumpeter-1975; -@schumpeter-1982],
+que comparte muchos puntos de vista con Marx en el análisis de la
+dinámica capitalista-- puede parecer sostenible, al introducir productos
+y servicios innovativos.  Desde una perspectiva diferente, Williamson
+[-@williamson-1995; -@williamson-1998] alcanza una conclusión similar:
+cada compañía dejará de desarrollarse cuando sus costos organizacionales
+superan los costos organizacionales de una compañía menor.
+
 The partial transformation of the stagnant capital into loan capital is
 used as a pressure valve for overcoming the dead-end (Marx 1992/1885;
 Harvey 2007, 2010; Lapavitsas 2012).  The overflow of loan capital with
