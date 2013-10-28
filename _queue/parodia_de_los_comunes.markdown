@@ -884,6 +884,31 @@ communities in general.  Hence, it is necessary to approach the Commons
 concept within the ongoing socio-economic context that is blooming and
 discuss how it affects the function of the real economy.
 
+Por lo tanto, decimos que los Comunes emergen en primer lugar como una
+tragedia debido a una inercia de largo plazo para evolucionar hacia una
+farsa o parodia.  Tan pronto como esta destrucción gradual es percibida
+(la tragedia), todos están de acuerdo en que la administración debe
+privatizarse y si no acordaran, el Estado podría forzar el acuerdo para
+poder implementar la asignación.  El recurso común permanece como tal
+sólo de nombre (la parodia).  Decimos que, desafortunadamente, este
+es el escenario más posible.  Para ponerlo en términos de software,
+constituye un agujero de seguridad en la ecología de la producción
+de pares y por el momento no se ha propuesto un parche (es decir,
+una solución).  La pregunta entonces, es si los pares productores se
+beneficiarán realmente del desarrollo de relaciones de pares (P2P) y de
+la producción común de usos de valor, o si el fenómeno de la producción
+de pares basada en los Comunes sólo constituirá una parte del Plan B
+neoliberal, como dice Caffentzi [-@caffentzi-2010].  Suponiendo que la
+producción de pares emergerá progresivamente como el modelo productivo
+dominante sobre el que dependerá la prosperidad de la gente
+[@hardt-negri-2011; @rigi-2012; @bauwens-kostakis-nd; @kostakis-2013],
+entonces la trascendencia de la parodia no es un problema teórico al que
+abordar.  Es en cambio un problema práctico, político, que determinará
+el éxito de las comunidades con base en los Comunes en general.  Por lo
+tanto, resulta necesario abordar el concepto de los Comunes dentro de un
+contexto socioeconómico en proceso que está aflorando y discutir cómo
+afecta el funcionamiento de la economía real.
+
 While the triggering event of its burst was the failure of subprime
 mortgages, many opinions have been voiced concerning the causes
 of the 2008 financial bubble. Some of technoeconomic nature (for
