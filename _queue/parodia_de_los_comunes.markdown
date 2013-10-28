@@ -844,6 +844,23 @@ the latter free software components along with the mach kernel developed
 at Carnegie Mellon University were included into NeXTSTEP operating
 system, which was finally renamed into OS X.
 
+Entonces, el trabajo gratuito es voluntario.  En los proyectos
+de producción de pares, el trabajador cognitivo es dueño del
+artefacto final (que permanece abierto a su desarrollo ulterior) del
+proceso productivo y gana experiencia, conocimiento, relaciones y/o
+incluso dinero (aun cuando la ganancia monetaria no sea el factor
+determinante) a través de este.  En estado de privatización (de
+acuerdo a la categorización antes mencionada de las economías de
+agregación/crowdsource) el trabajo gratuito implica explotación.  En
+adición a los monopolios de los medios sociales, el desarrollo de MacOS
+X de Apple es otro ejemplo de externalización.  Básicamente, MacOS
+X está basado en UNIX, un software que comenzó como un producto de
+compartición libre para luego volverse privativo bajo diferentes marcas
+comerciales y luego libre otra vez, por ejemplo, FreeBSD y NetBSD.
+Partes de estos últimos componentes de software libre así como el kernel
+Mach desarrollado por la Universidad Carnegie Mellon fueron incluidos en
+el sistema operativo NeXTSTEP, finalmente renombrado OS X.
+
 Hence, we argue that the Commons firstly emerge as a tragedy due to
 long-term inertia and then evolve to a farce or a parody. As soon as the
 gradual destruction is perceived (tragedy) everybody agrees to privatise
