@@ -983,6 +983,30 @@ policy. In that case, and especially in bankrupting economies, the
 individuals who participate in Commons-oriented communities may fall
 into the trap of a parody of the Commons.
 
+La transformación parcial del capital estancado en el capital de
+préstamo es utilizada como una válvula de presión para superar este
+callejón sin salida [@marx-1992; @harvey-2007; @harvey-2010;
+@lapavitsas-2012].  El desborde de capital de préstamo bajo un interés
+compuesto dentro de los mercados internacionales junto con el salto de
+la toma de decisiones en estados democráticamente electos hacia
+compañías e instituciones del sector bancario mantienen un estado de
+deua en crisis global.  Una vez que el capital prestable asegura su
+posición dominante en el mercado, la crisis de deudas se vuelve
+permanente y es reforzada a pesar del progreso de los índices económicos
+anuales.  Aun una economía próspera comenzará a declinar en el curso del
+tiempo si el excedente anual es utilizado para pagar deudas externas.
+Pagar la deuda externa no significa necesariamente que la deuda se
+reduce, sino que por el contrario puede incrementarse si el interés es
+acumulado como capital, que por lo tanto neutraliza no sólo las
+ganancias de los productores locales, sino también cualquier ventaja
+innovativa alcanzada por su talento y esfuerzo.  Esta situación ocurre
+cuando el acreedor y el moroso firman un acuerdo desbalanceado donde las
+tasas de interés y propagación son injustamente altas y no existe
+flexibilidad en la política monetaria.  En este caso y especialmente en
+las economías en bancarrota, los individuos que participan en
+comunidades orientadas a los Comunes pueden caer en la trampa de la
+parodia de los Comunes.
+
 The peer producer participates to satisfy his/her inner positive
 motives, interests and needs (for instance, the need to create, learn,
 communicate and share) on a voluntary basis (Benkler 2006; Hertel,
