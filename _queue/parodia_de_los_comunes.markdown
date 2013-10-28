@@ -1025,7 +1025,30 @@ tragedy into parody, once the lack of authority, observed in several
 Commons-based peer projects, gives the chance to extra-economic means to
 take advantage of creative communities' inertia.
 
+El par productor participa para satisfacer sus motivos, intereses y
+necesidades positivos (por ejemplo, la necesidad de crear, aprender,
+comunicarse y compartir) voluntariamente [@benkler-2006; @hertel-2003;
+@gnunited-lakhani-wolf05].  Como apuntan Hertel, Niedner y Herrmann
+[-@hertel-2003, pp. 1174], los participantes de la comunidad del kernel
+Linux son impulsados "por motivos similares a los de la acción
+voluntaria dentro de movimientos sociales como el movimiento por los
+derechos civiles, el movimiento obrero o el movimiento pacifista."  Por
+otro lado, el par productor no tiene idea que sus aportes voluntarios
+contribuyen a la retención del decrecimiento promedio de la cuota de
+ganancias, ofreciendo una chance al capital para desarrollar,
+apropiarse, expandirse y crecer.  Por lo tanto, decimos que aquellos que
+tienen una ventaja competitiva sobre las relaciones de producción de
+pares se beneficiarán de la apropiación del valor de uso producido en
+común por los pares.  Esto es un caso típico de transformación de
+tragedia en parodia, una vez que la falta de autoridad observada en
+ciertos proyectos de pares basados en los Comunes da una oportunidad a
+medios extraeconómicos de tomar ventaja de la inercia de las comunidades
+creativas.
+
 The Parody of Free Software?
+
+¿La parodia del Software Libre?
+-------------------------------
 
 For the economic system the accumulation of means of production is
 both a functional necessity and cause for deadlock. In the area of
