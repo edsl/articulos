@@ -799,6 +799,35 @@ is, that ownership of users’ data should be returned to their rightful
 owners as the freedom to access and modify the protocols and diagrams
 that structure their participation”.
 
+La segunda característica es la externalización, de acuerdo al cual y
+a pesar de las intenciones y planes de los miembros, el proyecto se
+convierte en una forma de economía de agregación o _crowdsourcing_.
+En este escenario el valor de uso producido por los pares sirve a
+ciertos intereses lucrativos sin importar que los pares productores
+estén al tanto.  Los dueños/administradores de la red/plataforma, es
+decir los "netarquistas" como Facebook o Google pueden considerarse los
+capitalistas de la web, que renuncian a su dependencia de la acumulación
+de información a través de la propiedad intelectual y se vuelven
+facilitadores de la participación social [@bauwens-2007; @bauwens-2013;
+@kostakis-2012].  Combinan elementos abiertos y cerrados en la
+arquitectura de sus plataformas para asegurarse una medida de lucro y
+control al expandir el alcance de la economía neoliberal a través del
+capitalismo cognitivo [@aytes-2013; @andrejevic-2013; @bauwens-2007;
+@bauwens-2013; @kostakis-2012].  Fuchs [-@fuchs-2013, pp. 219-220]
+muestra que en las plataformas privativas el trabajo productivo es
+externalizado hacia los usuarios "quienes trabajan completamente gratis
+y ayudan a maximizar la tasa de explotación [...] de forma que las
+ganancias puedan ser aumentadas y el nuevo capital mediático pueda ser
+acumulado.  Esta es una situación de infinita explotación de los
+usuarios".  En una vena similar, Terranova [-@terranova-2013, pp. 53]
+aborda la relevancia del concepto de los Comunes: "como la riqueza
+generada por el trabajo gratuito es social, este también debería ser el
+modo de su devolución."  Por lo tanto, concluye que "las plataformas de
+redes sociales deben ser des-privatizadas --es decir que la propiedad de
+los datos de los usuarios debe ser devuelta a sus dueños legítimos así
+como la libertad de acceder y modificar los protocolos y diagramas que
+estructuran su participación."
+
 So, free labour is voluntary. In peer production projects, the
 knowledge worker owns the final artefact (which is always open to
 further development) of the productive process and gains experience,
