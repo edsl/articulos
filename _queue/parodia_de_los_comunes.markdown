@@ -1179,6 +1179,17 @@ external outsourcing, which holds a more or less important role, however
 the institutional integration appears to be the most appropriate way of
 undermining the Commons.
 
+Aunque la "jaula dorada" es un síndrome que no puede durar para siempre,
+las compañías que desarrollan software no libre estiman que de una forma
+u otra tendrán una fuente de ingresos gracias al poder de la inercia.
+Las tecnologías privativas en sistemas operativos y aplicaciones de
+software tienen dos graves consecuencias.  Mantienen a los usuarios
+divididos e impotentes [@stallman-2008], destruyen las culturas locales
+[@greve-2006a; @greve-2006b] e incrementan el analfabetismo digital.
+Este es un buen ejemplo de externalización que tiene un rol más o menos
+importante aunque la integración institucional aparece como la forma más
+apropiada de debilitar los Comunes.
+
 Overcoming the Tensions
 
 Superando las tensiones
