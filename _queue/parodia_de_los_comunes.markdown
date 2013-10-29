@@ -1152,6 +1152,22 @@ to monopoly corporations. Those corporations charge for pre-installed
 proprietary technologies that come with any newly purchased device and
 deprive all from basic freedoms in exchange of a presumed ease of use.
 
+La red, es decir la suma de los nodos interconectados, es en realidad
+la "computadora real" ya que tanto la coherencia como las economías de
+escala se vuelven posibles en la red.  Las políticas estatales que
+tradicionalmente han entregado el poder a los monopolios no aplican
+aquí.  Los activistas de la arquitectura de pares están luchando contra
+un esfuerzo coordinado internacionalmente para controlar el poder de los
+nodos pares antes que la mayoría caiga en la cuenta del alcance de las
+oportunidades que ofrece.  La política escogida para subvertir las
+comunidades basadas en los Comunes es por un lado la presión por firmar
+acuerdos internacionales contra la libertad de Internet, lo que es una
+operación típica de integración institucional, y por el otro la
+vinculación de los usuarios a las corporaciones monopólicas.  Esas
+corporaciones cobran por las tecnologías privativas pre-instaladas en
+los dispositivos nuevos y privan a todos las libertades básicas a cambio
+de una presunta facilidad de uso.
+
 Although the “golden cage” is a syndrome that cannot last forever,
 companies that develop non-free software may estimate that one way
 or another it will be a source of income driven by the power of
