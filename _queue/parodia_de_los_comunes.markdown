@@ -1069,6 +1069,27 @@ ability to understand that their political freedom that depends on
 the use of digital media is far more important than the technical
 superiority of the free software that enables those media.
 
+Para el sistema económico la acumulación de los medios de producción es
+una necesidad funcional tanto como una causa para alcanzar un punto
+muerto.  En el área de las ciencias informacionales, las computadoras y
+otros dispositivos digitales y la capacidad técnica de usarlos como
+medios de producción está al alcance de la mayoría.  La propiedad
+privada de los medios de producción en este sector económico es por
+priemra vez universal y la cantidad de medios que la gente posee
+influencia decisivamente su potencial.  Hoy en día, el Software Libre,
+por su excelencia técnica, es ampliamente utilizado por organizaciones
+que compiten contra la filosofía y la práctica de las comunidades de
+pares.  Una de las causas es la división de la comunidad de
+desarrolladores entre los que utilizan el término "software libre" y por
+lo tanto contribuyen a un poder en crecimiento de la comunidades de
+software y aquellos que prefieren construcciones como "código abierto" o
+"código compartido" argumentando a favor de la facilitación de la
+penetración del software libre en el mundo de los negocios.  Estos
+últimos remueven a todos los usuarios, tanto individuales como
+jurídicos, de la habilidad de comprender que su libertad política
+depende de la utilización de medios digitales es mucho más importante
+que la superioridad técnica del software libre que habilita esos medios.
+
 The majority of the people cannot be aware of all these, when free
 software is not a corner stone of the public education system. This
 shortcoming severely damages society or part of it in the face of
