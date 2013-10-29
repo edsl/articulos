@@ -1270,6 +1270,37 @@ the Commons, as part of “shock doctrine” policies (see Klein 2008), more
 easily takes place contributing to and catalysing the process of capital
 accumulation.
 
+Un ejemplo reciente donde los Comunes pueden mercantilizarse es el caso
+del archivo digital de la ERT.  La ERT fue la radio y televisión estatal
+griega.  Fue constituyente del sector público y era financiada a través
+de un impuesto obligatorio implementado en la carta de la empresa de
+electricidad pública (DEI) durante décadas.  En diciembre del 2007,
+se anunció el lanzamiento de un esfuerzo por digitalizar los viejos
+archivos de la ERT, cuyos resultados serían vistos por primera vez unos
+meses más tarde.  Aunque inicialmente este proyecto fue considerado un
+paso importante hacia la disponibilidad pública de una riqueza cultural
+única, la forma en que se decidió distribuirla se encontró con la
+oposición de varios comunidades orientadas a los comunes y ciudadanas.
+Según los protestantes, detrás de esta iniciativa se encontraba un
+"fraude inocente": el archivo digital permanecía bajo la propiedad
+exclusiva de la ERT.  Se escogieron formatos de archivos de video, texto
+e imagen patentados para implementar la digitalización al tiempo que la
+descarga y el uso posterior del material quedaban prohibidos.  Luego,
+por la disolución reciente de la ERT como consecuencia de la crisis
+griega[^ert] esta colección cultural nacional, creada y financiada por
+ciudadanos griegos, puede volver a ser propiedad privada.  Durante la
+ausencia estival de la red pública griega, estaciones privadas
+transmitieron partes del archivo.  El caso de la ERT resalta el concepto
+tradicional de la propiedad estatal sobre los bienes públicos: el Estado
+administra un recurso en nombre de los ciudadanos sobre el que ellos no
+tienen autoridad.  Y en tiempos turbulentos la explotación de los
+Comunes, como parte de las políticas de la "doctrina del shock"
+[@klein-2008], toma lugar más fácilmente, contribuyendo y catalizando el
+proceso de la acumulación de capital.
+
+[ert]: Al momento de escribir esto (agosto de 2013), el destino de la
+       ERT todavía es desconocido.
+
 An effective treatment is arguably the use of means that guarantee the
 smooth growth of communities. Structurally, a measure is the adoption
 by society of the five maturity conditions to enter the Commons: open
