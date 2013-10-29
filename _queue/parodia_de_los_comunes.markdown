@@ -1346,6 +1346,19 @@ that while the political system simply declares itself as an adherent
 of property, it only defends a particular monopolising trend, a form of
 impersonal appropriation against the real individuals.
 
+Esta serie de características hace evidente este absurdo intencional en
+el comportamiento de los partidos políticos, para los que la
+probabilidad de adoptar prácticas de pares es prácticamente cero, ya que
+esta perspectiva requiere la implementación inmediata de
+infraestructuras de pares, lo que contrasta con la noción de "propiedad"
+tal como está imbuida en la filosofía del sistema político.  ¿Cómo es
+posible que un sistema política que defiende la interpretación
+institucional de "propiedad" tome las riendas de la expropiación de la
+propiedad privada?  Una respuesta posible es que mientras el sistema
+político se declara adherente de la propiedad, sólo defiende una
+tendencia monopolizante particular, una forma de apropiación impersonal
+en contra de los individuos reales.
+
 When Jean Monnet (1976) declared “nous ne coalisons pas des Etats,
 nous unissons des hommes” (“we are not building a coalition of states;
 we are creating a union of peoples”), his wish came along with the
