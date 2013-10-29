@@ -1503,6 +1503,33 @@ powerful parts cannot be possible if Commons-based communities follow
 their principles. The opening of a path to such a perspective depends on
 whether the majority decides to take creative control of their future.
 
+Definimos dos características principales de la parodia de los Comunes:
+la integración institucional y la externalización, de acuerdo a las
+cuales la producción de pares basada en los Comunes resulta convertida
+en un modo de externalización de masas (crowdsourcing).  Bajo estas
+condiciones, describimos cómo los Comunes emergen como una promesa, que
+se convierte en tragedia y luego en parodia.  Tan pronto como la
+destrucción gradual es percibida (tragedia) la administración de los
+recursos de los Comunes es privatizada: el recurso común sólo es común
+por su nombre (parodia).  Decimos que este es el escenario más probable,
+particularmente dañando comunidades abocadas a la producción de bienes
+tangibles, en ausencia de hardware libre y especificaciones abiertas.
+Ya que las fuentes de información y las TICs están distribuidas
+uniformemente, decimos que la mejor administración es la que aplican los
+grupos de individuos concientes sin órdenes desde arriba.  Esto debería
+tomar lugar fuera de la percepción tradicional del mercado, el que, a
+pesar de sus imperfecciones, aseguró su lugar en el pasado cuando los
+niveles tecnológicos no hubieran podido soportar argumentos análogos.
+La subdivisión de las comunidades en grupos organizados por un ventaja
+informacional competitiva o el acceso preferencial y la delegación de
+control hacia las partes más poderosas no puede ser posible si las
+comunidades basadas en los Comunes se apegan a sus principios.  La
+apertura de un camino hacia tal perspectiva depende de que la mayoría
+decide tomar el control creativo de su futuro.
+
+
+Bibliografía
+------------
 
 References
 
