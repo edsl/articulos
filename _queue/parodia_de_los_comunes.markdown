@@ -1140,6 +1140,9 @@ undermining the Commons.
 
 Overcoming the Tensions
 
+Superando las tensiones
+-----------------------
+
 In times when the global economy is relatively stable, the parody of
 the Commons can be easily avoided. There is insignificant migration
 of labour power from the corporate model towards the Commons, hence
@@ -1275,7 +1278,8 @@ capabilities (see Kostakis 2013); iii) and, thus, protect itself against
 capital accumulation with the aim to marginalise, control and eventually
 transcend capitalism.
 
-Conclusion
+Conclusión
+----------
 
 We defined two main features of the parody of the Commons: the
 institutional integration and the external outsourcing, according to
