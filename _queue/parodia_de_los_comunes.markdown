@@ -1204,6 +1204,16 @@ crowdsourcing. But in an era of economic collapse and while mobility
 becomes a risk, gradually more people direct their attention to
 communities, with many of them doing so for survival purposes.
 
+En tiempos en los que la economía global es relativamente estable, la
+parodia de los Comunes puede ser fácilmente evitada.  Existe una
+insignificamente migración de fuerza de trabajo desde el modelo
+corporativo hacia los Comunes, por lo que no hay una presión seria para
+aplicar la integración institucional y la movilidad de los miembros de
+la comunidad prácticamente cancela las consecuencias del crowdsourcing.
+Pero en una época de colapso económico y mientras que la movilidad se
+vuelve un riesgo, cada vez más personas dirigen su atención a las
+comunidades, muchos de ellos por supervivencia.
+
 The state seems to face Commons-based peer communities as ordinary
 economic units subject to heavy taxation while supports “intellectual
 property”-based activities. Those activities are injected into
