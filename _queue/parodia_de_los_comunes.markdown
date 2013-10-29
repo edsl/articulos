@@ -1317,6 +1317,23 @@ policies serves the vision of a United Europe; iii) in a long period of
 depression, increased capital borrowing is the best method to return to
 growth.
 
+Un tratamiento efectivo es el uso de medios que garanticen el
+crecimiento fluido de las comunidades.  Estructuralmente hablando, una
+medida es la adopción por la sociedad de cinco condiciones de madurez
+para ingresar a los Comunes: estándares abiertos, software libre,
+arquitectura de pares, sistema de aprendizaje avanzado y comunidades.
+En lo que se refiere al contexto político, la democracia parlamentaria,
+por ejemplo en Grecia, intenta asegurar el status quo actual demoliendo
+varios derechos ciudadanos y ocasionalmente violando la constitución.
+No deben ponerse esperanzas en el sistema político partidario y sus
+políticas asociadas, principalmente por tres características inherentes
+a las políticas de los partidos políticos: i) las restricciones a la
+democracia son una política para superar la crisis económica; ii) el
+centralismo supranacional que decide y aplica políticas fiscales y
+monetarias sirve a la visión de una Europa Unida; iii) en un período de
+depresión largo, el incremento de la toma de préstamos de capital es el
+mejor método para recuperar el crecimiento.
+
 This set of characteristics makes this intentional absurdity evident in
 the behaviour of political parties, for which the probability to adopt
 P2P practices is practically zero, since this perspective requires
