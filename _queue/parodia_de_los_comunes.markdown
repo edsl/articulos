@@ -1370,6 +1370,18 @@ absolute extremes. Only a few scholars, Victor Hugo one of them,
 attempted to transcend the anti-dialectic heritage of the discourse
 around the “ideal of a unified Europe” (Swedberg 1994).
 
+Cuando Jean Monnet [-@monnet-1976] declaró "_nous ne coalisons pas des
+Etats, nous unissons des hommes_" ("no estamos construyendo una
+coalición de Estados; estamos creando una unión de personas"), su deseo
+vino de la mano de una deconstrucción del Estado nacional, preparada
+conceptualmente en varias publicaciones.  El trasfondo filosófico de
+este acercamiento fue claramente maniqueo ya que el esquema bipolar
+nacional-supranacional es interpretado sobre la base de una teocracia
+que proclama un dualismo de extremos absolutos.  Sólo algunos
+académicos, Víctor Hugo uno de ellos, intentaron trascender la herencia
+anti-dialéctica del discurso del "ideal de la Europa unificada"
+[@swedberg-1994].
+
 The answer to the problem should be a type of democracy capable
 to emerge from the activity of Commons-based communities and the
 interactions among them. A political project at both national and
