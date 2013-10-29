@@ -1396,6 +1396,21 @@ and make their requests for a Commons infrastructure a government policy
 towards a “partner state”, i.e., democratically-run, civic institutions
 that protect the common good (see Bauwens 2012; Kostakis 2012).
 
+La respuesta a este problema sería un tipo de democracia capaz de
+emerger de la actividad de las comunidades basadas en los Comunes y las
+interacciones entre ellas.  Un proyecto político a niveles tanto
+nacionales como internacionales es necesario para liberar las saludables
+fuerzas que demandan la construcción de comunidades para el beneficio de
+sus miembros.  Dada la larga duración estimada de la crisis económica
+así como su peculiaridad estructural, combinación de inflexibilidad
+monetaria y acumulación de deuda a pesar de la posible reducción del
+déficit, la parodia de los Comunes puede ser eliminada si las
+comunidades adhieren a su misión: asegurar un nivel de alta madurez y
+llevar sus demandas por una infraestructura de los Comunes a políticas
+de gobierno tendientes al "Estado asociado", es decir a instituciones
+cívicas democráticas que protejan el bien común [@bauwens-2012;
+@kostakis-2012].
+
 This high maturity level could be achieved through the establishment
 of a democratic legal jurisdiction, which would impose restrictions on
 the exploitation of the Commons (Kleiner 2010; Fuchs 2013; Bauwens and
