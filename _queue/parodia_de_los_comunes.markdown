@@ -1468,6 +1468,16 @@ capabilities (see Kostakis 2013); iii) and, thus, protect itself against
 capital accumulation with the aim to marginalise, control and eventually
 transcend capitalism.
 
+Contra la acumulación de capital, que lleva a la parodia de los Comunes,
+la lucha de las comunidades debe incluir la creación de una
+infraestructura que proteja, habilite y catalice la circulación de los
+Comunes.  De esa forma la producción de pares i) será sostenible aun al
+nivel personal; ii) se expandirá de la manufactura de bienes intangibles
+hacia la manufactura emergente de productos tecnológicos
+[@kostakis-2013]; iii) y por lo tanto se protegerá a sí misma contra la
+acumulación de capital con el objetivo de marginalizar, controlar y
+eventualmente trascender al capitalismo.
+
 Conclusión
 ----------
 
