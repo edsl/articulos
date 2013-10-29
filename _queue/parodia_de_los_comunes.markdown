@@ -1104,6 +1104,22 @@ due to absence of guidance, is moving conceptually to what people
 intuitively understand. That software technology is more technology and
 less software, hence, a business for specialised engineers.
 
+La mayoría de la gente no puede estar al tanto de todo esto, cuando el
+software libre no es la piedra angular del sistema de educación pública.
+Este defecto daña severamente a la sociedad en todo o en parte con
+respecto a problemas sociales urgentes.  Incluso la aplicación de
+políticas ampliamente consensuadas está destinada al fracaso si la
+infraestructura técnica no toma en cuenta los problemas sociales
+inmediatos.  Pueden observarse dos graves consecuencias de la división
+de la comunidad.  Los abordajes cercanos al "código abierto" son
+antipedagógicos debido a su neutralidad axiológica, por lo que no pueden
+ser promovidos como material educativo, mientras que la fricción con el
+software libre no ofrece a los docentes una dirección clara.  Entonces
+la sociedad, en ausencia de guía, se mueve conceptualmente hacia lo que
+la gente comprende intuitivamente.  Es decir que la tecnología es más
+tecnología y menos software, por lo tanto materia de ingenieros
+especializados.
+
 When the new technology of typography was invented, its high cost kept
 the majority at a distance from these new means of production. In our
 days, when the excuse of keeping a distance from digital media is not
