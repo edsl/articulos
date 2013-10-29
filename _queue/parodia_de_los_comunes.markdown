@@ -1129,6 +1129,15 @@ people from finding out how to use computers for their own benefit,
 instead forcing them to assign even the simplest task to computer
 experts.
 
+Cuando la nueva tecnología tipográfica fue inventada, su alto costo
+mantuvo a la mayoría a la distancia de estos nuevos medios de
+producción.  En nuestros días, cuando la excusa de mantener distancia de
+los medios digitales no es una opción, la desinformación, aun por medios
+oficiales, sobre las dinámicas de software se ha vuelto epidémica.  De
+esta forma, previene que la gente encuentre la manera de utilizar las
+computadoras para su propio beneficio y en cambio los fuerza a asignar
+la más simple tarea a expertos informáticos.
+
 The network, i.e., a sum of networked nodes, is actually the “real
 computer” since coherence and economies of scale are both possible in
 the network. The traditional state policies that give way to monopoly
