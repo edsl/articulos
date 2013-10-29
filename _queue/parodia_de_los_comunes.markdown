@@ -1432,6 +1432,31 @@ ethical funders that support the enterprise” (Bauwens and Kostakis in
 press). In that way profit making is allowed, but profit-maximisation
 would not be the driving force of economic development.
 
+Este alto nivel de madurez puede ser alcanzado a través del
+establecimiento de una jurisdicción legal democrática, que imponga
+restricciones a la explotación de los Comunes [@kleiner-2010;
+@fuchs-2013; @bauwens-kostakis-nd].  La producción de pares puede ser
+colectivamente sostenible pero no individualmente sostenible: la mayoría
+de los pares contribuyentes no pueden vivir de eso y dependen de
+los salarios del mercado capitalista.  Seguimos a Bauwens y Kostakis
+[-@bauwens-kostakis-nd] que sugieren "la creación de empresas éticas,
+amigables a los Comunes, que también controlan su gobernanza y
+propiedad.  Tales empresas estarán legalmente estructuradas para que sea
+su obligación apoyar la circulación de los Comunes".  El desarrollo de
+las licencias de producción de pares[^ppl], introducidas por Kleiner
+[-@kleiner-2010] como un tipo de licencia _copyfarleft_ puede formar
+parte de este debate.  Estas licencias pueden estar orientadas hacia una
+forma de propiedad plural, que incluiría "la propiedad del hacedor (es
+decir una revisión de la propiedad del trabajador en la era del P2P),
+combinada con la propiedad del usuario, es decir el reconocimiento de
+que las redes de usuarios co-crean valor; y eventualmente una devolución
+a los financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].
+De esta forma la creación de ganancias es permitida, pero la
+maximización de ganancias no sería la fuerza motriz del desarrollo
+económico.
+
+[ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html)
+
 Against the capital accumulation,
 which leads to the parody of the Commons-based communities' political
 struggle should include the creation of an infrastructure that protects,
