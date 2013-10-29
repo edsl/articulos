@@ -1227,6 +1227,21 @@ of pre-capitalist or novel produc- tion modes was predetermined:
 destruction or integration. While P2P relations are not dominant, their
 dependence on a friendly economic environment becomes imperative.
 
+El Estado parece afrontar las comunidades de pares basadas en los
+Comunes como unidades económicas ordinarias sujetas a grandes tasas
+impositivas mientras que soporta actividades basadas en la "propiedad
+intelectual".  Estas actividades son inyectadas en las comunidades
+bloqueando su crecimiento.  La esperanza en que la multiplicidad de
+comunidades las ayudará a convertirse en las relaciones de producción
+dominantes resulta refutada ya que el sistema político sólo permitirá
+crecer a las comunidades si sus operaciones y funciones se integran al
+modo de producción establecido.  La historia muestra que el modo de
+producción capitalista no ha permitido ningún otro modo de producción.
+El futuro de modos de producción precapitalistas o noveles está
+predeterminado: destrucción o integración.  Mientras que las relaciones
+de pares no sean dominantes, su dependencia de un medioambiente
+económico amistoso resulta imperativo.
+
 A recent example where a Commons might be commodified is the case
 of ERT's digital archive. ERT was the Greek state television and
 radio network. It was a constituent of the public sector and had
