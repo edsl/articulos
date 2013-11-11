@@ -34,7 +34,7 @@ los bienes comunes es un avance social dentro del capitalismo pero con
 varios aspectos post-capitalistas que necesitan protección, aplicación,
 estimulación y conexión con movimientos sociales progresivos.  Usamos
 teoría y ejemplos para decir que las relaciones ecónomicas entre pares
-pueden resultar socavadas en el largo plazo, distorsionadas por los
+pueden resultar socavadas a largo plazo, distorsionadas por los
 medios extraeconómicos de un contexto político diseñado para mantener en
 el poder a relaciones de producción orientadas al lucro.  Esta
 subversión bien puede convertirse en una política de estado y el
@@ -61,7 +61,7 @@ Governance: Institutional and Normative Changes and Challenges”.
 argumentamos a favor de una cierta agenda para las comunidades basadas
 en el Común.  Tal agenda debe tener como objetivo la aplicación de la
 circulación de los Comunes.  Por lo tanto, cualquier transformación
-social útil será significativa si es la gente misma la que decide y
+social útil será significativa si es la gente misma quien decide y
 aplica políticas para su propio beneficio, óptimamente con el apoyo de
 un Estado soberano acompañante.  Si la producción de pares se vuelve
 predominante, debe controlar la acumulación de capital con el objetivo
@@ -69,11 +69,11 @@ de marginalizar y eventualmente trascender el capitalismo.
 
 ## Reconocimientos
 
-Este ensayo se ha beneficiado grandemente por dos revisores anónimos.
+Este ensayo se ha beneficiado en gran medida por dos revisores anónimos.
 También queremos agradecer a Christos Giotitsas por su crítica.  Además,
-Vasilis Kostakis agradece el apoyo financiero recibido por las becas SG
-014006 "Desafíos para el modernización del Estado en la Europa del siglo
-XXI" y ETF 8571 "La Web 2.0 y la gobernanza: Cambios y desafíos
+Vasilis Kostakis agradece el apoyo financiero recibido por las becas
+SG 014006 "Desafíos para el modernización del Estado en la Europa del
+siglo XXI" y ETF 8571 "La Web 2.0 y la gobernanza: Cambios y desafíos
 institucionales y normativos".
 
 ## Introducción
@@ -95,22 +95,22 @@ addition, Berry (2008, 369) postulates that scholars such as Benkler
 (2006) fail to recognise the extent to which network forms of production
 “will be co-opted into mainstream 'industrial' ways of production”.
 
-Se ha dicho que un número creciente de personas son ahora capaces de
+Se dice que un número creciente de personas son ahora capaces de
 administrar sus vidas políticas, sociales y productivas a través de una
 variedad de redes interdependientes habilitadas por las Tecnologías de
 la Información y la Comunicación (TICs) [@castells-2000; @castells-2003;
 @benkler-2006; @bauwens-2005; @perez-2002].  Sin embargo, autores como
 Webster [-@webster-2002a; -@webster-2002b] se oponen a la idea de una
-"sociedad de la información".  Enfatizan en cambio la continuidad de la
-era actual con antiguos arreglos socioeconómicos capitalistas
+"sociedad de la información".  Enfatizan en cambio la continuidad
+de la era actual con antiguos arreglos socioeconómicos capitalistas
 [@schiller-1981; @schiller-1984; @schiller-1996; @webster-2002a;
 @webster-2002b].  Kumar [-@kumar-1995, pp. 154] sostiene que la
 explosión de la información "no ha producido un cambio radical en la
-forma en que se organizan las sociedades industriales" para concluir que
-"los imperativos del lucro, el poder y el control parecen tan
+forma en que se organizan las sociedades industriales" para concluir
+que "los imperativos del lucro, el poder y el control parecen tan
 predominantes ahora como lo han sido durante toda la historia del
 industrialismo capitalista".  Además, Berry [-@berry-2008, pp. 369]
-postula que académicos como Benkler [-@benkler-2006] fallan en reconocer
+afirma que académicos como Benkler [-@benkler-2006] no pueden reconocer
 la extensión en que las formas de producción en red "serán cooptadas en
 las formas de producción 'industrial' hegemónicas".
 
@@ -146,7 +146,7 @@ nuevo ambiente comunicacional un nuevo modelo social productivo, es
 decir la producción de pares basada en el Común, que se diferencia del
 modelo industrial.  La producción de pares, ejemplificada por varios
 proyectos de Software Libre (GNU, el kernel Linux, KDE) y de contenido
-libre (Wikipedia), vuelve a la compartición de información más
+libre (Wikipedia) vuelve a la compartición de información más
 importante aun que el valor de las estrategias propietarias y posibilita
 esfuerzos de producción de información a gran escala [@benkler-2006].
 En este contexto, la producción de pares puede ser considerada una
@@ -172,17 +172,17 @@ validate their distinctive social dynamics as significant forces in
 economic and cultural production (Bollier in Laisne et al. 2010).
 
 Nuestra posición es que la producción de pares es un avance social
-dentro del capitalismo pero con varios aspectos post-capitalistas,
-que necesitan protección, aplicación, estimulación y conexión con los
+dentro del capitalismo pero con varios aspectos post-capitalistas que
+necesitan protección, aplicación, estimulación y conexión con los
 movimientos sociales progresivos alrededor de plataformas de políticas
-del Común.  Como "Comunes" entendemos los recursos culturales y
+del Común.  Entendemos como "Comunes" los recursos culturales y
 naturales, que son apropiados en común (no como propiedad privada) y se
 mantienen accesibles a todos los miembros de la sociedad [@ostrom-1990;
 @hardt-negri-2011; @bollier-2009].  En este ensayo, nuestro punto de
 partida son los Comunes digitales (conocimiento, software, diseño) ya
 que la producción de pares fue advertida primeramente en la esfera de la
 producción de información.  Consideramos los "Comunes" un tercer sector
-en paralelo al Mercado y al Estado, conceptualizando las profundas
+en paralelo al Mercado y al Estado, que conceptualiza las profundas
 afinidades entre varias formas de colaboración y ayuda a validar sus
 dinámicas sociales distintivas en tanto fuerzas significativas en la
 producción económica y cultural [@bollier-2010].
@@ -220,19 +220,19 @@ El término "producción de pares" o "producción P2P" se origina en la
 naturaleza innovativa de la arquitectura de redes de pares (P2P) que
 posibilitaron el advenimiento de Internet.  La introducción de la
 arquitectura P2P en las relaciones sociales de producción e intercambio
-de bienes y servicios se basa en la idea que cada comunidad de red, tal
-como cada nodo en la red, se vuelve "servidora" para satisfacer las
-necesidades de otras comunidades, así como en "cliente" para satisfacer
-las propias.  La producción de pares opera sobre una base no
-competitiva, sinergética, llevando a una distribución óptima de los
-recursos [@benkler-2006; @bauwens-2005; @bauwens-2009].  El abordaje
-tradicional de mercado con su mecanismo de precios ha sido incapaz de
-lograr tales asignaciones de recursos debido a la asimetría en la
-información productiva mientras que la producción de pares maximiza el
-acceso a la información.  En contra del pensamiento económico
+de bienes y servicios se basa en la idea de que cada comunidad de red,
+al igual que como cada nodo en la red, se vuelve "servidora" para
+satisfacer las necesidades de otras comunidades, así como en "cliente"
+para satisfacer las propias.  La producción de pares opera sobre una
+base no competitiva, sinergética, llevando a una distribución óptima de
+los recursos [@benkler-2006; @bauwens-2005; @bauwens-2009].  El abordaje
+tradicional de mercado con su mecanismo de precios ha sido incapaz
+de lograr tales asignaciones de recursos debido a la asimetría en la
+información productiva mientras que la producción de pares maximiza
+el acceso a la información.  En contra del pensamiento económico
 tradicional, en la producción de pares nos volvemos testigos del colapso
-de la dicotomía consumidor/productor hacia una nueva comprensión bajo la
-forma de la "multitud" [@hardt-negri-2001], "prosumidores"
+de la dicotomía consumidor/productor hacia una nueva comprensión
+bajo la forma de la "multitud" [@hardt-negri-2001], "prosumidores"
 [@toffler-2006], "produsuarios" [@bruns-2008] o "comunidades de
 innovación de los usuarios" [@hippel-2005].  Además, se ha demostrado
 [@benkler-2002; @benkler-2006; @bauwens-2005] cómo la producción de
@@ -263,22 +263,22 @@ as well as of the underpinning peer-to-peer relations into the dominant
 mode of production, we conclude by arguing in favour of a certain
 working agenda for Commons-based communities.
 
-Este artículo comienza con una breve introducción a cómo la arquitectura
-inicial de Internet está siendo distorsionada en un formato
-cliente-servidor tal como es observado en las redes sociales
-administradas por los capitalistas cognitivos de la Web.  Nosotros,
-entonces, abordamos y cuestionamos los argumentos principales en
-relación a "la tragedia de los comunes" y el fenómeno de la producción
-de pares con base en el Común.  ¿Cuál es el rol de los comunes
-producidos entre pares en la acumulación capitalista mientras el
-potencial emancipatorio de las comunidades de pares es neutralizado sin
-afectar su función productiva?  Para responder esta pregunta, discutimos
-cómo la promesa emancipatoria de los Comunes (digitales) y de la
-producción de pares pueden evolucionar hacia una parodia usando el caso
-del software libre.  Para atajar la amenaza de la absorción completa de
-los Comunes así como el avasallamiento de las relaciones de pares por el
-modo de producción dominante, concluimos argumentando a favor de una
-agenda para las comunidades basadas en los Comunes.
+Este artículo comienza con una breve introducción a cómo la
+arquitectura inicial de Internet está siendo distorsionada en un
+formato cliente-servidor tal como es observado en las redes sociales
+administradas por los capitalistas cognitivos de la Web. Entonces,
+abordamos y cuestionamos los argumentos principales en relación a "la
+tragedia de los comunes" y el fenómeno de la producción de pares con
+base en el Común.  ¿Cuál es el rol de los comunes producidos entre
+pares en la acumulación capitalista mientras el potencial emancipatorio
+de las comunidades de pares es neutralizado sin afectar su función
+productiva?  Para responder esta pregunta, discutimos cómo la promesa
+emancipatoria de los Comunes (digitales) y de la producción de pares
+pueden evolucionar hacia una parodia usando el caso del software libre.
+Para atajar la amenaza de la absorción completa de los Comunes así como
+el avasallamiento de las relaciones de pares por el modo de producción
+dominante, concluimos argumentando a favor de una agenda para las
+comunidades basadas en los Comunes.
 
 1. From the Tragedy to the Parody of the Commons
 
@@ -314,25 +314,25 @@ economía general estable.  No toma en cuenta las amenazas que la
 producción de pares enfrentará una vez que se exponga a un ambiente
 económico hostil.  Una pregunta que emerge es por qué el marco
 socioeconómico dominante resistirá la construcción de una esfera de
-los Comunes.  Después de todo, se podría argumentar, es dentro de esta
-esfera que la Internet y muchas otras tecnologías digitales se han
-estado desarrollando.  Nuestra posición es que la declaración anterior
-es parcialmente verdadera:  La emergencia de las tecnologías web y
-de la Internet misma, ha tomado lugar en un marco contradictorio.
+los Comunes.  Después de todo, se podría argumentar que es dentro de
+esta esfera que la Internet y muchas otras tecnologías digitales se
+han estado desarrollando.  Nuestra posición es que la declaración
+anterior es parcialmente verdadera:  La emergencia de las tecnologías
+web y de la Internet misma, ha tomado lugar en un marco contradictorio.
 Los intentos fallidos de adopción de las propuestas ACTA/SOPA/PIPA
 que buscan restringir la libertad de los individuos a través de
 la aplicación de estándares de "propiedad intelectual" estrictos;
 los esfuerzos por un régimen regulatorio con una arquitectura de
 transacciones de primera mano (en lugar de aplicarla una vez que
 las transacciones fueron realizadas) [@boyle-1997]; los intentos de
-vigilancia y censura tanto por países autoritarios como liberales; y "la
+vigilancia y censura tanto por países autoritarios como liberales; "la
 tendencia creciente a vincular los problemas de seguridad de Internet
 con las mismas propiedades que la hicieron innovativa y revolucionaria
 en primer lugar" [@mueller-2010, pp. 160], son sólo algunas de las
 razones por las que académicos como Zittrain [-@zittrain-2008] han
 expresado preocupación por que los sistemas digitales podrían retroceder
-al modelo de dispositivos bloqueados y controlados centralmente como
-si de lectrodomésticos informacionales se tratara.
+al modelo de dispositivos bloqueados y controlados centralmente como si
+de lectrodomésticos informacionales se tratara.
 
 
 The initial P2P architecture of the Internet, based on the end-to-end
@@ -391,7 +391,7 @@ código abierto es una metodología de desarrollo; el software libre es un
 movimiento social."  El código abierto presupone que el software no
 libre es una solución inferior de un problema práctico dado, mientras
 que el software libre advoca que el software libre "es un problema
-social" [@stallman-2012].  "Si es el mismo software (o casi), ¿importa
+social" [@stallman-2012].  "Si es el mismo software (o casi) ¿importa
 qué nombre se le de?", pregunta Stallman para responder, "sí, porque
 palabras diferentes conllevan diferentes ideas.  Mientras un programa
 libre con cualquier otro nombre te puede dar las mismas libertades hoy,
@@ -565,7 +565,7 @@ to say, the programmer or the entrepreneur can shift from a permissive
 No obstante, pueden encontrarse contraejemplos a los que presenta
 Benkler para apoyar su argumentación.  Por ejemplo, el desarrollo de
 software en los ambientes corporativos tradicionales cuyos proyectos son
-liberados bajo licencias permisivas (como la MIT o las BSD), que
+liberados bajo licencias permisivas (como la MIT o las BSD) que
 permiten la privatización de las modificaciones del código y que por lo
 tanto no toman partido hacia la "perfidia" de las patentes [@peren-1999;
 @gnu-2013; @fitzgerald-2006].  De esta forma el software pierde su
@@ -887,7 +887,7 @@ discuss how it affects the function of the real economy.
 Por lo tanto, decimos que los Comunes emergen en primer lugar como una
 tragedia debido a una inercia de largo plazo para evolucionar hacia una
 farsa o parodia.  Tan pronto como esta destrucción gradual es percibida
-(la tragedia), todos están de acuerdo en que la administración debe
+(la tragedia) todos están de acuerdo en que la administración debe
 privatizarse y si no acordaran, el Estado podría forzar el acuerdo para
 poder implementar la asignación.  El recurso común permanece como tal
 sólo de nombre (la parodia).  Decimos que, desafortunadamente, este
@@ -1298,7 +1298,7 @@ Comunes, como parte de las políticas de la "doctrina del shock"
 [@klein-2008], toma lugar más fácilmente, contribuyendo y catalizando el
 proceso de la acumulación de capital.
 
-[ert]: Al momento de escribir esto (agosto de 2013), el destino de la
+[ert]: Al momento de escribir esto (agosto de 2013) el destino de la
        ERT todavía es desconocido.
 
 An effective treatment is arguably the use of means that guarantee the
@@ -1372,7 +1372,7 @@ around the “ideal of a unified Europe” (Swedberg 1994).
 
 Cuando Jean Monnet [-@monnet-1976] declaró "_nous ne coalisons pas des
 Etats, nous unissons des hommes_" ("no estamos construyendo una
-coalición de Estados; estamos creando una unión de personas"), su deseo
+coalición de Estados; estamos creando una unión de personas") su deseo
 vino de la mano de una deconstrucción del Estado nacional, preparada
 conceptualmente en varias publicaciones.  El trasfondo filosófico de
 este acercamiento fue claramente maniqueo ya que el esquema bipolar
@@ -1447,9 +1447,9 @@ las licencias de producción de pares[^ppl], introducidas por Kleiner
 [-@kleiner-2010] como un tipo de licencia _copyfarleft_ puede formar
 parte de este debate.  Estas licencias pueden estar orientadas hacia una
 forma de propiedad plural, que incluiría "la propiedad del hacedor (es
-decir una revisión de la propiedad del trabajador en la era del P2P),
+decir una revisión de la propiedad del trabajador en la era del P2P)
 combinada con la propiedad del usuario, es decir el reconocimiento de
-que las redes de usuarios co-crean valor; y eventualmente una devolución
+que las redes de usuarios co-crean valor; eventualmente una devolución
 a los financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].
 De esta forma la creación de ganancias es permitida, pero la
 maximización de ganancias no sería la fuerza motriz del desarrollo
