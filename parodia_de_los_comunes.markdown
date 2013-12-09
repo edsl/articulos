@@ -1,10 +1,10 @@
 ---
-title: "La parodia de los comunes"
+title: "La parodia de los Comunes"
 author: Vasilis Kostakis y Stelios Stavroulakis
 layout: post
 ---
 
-La parodia de los comunes
+La parodia de los Comunes
 =========================
 
 > Publicado originalmente en tripleC 11: 412-424, 2013
@@ -12,43 +12,43 @@ La parodia de los comunes
 >
 > Vasilis Kostakis es un economista político y el fundador del _P2P
 > Lab_.  En la actualidad es investigador miembro de la Universidad
-> Tecnológica de Tallinn así como de la _P2P Foundation_.  Stelios
+> Tecnológica de Tallinn como también de la _P2P Foundation_.  Stelios
 > Stavroulakis es un científico informático e ingeniero de software
-> interesado en los sistemas informáticos distribuidos con un enfoque
-> particular en el software libre y los estándares abiertos, así
-> como una atención particular sobre las problemáticas sociales y
-> ambientales.  Es también, colaborador del _P2P Lab_.
+> interesado en los sistemas informáticos distribuidos, enfocado
+> particularmente en el software libre y los estándares abiertos, y
+> generalmente consciente de las problemáticas sociales y
+> ambientales.  Es colaborador del _P2P Lab_.
 
 
 Abstract
 --------
 
-Este ensayo se basa en la idea de que la producción de pares basada en
+Este ensayo amplía la idea de que la producción de pares basada en
 los bienes comunes es un avance social dentro del capitalismo pero con
 varios aspectos post-capitalistas que necesitan protección, aplicación,
 estimulación y conexión con movimientos sociales progresivos.  Usamos
-teoría y ejemplos para decir que las relaciones ecónomicas entre
+teoría y ejemplos para afirmar que las relaciones ecónomicas entre
 pares pueden resultar socavadas a largo plazo, distorsionadas por
 los medios extraeconómicos de un contexto político diseñado para
-mantener en el poder a relaciones de producción orientadas al lucro.
+mantener en el poder las relaciones de producción orientadas al lucro.
 Esta subversión bien puede convertirse en una política de estado y
-el resultado será la absorción completa de los Comunes así como las
-relaciones de pares concomitantes en el modo dominante de producción.
+el consiguiente resultado es la absorción completa de los Comunes así como de las
+relaciones de pares subyacentes en el modo dominante de producción.
 Para detener esta amenaza argumentamos a favor de una cierta agenda
-para las comunidades basadas en el Común.  Tal agenda debe tener
-como objetivo la aplicación de la circulación de los Comunes.  Por
+para las comunidades basadas en los Comunes.  Tal agenda debe tener
+como objetivo la imposición de la circulación de los Comunes.  Por
 lo tanto, cualquier transformación social útil será significativa
 si es la gente misma quien decide y aplica políticas para su propio
 beneficio, óptimamente con el apoyo de un Estado soberano acompañante.
-Si la producción de pares se vuelve predominante, debe controlar la
-acumulación de capital con el objetivo de marginalizar y eventualmente
-trascender el capitalismo.
+Si la producción de pares tiene que volverse predominante, debe controlar la
+acumulación de capital que tiene el fin de marginalizar y eventualmente
+trascender al capitalismo.
 
 ## Reconocimientos
 
 Este ensayo se ha beneficiado en gran medida por dos revisores anónimos.
 También queremos agradecer a Christos Giotitsas por su crítica.  Además,
-Vasilis Kostakis agradece el apoyo financiero recibido por las becas
+a Vasilis Kostakis le gustaría reconocer el apoyo financiero recibido por las becas
 SG 014006 "Desafíos para el modernización del Estado en la Europa del
 siglo XXI" y ETF 8571 "La Web 2.0 y la gobernanza: Cambios y desafíos
 institucionales y normativos".
@@ -71,7 +71,7 @@ que "los imperativos del lucro, el poder y el control parecen tan
 predominantes ahora como lo han sido durante toda la historia del
 industrialismo capitalista".  Además, Berry [-@berry-2008, pp. 369]
 afirma que académicos como Benkler [-@benkler-2006] no pueden reconocer
-la extensión en que las formas de producción en red "serán cooptadas en
+la extensión en que las formas de producción en red "serán cooptadas dentro
 las formas de producción 'industrial' hegemónicas".
 
 
@@ -82,19 +82,19 @@ de posibilidad tecnológico-ecónomicos" para la práctica social
 diferentes arreglos sociales y económicos, en contraste con lo que Kumar
 y Webster dicen, donde el lucro, el poder y el control no parecen tan
 predominantes como lo han sido en la historia del capitalismo moderno.
-Benkler [-@benkler-2006] ha argumentado que está emergiendo de este
-nuevo ambiente comunicacional un nuevo modelo social productivo, es
-decir la producción de pares basada en el Común, que se diferencia del
+Benkler [-@benkler-2006] ha argumentado que de este nuevo ambiente comunicacional
+está emergiendo un nuevo modelo social productivo, es
+decir la producción de pares basada en los Comunes, que se diferencia del
 modelo industrial.  La producción de pares, ejemplificada por varios
 proyectos de Software Libre (GNU, el kernel Linux, KDE) y de contenido
-libre (Wikipedia) vuelve a la compartición de información más
-importante aun que el valor de las estrategias propietarias y posibilita
+libre (Wikipedia) hace al compartir la información más
+importante que el valor de las estrategias propietarias y posibilita
 esfuerzos de producción de información a gran escala [@benkler-2006].
 En este contexto, la producción de pares puede ser considerada una
 forma seminal de un nuevo modo de producción posibilitado por la
 coordinación a través de Internet donde las decisiones surgen del
-involucramiento y cooperación libres entre las personas.  Se juntan para
-crear un valor común sin recurrir a la compensación monetaria como una
+libre involucramiento y cooperación entre las personas.  Se unen para
+crear valor común sin recurrir a la compensación monetaria como la
 forma clave de motivación [@bauwens-2005; @orsi-2009; @kostakis-2013].
 
 Nuestra posición es que la producción de pares es un avance social
