@@ -48,7 +48,7 @@ Ver el archivo `.gitflow`.
 
 7.  ¡Revisar! Mejor una persona diferente a la que tradujo
 
-8.  Mergea en la rama *queue*
+8.  Mergear en la rama *queue*
 
         git flow feature finish nombre-del-articulo
 
