@@ -24,7 +24,7 @@ Abstract
 --------
 
 Este ensayo amplía la idea de que la producción de pares basada en
-los bienes comunes es un avance social dentro del capitalismo pero con
+los bienes comunes es un avance social dentro del capitalismo, pero con
 varios aspectos post-capitalistas que necesitan protección, aplicación,
 estimulación y conexión con movimientos sociales progresivos.  Usamos
 teoría y ejemplos para afirmar que las relaciones ecónomicas entre
@@ -98,10 +98,10 @@ crear valor común sin recurrir a la compensación monetaria como la
 forma clave de motivación [@bauwens-2005; @orsi-2009; @kostakis-2013].
 
 Nuestra posición es que la producción de pares es un avance social
-dentro del capitalismo pero con varios aspectos post-capitalistas que
+dentro del capitalismo pero con varios aspectos post-capitalistas, que
 necesitan protección, aplicación, estimulación y conexión con los
 movimientos sociales progresivos alrededor de plataformas de políticas
-del Común.  Entendemos como "Comunes" los recursos culturales y
+de los Comunes.  Entendemos como "Comunes" los recursos culturales y
 naturales, que son apropiados en común (no como propiedad privada) y se
 mantienen accesibles a todos los miembros de la sociedad [@ostrom-1990;
 @hardt-negri-2011; @bollier-2009].  En este ensayo, nuestro punto de
@@ -113,17 +113,17 @@ afinidades entre varias formas de colaboración y ayuda a validar sus
 dinámicas sociales distintivas en tanto fuerzas significativas en la
 producción económica y cultural [@bollier-2010].
 
-El término "producción de pares" o "producción P2P" se origina en la
-naturaleza innovativa de la arquitectura de redes de pares (P2P) que
-posibilitaron el advenimiento de Internet.  La introducción de la
+El término "producción de pares" o "producción de par a par" se origina en la
+naturaleza innovativa de la arquitectura de red de par a par (P2P) que
+posibilitó el advenimiento de Internet.  La introducción de la
 arquitectura P2P en las relaciones sociales de producción e intercambio
 de bienes y servicios se basa en la idea de que cada comunidad de red,
-al igual que como cada nodo en la red, se vuelve "servidora" para
+al igual que cada nodo en la red, se vuelve "servidora" para
 satisfacer las necesidades de otras comunidades, así como en "cliente"
-para satisfacer las propias.  La producción de pares opera sobre una
-base no competitiva, sinergética, llevando a una distribución óptima de
-los recursos [@benkler-2006; @bauwens-2005; @bauwens-2009].  El abordaje
-tradicional de mercado con su mecanismo de precios ha sido incapaz
+para satisfacer las propias.  La producción de pares opera sobre fundamentos
+no competitivos, sinergéticos, llevando a una distribución óptima de
+los recursos [@benkler-2006; @bauwens-2005; @bauwens-2009].  El tradicional
+enfoque de mercado con su mecanismo de precios ha sido incapaz
 de lograr tales asignaciones de recursos debido a la asimetría en la
 información productiva mientras que la producción de pares maximiza
 el acceso a la información.  En contra del pensamiento económico
@@ -131,49 +131,49 @@ tradicional, en la producción de pares nos volvemos testigos del colapso
 de la dicotomía consumidor/productor hacia una nueva comprensión
 bajo la forma de la "multitud" [@hardt-negri-2001], "prosumidores"
 [@toffler-2006], "produsuarios" [@bruns-2008] o "comunidades de
-innovación de los usuarios" [@hippel-2005].  Además, se ha demostrado
+innovación de los usuarios" [@hippel-2005].  Además, se ha mostrado
 [@benkler-2002; @benkler-2006; @bauwens-2005] cómo la producción de
 pares, dados ciertos recursos, explota óptimamente las capacidades y
 habilidades de los productores al involucrar estructuras de propiedad,
 aprendizaje y toma de decisiones participativas [@fuchs-2013].  Mientras
-que la empresa enlaza por contrato sólo una fracción de las capacidades,
+que la empresa ata por contrato sólo una fracción de las capacidades,
 a las que considera apropiadas para realizar cierto objetivo, en un
 proyecto de pares el motivo emerge cuando el conjunto completo de las
 capacidades accede una cantidad determinada de recursos.  La producción
 de pares alcanza la asignación óptima de recursos al ser un sistema más
-productivo de información que los mercados o las burocracias estatales
+productivo para la información que los mercados o las burocracias estatales
 [@bauwens-2005; @kostakis-2012].
 
 Este artículo comienza con una breve introducción a cómo la
-arquitectura inicial de Internet está siendo distorsionada en un
+arquitectura inicial de Internet está siendo distorsionada hacia un
 formato cliente-servidor tal como es observado en las redes sociales
 administradas por los capitalistas cognitivos de la Web. Entonces,
 abordamos y cuestionamos los argumentos principales en relación a "la
 tragedia de los comunes" y el fenómeno de la producción de pares con
-base en el Común.  ¿Cuál es el rol de los comunes producidos entre
+base en los Comunes.  ¿Cuál es el rol de los Comunes producidos entre
 pares en la acumulación capitalista mientras el potencial emancipatorio
 de las comunidades de pares es neutralizado sin afectar su función
 productiva?  Para responder esta pregunta, discutimos cómo la promesa
 emancipatoria de los Comunes (digitales) y de la producción de pares
 pueden evolucionar hacia una parodia usando el caso del software libre.
-Para atajar la amenaza de la absorción completa de los Comunes así como
-el avasallamiento de las relaciones de pares por el modo de producción
-dominante, concluimos argumentando a favor de una agenda para las
+Para frenar la amenaza de la absorción completa de los Comunes, así como
+de las relaciones de pares subyacentes, por el modo de producción
+dominante, concluimos argumentando a favor de una agenda de trabajo para las
 comunidades basadas en los Comunes.
 
-De la tragedia a la parodia de los comunes
+De la tragedia a la parodia de los Comunes
 ------------------------------------------
 
-Benkler [-@benkler-2006] postula sus asunciones sobre las condiciones
+Benkler [-@benkler-2006] postula sus supuestos sobre las condiciones
 para el desarrollo de la producción de pares, dando por sentada una
 economía general estable.  No toma en cuenta las amenazas que la
 producción de pares enfrentará una vez que se exponga a un ambiente
 económico hostil.  Una pregunta que emerge es por qué el marco
-socioeconómico dominante resistirá la construcción de una esfera de
+socioeconómico dominante se resistiría a la construcción de una esfera de
 los Comunes.  Después de todo, se podría argumentar que es dentro de
 esta esfera que la Internet y muchas otras tecnologías digitales se
 han estado desarrollando.  Nuestra posición es que la declaración
-anterior es parcialmente verdadera:  La emergencia de las tecnologías
+anterior es parcialmente verdadera:  El surgimiento de las tecnologías
 web y de la Internet misma, ha tomado lugar en un marco contradictorio.
 Los intentos fallidos de adopción de las propuestas ACTA/SOPA/PIPA
 que buscan restringir la libertad de los individuos a través de
@@ -181,12 +181,12 @@ la aplicación de estándares de "propiedad intelectual" estrictos;
 los esfuerzos por un régimen regulatorio con una arquitectura de
 transacciones de primera mano (en lugar de aplicarla una vez que
 las transacciones fueron realizadas) [@boyle-1997]; los intentos de
-vigilancia y censura tanto por países autoritarios como liberales; "la
+vigilancia y censura tanto por países autoritarios como liberales; y "la
 tendencia creciente a vincular los problemas de seguridad de Internet
 con las mismas propiedades que la hicieron innovativa y revolucionaria
 en primer lugar" [@mueller-2010, pp. 160], son sólo algunas de las
 razones por las que académicos como Zittrain [-@zittrain-2008] han
-expresado preocupación por que los sistemas digitales podrían retroceder
+expresado preocupación porque los sistemas digitales podrían ser devueltos
 al modelo de dispositivos bloqueados y controlados centralmente como si
 de lectrodomésticos informacionales se tratara.
 
@@ -195,10 +195,10 @@ extremo-a-extremo, ha sido distorsionada hacia un formato
 cliente-servidor donde el servidor tiene autoridad absoluta sobre el
 cliente, que se encuentra desprotegido y con posibilidad de intervención
 limitada [@kempf-austein-2004].  La "adicción" del cliente a asignar
-tareas, que le conciernen a él/ella en primer lugar, por la supuesta
+tareas, que le conciernen a él/ella en primer lugar, a la supuesta
 conveniencia que el servidor ofrecer es un fenómeno observado en las
-redes sociales y los modelos SaaS[^SaaS].  Esto ejemplifica la tendencia
-de la población usuaria a neutralizar y disociarse de problemas
+redes sociales centralizadas y privativas y en los modelos SaaS[^SaaS].  Esto ejemplifica la tendencia
+de la población usuaria a neutralizarse y disociarse de problemas
 importantes para su futuro en y fuera de línea.
 
 [^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
