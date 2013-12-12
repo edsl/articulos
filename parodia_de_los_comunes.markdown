@@ -76,7 +76,7 @@ las formas de producción 'industrial' hegemónicas".
 
 
 A través de varios casos de éxito de proyectos colaborativos en red como
-el Software Libre o Wikipedia, vemos la emergencia de nuevos "espacios
+el software libre o Wikipedia, vemos la emergencia de nuevos "espacios
 de posibilidad tecnológico-ecónomicos" para la práctica social
 [@benkler-2006, pp. 31].  Estos espacios de posibilidad incluyen
 diferentes arreglos sociales y económicos, en contraste con lo que Kumar
@@ -86,7 +86,7 @@ Benkler [-@benkler-2006] ha argumentado que de este nuevo ambiente comunicaciona
 está emergiendo un nuevo modelo social productivo, es
 decir la producción de pares basada en los Comunes, que se diferencia del
 modelo industrial.  La producción de pares, ejemplificada por varios
-proyectos de Software Libre (GNU, el kernel Linux, KDE) y de contenido
+proyectos de software libre (GNU, el kernel Linux, KDE) y de contenido
 libre (Wikipedia) hace al compartir la información más
 importante que el valor de las estrategias propietarias y posibilita
 esfuerzos de producción de información a gran escala [@benkler-2006].
@@ -188,7 +188,7 @@ en primer lugar" [@mueller-2010, pp. 160], son sólo algunas de las
 razones por las que académicos como Zittrain [-@zittrain-2008] han
 expresado preocupación porque los sistemas digitales podrían ser devueltos
 al modelo de dispositivos bloqueados y controlados centralmente como si
-de lectrodomésticos informacionales se tratara.
+de electrodomésticos informacionales se tratara.
 
 La arquitectura P2P inicial de la Internet, basada en el principio de
 extremo-a-extremo, ha sido distorsionada hacia un formato
@@ -196,7 +196,7 @@ cliente-servidor donde el servidor tiene autoridad absoluta sobre el
 cliente, que se encuentra desprotegido y con posibilidad de intervención
 limitada [@kempf-austein-2004].  La "adicción" del cliente a asignar
 tareas, que le conciernen a él/ella en primer lugar, a la supuesta
-conveniencia que el servidor ofrecer es un fenómeno observado en las
+conveniencia que el servidor ofrece, es un fenómeno observado en las
 redes sociales centralizadas y privativas y en los modelos SaaS[^SaaS].  Esto ejemplifica la tendencia
 de la población usuaria a neutralizarse y disociarse de problemas
 importantes para su futuro en y fuera de línea.
@@ -204,7 +204,7 @@ importantes para su futuro en y fuera de línea.
 [^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
          por ejemplo Facebook.
 
-Aun más, en este marco contradictorio observamos matices no sólo en el
+Aun más, en este marco contradictorio observamos cambios sutiles no sólo en el
 diseño institucional concerniente a la Internet sino también en la
 terminología utilizada.  Por ejemplo, el giro de software "libre" a "de
 código abierto".  El término "código abierto" se ha relacionado con
@@ -214,11 +214,11 @@ capacidad técnica del software [@stallman-2012].  Como escribe Stallman
 de software, pero se basan en valores fundamentalmente diferentes.  El
 código abierto es una metodología de desarrollo; el software libre es un
 movimiento social."  El código abierto presupone que el software no
-libre es una solución inferior de un problema práctico dado, mientras
-que el software libre advoca que el software libre "es un problema
+libre es una solución inferior para un problema práctico dado, mientras
+que para los defensores del software libre el software privativo "es un problema
 social" [@stallman-2012].  "Si es el mismo software (o casi) ¿importa
 qué nombre se le de?", pregunta Stallman para responder, "sí, porque
-palabras diferentes conllevan diferentes ideas.  Mientras un programa
+palabras diferentes transmiten diferentes ideas.  Aunque un programa
 libre con cualquier otro nombre te puede dar las mismas libertades hoy,
 establecer la libertad de forma duradera depende sobre todo de enseñar a
 la gente a valorar la libertad."
@@ -227,12 +227,13 @@ Intentamos salir de un análisis estrictamente tecno-económico hacia una
 discusión de los Comunes dentro de un marco socioeconómico turbulento y
 contradictorio.  En otras palabras, ¿cuál es el rol de los Comunes en la
 acumulación capitalista mientras el potencial emancipatorio de las
-comunidades de pares es neutralizada sin afectar su función productiva?
-El sistema capitalista intenta incorporar a las comunidades de pares por
+comunidades de pares es neutralizado sin afectar su función productiva?
+El sistema capitalista razonablemente intenta incorporar a las comunidades de
+pares basadas en los Comunes por
 su rentabilidad ventajosa (trabajo de bajo costo con productos de alta
-calidad).  Decimos entonces que el desarrollo de las relaciones de pares
+calidad).  Argumentamos que el desarrollo de las relaciones de pares
 por sí solo, al situarse en las condiciones socioeconómicas actuales,
-puede tomar lugar temporalmente porque en el largo plazo será socavado
+puede darse sólo temporalmente porque en el largo plazo será socavado
 por medios diseñados para mantener en el poder a las relaciones de
 producción orientadas al lucro.  Llamamos a este proceso de
 transformación "parodia de los Comunes" en relación a lo que Benkler
@@ -241,31 +242,31 @@ transformación "parodia de los Comunes" en relación a lo que Benkler
 En 1968, Garret Hardin introdujo por primera vez el concepto de la
 tragedia de los Comunes en referencia a la degradación de un recurso
 finito al ser utilizado por individuos que actúan independiente y
-racionalmente sobre la base del interés propio.  Si los individuos
-acuerdan asignar una responsabilidad administrativa privada, lo que
+racionalmente basándose en su interés propio.  Si los individuos
+acordaban asignar una responsabilidad administrativa privada, lo que
 implementaría un vallado protectivo alrededor del recurso contra el
 comportamiento "racional" de todos, el recurso estaría a salvo
-[@hardin-1968].  Elinor Ostrom [-@ostrom-1990] minimiza el abordaje de
-Hardin al decir que si aquellos que comparte un recurso determinado
+[@hardin-1968].  Elinor Ostrom [-@ostrom-1990] minimiza el enfoque de
+Hardin al decir que si aquellos que comparten un recurso determinado
 pertenecen a una misma comunidad, entonces adoptarán las soluciones
 óptimas para servir a sus intereses.  En ciertos casos la declaración
 anterior no puede aplicarse, por la falta de confianza entre los
 miembros de la comunidad debido a los altos costos comunicacionales y/o
 por el pequeño beneficio que otorga solucionar el problema.  Sin
-embargo, el criterio que Ostrom [-@ostrom-1990] articula son también
-inmanentes a la definición de Hardin porque en ambos casos se trata de
+embargo, el criterio que Ostrom [-@ostrom-1990] articula es también
+inmanente a la definición de Hardin porque en ambos casos se trata de
 la conducta racional de individuos.  Ostrom [-@ostrom-1990] denota
 correctamente que la sostenibilidad del recurso puede alcanzarse
 mediante la adopción de buenas prácticas sin necesidad de privatización.
-Lo que eluden tanto Hardin como Ostrom es que las buenas prácticas o los
+Lo que se les escapa tanto a Hardin como a Ostrom es que las buenas prácticas o los
 medios técnicos son definidos por aquellos que tienen el poder.  No hay
-casi ninguna posibilidad de implementar medidas que no requieran la
-aplicación de la estructura establecida.  El recurso compartido no se
-privatiza pero el soporte extraeconómico de otros medios privatizados en
+casi ninguna posibilidad de implementar medidas que no impongan
+la estructura establecida.  Puede que el recurso compartido no se
+privatice, pero el soporte extraeconómico de otros medios privatizados en
 la infraestructura del recurso común (por ejemplo las políticas
-amistosas hacia actividades a pesar del plan de negocios) pueden llegar
+amistosas hacia actividades a pesar del plan de negocios) puede llegar
 a erradicarlo gradualmente.  Una vez más, la agenda dominante define
-cuáles medios técnicos pueden ser considerados buenas prácticas.
+si los medios técnicos pueden ser considerados buenas prácticas.
 
 La posición de Hardin [-@hardin-1968] sobre la salvación a través de la
 privatización ha sido proclamada para los bosques.  Si los bosques son
@@ -278,7 +279,7 @@ mantendrá como un bosque.  Hoy en día, la destrucción del medioambiente
 no ocurre porque es un recurso común.  Está sucediendo porque las
 políticas aplicadas son diseñadas para soportar medios de producción
 para la apropiación privada, que explotarán el recurso común
-incondicionalmente.  En este punto los abordajes tanto de Hardin como de
+incondicionalmente.  En este punto los enfoques tanto de Hardin como de
 Ostrom son igualmente inútiles, porque su diferencia está asociada
 solamente a la composición de la mezcla.  Para Hardin, se requiere más
 privatización, mientras que para Ostrom debe ser contenida.
@@ -288,11 +289,11 @@ es tradicionalmente descrita por (i) la ausencia de incentivos, es
 decir, nadie invierte recursos en un proyecto porque no puede ser
 privatizado luego; (ii) la ausencia de liderazgo, es decir nadie posee
 la autoridad apropiada para guiar y realizar tal proyecto.  Lo que
-Benkler dice es esto:  "Asumamos que la proposición de Benkler es
+Benkler dice es esto:  "Asumamos que la proposición de Hardin es
 verdadera: la privatización asegura la sostenibilidad del recurso.
 ¿Pero cómo llegamos ahí?  Por empezar, ¿cuál es nuestro incentivo para
 asumir la propiedad o la administración de un recurso común, si no
-cobramos por su utilización?  Suponiendo que el incentivo ha sido
+cobramos por su utilización?  Y suponiendo que el incentivo ha sido
 encontrado: ¿somos capaces de lograr la sostenibilidad cuando esta
 capacidad es parte de la inteligencia colectiva?"  La dificultad para
 alcanzar ambas condiciones significa que hay una inadecuación para
@@ -310,16 +311,16 @@ tanto no toman partido hacia la "perfidia" de las patentes [@peren-1999;
 @gnu-2013; @fitzgerald-2006].  De esta forma el software pierde su
 componente de libertad y su calidad se vuelve cuestionable, ya que
 la distribución de los cambios en el código depende de la posición
-personal de un _entrepeneur_ que los puede empaquetar bajo términos
-restrictivos.  Es decir, el programador o el _entrepeneur_ pueden
-cambiar de una licencia permisiva a un acuerdo de usuario final (EULA
-en inglés).  Además, la producción cambia hacia los términos en los
+personal de un emprendedor que los puede empaquetar bajo términos
+restrictivos.  Es decir, el programador o el emprendedor pueden
+cambiar de una licencia permisiva a un Acuerdo de Licenciamiento para Usuario
+Final[^NdT1].  Además, la producción cambia hacia los términos en los
 que el software no libre, propietario, es producido.  Por lo tanto la
 comunidad de software experimenta una mayor presión y los derechos del
 usuario final son eventualmente reducidos.  En otras palabras, las
-licencias permisivas pueden llevar a una "tragedia" antes que a una
-"parodia de los Comunes" por la promesa emancipatoria del Software
-Libre.  En tal escenario la maximización de la libertad individual
+licencias permisivas de software libre pueden llevar a una "tragedia", o mejor
+dicho, a una "parodia de los Comunes" por la promesa supuestamente emancipatoria del software
+libre.  En tal escenario la maximización de la libertad individual
 contra las necesidades sociales tendría consecuencias totales aun
 peores que la aplicación de regulaciones que maximicen la libertad
 social en su lugar.  Podría decirse que el código abunda, en tanto bien
@@ -327,21 +328,23 @@ informacional con costos marginales tendientes a cero; sin embargo
 necesita mejoras y mantenimiento, es decir, horas de trabajo.  Por lo
 tanto, al invertir horas de trabajo libres en un proyecto sin salida,
 las licencias permisivas pueden provocar una parodia de los Comunes,
-al desacelerar el paso de la adopción general del software libre.  En
-contraste las licencias copyleft (como la Licencia Pública General, GPL)
+al desacelerar en general el ritmo de adopción del software libre.  En
+contraste, las licencias copyleft (como la Licencia Pública General, GPL)
 garantizan a los usuarios finales las libertades de usar, estudiar,
 compartir (copiar) y modificar el software.  El copyleft es un método de
 producción social tanto como un proceso de compartición de conocimiento,
-que vuelve un programa o cualquier trabajo en libre y requiere que todas
+que hace libre a un programa o cualquier trabajo y requiere que todas
 las modificaciones y versiones extendidas también lo sean [@gnu-2012].
-De ahí que las licencias copyleft definan las relaciones entre los
-miembros de las comunidades de software y les permitan crear ecologías
+Entonces las licencias copyleft definen las relaciones entre los
+miembros de las comunidades de software y en ese sentido crean ecologías
 por fuera o más bien en los intersticios del mercado capitalista.  Para
 que no haya malentendidos, necesitamos clarificar el significado de
 "software libre".  Lo "libre" en el software libre, a diferencia de lo
-"libre" en trabajo libre, no significa gratis.  El Software Libre se
+"libre" en trabajo libre, no significa gratis.  El software libre se
 define por cuatro libertades que el usuario tiene para usar, estudiar,
 compartir copias y compartir versiones modificadas del software.
+
+[^NdT1]: EULA en inglés
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -351,30 +354,30 @@ privatización en el manejo de los recursos comunes que se realiza ya sea
 por la asignación de la propiedad a individuos o por interferencia de la
 regulación estatal, cuando el capital es la fuerza prevaleciente así
 como la apropiación de los resultados financieros.  Ambas rutas
-descansan en la asunción de propiedad sobre mejores _pools_
-informacionales, a los que se contraponen los desarrollos actuales de
+descansan en la suposición de poseer mejor acumulación de
+información, que es desafiada por los desarrollos actuales de
 las sociedades liberal-democráticas.  Si la producción de pares basada
 en los Comunes no se convierte en el modo de producción dominante, las
 condiciones para una tragedia estarán dadas y la promesa emancipatoria
 de los Comunes quedará destrozada.  Puede decirse que las políticas de
-Estado deben ser consideradas como un parámetro.  Decimos que la
-intervención estatal --cuando legisla reforzando o facilitando medidas--
+Estado deben ser consideradas como un parámetro.  Argumentamos que la
+intervención estatal --cuando legisla imponiendo o facilitando medidas--
 aplica el esquema de Hardin por otras rutas.  El Estado percibe como
 "público" todos los bienes y recursos de valor e interviene
 introduciendo regulaciones por el "bien común".
 
-No obstante, esta intervención es una ataque a la esfera pública que
+No obstante, esta intervención es una ataque a la esfera pública y
 subvierte las comunidades.  Si una comunidad comienza a crecer, aparecen
 inspectores desde arriba para definir especificaciones, procedimientos y
 límites financieros que configuran la dirección futura del recurso
-común.  Además alienan los intereses inmediatos de aquellos que ahora
-deben obedecer reglas impuestas por cuerpos irrelevantes a las
+común.  Además ignoran los intereses inmediatos de aquellos que ahora
+deben obedecer reglas impuestas por entidades irrelevantes para las
 necesidades locales.  La idea base que se origina del principio de la
 racionalidad limitada es que la regulación no puede detener el abuso y
-eventualmente el agotamiento de los Comunes.  Este abordaje no indica
-que el Estado es incapaz por naturaleza o por su tamaño.  Las políticas
-estatales son, la mayor parte del tiempo, lo que son por compromisos y
-facilidades que el sistema política hace al sector financiero.
+eventualmente el agotamiento de los Comunes ocurre.  Este enfoque no adopta
+la posición de que el Estado es incapaz por naturaleza o por su tamaño.  Las políticas
+estatales son lo que son, la mayor parte del tiempo, por compromisos y
+facilidades que el sistema político hace al sector financiero.
 
 Definimos dos características principales en la parodia de los Comunes.
 La primera es la integración institucional, es decir la absorción del
@@ -556,7 +559,7 @@ ciertos proyectos de pares basados en los Comunes da una oportunidad a
 medios extraeconómicos de tomar ventaja de la inercia de las comunidades
 creativas.
 
-¿La parodia del Software Libre?
+¿La parodia del software libre?
 -------------------------------
 
 Para el sistema económico la acumulación de los medios de producción
@@ -566,7 +569,7 @@ y otros dispositivos digitales y la capacidad técnica de usarlos como
 medios de producción está al alcance de la mayoría.  La propiedad
 privada de los medios de producción en este sector económico es por
 priemra vez universal y la cantidad de medios que la gente posee
-influencia decisivamente su potencial.  Hoy en día, el Software Libre,
+influencia decisivamente su potencial.  Hoy en día, el software libre,
 por su excelencia técnica, es ampliamente utilizado por organizaciones
 que compiten contra la filosofía y la práctica de las comunidades
 de pares.  Una de las causas es la división de la comunidad de
@@ -587,7 +590,7 @@ respecto a problemas sociales urgentes.  Incluso la aplicación de
 políticas ampliamente consensuadas está destinada al fracaso si la
 infraestructura técnica no toma en cuenta los problemas sociales
 inmediatos.  Pueden observarse dos graves consecuencias de la división
-de la comunidad.  Los abordajes cercanos al "código abierto" son
+de la comunidad.  Los enfoques cercanos al "código abierto" son
 antipedagógicos debido a su neutralidad axiológica, por lo que no pueden
 ser promovidos como material educativo, mientras que la fricción con el
 software libre no ofrece a los docentes una dirección clara.  Entonces
