@@ -225,7 +225,7 @@ preguntarnos a nosotros mismos si los hackers de origen inmigrante de Turquía o
 los estados del norte de África están representados en números que uno puede
 esperar de su porcentaje de la población. O, simplemente, contar con la
 representación de la mujer y ver si tienen el 50% de los miembros.
- 
+
 Por lo tanto, nos encontramos con que los hackerspaces de hoy están excluyendo
 una gran cantidad de grupos étnicos y sociales que no parecen encajar o tal vez
 se sienten así, y tienen miedo por el dominio del hombre blanco nerd, sus (tal
