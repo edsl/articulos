@@ -1,0 +1,354 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+3.4 Placing P2P in an intersubjective typology
+==============================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**3.4 Placing P2P in an intersubjective typology**
+
+**3.4.A. P2P, The Gift Economy and Communal Shareholding**
+
+[3.4.B. P2P and the Market][]
+
+[3.4.C. P2P and the Commons][]
+
+**3.4.A. P2P, The Gift Economy and Communal Shareholding**
+
+In my opinion, there is a profound misconception regarding peer to peer,
+expressed by the various authors who call it a gift economy, such as
+Richard Barbrook (Barbrook, 1995), or Steven Weber (Weber, 2004). But,
+as Stephan Merten of Oekonux.de has already argued, P2P production
+methods are not a gift economy based on equal sharing, but a form of
+communal shareholding based on participation. In a gift economy if you
+give something, the receiving party has to return if not the gift, then
+something of at least comparable value (in fact the original tribal gift
+economy was more about creating relationships and obligations and a
+means to evacuate excess, since they did not need it for their basic
+survival needs ). In a participative system such as communal
+shareholding, organized around a common resource, anyone can use or
+contribute according to his need and inclinations.
+
+Let me give a context to this claim by introducing the typology of
+intersubjective relations, as defined by anthropologist Alan Page Fiske
+(Fiske, 1993). There are he says, historically and across all cultures,
+only four basic types of relating to one another, which form a grammar
+of human relationships, these are Authority Ranking, Equality Matching,
+Market Pricing, and Communal Shareholding. From the following
+description, one can deduce that P2P does not correspond to Equality
+Matching, which is the principle behind a gift economy, but to Communal
+Shareholding.
+
+“People use just four fundamental models for organizing most aspects of
+sociality most of the time in all cultures . These models are Communal
+Sharing, Authority Ranking, Equality Matching, and Market Pricing.
+Communal Sharing (CS) is a relationship in which people treat some dyad
+or group as equivalent and undifferentiated with respect to the social
+domain in question. Examples are people using a commons (CS with respect
+to utilization of the particular resource), people intensely in love (CS
+with respect to their social selves), people who "ask not for whom the
+bell tolls, for it tolls for thee" (CS with respect to shared suffering
+and common well-being), or people who kill any member of an enemy group
+indiscriminately in retaliation for an attack (CS with respect to
+collective responsibility). In Authority Ranking (AR) people have
+asymmetric positions in a linear hierarchy in which subordinates defer,
+respect, and (perhaps) obey, while superiors take precedence and take
+pastoral responsibility for subordinates. Examples are military
+hierarchies (AR in decisions, control, and many other matters), ancestor
+worship (AR in offerings of filial piety and expectations of protection
+and enforcement of norms), monotheistic religious moralities (AR for the
+definition of right and wrong by commandments or will of God), social
+status systems such as class or ethnic rankings (AR with respect to
+social value of identities), and rankings such as sports team standings
+(AR with respect to prestige). AR relationships are based on perceptions
+of legitimate asymmetries, not coercive power; they are not inherently
+exploitative (although they may involve power or cause harm).
+
+In Equality Matching relationships people keep track of the balance or
+difference among participants and know what would be required to restore
+balance. Common manifestations are turn-taking, one-person one-vote
+elections, equal share distributions, and vengeance based on
+an-eye-for-an-eye, a-tooth-for-a-tooth. Examples include sports and
+games (EM with respect to the rules, procedures, equipment and terrain),
+baby-sitting coops (EM with respect to the exchange of child care), and
+restitution in-kind (EM with respect to righting a wrong). Market
+Pricing relationships are oriented to socially meaningful ratios or
+rates such as prices, wages, interest, rents, tithes, or cost-benefit
+analyses. Money need not be the medium, and MP relationships need not be
+selfish, competitive, maximizing, or materialistic—any of the four
+models may exhibit any of these features. MP relationships are not
+necessarily individualistic; a family may be the CS or AR unit running a
+business that operates in an MP mode with respect to other enterprises.
+Examples are property that can be bought, sold, or treated as investment
+capital (land or objects as MP), marriages organized contractually or
+implicitly in terms of costs and benefits to the partners, prostitution
+(sex as MP), bureaucratic cost-effectiveness standards (resource
+allocation as MP), utilitarian judgments about the greatest good for the
+greatest number, or standards of equity in judging entitlements in
+proportion to contributions (two forms of morality as MP),
+considerations of "spending time" efficiently, and estimates of expected
+kill ratios (aggression as MP). “ (source: Fiske website)
+
+From the above description, it should be clear that the tribal gift
+economy is a form of sharing, based on ‘equal’ parts, according to a
+specific criteria of ‘what it is that functions as common standard for
+comparison’. Thus in the tribal economy, when a clan or tribe (or the
+members of such) gives away its surplus, the recipient group or
+individual is forced to eventually give back, say the next year, at
+least as much, or they will loose relative prestige. What such a gift
+economy does however is create a community of obligations and
+reciprocity, unlike the market-based mechanisms, where 'equal is traded
+with equal', and every transaction stands alone.
+
+Similarly, in the feudal social redistribution mechanism, the rich and
+powerful compete in the gift giving to Church or Sangha, as a matter of
+prestige. In this case, what they receive back is not other material
+gifts, but, on the one hand social prestige, and on the other hand, the
+immaterial benefits of 'better karma' ('merit' in S.E. Asian Buddhism),
+or being closer to salvation (in the form of indulgences in medieval
+Christianity). In the gift economy, "something" is always being
+exchanged
+
+This is not the mechanism that operates in the sphere of knowledge
+exchange on the internet. In open source production, filesharing, or
+knowledge exchange communities, I freely contribute, what I can, what I
+want, without obligation; on the recipient side, one simply takes what
+one needs. It is common for any web-based project to have let’s say 10%
+active contributing members, and 90% passive lurkers. This can be an
+annoyance, but is never a ‘fundamental problem’, for the very reason
+that P2P operates in a sphere of abundance, where a tragedy of the
+commons, an abuse of common property, cannot occur, or at least, not in
+the classical sense. In the concept of Tragedy of the Commons , communal
+holdings are depleted and abused, because they belong to no one and also
+because physical goods are limited 'rival' goods, they can be taken
+away. The conflict is between the collective interest for preserving the
+Commons, and the individual incentive to abuse it for one's own personal
+benefit. We should note how this theory is based on a 'unregulated'
+Commons, leaving it without defense against individual predation, and it
+is therefore misleading as a general theory of the Commons.
+
+But in the Information Commons created through P2P processes, the value
+of the collective knowledge base is not diminished by use, but on the
+contrary enhanced by it: it is governed, in John Frow's words, by a
+Comedy of the Commons, or using a similar metaphor, producing a
+Cornucopia of the Commons. This is so because of the network effect,
+which makes resources more valuable the more they are used. Think about
+the example of the fax, which was relatively useless until a critical
+mass of users was reached. And the goods are immaterial, and thus
+'non-rival', which means that they can be replicated or replenished
+without cost , they cannot be monopolized (unless by law and licenses,
+hence the intellectual property wars). It is when these 'network
+externalities' are at play, that the Commons form seems to be the most
+appropriate, functioning better than with individual private property.
+From the point of view of the individual users themselves, who act in
+their own interest, what P2P systems do is to mobilize what the
+economists call ‘positive externalities’ . These are benefits generated
+by user resources or behaviour, which are lost if they are not used by
+others or a collective, but do not generate negative side effect for the
+user either.
+
+What the better P2P systems do is to make such participation, such
+sharing of positive externalities, ‘automatic’, so that even passive use
+becomes useful participation for the system as a whole. Think of how
+BitTorrent makes any user who downloads a resource, in his/her turn a
+resource for others to use, unbeknownst and independent of any conscious
+action of the user . Say I have a team working on a software project,
+and it creates a special email system to communicate around development
+issues. This communication is considered a common resource and archived,
+and thus, without any conscious effort of the participating members,
+automatically augments the common resource base. One of the key elements
+in the success of P2P projects, and the key to overcoming any ‘free
+rider’ problem, is therefore to develop technologies of “Participation
+Capture" (see the endnote on how my concept differs from both panoptical
+surveillance and 'sousveillance' ).
+
+There are of course new social problems arising with P2P, some of which
+we do not know yet, and some, already occurring, which are related to
+the quality of social behavior, but interestingly, these problems are
+tackled through the collective as well. For example, Clay Shirky, one of
+the most astute observers of the new social networking sphere, has
+observed how 'flaming', which can be a serious problem in mailing lists,
+has been seriously attenuated by blogs and wiki's, through a focus on
+'social design' . Shirky shows how the design, the protocols in
+Galloway's view, have to move away from a focus on the personal user
+facing a box, towards a recognition of the social usage of these
+technologies.
+
+The social logic of information and resource sharing is a cultural
+reversal vis a vis the information retention logic of hierarchical
+social systems. Participation is assumed, and non-participation has to
+be justified. Information sharing, the public good status of your
+information, is assumed, and it is secrecy which has to be justified.
+
+So what people are doing in P2P systems, is participating, and doing so
+they are creating a ‘commons’. Unlike traditional Communal Shareholding,
+which starts from already existing physical resources, in peer to peer,
+the knowledge commons is created through participation, and does not
+exist ‘ex ante’.
+
+All of the above argumentation leads to the conclusion that P2P is not a
+Equality Matching model (and not a Market Pricing Model), but Communal
+Shareholding. These arguments have an ideological subtext. The reason I
+am stressing this analysis is to counter neoliberal dogma that humans
+are only motivated by greed. Saying that P2P is a gift economy requires
+a strict accounting of the exchange. Or saying that such participation
+is motivated by the quest for reputation only, or that it is a game to
+obtain attention, corresponds to this same ideology which cannot accept
+that humans also have a ‘cooperative’ nature, and that it can thrive in
+the right conditions. Our aim is not to deny that humans have these
+characteristics, but only to point out that cooperation and altruism are
+just as constitutive of who we are, and given the right institutional
+conditions and moral development, the latter rather than the former can
+be enhanced. There is no need to 'reduce' the characteristics in a
+one-sided manner, but rather to recognize the subtle richness and
+combinations of who we are, and to develop the right kind of
+institutions and knowledge (such as the new field of cooperation
+studies) to strengthen the latter's potentialities.
+
+Though the early traditional gift economy was spiritually motivated and
+experienced as a set of obligations, which created reciprocity and
+relationships, involving honor and allegiance (as explained by Marcel
+Mauss in the Gift), since gifts were nevertheless made in a context of
+obligatory return, it involved a kind of thinking that is quite
+different from the gratuity that is characteristic of P2P: giving to a
+P2P project is explicitly not done for an 'certain' and individual
+return of the gift, but for the use value, for the learning involved,
+for reputational benefits perhaps, but only indirectly.
+
+The above does not mean that P2P is unrelated to the contemporary
+revival of gift economy applications. Local Exchange Trading Systems,
+which are springing up in many places, are forms of Equality Matching,
+and, from an 'egalitarian' point of view, they may be preferable to
+Market Pricing mechanisms, since for them, any hour of labor has an
+equal value. Both P2P as ‘Communal Shareholding’, and contemporary
+expressions of the gift economy ethos, are part of the same ‘spirit’ of
+‘gifting’, or of free cooperation. Substantial numbers of participants
+to P2P projects freely give, as do participants in LETS systems and
+other schemes. The difference is in the expectation that they will
+receive something specific and of equal value in return.
+
+But what P2P technologies do is that they enable the creation of
+information-rich exchanges with dramatically lower transactional costs,
+thereby enabling gift economy applications, what Yochai Benkler calls a
+'sharing economy', as well as numerous P2P-based market exchanges, which
+were not economical before. P2P is therefore conducive to a support of
+the growth of a gift economy based on its technology, while gifting and
+sharing practices are strengthened by the P2P ethos as well.
+
+Retrieved from
+"[?title=3.4\_Placing\_P2P\_in\_an\_intersubjective\_typology&oldid=17138][]"
+
+-   This page was last modified on 9 December 2007, at 15:41.
+-   This page has been accessed 2,149 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /3.4_Placing_P2P_in_an_intersubjective_typology
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:3.4_Placing_P2P_in_an_intersubjective_typology&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /3.4_Placing_P2P_in_an_intersubjective_typology
+  [View source]: ?title=3.4_Placing_P2P_in_an_intersubjective_typology&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=3.4_Placing_P2P_in_an_intersubjective_typology&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=3.4+Placing+P2P+in+an+intersubjective+typology
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/3.4_Placing_P2P_in_an_intersubjective_typology
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/3.4_Placing_P2P_in_an_intersubjective_typology
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=3.4_Placing_P2P_in_an_intersubjective_typology&printable=yes
+  [Permanent link]: ?title=3.4_Placing_P2P_in_an_intersubjective_typology&oldid=17138
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [3.4.B. P2P and the Market]: /3.4.B._P2P_and_the_Market
+    "3.4.B. P2P and the Market"
+  [3.4.C. P2P and the Commons]: /3.4.C._P2P_and_the_Commons
+    "3.4.C. P2P and the Commons"
+  [?title=3.4\_Placing\_P2P\_in\_an\_intersubjective\_typology&oldid=17138]:
+    ?title=3.4_Placing_P2P_in_an_intersubjective_typology&oldid=17138
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

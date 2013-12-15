@@ -1,0 +1,208 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.2.A. De-Monopolization of Power
+=================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.2.A. De-Monopolization of Power**
+
+How to explain the emergence of such P2P networks in the political
+field?
+
+It reflects new cultural values, the desire that authority grows from
+engagement and expertise, and that it is temporary to the task at hand.
+It reflects the refusal to give away autonomy, i.e. the rejection of the
+transcendence of power as defined by Toni Negri. It reflects the desire
+for self-unfolding of creative potential.
+
+Networks are incredibly efficient: they can operate globally in
+real-time, react and mobilize around events in the very short term, and
+offers access to alternative civic information that has not been
+massaged by corporate-owned mega-media. In a political network
+configuration, the participating individual retains his full autonomy.
+
+Politically, P2P processes reflect a de-monopolization of power. Power,
+in the form of reputation that generates influence, is given by the
+community, is time-bound to the participation of the individual (when he
+no longer participates, influence declines again), and can thus be taken
+back by the participating individuals. In the case where monopolization
+should occur, participants simply leave or create a ‘forking’ of the
+project, a new path is formed to avoid the power grab .
+
+There is an important counter-trend however, and it concerns the
+scarcity of attention. Because our time and attention are indeed scarce
+in a context of information abundance, mediating portals are created,
+who collate and digest this mass of information. Think about Yahoo,
+Google, Amazon, eBay who exemplify the process of monopolization in the
+‘attention economy’. But the user community is not without power to
+affect these processes: collective reaction through opinion storms are
+activated by abusive monopolistic behavior, and can quickly damage the
+reputation of the perpetrator, thereby forcing a change in behavior in
+the monopolistic ambitions. Competing resources are almost always
+available, or can be built by the open source community. But more
+fundamentally, the blogosphere practice shows that it is possible to
+route around such problems, by creating mediating processes using the
+community as a whole. Thus techniques such as folksonomies, i.e.
+communal tagging, or reputation ranking, such as the ‘Karma’ points used
+by the Slashdot community, avoid the emergence of autonomous mediating
+agents. The blogosphere itself, in the form of the Technorati ranking
+system for example, has found ways to calculate the interlinking done by
+countless individuals, thereby enabling itself to filter out the most
+used contributions. Again, monopolization is excluded. What is the
+mechanism behind this?
+
+For this we have to turn again to the concept of
+non-representationality, or what Negri calls immanence. In modernity,
+the concept is that autonomous individuals cannot create a peaceful
+order, and therefore they defer their power to a sovereign, whether it
+be the king of the nation. In becoming a people, they become a
+‘collective individual’. They loose out as individuals, while the
+unified people or nation behaves ‘as if’ it was an individual, i.e. with
+ambition for power. It is ‘transcendent’ vis a vis its parts. In
+non-representationality however, nothing of the sort is given away. This
+means that the collective hereby created, is not a ‘collective
+individual’, it cannot act with ambition apart from its members. The
+genius of the protocols devised in peer to peer initiatives, is that
+they avoid the creation of a collective individual with agency. Instead,
+it is the communion of the collective which filters value. The ethical
+implication is important as well. Not having given anything up of their
+full power, the participants in fact voluntarily take up the concern not
+only for the whole in terms of the project, but for the social field in
+which its operates.
+
+Anticipating our ‘evolutionary’ remarks in section 4.3, we can see the
+above examples as illustrating the new form of protocollary power, which
+is becoming all-important in a network. The very manner in which we
+devise our social technologies, implies possible and likely social
+relationships. The protocols of the blogosphere enable the economy of
+attention to operate, not through individual actors that can become
+monopolistic, but by protocols that enable communal filtering. But when
+used by private firms such as Yahoo and Google, they may have a vested
+interest in skewing the protocol and the objectivity of the algorithms
+used. In the blogosphere, protocols are also important since they imply
+a vision: should everyone be able to judge, and in that case, would that
+not lead to a lowest common denominator, or should equipotency be
+defined in such a way that a certain level of expertise is required, to
+allow higher quality entries to be filtered upwards?
+
+Retrieved from
+"[?title=4.2.A.\_De-Monopolization\_of\_Power&oldid=57018][]"
+
+[Categories][]:
+
+-   [P2P Hierarchy Theory][]
+-   [P2P Theory][]
+
+-   This page was last modified on 26 December 2011, at 00:13.
+-   This page has been accessed 1,526 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.2.A._De-Monopolization_of_Power "View the content page [c]"
+  [Discussion]: ?title=Talk:4.2.A._De-Monopolization_of_Power&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.2.A._De-Monopolization_of_Power
+  [View source]: ?title=4.2.A._De-Monopolization_of_Power&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.2.A._De-Monopolization_of_Power&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.2.A.+De-Monopolization+of+Power
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.2.A._De-Monopolization_of_Power
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.2.A._De-Monopolization_of_Power
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.2.A._De-Monopolization_of_Power&printable=yes
+  [Permanent link]: ?title=4.2.A._De-Monopolization_of_Power&oldid=57018
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.2.A.\_De-Monopolization\_of\_Power&oldid=57018]: ?title=4.2.A._De-Monopolization_of_Power&oldid=57018
+  [Categories]: /Special:Categories "Special:Categories"
+  [P2P Hierarchy Theory]: /Category:P2P_Hierarchy_Theory
+    "Category:P2P Hierarchy Theory"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

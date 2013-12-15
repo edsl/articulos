@@ -1,0 +1,184 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+2.3.A. Placing P2P in the context of the evolution of technology
+================================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**2.3.A. Placing P2P in the context of the evolution of technology**
+
+Premodern technology was participative, and not as differentiated and
+autonomous. The instruments of artisans were extensions of their bodies,
+with which they ‘cooperated’. The social lifeworld, was not yet as
+differentiated into different spheres or into subject/object
+distinctions, since they saw themselves, not as much as separate and
+autonomous individuals, but much more as parts of a whole, following the
+dictates of the whole (holism), moving in a world dominated by spirits,
+the spirits of men (the ancestors), of the natural world, and of the
+objects they used. (Dumont, 1981).
+
+Modern technology could be said to be differentiated (division of
+labour, differentiation of social fields, relative autonomy of
+technological evolution), but is no longer participative. The
+subject-object dichotomy means that nature becomes a resource to be used
+(objects used by subjects). But the object, the technological
+instrument, also becomes autonomous, and in the factory system typical
+of modernity, a dramatic reversal takes place: it is the human who
+becomes a ‘dumb’ extension of the machine. The intelligence is not so
+much located in the machine, but in the organization of the production,
+of which both humans and machines are mere cogs. Modern machines are not
+by itself intelligent, and are organized in hierarchical frameworks.
+Modern humans think themselves as autonomous agents using objects, but
+become themselves objects of the systems of their own creation. This is
+the drama of modernity, the key to its alienation.
+
+In post-modernity, machines become intelligent (though not in the same
+way as humans, they can only use the intelligence put in them by the
+humans, and so far lack the creative innovation, problem-solving and
+decision-making capabilities). While the old paradigm of humans as
+objects in a system certainly persists, a new paradigm is being born.
+The intelligent machines become computers, extensions now of the human
+brain and nervous system (instead of being extensions of the external
+limbs and internal functions of the body in the industrial system).
+Humans again start cooperating with the computers, seen as extensions of
+their selves, their memories, their logical processes, but also and this
+is crucial: it enables affective communication amongst a much wider
+global community of humans. Of course, within the context of cognitive
+capitalism (defined as the third phase of capitalism where immaterial
+processes are more important than the material production; where
+information ‘as property’ becomes the key asset), all this still
+operates in a wider context of exploitation and domination, but the
+potential is there for a new model which allies both differentiation
+(the autonomous individual retains his freedom and prerogatives), and
+participation. Within the information paradigm, the world of matter
+(nanotech), life (biotech) and mind (AI) are reduced to their
+informational basis, which can be manipulated, and this opens up
+nightmarish possibilities of the extension of the resource-manipulation
+paradigm, now involving our very own bodies and psyches. However,
+because of the equally important paradigm of participation, the
+possibility arises of a totally new, subjective-objective, cooperative
+way of looking at this, and this is an element of hope.
+
+According to the reworking of Foucault's insights by Deleuze and
+Guattari, there is a clear connection between the type of society and
+the type of technology that is dominant. Simple mechanistical machines
+were dominant in the classical period of modernity, the period of
+sovereignity (18th cy.); thermodynamic systems became dominant in the
+19th cy, inaugurating disciplinary societies; finally Deleuze dates the
+advent of control societies, to the advent of cybernetic machines and
+computers. Our sections on the evolution of power will detail this
+aspect of the evolution of technology.
+
+Retrieved from
+"[?title=2.3.A.\_Placing\_P2P\_in\_the\_context\_of\_the\_evolution\_of\_technology&oldid=1126][]"
+
+-   This page was last modified on 4 October 2005, at 11:42.
+-   This page has been accessed 1,114 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology
+  [View source]: ?title=2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=2.3.A.+Placing+P2P+in+the+context+of+the+evolution+of+technology
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&printable=yes
+  [Permanent link]: ?title=2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&oldid=1126
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=2.3.A.\_Placing\_P2P\_in\_the\_context\_of\_the\_evolution\_of\_technology&oldid=1126]:
+    ?title=2.3.A._Placing_P2P_in_the_context_of_the_evolution_of_technology&oldid=1126
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

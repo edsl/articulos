@@ -1,0 +1,222 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+3.1.C. The Hacker Ethic or ‘work as play’
+=========================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**3.1.C. The Hacker Ethic or ‘work as play’**
+
+In section 3.2 we will attempt to show the contradictory nature of the
+relationship between capitalism and peer to peer processes. It needs P2P
+to thrive, but is at the same threatened by it. A similar contradiction
+takes place in the sphere of work. We said before how in the industrial,
+‘Fordist’ model, the worker was considered an extension of the machine.
+Another way of saying this, is that intelligence was located in the
+process, but that the worker himself was deskilled, he was required to
+be a ‘dumb body’, following instructions. The worker had to sell his
+labor in order to survive, and meaning could only be found in the
+activity of working itself, as a means of survival for the family, as a
+way of social integration, as a means of obtaining identity through
+one’s social role. But finding meaning in the content of the work itself
+was exceptional. In post-Fordism important changes and reversals occur .
+Today, the worker is supposed to communicate and cooperate, to have a
+capacity to solve problems. He is required not only to use his
+intelligence, but also has to engage his full subjectivity. Certainly
+this increases the possibility to find fulfillment and meaning through
+work, but that would be to paint a too rosy picture. Inside the company,
+the quest for fulfillment is often contradicted by the empty purpose of
+the company itself, especially as efficiency thinking, short termism and
+a sole focus on profit, are taking hold as the main priorities . Peer to
+peer processes characteristic of the project teams are in tension with
+the hierarchical, feudal-like nature of the management by objectives
+models , whose 'information scarcity'-based model is becoming
+counterproductive even on capital's own terms . Psychological pressure
+and stress levels are very high, since the worker has now full
+responsibility and very high targets. One could say that instead of
+exploiting the body of the worker, as was the case in industrial
+capitalism, it is now the psyche being exploited, and stress-related
+diseases have replaced industrial accidents. But this is not all: the
+productivity model and modes of efficiency thinking have left the
+factory to diffuse throughout society. It is not uncommon to manage
+one’s family and children and household according to that model.
+Dual-career parents come home tired and stressed to children that have
+spent their day time in institutions since their very early age and have
+little occasion to spend 'quality time' together; and are managed (or
+manage themselves) like 'human resources' in a very competitive
+environment. An increasing number of human relations (such as dating)
+and creative activities have been commoditized and monetized. As the
+pressure within the corporate time sphere intensifies through the hyper
+competition based model of neoliberalism, learning and other necessary
+activities to remain creative and efficient at work have been exported
+to private time. Thus paradoxically, the Protestant work ethic has been
+exacerbated, or as Pekka Himanen (Himanen,2001) would have it in his
+Hacker Ethic , there has been a ‘Friday-isation of Sunday’ going on. In
+other words, the values and practices of the productive sphere, the
+sphere of the workweek including Friday, defined by efficiency, have
+taken over the private sphere, the sphere of the weekend, Sunday, which
+was supposed to be outside of that logic. But even within the corporate
+sphere itself, these developments have lead to a widespread
+dissatisfaction of the workforce. Interesting work is being done in
+investigating the new forms of network sociality, as for example by
+Andreas Wittel, but he also writes that this form of sociality, which he
+contrasts with community , is geared to the creation and protection of
+proprietary information. This is in sharp contrast with the Peer to Peer
+sociality, and thus, focuses on the exacerbation of the Protestant work
+ethic, and its cultural effects, rather than on the reaction against it.
+Similarly, Pekka Himanen will not distinguish between the entrepreneurs
+and the knowledge workers.
+
+And this is precisely the important hypothesis of a Peer to Peer
+sociality: new subjectivities and intersubjectivities (which we will
+discuss later), are creating a counter-movement in the form of a new
+work ethic: the hacker ethic (see also Kane, 2003). As mass
+intellectuality increases through formal and informal education, and due
+to the very requirements of the new types of immaterial work, meaning is
+no longer sought in the sphere of salaried work, but in life generally,
+and not through entertainment alone, but through creative expression,
+through ‘work’, but outside of the monetary sphere. Occasionally, and it
+was especially the case during the new economy boom, companies try to
+integrate such methods, the so-called ‘Bohemian’ model. This explains to
+a large part the rise of the Open Sources production method. In the
+interstices of the system, between jobs, on the job when there is free
+time, in academic circles, or supported by social welfare, new use value
+is being created. Or more recently, by rival IT companies who are
+understanding the efficiency of the model and seeing it as a way to
+break the monopoly of Microsoft software. But it is done through a
+totally new work ethic, which is opposed to the exacerbation of the
+Protestant work ethic. And as it was first pioneered by the community of
+‘passionate programmers, the so-called hackers, it is called ‘the hacker
+ethic’. Himanen (Himanen, 2004) explains a few of its characteristics :
+
+\
+ - "*time is not rigidly separated into work and non-work; intensive
+work periods are followed by extensive leave taking, the latter
+necessary for intellectual and creative renewal; there is a logic of
+self-unfolding at work, workers look for projects at which they feel
+energized and that expands their learning and experience in desired
+directions; participation is voluntary; learning is informal and
+continuous; the value of pleasure and play are crucial; the project has
+to have social value and be of use to a wider community; there is total
+transparency, no secrets; there is an ethic that values activity and
+caring; creativity, the continuous surpassing of oneself in solving
+problems and creating new use value, is paramount*"
+
+\
+ In open source projects, these characteristics are fully present; in a
+for-profit environment they may be partly present but enter into
+conflict with the different logic of a for-profit enterprise.
+
+Retrieved from
+"[?title=3.1.C.\_The\_Hacker\_Ethic\_or\_%E2%80%98work\_as\_play%E2%80%99&oldid=1130][]"
+
+-   This page was last modified on 5 October 2005, at 03:10.
+-   This page has been accessed 1,355 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99
+  [View source]: ?title=3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=3.1.C.+The+Hacker+Ethic+or+%E2%80%98work+as+play%E2%80%99
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&printable=yes
+  [Permanent link]: ?title=3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&oldid=1130
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=3.1.C.\_The\_Hacker\_Ethic\_or\_%E2%80%98work\_as\_play%E2%80%99&oldid=1130]:
+    ?title=3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99&oldid=1130
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

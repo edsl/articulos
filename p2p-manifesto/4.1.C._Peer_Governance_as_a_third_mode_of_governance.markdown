@@ -1,0 +1,328 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.1.C. Peer Governance as a third mode of governance
+====================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.1.C. Peer Governance as a third mode of governance**
+
+In 3.4.A, we have used the typology of intersubjective relations by Alan
+Page Fiske. Two points are important here: First, no society or
+civilization can survive through reliance on any one mode, they have
+always co-existed. But we can also see that the different modes of
+civilization are dominated by one particular mode, and this particular
+mode will put its mark on all others, molding them on its own image. For
+example, the tribal mode of organization, the gift economy, was based on
+reciprocity, i.e. Equality Matching. The agrarian mode was mostly based
+on Authority Ranking, and capitalism is of course the society where
+Market Pricing becomes dominant. If there is to be a Peer to Peer Era,
+our hypothesis is that it will be dominated by Communal Shareholding,
+i.e. the institutional form of the Commons will be what is central. That
+the dominant form recasts the other forms to its image can be seen for
+example in how the common property of the Church was embedded in the
+hierarchical structure of the Church institution. And in capitalist
+society in how the hierarchical state apparatus is subsumed by the
+defense of private interests.
+
+We can therefore expect that peer to peer will mold not only autonomous
+peer production, but also the market and the state. We therefore want to
+distinguish pure modes of peer governance, from the adaptation of
+existing governance models to the peer to peer mode.
+
+Following Bob Jessop, we will define peer governance as follows:
+
+"[Peer] Governance is defined as the reflexive self-organisation of
+independent actors involved in complex relations of reciprocal
+interdependence, with such self-organisation being based on continuing
+dialogue and resource-sharing to develop mutually beneficial joint
+projects and to manage the contradictions and dilemmas inevitably
+involved in such situations. Governance organised on this basis need not
+entail a complete symmetry in power relations or complete equality in
+the distribution of benefits: indeed, it is highly unlikely to do so
+almost regardless of the object of governance or the ‘stakeholders’ who
+actually participate in the governance process. All that is involved in
+this preliminary definition is the commitment on the part of those
+involved to reflexive self-organisation in the face of complex
+reciprocal interdependence."
+
+The first aspect is to be found in the increasing amount of peer
+governance of autonomous groups. Peer production is not just an economic
+process, it is a political process, as these projects have to be
+managed, albeit in a distributed way. The principle of self-regulation
+of peer groups, which by definition create new use value for the
+commons, should of course not be confused with the self-regulation by
+the market, where individual agents are only looking out for their own
+interests, and not for the public good, which is of course not to say
+that it should be rejected in all cases. Bob Jessop insists on the
+difference of self-reflexivity amongst participants in peer groups,
+something absent in the ‘invisible hand’ of the market. Nevertheless,
+even for P2P groups we can envisage a role of arbitrage by the state, to
+make sure that P2P groups do not damage the public interests, however
+defined. There is still a legitimate difference to be made between peer
+governance as dealing with a subset of interests, and the state as
+guarantor of the ‘general interest’ of society as a whole .
+
+One of the strengths of the liberal tradition today is that it speaks to
+the desire for autonomy of democratic subjects, who in many cases, feel
+this autonomy is more threatened by the bureaucracy of the state, than
+by the behavior of for-profit companies. Finding alternatives for
+bureaucratization is therefore an important part of the evolution
+towards P2P models.
+
+Peer governance als has a second more expanded definition and
+application, as a mode of governance that can be applied in the real
+world, as a true alternative to the top-down and hierarchical state form
+of government, and can be applied whenever there are interdependent and
+multiple stakeholders involved. He has outlined a consensus among
+scholars that four conditions are required to make it applicable
+successfully:
+
+“Studies suggest that there are four conditions for effective reflexive
+self-organisation: (a) simplifying models and practices, which reduce
+the complexity of the world but are still congruent with real world
+processes and relevant to actors' objectives; (b) developing the
+capacity for dynamic, interactive social learning among autonomous but
+interdependent agencies about causal processes and forms of
+interdependence, attributions of responsibility and capacity for
+actions, and possibilities of co-ordination in a complex, turbulent
+environment; (c) building methods for co-ordinating actions across
+social forces with different identities, interests, and meaning systems,
+over different spatio-temporal horizons, and over different domains of
+action; and (d) establishing a common world view for individual action
+and a system of ‘metagovernance’ to stabilise key players' orientations,
+expectations, and rules of conduct."
+
+How then will the state be molded by peer to peer? Peer governance is
+characterized by the relational paradigm . Rather than seeing itself as
+sovereign master, the state must be seen as embedded in relationships,
+and as in need of respecting these multiple relationships. This is
+probably best translated by the concept of multistakeholdership. We can
+probably expect that the nation-state, along with the newly emerging
+sub- and supraregional structures will continue to exist, but that their
+policies will be set through a dialogue with stakeholders. The key will
+be to disembed the state from its primary reliance of the private
+sector, and to make it beholden to civil society, i.e. the commons, so
+that it can act as a center of arbitrage. Despite the recent greater
+subsumption of the state to private interests (in the neoliberal era) –
+which of course has never been total since the balance of forces is not
+based on a complete defeat of the citizenship -- many supraregional
+institutes, and in particular non-state governance institutions such as
+the standards bodies, but also policy-making at the U.N., already
+exhibit many features of multistakeholdership.
+
+What we describe is of course an ideal state of affairs, requiring a new
+balance of power in society. Failing such a change, in the asymmetrical
+world of power relationship that we live in today, any
+multistakeholdership relation will be marked by such unbalances, and
+fail to reach the ideal of self-reflexivity in the context of
+equipotential relations. What can be achieved in peer groups today,
+cannot be achieved by extending the model to the whole of society. In
+the text that we are citing, Bob Jessop examines in detail the potential
+failure points of the interplay between peer governance and the state.
+
+The market will also be greatly influenced (and of course already is),
+and will change more radically in a P2P-dominated political economy. It
+is a legitimate expectation, or hope, that the recent evolution from a
+market economy to a market society, in which every social relationship
+is in the process of being monetized, could partially or even largely be
+undone as civil society re-asserts itself. New types of businesses will
+emerge that embed more clearly P2P principles. It is to be expected that
+in many areas the authoritarian structures and practices will have to
+adapt, as the age of participation will want to extend the principle of
+self-rule to the productive sphere. As the concept of
+multistakeholdersship will be more strongly asserted, corporate
+governance will no longer be able to ignore its workers, consumers, and
+associated communities, including the voices of the natural environment.
+The increased demands for transparency, and their enablement by
+technology, will also impose changes in corporate behavior and
+structures. There are of course many aspects to this question, such as
+whether an alternative to the current capitalist system is possible or
+even desirable, but this will be discussed elsewhere.
+
+But peer governance remains a clear alternative. If market allocation
+and corporate hierarchy are the governance model of the market,
+associated with private property; and if bureaucracy is associated with
+the state model of governance, then peer governance is clearly the
+alternative being forged by civil society. It will emerge in its pure
+form in P2P groups, but its associated values such as relationality (and
+transparency) will clearly force an adaptation of both market and the
+state. This is why we will say elsewhere in the text that one of the key
+goals of a P2P movement will be, or should be, 'For a Commons-based
+Society with a reformed market and state'.
+
+The assertion of peer governance as an alternative model, either in the
+current situation and/or in any future commons-based society, i.e. a
+society that will still inevitably be marked by a pluralism of
+governance models consisting of peer governance/ market allocation / and
+what Jessop calls ‘imperative coordination’, with doses of
+reciprocity-based gift economies thrown in, creates a problem of
+‘meta-governance’, which has also already been discussed by Bob Jessop.
+
+He distinguishes the following levels, which we reproduce in full in the
+endnotes . What is important is to distinguish meta-heterarchy, i.e. the
+coordination of different levels of peer governance, from
+meta-governance as the coordination of the different forms of
+governance/government.
+
+- Meta-exchange as “the reflexive redesign of individual markets", i.e.
+how can different types of markets and scales of market be co-ordinated?
+
+- Meta-organisation, as “the reflexive redesign of organisations, the
+creation of intermediating organisations, the reordering of
+inter-organisational relations, and the management of organisational
+ecologies". We could generalize that also to the problematic of
+meta-hierarchy, how the different levels of local, state, supreregional
+and global state forms interrelate.
+
+- Meta-heterarchy, “this involves the organisation of the conditions of
+self-organisation by redefining the framework for heterarchy or
+reflexive self-organisation."
+
+- Meta-governance, “This involves re-articulating and ‘collibrating’ the
+different modes of governance… , [i.e.] the judicious mixing of market,
+hierarchy, and networks to achieve the best possible outcomes from the
+viewpoint of those engaged in metagovernance."
+
+The respective influence of peer governance on market and state is
+summarized by Jessop in the following way, and echoes what we have said
+about it supra:
+
+“On the one hand, market competition will be balanced by co-operation,
+the invisible hand will be combined with a visible handshake. On the
+other hand, the state is no longer the sovereign authority. It becomes
+just one participant among others in the pluralistic guidance system and
+contributes its own distinctive resources to the negotiation process. As
+the range of networks, partnerships, and other models of economic and
+political governance expand, official apparatuses remain at best first
+among equals.The state's involvement would become less hierarchical,
+less centralised, and less directive in character. The exchange of
+information and moral suasion become key sources of legitimation and the
+state's influence depends as much on its role as a prime source and
+mediator of collective intelligence as on its command over economic
+resources or legitimate coercion ."
+
+Retrieved from
+"[?title=4.1.C.\_Peer\_Governance\_as\_a\_third\_mode\_of\_governance&oldid=51395][]"
+
+[Categories][]:
+
+-   [Governance][]
+-   [Peergovernance][]
+-   [P2P State Approaches][]
+
+-   This page was last modified on 19 July 2011, at 11:56.
+-   This page has been accessed 2,349 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.1.C._Peer_Governance_as_a_third_mode_of_governance
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:4.1.C._Peer_Governance_as_a_third_mode_of_governance&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.1.C._Peer_Governance_as_a_third_mode_of_governance
+  [View source]: ?title=4.1.C._Peer_Governance_as_a_third_mode_of_governance&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.1.C._Peer_Governance_as_a_third_mode_of_governance&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.1.C.+Peer+Governance+as+a+third+mode+of+governance
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.1.C._Peer_Governance_as_a_third_mode_of_governance
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.1.C._Peer_Governance_as_a_third_mode_of_governance
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.1.C._Peer_Governance_as_a_third_mode_of_governance&printable=yes
+  [Permanent link]: ?title=4.1.C._Peer_Governance_as_a_third_mode_of_governance&oldid=51395
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.1.C.\_Peer\_Governance\_as\_a\_third\_mode\_of\_governance&oldid=51395]:
+    ?title=4.1.C._Peer_Governance_as_a_third_mode_of_governance&oldid=51395
+  [Categories]: /Special:Categories "Special:Categories"
+  [Governance]: /Category:Governance "Category:Governance"
+  [Peergovernance]: /Category:Peergovernance "Category:Peergovernance"
+  [P2P State Approaches]: /Category:P2P_State_Approaches
+    "Category:P2P State Approaches"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

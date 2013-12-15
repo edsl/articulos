@@ -1,0 +1,329 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+1. Introduction
+===============
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**1. Introduction**
+
+**1.A. What this essay is about**
+
+**1.B. Some acknowledgments**
+
+\
+ **1. Introduction**
+
+**1.A. What this essay is about**
+
+The following essay describes the emergence, or expansion, of a specific
+type of relational dynamic, which I call peer to peer. It’s a form of
+human network-based organisation which rests upon the free participation
+of equipotent partners, engaged in the production of common resources,
+without recourse to monetary compensation as key motivating factor, and
+not organized according to hierarchical methods of command and control.
+It creates a Commons, rather than a market or a state, and relies on
+social relations to allocate resources rather than on pricing mechanisms
+or managerial commands.
+
+This format is emerging throughout the social field: as a format of
+technology (the point to point internet, filesharing, grid computing,
+the Writeable Web initiatives, blogs), as a third mode of production
+which is also called Commons-based peer production (neither centrally
+planned nor profit-driven), producing hardware, software (often called
+Free Libre Open Sources Software or FLOSS) and intellectual and cultural
+resources (wetware) that are of great value to humanity (Wikipedia), and
+as a general mode of knowledge exchange and collective learning which is
+massively practiced on the internet. It also emerges as new
+organizational formats in politics, spirituality; as a new ‘culture of
+work’. This essay thus traces the expansion of this format, seen as a
+“isomorphism" (= having the same format), in as many fields as possible.
+The common format in which the peer to peer dynamic emerges is the
+format of the "distributed network", which, according to the defintion
+of A. Galloway in his book Protocol, differs both from the centralized
+network (all nodes have to pass through one single hub), and from the
+decentralized network (all nodes have to pass through hubs). In a
+distributed network the nodes, as autonomous agents, can connect through
+any number of links. Hubs may exist, but are not obligatory.
+
+The essay tries not only to describe, but attempts to provide an
+explanatory framework of why it is emerging now, and how it fits in a
+wider evolutionary framework (not in the sense of an inevitable natural
+evolution, but as an intentional moral breakthrough).
+
+The underlying logic of development in which the emergence of P2P is
+best understood, may be by viewing 'participation' as the key variable,
+seeing how it intensifies historically in various social formations.
+This idea was best expressed by John Heron in a personal communication:
+
+"There seem to be at least four degrees of cultural development, rooted
+in degrees of moral insight and not in an evolutionary logic:
+
+​(1) autocratic cultures which define rights in a limited and oppressive
+way and there are no rights of political participation;
+
+​(2) narrow democratic cultures which practise political participation
+through representation, but have no or very limited participation of
+people in decision-making in all other realms, such as research,
+religion, education, industry etc.;
+
+\
+ (3) wider democratic cultures which practice both political
+participation and varying degree of wider kinds of participation;
+
+​(4) commons p2p cultures in a libertarian and abundance-oriented global
+network with equipotential rights of participation of everyone in every
+field of human endeavour."
+
+Note that within most of the sections, the organisation is as follows:
+the first subsection is descriptive, the second is explanatory, and the
+third is historical. In the latter, I use the triune distinction
+premodernity/modernity/postmodernity, well aware that it is a
+simplification, and that it collapses many important distinctions, say
+between the tribal and the agrarian era. But as an orienting
+generalization that allows the contrasting of the changes occurring
+after the emergence of modernity, it remains useful.Thus, the concept of
+‘premodern’, means the societies based on tradition, before the advent
+of industrial capitalism, with fixed social roles and a social
+organisation inspired by what it believes to be a divine order; modern
+means essentially the era of industrial capitalism; finally, the choice
+of the term postmodern does not denote any specific preference in the
+‘wars of interpretation’ between concepts such as postmodernity, liquid
+modernity, reflexitive modernity, transmodernity etc.. It simple means
+the contermporary period, more or less starting after 1968, which is
+marked by the emergence of the informational mode of capitalism. I will
+use the term cognitive capitalism most frequently in my characterization
+of the current regime, as it corresponds to the interpretation, which is
+the most convincing in my view. The French magazine Multitude is my main
+source for such interpretations. It's essential meaning is the
+replacement of an older 'regime of accumulation', centered on machines
+and the division of labor corresponding to them; and one centered on
+being part of a process of accumulation of knowledge and creativity, as
+the new mainspring of power and profit. Finally, note that in the
+accompagnying graphs of figures, I sometimes use the "early modern/late
+modern/P2P era" framework. In this way, the current time frame can be
+distinguished from a hypothetical coming situation where P2P is more
+dominant than it is today, and what that would change in the
+characteristics of such a society.
+
+I will conclude my essay with the conclusion that P2P is nothing else
+than a premise of a new type of civilization that is not exclusively
+geared towards the profit motive. What I have to convince the user of is
+that
+
+- 1) a particular type of human relational dynamic is growing very fast
+across the social fields, and that such combined occurrence is the
+result of a deep shift in ways of feeling and being (ontology), of
+knowing (epistemology), and of core value constellations (axiology)
+
+\
+ - 2) That it has a coherent logic that cannot be fully contained within
+the present ‘regime’ of society.
+
+\
+ - 3) that it is not an utopia , but, as ‘an already existing social
+practice’, the seed of a likely major transformation to come. I will not
+be arguing that there is an 'inevitable evolutionary logic at work', but
+rather that a new and intentional moral vision, holds the potential for
+a major breakthrough in social evolution, leading to the possibility of
+a new political, economic, and cultural 'formation' with a new coherent
+logic.
+
+Implicit in my interpretation of peer to peer as a social formation, is
+that it is accompanied by a nascent socio-political movement, much as
+industrial class relations triggered a labour movement. In the case of
+the 'peer to peer movement' this movement concerns itself with the
+promotion and defense of the Commons, i.e. the existence of a
+common-property regime that exists alongside the state and the market,
+but which is also under threat by a frenetic movement to privately
+appropriate common resources.
+
+Such a large overview will inevitably bring errors of interpretation
+concerning detailed fields. I would appreciate if readers could bring
+them to my attention. But apart from these errors, the essay should
+stand or fall in the context of its most general interpretative point:
+that there is indeed a isomorphic emergence of peer to peer throughout
+the social field, that despite the differences in expression, it is the
+same phenomena, and that it is not a marginal, but a 'fundamental'
+development. It is on this score that my effort should be judged. If the
+effort is indeed judged to be successful, I then would hope that this
+essay inspires people from these different fields to connect, aware that
+they are sharing a set of values, and that these values have potential
+in creating a better, but not perfect or ideal, society.
+
+How does the explanatory framework which I will provide for P2P, differ
+from the use of the earlier metaphor of the network society, described
+by Manuel Castells and many others, and lately in particular by the
+network sociality concept proposed by Andreas Wittel? The best way to
+differentiate the approaches is to see P2P as a subset of network
+conceptions.
+
+If you would have been a social scientist during the lifetime of Marx
+and witnessed the emergence and growth of the factory-based industrial
+model, and you would then have arrived at the equivalent of what social
+network theory is today, i.e. an analysis of mainstream society and
+sociality. This is what the network sociality model of Andreas Wittel
+provides. But at the same time that the factory system was developing, a
+reaction was created as well. Workers were creating cooperatives and
+mutualities, unions and new political parties and movements, which would
+go on to fundamentally alter the world. Today, this is what happens with
+peer to peer. Whereas Castells and Wittel focus on the general emergence
+of network society and society, and describes the networks overall and
+the dominant features of it, I want and tend to focus on the birth of a
+counter-movement, centered around a particular format of sociality based
+in distributed networks, where the focus is on creating participation
+for all, and not the buttressing of the 'meshworks of exploitation'. As
+the dominant forces of society are mutating to networked forms of
+organizing the political economy (called Empire by Toni Negri), a
+bottom-up reaction against this new alienation is occurring (alienated,
+because in Empire, the meshwork are at the service of creating ever more
+inequality), by the forces of what Negri and Hardt call the
+multitude(s). These forces are using peer to peer processes, and a peer
+to peer ethos, to create new forms of social life, and this is what I
+want to document in this essay.
+
+**1.B. Some acknowledgments**
+
+This essay is part of a larger project, the writing of a French-language
+book, which I’m undertaking with Remi Sussan, a Paris-based free-lance
+journalist working for ‘digital’ magazines like TechnikArt. Hence, the
+continuing dialogue with him has been a great source of inspiration and
+clarification in terms of the ideas expressed in this essay. We share an
+enthousiasm for understanding P2P, though we frequently differ in our
+interpretations. The current essay therefore reflects my own vision.
+
+A first essay on P2P, essentially descriptive, but supported by many
+citations, is available on the internet on the Noosphere.cc site, and
+was written in 2003. However, most of these citations have now been
+integrated as endnotes. In this current essay, which was written pretty
+much in a ‘free flow of consciousness’ mode, though I will mention quite
+a few names of social theorists, citations have been kept at a minimum,
+but I may add them in later version as footnotes.
+
+Some acknowledgements about the sources used: amongst the contemporary
+and near-contemporary thinkers that I have been reading most recently in
+preparing this essay are: Norbert Elias (Elias, 1975), Louis Dumont
+(Vibert, 2004), and Cornelis Castoriadis (Castoriadis, 1975); the
+Italian-French school of thought around Multitude magazine, especially
+Toni Negri and Michael Hardt, Maurizio Lazzarato (Lazzarato, 2004),
+Philippe Zafirian (Zafirian, 2003).Amongst the specific P2P pioneers I
+have read, are Pekka Himanen (Himanen, 2002), for his study of work
+culture; John Heron (Heron, 1998) and Jorge Ferrer (Ferrer, 2001), for
+their work on participatory spirituality. Timothy Wilken of
+[Synearth.org][] was instrumental in the discovery of the theories of
+Edward Haskell and Arthur Coulter, on synergetics and cooperation, which
+are explained on his website. Mackenzie Wark's Hacker Manifesto (Wark,
+2004) and Alexander Galloway's Protocol (Galloway, 2004), have strongly
+influenced my analysis of P2P power structures.
+
+Retrieved from "[?title=1.\_Introduction&oldid=33129][]"
+
+-   This page was last modified on 17 October 2009, at 16:51.
+-   This page has been accessed 3,933 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /1._Introduction "View the content page [c]"
+  [Discussion]: ?title=Talk:1._Introduction&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /1._Introduction
+  [View source]: ?title=1._Introduction&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=1._Introduction&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=1.+Introduction
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/1._Introduction
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/1._Introduction
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=1._Introduction&printable=yes
+  [Permanent link]: ?title=1._Introduction&oldid=33129
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [Synearth.org]: /SynEARTH_Network "SynEARTH Network"
+  [?title=1.\_Introduction&oldid=33129]: ?title=1._Introduction&oldid=33129
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

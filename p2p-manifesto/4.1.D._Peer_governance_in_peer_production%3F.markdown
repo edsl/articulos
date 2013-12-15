@@ -1,0 +1,198 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.1.D. Peer governance in peer production?
+==========================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.1.D. Peer governance in peer production?**
+
+How does peer governance work in actual peer production processes, in
+free software/open source projects for example?
+
+Aaron Krowne has done useful work to define the authority models at work
+in such projects. The models define access and the workflow, and whether
+there is any quality control. The free-form model, which Wikipedia
+employs, allows anyone to edit any entry at any time. But in the
+owner-centric model, entries can only be modified with the permission of
+a specific ‘owner’ who has to defend the integrity of his module. He
+concludes that “These two models have different assumptions and effects.
+The free-form model connotes more of a sense that all users are on the
+“same level," and that expertise will be universally recognized and
+deferred to. As a result, the creator of an entry is spared the trouble
+of reviewing every change before it is integrated, as well as the need
+to perform the integration. By contrast, the owner-centric authority
+model assumes the owner is the de facto expert in the topic at hand,
+above all others, and all others must defer to them. Because of this
+arrangement, the owner must review all modification proposals, and take
+the time to integrate the good ones. However, no non-expert will ever be
+allowed to “damage" an entry, and therefore resorting to administrative
+powers is vanishingly rare." The owner-centric model is better for
+quality, but takes more time, while the free-form model increases scope
+of coverage and is very fast. The choice between the two models can of
+course be a contentious issue. In the case of the Wikipedia, the
+adherents of the owner-centric model, active in the pre-Wikipedia
+"Nupedia" model, lost out, and presumable, the success of Wikipedia has
+proven them wrong, since the latter totally open process has been proven
+a success . Similar conflicts are reported in many other projects .
+Collaborative projects are no utopian scheme were everything is better,
+but subject to intense human conflict as well. A general problem still
+associated with FLOSS software is their lack of user-friendliness , they
+are often made from the biases of a development community, and may have
+less incentive than corporate entities, to make them customer-friendly,
+which is why a niche has been created for service companies such as Red
+Hat.
+
+Another important aspect of FLOSS projects is how they handle
+'equipotentiality'. While formal degrees have been abandoned, and open
+participation is in principle encouraged, most projects will over time
+produce a number of rules in their selection. The important aspect is
+that these rules are generated within the community itself, though
+mostly in the early phases. After a while, they tend to consolidate and
+they are a given for the new participants who come later . At this
+point, a process of socialization is crucial to eventual acceptance .
+The process is akin to the tradition of artisanship, which has been used
+in the three-degree system of original freemasonry as well: apprentice,
+companion (fellow craft), master. But it is implied rather than
+formalized.
+
+Crucial to the success of many collaborative projects is their
+implementation of the reputation schemes. They differ from previous
+reputation-based systems, such as academic peer review, because the open
+process of participation (equipotentiality) precludes a systematic
+strengthening of reputation so that it could become a factor of
+conservatism (as it is in science and its dependence on dominant
+paradigms) and power. In the better P2P systems, reputation is
+time-sensitive on the degree of recent participation and the possibility
+of forking and of downgrading reputation grades, introduce an aspect of
+community control, flexibility and dynamism. See in particular the
+endnote on this topic, outlining the example of the NoLogo site .
+Reputation-based schemes are crucial because cooperation is based on
+trust, and they offer a collaborative scheme to indicate those who are
+the best contributors to the common value, while motivating everybody to
+use the more cooperative, and less the more baser sides of human
+nature."
+
+Retrieved from
+"[?title=4.1.D.\_Peer\_governance\_in\_peer\_production%3F&oldid=51526][]"
+
+[Categories][]:
+
+-   [Peergovernance][]
+-   [Peerproduction][]
+-   [P2P Theory][]
+
+-   This page was last modified on 21 July 2011, at 10:19.
+-   This page has been accessed 1,665 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.1.D._Peer_governance_in_peer_production%3F
+    "View the content page [c]"
+  [Discussion]: /Talk:4.1.D._Peer_governance_in_peer_production%3F
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.1.D._Peer_governance_in_peer_production%3F
+  [View source]: ?title=4.1.D._Peer_governance_in_peer_production%3F&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.1.D._Peer_governance_in_peer_production%3F&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.1.D.+Peer+governance+in+peer+production%3F
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.1.D._Peer_governance_in_peer_production%3F
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.1.D._Peer_governance_in_peer_production%3F
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.1.D._Peer_governance_in_peer_production%3F&printable=yes
+  [Permanent link]: ?title=4.1.D._Peer_governance_in_peer_production%3F&oldid=51526
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.1.D.\_Peer\_governance\_in\_peer\_production%3F&oldid=51526]:
+    ?title=4.1.D._Peer_governance_in_peer_production%3F&oldid=51526
+  [Categories]: /Special:Categories "Special:Categories"
+  [Peergovernance]: /Category:Peergovernance "Category:Peergovernance"
+  [Peerproduction]: /Category:Peerproduction "Category:Peerproduction"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

@@ -1,0 +1,311 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.1.F. New lines of contention: Information Commons vs. New Enclosures
+======================================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.1.F. New lines of contention: Information Commons vs. New
+Enclosures**
+
+Next to new forms of political organization, new conceptions regarding
+the tactics and strategies of struggle, the emergence of peer to peer
+also generates new conflicts, which are different from those of the
+industrial age. Just as the industrial mode of relations created the
+labor movement and the idea that the workers could own the means of
+production, the new social formation creates a movement that is favoring
+the common construction of a Information Commons, associated not with
+state property or “nationalization", but with universal common access
+property regimes. Positively, what binds many different social and
+political movements today is their focus on ‘open access’: to software
+code (open sources), to scientific information (open access to archives,
+open science), to the traditional knowledge of humanity (the movement
+against biopiracy), against the privatization of human life
+(privatization of the genome ). One gets the distinct impression that
+our current political economy, originally designed to manage scarcity in
+order to overcome it, is changing into a system that seeks to
+permanently create artificial scarcity, in order to create knowledge
+monopolies and dependencies.
+
+The key conflict is therefore the one about the freedom to construct the
+Information Commons , which encompasses what was traditionally called
+the ‘public domain’ , as against the private appropriation of knowledge
+by for-profit firms . All these different Commons-related struggle share
+common characteristics, and Philippe Aigrain has examined, in his book
+'Cause Commune' (Aigrain, 2005), how these different forces can unite in
+common struggle .
+
+According to the Hacker Manifesto by McKenzie Wark, the deeper reason
+and underlying common logic between these different struggles is the
+struggle for control of both information (as intellectual property) and
+the vectors of information (needed for distribution), between those that
+produce information, knowledge and innovation (the hacker class,
+knowledge workers), and the groups that own the vectors (the vector
+class), through which its exchange value can be realized. This same
+vision of a class struggle between the producers of information and
+those that want to resell prepackaged bits of it for sale back to
+consumers, is shared by Joel de Rosnay who speaks of ‘pronetarians vs.
+infocapitalists’.
+
+The last 30 years have indeed seen an enormous extension of Intellectual
+Property Rights, resulting in a severe weakening of the Scientific
+Commons, a variety of detrimental social effects, while new technical
+developments such as Digital Rights Management threaten the development
+of a free culture. Cognitive capitalism is centered around the
+accumulation of knowledge assets, and has altered the classic cycle of
+consumption and production. In the industrial economy this cycle was
+described as conception-production-distribution- consumption. In this
+economy, over time, competition would arise, making the products
+cheaper, forcing corporations to become either more productive or invent
+new products. In the new economy, the cycle is better described as
+conception – reproduction of the informational basis – production –
+distribution – consumption. The informational basis, whether it is
+software, cultural content, or material products such as seeds in
+agribusiness, molecules and gene sequences in the pharmaceutical
+industry, are protected through information property rights. The aspect
+of production and distribution is no longer central, and can be easily
+outsourced. This mechanism has now extended to vast sectors of the
+'material economy' with companies such as Nike and Alcatel as companies
+that are essentially divested of material production, but are centered
+around their knowledge and other immaterial assets (essentially
+'branding')
+
+Through this mechanism of IP protection, super-profits can be
+maintained, common pools of knowledge are destroyed and appropriated,
+and innovation is slowed down. In agribusiness, seeds lose their
+productive qualities after a generation, rendering farmers completely
+dependent, while inflated prices created debt cycles. With GMO's, an era
+of total dependence of agriculture towards agribusiness is set in
+motion. In pharmaceuticals, the inflated prices of medication are one of
+the key factors of the crisis of the welfare state, while millions of
+patients are excluded from appropriate care, especially in the South. A
+2001 study of Doctors Without Border showed that only one percent of the
+molecules being studies, concerned the most prevalent diseases in the
+South (malaria, TBC, etc..) The most well-known case is of course the
+controversy around AIDS treatments, where millions of patients are
+unnecessarily dying because they are not allowed access to generic
+drugs. The software patenting which originated in the U.S. and has been
+copied in Europe makes it now possible to protect ideas and any logical
+sequence (which includes business processes) and is widely seen as an
+impediment for further innovation, since it excludes small companies who
+lack the means of taking the licenses, while leading to an explosion of
+litigation. American reforms which have allowed universities to
+privatize and patent their scientific knowledge and have severely
+endangered cooperation amongst scientists. Finally, exploding prices of
+scientific publications have rendered access to scientific knowledge
+more difficult. At the core of the conflict over IP are also deeply
+differing ideological conceptions of cultural creation. IP proponents
+see creation in terms of market, with creators investing time and
+capital into cultural products destined for the marketplace, and with
+the motive and incentive being the profit protected by IP rights;
+proponents of the Information Commons have a more social vision of
+creation, seeing how every creator is dependent on the community of
+creators that preceded and exists alongside of them. IP by restricting
+access to the common pool, impedes creation and innovation.
+
+It is this intensive effort at the private appropriation of knowledge
+that has created different movements of resistance. The free software
+movement, the movements of farmers against biopiracy in seeds and animal
+and vegetal types, where Western corporations are privatizing the fruits
+of thousands of year of communal cooperation; the movement of patients
+and developmental organizations for access to reasonably priced
+medicines and medical knowledge; the movement for free access to
+scientific publications, are all related reactions to these New
+Enclosures. Slowly, ever larger segments of the public started to
+realize that the new forms of Intellectual Property were no longer based
+on a compromise between the interests of consumers, creators and
+publishing intermediaries, but had been extended to favor information
+property monopolies, who were also threatening to own and control life
+itself.
+
+At the same time as the existing Information and Scientific Commons were
+threatened, the internet has created an enormous bottom-up movement,
+through peer production and knowledge collectives, through microcontent
+and generalized knowledge exchange of millions of people, thereby
+creating a new Information Commons. It is the merger of the concerns of
+the already existing resistance groups, and the realization of the
+meaning of the process of peer to peer content creation, which is at the
+core of a new political movement associated with the peer to peer social
+formation, inspired by the vision of a re-invigorated Commons. By
+extension, this realization has led to connections with those forces
+protecting the already existing physical commons (water, air,
+transportation systems), and the surviving common property forms in the
+South, which are still strong amongst some native peoples. Both type of
+movements are similarly concerned with resistance against the extension
+of the movement towards private appropriation and the market .
+
+A crucial development to bring all of this to generalized public
+consciousness, especially amongst the new generations, was the
+development of filesharing. A process that always existed amongst groups
+of friends,that of sharing cultural enjoyment and creation, is now
+extended in scope by technology. This endangers the intellectual
+property system which favors large monopolies, much less the authors and
+content creators which are at a disadvantage in the current IP system.
+Moreover, the P2P system of music distribution is inherently more
+productive and versatile, and more pleasing to the listener of music
+than the older system of physically distributing CD’s. It is around this
+development that the regressive nature of cognitive capitalism has been
+most glaring since it has led to an all-out war against its own
+consumers.
+
+Indeed, instead of building a common pool for the world’s music, and
+finding an adequate funding mechanism for the artists , the industry is
+intent to destroy this more productive system, and wants to criminalize
+sharing by punishing the users, and even by attempting to render the
+technology illegal or restricting the free usage of digital technologies
+through digital rights management schemes . This would have the effect
+of not stopping so-called illicit usage, but of stopping the general
+movement of sharing of cultural content, even the autonomously created
+one. Another strategy is to incorporate control mechanisms either in
+software (where it can be hacked and circumvented, but that is made
+illegal as well), or in the hardware (digital rights management
+schemes). While the users and producers of free culture are battling the
+attempts at the enclosure of culture by large 'vectoralist' corporations
+, many are working at offering solutions that both protect the use of
+culture, and make it possible for creators to make a living .
+
+Also the forces arrayed start from diametrically opposed paradigms. For
+the entertainment industry, IP is essential to promote creativity, even
+though the current system is a ‘winner-take-all’ system that serves only
+a tiny minority of superstar artists. For them, without IP protection,
+there would be no creativity. But as P2P processes demonstrate, which
+are extraordinarily innovative outside the profit system, creativity is
+what people do when they can freely cooperate and share, and hence IP is
+sometimes seen as an impediment, impeding the free use what should be a
+common resource. But what the Commons movement aims at is not abolishing
+IP, but restoring it to its original intention, i.e. a social compromise
+that combines the interests of user communities, creators of content
+needing to make a living, and the reasonable retribution of
+intermediaries which serve in production and distribution. It seeks to
+undo the landgrab that has taken place in the last thirty years, and to
+remedy the grave social problems that have been created (such as the
+lack of access to life-saving medications) by this one-sided
+appropriation. It seeks to avoid that new steps are taken in that
+process of appropriation, refusing that life can be controlled by
+private interests, and that cultural life would be the subject of
+restrictive licensing and built into the technology itself. Lastly, it
+aims to create the conditions that foster the healthy development of a
+strong Commons.
+
+In the meantime, while this political struggle continues, the forces
+using peer to peer are devising their own solutions. It started with a
+legal infrastructure for the free software movement, the General Public
+License, which prohibits the private appropriation of such software. It
+continued with the very important Creative Commons initiative initiated
+by Lawrence Lessig, who also supported the creation of a Free Culture
+advocacy movement. And it also expressed in the continuous technological
+development of an infrastructure for cooperation and sharing.
+
+Retrieved from
+"[?title=4.1.F.\_New\_lines\_of\_contention:\_Information\_Commons\_vs.\_New\_Enclosures&oldid=9300][]"
+
+-   This page was last modified on 17 November 2006, at 09:36.
+-   This page has been accessed 1,565 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures
+  [View source]: ?title=4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.1.F.+New+lines+of+contention%3A+Information+Commons+vs.+New+Enclosures
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&printable=yes
+  [Permanent link]: ?title=4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&oldid=9300
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.1.F.\_New\_lines\_of\_contention:\_Information\_Commons\_vs.\_New\_Enclosures&oldid=9300]:
+    ?title=4.1.F._New_lines_of_contention:_Information_Commons_vs._New_Enclosures&oldid=9300
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

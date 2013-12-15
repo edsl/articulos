@@ -1,0 +1,321 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+7.1.D. Possible political strategies
+====================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**7.1.D. Possible political strategies**
+
+In the meantime, while the three scenarios are competing to come into
+being, and if we are sympathetic to the emergence of P2P and its ethos
+of cooperation: “What is to be done"?
+
+A first step is to become aware of the isomorphism, the commonality, of
+peer to peer processes in the various fields. That people devising and
+using P2P sharing programs, start realizing that they are somehow doing
+the same thing than the alterglobalisation movement, and that both are
+related to the production of Linux, and to participative epistemologies.
+Thus what we must do first is building bridges of cooperation and
+understanding across the social fields. Amazingly, it has already
+started, as the last Porto Alegre forum showed an extraordinary
+enthusiastic reaction to the Open Source event, something that would
+have been unimaginable even a few years ago. This coalescing of a
+powerful social and political movement, a movement of movements, seems
+already to be happening: the alterglobalisation movement, the free
+software/open source movement, the open access and peer science
+movements, the forces aligned against biopiracy and the new intellectual
+property enclosures, the free culture movement, the environmental and
+other protectors of our physical commons, and others, seem increasingly
+to find each other.
+
+We should also start to realize our basic commonality with earlier forms
+of the cooperative ethos: the communal shareholding of the tribal
+peoples, the solidarity movements and mutualities of the industrial
+workers. Following the analysis of Mckenzie Wark we should say that both
+knowledge workers (the hacker class for MW), workers, and farmers as
+producing classes share a similar interest in achieving first, a fairer
+share of the distribution of the surplus (the reformist agenda), and
+second, achieving control of the means of production (the more radical
+agenda). Of course, this can no longer take the form of centralized
+state control, and awaits innovative social practices and demands . It
+is our contention that they will be centered around the peer governance
+of the Commons. However, creating the new social reality takes
+precedence over political demands, the latter having to be a consequence
+of the former. Today to resist is in the first place 'to create'.
+
+Therefore, the second step is to "furiously" build the commons. When we
+develop Linux, it is there, cannot be destroyed, and by its very
+existence and use, builds another reality, based on another social
+logic, the P2P logic. Adopting a network sociality and building dense
+interconnections as we participate in knowledge creation and exchange is
+enormously politically significant. By feeding our immaterial and
+spiritual needs outside of the consumption system, we can stop the logic
+which is destroying our ecosphere. The present system may not like
+opposition, but even more does it fear indifference, because it can feed
+on the energy of strife, but starts dying when it is shunted. This is
+what is being expressed by Toni Negri's concept of Exodus, and what
+other call 'Desertion' . These commentators note that it was 'the
+refusal of work' in the seventies, with blue-collar workers showing
+increasing dissatisfaction with the Taylorist/Fordist system of work,
+that lead to the fundamental re-arrangement of work in the first place.
+In the past, the labor movement and other social movements mostly shared
+the same values, and it was mostly about a fairer share of the pie. But
+the new struggles are mostly about producing a new kind of pie, and
+producing it in a different way. Or perhaps an even more correct
+metaphor: it is about the right to produce altogether different kinds of
+pie.
+
+Today, the new ethic says that 'to resist is in the first place to
+create'. The world we want is the world we are creating through our
+cooperative P2P ethos, it is visible in what we do today, not an utopian
+creation for the future. Building the commons has a crucial ingredient:
+the building of a dense alternative media network, for permanent and
+collective self-education in human culture, away from the
+mass-consumption model promoted by the corporate media.
+
+Thus, if there is an 'offensive' strategy it would look like this: to
+build the commons, day after day, the process of creating of a society
+within society. In this context, the emergence of the internet and the
+web, is a tremendous step forward. Unlike in earlier social formations,
+knowledge workers and others now have access to an important “vector of
+information", to a means for creating, producing, and distributing
+immaterial products that was not available in earlier ages . Part of the
+struggle to build the information commons is the struggle for the
+control of the code (achieving protocollary power) and the creation of a
+‘friendly’ legal framework, continuing the efforts pioneered by Richard
+Stallman and the General Public License and Lawrence Lessig’s Copyleft
+and 'Creative Commons'.
+
+The third step is the defensive strategy. When the commons is attacked,
+it needs to be defended. We are thinking of the struggle in the EU to
+avoid software patents , avoiding the installment of digital rights
+management encoded in the hardware; the struggle against biopiracy;
+against the privatization of water.
+
+Above all else what we need is a society that allows the building of the
+commons, and it is therefore important to refuse measures that would
+foreclose this development. Hence the importance of the intellectual
+property regime, which needs to be reformed to avoid a ‘Enclosure of the
+Digital Commons", and also, we have to develop an awareness of the
+intricacies of protocollary power. Since we have no idea about the time
+span needed for a fuller transition to a P2P civilization, what me must
+do in the meantime is to protect the seed, so that it can grow
+unimpeded, until such time as it is called for a greater role.
+
+I would guess that an important part of the struggle for decent life for
+all, important to make space for the development of cooperative
+practices, will be the instauration of a universal living wage . So that
+no one dies from hunger, poverty and exclusion from the world of
+culture. So than an increasing number of us can start working on the
+creation of real use value, instead of catering to the artificial
+desires concocted by the global advertising system.
+
+The aim of peer to peer theory is to eventually develop a differentiated
+and integrated strategy for political and social change. Because it is
+based on a differentiated understanding of intersubjective processes, as
+developed in the relational model of Alan Page Fiske, it realizes that
+the four modes (equality matching, authority ranking, market pricing,
+and communal shareholding) have always existed, though in different
+combinations. It is a fair summary to say that the tribal era was
+dominated by gift economy modes based on reciprocity; that is was
+followed by the tributary class societies of the agricultural age, based
+on authority ranking; and that the industrial age was determined by
+market pricing. The current industrial era has been marked by the
+attempt to create a state-based authoritarianism (communism) as an
+alternative to market pricing; and by the current attempt at market
+totalitarianism under neoliberalism, which is in the process of failing.
+Peer to peer theory aims to offer a third alternative: not a
+commons-based totalitarianism, but a society where the other modes are
+informed by the peer to peer principles of civil society: a
+commons-based society within a reformed state and a reformed market.
+That’s also how it differs from the anarchist and socialist models that
+hoped for a marketless and stateless society.
+
+Such a differentiated and integrated strategy would be based on fourfold
+interventions in the different relational and productive domains:
+
+Reform of the stae and global governance modes: We also wish for the
+creation of democratic peer to peer processes so that they can
+contribute to solving some of the crucial issues facing the world. This
+is why the demands of the alterglobalisation movement are sometimes
+considered vague. It is because, in this complex world, we know that we
+do not have all the answers. But we also know, that through a community
+of peers, through open processes, answers and solutions can emerge, in a
+way that they cannot if private interests and domination structures are
+not transcended. Thus a reform of the global governance system is very
+important, so that every human being voice can be heard.. Current global
+governance institutions, as they are organized today (IMF, World Bank,
+WTO), often impede the finding of solutions because they are instruments
+of domination, rather than at the service of the world population. It is
+thus not just a matter of an alternative political program, but of
+alternative processes to arrive at the best solutions. I do not
+personally believe, that change can come \<only\> from the autonomous
+processes of civil society, and that attention to the state form is
+therefore important. Thus politically, peer to peer advocates are
+interested in the transformation of the nation-state, to new forms open
+to the processes of globality and locality, to participatory processes,
+such as the ones practiced with P2P formats. The search and development
+of peer governance practices, based on new forms of leadership, will be
+crucial.
+
+The reform of the market is equally important. An economic system that
+destroys the biosphere, that is predicated on unending growth in a
+finite physical universe, is not sustainable. The current monetary
+system, appropriate for the needs and profits of an elite, can only
+invests ten percent in the productivity economy. It must be replaced by
+smarter complementary currencies, and on a major monetary reform that
+changes scarcity-based money systems, and their hidden protocols of
+exclusion, into participatory protocols.
+
+Regarding the commons such an approach would entail:
+
+​1) a defense of the physical commons and the development of new
+institutions such as trusts to manage the environment;
+
+​2) an end to exaggerated private appropriation of the knowledge
+commons;
+
+​3) a universal basic income to create the conditions for the expansion
+of peer production;
+
+​4) any measure that speeds up the distribution of capital.
+
+In the field of the gift economy: the promotion of reciprocity-based
+schemes, using alternative currency schemes based on equal time (Time
+Dollars and the like)
+
+Finally, peer to peer also demands self-transformation. As we said, P2P
+is predicated on abundance, on transcending the animal impulse based on
+win-lose games. But abundance is not just objective, i.e. also, and
+perhaps most importantly, subjective. This is why tribal economies
+considered themselves to live in abundance, and were egalitarian in
+nature. This is why happiness researchers show that it is not poverty
+that makes us unhappy, but inequality. Thus, the P2P ethos demands a
+conversion, to a point of view, to a set of skills, which allow us to
+focus ourselves to fulfilling our immaterial and spiritual needs
+directly, and not through a perverted mechanism of consumption. As we
+focus on friendships, connections, love, knowledge exchange, the
+cooperative search for wisdom, the construction of common resources and
+use value, we direct our attention away from the artificial needs that
+are currently promoted, and this time we personally and collectively
+stop feeding the Beast that we have ourselves created.
+
+Retrieved from
+"[?title=7.1.D.\_Possible\_political\_strategies&oldid=40545][]"
+
+[Category][]:
+
+-   [P2P Theory][]
+
+-   This page was last modified on 8 July 2010, at 16:42.
+-   This page has been accessed 1,391 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /7.1.D._Possible_political_strategies
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:7.1.D._Possible_political_strategies&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /7.1.D._Possible_political_strategies
+  [View source]: ?title=7.1.D._Possible_political_strategies&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=7.1.D._Possible_political_strategies&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=7.1.D.+Possible+political+strategies
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/7.1.D._Possible_political_strategies
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/7.1.D._Possible_political_strategies
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=7.1.D._Possible_political_strategies&printable=yes
+  [Permanent link]: ?title=7.1.D._Possible_political_strategies&oldid=40545
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=7.1.D.\_Possible\_political\_strategies&oldid=40545]: ?title=7.1.D._Possible_political_strategies&oldid=40545
+  [Category]: /Special:Categories "Special:Categories"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

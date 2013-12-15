@@ -1,0 +1,364 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+3. P2P in the Economic Sphere
+=============================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**3. P2P in the Economic Sphere**
+
+**3.1.A. Peer production as a third mode of production**
+
+[3.1.B. The Communism of Capital, or, the cooperative nature of
+cognitive capitalism][]
+
+[3.1.C. The Hacker Ethic or ‘work as play’][]
+
+[3.2 Explaining the Emergence of P2P Economics][]
+
+[3.3 Placing the P2P Era in an evolutionary framework][]
+
+[3.4 Placing P2P in an intersubjective typology][]
+
+-   -   -   -   
+
+**3.1.A. Peer production as a third mode of production**
+
+There are two important aspects to the emergence of P2P in the economic
+sphere. On the one hand, as format for peer production processes (called
+‘Commons-based peer production' or CBPP by Y. Benckler ) it is emerging
+as a 'third mode of production' based on the cooperation of autonomous
+agents. Indeed, if the first mode of production is free-market based
+capitalism, and the second mode was the now defunct model of a
+centrally-planned state-owned economy, then the third mode is defined
+neither by the motor of profit, nor by any central planning. In order to
+allocate resources and make decisions, it is neither using market and
+pricing mechanisms, nor managerial commands, but social relations.
+
+\
+ The second aspect, as the juridical underpinning of software creation,
+in the form of the General Public License, or as the Creative Commons
+license for other creative content, it is engendering a new
+commons-based intellectual property regime. Taken together the GPL, the
+Open Source Initiative and the Creative Commons, together with
+associated initiatives such as the Art Libre license, may be seen as
+providing the 'legal' infrastructure for the emergence and growth of the
+P2P social formation. Peer production proper covers the first aspect:
+freely cooperating producers, governing themselves through peer
+governance, and producing a new type of universal common goods. The
+second aspect, mostly as free software and open sources, is the result
+of that process, but not necessarily. It is possible that corporations
+would produce free software (accessible and modifiable for free), in a
+more traditional way, or in a hybrid way, now that many large
+corporations are embracing open sources, this is increasingly the case.
+
+But what is important for us is the following: worldwide, groups of
+programmers and other experts are engaging in the cooperative production
+of immaterial goods with important use value, mostly new software
+systems, but not exclusively. And as we will see later, peer production
+is much broader than software, it emerges thoughout the social field.
+The new software, hardware and other immaterial products thus being
+created are at the same time new means of production, since the computer
+is now a universal machine ‘in charge of everything’ (every productive
+action that can be broken down in logical steps can be directed by a
+computer). Access to computer technology is distributed, and thus widely
+affordable given a minimum of financial means, and technological
+literacy. This means that the old dichotomy, between workers and the
+means of production, is in the process of being overcome for certain
+areas of fixed capital, and that the emergence of the viral communicator
+model, technological meshworks, is extending this model of distributed
+access to fixed capital assets, to more and more areas. Important to
+note is that software is 'active text' which directly results in
+'processes'. In other words, software is not just an immaterial pursuit,
+but can actively direct material and industrial processes. As a
+cooperation format, we will discuss it in more detail in the section
+'Advantages of the peer production model'. Peer governance models will
+also be discussed elsewhere.
+
+A further important aspect of peer production is the creation of
+universal public goods, i.e. the emergence of new common property
+regimes. As creation of a new type of commons, it takes the form of
+either the Free Software Movement ethos , as defined by Richard Stallman
+(Stallman, 2002 ), or in the form of Open Source projects, as first
+defined by Eric Raymond (Raymond, 2001). Both are innovative
+developments of copyright that significantly transcend the implications
+of privaty property and its restrictions. However, the ethos underlying
+both initiatives is different, While the Free Software Foundation
+insists that its production is not for exchange on the market, and not
+to be converted into private property, the Open Source Iniative aims to
+be compatible with the market and business thinking and stresses the
+efficiency argument which results from a public domain of software.
+
+Free software is essentially 'open code'. Its General Public Licence
+says that anyone using free software must give subsequent users at least
+the same rights as they themselves received: total freedom to see the
+code, to change it, to improve it and to distribute it . There is some
+discussion as to whether Free Software must be 'free', in the sense of
+free beer . While its spokesmen, including Richard Stallman, clearly say
+that it is okay to charge for such software, the obligation of free
+distribution makes this a rather moot argument. The companies that sell
+software, such as Red Hat, which sells version of Linux, could be said
+to charge for the services attached to its installation and use, rather
+than for the freely distributable software itself. This is an important
+argument for those stressing, as I do, the essential non-mercantile
+nature of free software. But in any case, if in a for-profit enterprise
+software is developed so that it can be sold as a product, in the case
+of free software, if it is sold by non-commercial entities or the
+programmers themselves, it is most often as a means of producing more
+software, to strengthen the community and obtain financial independence
+to continue further projects.
+
+FS explicitely rejects the ownership of software, since every user has
+the right to distribute the code, and to adapt it and is thus
+explicitely founded on a philosophy of participation and 'sharing'. Open
+Sources is admittedly less radical: it accepts ownership of software,
+but renders that ownership feeble since users and other developers have
+full right to use and change it . But since the OS model has been
+specifically designed to soften its acceptance by the business community
+which is now increasingly involved in its development , it generally
+leads to a lot more control of the labor process, including the use of
+traditional corporate processes. OS licenses allow segments of code to
+be used in proprietary and commercial projects, something impossible
+with pure free software. But even free software projects have become
+increasingly professionalised , and it now generally consists of a core
+of often paid professionals, funded by either nonprofits or by
+corporations having an interest in its continued expansion; they also
+use professional project management systems, as is the case for Linux.
+Despite their differences or essential likeness – a matter of continuous
+debate in both FS and OS communities -- I will use both concepts more
+for their underlying similarity, without my use denoting a preference,
+but on a personal level would be probably closer to the free software
+model, which is the 'purer' form of commons-based peer production.
+
+Despite it rootedness as a modification of intellectual property rights,
+both do have the effect of creating a kind of public domain in software,
+and can be considered as part of the information commons . However, the
+GPL does that by completely preserving the authorship of its creators.
+Free software and open sources are exemplary of the double nature of
+peer to peer that we will discuss later: it is both within the system,
+but partly transcends it. Though it is increasingly attractive to
+economic forces for its efficiency, the profit motive is not the core of
+why these systems are taken up, it is much more about the use value of
+the products. You could say that they are part of a new 'for-benefit'
+sector, which also includes the NGO's, social entrepreneurs and what the
+Europeans call 'the social economy', and that is arising next to the
+'for-profit' economy of private corporations. Studies show that the
+personal development of participants are primary motives, despite the
+fact that quite a few programmers are now paid for their efforts .
+Whatever the motives though, in a sense 'it doesn't matter' since in the
+open and global environment create by the internet, there is always a
+sufficient number of people willing to cooperate on any given project.
+Open Sources explicitely promotes itself through its value to create
+more efficient software in the business environment. It is even being
+embraced by corporate interests such as IBM and other Microsoft rivals,
+as a way to bypass the latter's monopoly, but the creation of an open
+infrastructure is clearly crucial and in everyone’s interest. But
+through the generalization of a cooperative mode of working , and
+through its overturning of the limits of property, which normally
+forbids other developers and users to study and ameliorate the source
+code, it is beyond the property model, contrary to the authoritarian,
+bureaucratic, or 'feudal' modes of corporate governance; and beyond the
+profit motive. We should also note that we have here the emergence of a
+mode of production that can be entirely devoid of a manufacturer . In
+the words of Doc Searls, senior editor of Linux magazine, we see the
+demand-side supplying itself .
+
+In conclusion:
+
+Seen from the point of view of capitalism or private for-profit
+interests, commons-based peer production has the following advantages :
+1) it represents more productive ways of working and of mobilizing
+external communities to its own purposes ; 2) it represents a means of
+externalizing costs or of lowering transaction costs ; 3) it represents
+new types of business models based on 'customer-made production', such
+as eBay and Amazon; 4) it represents new service-based business models,
+where by free software is used as the basis of providing surrounding
+services (Red Hat); 5) it represents a common shared infrastructure
+whose costs and building is taken up largely by the community and which
+prohibits both monopolistic control by stronger rivals as well as
+providing common standards so that a market can develop around it. In
+all these senses FS/OS forms of peer production are 'within the system'.
+
+We should also stress the dependence of the peer production community to
+the existing system. Since producers are not paid for their services,
+they have to work within the mainstream economy: for the government or
+academia, for traditional corporations, running their own individual or
+small business, or moving from project to project. Thus, despite its
+growth, peer production is still relatively weak. Though it outcompetes
+its for-profit rivals in efficiency, though it increases the welfare of
+its producers, though it creates important use value, it only covers
+part of the economy, mostly immaterial processes, while the mainstream,
+capitalist economy, functions as a full system. In this sense, peer to
+peer is immanent in the system, and productive of capitalism itself, as
+we have shown in the first chapter. But it is also more than that, a
+transcendent element that goes beyond the larger system of which it is a
+part. It is a germ of something new: it still goes 'beyond' the existing
+system.
+
+To summarise the importance of the 'transcending' factors of
+Commons-based peer production: 1) it is based on free cooperation, not
+on the selling of one's labour in exchange of a wage, nor motivated
+primarily by profit or for the exchange value of the resulting product;
+2) it not managed by a traditional hierarchy, but through new modes of
+peer governance; 3) it does not need a manufacturer; 4) it's an
+innovative application of copyright which creates an information commons
+and transcends the limitations attached to both the private (for-profit)
+and public (state-based) property forms. It creates a new type of
+universal common property.
+
+How widespread are these developments? Open-source based computers are
+already the mainstay of the internet’s infrastructure (Apache servers);
+Linux is an alternative operating system that is taking the world by
+storm . It is now a practical possibility to operating system that is
+taking the world by storm . It is now a practical possibility to create
+an Open Source personal computer that exclusively uses OS software
+products for the desktop, including database, accounting, graphical
+programs, including browsers such as Firefox . It is recognized as its
+main threat by the current operating system monopoly Microsoft . As a
+collaborative method to produce software, it is being used increasingly
+by various businesses and institutions . Wikipedia is an alternative
+encyclopedia produced by the internet community which is rapidly gaining
+in quantity, quality, and number of users. And there are several
+thousands of such projects, involving at least several millions of
+cooperating individuals. If we consider blogging as a form of
+journalistic production, then it must be noted that it already involves
+between 5 and 10 million bloggers, with the most popular ones achieving
+several hundred thousands of visitors. We are pretty much in an era of
+‘open source everything’, with musicians and other artists using it as
+well for collaborative online productions. In general it can be said
+that this mode of production achieves ‘products’ that are at least as
+good, and often better than their commercial counterparts. In addition,
+there are solid reasons to accept that, if the open source methodology
+is consistently used over time, the end result can only be better
+alternatives, since they involved mobilization of vastly most resources
+than commercial products.
+
+Open source production operates in a wider economic context, of which we
+would like to describe ‘the communism of capital’, with ‘the hacker
+ethic’ functioning as the basis of it’s new work culture.
+
+*Figure – Choosing for a Open Source Desktop*: NOT AVAILABLE IN WIKI
+VERSION
+
+Retrieved from
+"[?title=3.\_P2P\_in\_the\_Economic\_Sphere&oldid=1699][]"
+
+-   This page was last modified on 16 November 2005, at 09:30.
+-   This page has been accessed 4,411 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /3._P2P_in_the_Economic_Sphere "View the content page [c]"
+  [Discussion]: /Talk:3._P2P_in_the_Economic_Sphere
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /3._P2P_in_the_Economic_Sphere
+  [View source]: ?title=3._P2P_in_the_Economic_Sphere&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=3._P2P_in_the_Economic_Sphere&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=3.+P2P+in+the+Economic+Sphere
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/3._P2P_in_the_Economic_Sphere
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/3._P2P_in_the_Economic_Sphere
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=3._P2P_in_the_Economic_Sphere&printable=yes
+  [Permanent link]: ?title=3._P2P_in_the_Economic_Sphere&oldid=1699
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [3.1.B. The Communism of Capital, or, the cooperative nature of
+  cognitive capitalism]: /3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+    "3.1.B. The Communism of Capital, or, the cooperative nature of cognitive capitalism"
+  [3.1.C. The Hacker Ethic or ‘work as play’]: /3.1.C._The_Hacker_Ethic_or_%E2%80%98work_as_play%E2%80%99
+    "3.1.C. The Hacker Ethic or ‘work as play’"
+  [3.2 Explaining the Emergence of P2P Economics]: /3.2_Explaining_the_Emergence_of_P2P_Economics
+    "3.2 Explaining the Emergence of P2P Economics"
+  [3.3 Placing the P2P Era in an evolutionary framework]: /3.3_Placing_the_P2P_Era_in_an_evolutionary_framework
+    "3.3 Placing the P2P Era in an evolutionary framework"
+  [3.4 Placing P2P in an intersubjective typology]: /3.4_Placing_P2P_in_an_intersubjective_typology
+    "3.4 Placing P2P in an intersubjective typology"
+  [?title=3.\_P2P\_in\_the\_Economic\_Sphere&oldid=1699]: ?title=3._P2P_in_the_Economic_Sphere&oldid=1699
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

@@ -1,0 +1,247 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.2.B. Equality, Hierarchy, Freedom
+===================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.2.B. Equality, Hierarchy, Freedom**
+
+How do P2P processes integrate ‘values’ and ‘social relation’-typologies
+such as equality, hierarchy, and freedom?
+
+Cornelis Castoriadis gives an interpretation of Aristoteles on this
+issue: equality is actually present in all types of society, but it is
+always ‘according to a criteria’. (this is so because a society is
+implicitly a form of exchange, and thus in need of comparative standards
+for such exchange). It is over the criteria of exchange that social and
+political forces are fighting. Is power to be distributed according to
+the merit accorded to birth, according to military exploits, according
+to commercial savvy shown in economic life, to intelligence? This
+distribution then inherently creates a conflict with the egalitarian
+demands that is equally constitutive of politics and society. The
+distribution itself creates an exclusion and resulting demands of
+participation .
+
+In the modern sense, equality is defined mostly as an equal right to
+participation in the political process, and as an ‘equality of
+opportunity’, based on merit, in the economic sphere.
+
+Similarly, hierarchy was based in premodern societies based on
+‘authority ranking’ which depended on fixed social roles, and on the
+competition within these narrowly defined spheres (warriors competing
+amongst themselves, Brahmins competing through their knowledge of sacred
+scripture). The command and control hierarchy is fixed amongst the
+levels, somewhat flexible within the levels. In modern society,
+theoretically, hierarchy in power is derived from electoral choice in
+case of political power, through economic success in case of economic
+power. In theory, it is extremely flexible, based on ‘merit’, but in
+practice various processes of monopolization prohibit the full flowering
+of such meritocracy.
+
+World-systems theorist Immanuel Walllerstein defines three important
+political traditions according to their position regarding
+equality/hierarchy. Conservatives want to conserve existing hierarchical
+relations, as they were at a certain point in time; liberals are in
+favor of a selective meritocracy and stress the formalized and
+institutionalized selection criteria; democrats are in favor of maximum
+inclusion, without formal testing. Thus, in the early modern system,
+conservatives were against elections, liberals were for selective
+census-based elections, democrats for general suffrage.
+
+How does peer to peer fit in this scheme? P2P is a democratic process of
+full inclusion based on the idea of equipotency. It believes that
+expertise cannot be located beforehand, and thus general and open
+participation is the rule. But selection immediately sets in as well,
+since the equipotency is immediately verified by the work on the
+project. Thus there is a selection before the project, and a hierarchy
+of networks is created, where everyone finds his place according to
+demonstrated potential. Within the project, a hierarchy is also
+immediately created depending on expertise, engagement, and the capacity
+to generate trust. But in both cases the hierarchies are fluid, not
+fixed, and always depend on concrete context, the precise task at hand.
+It’s the model of the improvising jazz band, where everyone can in turn
+be the solo-ist or the trendsetter. Reputation is generated, but
+constantly on the move. Peer to peer is not anti-hierarchy or even
+anti-authority, but it is against fixed hierarchies and
+‘authoritarianism’, the latter defined as the tendency to monopolize
+power, with a will to perpetuate itself and deprive others of resources
+that it wants for itself. P2P is for equality of participation, for a
+natural and flexible hierarchy based on real merit and communal
+consensus. That P2P recognizes differences in potential, and thus
+natural hierarchy, does not preclude it from treating participating
+partners as equal persons. In fact research from within the synergistic
+tradition, which studies the practicalities of cooperation, has verified
+a remarkable fact. In free and synergistic cooperation, those groups
+function best, which treats its members ‘as if’ they were equals.
+Therefore, the recognized hierarchy in reputation, talent, engagement,
+etc.. does not preclude, but if requires an egalitarian environment to
+blossom.
+
+Some authors, like David Ronfeldt and John Arquila of the Rand
+Corporation, claim we are moving to a ‘cyberocracy’, where power is
+determined by the access to the networks. While there is indeed a
+digital divide that can exclude participation, it is important to stress
+the flexibility inherent in P2P networks, which undermines the idea of
+‘fixed and monopolistic cyberocracies’. Another author, Alexander Bard
+in Netocracy, argues that capitalism is already dead, and that we are
+already rules by a hierarchy of knowledge-based networks. At this stage,
+these are not very convincing arguments, but there is one scenario in
+which they can become possible. It has been described by Jeremy Rifkin
+in ‘The Age of Access’. But this scenario of ‘information feudalism’ is
+predicated on the destruction of P2P networks. Cognitive capitalism in
+indeed in the process of trying to increase its monopolistic rents on
+patented digital materials, a strategy which is undermined by the
+filesharing and information sharing on the P2P networks. If the industry
+succeeds in its civil war against its consumers, by integrating Digital
+Rights Management hardware in our very computers, and outlaws sharing
+through legal attacks and imprisonment, then such a scenario is
+possible. At that time we would have only private networks for which a
+license has to be paid, with heavily restrictive usage rules, and no
+ownership whatsoever for the consumer. This is indeed a scenario of
+exclusion for all those who will not be able to afford access to the
+networks. Just as in the feudal structure, where 'serf'-farmers did not
+own the land they were working on, we will not own any immaterial
+product anymore, we'll just have severely restricted usage rights, and
+certainly not the right to share. But we are far from that situation
+still, and personally, I do not think it is a likely scenario.
+
+At this moment, P2P is ‘winning’ because its solutions are inherently
+more productive and democratic, and it is hard to see any social force,
+be it the large corporations, permanently sabotaging the very
+technological developments that it needs to survive. More likely,
+barring a scenario of a collapse of civilization and a return to
+barbarity, it is more likely to see a social system evolve that
+incorporates this new level of complexity and participation.
+
+One element I have yet to mention is the freedom aspect, which seems
+obvious. P2P is predicated on the maximum freedom. The freedom to join
+and participate, to fully express oneself and one’s potential, the
+freedom to change course at any point in time, the freedom to quit.
+Within the common projects, freedom is constrained through communal
+validation and consensus (i.e. the freedom of others). But individuals
+can always leave, fork to a new project, create their own. The challenge
+is to find affinities, to create a common sphere with at least a few
+others and to create effective use value. Unlike in representative
+democracy, it is not a model based on a majority imposing its will on a
+minority.
+
+Despite the fact that Peer to Peer reverses a number of value
+hierarchies introduced by the Enlightenment, in particular the
+epistemologies and ontologies of modernity, it is a continuation and
+partial realization of the emancipatory project. It is in the definition
+of Wallerstein, an eminently democratic project. Peer to peer partly
+reflects postmodernity, and partly transcends it.
+
+Retrieved from
+"[?title=4.2.B.\_Equality,\_Hierarchy,\_Freedom&oldid=1818][]"
+
+-   This page was last modified on 18 November 2005, at 10:39.
+-   This page has been accessed 1,406 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.2.B._Equality,_Hierarchy,_Freedom
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:4.2.B._Equality,_Hierarchy,_Freedom&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.2.B._Equality,_Hierarchy,_Freedom
+  [View source]: ?title=4.2.B._Equality,_Hierarchy,_Freedom&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.2.B._Equality,_Hierarchy,_Freedom&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.2.B.+Equality%2C+Hierarchy%2C+Freedom
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.2.B._Equality,_Hierarchy,_Freedom
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.2.B._Equality,_Hierarchy,_Freedom
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.2.B._Equality,_Hierarchy,_Freedom&printable=yes
+  [Permanent link]: ?title=4.2.B._Equality,_Hierarchy,_Freedom&oldid=1818
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.2.B.\_Equality,\_Hierarchy,\_Freedom&oldid=1818]: ?title=4.2.B._Equality,_Hierarchy,_Freedom&oldid=1818
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

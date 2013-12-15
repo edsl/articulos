@@ -1,0 +1,286 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+3.2 Explaining the Emergence of P2P Economics
+=============================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**3.2 Explaining the Emergence of P2P Economics**
+
+**3.2.A. Advantages of the free software/open sources production model**
+
+[3.2.B. How far can peer production be extended?][]
+
+**3.2.A. Advantages of the free software/open sources production model**
+
+Why are free cooperative projects of autonomous agents, i.e. peer
+production models, emerging now? Part of the explanation is cultural,
+located in a changing set of values affecting large parts of the
+population, mostly in the Western world. The World Values research by R.
+Inglehart (Inglehart, 1989) has shown that there is a large number of
+people who identify with post-material values and who have moved up in
+the ‘hierarchy of values’ as defined by Abraham Maslow. For those people
+who feel relatively secure materially, and are not taken in by the
+infinite desires promoted by consumer society, it is inevitable that
+they will look to other means of fulfillment, in the area of creation,
+relationships, spirituality. The demand for free cooperation in a
+context of self-unfolding of the individual, is a corollary of this
+development. Just as the development of filesharing is related to the
+existence of an abundance of unused computing resources due to the
+differential between computer processing and human processing (the fact
+that the latter is much slower creates the abundance in PC-resources),
+P2P as a cultural phenomena is strongly related to the development of a
+mass intellectually and the resulting abundance in creative resources.
+Not only underemployment of these resources, but also the growing dearth
+of meaning associated with working for a consumption-oriented
+corporation, creates a surplus of creative labor that wants to invest in
+meaningful projects associated with the direct creation of use value.
+
+Apart from these cultural and 'subjective' reasons, there is of course
+the availability of a global technological framework for non-local
+communication, coordination and cooperation, it is strongly linked to
+the emergence of the Internet. As we have outlined in our introduction,
+there is now a peer to peer infrastructure available through distributed
+computing, an alternative media and communication infrastructure, and a
+platform for global autonomous cooperation. In general we can say that
+it is access to distributed capital goods, that allows for the
+generation of bottom-up ad hoc networks of people and devices. This fact
+that 'capital outlays' can be generated without recourse to access to
+financial capital or the means provided by the state or corporations, is
+itself a huge advantage.
+
+There are other good objective reasons that drive the adoption of 'open
+collaborative processes: the very 'diffuse' nature of contemporary
+innovation works against individual appropriation, since there are
+myriads of inputs necessary to produce a given output, and were that
+output to be frozen through rigid intellectual protection, it would
+stifle the innovation process, and put these entities at a competitive
+disadvantage .
+
+By abolishing distinctions between producer and consumer, open source
+processes dramatically increase their access to expertise, to a global
+arena networked through the internet. No commercial entity can enlist
+such a large army of volunteers. So one very clear advantage is the
+availability of a much larger pool of intelligence which can be devoted
+to problem-solving. Peer production, though often taken place through a
+large number of small teams, also allows for swarming tactics, i.e. the
+coordinated attention of many people. It is sometimes called the
+'piranha effect' as it involves repeated tugging of code or text by many
+different people, until the result is 'right' and communally validated.
+Commercial software, which forbids other developers and users from
+ameliorating it, is much more static in its development and has many
+other flaws . With FLOSS (=Free Libre Open Sources Software) projects,
+any user can participate, at least through a bug report, or by offering
+his comments. This 'flexible degree of involvement' is a very important
+characteristic of commons-based peer production, which usually combine a
+very motivated core who operate in a onion-like structure surrounded by,
+a flexible periphery of co-developers and occasional collaborators, with
+many degrees in between, and all have the possibility of permanently
+'modulating' their contributions for optimal fit in their personal
+contexts. Indeed, because the cooperation is free, participants function
+passionately and optimally without coercion.
+
+The ‘Wisdom Game’, which means that social influence is gained through
+reputation, augments the motivation to participate with high quality
+interventions. In surveys of participants of such projects, the most
+frequently cited motivation is the writing of the code itself, i.e. the
+making of the software, and the associated ‘learning’ . Because a
+self-unfolding logic is followed which looks for optimal feeling of
+flow, the participants are collaborating when they feel most energized.
+Open source availability of the source code and documentation means that
+the products can be continuously improved. Because of the social control
+and the reputation game, abusive behavior can be controlled and abuse of
+power is similarly dependent on collective approval. Eric Raymond has
+summarized the advantages of peer production in his seminal The
+Cathedral and the Bazaar: 1) programmers motivated by real problems work
+better than salary men who do not freely choose their area of work; 2)
+"good programmers can write, but great programmers can rewrite", the
+latter is greatly accelerated by the availability of open code; 3) more
+users can see more bugs, the number of collaborators and available
+brainpower is several orders of magnitude greater; 4) continuous
+multiple corrections hasten development, while version control permits
+falling back on earlier versions in case of instability of the new
+version; 5) the Internet allowed global cooperation to occur.
+
+In the sphere of immaterial production and distribution, such as for
+example the distribution of music, the advantages of online distribution
+through P2P processes are unmatched. In the sphere of material
+production, through essentially the contributions of knowledge workers,
+similarly P2P processes are more efficient than centralized hierarchical
+control.
+
+Yochai Benkler, in a famous essay, ‘Coase’s Penguin’, has given a
+rationale for the emergence of P2P production methodologies, based on
+the ideas of ‘transaction costs’. In the physical world, the cost of
+bringing together thousands of participants may be very high, and so it
+may be cheaper to have centralized firms than an open market. This is
+why earlier experiences with collectivized economies could not work. But
+in the immaterial sphere used for the production of informational goods,
+the transaction goods are near-zero and therefore, open source
+production methods are cheaper and more efficient. The example of
+Thinkcycle , where open source methods are used for a large number of
+projects, such as fighting cholera, show a wide applicability of the
+method. Open source methods have already been applied with a certain
+success in the biotechnogical field and is being proposed as an
+alternative in an increasing number of new areas . An interesting twist
+on the transaction cost theory of Yochai Benkler is given by Clay
+Shirky, who explains the role of 'mental transaction costs' in the
+'economy of attention', which to a large degree, explains the phenomenon
+of 'gratuity' in internet publishing, and why payment schemes, including
+micropayment, are so ineffective.
+
+Aaron Krowne, writing for Free Software magazine, has proposed a set of
+laws to explain the higher efficiency of CBPP (= Commons-based peer
+production) models:
+
+(Law 1.) When positive contributions exceed negative contributions by a
+sufficient factor in a CBPP project, the project will be successful.
+
+This means that for every contributor that can ‘mess things up’, there
+have to be at least 10 others who can correct these mistakes. But in
+most projects the ration is 1 to 100 or 1 to 1000, so that quality can
+be maintained and improved over time.
+
+(Law 2.) Cohesion quality is the quality of the presentation of the
+concepts in a collaborative component (such as an encyclopedia entry).
+Assuming the success criterion of Law 1 is met, cohesion quality of a
+component will overall rise. However, it may temporarily decline. The
+declines are by small amounts and the rises are by large amounts.
+
+Individual contributions which may be useful by themselves but diminish
+the overall balance of the project, will always be discovered, so that
+decline can only be temporary.
+
+(Corollary.) Laws 1 and 2 explain why cohesion quality of the entire
+collection (or project) increases over time: the uncoordinated temporary
+declines in cohesion quality cancel out with small rises in other
+components, and the less frequent jumps in cohesion quality accumulate
+to nudge the bulk average upwards. This is without even taking into
+account coverage quality, which counts any conceptual addition as
+positive, regardless of the elegance of its integration.
+
+Retrieved from
+"[?title=3.2\_Explaining\_the\_Emergence\_of\_P2P\_Economics&oldid=65414][]"
+
+[Categories][]:
+
+-   [Peerproduction][]
+-   [Manufacturing][]
+-   [P2P Theory][]
+
+-   This page was last modified on 21 October 2012, at 19:07.
+-   This page has been accessed 2,057 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /3.2_Explaining_the_Emergence_of_P2P_Economics
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:3.2_Explaining_the_Emergence_of_P2P_Economics&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /3.2_Explaining_the_Emergence_of_P2P_Economics
+  [View source]: ?title=3.2_Explaining_the_Emergence_of_P2P_Economics&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=3.2_Explaining_the_Emergence_of_P2P_Economics&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=3.2+Explaining+the+Emergence+of+P2P+Economics
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/3.2_Explaining_the_Emergence_of_P2P_Economics
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/3.2_Explaining_the_Emergence_of_P2P_Economics
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=3.2_Explaining_the_Emergence_of_P2P_Economics&printable=yes
+  [Permanent link]: ?title=3.2_Explaining_the_Emergence_of_P2P_Economics&oldid=65414
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [3.2.B. How far can peer production be extended?]: /3.2.B._How_far_can_peer_production_be_extended%3F
+    "3.2.B. How far can peer production be extended?"
+  [?title=3.2\_Explaining\_the\_Emergence\_of\_P2P\_Economics&oldid=65414]:
+    ?title=3.2_Explaining_the_Emergence_of_P2P_Economics&oldid=65414
+  [Categories]: /Special:Categories "Special:Categories"
+  [Peerproduction]: /Category:Peerproduction "Category:Peerproduction"
+  [Manufacturing]: /Category:Manufacturing "Category:Manufacturing"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

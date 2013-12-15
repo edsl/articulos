@@ -1,0 +1,391 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+2.1.C. The construction of an alternative media infrastructure
+==============================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**2.1.C. The construction of an alternative media infrastructure**
+
+Distributed technological networks are the most important infrastructure
+for cognitive capitalism. But as a communication infrastructure, the
+dominant transnational corporations could for a long time rely on their
+own private telecommunication networks. The internet has radically
+democratized access to this kind of infrastructure, to everyone with
+access to a computer. Similarly, for its cultural hegemony, the dominant
+social system has relied on "one to many" broadcasting system, which
+require a heavy capital outlay, and are controlled by monopolistic
+corporate interests, in charge of 'manufactured consent', and in other
+countries, by the state itself. The stranglehold of corporate media is
+such, including its hold on our very psyche's (we 'think like
+television' even when we've not been watching it for years). It has
+become all but impossible for any social minority (except religious and
+ethnic groups which can marshall vast resources themselves) to have its
+voice heard. Media reform seems definitely beyond reach. However, though
+the internet is also characterized by a certain commercial exploitation,
+and by very strong commercial entities such as Yahoo, as a whole, and as
+a distributed network, it is not owned nor controlled by commercial
+entities, but by a network of various entities: commercial,
+governmental, nongovernmental, etc... It contains the historical promise
+of an 'alternative information and communication infrastructure', a many
+to many, bottom-up resource that can be used by various social forces.
+Mackenzie Wark, in his Hacker Manifesto, distinguishes the producers of
+immaterial use value, from the owners of the vectors of information,
+without whom no exchange value can be realized. The promise of the
+internet is that we now have a vector of information production,
+distribution and exchange, that functions at least partly outside of the
+control of what he calls the 'vectoralist' class. The situation seems to
+be the following, and we use the distinctions drawn up by Yochai Benkler
+in his "The Political Economy of the Commons" essay. The physical layer,
+networks, and communication lines, are widely distributed between
+commercial, state, and academic interests, with no single player or set
+of players dominating, and the computers themselves are widely in the
+hands of the public and civil society. The logical layer, especially
+TCP/IP, and increasingly the various aspects of the read/write Web, the
+filesharing protocols are still systematically rigged for participation.
+The content layer, is on the one hand subject to an increasingly harsh
+intellectual property regime, but, commercial players are themselves
+subject to the logic of the economy of attention and the Wisdom Game,
+dictating policies of information sharing and giving, in order to get
+the attention. Next to the commercial portals, which may or may not play
+a nefarious role, the public is widely enabled to create its own
+content, and has been doing so by the millions. While part of the
+previously existing Information Commons or public domain is
+disappearing, other parts are being continuously constructed through the
+myriad combined efforts of civil society users.
+
+This process is in full swing and is what we attempt to describe in this
+section. Below, I reproduce an adapted version of a diagram from Hans
+Magnus Enzensberger, which outlines the difference between 'repressive'
+and 'emancipatory' media. Without any doubt, the emerging alternative
+media infrastructure has an overwhelming number of characteristics of
+being an 'emancipatory' medium: 1) it is based on distributed
+programming (not just a few); 2) each receiver is a potential
+transmitter (not just a few broadcasters); 3) it has mobilization
+potential (it doesn't generate passivity); 4) it is characterized by
+interaction and self-production; 5) it enables a political learning
+process; it allows collective production by equipotent participants; 6)
+the social control is effected through self-organisation. Just compare
+this list to the characteristics of corporate television! Thus, the
+historical importance of these developments seems overwhelmingly clear.
+This does not mean that the alternative internet media infrastructure
+automatically leads to emancipation, but that it can certainly enable
+political processes in that direction.
+
+Let us now summarise these developments in technical terms. In terms of
+media, the broadband internet is rapidly mutating to enhance the
+capacities to create distributed online publishing in the form of the
+Writeable Web (also called read-write web) and blogging in particular;
+the distribution of audio programming is possible through internet radio
+and various audioblogging developments such podcasting (audio content,
+music or video distribution through iPod or MP3 players), and other
+types of 'time-shifted radio' such as mobcasting ('casting' to mobile
+phones), and even Skypecasting (using the popular Voice over Internet
+Telephony software Skype , but for broadcasting purposes, especially
+Internet radio programs). Audiovisual distribution, which we can call
+public webcasting as it incorporates both audio and video, is possible
+through the emerging video blogging (vlogging ), but mostly through
+broadband P2P filesharing systems such as Bittorrent and Exeem , now
+already responsible for the majority of internet traffic . While Exeem
+is still in development at the time of writing this paragraph (June
+2005), Bittorrent is considered to be a major innovation making easy
+broadband-based audiovisual distribution all but inevitable. A wide
+variety of associated services is being developed by small companies or
+cooperative groups to assist citizens in their own production of
+audiovisual material . What these services such as Common Bits and the
+Broadcast Machine do, is to transform Bittorrent technology into a
+internet broadcasting platform that can be used by common users without
+expert technical knowledge.
+
+All these developments taking together mean that the creation of an
+alternative information and communication infrastructure, outside of the
+control and ownership of the state and corporate-based one-to-many
+broadcasting systems, is well under way. These developments are not the
+product of a conscious activist strategy as the one proposed by Mark
+Pesce and practiced by players such as Indymedia, but it also to a large
+degree the natural outgrowth of the empowerment of the users, who,
+whenever they by a WiFi hub, or install Skype for personal usage, or any
+other natural act of ameliorating their own connectivity, are building
+this alternative infrastructure, from the edges onward, step by step,
+and this is also why it seems quite unstoppable . In a sense, this is
+another example of the 'production without a manufacturer' or 'the
+supply-side supplying itself*, explained in 3.1.A (and notes).*
+
+These technological developments form the basis for a new practice of
+citizen-produced 'journalism' or 'reporting' by a 'self-informing
+public' centered around the phenomemon of blogs, and augmented by the
+other techniques we have been discussing . See the example of the Korean
+OhMyNews , working with 35,000 citizen reporters and 40 staff members,
+as an example of a new type of hybrid journalism. These developments are
+a new vehicle for the production of 'public opinion', for the creation,
+expression , distribution and sharing of knowledge. And it is both
+supplementing and competing with the traditional mass media vehicles
+that used to mold public opinion . It represents an important
+opportunity to distribute views that fall outside the purview of
+'manufactured consent'. Clay Shirky has called it a 'process of mass
+amateurisation' , an analysis that is related to my own concept of
+'de-institutionalisation', a key aspect of peer to peer process which I
+discuss in 3.3.C.
+
+All this outpouring of expression, news and commentary is interlinked in
+a blogosphere, which has developed its own techniques to distill what is
+important, from what is less important. Similar with the broadcast model
+is that the blogosphere still has hubs and connectors drawing large
+crowds, but different is that it creates the possibility of a "long
+tail". This means that whereas in the broadcast world the distribution
+curve bottoms out at the end, with no resources left for minority
+interests, in P2P media, this bottoming out does not occur (the curve
+flattens before reaching the bottom), because the possibility exists of
+creating thousands upon thousands of micro-communities, organized by
+affinity. David Weinberger, focusing on the role of the blog for the
+individual, says it is 'an expression of 'the self in conversation' ,
+that is available as a permanent record (through the innovation of
+permalinks,which create a fixed and permanent URL for every entry,
+unlike webpages which were always subject to change and disappearance).
+A crucial innovation for the spread of blogs has been the development of
+RSS feeds , i.e. Really Simple Syndication, which allows internet users
+to 'subscribe' to any blog they like, and to manage the totality of
+their feeds through their email, RSS reader software, or online sites
+like Bloglines. Related to the emergence and growth of the blogosphere,
+is the growth in self-publishing, no longer the domain of dejected
+authors, but becoming a first choice for many who desire to reach a
+public directly without the traditional publisher intermediaries .
+
+Therefore, in physical terms, for the evolving telecommunications
+infrastructure, the broadcast model is being replaced by the ‘meshwork
+system’, which is already used by the Wireless Commons movement to
+create a worldwide wireless communications network that aims to bypass
+the Telco infrastructure . Several local governments aim to aid such a
+process . For Yochai Benkler,the development of a "Open physical layer"
+based on open wireless networks, the so-called Spectrum Commons, is a
+key precondition for the existence of a "Core Common Infrastructure".
+
+In such a system a wide array of local networks is created at very low
+cost, while they are interlinked with ‘bridges’. The technical
+breakthrough making this possible is the invention of Viral
+Communicators , or meshworks of cooperating devices that do not need an
+infrastructure or a backbone but themselves create the network through
+their excess capacity. Communication on these networks follows a P2P
+model, just like the internet. Mark Pesce has already developed a
+realistic proposal to build an integrated alternative network within ten
+years , based on similar premises, and with the additional concept of
+developing a 'Open Source TV Tuner' which he predicts will completely
+overturn traditional broadcasting. (The same technology could also be
+used for phone calls, once hybrid WiFi phones are available .) He has
+developed serious arguments about why 'netcasting' is not only
+economically feasible, but superior to the broadcasting model . There
+are also already commercial versions of ‘file-serving television’ models
+such as the one pioneered by TiVo as well as the different plans
+involving TV over Internet Protocol . "Radio Your Way" is a similar,
+though less popular, application for radio and there is a similar broad
+array of internet radio developments . Telephony using the Internet
+Protocol , recently popularized by Skype, is similarly destined to
+overcome the limitations of the hitherto centralized telephone system.
+P2P is generally seen as the coming format of the telecommunication
+infrastructure, even by the industry itself, and confirmed by my own
+former experience as strategic planner in that industry. British Telecom
+has declared that by 2008, the entirety of its network will have been
+converted to TCP/IP protocols.
+
+While mobile telephony is strongly centralized and controlled, it will
+have to compete with wireless broadband networks, and users are busily
+turning it into yet another participative medium, as described by Howard
+Rheingold in Smart Mobs.
+
+In the above phenomenology of P2P, notice that I have taken an extreme
+literal definition of P2P, as many hybrid forms exist, but the important
+and deciding factor is: does it enable the participation of equipotent
+members? One of the key factors is: how inclusionary is the social
+practice, or technology, or theory ,or any other manifestation of the
+P2P ethos.
+
+These developments almost certainly mean that a new format of
+distribution and consumption is arising. At stake is the eventual
+unsustainability of the current TV broadcast model, in which the TV
+stations sell their audiences to advertisers, because they control the
+audience and the distribution of the programs. In the new form of
+distribution, in which users themselves take control of the choice and
+timing of the programs, because of the easy replication throughout the
+internet, both disintermediation and re-intermediation occur. The
+"hyperdistribution" of audiovisual material, think about the millions
+already downloading movies and TV programs, creates a direct link
+between producers and consumers. However, the economy of attention
+suggests process of re-intermediation. But as we have seen in the
+blogosphere for printed content, this process can be undertaken by
+clever algorhythms and protocols and reputation-based systems, coupled
+with processes of viral diffusion of recommendations in affinity groups,
+and do not necessarily mean commercial portals or intermediaries. In a
+upcoming book, Mark Pesce has coined the concept of 'hyperpeople' to
+describe the new generation of techno-savvy youngsters who are already
+living this new reality, and as the technology becomes increasingly
+easier to use, it will be spreading throughout the population. And of
+course, it is not just a new form of consumption, there are also changes
+at the producer side, with audiences becoming themselves the producers
+of audiovisual material, as we can see in the growth of podcasting
+programs. Two consequences flow from this. First, the generalization of
+the phenomemom of the "Long Tail",whereby minority audiences are no
+longer constrained by the 'lowest common-denominator' mass media and
+mass marketing logic; and we can expect a flowering of creativity and
+self-expression. Second, the possibility of new majorities of taste and
+opinion forming, outside of the constraints of the mass production of
+unified corporate taste. As we expect from the playing out of P2P
+processes, we see both a strengthening of personal autonomy and a new
+type of collectivity. For some time now, we have seen democracies bypass
+majority opinions and the development of hypermanipulation. The hope is
+that techno-social developments are creating the possibility of a new
+balance of power, a 'second superpower' of global public opinion that is
+more democratic in character.
+
+To judge the progress or regress of these efforts, we should look at
+developments in the physical layer of the internet: who owns and
+controls it, at present a wide variety of players, with a key role for
+the public and civil society who own the computers which are in fact the
+intelligent core of the internet; the logical layer or protocols, which
+pits closed systems against open systems in a continious conflict; and
+the content layer, which pits the free creation of an Information
+Commons against permanent attempts to strengthen restrictive
+intellectual property rights. According to Yochai Benkler, what we need
+is a Core Commons Infrastructure, which would consist of an
+
+-   an open physical layer in the form of open wireless networks, a
+    'spectrum commons'
+-   an open logical layer, i.e. systematic preference for open protocols
+    and open platforms
+-   an open content layer, which means the roll back of too restrictive
+    IP laws geared to defend business monopolies and stifle the
+    development of a free culture
+
+Let's conclude by assessing the current 'techno-social' state of
+progress of such an alternative infrastructure:
+
+-   Bittorrent , Exeem, and other software programs enable broadband
+    peercasting
+-   Viral diffusion exists to circulate information about programming
+
+What needs to be built is:
+
+-   a meshwork of netcasting transmitters, as proposed by Mark Pesce
+-   user-friendly desktop software, to manage content (Pesce's Open
+    Tuner proposal)
+-   better social mechanisms to select quality into such an alternative
+    framework
+
+\
+ *Figure – Repressive Media vs. Emancipatory Media: Not available in
+this version, request manuscript by email*
+
+\
+
+Retrieved from
+"[?title=2.1.C.\_The\_construction\_of\_an\_alternative\_media\_infrastructure&oldid=16456][]"
+
+-   This page was last modified on 3 November 2007, at 11:50.
+-   This page has been accessed 2,389 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /2.1.C._The_construction_of_an_alternative_media_infrastructure
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:2.1.C._The_construction_of_an_alternative_media_infrastructure&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /2.1.C._The_construction_of_an_alternative_media_infrastructure
+  [View source]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=2.1.C.+The+construction+of+an+alternative+media+infrastructure
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/2.1.C._The_construction_of_an_alternative_media_infrastructure
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/2.1.C._The_construction_of_an_alternative_media_infrastructure
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&printable=yes
+  [Permanent link]: ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&oldid=16456
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=2.1.C.\_The\_construction\_of\_an\_alternative\_media\_infrastructure&oldid=16456]:
+    ?title=2.1.C._The_construction_of_an_alternative_media_infrastructure&oldid=16456
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

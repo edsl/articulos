@@ -1,0 +1,322 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.3. Evolutionary Conceptions of Power and Hierarchy
+====================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.3. Evolutionary Conceptions of Power and Hierarchy**
+
+Japanese scholar Shumpei Kumon has given the following evolutionary
+account of power. In premodernity, he says, power is derived from
+military force. The strong conquer the weak and exact tribute, part of
+the produce of the land, labor (the corvee system). Rome was rich
+because it was strong. In modernity, military force eventually looses
+its primary place and monetary power takes over. Or in other words, the
+U.S. is strong because it is rich. It's productive capacity is more
+important than its military might, the latter derives from the former.
+It is commercial and financial power that are the main criterion of
+strength and success. In late modernity, a new form of power is born,
+through the power of the mass media. The U.S. lost the war, not because
+the Vietnamese were stronger militarily, or had more financial clout,
+but because the U.S. lost the war for the hearts and minds, and lost
+social support for the war effort. With the emergence of the internet
+and peer to peer processes, yet a new form of power emerges, and Kumon
+calls it the Wisdom Game . In order to have influence, one must give
+quality knowledge away, and thus build reputation, through the
+demonstration of one’s ‘Wisdom’. The more one shares, the more this
+material is used by others, the higher one’s reputation, the bigger
+one’s influence. This process is true for individuals within groups, and
+for the process among groups, thus creating a hierarchy of influence
+amongst networks. But as I have argued, in a true P2P environment, this
+process is flexible and reversible to a much larger extent than in the
+previous systems.
+
+According to the French philosopher and historian Michel Foucault,
+premodern systems, including the early modern classical era of the 18th
+century, are characterized by the motto ‘make die or let live’: the
+sovereign has the power of life and death, but does not greatly
+interfere in the life of his subjects, which is ruled by custom and the
+divine precepts of the spiritual power. In modernity, Foucault sees two
+new forms of power arising: disciplinary power and biopower.
+Disciplinary power starts from the point of view that society consists
+of autonomous individuals, which are in need of socialization and
+‘discipline’, so that they can be integrated in the normative framework
+of capitalist society. Biopower is the start of the total management of
+life, from birth to death, of the great mass of the people. The new
+motto is therefore, said Foucault: ‘make live, let die’.
+
+His contemporary Gilles Deleuze noted a change though. In mass-media
+dominated postmodern society, which became dominant after 1968,
+disciplinary institutions enter in crisis. What is used is the
+internalization of social requirements through the use of the mass
+media, advertising and PR, with control mechanisms in place, which focus
+on making sure the right results are attained. The individual is now
+himself in charge of making it happen. Power has become more democratic,
+more social, more immanent to the social field, "distributed throughout
+the brains and bodies of the citizens" (Negri's Empire, p. 23). Philippe
+Zafirian, in his essay Temps et Modernite, further re-interprets the
+work of Deleuze by applying it to the workplace and calls the new power,
+the power of modulation, 'control by modulation' . Instead of tightly
+describing and dividing jobs, and controlling their debit, as was the
+case in the 'modern' factory system and in particular in the
+Fordist/Taylorist period, the focus is now on 'objectives' and
+'deadlines'. Both the manager and the work are constantly evaluating and
+self-evaluating their ability to conform to the high-pressure objectives
+and deadlines, but are 'free' in how to attain it. Zafirian uses the
+metaphor of the 'elastic' : you can pull it in different directions,
+within it you are free to go about, but there are indeed limits that
+cannot be crossed.
+
+In any case, Deleuze already prefigured, so many years ahead, the
+emerging dominance of distributed networks (rhizomes). If Foucault was
+the philosopher and historian of power of modernity, then Deleuze and
+Guattari can be considered to be the early theorizers of power in the
+network era. However there is a danger in missing important
+developments, radical innovations even, if we conflate the post-1968
+under the one heading of postmodernity, since that would miss the
+accelerated growth of peer to peer processes, which started only in the
+1990's, after the popularization of the internet. Perhaps future
+historians will date a new era that began in 1989, with the fall of the
+Berlin Wall indicating the moment when the free flow of information
+began to destroy the most authoritarian regimes. In the figures below, I
+explicitly distinguish the postmodern era, from the emerging peer to
+peer era.
+
+The P2P era indeed adds a new twist, a new form of power, which we have
+called Protocollary Power, and has first been clearly identified and
+analyzed by Alexander Galloway in his book Protocol. We have already
+given some examples. One is the fact that the blogosphere has devised
+mechanisms to avoid the emergence of individual and collective
+monopolies, through rules that are incorporated in the software itself.
+Another was whether the entertainment industry would succeed in
+incorporating software or hardware-based restrictions to enforce their
+version of copyright. There are many other similarly important
+evolutions to monitor: Will the internet remain a point to point
+structure? Will the web evolve to a true P2P medium through Writeable
+Web developments? The common point is this: social values are
+incorporated, integrated in the very architecture of our technical
+systems, either in the software code or the hardwired machinery, and
+these then enable/allow or prohibit/discourage certain usages, thereby
+becoming a determinant factor in the type of social relations that are
+possible. Are the algorhythms that determine search results objective,
+or manipulated for commercial and ideological reasons? Is parental
+control software driven by censorship rules that serve a fundamentalist
+agenda? Many issues are dependent on hidden protocols, which the user
+community has to learn to see (as a new form of media literacy and
+democratic practice), so that it can become an object of conscious
+development, favoring peer to peer processes, rather than the
+restrictive and manipulative command and control systems. In P2P
+systems, the formal rules governing bureaucratic systems are replaced by
+the design criteria of our new means of production, and this is where we
+should focus our attention. Galloway suggests that we make a diagram of
+the networks we participate in, with dots and lines, nodes and edges.
+Important questions then become: Who decides who can participate?, or
+better, what are the implied rules governing participation? (since there
+is no specific 'who' or command in a distributed environment); what kind
+of linkages are possible? On the example of the internet, Galloway shows
+how the net has a peer to peer protocol in the form of TCP/IP, but that
+the Domain Name System is hierarchical, and that an authorative server
+could block a domain family from operating. This is how power should be
+analyzed. Such power is not per se negative, since protocol is needed to
+enable participation (no driving without highway code!), but protocol
+can also be centralized, proprietary, secret, in that case subverting
+peer to peer processes. However, the stress on protocol, which concerns
+what Yochai Benkler calls the 'logical layer' of the networks, should
+not make us forget the power distribution of the physical layer (who
+owns the networks), and the content layer (who owns and controls the
+content).
+
+The key question is: do the centralized and hierarchical elements in the
+protocol, enable or disable participation? This is shown in the
+following account of the development of the theory and practice of
+hierarchy, submitted to us by John Heron in a personal communication. In
+true peer to peer, the role of hierarchy is to enable the spontaneous
+emergence of 'autonomy in cooperation':
+
+"There seem to be at least four degrees of cultural development, rooted
+in degrees of moral insight:
+
+​(1) autocratic cultures which define rights in a limited and oppressive
+way and there are no rights of political participation;
+
+​(2) narrow democratic cultures which practice political participation
+through representation, but have no or very limited participation of
+people in decision-making in all other realms, such as research,
+religion, education, industry etc.;
+
+​(3) wider democratic cultures which practice both political
+participation and varying degree of wider kinds of participation;
+
+​(4) commons p2p cultures in a libertarian and abundance-oriented global
+network with equipotential rights of participation of everyone in every
+field of human endeavor."
+
+Heron adds that "These four degrees could be stated in terms of the
+relations between hierarchy, co-operation and autonomy.
+
+​(1) Hierarchy defines, controls and constrains co-operation and
+autonomy;
+
+​(2) Hierarchy empowers a measure of co-operation and autonomy in the
+political sphere only;
+
+​(3) Hierarchy empowers a measure of co-operation and autonomy in the
+political sphere and in varying degrees in other spheres;
+
+​(4) The sole role of hierarchy is in its spontaneous emergence in the
+initiation and continuous flowering of autonomy-in-co-operation in all
+spheres of human endeavor
+
+From all of the above, we can conclude that hierarchy does not disappear
+in peer to peer processes, but that it changes its nature. Hierarchy, or
+authority ranking as it is called by Alan Fiske, takes on new forms such
+as peer governance, servant leadership, multistakeholdership.
+
+Here is how Joseph Rost defines leadership in the new collaborative era:
+
+“The first is that the activities be influential, that is, noncoercive.
+The second is that the activities be done by people in a relationship.
+The third is that the activities involve a real significant change. And
+the fourth element is that the activities reflect the purposes of the
+people in the relationship, not just a single person. All of these
+standards insure collaboration rather than the notion that leadership is
+a great leader doing great things ."
+
+Similarly, another author on leadership, Jeffrey S. Nielsen
+distinguishes ‘rank thinking’, from ‘peer thinking’:
+
+"I define rank thinking as the belief that only a few in any
+organization should be given special privilege to monopolize
+information, control decision-making, and command obedience from the
+vast majority either through coercive or manipulative power. Peer
+thinking, on the other hand, is the belief that everyone in the
+organization should have equal standing to share in information,
+participate in the decision-making process, and choose to follow through
+persuasive means. Peer thinking assumes that we each have equal
+privilege to speak and an obligation to listen. Peer-based organizations
+create a space--an arena--where we come to recognize and respect one
+another as equal participants in organizational life ."
+
+Retrieved from
+"[?title=4.3.\_Evolutionary\_Conceptions\_of\_Power\_and\_Hierarchy&oldid=57019][]"
+
+[Categories][]:
+
+-   [P2P Hierarchy Theory][]
+-   [P2P Theory][]
+
+-   This page was last modified on 26 December 2011, at 00:13.
+-   This page has been accessed 1,661 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy
+  [View source]: ?title=4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.3.+Evolutionary+Conceptions+of+Power+and+Hierarchy
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&printable=yes
+  [Permanent link]: ?title=4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&oldid=57019
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.3.\_Evolutionary\_Conceptions\_of\_Power\_and\_Hierarchy&oldid=57019]:
+    ?title=4.3._Evolutionary_Conceptions_of_Power_and_Hierarchy&oldid=57019
+  [Categories]: /Special:Categories "Special:Categories"
+  [P2P Hierarchy Theory]: /Category:P2P_Hierarchy_Theory
+    "Category:P2P Hierarchy Theory"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

@@ -1,0 +1,202 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+4.1.E. New conceptions of social and political struggle
+=======================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**4.1.E. New conceptions of social and political struggle**
+
+The change in political practices has been reflected by new thinking in
+the field of political theory. Among the thinkers that come to mind are
+Toni Negri and Michael Hardt, with their books Empire and Multitude,
+Miguel Benasayag with his book “Le Contre-Pouvoir", and John Holloway
+with ‘Revolution Without Power’.
+
+Negri/Hardt have (re-)introduced the concept of Multitude. Unlike the
+earlier concept of People or proletariat, multitudes do not have a
+synthetic unity. They exist in their differences. What is rejected is
+abstract human identity in favor of the organization for common goals of
+concrete humanity in its differences .
+
+Their concept is derived from the Enlightenment debate between Hobbes
+and Spinoza. Hobbes, pioneering thinker moving away from conceptions of
+divine order towards those of natural order, said that society consists
+of multitudes of equals, marked by different and contradictory desires
+and interests making them unable to constitute a society by themselves.
+In the state of nature, it’s war of all against all. Thus, to constitute
+society, they have to give away their power, to a sovereign to whom they
+give the power to rule and to create social order. This eventually
+becomes ‘uniting as a people’, in order to create a “nation-state", with
+representative democracy. But the unity comes at a price, not only does
+inclusion in the nation-state imply exclusion of others, but within,
+those who partake had to give away their power. Thus, political power is
+transcendent vs. the immanent power of the multitude, it rules ‘over
+them’. It is this characteristic of modernity which is falling away
+today: taking his clue from the more positive description of the
+multitude and their desires by Spinoza, which represents a counter-trend
+and thus a ‘alternative modernity’, Spinoza and Negri maintain that the
+multitudes can rule themselves, in a fully immanent way, by themselves,
+refusing any transcendence of their power. Theirs is a politics without
+representation, centered around the notion of non-representationality.
+
+Unlike the concept of People, which unifies but also rejects the
+non-People, the multitude is totally open and global from the outset. In
+terms of political strategy, they develop concepts like ‘Exodus’, which
+means no longer facing the enemy directly (in a network configuration of
+social movements, there is no direct enemy and in Empire ‘there is no
+there there’, i.e. the enemy cannot be precisely located as it is a
+network itself), but to route around obstacles and more importantly to
+refuse to give consent and legitimation by constructing alternatives in
+real-time, through networks. It is only when the multitudes are under
+direct attack, through reforms that are experienced as ‘intolerable’,
+that the network is galvanized into struggle, and that the very format
+of organizing prefigures already the society to come.
+
+Essential components of the multitude are the knowledge workers,
+affective ‘service’ workers, and other forms of immaterial labor. Miguel
+Benasayag similarly argues that ‘to resist is to create’, and that
+political struggle is essentially about the construction of
+alternatives, here and now. Current practice has to reflect the desired
+future, and has to emerge, not from the ‘sad passions’ of hate and
+anger, but from the joys of producing a commons. The Hacker Manifesto is
+another important expression of this new ethos.
+
+John Holloway frames a very similar sensibility it into a new conception
+of temporality. The traditional left used 'capitalist time-frames' he
+charges. First waiting, for the next reform, for the revolution, and
+'then' all will be different. But instead of taking power, which makes
+'us' become like 'them', and creates new asymmetries, we should be
+'building power', combining two temporalities: first, the temporality of
+refusal, the 'exodus' if you like, but simultaneously, build the world
+you desire 'now'. Capitalism exists not because it was once created, but
+because we are making it every day. He stresses that what is needed is
+not 'counter-power', but 'anti-power'.
+
+Though none of these authors explicitly use the peer to peer concept,
+their own concepts reflect its philosophy and practice, and they are
+generally in tune with the themes of the peer to peer advocates (such as
+favoring an information commons, support for free software and open
+source methodologies, etc…).
+
+A recent explicitly participatory political philosophy is being
+developed by a group of authors such as Mitch Ratcliffe, and is called
+Extreme Democracy . It is neither representative nor direct democracy
+but a proposal to have totally open participation in networks
+responsible for policymaking. The concept of 'Extreme' in this context,
+is related to the concept of 'extreme programming', a rapid, small-team
+like P2P process of producing software.
+
+Retrieved from
+"[?title=4.1.E.\_New\_conceptions\_of\_social\_and\_political\_struggle&oldid=22397][]"
+
+-   This page was last modified on 19 July 2008, at 05:40.
+-   This page has been accessed 1,343 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /4.1.E._New_conceptions_of_social_and_political_struggle
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:4.1.E._New_conceptions_of_social_and_political_struggle&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /4.1.E._New_conceptions_of_social_and_political_struggle
+  [View source]: ?title=4.1.E._New_conceptions_of_social_and_political_struggle&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=4.1.E._New_conceptions_of_social_and_political_struggle&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=4.1.E.+New+conceptions+of+social+and+political+struggle
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/4.1.E._New_conceptions_of_social_and_political_struggle
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/4.1.E._New_conceptions_of_social_and_political_struggle
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=4.1.E._New_conceptions_of_social_and_political_struggle&printable=yes
+  [Permanent link]: ?title=4.1.E._New_conceptions_of_social_and_political_struggle&oldid=22397
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=4.1.E.\_New\_conceptions\_of\_social\_and\_political\_struggle&oldid=22397]:
+    ?title=4.1.E._New_conceptions_of_social_and_political_struggle&oldid=22397
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

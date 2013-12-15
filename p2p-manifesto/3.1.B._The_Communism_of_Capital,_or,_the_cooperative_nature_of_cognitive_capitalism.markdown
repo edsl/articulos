@@ -1,0 +1,325 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+3.1.B. The Communism of Capital, or, the cooperative nature of cognitive capitalism
+===================================================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**3.1.B. The Communism of Capital, or, the cooperative nature of
+[Cognitive Capitalism][]**
+
+In modernity, the economic ideology sees autonomous individuals entering
+into contracts with each other, selling labor in exchange for wages,
+exchanging commodities for fair value, in a free market where the
+‘invisible hand’ makes sure that the private selfish economic aims of
+such individuals, finally contribute to the common good. The ‘self’ or
+subject of economic action is the company, led by entrepreneurs, who are
+the locus of innovation. Thus we have the familiar subject/object split
+operating in the economic sphere, with an autonomous subject using and
+manipulating resources.
+
+This view is hardly defensible today. The autonomous enterprise has
+entered a widely participative field that blurs clear distinctions and
+identities. Innovation has become a very diffuse process . It is linked
+with its consumers through the internet, today facing less a militant
+labor movement than a ‘political consumer’ who can withhold his/her
+buying power with an internet and blogosphere able to damage corporate
+images and branding in the very short term through viral explosions of
+critique and discontent. It is linked through extranets with partners
+and suppliers. Processes are no longer internally integrated, as in the
+business process re-engineering of the eighties, but externally
+integrated in vast webs of inter-company cooperation. Intranets enable
+widespread horizontal cooperation not only for the workers within the
+company, but also without. Thus, the employee, is in constant contact
+with the outside, part of numerous innovation and exchange networks,
+constantly learning in formal but mostly informal ways. Because of the
+high degree of education and the changing nature of work which has
+become a series of short-term contracts, a typical worker has not in any
+real sense gained his essential skills and experience within the company
+that he is working for at any particular moment, but expands on his
+skill and experience throughout his working life. Innovation today is
+essentially 'socialized' and takes place 'before' production, or 'after'
+production, with reproduction being at marginal cost concerning
+immaterial goods, and even if costly in the material sphere, being just
+an execution of the design phase .
+
+Moreover, because the complexity, time-based, innovation-dependent
+nature of contemporary work, for all practical terms, work is organized
+as a series of teams, using mostly P2P work processes. In fact, as
+documented very convincingly by [Eric von Hippel][], in his book "The
+Democratization of Innovation" (Von Hippel, 2004), innovation by users
+(and particularly by what he calls 'lead users' ) is becoming the most
+important driver of innovation, more so than internal market research
+and R & D divisions. It is subverting one of the mainstays of the
+division of labor. Commentators have noted that the whole dichotomy
+between professionals and amateurs are in fact dissolving, giving rise
+to the phenomena of 'citizen engineers' . Users, better than the
+scientists, know what they need and now have the skills to develop
+solutions for themselves, using other users for peer support . These
+user innovation communities are very important in the world of extreme
+sports such as windsurfing for example , in technology and online music
+, and in an increasing number of other areas. Recently, in May 2005,
+Trendwatching.com, a business-oriented innovation newsletter using
+thousands of spotters worldwide, has devoted a whole issue to the topic
+of 'Customer-made innovation', highlighting several dozen examples in
+all sectors of the economy. These trends will be greatly strengthened
+with the further development of 'personal fabricator' technology. But
+even before this, the process of creating an infrastructure for this
+type of do-it-yourself economy is proceeding apace .
+
+The smarter companies are therefore consciously breaking down the
+barriers between production and consumption, producers and consumers, by
+involving consumers, sometimes in a explicit open-source inspired
+manner, into value creation . Think of how the success of eBay and
+Amazon are linked to their successful mobilization of their user
+communities: they are in fact integrating many aspects of commons-based
+peer production. There are of course important factors, inherent in the
+functioning of capitalism and the format of the enterprise, which cause
+structural tensions around this participative nature, and the use of P2P
+models, which we will cover in our explanatory section . The same type
+of user-driven innovation has also been noted in advertising .
+Accordingly, new business management theories are needed, which [Thomas
+Malone][] calls "Coordination Theory", and it involves studying (and
+organizing accordingly) the dependencies and relationships within and
+without the enterprise . Not surprisingly this research into
+'organizational physics' is also done through open source methods .
+Apart from 'vanguard corporations' (see my thesis on netarchical
+capitalism) that incorporate peer production as an essential component
+of their activities, there is a broad shift towards a new attitude
+towards consumers, with many associated phenomena. Management theorists
+with a feeling for these trends argue that a radical shift is occurring,
+and needs to occur, in the managerial class, in order to be able to
+capitalize on these developments. David Rotman of the Rotman School of
+Management argues that they have to become businesspeople will have to
+become "more 'masters of heuristics' than 'managers of algorithms'" .
+Books describing this shift are [Daniel Pink][]'s A Whole New Mind:
+Moving from the Information Age to the Conceptual Age, and C.K.
+Prahalad's The Future of Competition: Co-Creating Unique Value with
+Customers.
+
+So the general conclusion of all the above has to be the essentially
+cooperative nature of production, the fact that companies are drawing on
+this vast reservoir of a 'commons of general intellectuality', without
+which they could not function. That innovation is diffused throughout
+the social body. That, if we accept John Locke's argument that work that
+adds value should be rewarded, then it makes sense to reward the
+cooperative body of humankind, and not just individuals and
+entrepreneurs. All this leads quite a few social commentators, from both
+left and liberal (free enterprise advocates), to bring the issue of the
+universal wage on the agenda and to retrieve the early Marxian notion of
+the 'General Intellect' .
+
+Why do we speak of ‘cognitive capitalism’? For a number of important
+reasons: the relative number of workers involved in material production
+is dwindling rather rapidly, with a majority of workers in the West
+involved in either symbolic (knowledge workers) or affective processing
+(service sector) and creation (entertainment industry). The value of any
+product is mostly determined, not by the value of the material
+resources, but by its level of integration of intelligence, and of other
+immaterial factors (design, creativity, experiential intensity, access
+to lifeworlds and identities created by brands). The immaterial nature
+of contemporary production is reconfiguring the material production of
+agricultural produce and industrial goods. In terms of professional
+‘experience’, more and more workers are not directly manipulating
+matter, but the process is mediated through computers that manage
+machine-based processes.
+
+But the most important argument as to the existence of a third phase of
+Cognitive capitalism is therefore a hypothesis that the current phase of
+capitalism is distinct in its operations and logic from earlier forms
+such as merchant and industrial capitalism . It is based on the
+accumulation of essentially knowledge assets. Instead of the cycle
+conception-production-distribution-consumption, we have a new cycle
+conception – reproduction of the informational core – production –
+distribution. The key is now to possess an informational advantage, in
+the form of intellectual property, and that can be embedded in
+immaterial (software, content) or material (seeds, pharmaceuticals,
+biotechnology) products. The production itself can be outsourced and is
+no longer central to competitive advantage. And because the advantage is
+in the information, it is protected through monopolies, enforced by the
+state. This in turn leads to increasing and protected profits, with
+prices no longer bearing any necessary relation to the production cost.
+This fact is true for seeds, pharmaceuticals, software, content
+products, biotechnology, etc… These inflated profits in turn have put an
+enormous pressure on the totality of the economy.
+
+According to the hypothesis of cognitive capitalism, there are three
+main approaches in analyses of the current political economy:
+
+1.  ‘neo-classical economics’ seeks for the laws of capitalism ‘as
+    such’, and is today much involved in creating models and
+    mathematizing them; according to CC theorists, it lacks a historical
+    model to take into account the changes.
+2.  Information economy models claim that information/knowledge has
+    become a independent third factor of production, changing the very
+    nature of our economy, making it ‘post-capitalist’
+3.  In between is the hypothesis of cognitive capitalism, which, though
+    it recognizes that we have entered a new phase, a third ‘cognitive’
+    phase, it is still within the framework of the capitalist system.
+
+What CC-researchers are building on is an earlier and still very
+powerful school of economic theory, known as [the Regulation School][]
+and especially strong in France (M. Aglietta), which considers that,
+despite differences in national models, there are commonalities in the
+structural evolution of the capitalist system, that it has been
+characterized by different ‘regimes’ which each had their particular
+modes of ‘regulation’ (forms of balancing the inherent instability of
+the system). It was they, who focused most on the theories of
+post-Fordism, arguing that after 1973, the Taylorist-Fordist system of
+organizing work and the economy (with as its corollary Keynesianism) had
+been replaced by new systems of organizing work and regulating the
+economy.
+
+[McKenzie Wark][]’s [Hacker Manifesto][] (Wark, 2004) goes one step
+further in this analysis and argues that not only is the key factor of
+the new era ‘information as property’, but with it comes the creation of
+a new ruling class and a new class configuration altogether. While the
+capitalist class owned factories and machinery, once capital was
+abstracted in the form of stocks and information, a new class has arisen
+which controls the ‘vectors of information’, the means of producing,
+storing and distributing information, the means to transform use value
+in exchange value. This is the new social force he calls the
+‘vectoralist’ class. The class who actually produces the value (as
+distinct from the class that can ‘realise’ it and thus captures the
+surplus value), he calls the hacker class. It is distinguished from the
+former because it actually creates new means of production: hardware,
+software, new knowledge (wetware). See 3.3.D. for a fuller explanation
+of the different interpretations of the current political economy, of
+which P2P is a crucial element.
+
+However, we believe that though the cognitive capitalism and vectoralist
+class arguments are key to understand the current era, it is not
+sufficient, and we will put forward our own hypothesis that will help in
+understand the emerging future: the emergence of a netarchical class,
+which is not dependent on either knowledge assets or information
+vectors, but enables and exploits the networks of participatory culture.
+See section 3.4.E. for a full explanation of this idea.
+
+Retrieved from
+"[?title=3.1.B.\_The\_Communism\_of\_Capital,\_or,\_the\_cooperative\_nature\_of\_cognitive\_capitalism&oldid=53219][]"
+
+[Category][]:
+
+-   [P2P Theory][]
+
+-   This page was last modified on 27 August 2011, at 19:54.
+-   This page has been accessed 2,829 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+    "View the content page [c]"
+  [Discussion]: /Talk:3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+  [View source]: ?title=3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=3.1.B.+The+Communism+of+Capital%2C+or%2C+the+cooperative+nature+of+cognitive+capitalism
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism&printable=yes
+  [Permanent link]: ?title=3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism&oldid=53219
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [Cognitive Capitalism]: /Cognitive_Capitalism "Cognitive Capitalism"
+  [Eric von Hippel]: /Eric_von_Hippel "Eric von Hippel"
+  [Thomas Malone]: /Thomas_Malone "Thomas Malone"
+  [Daniel Pink]: /Daniel_Pink "Daniel Pink"
+  [the Regulation School]: ?title=The_Regulation_School&action=edit&redlink=1
+    "The Regulation School (page does not exist)"
+  [McKenzie Wark]: ?title=McKenzie_Wark&action=edit&redlink=1
+    "McKenzie Wark (page does not exist)"
+  [Hacker Manifesto]: /Hacker_Manifesto "Hacker Manifesto"
+  [?title=3.1.B.\_The\_Communism\_of\_Capital,\_or,\_the\_cooperative\_nature\_of\_cognitive\_capitalism&oldid=53219]:
+    ?title=3.1.B._The_Communism_of_Capital,_or,_the_cooperative_nature_of_cognitive_capitalism&oldid=53219
+  [Category]: /Special:Categories "Special:Categories"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

@@ -1,0 +1,240 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+2.1.B. The emergence of peer to peer as technological infrastructure
+====================================================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**2.1.B. The emergence of peer to peer as technological infrastructure**
+
+But how does all of the above it apply to technology?
+
+In this and the next section, I will attempt to describe two related
+aspects. One is that P2P-formatted technologies are now the very
+infrastructure of business processes. Second, that the new technologies
+of communication being created are in fact an alternative communication
+infrastructure that in part transcends the state and corporate control
+of traditional one-to-many mass media. It is also emerging as a
+infrastructure of the free cooperation of autonomous agents.
+
+This is not to say that the new infrastructure is not controlled 'at
+all', that corporate forces are not at work in it, but means that we
+cannot be blind to its radical potential, and radical 'actuality'
+neither. Here as in the other sections we will see how P2P is at the
+same time the very basis of the system, while also significantly
+transcending it. While there is no direct cause to effect link between
+peer to peer technology, as such, and the peer to peer relational
+dynamic which is the topic of our research. Peer to peer technology is
+more likely than centralized technology to be a technological basis for
+enabling and supporting peer to peer human relationships. This
+relationship is borne out by our description of the use of P2P
+technologies to create an alternative peer-based communications
+infrastructure (2.1.C), as well as for an infrastructure of human
+cooperation (2.1.D.).
+
+The Internet, as it was conceived by its founders (Abbate, 1999), and
+evolved in its earliest format, was a point to point network, consisting
+of equal networks, and the travel of data uses different sets of
+resources as necessary. It is only later, after the rise of stronger and
+weaker networks, of open, semi-closed and closed networks, that the
+internet became hybrid, but it still in essence functions as a
+distributed network, having no central core to manage the system. Its
+hierarchical elements, such as the layered internet protocol stack
+(though specifically designed to allow P2P processes), the domain name
+system (a decentralized system of authorative servers which can
+disconnect participants, you can't arrive at an address without DNS
+intervention), or internet governance bodies , do not prohibit
+many-to-many communication and participation, but enable it. The
+evolution of the internet is largely seen to be 'organic' rather than
+centrally directed, no single central player can direct it, though some
+players are more influential than others.
+
+The web similarly was seen as a many-to-many publishing medium, even
+though it follows a semi-hierarchical client-server model (hence
+decentralized rather than distributed). However, it is still and will
+remain a essentially participative medium allowing anyone to publish his
+own webpages. Because of its incomplete P2P nature, it is in the process
+of becoming a true P2P publishing medium in the form of the Writeable
+Web projects (also called the read/write web), that allow anyone to
+publish from his own or any other computer,in the form of blogging etc…
+Other P2P media are instant messaging, chat, IP telephony systems, etc..
+For the internet and the web, P2P was not yet explicitly theorized
+(though the idea of a network of networks was), they are weak P2P system
+in that they only recognize ‘strong’ members, DNS-addressed computers in
+the internet, servers in the case of the web. In the systems developed
+afterwards, P2P was explicitly theorized: they are ‘strong’ P2P systems,
+in which all members, also the weak members (without fixed DNS address
+for the internet, blogs with permalinks in case of the web) can
+participate.
+
+Filesharing systems were the first to be explicitly tagged with the P2P
+label, and this is probably the origin of the concept in the world of
+technology. In such systems, all voluntary computers on the internet are
+mobilized to share files amongst all participating systems, whether that
+be documents, audiofiles, or audiovisual materials. In June 2003,
+videostreaming became the internet application using the largest
+bandwidth, and some time before, online music distribution had already
+surpassed the physical distribution of CD’s (in the U.S.). Of course, in
+the public mind filesharing is mostly associated with the sharing of
+piracy of copyrighted music and video's . Though the earliest
+incarnations of these P2P systems still used centralized databases, they
+are now, largely thanks to the efforts of the music industry , mostly
+true P2P systems, in particular Bittorrent and the planned development
+of Exeem. Each generation of P2P filesharing has been more consistent in
+its applications of peer to peer principles .
+
+Finally, grid computing uses the P2P concept to create ‘participative
+supercomputers’, where resources, spaces, computing cycles can be used
+from any participant in the system, on the basis of need. It is
+generally seen as the next paradigm for computing. Even programming now
+uses the P2P concept of object-oriented programming, where each object
+can be seen as a node in a distributed network.
+
+All of the above clearly shows that the new format of our technological
+infrastructure, which lies at the basis of basic and economic processes,
+follow the P2P design. This infrastructure enables the interlinking of
+business processes, beyond the borders of the individual factory and
+company, and the interlinking of all the individuals involved. Soon, and
+perhaps it is already the case today, it will be justified to claim that
+without P2P-formatted technologies, it will be impossible to carry out
+production and all the related economic mechanisms.
+
+I could go on, but what should emerge in your mind, is not a picture of
+a series of marginal developments, but the awareness that P2P networks
+are the key format of the technological infrastructure that supports the
+current economic, political and social systems. Companies have used
+these technologies to integrate their processes with those of partners,
+suppliers, consumers, and each other, using a combination of intranets,
+extranets, and the public internet, and it has become the absolutely
+essential tool for international communication and business, and to
+enable the cooperative, internationally coordinated projects carried out
+by teams. As we will see in our full review on the emergence of P2P
+practices across the social field, an emphasis on business and economic
+processes would be very one-sided. Politics, culture, and science are
+equally changed by distributed practices enabled by the new
+technological infrastructure. Examples are the grown of massive
+multi-authorship in different scientific fields, with hundreds of people
+involved in research projects, and the distributed use of scientific
+instruments, such as arrays of small radio telescopes.
+
+On the other hand, P2P systems are not just the outcome of plans of the
+establishment, but are the result of the active intervention of
+consumers avid for free access to culture, of knowledge workers actively
+working to find technical solutions for their needed cooperative work,
+and of activists consciously working for the creation of tools for an
+emerging participative culture . P2P is both 'within' and 'beyond' the
+current system.
+
+Retrieved from
+"[?title=2.1.B.\_The\_emergence\_of\_peer\_to\_peer\_as\_technological\_infrastructure&oldid=1122][]"
+
+-   This page was last modified on 30 September 2005, at 03:25.
+-   This page has been accessed 1,178 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
+  [View source]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=2.1.B.+The+emergence+of+peer+to+peer+as+technological+infrastructure
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&printable=yes
+  [Permanent link]: ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&oldid=1122
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=2.1.B.\_The\_emergence\_of\_peer\_to\_peer\_as\_technological\_infrastructure&oldid=1122]:
+    ?title=2.1.B._The_emergence_of_peer_to_peer_as_technological_infrastructure&oldid=1122
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

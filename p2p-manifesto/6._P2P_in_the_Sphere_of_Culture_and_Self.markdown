@@ -1,0 +1,357 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+6. P2P in the Sphere of Culture and Self
+========================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**6. P2P in the Sphere of Culture and Self**
+
+**6.1.A. A new articulation between the individual and the collective**
+
+[6.1.B. Towards ‘contributory’ dialogues of civilizations and
+religions][]
+
+[6.1.C. Participative Spirituality and the Critique of Spiritual
+Authoritarianism][]
+
+[6.1.D. Partnering with nature and the cosmos][]
+
+[6.1.E. The Emergence of Peer Circles][]
+
+\
+ **6.1.A. A new articulation between the individual and the collective**
+
+One of the key insights of psychologist Clare Graves’ interpretation of
+human cultural evolution, is the idea of the changing balance, over
+time, between the two poles of the individual and the collective. In the
+popularization of his research by the Spiral Dynamics systems, they see
+the tribal era as characterized by collective harmony, but also as a
+culture of stagnation. Out of this harmony, strong individuals are born,
+heroes and conquerors, which will their people and others into the
+creation of larger entities. These leaders are considered divinities
+themselves and thus in certain senses are ‘beyond the law’, which they
+have themselves constituted through their conquest. It is against this
+‘divine individualism’ that a religious reaction is born, very evident
+in the monotheistic religions, which stresses the existence of a
+transcendent divine order (rather than the immanent order of paganism),
+to which even the sovereign must obey. Thus a more communal/collective
+order is created. But again, this situation is overturned when a new
+individual ethos arises, which will be reflected in the growth of
+capitalism. It is based on individuals, and collective individuals,
+which think strategically in terms of their own interest. In the words
+of anthropologist Louis Dumont, we moved from a situation of wholism, in
+which the empirical individuals saw themselves foremost as part of a
+whole, towards individualism as an ideology , positing atomistic
+individuals, in need of socialization. They transferred their powers to
+collective individuals, such as the king, the people, the nation, which
+could act in their name, and created a sacrificial unity through the
+institutions of modernity. (In section 3.3.C. , I have tried to show how
+peer to peer tries to avoid the creation of collective individuals,
+through the creation of objective algorhythms which express the communal
+wisdom of a collective.)
+
+This articulation, based on a autonomous self in a society which he
+himself creates through the social contract, has been changing in
+postmodernity. Simondon, a French philosopher of technology with an
+important posthumous following in the French-speaking world, has argued
+that what was typical for modernity was to 'extract the individual
+dimension' of every aspect of reality, of things/processes that are also
+always-already related . And what is needed to renew thought, he argued,
+was not to go back to premodern wholism, but to systematically build on
+the proposition that 'everything is related', while retaining the
+achievements of modern thought, i.e. the equally important centrality of
+individuality. Thus individuality then comes to be seen as constituted
+by relations , from relations.
+
+This proposition, that the individual is now seen as always-already part
+of various social fields, as a singular composite being, no longer in
+need of socialization, but rather in need of individuation, seems to be
+one of the main achievements of what could be called 'postmodern
+thought'. Atomistic individualism is rejected in favor of the view of a
+relational self , a new balance between individual agency and collective
+communion.
+
+In my opinion, as a necessary complement and advance to postmodern
+thought, it is necessary to take a third step, i.e. not to be content
+with both a recognition of individuality, and its foundation in
+relationality, but to also recognize the level of the collective, i.e.
+the field in which the relationships occur.
+
+If we only see relationships, we forget about the whole, which is
+society itself (and its sub-fields). Society is more than just the sum
+of its "relationship parts". Society sets up a 'protocol', in which
+these relationships can occur, it forms the agents in their
+subjectivity, and consists of norms which enable or disable certain type
+of relationships. Thus we have agents, relationships, and fields.
+Finally, if we want to integrate the subjective element of human
+intentionality, it is necessary to introduce a fourth element: the
+object of the sociality.
+
+Indeed, human agents never just 'relate' in the abstract, agents always
+relate around an object, in a concrete fashion. Swarming insects do not
+seem to have such an object, they just follow instructions and signals,
+without a view of the whole, but mammals do. For example, bands of
+wolves congregate around the object of the prey. It is the object that
+energizes the relationships, that mobilizes the action. Humans can have
+more abstract objects, that are located in a temporal future, as an
+object of desire. We perform the object in our minds, and activate
+ourselves to realize them individually or collectively. P2P projects
+organize themselves around such common project, and my own Peer to Peer
+theory is an attempt to create an object that can inspire social and
+political change.
+
+In summary, for a comprehensive view of the collective, it is now
+customary to distinguish 1) the totality of relations; 2) the field in
+which these relations operate, up to the macro-field of society itself,
+which establishes the 'protocol' of what is possible and not; 3) the
+object of the relationship ("object-oriented sociality"), i.e. the
+pre-formed ideal which inspires the common action. That sociality is
+'object-oriented' is an important antidote to any 'flatland', i.e.
+'merely objective' network theory, on which many failed social
+networking experiments are based. This idea that the field of relations
+is the only important dimension of reality, while forgetting human
+intentionality . What we need is a subjective-objective approach to
+networks.
+
+In conclusion, this turn to the collective that the emergence of peer to
+peer represent does not in any way present a loss of individuality, even
+of individualism. Rather it 'transcends and includes' individualism and
+collectivism in a new unity, which I would like to call 'cooperative
+individualism'. The cooperativity is not necessarily intentional (i.e.
+the result of conscious altruism), but constitutive of our being, and
+the best applications of P2P, are based on this idea. Similar to Adam
+Smith's theory of the invisible hand, the best designed collaborative
+systems take advantage of the self-interest of the users, turning it
+into collective benefit.
+
+This recognition would help in distinguishing transformative P2P
+conceptions from regressive interpretations harking back to premodern
+communion. I find this distinction well expressed by Charlene Spretnak,
+cited by John Heron in a debate with the conception of an 'inclusional
+self' by Ted Lumley of Goodshare.org:
+
+"The ecological/cosmological sense of uniqueness coupled with
+intersubjectivity and interbeing…One can accurately speak of the
+‘autonomy’ of an individual only by incorporating a sense of the dynamic
+web of relationships that are constitutive for that being at a given
+moment."
+
+In any case, the balance is again moving towards the collective. But if
+the new forms of collective recognize individuality and even
+individualism, they are not merely individualist in nature, meaning:
+they are not collective individuals, rather, the new collective
+expresses itself in the creation of the common. The collective is no
+longer the local ‘wholistic’ and ‘oppressive’ community, and it is no
+longer the contractually based society with its institutions, now also
+seen as oppressive. The new commons is not a unified and transcendent
+collective individual, but a collection of large number of singular
+projects, constituting a multitude .
+
+This whole change in ontology and epistemology, in ways of feeling and
+being, in ways of knowing and apprehending the world, has been
+prefigured amongst social scientists and philosophers, including the
+hard sciences such as physics and biology .
+
+An important change has been the overthrow of the Cartesian
+subject-object split. No longer is the ‘individual self’ looking at the
+world as an object. Since postmodernity has established that the
+individual is composed and traversed by numerous social fields (of
+power, of the unconscious, class relations, gender, etc…), and since
+he/she has become aware of this, the subject is now seen (after his
+death as an ‘essence’ and a historical construct had been announced by
+Foucault), as a perpetual process of becoming (“subjectivation"). His
+knowing is now subjective-objective and truth-building has been
+transformed from objective and mono-perspectival to multiperspectival.
+This individual operates not in a dead space of objects, but in a
+network of flows. Space is dynamical, perpetually co-created by the
+actions of the individuals and in peer to peer processes, where the
+digital noosphere is an extraordinary medium for generating signals
+emanating from this dynamical space. The individuals in peer groups,
+which are thus not ‘transcendent’ collective individuals, are in a
+constant adaptive behavior. Thus peer to peer is global from the start,
+it is incorporated in its practice. It is an expression not of
+globalization, the worldwide system of domination, but of globality, the
+growing interconnected of human relationships.
+
+Peer to peer is to be regarded as a new form of social exchange,
+creating its equivalent form of subjectivation, and itself reflecting
+the new forms of subjectivation. P2P, interpreted here as a positive and
+normative ethos that is implicit in the logic of its practice, though it
+rejects the ideology of individualism, does not in any way endanger the
+achievements of the modern individual, in terms of the desire and
+achievement of personal autonomy, authenticity, etc…. It is no
+transcendent power that demands sacrifice of self: in Negrian terms, it
+is fully immanent, participants are not given anything up, and unlike
+the contractual vision, which is fictitious in any case, the
+participation is entirely voluntary. Thus what it reflects is an
+expansion of ethics: the desire to create and share, to produce
+something useful. The individual who joins a P2P project, puts his
+being, unadulterated, in the service of the construction of a common
+resource. Implicit is not just a concern for the narrow group, not just
+intersubjective relations, but the whole social field surrounding it.
+
+An important aspect is the issue of value, both the value in the sense
+of what is exchanged on a market, and the value in the sense of ethical
+meaningfulness, i.e. what we value. Peer to peer produces for use value,
+not exchange value. The wider community therefore derives 'use value'
+from this common form of production. Participants themselves derive
+value in two different ways: first, the uptake or not of the
+'production' is a sign of the relative value of the product in its wider
+field of related offerings. Participants will partake in the general
+recognition/valuation of the project in the wider society. Second,
+within, a similar form of recognition will operate according to the
+contribution of participants. The process is often measured or aided by
+social accounting tools specifically designed to that effect, and
+individual recognition of effort is always a key element of open source
+projects. Peer to peer is therefore also a process of social recognition
+and valuation, that replaces or complements money as a token of social
+recognition.
+
+How does a successful P2P project operate, in terms of reconciling the
+individual and the collective?
+
+Imagine a successful meeting of minds: individual ideas are confronted,
+but also changed in the process, through the free association born of
+the encounter with other intelligences. Thus eventually a common idea
+emerges, that has integrated the differences, not subsumed them. The
+participants do not feel they have made concessions or compromises, but
+feel that the new common integration is based on their ideas. There has
+been no minority, which has succumbed to the majority. There has been no
+‘representation’, or loss of difference. Such is the true process of
+peer to peer.
+
+An important philosophical change has been the abandonment of the
+unifying universalism of the Enlightenment project. Universality was to
+be attained by striving to unity, by the transcendence of representation
+of political power. But this unity meant sacrifice of difference. Today,
+the new epistemological and ontological requirement that P2P reflects,
+is not abstract universalism, but the concrete universality of a commons
+which has not sacrificed difference. This is the truth that the new
+concept of multitude, developed by Toni Negri and inspired by Spinoza,
+expresses. P2P is not predicated on representation and unity, but of the
+full expression of difference.
+
+Retrieved from
+"[?title=6.\_P2P\_in\_the\_Sphere\_of\_Culture\_and\_Self&oldid=15914][]"
+
+-   This page was last modified on 9 October 2007, at 15:05.
+-   This page has been accessed 3,971 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /6._P2P_in_the_Sphere_of_Culture_and_Self
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:6._P2P_in_the_Sphere_of_Culture_and_Self&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /6._P2P_in_the_Sphere_of_Culture_and_Self
+  [View source]: ?title=6._P2P_in_the_Sphere_of_Culture_and_Self&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=6._P2P_in_the_Sphere_of_Culture_and_Self&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=6.+P2P+in+the+Sphere+of+Culture+and+Self
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/6._P2P_in_the_Sphere_of_Culture_and_Self
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/6._P2P_in_the_Sphere_of_Culture_and_Self
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=6._P2P_in_the_Sphere_of_Culture_and_Self&printable=yes
+  [Permanent link]: ?title=6._P2P_in_the_Sphere_of_Culture_and_Self&oldid=15914
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [6.1.B. Towards ‘contributory’ dialogues of civilizations and
+  religions]: /6.1.B._Towards_%E2%80%98contributory%E2%80%99_dialogues_of_civilizations_and_religions
+    "6.1.B. Towards ‘contributory’ dialogues of civilizations and religions"
+  [6.1.C. Participative Spirituality and the Critique of Spiritual
+  Authoritarianism]: /6.1.C._Participative_Spirituality_and_the_Critique_of_Spiritual_Authoritarianism
+    "6.1.C. Participative Spirituality and the Critique of Spiritual Authoritarianism"
+  [6.1.D. Partnering with nature and the cosmos]: /6.1.D._Partnering_with_nature_and_the_cosmos
+    "6.1.D. Partnering with nature and the cosmos"
+  [6.1.E. The Emergence of Peer Circles]: /6.1.E._The_Emergence_of_Peer_Circles
+    "6.1.E. The Emergence of Peer Circles"
+  [?title=6.\_P2P\_in\_the\_Sphere\_of\_Culture\_and\_Self&oldid=15914]:
+    ?title=6._P2P_in_the_Sphere_of_Culture_and_Self&oldid=15914
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

@@ -1,0 +1,300 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+2.3.B. P2P and Technological Determinism
+========================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**2.3.B. P2P and Technological Determinism**
+
+Starting our description with the emergence of P2P within the field of
+technology could be misconstrued as saying that P2P is a result of
+technology, in a ‘technology-deterministic fashion’.
+
+The precise role of technology in human evolution is subject to debate.
+A first group of positions sees technology as ‘neutral’. Humans want
+more control over their environment, want to go beyond necessity,and in
+that quest, built better and better tools. But how we use these tools is
+up to us. Many inventors of technology and discoverers of scientific
+truths have argued this way, saying for example that atomic energy can
+be used for good (energy) or for bad (war), but that is entirely a
+political decision.
+
+A different set of positions argues that on the contrary, technological
+development has a logic of its own, that as a system is goes beyond the
+intention of any participating individual, and in fact becomes their
+master. In such a reading, technological evolution is inevitable and has
+unforeseen consequences. In the pessimistic vision, it’s in fact the
+ultimate form of alienation. This is so because technology is an
+expression of just a part of our humanity, instrumental reason, but when
+embedded in the technological systems and its machines, it then forces
+us to ressemble it, and we indeed follow the logic of machines loose
+many parts of our full humanity. Think of the positions of Heidegger,
+Baudrillard, and Virilio as exemplars of such a type of analysis.
+Like-minded analysis would point out that though strict Taylorism has
+disappeared from immaterial-based production ,the factory model has in
+fact spread out throughout society now, forming a kind of ‘Social
+Taylorism’. Efficiency and productivity thinking has taken over the
+sphere of intimacy. There has been a dramatic destruction of social
+knowledge and skill, of autonomous cultures, and this type of knowledge
+has been ‘appropriated’ by the system of capital, and re-sold to us a
+commodities. Think of paid-for online dating, as a symptom of the loss
+of skill in dating, as one example.
+
+Technological determinism can also have a optimistic reading. In this
+view, for example represented by the progress ideology of the late 19th
+century, and currently by the technological transhumanists, such as
+Kurzweil (Kurzweil, 2000), technology represents an increasing mastery
+and control over nature, a means of going beyond the limitations set to
+us by nature, and, for this type of interpretation, that is an entirely
+good thing.
+
+The position I personally feel the closest to is the ‘critical
+philosophy of technology’ developed by Andrew Feenberg (Feenberg, 1991,
+1999). In his analysis, technological artifacts are a social
+construction, reflecting the various social interests: those of capital,
+those of the engineering community conceiving it, but also, those of the
+critical voices within that community, and of the ‘consumers’ subverting
+the original aims of technology for entirely unforeseen usages. Feenberg
+comes very close to recognize the new form of power that we discuss in
+section four: i.e. the protocollary power (Galloway, 2004) which
+concerns the ‘code’. The very form of the code, whether it is for the
+hardware or the software, reflects what usages can be made of
+technology.
+
+It is in this sense that I see a first important relation between the
+emergence of P2P and its technological manifestations. The engineers who
+conceived the point to point internet already had a wholly new set of
+conceptions which they integrated in their design. It was in fact
+explicitely designed to enable peer-based scientific collaboration.
+Thus, the emergence of peer to peer as a phenomena spanning the whole
+social field is not ‘caused’ by technology; it is rather the opposite,
+the technology reflects a new way of being and feeling, which we will
+discuss in section 6A in particular. This position is a version of that
+put forward by Cornelis Castoriadis in his "L'Institution Imaginaire de
+la Societe". Society is not just a physical arrangement, or a
+rational-functional arrangement, but everything is experienced
+symbolically and reflects a meaning that cannot be reduced to the real
+or the rational. It is the product of a 'radical social imaginary'. And
+this imaginary though rooted in the past (through the symbolic meaning
+of institutions), is nevertheless a constitutive creation of mankind.
+Technology is just such a creation, a dimension of instituted society,
+that cannot be divorced from the other elements . In this context, peer
+to peer is the product of a newly arising radical social imaginary.
+Nevertheless, this does not mean that technology is not an important
+factor.
+
+Why is that? In a certain sense, peer to peer, understood as a form of
+participation in the commons, i.e. as communal shareholding, which we
+discuss in section 3.4.C, has ‘always existed’ as a particular
+relational dynamic. It was especially strong in the more egalitarian
+tribal era, with its very limited division of labor, before the advent
+of property and class division. But it was always limited to small
+bands. After the tribal era, as we enter the long era of class-based
+civilization, forms of communal shareholding and egalitarian
+participation have survived, but always subvervient, first to the
+authority structures of feudalism and similar ‘land-based systems’, then
+to the ‘market pricing’ system of capitalism. But the situation is now
+different, because the development of P2P technology is an extraordinary
+vector for its generalization as a social practice, beyond the
+limitations of time and space, i.e. geographically bounded small bands.
+What we now have for the first time is a densely interconnected network
+of affinity-based P2P networks. Thus, the technological format that is
+now becoming dominant, is an essential part of a new feedback loop,
+which strengthens the emergence of P2P to a degree not seen since the
+demise of tribal civilization. It is in this particular way that the
+current forms of P2P are a historical novelty, and not simply a repeat
+of the tolerated forms of egalitarian participation in essentially
+hierarchical and authoritarian social orders.
+
+\
+ To repeat: it is not the technology that causes P2P. Rather, as
+technology, it is itself an expression of a deep shift in the
+epistemology and ontology occurring in our culture. But nevertheless,
+this technology, once created, becomes an extraordinary amplifier of the
+existing shift. It allows a originally minoritarian cultural shift to
+eventually affect larger and larger numbers of people. Finally, that
+shift in our culture, is itself a function of the emergence of a field
+of abundance, the informational field, which is itself strongly related
+to the technological base that has helped its creation.
+
+To explain this argument, let us formulate this question of ‘why now?’,
+in a slightly different manner. Technology philosophers such as Marshall
+McLuhan (McLuhan, 1994) and others, have pointed out that technology is
+an ‘extension of our bodies’, or more precisely of the faculties of our
+bodies and minds. In a simplified way: tribal-era technologies, such as
+spears and arrows, reflect the extremeties of our limbs, the nails and
+fingers. Agricultural era technologies reflect the extension of our
+muscular system and the limbs proper: arms and legs. Industrial era
+technologies reflect our central body and its internal metabolic
+functions: the transformation of raw materials into more refined
+products that can be used by our body. Industrial economies are about
+producing, distributing and consuming physical products. But the
+information economy era is characterized by the externalization of our
+nervous system (telephone and telegraph) and our minds (computers), with
+a logic of first one-to-one communication technologies, then many to one
+(mass media), and finally with the internet and computer networks: many
+to many.
+
+If we look at history in such a broad and large way, we can see P2P
+principles operating in the small bands of the tribal era. But as soon
+as society complexified itself through more and more elaborate division
+of labor, such was the complexity of organisation society, that it
+seemed to make more sense to create centralized institutions. According
+to system theorists, ‘fixed arrangements dramatically reduce transaction
+costs’. In a Darwinian sense, one could say that they could better
+manage information scarcity, so that a lesser number of players could
+rationalize the organisation of such complexity, through hierarchical
+formal rules. After the revolution of print, followed by the invention
+of electronic communication, and a dramatic lessening of information
+scarcity, we see a further integration of a more differentiated world
+system, and the emergence of a market, though within that market, it
+still made more sense to have larger and larger monopolistic players.
+With the advent of worldwide communication networks through, and before
+the internet these were a monopoly of the large companies, we see the
+occurrence of major changes in organizational logic: a flattening of
+hierarchies. According to system theorists complex systems cannot
+themselves control there increasing number of ever-more efficient
+subunits, unless by granting them ever-more increasing functional
+autonomy. The larger system controls whether a subunit has carried a
+task, but no longer how it is carried out. Thus his law of ‘requisite
+hierarchy’ which states that the need for hierarchy diminishes in so far
+as the subunits increase their own capacity for control. And the 'law of
+requisite variety' of Arvid Aulin , which states that where internal
+controls or external regulation is absent, hierarchy is needed. Thus one
+of the keys to understand current processes is that communication
+technologies have enabled this kind of control and regulation to such a
+degree, as shown in P2P processes, that centralized command and control
+can in fact be overcome to a very great extent. Or more correctly, that
+the subunits become primary, down to the level of individual
+participants, who can now voluntarily defer to the subunit for minimal
+control of ‘what is produced’ (and no longer ‘how it is produced’),
+while the subunits to the same vis a vis the overall system. Within
+corporations P2P processes can only partially thrive, because they have
+to protect the profit motive, but outside the corporation, this limit
+can be overcome, and those processes of ‘production going outside the
+boundaries of the corporation’ are increasingly showing that the profit
+imperative, and the private appropriation of the social-cooperative
+processes, is becoming counter-productive. In a lot more simpler terms,
+let us then conclude that the development of information-processing
+capabilities has liberated cooperation from the constraints of time and
+space. Thus, while accepting the argument that P2P processes have always
+existed, but confined to small bands (or, it eventually emerged for very
+short periods in revolutionary situations only to be defeated by their
+then still more efficient authoritarian and centralized enemies), it is
+indeed ‘only now’, that such massive emergence of P2P is possible. We
+must thus inevitably conclude that technology \<IS\> a very important
+factor in this generalized emergence.
+
+Retrieved from
+"[?title=2.3.B.\_P2P\_and\_Technological\_Determinism&oldid=1127][]"
+
+-   This page was last modified on 4 October 2005, at 11:45.
+-   This page has been accessed 1,449 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /2.3.B._P2P_and_Technological_Determinism
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:2.3.B._P2P_and_Technological_Determinism&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /2.3.B._P2P_and_Technological_Determinism
+  [View source]: ?title=2.3.B._P2P_and_Technological_Determinism&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=2.3.B._P2P_and_Technological_Determinism&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=2.3.B.+P2P+and+Technological+Determinism
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/2.3.B._P2P_and_Technological_Determinism
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/2.3.B._P2P_and_Technological_Determinism
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=2.3.B._P2P_and_Technological_Determinism&printable=yes
+  [Permanent link]: ?title=2.3.B._P2P_and_Technological_Determinism&oldid=1127
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=2.3.B.\_P2P\_and\_Technological\_Determinism&oldid=1127]: ?title=2.3.B._P2P_and_Technological_Determinism&oldid=1127
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/

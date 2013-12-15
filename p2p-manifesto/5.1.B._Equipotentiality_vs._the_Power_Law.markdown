@@ -1,0 +1,292 @@
+[][]
+
+##### Namespaces
+
+-   [Page][]
+-   [Discussion][]
+
+#### 
+
+##### Variants[][1]
+
+[Share this][]
+
+##### Views
+
+-   [Read][]
+-   [View source][]
+-   [View history][]
+
+##### Actions[][1]
+
+##### Search
+
+![Search][]
+
+##### Personal tools
+
+-   [Log in][]
+
+##### p2pfoundation
+
+-   [Wiki Main Page][]
+-   [Blog [EN]][]
+-   [Blog [GR]][]
+-   [Ning Network][]
+
+##### Navigation
+
+-   [Recent changes][]
+-   [Random page][]
+-   [Help][]
+-   [Donations][]
+
+##### Toolbox
+
+-   [What links here][]
+-   [Related changes][]
+-   [Special pages][]
+-   [Printable version][]
+-   [Permanent link][]
+
+5.1.B. Equipotentiality vs. the Power Law
+=========================================
+
+From P2P Foundation
+
+Jump to: [navigation][], [search][]
+
+**5.1.B. Equipotentiality vs. the Power Law**
+
+One of the most interesting findings of social network analysis is the
+existence of a power law. A power law says that for any x increase in
+the number of links per node (or specific characteristic per node, such
+as acreage per square kilometer for a river basin), the number of nodes
+having that characteristic will decline by a fixed factor. In economics
+this gives us the famous Pareto principle, i.e. 20% of the people having
+80% of the wealth. Or 20% of the books in a bookstore generating 80% of
+the sales or profits. But the power law is nearly everywhere, suggesting
+a natural form of concentration and even monopolization as almost
+inevitable. In fact, it seems that whenever we have many choices and
+many distributed agents making these choices, inequality of choice is
+created . It seems to be the natural result of any 'economy of
+attention'. But that is the point, such distribution is not forced, as
+in a oligopoly or monopoly, but arises naturally from the freedom of
+choice, and can be considered a 'fair' result, provided no coercion is
+used. Networks where such a power law operates are called 'scale-free',
+because at whatever scale, the same relation between variables (i.e.
+distribution pattern) applies.
+
+In terms of a normative P2P ethos, it is important to note that it
+should not necessarily and systematically favor egalitarian networks.
+The Internet and the web are both aristocratic networks; the blogosphere
+is characterized by a power law distribution. The key questions are: 1)
+is the network efficient; 2) does it enable participation; 3) is the
+emergence of an aristocratic structure non-coercive and eventually
+reversible. Focusing on this reversibility is probably one of the tasks
+of peer governance. Granted that a power law may be in operation, that
+does not mean we must acquiesce in social processes that re-inforce such
+inequalities, but rather, that we then look for human and
+technical/algorhythmic solutions that renders the structure fluid enough
+so that it may be reversed if need be. But in many cases, we have to
+admit that some form of centralization, is necessary and efficient. We
+all prefer one standard for our operating systems for example.
+
+The power law can possibly mitigated by the development of algorhythms,
+that can highlight important information and connections from nodes that
+may not come up 'naturally', but this discipline, though still in its
+infancy at the moment, is making rapid strides and is the core
+competence of new internet companies like Google, Technorati and others.
+But the power law is also counteracted by what some network economists
+have called the 'Long Tail'. This is the phenomena whereby minority
+groups are not excluded from the distribution of knowledge and exchange,
+and markets, but are on the contrary enable to organize
+micro-communities. In the market for cultural products, this has the
+effect of radically enhancing the supply and demand for products.
+Instead of the 80/20 distribution of products, i.e. 20% of the products
+being responsible for 80% of the sales and profits, we get something
+more akin to a 50/50 distribution. Online stores like Amazon and eBay
+are instrumentalising the phenomenon by using affinity matching schemes,
+which have resulted in the creation of many thousands of previously not
+existing mini-markets. Books, CD's and films which would be destroyed
+for lack of interest in the mass media system, now have a second and
+third and perhaps infinitely extendable lease of life, through the
+continued attention given to them by self-organizing minority interests,
+which can perpetuate across generations. This is an important guarantee
+for a vibrant cultural life, which does not destroy difference and
+cultural heterogeneity.
+
+One of the keys to avoiding the power law may therefore be to keep
+sub-networks small. One of the recurring debates within cooperation
+studies indeed concerns a discussion on the optimal size of online
+groups. Dunbar, an anthropologist at the University College of London,
+has posited a link between brain size and our maximum number of close
+social ties , a claim supported by many animal, especially primate, and
+anthropological studies. He predicts that 147.8 is the "mean group size"
+for humans and this number has also been applied to online cooperation.
+But such a number would require a large time of social grooming so in
+reality it is much less. This discussion is important because other
+researchers, such as Valerie Krebs, have shown that in smaller groups,
+the power law does not operate and that they function as egalitarian
+networks . The key therefore is to organize online collaboration in such
+a way so that it is divided in appropriate subgroups, and this seems
+pretty much the way software peer production teams seem to operate.
+
+There will be a lot to learn from this emergent field of cooperation
+studies , as it weanes us from wishful thinking into a more systematic
+understanding of what it takes to make cooperative projects work.
+
+One of the most important works have been those of Axelrod, in his
+Evolution of Cooperation (Axelrod, 1984). He reconceived Game Theory,
+which had originally been seen as undermining altruism, by grounding the
+experiments in the real conditions of social life, instead of
+abstracting it in unrealistic laboratory or thought experiments. Game
+theory is important because it models human intentionality as it wavers
+between altruistic and selfish strategies. His study of the classic
+Prisoner's Dilemma has yielded three important rules for cooperation to
+occur : 1) communities must promote ongoing interaction; 2) individuals
+must be able to identify each other; 3) individuals must have
+information about the past behaviour of others. Many of these insights
+have been incorporated in the social software tools being developed, and
+are the reason of the success of reputation systems such as exists in
+eBay etc… According to the findings of Howard Rheingold and his
+cooperation studies group, the Prisoner's Dilemma game, which undermines
+cooperation and operates in an information-poor environment, may well be
+superseded by new forms of the Assurance Game . A Prisoner's Game will
+operate when no information about the partner is available, as distrust
+will prevail, but the social accounting technologies generate
+information about the trustworthy of a potential partner, and in such an
+environment, the Assurance Game will prevail.
+
+Another important milestone in cooperation studies did not focus on
+interperson interaction (as does Game Theory) but on group behaviour in
+real physical communities involved in the use and management of communal
+resources. It can be found in Eleanor Ostrom's Governing the Commons
+(Ostrom, 1990). Amongst the principles applied in successful communities
+are: 1) boundaries must be clearly defined so that there is a clear
+sense of who may use collective resources; 2) the rules of usage must
+match local conditions; 3) affected individuals must be able to
+participate in the adaptation of these rules; 4) control mechanisms of
+user behaviour must exist, as well as a system of graduated sanctions.
+Her survey concluded that this was done better through self-regulation
+than through external authorities; 5) finally, the community must have
+access to low-cost conflict resolution mechanisms.
+
+It must be stressed however that her study about physical Commons
+dealing with scarce rival goods, cannot be applied without adaptation to
+the digital commons dealing witn non-rival goods, where a Tragedy of the
+Commons, i.e. an abuse of these scarce goods for personal gain, cannot
+occur, though some of her conclusions on group behaviour and its
+regulation do apply. But the totality of her conclusions are certainly
+of interest to defenders of our very important physical Commons and show
+that well regulated Commons have found ways to deal with abuse and
+overuse.
+
+The shift in 'business models' characteristics of the new networks is
+explained by David Reed, who has summarized the different mathematical
+laws inherent in the value created by networks. First, we focus on the
+individuals. If a network has N-members and memberships grows, then one
+can see a linear growth in audience, i.e. N+1, N+2, etc.. i.e. a
+proportional growth in value. This formula was already at play in
+broadcast media and in such an environment, 'content is king', and
+publishers vie for the attention of the users of the network. This
+explains the role of portal sites such as Yahoo, who re-intermediate the
+economy of attention that we discussed before. If we now focus on the
+'interaction between individuals', we see that the network enables
+transactions, but that these grow by a 'square value'. This
+characteristic is called Metcalfe's Law. A network of 2 allows for 2
+transactions (back and forth buying and selling), a network of 3 allows
+for 8 transactions, a network of 4 allows for 16 transactions. This
+aspect of the network creates transactional platforms such as eBay.
+Finally, we focus on community. Networks have the ability to enable the
+formation of subgroups, they are 'Group Forming Networks'. But value
+growth here is 'exponential'. It is this characteristic that is called
+Reed's Law . Every affinity group creates and 'consumes' its own
+content, and it is here that the true peer to peer processes emerge,
+characterized by infinite content creation . The economy of attention
+becomes moot, because what is happening is not limited content competing
+for the same audience, but infinite content competing for infinite
+combinations of affinity groups. You are then creating content, not for
+an audience, but as a means of creating interconnectedness between a
+group of people sharing an interest or common goal.
+
+To conclude: the discovery of the theory of networks in the physical
+sphere, has therefore a corollary in seeing it in social life, and in
+particular, in the area of organizational life, including business. The
+finds its expression in the emerging discipline of social network
+analysis and cooperation studies generally, and also the business
+process applied "coordination theory", as pioneered by Thomas Malone .
+All these studies are important because they act as a corrective to
+misplaced idealism and provide lessons from scientific studies and
+objective experience with true cooperation.
+
+Retrieved from
+"[?title=5.1.B.\_Equipotentiality\_vs.\_the\_Power\_Law&oldid=57020][]"
+
+[Categories][]:
+
+-   [P2P Hierarchy Theory][]
+-   [P2P Theory][]
+
+-   This page was last modified on 26 December 2011, at 00:14.
+-   This page has been accessed 1,356 times.
+-   [Copyright Information][]
+
+-   [\<!-- --\>][]
+-   [About the P2P Foundation Wiki][]
+-   \<!-- --\>
+
+-   [![Attribution-ShareAlike 3.0 Unported][]][]
+-   [![Powered by MediaWiki][]][]
+
+  []: /Main_Page "Visit the main page"
+  [Page]: /5.1.B._Equipotentiality_vs._the_Power_Law
+    "View the content page [c]"
+  [Discussion]: ?title=Talk:5.1.B._Equipotentiality_vs._the_Power_Law&action=edit&redlink=1
+    "Discussion about the content page [t]"
+  [1]: #
+  [Share this]: http://www.addthis.com/bookmark.php?v=20
+  [Read]: /5.1.B._Equipotentiality_vs._the_Power_Law
+  [View source]: ?title=5.1.B._Equipotentiality_vs._the_Power_Law&action=edit
+    "This page is protected.
+    You can view its source [e]"
+  [View history]: ?title=5.1.B._Equipotentiality_vs._the_Power_Law&action=history
+    "Past revisions of this page [h]"
+  [Search]: /skins/vector/images/search-ltr.png?303
+  [Log in]: ?title=Special:UserLogin&returnto=5.1.B.+Equipotentiality+vs.+the+Power+Law
+    "You are encouraged to log in; however, it is not mandatory [o]"
+  [Wiki Main Page]: /Main_Page
+  [Blog [EN]]: http://blog.p2pfoundation.net/
+  [Blog [GR]]: http://bloggr.p2pfoundation.net/
+  [Ning Network]: http://p2pfoundation.ning.com
+  [Recent changes]: /Special:RecentChanges
+    "A list of recent changes in the wiki [r]"
+  [Random page]: /Special:Random "Load a random page [x]"
+  [Help]: /Help:Contents "The place to find out"
+  [Donations]: /P2P_Foundation:Site_support
+  [What links here]: /Special:WhatLinksHere/5.1.B._Equipotentiality_vs._the_Power_Law
+    "A list of all wiki pages that link here [j]"
+  [Related changes]: /Special:RecentChangesLinked/5.1.B._Equipotentiality_vs._the_Power_Law
+    "Recent changes in pages linked from this page [k]"
+  [Special pages]: /Special:SpecialPages
+    "A list of all special pages [q]"
+  [Printable version]: ?title=5.1.B._Equipotentiality_vs._the_Power_Law&printable=yes
+  [Permanent link]: ?title=5.1.B._Equipotentiality_vs._the_Power_Law&oldid=57020
+    "Permanent link to this revision of the page"
+  [navigation]: #mw-head
+  [search]: #p-search
+  [?title=5.1.B.\_Equipotentiality\_vs.\_the\_Power\_Law&oldid=57020]: ?title=5.1.B._Equipotentiality_vs._the_Power_Law&oldid=57020
+  [Categories]: /Special:Categories "Special:Categories"
+  [P2P Hierarchy Theory]: /Category:P2P_Hierarchy_Theory
+    "Category:P2P Hierarchy Theory"
+  [P2P Theory]: /Category:P2P_Theory "Category:P2P Theory"
+  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
+    "P2P Foundation Notice on Copyrights"
+  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
+    "P2P Foundation:Privacy policy"
+  [About the P2P Foundation Wiki]: /P2P_Foundation:About
+    "P2P Foundation:About"
+  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
+  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
+  [![Powered by MediaWiki][]]: //www.mediawiki.org/
