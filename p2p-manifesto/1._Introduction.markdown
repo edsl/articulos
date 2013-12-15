@@ -1,71 +1,12 @@
-[][]
-
-##### Namespaces
-
--   [Page][]
--   [Discussion][]
-
-#### 
-
-##### Variants[][1]
-
-[Share this][]
-
-##### Views
-
--   [Read][]
--   [View source][]
--   [View history][]
-
-##### Actions[][1]
-
-##### Search
-
-![Search][]
-
-##### Personal tools
-
--   [Log in][]
-
-##### p2pfoundation
-
--   [Wiki Main Page][]
--   [Blog [EN]][]
--   [Blog [GR]][]
--   [Ning Network][]
-
-##### Navigation
-
--   [Recent changes][]
--   [Random page][]
--   [Help][]
--   [Donations][]
-
-##### Toolbox
-
--   [What links here][]
--   [Related changes][]
--   [Special pages][]
--   [Printable version][]
--   [Permanent link][]
-
 1. Introduction
 ===============
 
-From P2P Foundation
-
-Jump to: [navigation][], [search][]
-
-**1. Introduction**
+Introducción
+------------
 
 **1.A. What this essay is about**
 
-**1.B. Some acknowledgments**
-
-\
- **1. Introduction**
-
-**1.A. What this essay is about**
+### De qué se trata este ensayo
 
 The following essay describes the emergence, or expansion, of a specific
 type of relational dynamic, which I call peer to peer. It’s a form of
@@ -76,6 +17,16 @@ not organized according to hierarchical methods of command and control.
 It creates a Commons, rather than a market or a state, and relies on
 social relations to allocate resources rather than on pricing mechanisms
 or managerial commands.
+
+Este ensayo describe la emergencia, o bien la expansión, de un tipo específico
+de dinámica relacional, a la que llamo par-a-par. Es una forma de organización
+humana de redes con base en la participación libre y equipotente[?] de
+compañeros, involucrados en la producción de recursos comunes, sin recurrir
+a la compensación monetaria como factor motivante clave y sin organizarse de
+acuerdo a métodos jerárquicos de comando y control. Lo que crea es un Común,
+antes que un mercado o un estado, donde las relaciones sociales son las
+utilizadas para asignar recursos antes que los mecanismo de asignación de
+precios o los comandos administrativos.
 
 This format is emerging throughout the social field: as a format of
 technology (the point to point internet, filesharing, grid computing,
@@ -266,64 +217,3 @@ Edward Haskell and Arthur Coulter, on synergetics and cooperation, which
 are explained on his website. Mackenzie Wark's Hacker Manifesto (Wark,
 2004) and Alexander Galloway's Protocol (Galloway, 2004), have strongly
 influenced my analysis of P2P power structures.
-
-Retrieved from "[?title=1.\_Introduction&oldid=33129][]"
-
--   This page was last modified on 17 October 2009, at 16:51.
--   This page has been accessed 3,933 times.
--   [Copyright Information][]
-
--   [\<!-- --\>][]
--   [About the P2P Foundation Wiki][]
--   \<!-- --\>
-
--   [![Attribution-ShareAlike 3.0 Unported][]][]
--   [![Powered by MediaWiki][]][]
-
-  []: /Main_Page "Visit the main page"
-  [Page]: /1._Introduction "View the content page [c]"
-  [Discussion]: ?title=Talk:1._Introduction&action=edit&redlink=1
-    "Discussion about the content page [t]"
-  [1]: #
-  [Share this]: http://www.addthis.com/bookmark.php?v=20
-  [Read]: /1._Introduction
-  [View source]: ?title=1._Introduction&action=edit
-    "This page is protected.
-    You can view its source [e]"
-  [View history]: ?title=1._Introduction&action=history
-    "Past revisions of this page [h]"
-  [Search]: /skins/vector/images/search-ltr.png?303
-  [Log in]: ?title=Special:UserLogin&returnto=1.+Introduction
-    "You are encouraged to log in; however, it is not mandatory [o]"
-  [Wiki Main Page]: /Main_Page
-  [Blog [EN]]: http://blog.p2pfoundation.net/
-  [Blog [GR]]: http://bloggr.p2pfoundation.net/
-  [Ning Network]: http://p2pfoundation.ning.com
-  [Recent changes]: /Special:RecentChanges
-    "A list of recent changes in the wiki [r]"
-  [Random page]: /Special:Random "Load a random page [x]"
-  [Help]: /Help:Contents "The place to find out"
-  [Donations]: /P2P_Foundation:Site_support
-  [What links here]: /Special:WhatLinksHere/1._Introduction
-    "A list of all wiki pages that link here [j]"
-  [Related changes]: /Special:RecentChangesLinked/1._Introduction
-    "Recent changes in pages linked from this page [k]"
-  [Special pages]: /Special:SpecialPages
-    "A list of all special pages [q]"
-  [Printable version]: ?title=1._Introduction&printable=yes
-  [Permanent link]: ?title=1._Introduction&oldid=33129
-    "Permanent link to this revision of the page"
-  [navigation]: #mw-head
-  [search]: #p-search
-  [Synearth.org]: /SynEARTH_Network "SynEARTH Network"
-  [?title=1.\_Introduction&oldid=33129]: ?title=1._Introduction&oldid=33129
-  [Copyright Information]: http://p2pfoundation.net/P2P_Foundation:Copyright
-    "P2P Foundation Notice on Copyrights"
-  [\<!-- --\>]: /P2P_Foundation:Privacy_policy
-    "P2P Foundation:Privacy policy"
-  [About the P2P Foundation Wiki]: /P2P_Foundation:About
-    "P2P Foundation:About"
-  [Attribution-ShareAlike 3.0 Unported]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-  [![Attribution-ShareAlike 3.0 Unported][]]: http://creativecommons.org/licenses/by-sa/3.0/
-  [Powered by MediaWiki]: /skins/common/images/poweredby_mediawiki_88x31.png
-  [![Powered by MediaWiki][]]: //www.mediawiki.org/
