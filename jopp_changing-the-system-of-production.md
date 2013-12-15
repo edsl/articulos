@@ -3,8 +3,14 @@ http://peerproduction.net/issues/issue-1/invited-comments/changing-the-system-of
 Changing the system of production
 =================================
 
+Cambiando el sistema de producción
+==================================
+
 By Jean Zin
 -----------
+
+Por Jean Zin
+------------
 
 The economic and financial crisis, serious as it may be, will not
 provoke the end of capitalism which has weathered worse. But if an exit
