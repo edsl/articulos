@@ -1,10 +1,11 @@
 ---
-title: Licencia de Producción de Pares (Versión legible por humanos)
-author: En Defensa del Software Libre
+title: "Licencia de Producción de Pares (Versión legible por humanos)"
+author: "En Defensa del Software Libre"
 layout: post
 ---
 
-# Licencia de Producción de Pares (Versión legible por humanos)
+Licencia de Producción de Pares (Versión legible por humanos)
+=============================================================
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia
 > completa)](http://endefensadelsl.org/ppl_es.html)
@@ -53,13 +54,13 @@ Entendiendo que
 * **Otros derechos** - Los derechos siguientes no quedan afectados por
   la licencia de ninguna manera:
 
-  * Los derechos derivados de usos legítimos u otras limitaciones reconocidas
-    por ley no se ven afectados por lo anterior;
+    + Los derechos derivados de usos legítimos u otras limitaciones
+      reconocidas por ley no se ven afectados por lo anterior;
 
-  * Los derechos morales del autor;
+    + Los derechos morales del autor;
 
-  * Derechos que pueden ostentar otras personas sobre la propia obra o su uso,
-    como por ejemplo derechos de imagen o de privacidad.
+    + Derechos que pueden ostentar otras personas sobre la propia obra o
+      su uso, como por ejemplo derechos de imagen o de privacidad.
 
 * **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
   los términos de la licencia de esta obra.  La mejor forma de hacerlo es

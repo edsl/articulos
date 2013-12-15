@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Proyecto Harmony considerado dañino
-author: Bradley M. Kuhn
-cover: images/cover_endefensadelsl_nr1.png
+title: "Proyecto Harmony considerado dañino"
+author: "Bradley M. Kuhn"
+cover: "images/cover_endefensadelsl_nr1.png"
+old-slug: harmony_harmful.html
 ---
 
 Proyecto Harmony considerado dañino
 ===================================
 
-_Jueves 7 de Julio de 2011 por Bradley M. Kuhn_[^2]
+> Esta traducción y el artículo original se liberan bajo
+> [Creative Commons Atribución CompartirDerivadasIgual
+> 3.0 de Argentina](http://ur1.ca/2djpm) y [Estados
+> Unidos](http://creativecommons.org/licenses/by-sa/3.0/us/legalcode)
+> respectivamente. Traducido por Nicolás Reynolds y Mauricio Pasquier
+> Juan.
+
+_Jueves 7 de Julio de 2011 por Bradley M. Kuhn_
 
 Mucha publicidad se diseña para convencernos de comprar o usar algo que no
 necesitamos. Cuando escucho a alguien zumbando sobre alguna cosa nueva,
@@ -546,11 +554,6 @@ el código bajo copyleft.
 "elección de ley". El fraseo ha sido aclarado para solucionar este problema.
 Por favor envíenme comentarios o correo si creen que no ha sido corregido
 adecuadamente.
-
-[^2]: [Creative Commons License][86] Esta traducción y el artículo original se
-liberan bajo Creative Commons Atribución CompartirDerivadasIgual 3.0 de
-Argentina y Estados Unidos respectivamente. Traducido por Nicolás Reynolds y
-Mauricio Pasquier Juan.
 
 [1]:http://ebb.org/bkuhn/rss.xml
 [2]:http://ebb.org/bkuhn/blog/rss.xml
