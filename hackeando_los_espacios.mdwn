@@ -12,7 +12,7 @@ Hackerspaces 1 // Historia
 La historia de los llamados hackerspaces se remonta al momento en que el
 movimiento de contracultura se encontraba por alcanzar un estado de madurez. En
 la década posterior en que los hippies intentaron establecer nuevas formas de
-relacionarse social, política, económica y ecológicamente, una gran cantidad de
+relaciones sociales, políticas, económicas y ecológicas, una gran cantidad de
 experiencias fueron realizadas referentes a la construcción de nuevos espacios
 en los que vivir y trabajar. Estos eran considerados nichos para revivir y
 rescatar a personas del monótono estilo de vida en que la sociedad burguesa
@@ -32,8 +32,8 @@ La idea de cambio fue conjurada desde lo alto de los sueños nebulosos
 lisérgicos y discursos patéticos para conseguir los sueños de uno y/o tener los
 pies en tierra firme -para ser des-obamizado, si se quiere. Esta conversión
 ganó su fama debido al sueño hippie macro-político ("Tenía mucho que soñar
-anoche" como el título de una clásica canción de sicología pop de 'The Electric
-Prunes' sonando) se deterioró completamente. Los hippies aprendieron que el
+anoche" como decía el título de una clásica canción de sicología pop de 'The
+Elecric Prunes') se deterioró completamente. Los hippies aprendieron que el
 cambio social y político requiere más que simplemente unir el mantra de los
 carteles, canciones pop y fantasías de drogas que estaban promoviendo.
 
@@ -49,7 +49,7 @@ personas pudieran reunirse y probar diferentes formas de vivir, trabajar, tal
 vez amar, y lo que sea que hace la gente cuando quieren hacer algo.
 
 Es necesario darle una mirada al desarrollo histórico de los movimientos
-políticos y su relacionamiento con los espacios y la geografía: la revolución
+políticos y su relación con los espacios y la geografía: la revolución
 estudiantil de 1969 fue conducida por la idea de recuperar los lugares y
 establecer una sicogeografía distinta entre el laberinto de la ciudad a través
 de la desviación. Del mismo modo, el movimiento autónomo de la década del
@@ -79,9 +79,9 @@ para actividades recreativas).
 Representan un camino integrador que se niega a aceptar un estilo de vida
 formado mediante tal estructura. Esto significa que pueden llegar a formas de
 trabajo cooperativo y no-represivo, por ejemplo, en problemas técnicos que
-pueden resultar en soluciones nuevas e innovadoras. Y allí es exactamente donde
-'Vida Equivocada' de Adorno podría caer en exceso. El sistema capitalista es
-una entidad altamente adaptable por lo que no sorprende que espacios y modos de
+pueden resultar en soluciones nuevas e innovadoras. Y allí es exactamente dónde
+la 'vida equivocada' de Adorno podría colarse. El sistema capitalista es una
+entidad altamente adaptable por lo que no sorprende que espacios y modos de
 vida alternativos proveyeran ideas interesantes que pudieran ser ordeñadas y
 comercializadas.
 
@@ -108,13 +108,13 @@ Cierta gente no quería vivir y trabajar dentro del esquema de trabajo burgués
 clásico y se negó a ser parte de su proyecto ideológico y político, por algunas
 muy buenas razones. La alteridad de los espacios en ese entonces era
 determinada por la consistencia de una cultura dominante burguesa sobre la base
-de un orden dualista de guerra fría mundial. Una vez más demostraron ser los
-terceros espacios de una clase diferente: ni el Estado ni el capitalismo de
-libre comercio. Y siendo estructural e ideológicamente diferentes de los que
-habían sido una importante declaración y postura política. En una sociedad de
-fácil distincción entre las categorías principal y clandestina, cada actividad
-llevada a cabo en el espacio abierto del tipo clandestino, es un paso en la
-dirección equivocada.
+de un orden dualista de guerra fría mundial. Una vez más demostraron ser
+terceros espacios de una clase diferente: ni Estado ni capitalismo de libre
+comercio. Y ser estructural e ideológicamente diferentes de eso había sido una
+importante declaración y postura política. En una sociedad de fácil distinción
+entre las categorías principal y clandestina, cada actividad llevada a cabo en
+el espacio abierto del tipo clandestino, es un paso alejandose de la dirección
+equivocada.
 
 La misma práctica de hacer uso un personal de estructuras alternativas viene
 con la seguridad de estar del lado bueno. Pero la sociedad pos-guerra fría
@@ -131,19 +131,18 @@ aplastamiento).
 Así, las formas de vida alternativas se aplicaron idealmente como un
 rejuvenecimiento de lo que era viejo, aburrido, conservador e impotente para
 progresar y adaptarse en el constantemente cambiante presente burgués. Nuevas
-formas de resolver problemas técnicos (y estéticos) se cocinaron en la
-clandestinidad y los burgueses cazadores de talento observaron de cerca para
-ocasionalmente seleccionar esto o aquello, tal como pasó en el campo de la
-música pop con el tan llamado rock alternativo de los noventas. Corriente
-alternativa, ahoi![^1]
+formas de resolver problemas técnicos (y estéticos) se cocinaron en el under y
+los burgueses cazadores de talento observaron de cerca para ocasionalmente
+seleccionar esto o aquello, tal como pasó en el campo de la música pop con el
+llamado rock alternativo de los noventas. Moda alternativa, ahoi!
 
 Por otro lado, los noventa marcaron el triunfo de la democracia liberal, tal
 como Slavoj Žižek escribe:
 
 > La caída del Muro de Berlín el 9 de noviembre de 1989 marcó el inicio de la
 > "feliz década de 1990". De acuerdo a Francis Fukuyama, la democracia liberal
-> ha, en principio, ganado. La era es generalmente vista como finalizada tras
-> el 9/11. Como sea, parece que la utopía debió morir dos veces: el colapso de
+> habia, en principio, ganado. La era es generalmente vista como finalizada tras
+> el 9/11. Sin embargo, parece que la utopía tuvo que morir dos veces: el colapso de
 > la utopía política liberal-demócrata del 9/11 no afectó la utopía económica
 > del mercado global capitalista, que ahora ha llegado a su fin.
 
@@ -151,22 +150,21 @@ Es por tanto muy irónico que los geeks y nerds, mientras observan la muerte de
 la liberal-democracia en su forma política (libertades civiles concedidas a fin
 de mantener la paz social) así como en su forma económica (crisis) se vuelven
 defensores liberal-demócratas de una ideología que ya ha fallado. Sin las
-líneas de demarcación política de una sociedad de una guerra fría, los
-hackerspaces cambian cada tanto aún sin ser notado. La agenda política fue
-multiplicada por problemas individuales que los techno nerds intentaron
-resolver en una agradable atmósfera sin miedo, estados no agresivos donde la
-agresividad del mercado fue suspendida; donde uno puede hablar de problemas y
-desafíos técnicos y creativos y desafiarse cortésmente con personas con ideas
-afines.
+líneas de demarcación política de una sociedad de guerra fría, los hackerspaces
+cambiaron a veces sin notarlo. La agenda política fue multiplicada por
+problemas individuales que los techno nerds intentaron resolver en una
+agradable atmósfera sin miedo, estados no agresivos donde la agresividad del
+mercado fue suspendida; donde uno puede hablar de problemas y desafíos técnicos
+y creativos y desafiarse cortésmente con personas con ideas afines.
 
-Como tal, el enfoque político se desvaneció en el camino a pequeños talleres
-paraísos frikis. La micro-política falló en la misma escala y en el mismo
-alcance que los antiguos proyectos macro-políticos fueron pulverizados por la
-irreversibilidad del capitalismo. La idea de tener una revolución (de cualquier
-tipo) fue domesticada en un reformismo de buena limpieza, y las únicas
+Como tal, el enfoque político se desvaneció en el camino a ser pequeños
+talleres-paraísos frikis. La micro-política falló en la misma escala y en el
+mismo alcance que los antiguos proyectos macro-políticos fueron pulverizados
+por la irreversibilidad del capitalismo. La idea de tener una revolución (de
+cualquier tipo) fue domesticada en un buen y limpio reformismo, y las únicas
 revoluciones que yacían delante eran semi-revoluciones tecnológicas de internet
 y sus brotes de red social. Sin las antiguas agendas políticas los hackerspaces
-se convirtieron en pequeños lugares que en realidad no hacen diferencias
+se convirtieron en pequeños lugares que en realidad no hicieron diferencias
 fundamentales.
 
 Comparable a la caída de las casas okupas obteniendo un estado de legalidad y
@@ -181,10 +179,10 @@ hackerspaces (incluso a las cosas más triviales como soldaruras, lecciones de
 alfarería, o clases de malabares), es lo que falta ahora.
 
 Debido a esta deficiencia los hackerspaces ya no pueden ser formados y
-politizados en una escala más amplia. Esto claramente significa que cualquier
-cosa que debamos hacer: nuestras comunidades de hackerspaces permanecen
-restringidas; nada más que el fluido de nutrientes para la cría de recursos
-humanos. (¡Soylent Google está hecho de personas!)
+politizados en una escala más amplia. Esto claramente significa que no importa
+lo que hagamos: nuestras comunidades de hackerspaces permanecen restringidas;
+nada más que el fluido de nutrientes para la cría de recursos humanos.
+(¡Soylent Google está hecho de personas!).
 
 Hackerspaces 3 // Futuro
 ------------------------
@@ -209,33 +207,31 @@ demandas que se hicieron hace mucho tiempo y aún están allí, escondidas en lo
 que hacemos ahora mismo.
 
 Para comenzar nos gustaría organizar ciertos talleres en los hackerspaces donde
-podamos aprender acerca de la filosofía, historia y otros aspectos que
-necesitamos recobrar en nuestras vidas. La teoría es un conjunto de
-herramientas para analizar y deconstruir el mundo. Además, la necesitamos para
-reflejar y entender lo que los hackerspaces de hoy hacen bajo el "benevolente"
-control de un cierto grupo de mayormente hombres blancos trabajadores técnicos
-nerds hábiles con las manos. Y que dan forma a una práctica en ellos mismos que
-destina a la mayoría de los hackerspaces actuales. (Resulta difícil comprender
-que existen hackerspaces en algunas partes de los Estados Unidos que no tienen
-un solo miembro Afro-Américano o Latino. Pero nos gustaría mantener nuestra
-presunción europea para nosotros mismos.
-
-Debemos observar a nuestra pero-que-tan-multicultural escena hacker en Europa y
-preguntarnos a nosotros mismos si los hackers de origen inmigrante de Turquía o
-los estados del norte de África están representados en números que uno puede
-esperar de su porcentaje de la población. O, simplemente, contar con la
-representación de la mujer y ver si tienen el 50% de los miembros.
+podamos aprender acerca de filosofía, historia y otros aspectos que necesitamos
+recobrar en nuestras vidas. La teoría es un juego de herramientas para analizar
+y deconstruir el mundo. Además, necesitamos reflejar y entender lo que los
+hackerspaces de hoy hacen bajo el "benevolente" control de un cierto grupo de
+mayormente hombres blancos trabajadores técnicos nerds hábiles con las manos. Y
+que dan forma a una práctica en ellos mismos que destina a la mayoría de los
+hackerspaces actuales. (Resulta difícil comprender que existen hackerspaces en
+algunas partes de Estados Unidos que no tienen un solo miembro
+Afro-Américano o Latino. Pero nos gustaría mantener nuestra pedantería europea
+hacia nosotros mismos. Debemos observar a nuestra oh-tan-multicultural
+escena hacker en Europa y preguntarnos a nosotros mismos si los hackers de
+origen inmigrante de Turquía o los estados del norte de África están
+representados en números que uno puede esperar de su porcentaje de la
+población. O, simplemente, contar con la representación femenina y ver si
+hacen el 50% de los miembros.)
 
 Por lo tanto, nos encontramos con que los hackerspaces de hoy están excluyendo
 una gran cantidad de grupos étnicos y sociales que no parecen encajar o tal vez
 se sienten así, y tienen miedo por el dominio del hombre blanco nerd, sus (tal
 vez) bromas sexistas o excluyentes, o cualquier cosa que pueda ser aportado por
 ellos. O tal vez no tienen las habilidades adecuadas para comunicarse y/o
-cooperar con los grupos de chicos geek (o al menos pueden pensar lo
-contrario).
+cooperar con los grupos de chicos geek (o al menos pueden pensarlo).
 
 Lo que se necesita es la inclusión no-represiva de todos los grupos marginados
-por la sociedad burguesa tal como ha sido la intención de los primeros
+por la sociedad burguesa tal cómo ha sido la intención de los primeros
 hackerspaces en la historia de la contracultura. Si aceptamos la idea marxista
 que la misma naturaleza de la política eśtá siempre en el interés de los que
 actuan, las políticas de los hackerspaces son por ahora en el interés de
@@ -253,9 +249,6 @@ Richka por la severidad gramática.
 
 http://www.monochrom.at/english/
 http://www.monochrom.at/hacking-the-spaces/
-
-[^1]: "Ahoi" - Seguramente significa "Ahoy", el saludo original telefónico sugerido
-por Alexander Graham Bell, remplazado por "Hola"
 
 N. del T. ☠♥☠. Agradecimiento a los hermanos de QuilmesLUG por tanta buena
 onda.
