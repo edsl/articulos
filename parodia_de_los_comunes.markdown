@@ -344,7 +344,7 @@ que no haya malentendidos, necesitamos clarificar el significado de
 define por cuatro libertades que el usuario tiene para usar, estudiar,
 compartir copias y compartir versiones modificadas del software.
 
-[^NdT1]: EULA en inglés
+[^NdT1]: NdT: EULA en inglés
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -418,7 +418,7 @@ que dañaron tanto el sector industrial como el agrícola en los últimos
 
 La segunda característica es la externalización, de acuerdo al cual y
 a pesar de las intenciones y planes de los miembros, el proyecto se
-convierte en una forma de economía de agregación o _crowdsourcing_.
+convierte en una forma de economía de agregación o _crowdsourcing_[^NdT2].
 En este escenario el valor de uso producido por los pares sirve a
 ciertos intereses lucrativos sin importar que los pares productores
 estén al tanto.  Los dueños/administradores de la red/plataforma, es
@@ -444,6 +444,8 @@ redes sociales deben ser des-privatizadas --es decir que la propiedad de
 los datos de los usuarios debe ser devuelta a sus dueños legítimos así
 como la libertad de acceder y modificar los protocolos y diagramas que
 estructuran su participación."
+
+[^NdT2]: NdT: tercerización o externalización de masas
 
 Entonces, el trabajo gratuito es voluntario.  En los proyectos
 de producción de pares, el trabajador cognitivo es dueño del
@@ -563,160 +565,161 @@ creativas.
 -------------------------------
 
 Para el sistema económico la acumulación de los medios de producción
-es una necesidad funcional tanto como una causa para alcanzar un punto
-muerto.  En el área de las ciencias informacionales, las computadoras
-y otros dispositivos digitales y la capacidad técnica de usarlos como
+es tanto una necesidad funcional como la causa de alcanzar un punto
+muerto.  En el área de las ciencias de la información, de las computadoras
+y de otros dispositivos digitales, la capacidad técnica de usarlos como
 medios de producción está al alcance de la mayoría.  La propiedad
 privada de los medios de producción en este sector económico es por
-priemra vez universal y la cantidad de medios que la gente posee
+primera vez universal y la cantidad de medios que la gente posee
 influencia decisivamente su potencial.  Hoy en día, el software libre,
 por su excelencia técnica, es ampliamente utilizado por organizaciones
 que compiten contra la filosofía y la práctica de las comunidades
 de pares.  Una de las causas es la división de la comunidad de
-desarrolladores entre los que utilizan el término "software libre" y
-por lo tanto contribuyen a un poder en crecimiento de la comunidades
+desarrolladores en los que utilizan el término "software libre" y,
+por lo tanto, contribuyen a un poder en crecimiento de la comunidades
 de software y aquellos que prefieren construcciones como "código
-abierto" o "código compartido" argumentando a favor de la facilitación
-de la penetración del software libre en el mundo de los negocios.
-Estos últimos remueven a todos los usuarios, tanto individuales como
-jurídicos, de la habilidad de comprender que su libertad política
-depende de la utilización de medios digitales es mucho más importante
+abierto" o "código compartido" argumentando a favor de la facilidad
+para la penetración del software libre en el mundo de los negocios.
+Estos últimos le quitan a todos los usuarios, tanto individuos como
+personas jurídicas, la habilidad de comprender que su libertad política
+dependiente de la utilización de medios digitales es mucho más importante
 que la superioridad técnica del software libre que habilita esos medios.
 
 La mayoría de la gente no puede estar al tanto de todo esto, cuando el
-software libre no es la piedra angular del sistema de educación pública.
-Este defecto daña severamente a la sociedad en todo o en parte con
-respecto a problemas sociales urgentes.  Incluso la aplicación de
+software libre no es un pilar del sistema de educación pública.
+Este defecto daña severamente a la sociedad o a parte de ella más allá de
+los problemas sociales urgentes.  Incluso la aplicación de
 políticas ampliamente consensuadas está destinada al fracaso si la
-infraestructura técnica no toma en cuenta los problemas sociales
+infraestructura técnica no resuelve los problemas sociales
 inmediatos.  Pueden observarse dos graves consecuencias de la división
 de la comunidad.  Los enfoques cercanos al "código abierto" son
 antipedagógicos debido a su neutralidad axiológica, por lo que no pueden
 ser promovidos como material educativo, mientras que la fricción con el
 software libre no ofrece a los docentes una dirección clara.  Entonces
 la sociedad, en ausencia de guía, se mueve conceptualmente hacia lo que
-la gente comprende intuitivamente.  Es decir que la tecnología es más
+la gente comprende intuitivamente.  Que la tecnología del software es más
 tecnología y menos software, por lo tanto materia de ingenieros
 especializados.
 
 Cuando la nueva tecnología tipográfica fue inventada, su alto costo
-mantuvo a la mayoría a la distancia de estos nuevos medios de
+mantuvo a la mayoría lejos de estos nuevos medios de
 producción.  En nuestros días, cuando la excusa de mantener distancia de
 los medios digitales no es una opción, la desinformación, aun por medios
 oficiales, sobre las dinámicas de software se ha vuelto epidémica.  De
-esta forma, previene que la gente encuentre la manera de utilizar las
+esa forma, previene que la gente encuentre la manera de utilizar las
 computadoras para su propio beneficio y en cambio los fuerza a asignar
-la más simple tarea a expertos informáticos.
+incluso la tarea más simple a expertos informáticos.
 
-La red, es decir la suma de los nodos interconectados, es en realidad
+La red, es decir la suma de nodos interconectados, es en realidad
 la "computadora real" ya que tanto la coherencia como las economías de
-escala se vuelven posibles en la red.  Las políticas estatales que
-tradicionalmente han entregado el poder a los monopolios no aplican
-aquí.  Los activistas de la arquitectura de pares están luchando contra
-un esfuerzo coordinado internacionalmente para controlar el poder de los
-nodos pares antes que la mayoría caiga en la cuenta del alcance de las
+escala se vuelven posibles en la red.  Las políticas estatales tradicionales que
+allanan el camino al poder monopólico no pueden aplicar fácilmente
+aquí.  Los defensores de la arquitectura P2P están luchando contra
+un esfuerzo internacional coordinado para controlar el poder de los
+nodos pares antes que la mayoría caiga en la cuenta de la amplitud de
 oportunidades que ofrece.  La política escogida para subvertir las
 comunidades basadas en los Comunes es por un lado la presión por firmar
 acuerdos internacionales contra la libertad de Internet, lo que es una
 operación típica de integración institucional, y por el otro la
 vinculación de los usuarios a las corporaciones monopólicas.  Esas
 corporaciones cobran por las tecnologías privativas pre-instaladas en
-los dispositivos nuevos y privan a todos las libertades básicas a cambio
+los dispositivos nuevos y privan a todos de libertades básicas a cambio
 de una presunta facilidad de uso.
 
 Aunque la "jaula dorada" es un síndrome que no puede durar para siempre,
-las compañías que desarrollan software no libre estiman que de una forma
+las compañías que desarrollan software no libre pueden estimar que de una forma
 u otra tendrán una fuente de ingresos gracias al poder de la inercia.
 Las tecnologías privativas en sistemas operativos y aplicaciones de
-software tienen dos graves consecuencias.  Mantienen a los usuarios
-divididos e impotentes [@stallman-2008], destruyen las culturas locales
+software tienen dos consecuencias principales.  Mantienen a los usuarios
+divididos e impotentes [@stallman-2008], deconstruyen las culturas locales
 [@greve-2006a; @greve-2006b] e incrementan el analfabetismo digital.
-Este es un buen ejemplo de externalización que tiene un rol más o menos
-importante aunque la integración institucional aparece como la forma más
+Este es un buen ejemplo de externalización, que tiene un rol más o menos
+importante, aunque la integración institucional aparece como la forma más
 apropiada de debilitar los Comunes.
 
 Superando las tensiones
 -----------------------
 
 En tiempos en los que la economía global es relativamente estable, la
-parodia de los Comunes puede ser fácilmente evitada.  Existe una
-insignificamente migración de fuerza de trabajo desde el modelo
+parodia de los Comunes puede ser fácilmente evitada.  Hay una
+migración insignificante de la fuerza de trabajo desde el modelo
 corporativo hacia los Comunes, por lo que no hay una presión seria para
 aplicar la integración institucional y la movilidad de los miembros de
 la comunidad prácticamente cancela las consecuencias del crowdsourcing.
-Pero en una época de colapso económico y mientras que la movilidad se
+Pero en una época de colapso económico y mientras la movilidad se
 vuelve un riesgo, cada vez más personas dirigen su atención a las
-comunidades, muchos de ellos por supervivencia.
+comunidades, muchos de ellos por razones de supervivencia.
 
 El Estado parece afrontar las comunidades de pares basadas en los
 Comunes como unidades económicas ordinarias sujetas a grandes tasas
 impositivas mientras que soporta actividades basadas en la "propiedad
 intelectual".  Estas actividades son inyectadas en las comunidades
-bloqueando su crecimiento.  La esperanza en que la multiplicidad de
+bloqueando su crecimiento.  La esperanza de que la multiplicidad de
 comunidades las ayudará a convertirse en las relaciones de producción
-dominantes resulta refutada ya que el sistema político sólo permitirá
+dominantes es refutada ya que el sistema político sólo permitirá
 crecer a las comunidades si sus operaciones y funciones se integran al
 modo de producción establecido.  La historia muestra que el modo de
 producción capitalista no ha permitido ningún otro modo de producción.
-El futuro de modos de producción precapitalistas o noveles está
+El futuro de los modos de producción precapitalistas o innovadores está
 predeterminado: destrucción o integración.  Mientras que las relaciones
-de pares no sean dominantes, su dependencia de un medioambiente
+P2P no sean dominantes, su dependencia de un medioambiente
 económico amistoso resulta imperativo.
 
-Un ejemplo reciente donde los Comunes pueden mercantilizarse es el caso
-del archivo digital de la ERT.  La ERT fue la radio y televisión estatal
-griega.  Fue constituyente del sector público y era financiada a través
-de un impuesto obligatorio implementado en la carta de la empresa de
+Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el caso
+del archivo digital de la ERT.  La ERT[^NdT3] era la cadena de radio y televisión estatal
+griega.  Fue un componente del sector público y era financiada a través
+de un impuesto obligatorio implementado en la factura de la empresa de
 electricidad pública (DEI) durante décadas.  En diciembre del 2007,
 se anunció el lanzamiento de un esfuerzo por digitalizar los viejos
 archivos de la ERT, cuyos resultados serían vistos por primera vez unos
 meses más tarde.  Aunque inicialmente este proyecto fue considerado un
 paso importante hacia la disponibilidad pública de una riqueza cultural
 única, la forma en que se decidió distribuirla se encontró con la
-oposición de varios comunidades orientadas a los comunes y ciudadanas.
-Según los protestantes, detrás de esta iniciativa se encontraba un
+oposición de varias comunidades orientadas a los comunes y de ciudadanos.
+Según los opositores, detrás de esta iniciativa se encontraba un
 "fraude inocente": el archivo digital permanecía bajo la propiedad
-exclusiva de la ERT.  Se escogieron formatos de archivos de video, texto
-e imagen patentados para implementar la digitalización al tiempo que la
-descarga y el uso posterior del material quedaban prohibidos.  Luego,
+exclusiva de la ERT.  Se escogieron formatos patentados de archivos de video, texto
+e imagen para implementar la digitalización a la vez que la
+descarga y el uso posterior del material quedaban prohibidos.  Aún peor,
 por la disolución reciente de la ERT como consecuencia de la crisis
 griega[^ert] esta colección cultural nacional, creada y financiada por
-ciudadanos griegos, puede volver a ser propiedad privada.  Durante la
+ciudadanos griegos, puede volver a ser propiedad privada.  Ya durante la
 ausencia estival de la red pública griega, estaciones privadas
 transmitieron partes del archivo.  El caso de la ERT resalta el concepto
 tradicional de la propiedad estatal sobre los bienes públicos: el Estado
 administra un recurso en nombre de los ciudadanos sobre el que ellos no
 tienen autoridad.  Y en tiempos turbulentos la explotación de los
 Comunes, como parte de las políticas de la "doctrina del shock"
-[@klein-2008], toma lugar más fácilmente, contribuyendo y catalizando el
+[@klein-2008], toma lugar más fácilmente, contribuyendo al y catalizando el
 proceso de la acumulación de capital.
 
-[ert]: Al momento de escribir esto (agosto de 2013) el destino de la
+[^NdT3]: NdT: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica
+[^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
        ERT todavía es desconocido.
 
-Un tratamiento efectivo es el uso de medios que garanticen el
+Un tratamiento efectivo es probablemente el uso de medios que garanticen el
 crecimiento fluido de las comunidades.  Estructuralmente hablando, una
-medida es la adopción por la sociedad de cinco condiciones de madurez
+medida es la adopción por parte de la sociedad de las cinco condiciones de madurez
 para ingresar a los Comunes: estándares abiertos, software libre,
 arquitectura de pares, sistema de aprendizaje avanzado y comunidades.
 En lo que se refiere al contexto político, la democracia parlamentaria,
 por ejemplo en Grecia, intenta asegurar el status quo actual demoliendo
 varios derechos ciudadanos y ocasionalmente violando la constitución.
-No deben ponerse esperanzas en el sistema político partidario y sus
-políticas asociadas, principalmente por tres características inherentes
-a las políticas de los partidos políticos: i) las restricciones a la
+No deben ponerse esperanzas en el sistema de partidos políticos y sus
+ideas asociadas, principalmente por tres características inherentes
+a los principios de los partidos políticos: i) las restricciones a la
 democracia son una política para superar la crisis económica; ii) el
-centralismo supranacional que decide y aplica políticas fiscales y
+centralismo supranacional para decidir y aplicar políticas fiscales y
 monetarias sirve a la visión de una Europa Unida; iii) en un período de
 depresión largo, el incremento de la toma de préstamos de capital es el
 mejor método para recuperar el crecimiento.
 
-Esta serie de características hace evidente este absurdo intencional
+Este conjunto de características hace evidente este absurdo intencional
 en el comportamiento de los partidos políticos, para los que la
 probabilidad de adoptar prácticas de pares es prácticamente cero,
 ya que esta perspectiva requiere la implementación inmediata de
 infraestructuras de pares, lo que contrasta con la noción de "propiedad"
-tal como está imbuida en la filosofía del sistema político.  ¿Cómo
+tal como está incrustada en la filosofía del sistema político.  ¿Cómo
 es posible que un sistema política que defiende la interpretación
 institucional de "propiedad" tome las riendas de la expropiación de la
 propiedad privada?  Una respuesta posible es que mientras el sistema
@@ -727,16 +730,16 @@ en contra de los individuos reales.
 Cuando Jean Monnet [-@monnet-1976] declaró "_nous ne coalisons pas des
 Etats, nous unissons des hommes_" ("no estamos construyendo una
 coalición de Estados; estamos creando una unión de personas") su deseo
-vino de la mano de una deconstrucción del Estado nacional, preparada
+vino de la mano de la deconstrucción del Estado nacional, preparada
 conceptualmente en varias publicaciones.  El trasfondo filosófico de
-este acercamiento fue claramente maniqueo ya que el esquema bipolar
+este enfoque fue claramente maniqueo ya que el esquema bipolar
 nacional-supranacional es interpretado sobre la base de una teocracia
 que proclama un dualismo de extremos absolutos.  Sólo algunos
 académicos, Víctor Hugo uno de ellos, intentaron trascender la herencia
 anti-dialéctica del discurso del "ideal de la Europa unificada"
 [@swedberg-1994].
 
-La respuesta a este problema sería un tipo de democracia capaz de
+La respuesta a este problema debería ser un tipo de democracia capaz de
 emerger de la actividad de las comunidades basadas en los Comunes y las
 interacciones entre ellas.  Un proyecto político a niveles tanto
 nacionales como internacionales es necesario para liberar las saludables
@@ -744,10 +747,10 @@ fuerzas que demandan la construcción de comunidades para el beneficio de
 sus miembros.  Dada la larga duración estimada de la crisis económica
 así como su peculiaridad estructural, combinación de inflexibilidad
 monetaria y acumulación de deuda a pesar de la posible reducción del
-déficit, la parodia de los Comunes puede ser eliminada si las
-comunidades adhieren a su misión: asegurar un nivel de alta madurez y
+déficit, la parodia de los Comunes puede ser eliminada sólo si las
+comunidades adhieren a su misión: asegurar un alto nivel de madurez y
 llevar sus demandas por una infraestructura de los Comunes a políticas
-de gobierno tendientes al "Estado asociado", es decir a instituciones
+de gobierno tendientes a un "Estado asociado", es decir a instituciones
 cívicas democráticas que protejan el bien común [@bauwens-2012;
 @kostakis-2012].
 
@@ -755,34 +758,38 @@ Este alto nivel de madurez puede ser alcanzado a través del
 establecimiento de una jurisdicción legal democrática, que imponga
 restricciones a la explotación de los Comunes [@kleiner-2010;
 @fuchs-2013; @bauwens-kostakis-nd].  La producción de pares puede ser
-colectivamente sostenible pero no individualmente sostenible: la mayoría
+colectivamente sostenible pero no lo es individualmente: la mayoría
 de los pares contribuyentes no pueden vivir de eso y dependen de
-los salarios del mercado capitalista.  Seguimos a Bauwens y Kostakis
+los salarios del mercado capitalista.  Nos alineamos con Bauwens y Kostakis
 [-@bauwens-kostakis-nd] que sugieren "la creación de empresas éticas,
-amigables a los Comunes, que también controlan su gobernanza y
+amigables a los Comunes, compuestas ellas mismas de comuneros, que también
+controlan su gobernanza y
 propiedad.  Tales empresas estarán legalmente estructuradas para que sea
 su obligación apoyar la circulación de los Comunes".  El desarrollo de
-las licencias de producción de pares[^ppl], introducidas por Kleiner
-[-@kleiner-2010] como un tipo de licencia _copyfarleft_ puede formar
+las Licencias de Producción de Pares[^ppl], introducidas por Kleiner
+[-@kleiner-2010] como licencia de tipo _copyfarleft_[^NdT4] puede formar
 parte de este debate.  Estas licencias pueden estar orientadas hacia una
 forma de propiedad plural, que incluiría "la propiedad del hacedor (es
 decir una revisión de la propiedad del trabajador en la era del P2P)
 combinada con la propiedad del usuario, es decir el reconocimiento de
-que las redes de usuarios co-crean valor; eventualmente una devolución
+que las redes de usuarios co-crean valor; y eventualmente una devolución
 a los financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].
-De esta forma la creación de ganancias es permitida, pero la
+De esta forma la creación de ganancias está permitida, pero la
 maximización de ganancias no sería la fuerza motriz del desarrollo
 económico.
 
-[ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html)
+[^ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html)
+[^NdT4]: NdT: extremaizquierda de copia, juego de palabras con izquierda de
+copia (copyleft), a su vez un juego de palabras sobre derecho de copia
+(copyright)
 
 Contra la acumulación de capital, que lleva a la parodia de los Comunes,
-la lucha de las comunidades debe incluir la creación de una
+la lucha política de las comunidades debe incluir la creación de una
 infraestructura que proteja, habilite y catalice la circulación de los
-Comunes.  De esa forma la producción de pares i) será sostenible aun al
-nivel personal; ii) se expandirá de la manufactura de bienes intangibles
-hacia la manufactura emergente de productos tecnológicos
-[@kostakis-2013]; iii) y por lo tanto se protegerá a sí misma contra la
+Comunes.  De esa forma la producción de pares podría i) ser sostenible aun al
+nivel personal; ii) expandirse con mayor facilidad hacia la manufactura de bienes tangibles
+construyendo sobre su conjunción con la emergente manufactura de escritorio de productos tecnológicos
+[@kostakis-2013]; iii) y, por lo tanto, protegerse a sí misma contra la
 acumulación de capital con el objetivo de marginalizar, controlar y
 eventualmente trascender al capitalismo.
 
@@ -790,28 +797,28 @@ Conclusión
 ----------
 
 Definimos dos características principales de la parodia de los Comunes:
-la integración institucional y la externalización, de acuerdo a las
-cuales la producción de pares basada en los Comunes resulta convertida
-en un modo de externalización de masas (crowdsourcing).  Bajo estas
+la integración institucional y la externalización, de acuerdo a la
+cual la producción de pares basada en los Comunes es convertida
+en un modo de _crowdsourcing_.  Bajo estas
 condiciones, describimos cómo los Comunes emergen como una promesa, que
 se convierte en tragedia y luego en parodia.  Tan pronto como la
 destrucción gradual es percibida (tragedia) la administración de los
 recursos de los Comunes es privatizada: el recurso común sólo es común
-por su nombre (parodia).  Decimos que este es el escenario más probable,
-particularmente dañando comunidades abocadas a la producción de bienes
+por su nombre (parodia).  Argumentamos que este es un escenario probable,
+particularmente dañando las comunidades abocadas a la producción de bienes
 tangibles, en ausencia de hardware libre y especificaciones abiertas.
 Ya que las fuentes de información y las TICs están distribuidas
-uniformemente, decimos que la mejor administración es la que aplican los
-grupos de individuos concientes sin órdenes desde arriba.  Esto debería
+uniformemente, afirmamos que la mejor administración es la que aplican los
+grupos de individuos conscientes sin órdenes desde arriba.  Esto debería
 tomar lugar fuera de la percepción tradicional del mercado, el que, a
-pesar de sus imperfecciones, aseguró su lugar en el pasado cuando los
+pesar de sus imperfecciones, aseguró su lugar en un pasado lejano cuando los
 niveles tecnológicos no hubieran podido soportar argumentos análogos.
 La subdivisión de las comunidades en grupos organizados por un ventaja
-informacional competitiva o el acceso preferencial y la delegación de
-control hacia las partes más poderosas no puede ser posible si las
+competitiva particular basada en la información o el acceso preferencial y la delegación de
+control hacia las partes más poderosas no pueden ser posibles si las
 comunidades basadas en los Comunes se apegan a sus principios.  La
 apertura de un camino hacia tal perspectiva depende de que la mayoría
-decide tomar el control creativo de su futuro.
+decida tomar el control creativo de su futuro.
 
 
 Bibliografía
