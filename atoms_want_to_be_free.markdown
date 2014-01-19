@@ -999,11 +999,51 @@ informacionales.
 
 [^soga]: Podría traducirse como mear fuera del tarro? :P
 
+El punto inicial de la hipótesis del excepcionalismo de la información
+es una afirmación de hecho sobre la existencia positiva de la escasez en
+el mundo físico, tomado de la disciplina económica.  La alternativa es
+un acercamiento histórica y sociológicamente informado, de acuerdo al
+cual la escasez (tanto de bienes tangibles como intangibles) está
+siempre inscrita en las relaciones sociales prevalecientes.  Es aquí que
+un análisis robusto de la propiedad intelectual debe comenzar.  Mi
+afirmación puede sonar contraintuitiva.  La escasez en el mundo físico
+es una condición de la vida moderna, experimentada en todos lados como
+un deseo insatisfecho.  La certeza sobre tales experiencias debe
+suspenderse en favor de un punto de vista que relaciona la escasez con
+el todo social del sistema industrial de mercado.  El antropólogo
+Marshal Sahlins, basándose en sus estudios sobre sociedades arcaicas,
+hablaba desde tal punto de vista elevado cuando hizo las siguientes
+observaciones:
 
-The starting point of the information exceptionalism hypothesis is a matter-of-factness assertion about the positive existence of scarcity in the physical world, borrowed from the economic discipline. The alternative is a historically and sociologically informed approach, according to which scarcity (both of intangible and tangible goods) is always-already inscribed in prevailing social relations. It is here that a robust analysis of intellectual property must start. My claim might sound counter-intuitive. Scarcity in the physical world is a condition of modern life, everywhere experienced as shortage and unfulfilled want. Certainty of such experiences must be suspended in favour of a viewpoint that relates scarcity to the social whole of the market-industrial system. The anthropologist Marshall Sahlins, drawing on his studies of archaic societies, talked from such an elevated vantage point when he made the following remarks:
+The starting point of the information exceptionalism hypothesis is a
+matter-of-factness assertion about the positive existence of scarcity
+in the physical world, borrowed from the economic discipline. The
+alternative is a historically and sociologically informed approach,
+according to which scarcity (both of intangible and tangible goods)
+is always-already inscribed in prevailing social relations. It is
+here that a robust analysis of intellectual property must start. My
+claim might sound counter-intuitive. Scarcity in the physical world
+is a condition of modern life, everywhere experienced as shortage and
+unfulfilled want. Certainty of such experiences must be suspended in
+favour of a viewpoint that relates scarcity to the social whole of the
+market-industrial system. The anthropologist Marshall Sahlins, drawing
+on his studies of archaic societies, talked from such an elevated
+vantage point when he made the following remarks:
 
 
-"The market-industrial system institutes scarcity, in a manner completely unparalleled and to a degree nowhere else approximated. Where production and distribution are arranged through the behaviour of prices, and all livelihoods depend on getting and spending, insufficiency of material means becomes the explicit, calculable starting point of all economic activity" (Sahlins , 1972, 4).
+"The market-industrial system institutes scarcity, in a manner
+completely unparalleled and to a degree nowhere else approximated. Where
+production and distribution are arranged through the behaviour
+of prices, and all livelihoods depend on getting and spending,
+insufficiency of material means becomes the explicit, calculable
+starting point of all economic activity" (Sahlins , 1972, 4).
+
+> El sistema industrial de mercado instituye la escasez de una manera
+> sin paralelo y en un grado sin aproximación.  Donde la producción y la
+> distribución están organizadas a través del comportamiento de los
+> precios y todos los medios de vida dependen de obtener y gastar, la
+> insuficiencia del material se convierte en el punto inicial explícito
+> y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
 
 Numerous historians have demonstrated how this state of affairs came to be, starting with the enclosure movement in fifteenth and sixteenth century England (Perelman, 2000). Land that previously had been held in common was fenced in and assigned to individual property holders. Land was made into a scarce resource, just as information at one point was made to be an abstract and decontextualised entity. The current expansion of intellectual property, in James Boyle’s memorable words, amounts to ”a second enclosure movement” (Boyle 2003). He exemplifies an analysis that starts with a broader critique of private property and commodification as moments in a historically unfolding, social whole. The historical perspective on scarcity puts stress on continuity rather than discontinuity, and shows that the political economy of information is not so exceptional after all. Nothing said so far denies the common sense notion that there is a qualitative difference between information goods and tangible goods. Nor do I deny that it can be meaningful to reflect over this difference. What is at stake is solely how to best frame such an inquiry. The point was forcefully made by Dan Schiller in his critique of the information exceptionalism hypothesis:
