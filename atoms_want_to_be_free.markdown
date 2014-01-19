@@ -719,10 +719,60 @@ vez una crítica general de la propiedad privada como tal.  Afirma que la
 militancia por los comunes informacionales no es a la vez un asalto al
 libre mercado.
 
-The bias of the boundary object must be respected by everyone in the geek public, on pain of being marginalised. This includes critics of intellectual property who are typically identified as ”leftists”. For instance, Richard Stallman, the founder of the Free Software Foundation, insists on not using the word ”intellectual property”. He argues that this term causes confusion by gathering a range of distinct legislation under a catch-all phrase (Stallman 2006). This wish to separate private property from the critique of intellectual property is also suggested by the iconic catch-phrase of the Free Software Foundation: ”free as in free speech, not free as in free beer”. By framing the issue in this way, the case for information commons can be portrayed as a defence of civil liberties, rather than being seen as an attack on private property and thus a struggle for economic redistribution.1 No one can deny that this way of presenting the issue has tactical advantages. Perhaps even the case for information commons becomes all the more efficient in criticising private property and free markets by not giving itself away as such a critique. Concurrently, this suggests the embeddedness of the critique of intellectual property in a liberal, commonsensical worldview, largely defined and systematised in the economic discipline.
+The bias of the boundary object must be respected by everyone in the
+geek public, on pain of being marginalised. This includes critics of
+intellectual property who are typically identified as ”leftists”. For
+instance, Richard Stallman, the founder of the Free Software Foundation,
+insists on not using the word ”intellectual property”. He argues that
+this term causes confusion by gathering a range of distinct legislation
+under a catch-all phrase (Stallman 2006). This wish to separate private
+property from the critique of intellectual property is also suggested
+by the iconic catch-phrase of the Free Software Foundation: ”free as in
+free speech, not free as in free beer”. By framing the issue in this
+way, the case for information commons can be portrayed as a defence of
+civil liberties, rather than being seen as an attack on private property
+and thus a struggle for economic redistribution.1 No one can deny that
+this way of presenting the issue has tactical advantages. Perhaps even
+the case for information commons becomes all the more efficient in
+criticising private property and free markets by not giving itself
+away as such a critique. Concurrently, this suggests the embeddedness
+of the critique of intellectual property in a liberal, commonsensical
+worldview, largely defined and systematised in the economic discipline.
 
+El sesgo del objeto liminal debe ser respetado por todo el público
+_geek_[^geek] bajo pena de quedar marginalizado.  Esto incluye a los
+críticos de la propiedad intelectual típicamente identificados como
+"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la _Free
+Software Foundation_, insiste en no usar el término "propiedad
+intelectual".  Argumenta que este término causa confusión al juntar un
+rango de legislaciones diferentes bajo un término abarcativo
+[@stallman-2006].  Este deseo por separar la propiedad privada de la
+crítica de la propiedad intelectual es también sugerida por la frase
+pegadiza icónica de la Free Software Foundation: _"free as in free
+speech, not free as in free beer"_[^freebeer].  Al enmarcar el problema
+de esta forma, el caso de los comunes informacionales puede ser
+retratado como una defensa de las libertades civiles, en lugar de ser
+visto como un ataque a la propiedad privada y por lo tanto una lucha por
+la redistribución económica.[^1]  Nadie puede negar que esta forma de
+presentar tiene ventajas tácticas.  Tal vez incluso el caso por los
+comunes informacionales se vuelve más eficiente en criticar la propiedad
+privada y el libre mercado al no exponerse como tal.  A la vez, esto
+sugiere un arraigo de la crítica de la propiedad intelectual en una
+visión del mundo liberal, de sentido común, ampliamente definida y
+sistematizada en la disciplina económica.
+
+[^freebeer]: "Libre como un libertad de expresión, no como en cerveza
+              libre"
+
+[^1]: Va una nota al pie acá
+
+
+[^geek]: Geek es el fanático de la tecnología.
 
 Abundance - the anomaly of classical/neo-classical economic science
+
+### Abundancia: la anomalía en la ciencia económica (neo)clásica
+
 The information exceptionalism hypothesis exploits an anomaly in a (scientific) paradigm, that is, the economic discipline and its predominant traditions, large part of the classical and the entire neo-classical economic theory (Daoud 2011; 2010) I am using the term ”anomaly” in the strict sense given to it by Thomas Kuhn (1996). In his classic theory of science, to put it briefly, an anomaly is defined as something which gainsaid the prevailing scientific wisdom of the day. It is hard even to catch sight of the inconsistency, and impossible to resolve it within the scientific worldview of the day. Hence, an anomaly points beyond the established order, towards a new scientific paradigm which can make better sense of the observational data. However, since no way of conceptualising the world can give the ultimate and exhaustive explanation of reality, new anomalies are bound to crop up again.
 
 
