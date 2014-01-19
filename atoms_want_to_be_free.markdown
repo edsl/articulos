@@ -537,13 +537,108 @@ adversarios del régimen actual de la propiedad intelectual cuando
 adoptan la hipótesis del excepcionalismo de la información.
 
 
-The observation above can be further elaborated on by borrowing two popular terms from the science studies literature, boundary work and boundary objects. The first term was proposed by Thomas Gieryn. He used it to describe how science is separated from non-science by the efforts of scientists to uphold their professional status against amateur scientists and religious contenders. The lesson worth emphasising in the context of the present argument is that the boundary is not naturally given. It does not exist independently of the practitioners' whereabouts. The boundary has to be perpetually maintained, defended and re-negotiated (Gieryn 1983). The second term was introduced by Susan Leigh Star and James Griesemer. Their contribution consisted in treating the boundary not merely as a marker of difference but equally as an interface enabling communication across heterogeneous, scientific communities. The boundary object was plastic enough to adapt to local needs, while robust enough to maintain a common identity across different sites (Star and Griesemer 1989; Lamont and Molnár 2002). The original definition of boundary work does not match perfectly onto the information exceptionalism hypothesis outlined above, but it does a good enough job to bring home my key point. The boundary between informational resources and physical goods is not a given. It must be upheld through continuous work. The exceptionalism of information and the separateness of the virtual realm constitute the boundary object of the campaigners for information commons.
+The observation above can be further elaborated on by borrowing two
+popular terms from the science studies literature, boundary work and
+boundary objects. The first term was proposed by Thomas Gieryn. He used
+it to describe how science is separated from non-science by the efforts
+of scientists to uphold their professional status against amateur
+scientists and religious contenders. The lesson worth emphasising
+in the context of the present argument is that the boundary is not
+naturally given. It does not exist independently of the practitioners'
+whereabouts. The boundary has to be perpetually maintained, defended
+and re-negotiated (Gieryn 1983). The second term was introduced by
+Susan Leigh Star and James Griesemer. Their contribution consisted
+in treating the boundary not merely as a marker of difference but
+equally as an interface enabling communication across heterogeneous,
+scientific communities. The boundary object was plastic enough to adapt
+to local needs, while robust enough to maintain a common identity across
+different sites (Star and Griesemer 1989; Lamont and Molnár 2002). The
+original definition of boundary work does not match perfectly onto
+the information exceptionalism hypothesis outlined above, but it does
+a good enough job to bring home my key point. The boundary between
+informational resources and physical goods is not a given. It must be
+upheld through continuous work. The exceptionalism of information and
+the separateness of the virtual realm constitute the boundary object of
+the campaigners for information commons.
+
+La observación anterior puede ser elaborada tomando prestados dos
+términos populares en la literatura de los estudios de las ciencias,
+trabajo liminal y objetos liminales.  El primer término fue propuesto
+por Thomas Gieryn.  Lo utilizó para describir cómo la ciencia es
+separada de la no ciencia por los esfuerzos de los científicos por
+sostener su estatus profesional frente a científicos amateur y
+contendientes religiosos.  La lección que hay que enfatizar en el
+contexto del argumento presente es que los límites no están dados
+naturalmente.  Los límites deben ser mantenidos perpetuamente,
+defendidos y re-negociados [@gieryn-1983].  El segundo término fue
+introducido por Susan Leigh Start y James Griesemer.  Su contribución
+consistió en tratar los límites no solamente como un marcador de
+diferencia sino igualmente como una interfaz que habilita la comunición
+entre comunidades científicas heterogéneas.  El objeto liminal era lo
+suficientemente plástico para adaptarse a las necesidades locales, a la
+vez que lo suficientemente robusto para mantener una identidad común
+entre distintos sitios [@star-griesemer-1989; @lamont-molnar-2002].  La
+definición original del trabajo liminal no encaja perfectamente en la
+hipótesis del excepcionalismo de la información descrita más arriba,
+pero hace un buen trabajo en acerca mi punto clave.  El límite entre los
+recursos informacionales y los bienes físicos no está dado.  Debe ser
+sostenido a través de trabajo continuo.  El excepcionalismo de la
+información y la separación del reino virtual constituye el objeto
+liminal de los militantes de los comunes informacionales.
+
+In line with Susan Leigh Star and James Griesemer’s understanding of
+the term, the vagueness of the notion ”information” is not a flaw but a
+strength. It is this imprecision, which allows hackers and activists of
+varying persuasions to communicate and collaborate with each other. This
+is probably even more important to hackers than to the average science
+community, given their sharp ideological differences. This corresponds
+in a way with the observation about the ”political agnosticism” of
+hackers outlined by Gabriella Coleman (Coleman 2004) There is a less
+innocent side to this story. As Geoffrey Bowker and Susan Leigh Star
+clarified in a later work, the classifications laid down by a boundary
+object have biases, which validate some points of view while rendering
+other positions invisible and/or unspeakable (Bowker and Star 1999)
+. That which has been rendered invisible in the boundary object of
+“information exceptionalism” can be seen from a quote by one of the
+chief architects behind the movement for creative commons licenses,
+Lawence Lessig. After having made a passionate case in favour of that
+information and culture should be distributed in a commons and free
+of charge, Lessig reassures his readers that markets and commons can
+co-exist side-by-side. He underlines that not all resources can nor
+should be organized in a commons:
+
+En la línea del entendimiento de Susan Leigh Start y James Griesemer del
+término, la vaguedad de la noción de "información" no es una falla sino
+una fortaleza.  Es esta imprecisión la que permite a los hackers y
+activistas de varias persuasiones comunicarse y colaborar entre sí.
+Esto es probablemente más importante para los hackers que para las
+comunidades científicas promedio, dadas sus marcadas diferencias
+ideológicas.  Esto corresponde de alguna forma con la observación sobre
+el "agnosticismo político" de los hackers descrito por Gabriella Coleman
+[-@coleman-2004].  Hay un costado menos inocente de esta historia.  Como
+clarificaron Geoffrey Bowker y Susan Leigh Star en una obra posterior,
+las clasificaciones que establece un objeto liminal tienen sesgos que
+validan algunos puntos de vista mientras que vuelven invisibles o
+inefables a otras posiciones [@bowker-star-1999].  Aquello que ha sido
+vuelto invisible en el objeto liminal del "excepcionalismo de la
+información" puede ser visto en una cita de uno de los principales
+arquitectos detrás del movimiento de las licencias Creative Commons,
+Lawrence Lessig.  Después de haberse presentado apasionadamente en favor
+de que la información y la cultura deban ser distribuídas en un común y
+gratuitamente, Lessig reasegura a sus lectores que los mercados y los
+comunes pueden coexistir uno al lado del otro.  Subraya que no todos los
+recursos pueden o deben ser organizados en un común:
 
 
-In line with Susan Leigh Star and James Griesemer’s understanding of the term, the vagueness of the notion ”information” is not a flaw but a strength. It is this imprecision, which allows hackers and activists of varying persuasions to communicate and collaborate with each other. This is probably even more important to hackers than to the average science community, given their sharp ideological differences. This corresponds in a way with the observation about the ”political agnosticism” of hackers outlined by Gabriella Coleman (Coleman 2004) There is a less innocent side to this story. As Geoffrey Bowker and Susan Leigh Star clarified in a later work, the classifications laid down by a boundary object have biases, which validate some points of view while rendering other positions invisible and/or unspeakable (Bowker and Star 1999) . That which has been rendered invisible in the boundary object of “information exceptionalism” can be seen from a quote by one of the chief architects behind the movement for creative commons licenses, Lawence Lessig. After having made a passionate case in favour of that information and culture should be distributed in a commons and free of charge, Lessig reassures his readers that markets and commons can co-exist side-by-side. He underlines that not all resources can nor should be organized in a commons:
+"While some resources must be controlled, others can be provided much
+more freely. The difference is in the nature of the resource, and
+therefore in the nature of how the resource is supplied" (Lessig 2001,
+94).
 
-
-"While some resources must be controlled, others can be provided much more freely. The difference is in the nature of the resource, and therefore in the nature of how the resource is supplied" (Lessig 2001, 94).
+> Mientras que algunos recursos deben ser controlados, otros pueden ser
+> provistos mucho más libremente.  La diferencia está en la naturaleza
+> del recurso y por lo tanto en la naturaleza de cómo el recurso es
+> provisto [@lessig-2001].
 
 
 It is in the nature of informational, non-rival resources to be organised in a commons. In the same vein, rival, tangible resources are thought of as suited for markets. It is the nature of the resource which determines if a product is rival or non-rival. While intellectual property is said to create scarcity, traditional property is assumed to be grounded in objectively existing limitations in the real world. By implication, ownership of tangible, rival goods is seen as ”operational”, not to say ”optimal”. The same line of thought underpins Yochai Benkler’s argument,which has been no less influential in shaping the predominant critique against the current intellectual property:
