@@ -240,9 +240,41 @@ Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La lección
 constructivista ha sido abrazada porque sostiene la premisa que la
 propiedad y los mercados pueden ser construidos "hasta abajo".
 
-The two sources of the predominant critique of intellectual property
-In the early 1980s, copyright law was extended in most Western countries, from literary and artistic works to machine-readable language, i.e. software code. Corresponding with the expansion of the property regime, resistance to the same came into being. It was now that Richard Stallman invented the concept of free software and created a license to go with it. The General Public License (GPL) exploited the contractual rights invested in the author of a copyrighted work to specify the conditions of how his/her work may be used. The conditions laid down in GPL ensured public access to a work by ”excluding the excluders”. The rhetorical armament against intellectual property was worked out in the same decade. Stewart Brand, publisher of the Whole Earth Catalogue, veteran of the American counter-culture movement in the 1960s, and a pioneer of the computer underground, articulated the key tenets of what later became the predominant critique against intellectual property:
+The two sources of the predominant critique of intellectual property In
+the early 1980s, copyright law was extended in most Western countries,
+from literary and artistic works to machine-readable language, i.e.
+software code. Corresponding with the expansion of the property regime,
+resistance to the same came into being. It was now that Richard Stallman
+invented the concept of free software and created a license to go with
+it. The General Public License (GPL) exploited the contractual rights
+invested in the author of a copyrighted work to specify the conditions
+of how his/her work may be used. The conditions laid down in GPL ensured
+public access to a work by ”excluding the excluders”. The rhetorical
+armament against intellectual property was worked out in the same
+decade. Stewart Brand, publisher of the Whole Earth Catalogue, veteran
+of the American counter-culture movement in the 1960s, and a pioneer
+of the computer underground, articulated the key tenets of what later
+became the predominant critique against intellectual property:
 
+Las dos fuentes de la crítica predominante de la propiedad intelectual
+----------------------------------------------------------------------
+
+A principios de los '80, la regulación del copyright fue extendida en
+los países occidentales, de las obras literarias y artísticas al
+lenguaje entendible por máquinas, es decir el código del software.  En
+correspondencia a esta expansión del régimen de propiedad, surgió la
+resistencia.  En este momento Richard Stallman inventó el concepto de
+Software Libre y creó una licencia que lo acompañe.  La Licencia Pública
+General (GPL por sus siglas en inglés) explotaba los derechos
+contractuales otorgados al autor de una cobra bajo copyright, para
+especificar las condiciones bajo los que su obra puede ser usada.  Las
+condiciones impuestas por la GPL aseguran el acceso público a una obra
+al "excluir a los excluidores".  El armamento retórico contra la
+propiedad intelectual fue desarrollado durante la misma década.  Stewart
+Brand, el editor del _Whole Earth Catalogue_, veterano del movimiento
+contracultural estadounidense de los '60 y pionero del _underground_
+informático, articuló los principios clave de lo que luego se
+convertiría en la crítica predominante de la propiedad intelectual:
 
 “Information wants to be free. Information also wants to be expensive. Information wants to be free because it has become so cheap to distribute, copy, and recombine—too cheap to meter. It wants to be expensive because it can be immeasurably valuable to the recipient” (Brand 1987, 202).
 
