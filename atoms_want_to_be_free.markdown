@@ -10,7 +10,7 @@ layout: post
 Introducción
 ------------
 
-Introduction Almost as soon as a consumer-grade 3D printer became widely
+Almost as soon as a consumer-grade 3D printer became widely
 available to the public, the first intellectual property conflict
 arose over printable, three-dimensional objects. In February 2011, the
 first cease and desist letter was sent to Thingiverse, a repository
@@ -42,40 +42,89 @@ illusion and a trickery of the eye.
 Casi tan pronto como la primera impresora 3D de usuario final se volvió
 disponible al público, surgió el primer conflicto sobre la propiedad
 intelectual[^ndt1] de los objetos tridimensionales imprimibles.  En
-febrero del 2011, _Thingiverse_, un repositorio de archivos de objetos
-propiedad de la fabricantes de impresoras 3D _Makerbog Industries_,
-recibió su primer _cease & desist_[^ndt2].  El diseñador que la envió,
-Ulrich Schwanitz, hizo un reclamo de propiedad sobre un objeto que había
-sido subido a Thingiverse.  El objeto es cuestión era un modelo del
-"Triángulo de Penrose".  Se trata de una muy conocida ilusión óptica
-donde los lados del triángulo terminan en los lugares incorrectos.  El
-objeto no puede existir a excepción de una representación bidimensional
-en papel.  Schwanitz diseñó un objeto tridimensional que al ser
-observado desde el ángulo correcto, se asemeja a un Triángulo de
-Penrose.  Un usuario de Thingiverse le había hecho ingeniería inversa a
-partir de una foto.  Temiendo responsabilidad secundaria bajo la
-_Digital Millenium Copyright Act_, Makerbot Industries decidió eliminar
-el archivo, aunque la situación legal era altamente incierta.  La
-representación bidimensional original del Triángulo de Penrose se
-encuentra en el dominio público y no resulta claro si Schwanitz reclamó
-derechos sobre el archivo, es decir sobre el código de software, sobre
-los planos de la estructura del objeto o sobre la foto con la imagen del
-Triángulo de Penrose.  Después de las quejas públicas, Schwanitz
-renunció a los cargos y liberó el diseño [@rideout-2012].  Sin embargo,
-este primer encuentro ha sido seguido por reclamos corporativos más
-estridentes y poderosos.  Resulta interesante que el primer reclamo de
-copyright sobre objetos tridimensionales imprimibles hayan sido sobre
-una forma que en términos lógicos no puede existir en el espacio físico,
-corpóreo, a excepción de una ilusión óptica que engaña al ojo.
+febrero del 2011, _Thingiverse_[^thingiverse], un repositorio de
+archivos de objetos propiedad de la fabricantes de impresoras 3D
+_Makerbog Industries_, recibió su primer _cease & desist_[^ndt2].  El
+diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de propiedad
+sobre un objeto que había sido subido a Thingiverse.  El objeto es
+cuestión era un modelo del "Triángulo de Penrose".  Se trata de una
+muy conocida ilusión óptica donde los lados del triángulo terminan
+en los lugares incorrectos.  El objeto no puede existir a excepción
+de una representación bidimensional en papel.  Schwanitz diseñó un
+objeto tridimensional que al ser observado desde el ángulo correcto,
+se asemeja a un Triángulo de Penrose.  Un usuario de Thingiverse
+le había hecho ingeniería inversa a partir de una foto.  Temiendo
+responsabilidad secundaria bajo la _Digital Millenium Copyright Act_,
+Makerbot Industries decidió eliminar el archivo, aunque la situación
+legal era altamente incierta.  La representación bidimensional original
+del Triángulo de Penrose se encuentra en el dominio público y no resulta
+claro si Schwanitz reclamó derechos sobre el archivo, es decir sobre
+el código de software, sobre los planos de la estructura del objeto o
+sobre la foto con la imagen del Triángulo de Penrose.  Después de las
+quejas públicas, Schwanitz renunció a los cargos y liberó el diseño
+[@rideout-2012].  Sin embargo, este primer encuentro ha sido seguido por
+reclamos corporativos más estridentes y poderosos.  Resulta interesante
+que el primer reclamo de copyright sobre objetos tridimensionales
+imprimibles hayan sido sobre una forma que en términos lógicos no puede
+existir en el espacio físico, corpóreo, a excepción de una ilusión
+óptica que engaña al ojo.
 
+[^thingiverse]: La traducción aproximada sería "cosoverso".
 
 [^ndt1]: El autor no cree que haya una distinción entre propiedad y
 propiedad intelectual.  Ver ¡Hackers GNUníos!
 
 [^ndt2]: Documento legal utilizado para obligar la eliminación de obras.
 
-Already a year before the Penrose debacle, many hobbyists in the community building open source 3D printers had expressed doubts about the role of Thingiverse. Responding to those doubts, one of the founders of the Swedish filesharing service The Pirate Bay launched a new website called ”The Product Bay”. It was announced that the repository would be fully dedicated to information freedom. In conjunction with this initiative, young adherers of the Swedish Pirate Party made visits to furniture- and design fairs in order to pass the message on to IKEA-salesmen and professional designers. Their days were numbered, just like the days of the middlemen in the music- and film-industry. This threat, or promise, cuts to the heart of the rationale behind the development of the open source 3D printer. The technology was developed by a group of hobbyists and hackers with the explicit aim of expanding the conflict over intellectual property to tangible, physical goods (Bowyer, 2004). A pointer is an auxiliary project to the 3D printer, the development of a user-friendly 3D scanner. It holds out the promise of circumventing in physical space any control that legal authorities might try to exercise over repositories and computer networks. With a 3D scanner sitting next to the 3D-printer, design files can be generated (that is, scanned) directly from existing physical objects.
+Already a year before the Penrose debacle, many hobbyists in the
+community building open source 3D printers had expressed doubts about
+the role of Thingiverse. Responding to those doubts, one of the founders
+of the Swedish filesharing service The Pirate Bay launched a new website
+called ”The Product Bay”. It was announced that the repository would
+be fully dedicated to information freedom. In conjunction with this
+initiative, young adherers of the Swedish Pirate Party made visits
+to furniture- and design fairs in order to pass the message on to
+IKEA-salesmen and professional designers. Their days were numbered, just
+like the days of the middlemen in the music- and film-industry. This
+threat, or promise, cuts to the heart of the rationale behind the
+development of the open source 3D printer. The technology was developed
+by a group of hobbyists and hackers with the explicit aim of expanding
+the conflict over intellectual property to tangible, physical goods
+(Bowyer, 2004). A pointer is an auxiliary project to the 3D printer,
+the development of a user-friendly 3D scanner. It holds out the promise
+of circumventing in physical space any control that legal authorities
+might try to exercise over repositories and computer networks. With a 3D
+scanner sitting next to the 3D-printer, design files can be generated
+(that is, scanned) directly from existing physical objects.
 
+Casi un año antes de la debacle sobre Penrose, muchos hobbistas de la
+comunidad que está construyendo impresoras tridimensionales libres ya
+estaban expresando dudas sobre el rol de Thingiverse.  En respuesta
+a estas dudas, uno de los fundadores del servicio de compartición de
+archivos sueco _The Pirate Bay_ lanzó un nuevo sitio web llamado "The
+Product Bay"[^tpb].  Se anunció que este repositorio estaría dedicado
+a la libertad de la información.  En conjunto con esta iniciativa, los
+jóvenes seguidores del Partido Pirata de Suecia visitaron ferias de
+muebles y diseño con la idea de llevarle el mensaje a los vendedores de
+IKEA[^ikea] y los diseñadores profesionales.  Sus días estaban contados,
+como los días de los intermediarios de las industrias de la música y el
+cine.  Esta amenaza, o promesa, llega directo al corazón de la razón
+de ser detrás de la impresora tridimensional libre.  La tecnología
+fue desarrollada por un grupo de hobbistas y hackers con el objetivo
+explícito de expandir el conflicto de la propiedad intelectual sobre
+bienes tangibles, físicos. [@bowyer-2004] Un indicio de esto es un
+proyecto auxiliar de la impresora tridimensional, el desarrollo de un
+escáner tridimensional de fácil uso.  Sostiene la promesa de circundar
+en los espacios físicos el control que las autoridades legales pueden
+intentar ejercer sobre los repositorios y las redes informáticas.  Con
+un escáner tridimensional junto a la impresora tridimensional, los
+archivos de diseño pueden ser generados (es decir, escaneados)
+directamente desde los objetos físicos.
+
+[^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
+        Pirata(s)
+
+[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
 
 The proposition that the 3D printer/scanner will make physical goods copyable just as software code is open to challenge. The claim has a fleeting resemblance with what the actually existing machine can do. Here I will leave aside the technical objections that one may want to raise against this idea (cf. Söderberg, 2013). My concern in the present paper is with the imaginary that propels the development of the home-built technology in one or the other direction. The chief merit of the open source 3D printer is that it introduces a narrative where ”bits” and ”atoms” converge. The convergence is destabilising for a number of disciplinary boundaries and associated theories within the academy. The study of new media and communication is pulled into a larger circuit of production, commodification and labour relations. Differently put, the old critique of political economy reassert itself over the former, not-so-new-anymore subject field. In the paper I set out to mobilise the political economy analysis against the predominant critique of intellectual property. The convergence goes to show that there are no hard lines between private property ownership (over atoms) and intellectual property ownership (over bits/ideas). The exceptionalism claimed for information vis-à-vis physical goods, by practitioners and scholars alike, is the shaky ground upon which the house of intellectual property critique has been built. In what follows, I suggest that this argument draws on the limited self-understanding of free software/open source advocates, combined with the limited theoretical presumptions of the classical, and, to some extent, neo-classical economic paradigm. Briefly stated, this limit comes from a naturalistic understanding of private property.
 
