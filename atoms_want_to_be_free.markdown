@@ -332,9 +332,62 @@ económica apuntala esta posición
 
 The boundary object: information exceptionalism
 
+### El objeto liminal: el excepcionalismo de la información
 
-The communication scholar Dan Schiller has produced a compelling critique of what he labelled the ”information exceptionalism hypothesis” It is a fallacy, he charged, to make any special claims for information as opposed to other commodities. It is difficult to take aboard his argument because the differences between (digital) information and tangible, physical goods appear to be self-evident. To avoid a gut feeling rejection of his argument, I begin with a flanking manoeuvre developed in constructivist science studies. By bracketing the question of truth and facts, science studies scholars avoid getting bogged down in debates about realism. The focus can instead be placed on how the semblance of matter-of-factness and reality is produced by various practitioners. I am the first one to acknowledge that the constructivist detour can go astray, especially if it hardens into a positive description of the world in its own right. When used in a more restrictive sense, as a flanking maneuver to arrive at the essential of an argument, it can be legitimate. If used wisely, the constructivist detour helps to bring out nuances, which would be lost in a reasoning which starts and ends with a positive assertion about how the world is. Here I propose to make such a detour in order to loosen up some certainties about the nature of information (discrete, non-rivalrous, etc.). For the time being, I will bracket the question if information can be said, truly, to be different to tangible, physical goods. I will come back to it in the second half of the text, and thus to Dan Schiller's critique. First I need to historicise the given understanding of what information is.
 
+The communication scholar Dan Schiller has produced a compelling
+critique of what he labelled the ”information exceptionalism hypothesis”
+It is a fallacy, he charged, to make any special claims for information
+as opposed to other commodities. It is difficult to take aboard his
+argument because the differences between (digital) information and
+tangible, physical goods appear to be self-evident. To avoid a gut
+feeling rejection of his argument, I begin with a flanking manoeuvre
+developed in constructivist science studies. By bracketing the question
+of truth and facts, science studies scholars avoid getting bogged
+down in debates about realism. The focus can instead be placed on
+how the semblance of matter-of-factness and reality is produced by
+various practitioners. I am the first one to acknowledge that the
+constructivist detour can go astray, especially if it hardens into a
+positive description of the world in its own right. When used in a more
+restrictive sense, as a flanking maneuver to arrive at the essential of
+an argument, it can be legitimate. If used wisely, the constructivist
+detour helps to bring out nuances, which would be lost in a reasoning
+which starts and ends with a positive assertion about how the world
+is. Here I propose to make such a detour in order to loosen up some
+certainties about the nature of information (discrete, non-rivalrous,
+etc.). For the time being, I will bracket the question if information
+can be said, truly, to be different to tangible, physical goods. I
+will come back to it in the second half of the text, and thus to Dan
+Schiller's critique. First I need to historicise the given understanding
+of what information is.
+
+El académico de la comunicación Dan Schiller ha producido una crítica
+irresistible de lo que llamó "la hipótesis del excepcionalismo de la
+información".  Resulta una falacia, dice, realizar proclamas especiales
+para la información en oposición a otros bienes.  Resulta difícil
+traer a bordo este argumento porque las diferencias entre la información
+(digital) y los bienes físicos, tangibles, aparecen como auto evidentes.
+Para evitar una rechazo visceral a este argumento, comenzaré por una
+maniobra de flanqueo desarrollada en los estudios sociales
+constructivistas.  Poniendo entre corchetes la pregunta sobre la verdad
+y los hechos, los académicos de los estudios sobre la ciencia evitan
+empantanarse en debates sobre el realismo.  El foco puede ser puesto en
+cambio en cómo la resemblanza entre hechos y realidad es producida por
+varios practicantes.  Soy el primero en reconocer que el desvío
+constructivista puede llevar al estravío, especialmente si se endurece
+en una descripción positiva del mundo en su propio derecho.  Cuando es
+utilizado en un sentido más restrictivo, como una maniobra de flanqueo
+para llegar a lo esencial de un argumento, puede ser legítimo.  Si es
+utilizado sabiamente, el desvío constructivista ayuda a obtener matices
+que resultarían perdidos en un razonamiento que comienza y termina con
+una afirmación positiva de cómo es el mundo.  Aquí propongo tomar tal
+desvío para aflojar algunas certitudes sobre la naturaleza de la
+información (discreta, no rival, etc.).  Por el momento, pondré entre
+corchetes la pregunta sobre si puede decirse que la información es
+realmente diferente de los bienes tangibles, físicos.  Volveré sobre
+esto en la segunda mitad del texto y por lo tanto a la crítica de Dan
+Schiller.  Primero necesito historizar la comprensión heredada sobre lo
+que es la información.
 
 The process in which ”information” was defined and constructed has been extensively debated in the social sciences. I have little to add to this debate, but I will give some pointers to it in order to arrive at the argument that I want to put forward here. As is well known, Claude Shannon's seminal article A Mathematical Theory of Communication from 1948 was key in defining the dominant conceptualisation of information (Shannon 1948). He sought to define information in terms of codification and transmission of messages. In other words, as signals indifferent to the meaning that they convey to the receiver. As Rafael Capurro has argued, this marked a watershed compared to how information had been understood in previous ages, going all the way back to the days of the Greeks and Romans. The concept of information used to have a broader meaning than ”sending messages”. It implied the act of giving form to something, such as knowledge or the human mind. This in turn implied a context dependent language and meaning creation (Capurro 2009). It is no accident that context and meaning was taken out of the equation by Shannon. Katherine Hayles has shown how his definition answered to the needs of an ascending techno-scientific industry. The industry wanted a definition that allowed reliable quantifications. Competing definitions was proposed at the time, according to which information and its content were treated as part of an inseparable whole. To assess ”information as meaning”, however, would require some means of measuring what had changed in the head of the recipient. It was such practical considerations, which persuaded the scientific community to side with a narrow, mathematical, and decontextualised definition of information (Hayles 1999). A whole world has since been erected around this notion of information in order to make it work the way it was originally conceived.
 
