@@ -8,7 +8,12 @@ La parodia de los Comunes
 =========================
 
 > Publicado originalmente en tripleC 11: 412-424, 2013
-> http://www.triple-c.at
+> http://www.triple-c.at/index.php/tripleC/article/view/484
+>
+> Esta traducción fue realizada por Nicolás Reynolds
+> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
+> <mpj@endefensadelsl.org> y se publica bajo la [Licencia de Producción
+> de Pares](/ppl_deed_es.html) bajo permiso de los autores.
 >
 > Vasilis Kostakis es un economista político y el fundador del _P2P
 > Lab_.  En la actualidad es investigador miembro de la Universidad
@@ -16,8 +21,8 @@ La parodia de los Comunes
 > Stavroulakis es un científico informático e ingeniero de software
 > interesado en los sistemas informáticos distribuidos, enfocado
 > particularmente en el software libre y los estándares abiertos, y
-> generalmente consciente de las problemáticas sociales y
-> ambientales.  Es colaborador del _P2P Lab_.
+> generalmente consciente de las problemáticas sociales y ambientales.
+> Es colaborador del _P2P Lab_.
 
 
 Abstract
@@ -104,14 +109,14 @@ movimientos sociales progresivos alrededor de plataformas de políticas
 de los Comunes.  Entendemos como "Comunes" los recursos culturales y
 naturales, que son apropiados en común (no como propiedad privada) y se
 mantienen accesibles a todos los miembros de la sociedad [@ostrom-1990;
-@hardt-negri-2011; @bollier-2009].  En este ensayo, nuestro punto de
+@hardt-negri-2011a; @bollier-2009].  En este ensayo, nuestro punto de
 partida son los Comunes digitales (conocimiento, software, diseño) ya
 que la producción de pares fue advertida primeramente en la esfera de la
 producción de información.  Consideramos los "Comunes" un tercer sector
 en paralelo al Mercado y al Estado, que conceptualiza las profundas
 afinidades entre varias formas de colaboración y ayuda a validar sus
 dinámicas sociales distintivas en tanto fuerzas significativas en la
-producción económica y cultural [@bollier-2010].
+producción económica y cultural [@bollier-2009].
 
 El término "producción de pares" o "producción de par a par" se origina en la
 naturaleza innovativa de la arquitectura de red de par a par (P2P) que
@@ -131,7 +136,7 @@ tradicional, en la producción de pares nos volvemos testigos del colapso
 de la dicotomía consumidor/productor hacia una nueva comprensión
 bajo la forma de la "multitud" [@hardt-negri-2001], "prosumidores"
 [@toffler-2006], "produsuarios" [@bruns-2008] o "comunidades de
-innovación de los usuarios" [@hippel-2005].  Además, se ha mostrado
+innovación de los usuarios" [@von-hippel-2005].  Además, se ha mostrado
 [@benkler-2002; @benkler-2006; @bauwens-2005] cómo la producción de
 pares, dados ciertos recursos, explota óptimamente las capacidades y
 habilidades de los productores al involucrar estructuras de propiedad,
@@ -307,7 +312,7 @@ Benkler para apoyar su argumentación.  Por ejemplo, el desarrollo de
 software en los ambientes corporativos tradicionales cuyos proyectos
 son liberados bajo licencias permisivas (como la MIT o las BSD) que
 permiten la privatización de las modificaciones del código y que por lo
-tanto no toman partido hacia la "perfidia" de las patentes [@peren-1999;
+tanto no toman partido hacia la "perfidia" de las patentes [@perens-1999;
 @gnu-2013; @fitzgerald-2006].  De esta forma el software pierde su
 componente de libertad y su calidad se vuelve cuestionable, ya que
 la distribución de los cambios en el código depende de la posición
@@ -411,7 +416,7 @@ esta situación insoportable para todos, es el puño de hierro de la
 moneda común.  Aun Alemania, la más poderosa economía de la Eurozona,
 está cayendo lentamente en recesión [@indexmundi-2013; @economist-2011]
 mientras que la mayor parte de las ciudades y pueblos pasaron a
-pertenecer a los bancos antes que al Estado federal [@czucka-2012].
+pertenecer a los bancos antes que al Estado federal [@czuczka-2012].
 Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
 40 años.  Esto es entonces el camino hacia un callejón sin salida.
@@ -478,10 +483,10 @@ una solución).  La pregunta entonces, es si los pares productores se
 beneficiarán realmente del desarrollo de relaciones de pares (P2P) y de
 la producción común de usos de valor, o si el fenómeno de la producción
 de pares basada en los Comunes sólo constituirá una parte del Plan B
-neoliberal, como dice Caffentzi [-@caffentzi-2010].  Suponiendo que la
+neoliberal, como dice Caffentzis [-@caffentzis-2010].  Suponiendo que la
 producción de pares emergerá progresivamente como el modelo productivo
 dominante sobre el que dependerá la prosperidad de la gente
-[@hardt-negri-2011; @rigi-2012; @bauwens-kostakis-nd; @kostakis-2013],
+[@hardt-negri-2011a; @rigi-2012; @bauwens-kostakis-nd; @kostakis-2013],
 entonces la trascendencia de la parodia no es un problema teórico al que
 abordar.  Es en cambio un problema práctico, político, que determinará
 el éxito de las comunidades con base en los Comunes en general.  Por lo
@@ -513,7 +518,7 @@ destructiva" según Schumpeter [-@schumpeter-1975; -@schumpeter-1982],
 que comparte muchos puntos de vista con Marx en el análisis de la
 dinámica capitalista-- puede parecer sostenible, al introducir productos
 y servicios innovativos.  Desde una perspectiva diferente, Williamson
-[-@williamson-1995; -@williamson-1998] alcanza una conclusión similar:
+[-@williamson-1985; -@williamson-1995] alcanza una conclusión similar:
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
 
