@@ -288,8 +288,47 @@ expensive because it can be immeasurably valuable to the recipient”
 > Quiere ser cara porque puede ser inmensamente valiosa para el
 > receptor [@brand-1987, pp. 202].
 
-Brand correctly identified two conflicting tendencies and situated them in an economy of information. Next he contrasted the uniqueness of the economy of information with the ordinariness of the economy at large. The exceptionality of information consists in that it can be copied infinitely, and thus it is a non-rivalrous good. In contrast, tangible physical goods are scarce and rivalrous. The merger between, on the one hand, an (ontological) assertion about what information is, and, on the other hand, classical and neo-classic economic theory about scarcity, provided the founding stone of Brand's argument against intellectual property. The integration of off-the-shelf economic ideas in this emerging social movement points to another sub-terranian connection beween counter-culture and cyberculture, out of which Stewart Brand was the chief exponent (Turner, 2008). His line of reasoning has since been endlessly elaborated and extended by hackers, fileshares and activists, as well as academic sympathisers. It is most succinctly summarised in the rallying cry: ”information wants to be free”. In order to make a critique of this critique, I first attend to the way ”information” has been conceptualised and constructed, thereafter I discuss how economic theory underpins this position.
+Brand correctly identified two conflicting tendencies and situated
+them in an economy of information. Next he contrasted the uniqueness
+of the economy of information with the ordinariness of the economy at
+large. The exceptionality of information consists in that it can be
+copied infinitely, and thus it is a non-rivalrous good. In contrast,
+tangible physical goods are scarce and rivalrous. The merger between,
+on the one hand, an (ontological) assertion about what information
+is, and, on the other hand, classical and neo-classic economic theory
+about scarcity, provided the founding stone of Brand's argument against
+intellectual property. The integration of off-the-shelf economic ideas
+in this emerging social movement points to another sub-terranian
+connection beween counter-culture and cyberculture, out of which Stewart
+Brand was the chief exponent (Turner, 2008). His line of reasoning has
+since been endlessly elaborated and extended by hackers, fileshares
+and activists, as well as academic sympathisers. It is most succinctly
+summarised in the rallying cry: ”information wants to be free”. In
+order to make a critique of this critique, I first attend to the way
+”information” has been conceptualised and constructed, thereafter I
+discuss how economic theory underpins this position.
 
+Brand identificó correctamente las dos tendencias en conflicto y las
+situó en la economía de la información.  A continuación contrastó la
+unicidad de la economía de la información con la ordinariez de la
+economía en su conjunto.  El excepcionalismo de las información consiste
+en que esta puede ser copiada indefinidamente y por lo tanto se
+convierte en un bien no rival.  En contraste, los bienes físicos
+tangibles son escasos y rivales.  La unión entre, por un lado, una
+afirmación (ontológica) sobre lo que la información es y por el otro, la
+teoría económica clásica y neo-clásica sobre la escasez, proveyó la
+piedra fundacional del argumento de Brand contra la propiedad
+intelectual.  La integración de ideas económicas listas para llevar en
+este movimiento social emergente apunta a otra conexión subterránea
+entre la contracultura y la cibercultura, de la que Steward Brand era
+uno de los exponentes clave [@turner-2008].  Su línea de razonamiento ha
+sido desde entonces infinitamente elaborada y extendida por hackers,
+compartidores de archivos y activistas, así como por simpatizantes
+académicos.  Puede resumirse sucintamente en el grito de protesta: "la
+información quiere ser libre".  Para hacer una crítica de esta crítica,
+empiezo por retomar la forma en que la "información" ha sido
+conceptualizada y construida para luego discutir cómo la teoría
+económica apuntala esta posición
 
 The boundary object: information exceptionalism
 
