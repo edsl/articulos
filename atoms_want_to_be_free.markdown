@@ -165,7 +165,7 @@ narrativa donde convergen los "átomos" con los "bits".  Esta
 convergencia es desestabilizadora para un número de límites
 disciplinarios y teorías asociadas dentro de la academia.  El estudios
 de los nuevos medios y la comunicación está asociado dentro de un
-circuito más amplio de producción, _comodificación_ y relaciones
+circuito más amplio de producción, mercantilización y relaciones
 laborales.  Puesto de otra manera, la vieja crítica de la economía
 política se reafirmar sobre el no-tan-nuevo campo subjetivo.  En este
 artículo intento movilizar el análisis de la economía política contra la
@@ -1046,14 +1046,106 @@ starting point of all economic activity" (Sahlins , 1972, 4).
 > y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
 
-Numerous historians have demonstrated how this state of affairs came to be, starting with the enclosure movement in fifteenth and sixteenth century England (Perelman, 2000). Land that previously had been held in common was fenced in and assigned to individual property holders. Land was made into a scarce resource, just as information at one point was made to be an abstract and decontextualised entity. The current expansion of intellectual property, in James Boyle’s memorable words, amounts to ”a second enclosure movement” (Boyle 2003). He exemplifies an analysis that starts with a broader critique of private property and commodification as moments in a historically unfolding, social whole. The historical perspective on scarcity puts stress on continuity rather than discontinuity, and shows that the political economy of information is not so exceptional after all. Nothing said so far denies the common sense notion that there is a qualitative difference between information goods and tangible goods. Nor do I deny that it can be meaningful to reflect over this difference. What is at stake is solely how to best frame such an inquiry. The point was forcefully made by Dan Schiller in his critique of the information exceptionalism hypothesis:
+Numerous historians have demonstrated how this state of affairs came
+to be, starting with the enclosure movement in fifteenth and sixteenth
+century England (Perelman, 2000). Land that previously had been held in
+common was fenced in and assigned to individual property holders. Land
+was made into a scarce resource, just as information at one point
+was made to be an abstract and decontextualised entity. The current
+expansion of intellectual property, in James Boyle’s memorable words,
+amounts to ”a second enclosure movement” (Boyle 2003). He exemplifies
+an analysis that starts with a broader critique of private property
+and commodification as moments in a historically unfolding, social
+whole. The historical perspective on scarcity puts stress on continuity
+rather than discontinuity, and shows that the political economy of
+information is not so exceptional after all. Nothing said so far denies
+the common sense notion that there is a qualitative difference between
+information goods and tangible goods. Nor do I deny that it can be
+meaningful to reflect over this difference. What is at stake is solely
+how to best frame such an inquiry. The point was forcefully made by Dan
+Schiller in his critique of the information exceptionalism hypothesis:
 
+Muchos historiadores han demostrado cómo este estado de cosas ha llegado
+a ser, comenzando por el movimiento de cercamiento en los siglos XVI y
+XVII en Inglaterra [@perelman-2000].  La tierra que hasta ese momento
+había sido tenida en común fue cercada y asignada a propietarios
+individuales.  La tierra fue convertida en un recurso escaso, tal como
+la información fue convertida en una entidad abstracta y
+descontextualizada.  La expansión actual de la propiedad intelectual, en
+las memorables palabras de James Boyle, se convirtió en "un segundo
+movimiento de cercamiento" [@boyle-2003].  Ejemplifica un análisis que
+comienza con una crítica más amplia de la propiedad privada y la
+mercantilización como momentos de un todo social desplegándose
+históricamente.  La perspectiva histórica de la escasez estresa la
+continuidad antes que la discontinuidad y muestra que la economía
+política de la información no es tan excepcional después de todo.  Nada
+dicho hasta ahora niega la noción de sentido común de que hay una
+diferencia cualitativa entre los bienes informacionales y los tangibles.
+Tampoco niego que puede resultar significativo reflexionar sobre esta
+diferencia.  Lo que está en juego es solamente cómo enmarcar mejor tal
+investigación.  El punto fue forzosamente hecho por Dan Schiller en su
+crítica de la hipótesis del excepcionalismo de la información:
 
-“As against the postindustrialists' assertion that the value of information derives from its inherent attributes as a resource, we counter that its value stems uniquely from its transformation into a commodity — a resource socially revalued and refined through progressive historical application of wage labor and the market to its production and exchange.” (Schiller 1988, 41).
+“As against the postindustrialists' assertion that the value of
+information derives from its inherent attributes as a resource, we
+counter that its value stems uniquely from its transformation into a
+commodity — a resource socially revalued and refined through progressive
+historical application of wage labor and the market to its production
+and exchange.” (Schiller 1988, 41).
 
+> Así como estamos en contra de la afirmación posindustrialista de que
+> el valor de la información deriva de sus atributos inherentes en tanto
+> recurso, respondemos que su valor nace solamente de su transformación
+> en una mercancía -- un recurso socialmente revalorizado y refinado a
+> través de una aplicación histórica progresiva del trabajo asalariado y
+> el mercado en su producción e intercambio [@schiller-1988. pp. 41].
 
-What appears to be inherent characteristics of information turns out to be, on a second look, a passing moment in a larger, historical process. Previously in the text I mentioned that information was defined in the mid-twentieth century as an abstract and decontextualised entity. Competing definitions of information existed at the time but this one was best aligned to the needs of an ascending scientific-industrial complex. Fifty years down the road, Claude Shannon's definition of information has sunk into the infrastructures, practices and representations of our society. To say that his definition of information is a cultural innovation and a construction does not imply that it could be wished away tomorrow, simply by making a critique of it. Information thus understood is real enough, and it has contributed to a rupture in the fabric of society, roughly corresponding with the spread of information technology. My only contention is that this rupture should be located in the labour process, not in some inherent characteristics attributed to information as-such. Instead of speaking of ”infinitely reproducible information treated as a scarce resource”, it would be more appropriate to say ”private property straitjacketed onto a socialised labour process”. The chief advantage with the latter description is that it allows a more dynamic style of reasoning. A given, empirical reality can be studied as transitional in its becoming.
+What appears to be inherent characteristics of information turns out
+to be, on a second look, a passing moment in a larger, historical
+process. Previously in the text I mentioned that information was defined
+in the mid-twentieth century as an abstract and decontextualised
+entity. Competing definitions of information existed at the
+time but this one was best aligned to the needs of an ascending
+scientific-industrial complex. Fifty years down the road, Claude
+Shannon's definition of information has sunk into the infrastructures,
+practices and representations of our society. To say that his definition
+of information is a cultural innovation and a construction does not
+imply that it could be wished away tomorrow, simply by making a
+critique of it. Information thus understood is real enough, and it has
+contributed to a rupture in the fabric of society, roughly corresponding
+with the spread of information technology. My only contention is that
+this rupture should be located in the labour process, not in some
+inherent characteristics attributed to information as-such. Instead of
+speaking of ”infinitely reproducible information treated as a scarce
+resource”, it would be more appropriate to say ”private property
+straitjacketed onto a socialised labour process”. The chief advantage
+with the latter description is that it allows a more dynamic style of
+reasoning. A given, empirical reality can be studied as transitional in
+its becoming.
 
+Lo que parecen ser características inherentes a la información terminan
+siendo, en un segundo vistazo, un momento pasajero en un proceso
+histórico más amplio.  Anteriormente en el texto mencioné que la
+información fue definida a mediados del siglo XX como una entidad
+abstracta y descontextualizada.  Hubo definiciones de la información en
+competencia pero esta fue la que mejor se alineaba a las necesidades de
+un complejo científico-industrial en ascenso.  Cincuenta años después,
+la definición de información de Claude Shannon se ha hundido en las
+infraestructuras, prácticas y representaciones de nuestra sociedad.
+Decir que esta definición de información es una innovación cultural y
+una construcción no implica que dejará de funciona mañana, simplemente
+por haber hecho una crítica de ella.  La información entendida de esta
+forma es lo suficientemente real y ha contribuido a una ruptura en la
+urdimbre de la sociedad, correspondiéndose aproximadamente con la
+difusión de la tecnología de la información.  Mi única respuesta es que
+esta ruptura debe colocarse en el proceso de trabajo, no en algunas
+características inherentes atribuidas a la información como tal.  En
+lugar de hablar de "información infinitamente reproducible tratada como
+un recurso escaso", sería más apropiado decir "propiedad privada metido
+a la fuerza en un proceso de trabajo socializado".  La ventaja clave con
+esta última descripción es que permite un estilo más dinámico de
+razonamiento.  Una realidad empírica dada puede ser estudiada como una
+transición en su desarrollo.
 
 The advantages of the latter approach is plain to see when the object of study is technological change and creative destruction. The convergence of hardware and software is a case in point. This trend was working its way long before the surge of home-made, open source 3D printers forced the issue. A case in point is field-programmable circuits, widely used in the computer industry since more than a decade. The circuits are manufactured in such a way that the final design can be reprogrammed at a later date, as if it was software code. Needless to say, we owe the existence of field-programmable circuits to something more than the innate trajectory of scientific and technological progress. A testimony from an industry leader in the 1990s, anticipating the increased use of field-programmable circuits, makes this point succinctly:
 
