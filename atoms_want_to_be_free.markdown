@@ -899,8 +899,57 @@ is such a good of the purest type.” (Machlup 1984, 159).
 > personas adicionales sin causar un costo adicional, entonces el
 > conocimiento es el más puro de estos bienes [@machlup-1984, pp. 159]
 
-When Stewart Brand declared that information wants to be free, he jumped on an anomaly in the economic science. Grievances about intellectual property law could now be addressed by turning the economic science against itself. It laid the foundation for the present, dominant critique of intellectual property in its innumerable variations. Despite the many garden varieties, the argument pivots around the discrepancy between endless digital resources and limited tangible resources. The non-existent marginal cost of reproducing knowledge is said to be in conflict with its treatment as a scarce property. It is for this reason intellectual property law is found guilty of the cardinal sin in the economic sciences: sub-optimal efficiency. Hence, the same judgement is passed on it as would befall any other obsolete industry or sector: it must perish. This conclusion is underlined by connecting back from time to time to economic theory. In the case of Yochai Benkler, the connection is even written out in the title of his major book: The wealth of networks (2006). It is a beautiful rhetorical move. In a world where the economic science has shaped much official discourse and human self-understanding, a self-contradiction within the same worldview becomes a powerful lever for delivering critique against status quo. With the same self-assurance as economists lay down the omnipresence of scarcity and the inescapable laws of the market, critics of intellectual property assert the non-rival nature of informational resources and its exception from those same laws.
+When Stewart Brand declared that information wants to be free, he jumped
+on an anomaly in the economic science. Grievances about intellectual
+property law could now be addressed by turning the economic science
+against itself. It laid the foundation for the present, dominant
+critique of intellectual property in its innumerable variations. Despite
+the many garden varieties, the argument pivots around the discrepancy
+between endless digital resources and limited tangible resources. The
+non-existent marginal cost of reproducing knowledge is said to be in
+conflict with its treatment as a scarce property. It is for this reason
+intellectual property law is found guilty of the cardinal sin in the
+economic sciences: sub-optimal efficiency. Hence, the same judgement
+is passed on it as would befall any other obsolete industry or sector:
+it must perish. This conclusion is underlined by connecting back from
+time to time to economic theory. In the case of Yochai Benkler, the
+connection is even written out in the title of his major book: The
+wealth of networks (2006). It is a beautiful rhetorical move. In a
+world where the economic science has shaped much official discourse
+and human self-understanding, a self-contradiction within the same
+worldview becomes a powerful lever for delivering critique against
+status quo. With the same self-assurance as economists lay down the
+omnipresence of scarcity and the inescapable laws of the market, critics
+of intellectual property assert the non-rival nature of informational
+resources and its exception from those same laws.
 
+Cuando Steward Brand declaró que la información quiere ser libre, estaba
+saltando a una anomalía de la ciencia económica.  Los agravios de la
+regulación de la propiedad intelectual no pueden resolverse volviendo
+a la ciencia económica contra sí misma.  Estableció la fundación de la
+crítica de la propiedad intelectual dominante en el presente en sus
+innumerables variantes.  A pesar de la gran cantidad de variantes, el
+argumento pivota alrededor de la discrepancia entre recursos digitales
+infinitos y recursos tangibles limitados.  Se dice que el costo marginal
+inexistente de la reproducción del conocimiento entra en conflicto con
+su tratamiento como una propiedad escasa.  Es por esta razón que la
+regulación de la propiedad intelectual es declarada culpable del pecado
+capital de las ciencias económicas: eficiencia subóptima.  Por lo tanto,
+se la juzga de la misma forma que a cualquier otra industria o sector
+obsoletos: debe perecer.  Esta conclusión es subrayada al conectar de
+tiempo en tiempo con la teoría económica.  En el caso de Yochai Benkler,
+la conexión está incluso escrita en el título de su libro principal: La
+riqueza de las redes[^wealth] [-@benkler-2006].  Es una movida retórica
+hermosa.  En un mundo donde la ciencia económica ha dado forma a la
+mayor parte del discurso oficial y la auto-comprensión humana, una
+auto-contradicción dentro de la mismo visión del mundo se convierte en
+una poderosa palanca para hacer llegar la crítica contra el status quo.
+Con la misma seguridad con la que los economistas establecen la
+omnipresencia de la escasez y las leyes inevitables del mercado, los
+críticos de la propiedad intelectual afirman la naturaleza no rival de
+los recursos informacionales y su excepción de tales leyes.
+
+[^wealth]: En referencia a _La riqueza de las naciones_ de Adam Smith.
 
 The drawback with this critique of intellectual property is that it has taken over the limited horizon of the economic science. The anomaly of non-rival (informational) goods is always-already inscribed in the logic of omnipresent scarcity. Allegedly, the exceptionality of information as a commodity consists in that it has artificially been made scarce through a fiat by the state. The implicit assumption is that intellectual property defies the law of gravity and sooner or later must fall to the ground. The defenders of this position are oblivious to the fact that the economy pivots around at least three more commodities, labour, land and money, which are just as fictitious as information. The fiction that labour (i.e. living human beings) behave in accordance with price fluctuations and contractual agreements can only be maintained through continuous state intervention, and often repressive at that. Although the policing of this illusion is never airtight, most of the time it works well enough to keep the labour market and the economy in place (Polanyi, 2001). The only exceptionality that can be granted to information as opposed to labour, land and money, is that the former has very recently been made into a fictitious commodity. Hence, resistance to intellectual property feeds from the living memory of what information used to be and/or could have become. The achilles heel of this resistance is its indebtedness to commonsensical, economic notions, which naturalises a particular definition of information. According to this definition, information is something ready-made, predefined and unchangeable that can effortlessly be divorced from the flow of communication. The main grievance that can be voiced from this position is that intellectual property impedes the free circulation of information goods. Understood in those terms, the assignment of a content provider with intellectual property claims over the information units follows like a brief postscript. The rallying call ”information wants to be free” contains the seed of its own unfreedom: commodification.
 
