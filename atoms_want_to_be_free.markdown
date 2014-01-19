@@ -171,8 +171,8 @@ política se reafirmar sobre el no-tan-nuevo campo subjetivo.  En este
 artículo intento movilizar el análisis de la economía política contra la
 crítica predominante de la propiedad intelectual.  La convergencia
 muestra que no hay límites duros entre la propiedad privada (sobre
-átomos) y la propiedad intelectual (sobre bits o ideas).  El
-excepcionalismo de la información frente a los bienes físicos,
+átomos) y la propiedad intelectual (sobre bits o ideas).  La
+excepcionalidad de la información frente a los bienes físicos,
 proclamado tanto por practicantes como por académicos, es la base no tan
 firme sobre la que se ha construido la crítica de la propiedad
 intelectual.  A continuación, sugiero que este argumento descansa sobre
@@ -311,7 +311,7 @@ discuss how economic theory underpins this position.
 Brand identificó correctamente las dos tendencias en conflicto y las
 situó en la economía de la información.  A continuación contrastó la
 unicidad de la economía de la información con la ordinariez de la
-economía en su conjunto.  El excepcionalismo de las información consiste
+economía en su conjunto.  La excepcionalidad de las información consiste
 en que esta puede ser copiada indefinidamente y por lo tanto se
 convierte en un bien no rival.  En contraste, los bienes físicos
 tangibles son escasos y rivales.  La unión entre, por un lado, una
@@ -332,7 +332,7 @@ económica apuntala esta posición
 
 The boundary object: information exceptionalism
 
-### El objeto liminal: el excepcionalismo de la información
+### El objeto liminal: la excepcionalidad de la información
 
 
 The communication scholar Dan Schiller has produced a compelling
@@ -362,29 +362,29 @@ Schiller's critique. First I need to historicise the given understanding
 of what information is.
 
 El académico de la comunicación Dan Schiller ha producido una crítica
-irresistible de lo que llamó "la hipótesis del excepcionalismo de la
-información".  Resulta una falacia, dice, realizar proclamas especiales
-para la información en oposición a otros bienes.  Resulta difícil
-traer a bordo este argumento porque las diferencias entre la información
-(digital) y los bienes físicos, tangibles, aparecen como auto evidentes.
-Para evitar una rechazo visceral a este argumento, comenzaré por una
-maniobra de flanqueo desarrollada en los estudios sociales
-constructivistas.  Poniendo entre corchetes la pregunta sobre la verdad
-y los hechos, los académicos de los estudios sobre la ciencia evitan
-empantanarse en debates sobre el realismo.  El foco puede ser puesto en
-cambio en cómo la resemblanza entre hechos y realidad es producida por
-varios practicantes.  Soy el primero en reconocer que el desvío
-constructivista puede llevar al estravío, especialmente si se endurece
-en una descripción positiva del mundo en su propio derecho.  Cuando es
-utilizado en un sentido más restrictivo, como una maniobra de flanqueo
-para llegar a lo esencial de un argumento, puede ser legítimo.  Si es
-utilizado sabiamente, el desvío constructivista ayuda a obtener matices
-que resultarían perdidos en un razonamiento que comienza y termina con
-una afirmación positiva de cómo es el mundo.  Aquí propongo tomar tal
-desvío para aflojar algunas certitudes sobre la naturaleza de la
-información (discreta, no rival, etc.).  Por el momento, pondré entre
-corchetes la pregunta sobre si puede decirse que la información es
-realmente diferente de los bienes tangibles, físicos.  Volveré sobre
+irresistible de lo que llamó "la hipótesis de la excepcionalidad
+de la información".  Resulta una falacia, dice, realizar proclamas
+especiales para la información en oposición a otros bienes.  Resulta
+difícil traer a bordo este argumento porque las diferencias entre la
+información (digital) y los bienes físicos, tangibles, aparecen como
+auto evidentes.  Para evitar una rechazo visceral a este argumento,
+comenzaré por una maniobra de flanqueo desarrollada en los estudios
+sociales constructivistas.  Poniendo entre corchetes la pregunta sobre
+la verdad y los hechos, los académicos de los estudios sobre la ciencia
+evitan empantanarse en debates sobre el realismo.  El foco puede ser
+puesto en cambio en cómo la resemblanza entre hechos y realidad es
+producida por varios practicantes.  Soy el primero en reconocer que el
+desvío constructivista puede llevar al estravío, especialmente si se
+endurece en una descripción positiva del mundo en su propio derecho.
+Cuando es utilizado en un sentido más restrictivo, como una maniobra de
+flanqueo para llegar a lo esencial de un argumento, puede ser legítimo.
+Si es utilizado sabiamente, el desvío constructivista ayuda a obtener
+matices que resultarían perdidos en un razonamiento que comienza y
+termina con una afirmación positiva de cómo es el mundo.  Aquí propongo
+tomar tal desvío para aflojar algunas certitudes sobre la naturaleza
+de la información (discreta, no rival, etc.).  Por el momento, pondré
+entre corchetes la pregunta sobre si puede decirse que la información
+es realmente diferente de los bienes tangibles, físicos.  Volveré sobre
 esto en la segunda mitad del texto y por lo tanto a la crítica de Dan
 Schiller.  Primero necesito historizar la comprensión heredada sobre lo
 que es la información.
@@ -534,7 +534,7 @@ ciberespacio se colaría en y cambiaría los estados del mundo industrial
 enfrentado a sus alrededores, ya ha derramado ese límite y comenzado a
 afectar lo de "afuera".  La misma estrategia es adoptada por los
 adversarios del régimen actual de la propiedad intelectual cuando
-adoptan la hipótesis del excepcionalismo de la información.
+adoptan la hipótesis de la excepcionalidad de la información.
 
 
 The observation above can be further elaborated on by borrowing two
@@ -579,10 +579,10 @@ suficientemente plástico para adaptarse a las necesidades locales, a la
 vez que lo suficientemente robusto para mantener una identidad común
 entre distintos sitios [@star-griesemer-1989; @lamont-molnar-2002].  La
 definición original del trabajo liminal no encaja perfectamente en la
-hipótesis del excepcionalismo de la información descrita más arriba,
+hipótesis de la excepcionalidad de la información descrita más arriba,
 pero hace un buen trabajo en acerca mi punto clave.  El límite entre los
 recursos informacionales y los bienes físicos no está dado.  Debe ser
-sostenido a través de trabajo continuo.  El excepcionalismo de la
+sostenido a través de trabajo continuo.  La excepcionalidad de la
 información y la separación del reino virtual constituye el objeto
 liminal de los militantes de los comunes informacionales.
 
@@ -620,7 +620,7 @@ clarificaron Geoffrey Bowker y Susan Leigh Star en una obra posterior,
 las clasificaciones que establece un objeto liminal tienen sesgos que
 validan algunos puntos de vista mientras que vuelven invisibles o
 inefables a otras posiciones [@bowker-star-1999].  Aquello que ha sido
-vuelto invisible en el objeto liminal del "excepcionalismo de la
+vuelto invisible en el objeto liminal de la "excepcionalidad de la
 información" puede ser visto en una cita de uno de los principales
 arquitectos detrás del movimiento de las licencias Creative Commons,
 Lawrence Lessig.  Después de haberse presentado apasionadamente en favor
@@ -713,7 +713,7 @@ ficticia.  Lessig y Benkler no son inconcientes de la presencia de una
 lucha, pero la rebajan a las maquinaciones de legisladores desinformados
 y/o corruptos.  Puede recolectarse suficiente evidencia para apoyar esta
 afirmación, pero deja fuera lo más fundamental.  Esto es así por el
-límite establecido por la hipótesis del excepcionalismo informacional.
+límite establecido por la hipótesis de la excepcionalidad informacional.
 Afirma que la crítica de la propiedad intelectual actual no implica a su
 vez una crítica general de la propiedad privada como tal.  Afirma que la
 militancia por los comunes informacionales no es a la vez un asalto al
@@ -787,7 +787,7 @@ which can make better sense of the observational data. However, since no
 way of conceptualising the world can give the ultimate and exhaustive
 explanation of reality, new anomalies are bound to crop up again.
 
-La hipótesis del excepcionalismo de la información explota una anomalia
+La hipótesis de la excepcionalidad de la información explota una anomalia
 en un paradigma (científico), esto es, la disciplina económica y sus
 tradiciones predominantes, una amplia parte de la teoría clásica y la
 teoría neoclásica entera [@daoud-2011; @daoud-2010].  Uso el término
@@ -979,9 +979,9 @@ radical Other: inexhaustible abundance of informational resources.
 
 La maniobra de flanqueo está completa.  Habiendo ido tan lejos en este
 argumento, ha llegado el momento de cerrar los corchetes entre los que
-inicialmente coloqué la pregunta, si la hipótesis del excepcionalismo de
+inicialmente coloqué la pregunta, si la hipótesis de la excepcionalidad de
 la información es una proposición totalmente falsa.  Mi respuesta es que
-el excepcionalismo atribuido a la información no es incorrecto per se.
+la excepcionalidad atribuido a la información no es incorrecto per se.
 La hipótesis es problemática sólo porque lleva nuestra investigación
 hacia la dirección equivocada al elegir un punto de partida parcial y
 unilateral.  Sostiene el lado incorrecto de la soga[^soga] cuando
@@ -999,7 +999,7 @@ informacionales.
 
 [^soga]: Podría traducirse como mear fuera del tarro? :P
 
-El punto inicial de la hipótesis del excepcionalismo de la información
+El punto inicial de la hipótesis de la excepcionalidad de la información
 es una afirmación de hecho sobre la existencia positiva de la escasez en
 el mundo físico, tomado de la disciplina económica.  La alternativa es
 un acercamiento histórica y sociológicamente informado, de acuerdo al
@@ -1084,7 +1084,7 @@ diferencia cualitativa entre los bienes informacionales y los tangibles.
 Tampoco niego que puede resultar significativo reflexionar sobre esta
 diferencia.  Lo que está en juego es solamente cómo enmarcar mejor tal
 investigación.  El punto fue forzosamente hecho por Dan Schiller en su
-crítica de la hipótesis del excepcionalismo de la información:
+crítica de la hipótesis de la excepcionalidad de la información:
 
 “As against the postindustrialists' assertion that the value of
 information derives from its inherent attributes as a resource, we
@@ -1233,7 +1233,7 @@ issues, while exempting a critique of ownership, markets and wealth
 distribution from their openly declared opposition to intellectual
 property rights.
 
-En este artículo, cuestioné la hipótesis del excepcionalismo de la
+En este artículo, cuestioné la hipótesis de la excepcionalidad de la
 tecnología sobre la que descansa la crítica predominante de la propiedad
 intelectual.  Esta crítica ha sido cortada con la misma tela que la
 disciplina económica.  La teoría económica neo-clásica, la tendencia
