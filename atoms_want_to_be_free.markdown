@@ -276,8 +276,17 @@ contracultural estadounidense de los '60 y pionero del _underground_
 informático, articuló los principios clave de lo que luego se
 convertiría en la crítica predominante de la propiedad intelectual:
 
-“Information wants to be free. Information also wants to be expensive. Information wants to be free because it has become so cheap to distribute, copy, and recombine—too cheap to meter. It wants to be expensive because it can be immeasurably valuable to the recipient” (Brand 1987, 202).
+“Information wants to be free. Information also wants to be
+expensive. Information wants to be free because it has become so cheap
+to distribute, copy, and recombine—too cheap to meter. It wants to be
+expensive because it can be immeasurably valuable to the recipient”
+(Brand 1987, 202).
 
+> La información quiere ser libre.  La información también quiere ser
+> cara.  La información quiere ser libre porque se ha vuelto tan barata
+> de distribuir, copiar y recombinar --demasiado barata para ser medida.
+> Quiere ser cara porque puede ser inmensamente valiosa para el
+> receptor [@brand-1987, pp. 202].
 
 Brand correctly identified two conflicting tendencies and situated them in an economy of information. Next he contrasted the uniqueness of the economy of information with the ordinariness of the economy at large. The exceptionality of information consists in that it can be copied infinitely, and thus it is a non-rivalrous good. In contrast, tangible physical goods are scarce and rivalrous. The merger between, on the one hand, an (ontological) assertion about what information is, and, on the other hand, classical and neo-classic economic theory about scarcity, provided the founding stone of Brand's argument against intellectual property. The integration of off-the-shelf economic ideas in this emerging social movement points to another sub-terranian connection beween counter-culture and cyberculture, out of which Stewart Brand was the chief exponent (Turner, 2008). His line of reasoning has since been endlessly elaborated and extended by hackers, fileshares and activists, as well as academic sympathisers. It is most succinctly summarised in the rallying cry: ”information wants to be free”. In order to make a critique of this critique, I first attend to the way ”information” has been conceptualised and constructed, thereafter I discuss how economic theory underpins this position.
 
