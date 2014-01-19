@@ -773,8 +773,34 @@ Abundance - the anomaly of classical/neo-classical economic science
 
 ### Abundancia: la anomalía en la ciencia económica (neo)clásica
 
-The information exceptionalism hypothesis exploits an anomaly in a (scientific) paradigm, that is, the economic discipline and its predominant traditions, large part of the classical and the entire neo-classical economic theory (Daoud 2011; 2010) I am using the term ”anomaly” in the strict sense given to it by Thomas Kuhn (1996). In his classic theory of science, to put it briefly, an anomaly is defined as something which gainsaid the prevailing scientific wisdom of the day. It is hard even to catch sight of the inconsistency, and impossible to resolve it within the scientific worldview of the day. Hence, an anomaly points beyond the established order, towards a new scientific paradigm which can make better sense of the observational data. However, since no way of conceptualising the world can give the ultimate and exhaustive explanation of reality, new anomalies are bound to crop up again.
+The information exceptionalism hypothesis exploits an anomaly in
+a (scientific) paradigm, that is, the economic discipline and its
+predominant traditions, large part of the classical and the entire
+neo-classical economic theory (Daoud 2011; 2010) I am using the term
+”anomaly” in the strict sense given to it by Thomas Kuhn (1996). In his
+classic theory of science, to put it briefly, an anomaly is defined as
+something which gainsaid the prevailing scientific wisdom of the day. It
+is hard even to catch sight of the inconsistency, and impossible to
+resolve it within the scientific worldview of the day. Hence, an anomaly
+points beyond the established order, towards a new scientific paradigm
+which can make better sense of the observational data. However, since no
+way of conceptualising the world can give the ultimate and exhaustive
+explanation of reality, new anomalies are bound to crop up again.
 
+La hipótesis del excepcionalismo de la información explota una anomalia
+en un paradigma (científico), esto es, la disciplina económica y sus
+tradiciones predominantes, una amplia parte de la teoría clásica y la
+teoría neoclásica entera [@daoud-2011; @daoud-2010].  Uso el término
+"anomalía" en el sentido estricto dado por Thomas Kuhn [-@kuhn-1996].
+En su clásica teoría de la ciencia, para decirlo resumidamente, una
+anomalía es definida como algo que contradice la sabiduría científica
+prevaleciente del momento.  Resulta difícil incluso tomar conciencia de
+la inconsistencia e imposible resolverla dentro de esa visión del mundo
+científica particular.  Por lo tanto, una anomalía apunta más allá del
+orden establecido, hacia un nuevo paradigma científico que pueda dar
+sentido a los datos observados.  Sin embargo, ya que ninguna forma de
+conceptualizar el mundo puede dar una explicación de la realidad última
+y exhaustiva, nuevas anomalías están destinadas a aparecer.
 
 A common denominator and key postulate in classical and neo-classical economic thinking is the omnipresence of scarcity. Because resources are limited in relation to unbounded human needs/fancies, humans act as economic, maximising agents. It is for this reason, we are told, that economic theory can make predictions about human behaviour. The economist must posit scarcity in order to see anything in the world. Scarcity is his condition for seeing, and his blind spot. To such a science, the existence of something non-rival becomes an anomaly. This phenomenon has been recognised by economists as the problem of “public goods”. Seen from inside this paradigm, public goods is something that causes market failures. By defining public goods in those terms the anomaly has not been resolved. It merely reaffirms the starting assumptions of the economic science. An example closely related to the present argument is the talk about the rise of a so-called “attention economy” (Simon 1971). The abundance of information is said to have resulted in a new scarcity, i.e. the lack of attention among audiences. Hence, the market in information is superseded by a market in attention. Abundance is here defined as a scarcity of scarcity. My point is not that non-rivalrous, abundant goods exist in the world and the economic science is flawed to the extent that it fails to acknowledge them. Rather, what is important is that the anomaly is itself a product of the economist’s particular way of looking.
 
