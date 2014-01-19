@@ -516,6 +516,26 @@ it has already spilled over that boundary and begun to affect the
 current intellectual property regime when they adopt the information
 exceptionalism hypothesis.
 
+La noción del ciberespacio como un reino incorpóreo de intercambio de
+información ha sido puesta bajo una crítica sostenida por feministas y
+académicos culturales.  En lugar de reiterar estas críticas, me gustaría
+redimir la contraposición, tan defectuosa como pueda ser.  Hay que tener
+en mente que la puesta de un Más Allá trascendental ha servido
+históricamente como un punto de crítica y oposición a aquello que
+existe.  Algunos ejemplos incluyen el Reino de los Cielos, los derechos
+naturales y el determinismo tecnológico (o histórico).  La famosa
+declaración de independencia del ciberespacio de Perry Barlow puede ser
+considerada en todo derecho una continuación de esta larga,
+potencialmente crítica y emancipatoria tradición.  En efecto, la
+declaración hubiera sido inútil si Barlow no hubiera pensado que el
+ciberespacio se colaría en y cambiaría los estados del mundo industrial
+[@barlow-1996].  La lección es la siguiente: en el momento en que algo
+(información, ciberespacio, etc.) es puesto como un Más Allá separado y
+enfrentado a sus alrededores, ya ha derramado ese límite y comenzado a
+afectar lo de "afuera".  La misma estrategia es adoptada por los
+adversarios del régimen actual de la propiedad intelectual cuando
+adoptan la hipótesis del excepcionalismo de la información.
+
 
 The observation above can be further elaborated on by borrowing two popular terms from the science studies literature, boundary work and boundary objects. The first term was proposed by Thomas Gieryn. He used it to describe how science is separated from non-science by the efforts of scientists to uphold their professional status against amateur scientists and religious contenders. The lesson worth emphasising in the context of the present argument is that the boundary is not naturally given. It does not exist independently of the practitioners' whereabouts. The boundary has to be perpetually maintained, defended and re-negotiated (Gieryn 1983). The second term was introduced by Susan Leigh Star and James Griesemer. Their contribution consisted in treating the boundary not merely as a marker of difference but equally as an interface enabling communication across heterogeneous, scientific communities. The boundary object was plastic enough to adapt to local needs, while robust enough to maintain a common identity across different sites (Star and Griesemer 1989; Lamont and Molnár 2002). The original definition of boundary work does not match perfectly onto the information exceptionalism hypothesis outlined above, but it does a good enough job to bring home my key point. The boundary between informational resources and physical goods is not a given. It must be upheld through continuous work. The exceptionalism of information and the separateness of the virtual realm constitute the boundary object of the campaigners for information commons.
 
