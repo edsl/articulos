@@ -434,7 +434,7 @@ información tenía un significado más amplio que "enviar mensajes".
 Implicaba el acto de dar forma a algo, como el conocimiento o la mente
 humana.  Esto implicaba un contexto que dependía del lenguaje y la
 creación de significado [@capurro-2009].  No es accidental que contexto
-y significado fueron sacados de la ecuación por Shannon.  Katherine
+y significado fueran sacados de la ecuación por Shannon.  Katherine
 Hayles ha demostrado cómo su definición respondía a las necesidades de
 una industria tecnocientífica en ascenso.  La industria necesitaba una
 definición que le permitiera cuantificaciones confiables.  Varias
@@ -473,28 +473,28 @@ constitute a separate jurisdiction requiring unique laws (Lastowka and
 Hunter 2004).
 
 Por supuesto, y a pesar de las esfuerzos en contra, la creación,
-transmisión y operacionalización de información permaneció situada e
-incorporó eventos que no pueden quedar completamente divorciados de la
-creación de significado.  Aunque puede ser relevante por otras razones
-distinguir entre conocimiento e información, como muchos críticos
-culturales han hecho, ambos no son antitéticos en el sentido que uno
-lleve significado y el otro no [@malik-2005].  La separación de la
-información del sustrato material en el cual es inevitablemente inscrita
-debe ser reconocida como una invención cultural.  A partir de ella se
-han seguido nociones sobre el "ciberespacio" y la "realidad virtual".
-En los '90, la Internet era habitualmente pintada como un reino
-incorpóreo de flujos de información.  La atracción de esta idea puede
-ser explicada parcialmente porque tomaba fuerza del milenario dualismo
-del pensamiento filosófico, a veces referenciado como una oposición
-entre forma y materia, otras como mente y cuerpo y así [@hayles-1994;
-@fuchs-2003].  En la literatura de los nuevos estudios de medios han
-proliferado variantes de este dualismo.  Por ejemplo, la misma oposición
-tiende a resurgir cuando la "comunidad virtual" es contrastada con las
-comunidades reales, delimitadas geográficamente (para una crítica, ver
-Proulx y Latzko-Toth [-@proulx-latzko-2005])  Entre los académicos legales, una
-discusión paralela ha surgido sobre si los mundos virtuales constituyen
-una jurisdicción separada que requiere leyes únicas
-[@lastowska-hunter-2004].
+transmisión y operacionalización de información permaneció situada
+e incorporó eventos que no pueden quedar completamente divorciados
+de la creación de significado.  Aunque puede ser relevante por otras
+razones distinguir entre conocimiento e información, como muchos
+críticos culturales han hecho, ambos no son antitéticos en el sentido
+que uno lleve significado y el otro no [@malik-2005].  La separación
+de la información del sustrato material en el cual es inevitablemente
+inscrita debe ser reconocida como una invención cultural.  A partir de
+ella se han seguido nociones sobre el "ciberespacio" y la "realidad
+virtual".  En los '90, la Internet era habitualmente pintada como un
+reino incorpóreo de flujos de información.  La atracción de esta idea
+puede ser explicada parcialmente porque tomaba fuerza del milenario
+dualismo del pensamiento filosófico, a veces referenciado como una
+oposición entre forma y materia, otras como mente y cuerpo y así
+[@hayles-1994; @fuchs-2003].  En la literatura de los nuevos estudios
+de medios han proliferado variantes de este dualismo.  Por ejemplo,
+la misma oposición tiende a resurgir cuando la "comunidad virtual" es
+contrastada con las comunidades reales, delimitadas geográficamente
+(para una crítica, ver Proulx y Latzko-Toth [-@proulx-latzko-2005]).
+Entre los académicos legales, una discusión paralela ha surgido sobre si
+los mundos virtuales constituyen una jurisdicción separada que requiere
+leyes únicas [@lastowska-hunter-2004].
 
 The notion of cyberspace as a disembodied realm of information
 exchange has come under sustained critique from feminists and cultural
