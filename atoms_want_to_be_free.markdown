@@ -1201,16 +1201,231 @@ mercantilización y relaciones de trabajo.  Es decir, la propiedad
 intelectual necesita ser analizada desde el punto panorámico de la
 crítica de la economía política.
 
-Conclusion
-In the article, I have questioned the information exceptionalism hypothesis, upon which the predominant critique against intellectual property rests. This critique has been cut out from the same cloth as the economic discipline. Neo-classical economic theory, the dominant tendency within economics, is not an academic pursuit like any other. It is a feedstock of hegemonic thought and as such a material force, rewriting the world according to its own abstractions. In order to make any prediction about the economy, neo-classical theory must first postulate the omnipresence of scarcity. Scarcity is a condition for seeing, and, subsequently, the constitutive, blind angle of this 'scientific paradigm'. It is this anomaly that critics of intellectual property exploit when they talk about the exceptionality of non-rival information goods. The irony of the reversal is easy enough to appreciate. The rationale for having intellectual property is overthrown from within the citadel of property. The liturgy of free markets is being chanted in praise of information commons. The price to pay, however, is that the blind spot of the economic discipline is duly reproduced in the critique of intellectual property. This is evident from the works of Lawrence Lessig and Yochai Benkler, as well as in the thinking of many hackers and hobbyists. It is not sufficient to criticise the intellectual flaws of this narrative without also recognising how practitioners make it work for them when they engage in boundary work. A case in point is the distinction between “free speech” and “free beer”. When advocates of free software insists on this boundary, they present themselves as strictly advocating civil rights issues, while exempting a critique of ownership, markets and wealth distribution from their openly declared opposition to intellectual property rights.
+Conclusión
+----------
+
+In the article, I have questioned the information exceptionalism
+hypothesis, upon which the predominant critique against intellectual
+property rests. This critique has been cut out from the same cloth as
+the economic discipline. Neo-classical economic theory, the dominant
+tendency within economics, is not an academic pursuit like any
+other. It is a feedstock of hegemonic thought and as such a material
+force, rewriting the world according to its own abstractions. In
+order to make any prediction about the economy, neo-classical theory
+must first postulate the omnipresence of scarcity. Scarcity is a
+condition for seeing, and, subsequently, the constitutive, blind angle
+of this 'scientific paradigm'. It is this anomaly that critics of
+intellectual property exploit when they talk about the exceptionality
+of non-rival information goods. The irony of the reversal is easy
+enough to appreciate. The rationale for having intellectual property
+is overthrown from within the citadel of property. The liturgy of free
+markets is being chanted in praise of information commons. The price
+to pay, however, is that the blind spot of the economic discipline
+is duly reproduced in the critique of intellectual property. This is
+evident from the works of Lawrence Lessig and Yochai Benkler, as well
+as in the thinking of many hackers and hobbyists. It is not sufficient
+to criticise the intellectual flaws of this narrative without also
+recognising how practitioners make it work for them when they engage
+in boundary work. A case in point is the distinction between “free
+speech” and “free beer”. When advocates of free software insists on this
+boundary, they present themselves as strictly advocating civil rights
+issues, while exempting a critique of ownership, markets and wealth
+distribution from their openly declared opposition to intellectual
+property rights.
+
+En este artículo, cuestioné la hipótesis del excepcionalismo de la
+tecnología sobre la que descansa la crítica predominante de la propiedad
+intelectual.  Esta crítica ha sido cortada con la misma tela que la
+disciplina económica.  La teoría económica neo-clásica, la tendencia
+dominante dentro de la economía, no es una búsqueda académica como
+cualquiera otra.  Es la materia prima del pensamiento hegemónico y como
+tal una fuerza material, que reescribe el mundo de acuerdo a sus propias
+abstracciones.  Para hacer cualquier predicción sobre la economía, la
+teoría neo-clásica debe postular antes que nada la omnipresencia de la
+escasez.  La escasez es la condición para la visión y consecuentemente
+el punto ciego constitutivo de este "paradigma científico".  Es esta la
+anomalía que los críticas del régimen de propiedad intelectual explotan
+cuando hablan sobre la excepcionalidad de los bienes informacionales
+no rivales.  La ironía de esta inversión es fácilmente apreciable.
+La razón de la propiedad intelectual es derrocada desde la citadel
+misma de la propiedad.  El precio a pagar, sin embargo, es que el
+punto ciego de la disciplina económica es debidamente reproducido
+en la crítica de la propiedad intelectual.  La liturgia del libre
+mercado es cantada en alabanza a los comunes informacionales.  Esto es
+evidente en las obras de Lawrence Lessig y Yochai Benkler, así como en
+el pensamiento de muchos hackers y hobbistas.  No es suficiente criticar
+las fallas intelectuales de esta narrativa sin reconocer también cómo
+los practicantes la hacen funcionar para ellos mismos cuando se
+involucran en el trabajo liminal.  Un punto en cuestión es la distinción
+entre "libertad de expresión" y "cerveza libre".  Cuando los militantes
+del Software Libre insisten en este límite, se presentan como militantes
+estrictos de problemáticas de derechos civiles mientras evitan una
+crítica de la propiedad, los mercados y la distribución de riqueza a
+través de su abiertamente declarada oposición a los derechos de
+propiedad intelectual.
 
 
-The boundary work that hackers, activists and academics have engaged in since 1980s is now being destabilised due to the introduction of a new narrative element. Namely, the exclamation that, to put it in the jargon of the Californian ideology: “atoms are the new bits”. At the heart of articulating this new imaginary are the hobbyists building open source 3D printers. The machine was devised with the stated objective of knocking down the railing between information and physical goods. The expectation among many of the hobbyist is that the same disruptive forces will be unleashed on industrial manufacturers as have already beset the music- and film industry. Filesharing will be generalised to the whole of the economy. Stated in more abstract terms, the hobbyists pay tribute to the insight, that the line between information commons and property markets is not given once and for all. The line is not inscribed in the nature of the resources, as the naturalist position would have it. Since this line has been constructed, it is subject to being reconstructed and renegotiated anew. Note to be taken, the articulation of a new narrative around atoms and bits plays a minor role in this renegotiation process. What counts more are the ability and dedication of hobbyists to put work into and steer the development process of 3D printers. From the vantage point of the hobbyists, this is perceived to be an offensive move. They are opening-up a new front in the struggle against intellectual property.
+The boundary work that hackers, activists and academics have engaged
+in since 1980s is now being destabilised due to the introduction of a
+new narrative element. Namely, the exclamation that, to put it in the
+jargon of the Californian ideology: “atoms are the new bits”. At the
+heart of articulating this new imaginary are the hobbyists building open
+source 3D printers. The machine was devised with the stated objective of
+knocking down the railing between information and physical goods. The
+expectation among many of the hobbyist is that the same disruptive
+forces will be unleashed on industrial manufacturers as have already
+beset the music- and film industry. Filesharing will be generalised to
+the whole of the economy. Stated in more abstract terms, the hobbyists
+pay tribute to the insight, that the line between information commons
+and property markets is not given once and for all. The line is not
+inscribed in the nature of the resources, as the naturalist position
+would have it. Since this line has been constructed, it is subject
+to being reconstructed and renegotiated anew. Note to be taken, the
+articulation of a new narrative around atoms and bits plays a minor
+role in this renegotiation process. What counts more are the ability
+and dedication of hobbyists to put work into and steer the development
+process of 3D printers. From the vantage point of the hobbyists, this is
+perceived to be an offensive move. They are opening-up a new front in
+the struggle against intellectual property.
+
+El trabajo liminal en el que hackers, hobbistas y académicos se han
+involucrado desde los '80 está siendo desestabilizado por la
+introducción de un nuevo elemento narrativo.  A saber, la exclamación
+que, para ponerlo en el argot de la ideología californiana: "los átomos
+son los nuevos bits".  En el corazón de la articulación de este nuevo
+imaginario están los hobbistas construyendo impresoras tridimensionales
+libres.  La máquina fue ideada con el objetivo explícito de derrumbar la
+baranda entre la información y los bienes físicos.  La expectativa entre
+muchos de los hobbistas es que las mismas fuerzas disruptivas serán
+soltadas sobre los manufactureros industriales tal como ya están
+acosando a las industrias de la música y el cine.  Dicho en términos más
+abstractos, los hobbistas rinden homenaje de que la reflexión en que la
+línea entre los bienes informacionales y los mercados de la propiedad ya
+no esté dada.  La línea no está inscrita en la naturaleza de los
+recursos, como la posición naturalista dice.  Como esta línea ha sido
+construida está sujeta a ser reconstruida y renegociada de nuevo.  Pero
+hay que tomar en cuenta que la articulación de una nueva narrativa
+alrededor de los átomos y los bits juega un rol menor en este proceso de
+renegociación.  Lo que más cuenta es la habilidad y la dedicación de los
+hobbistas para trabajar y dirigir el proceso de desarrollo de las
+impresoras tridimensionales.  Desde el punto panorámico de los
+hobbistas, esto es percibido como una movida ofensiva.  Están abriendo
+un nuevo frente en la lucha contra la propiedad intelectual.
+
+Unfortunately, the same move away from a naturalist towards a
+constructivist understanding of private property has already been made
+by the most advanced sections of the 'vested interests'. The naturalist
+or foundationalist understanding of private property does not only
+legitimise property by portraying it as an eternal state of nature,
+a well-known critique on the left since Karl Marx's denounciation of
+commodity fetishism. By the same token, everything that is not-property
+is portrayed as equally belonging to a state of nature, be that light or
+ideas. This lays down a floor or foundation beyond which property cannot
+be conceived. No wonder then that the naturalist fallacies of classic
+liberalism and classic political economy have been discarded by the
+Neo-liberal Thought Collective (Mirowski, 2013). As much can be seen in
+a text published by the Cato Institute, one of the many think tanks that
+make up the neo-liberal avant-guarde. The book discusses the relation
+between property, markets and technology. In a re-examination of the
+old debate about lighthouses and public goods, mentioned above, one
+economist observes that light is now being replaced with radio signals
+as a means for assisting navigation. The latter technology is designed
+in such a way that rent can easily be extracted for the service. The
+writer rejoices: Due to technological change, there are no such things
+as natural public goods anymore. It is only institutional inertness
+which holds back the relentless expansion and intensification of markets
+(Foldvary 2003). The last comment clarifies why the Neo-liberal Thought
+Collective, although its official agenda is to 'smash the state', first
+and foremost is preoccupied with capturing the state. It is through
+state power that institutional inertia against the expansion of markets
+can be smashed (Mirowski, 2013). The parade example, extensively
+discussed elsewhere, is the privatisation of public services. But
+the projection of intellectual property on top of physical objects
+can be added to this list. This points to a future where the most
+controversial aspects of intellectual property, i.e. digitial rights
+management systems, real-time customer surveillance, and intricate price
+discrimination, have spilled over the former boundary between virtual
+and physical. It has, in other words, transformed private property as
+we knew it. The two types of property converge into what I have elected
+to call “augmented property”. The vindication that this projection is
+logically impossible, that it will leave many loopholes and corresponds
+badly to the actually-existing objects, is of little importance. The
+Penrose triange cannot exist on logical grounds, but the illusion of one
+suffices for the purposes of laws and markets. Augmentation of property
+means that the granularity of commodities can be made infinitely
+fine. Infinite are the ways to parse up information and provide it
+on a pay-per basis. The coarse way in which goods and services are
+being charged for today will, a few years down the line, look like an
+endless long tail of market failures. Technology holds out the promise
+of closing the market failures, over and over again. Paraphrasing the
+anti-foundationalist and constructivists meme, markets go ”all the way
+down”. As with private property regime before, this new order can only
+continue to exist if transgressions against it is sanctioned by the
+state. As the conflict over augmented property unfolds, piracy will be
+generalised to every corner of society. And everywhere we will hear the
+battle cry: atoms want to be free too!
 
 
-Unfortunately, the same move away from a naturalist towards a constructivist understanding of private property has already been made by the most advanced sections of the 'vested interests'. The naturalist or foundationalist understanding of private property does not only legitimise property by portraying it as an eternal state of nature, a well-known critique on the left since Karl Marx's denounciation of commodity fetishism. By the same token, everything that is not-property is portrayed as equally belonging to a state of nature, be that light or ideas. This lays down a floor or foundation beyond which property cannot be conceived. No wonder then that the naturalist fallacies of classic liberalism and classic political economy have been discarded by the Neo-liberal Thought Collective (Mirowski, 2013). As much can be seen in a text published by the Cato Institute, one of the many think tanks that make up the neo-liberal avant-guarde. The book discusses the relation between property, markets and technology. In a re-examination of the old debate about lighthouses and public goods, mentioned above, one economist observes that light is now being replaced with radio signals as a means for assisting navigation. The latter technology is designed in such a way that rent can easily be extracted for the service. The writer rejoices: Due to technological change, there are no such things as natural public goods anymore. It is only institutional inertness which holds back the relentless expansion and intensification of markets (Foldvary 2003). The last comment clarifies why the Neo-liberal Thought Collective, although its official agenda is to 'smash the state', first and foremost is preoccupied with capturing the state. It is through state power that institutional inertia against the expansion of markets can be smashed (Mirowski, 2013). The parade example, extensively discussed elsewhere, is the privatisation of public services. But the projection of intellectual property on top of physical objects can be added to this list. This points to a future where the most controversial aspects of intellectual property, i.e. digitial rights management systems, real-time customer surveillance, and intricate price discrimination, have spilled over the former boundary between virtual and physical. It has, in other words, transformed private property as we knew it. The two types of property converge into what I have elected to call “augmented property”. The vindication that this projection is logically impossible, that it will leave many loopholes and corresponds badly to the actually-existing objects, is of little importance. The Penrose triange cannot exist on logical grounds, but the illusion of one suffices for the purposes of laws and markets. Augmentation of property means that the granularity of commodities can be made infinitely fine. Infinite are the ways to parse up information and provide it on a pay-per basis. The coarse way in which goods and services are being charged for today will, a few years down the line, look like an endless long tail of market failures. Technology holds out the promise of closing the market failures, over and over again. Paraphrasing the anti-foundationalist and constructivists meme, markets go ”all the way down”. As with private property regime before, this new order can only continue to exist if transgressions against it is sanctioned by the state. As the conflict over augmented property unfolds, piracy will be generalised to every corner of society. And everywhere we will hear the battle cry: atoms want to be free too!
+Desafortunadamente, la misma movida desde una comprensión naturalista
+hacia una constructivista sobre la propiedad privada ya ha sido
+realizada por las secciones más avanzadas de los "intereses creados".
+La comprensión naturalistas o fundacionista de la propiedad privada no
+sólo legitima la propiedad al retratarla como un estado de naturaleza
+externo, una bien conocida crítica de la izquierda desde que Karl Marx
+denunciara el fetichismo de la mercancía.  Por el mismo motivo, todo lo
+que no sea propiedad es retratado como igualmente perteneciente al
+estado de naturaleza, ya sean luz o ideas.  Esto establece el piso o
+fundación más allá del cual la propiedad no puede ser concebida.  No hay
+que sorprenderse cuando las falacias naturalistas del liberalismo
+clásico y la economía política clásica han sido descartadas por el
+Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  Esto puede verse
+en un texto publicado por el _Cato Institute_, uno de los muchos _think
+tanks_ que conforman la vanguardia neo-liberal.  El libro discute la
+relación entre propiedad, mercados y tecnología.  En una reexaminación
+del viejo debate sobre los faros y los bienes públicos, mencionada
+arriba, un economista observa que la luz ha sido reemplazada por las
+señales de radio como medio para asistir la navegación.  Esta tecnología
+está diseñada de tal forma que la renta puede ser fácilmente extraída
+por el servicio.  El escritor se regocija: Gracias al cambio
+tecnológico, ya no hay tales cosas como los bienes públicos naturales.
+Es solo la inercia institucional la que retrasa la implacable expansión
+e intensificación de los mercados [@foldvary-2003].  El último
+comentario clarifica por qué el Colectivo de Pensamiento Neo-Liberal,
+aunque su agenda oficial sea "aplastar el Estado", antes que nada está
+preocupado en capturar al Estado.  Es a través del poder estatal que la
+inercia institucional contra la expansión de los mercados puede ser
+aplastada [@mirowski-2013].  El ejemplo principal, discutido
+extensamente en otros lados, es la privatización de los servicios
+públicos.  Pero la proyección de la propiedad intelectual sobre los
+objetos físicos puede añadirse a esta lista.  Esto apunta a un futuro
+donde los aspectos más controversiales de la propiedad intelectual, es
+decir los sistemas de administración digital de restricciones, la
+vigilancia de los clientes en tiempo real y los intrincados sistemas de
+administración de precios se han derramado sobre los límites entre lo
+virtual y lo físico.  Ha, en otras palabras, transformado la propiedad
+privada como la conocemos.  Los dos tipos de propiedad convergen en lo
+que he dado en llamar "propiedad aumentada".  La vindicación de que esta
+proyección es lógicamente imposible, de que dejaría muchas lagunas y se
+mal corresponde con los objetos realmente existentes, es de poca
+importancia.  El triángulo de Penrose no puede existir en términos
+lógicos pero la ilusión de uno es suficiente para los propósitos de las
+leyes y los mercados.  La propiedad aumentada significa que la
+granularidad de las mercancías puede hacerse infinitamente fina.  Son
+infinitas las formas de analizar la información y proveerla en base al
+pago por uso.  La forma gruesa en que los bienes y servicios son
+cobrados hoy, en algunos años más se verán como una larga cola de
+fracasos de mercado sin fin.  La tecnología mantiene su promesa de
+cerrar las fallas del mercado, una y otra vez.  Parafraseando el meme
+anti-fundacionalista y constructivista, los mercados van "hasta el
+fondo".  Como el régimen de la propiedad privada, este nuevo orden solo
+puede continuar existiendo si las transgresiones en su contra son
+sancionadas por el Estado.  Mientras de despliega el conflicto sobre la
+propiedad aumentada, la piratería se generalizará en cada esquina de la
+sociedad.  Y en todos lados escucharemos el grito de guerra: ¡Los átomos
+también quieren ser libres!
 
-
+Bibliografía
+============
 
 References
 Barlow, John Perry. 1996. A Declaration of Independence of Cyberspace. Accessed January 23, 2012. http://w2.eff.org/Censorship/Internet_censorship_bills/barlow_0296.declaration
