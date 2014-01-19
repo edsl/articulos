@@ -332,7 +332,8 @@ económica apuntala esta posición
 
 The boundary object: information exceptionalism
 
-### El objeto liminal: la excepcionalidad de la información
+El objeto liminal: la excepcionalidad de la información
+-------------------------------------------------------
 
 
 The communication scholar Dan Schiller has produced a compelling
@@ -788,7 +789,8 @@ Estado y sus poderes legales.
 
 Abundance - the anomaly of classical/neo-classical economic science
 
-### Abundancia: la anomalía en la ciencia económica (neo)clásica
+Abundancia: la anomalía en la ciencia económica (neo)clásica
+------------------------------------------------------------
 
 The information exceptionalism hypothesis exploits an anomaly in
 a (scientific) paradigm, that is, the economic discipline and its
