@@ -677,8 +677,47 @@ parks or roadways, are at stake” (Benkler 2006, 146).
 > cuando los recursos materiales, como los parques y las autopistas,
 > están en juego [@benkler-2006, pp. 146].
 
-More so than Lawrence Lessig, Yochai Benkler recognises that his reasoning rests on technological and social conditions that are transitory. As a consequence, the balance scales between commons and markets might shift and needs to be reassessed from time to time. However, Benkler understands technological and social change as external factors acting upon his computations from an Outside. What goes unrecognised is that those factors are integral to a larger social conflict, in which the two law scholars are taking part. What is at stake in this struggle is precisely the demarcation line between commons and markets. The idea that the optimal balance point between commons and markets can be established in a technical, neutral manner is fictitious. Lessig and Benkler are not unaware of the presence of a struggle, but they put it down to the machinations of uninformed and/or corrupted legislators. Plenty of evidence can be marshalled in support of that claim, but it leaves out what is most fundamental. This is due to the boundary laid down by the hypothesis about information exceptionalism. It asserts that a critique against the current intellectual property regime does not imply a general critique of private property as such. It affirms that the advocacy for information commons is not at the same time an assailment against the free market.
+More so than Lawrence Lessig, Yochai Benkler recognises that his
+reasoning rests on technological and social conditions that are
+transitory. As a consequence, the balance scales between commons
+and markets might shift and needs to be reassessed from time to
+time. However, Benkler understands technological and social change as
+external factors acting upon his computations from an Outside. What
+goes unrecognised is that those factors are integral to a larger
+social conflict, in which the two law scholars are taking part. What
+is at stake in this struggle is precisely the demarcation line between
+commons and markets. The idea that the optimal balance point between
+commons and markets can be established in a technical, neutral manner
+is fictitious. Lessig and Benkler are not unaware of the presence of
+a struggle, but they put it down to the machinations of uninformed
+and/or corrupted legislators. Plenty of evidence can be marshalled in
+support of that claim, but it leaves out what is most fundamental. This
+is due to the boundary laid down by the hypothesis about information
+exceptionalism. It asserts that a critique against the current
+intellectual property regime does not imply a general critique of
+private property as such. It affirms that the advocacy for information
+commons is not at the same time an assailment against the free market.
 
+Aun más que Lawrence Lessig, Yochai Benkler reconoce que su razonamiento
+descansa sobre condiciones sociales y tecnológicas que son transitorias.
+Como consecuencia, la balanza entre comunes y mercados puede cambiar y
+necesita ser reevaluada de tiempo en tiempo.  Sin embargo, Benkler
+comprende el cambio social y tecnológico como factores externos actuando
+sobre sus computaciones desde un Afuera.  Lo que pasa desapercibido es
+que esos factores son integrales a un conflicto social más amplio, en el
+que los dos académicos legales están tomando parte.  Lo que está en
+juego en esta lucha es precisamente la línea de demarcación entre
+comunes y mercados.  La idea de que el punto de balance óptimo entre
+comunes y mercados puede establecerse de una manera técnica y neutral es
+ficticia.  Lessig y Benkler no son inconcientes de la presencia de una
+lucha, pero la rebajan a las maquinaciones de legisladores desinformados
+y/o corruptos.  Puede recolectarse suficiente evidencia para apoyar esta
+afirmación, pero deja fuera lo más fundamental.  Esto es así por el
+límite establecido por la hipótesis del excepcionalismo informacional.
+Afirma que la crítica de la propiedad intelectual actual no implica a su
+vez una crítica general de la propiedad privada como tal.  Afirma que la
+militancia por los comunes informacionales no es a la vez un asalto al
+libre mercado.
 
 The bias of the boundary object must be respected by everyone in the geek public, on pain of being marginalised. This includes critics of intellectual property who are typically identified as ”leftists”. For instance, Richard Stallman, the founder of the Free Software Foundation, insists on not using the word ”intellectual property”. He argues that this term causes confusion by gathering a range of distinct legislation under a catch-all phrase (Stallman 2006). This wish to separate private property from the critique of intellectual property is also suggested by the iconic catch-phrase of the Free Software Foundation: ”free as in free speech, not free as in free beer”. By framing the issue in this way, the case for information commons can be portrayed as a defence of civil liberties, rather than being seen as an attack on private property and thus a struggle for economic redistribution.1 No one can deny that this way of presenting the issue has tactical advantages. Perhaps even the case for information commons becomes all the more efficient in criticising private property and free markets by not giving itself away as such a critique. Concurrently, this suggests the embeddedness of the critique of intellectual property in a liberal, commonsensical worldview, largely defined and systematised in the economic discipline.
 
