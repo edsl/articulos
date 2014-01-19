@@ -955,7 +955,49 @@ The drawback with this critique of intellectual property is that it has taken ov
 
 
 Political economy of information
-The flanking maneuver is completed. Having got this far into the argument, the time has come to close the bracket in which I initially put the question, if the information exceptionalism hypothesis is an outright false proposition. My answer is that the exceptionalism attributed to information is not incorrect per se. The hypothesis is problematic only because it sets our inquiry off in the wrong direction by choosing a partial and one-sided point of departure. It holds out the wrong end of the rope when we try to make sense of intellectual property and information commons. If this seems like a minor correction, hardly worth all the stir I previously made, then I contend that this difference in nuance leads to an altogether different approach, both analytically and politically. By questioning the exceptionality attributed to information, the orientation of the inquiry as a whole is put in question too, because the ”exceptionality” is an artifact of the way the inquiry has been framed. The crux is the notion of scarcity, the alpha and omega of the economic discipline which gives raise to its radical Other: inexhaustible abundance of informational resources.
+
+La economía política de la información
+--------------------------------------
+
+The flanking maneuver is completed. Having got this far into the
+argument, the time has come to close the bracket in which I initially
+put the question, if the information exceptionalism hypothesis is
+an outright false proposition. My answer is that the exceptionalism
+attributed to information is not incorrect per se. The hypothesis is
+problematic only because it sets our inquiry off in the wrong direction
+by choosing a partial and one-sided point of departure. It holds out
+the wrong end of the rope when we try to make sense of intellectual
+property and information commons. If this seems like a minor correction,
+hardly worth all the stir I previously made, then I contend that
+this difference in nuance leads to an altogether different approach,
+both analytically and politically. By questioning the exceptionality
+attributed to information, the orientation of the inquiry as a whole is
+put in question too, because the ”exceptionality” is an artifact of the
+way the inquiry has been framed. The crux is the notion of scarcity,
+the alpha and omega of the economic discipline which gives raise to its
+radical Other: inexhaustible abundance of informational resources.
+
+La maniobra de flanqueo está completa.  Habiendo ido tan lejos en este
+argumento, ha llegado el momento de cerrar los corchetes entre los que
+inicialmente coloqué la pregunta, si la hipótesis del excepcionalismo de
+la información es una proposición totalmente falsa.  Mi respuesta es que
+el excepcionalismo atribuido a la información no es incorrecto per se.
+La hipótesis es problemática sólo porque lleva nuestra investigación
+hacia la dirección equivocada al elegir un punto de partida parcial y
+unilateral.  Sostiene el lado incorrecto de la soga[^soga] cuando
+tratamos de darle sentido a la propiedad intelectual y los comunes
+informacionales.  Si esto parece una corrección menor, a duras penas
+valiosa después de todo el revuelo que armé, entonces respondo que esta
+diferencia de matices lleva a un abordaje totalmente diferente, tanto
+analítica como políticamente.  Al cuestionar la excepcionalidad
+atribuida a la información, la orientación de la investigación como un
+todo es puesta en cuestión también, porque la "excepcionalidad" es un
+artefacto de la forma en que la investigación fue enmarcada.  Lo clave
+es la noción de escasez, el alfa y el omega de la disciplina económica
+que hace surgir a este Otro radical: la abundancia infinita de recursos
+informacionales.
+
+[^soga]: Podría traducirse como mear fuera del tarro? :P
 
 
 The starting point of the information exceptionalism hypothesis is a matter-of-factness assertion about the positive existence of scarcity in the physical world, borrowed from the economic discipline. The alternative is a historically and sociologically informed approach, according to which scarcity (both of intangible and tangible goods) is always-already inscribed in prevailing social relations. It is here that a robust analysis of intellectual property must start. My claim might sound counter-intuitive. Scarcity in the physical world is a condition of modern life, everywhere experienced as shortage and unfulfilled want. Certainty of such experiences must be suspended in favour of a viewpoint that relates scarcity to the social whole of the market-industrial system. The anthropologist Marshall Sahlins, drawing on his studies of archaic societies, talked from such an elevated vantage point when he made the following remarks:
