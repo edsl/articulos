@@ -742,24 +742,24 @@ worldview, largely defined and systematised in the economic discipline.
 El sesgo del objeto liminal debe ser respetado por todo el público
 _geek_[^geek] bajo pena de quedar marginalizado.  Esto incluye a los
 críticos de la propiedad intelectual típicamente identificados como
-"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la _Free
-Software Foundation_, insiste en no usar el término "propiedad
-intelectual".  Argumenta que este término causa confusión al juntar un
-rango de legislaciones diferentes bajo un término abarcativo
-[@stallman-2006].  Este deseo por separar la propiedad privada de la
-crítica de la propiedad intelectual es también sugerida por la frase
-pegadiza icónica de la Free Software Foundation: _"free as in free
-speech, not free as in free beer"_[^freebeer].  Al enmarcar el problema
-de esta forma, el caso de los comunes informacionales puede ser
+"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la
+_Free Software Foundation_, insiste en no usar el término "propiedad
+intelectual".  Argumenta que este término causa confusión al juntar
+un rango de legislaciones diferentes bajo un término abarcativo
+[@stallman-2006].  Este deseo por separar la propiedad privada de
+la crítica de la propiedad intelectual es también sugerida por la
+frase pegadiza icónica de la Free Software Foundation: _"free as in
+free speech, not free as in free beer"_[^freebeer].  Al enmarcar el
+problema de esta forma, el caso de los comunes informacionales puede ser
 retratado como una defensa de las libertades civiles, en lugar de ser
-visto como un ataque a la propiedad privada y por lo tanto una lucha por
-la redistribución económica.[^1]  Nadie puede negar que esta forma de
-presentar tiene ventajas tácticas.  Tal vez incluso el caso por los
-comunes informacionales se vuelve más eficiente en criticar la propiedad
-privada y el libre mercado al no exponerse como tal.  A la vez, esto
-sugiere un arraigo de la crítica de la propiedad intelectual en una
-visión del mundo liberal, de sentido común, ampliamente definida y
-sistematizada en la disciplina económica.
+visto como un ataque a la propiedad privada y por lo tanto una lucha
+por la redistribución económica.[^1] Nadie puede negar que esta forma
+de presentar el problema tiene ventajas tácticas.  Tal vez incluso el
+caso por los comunes informacionales se vuelve más eficiente en criticar
+la propiedad privada y el libre mercado al no exponerse como tal.  A la
+vez, esto sugiere un arraigo de la crítica de la propiedad intelectual
+en una visión del mundo liberal, de sentido común, ampliamente definida
+y sistematizada en la disciplina económica.
 
 [^freebeer]: "Libre como un libertad de expresión, no como en cerveza
               libre"
