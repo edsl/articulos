@@ -850,12 +850,54 @@ al punto de que es incapaz de reconocerlos.  Antes bien, lo que es
 importante es que la anomalía es en sí misma producto de la forma
 particular de observación del economista.
 
-Being an artifact of the economic way of looking, it follows that the problem with non-rival goods arose at the same time as this discipline was staged. To the founding fathers, however, it was light rather than information which caught their puzzled attention. Henry Sidgwick observed that “the benefits of a well-placed lighthouse must be largely enjoyed by ships on which no toll could be conveniently imposed” (Sidgwick 1901, 412). John Stuart Mill concurred that the service provided by lighthouses was best administered collectively as a public good (Mill 1965, 968). A hundred years later, Ronald Coase returned to the debate over lighthouses and affirmed that it still posed a challenge to economic theory (1974). The connection between light and ideas was made by Thomas Jefferson (Peterson 1984). He famously concluded that both must be freely shared. Inventions cannot, by their very nature, be subject to exclusive private ownership. All of those statements converge in the claim that the political economy of information abides to laws different from those found in the political economy in general. This assumption was more systematically explored by the economist Fritz Machlup. He underlined the unusual properties of information:
+Being an artifact of the economic way of looking, it follows that the
+problem with non-rival goods arose at the same time as this discipline
+was staged. To the founding fathers, however, it was light rather
+than information which caught their puzzled attention. Henry Sidgwick
+observed that “the benefits of a well-placed lighthouse must be largely
+enjoyed by ships on which no toll could be conveniently imposed”
+(Sidgwick 1901, 412). John Stuart Mill concurred that the service
+provided by lighthouses was best administered collectively as a public
+good (Mill 1965, 968). A hundred years later, Ronald Coase returned to
+the debate over lighthouses and affirmed that it still posed a challenge
+to economic theory (1974). The connection between light and ideas was
+made by Thomas Jefferson (Peterson 1984). He famously concluded that
+both must be freely shared. Inventions cannot, by their very nature, be
+subject to exclusive private ownership. All of those statements converge
+in the claim that the political economy of information abides to laws
+different from those found in the political economy in general. This
+assumption was more systematically explored by the economist Fritz
+Machlup. He underlined the unusual properties of information:
+
+Al ser un artefacto de la forma de observación económica, se sigue que
+el problema de los bienes no rivales surgieron al mismo tiempo que esta
+disciplina fue puesta en escena.  Para sus padres fundacionales, sin
+embargo, la luz antes que la información fue lo que captó su
+perplejidad.  Henry Sidgwick observó que "los beneficios de un faro bien
+ubicado debe ser ampliamente disfrutado por las naves sobre las que
+ningún peaje puede ser convenientemente impuesto" [@sidgwick-1901, pp.
+412].  John Stuart Mill acordaba que el servicio provisto por los faros
+era mejor administrado colectivamente como un bien público [@mill-1965,
+pp. 968].  Cien años después, Ronald Coase regresó sobre el debate de
+los faros y afirmó que todavía suponía un desafío a la teoría económica
+[@coasen-1974].  La conexión entre luz e ideas fue hecha por Thomas
+Jefferson [@peterson-1984].  Es famosa su conclusión que ambos deben ser
+compartidos libremente.  Las invenciones no pueden, por su propia
+naturaleza, estar sujetas a la propiedad privada exclusiva.  Todas
+estas declaraciones convergen en proclamar que la economía política de
+la información se rige por leyes diferentes de las de la economía
+política en general.  Esta asunción fue sistemáticamente explorada por
+el economista Fritz Machlup.  Subrayó las propiedades inusuales de la
+información:
 
 
-”If a public or social good is defined as one that can be used by additional persons without caus-
-ing any additional cost, then knowledge is such a good of the purest type.” (Machlup 1984, 159).
+”If a public or social good is defined as one that can be used by
+additional persons without caus- ing any additional cost, then knowledge
+is such a good of the purest type.” (Machlup 1984, 159).
 
+> Si un bien público o social se define como uno que puede ser usado por
+> personas adicionales sin causar un costo adicional, entonces el
+> conocimiento es el más puro de estos bienes [@machlup-1984, pp. 159]
 
 When Stewart Brand declared that information wants to be free, he jumped on an anomaly in the economic science. Grievances about intellectual property law could now be addressed by turning the economic science against itself. It laid the foundation for the present, dominant critique of intellectual property in its innumerable variations. Despite the many garden varieties, the argument pivots around the discrepancy between endless digital resources and limited tangible resources. The non-existent marginal cost of reproducing knowledge is said to be in conflict with its treatment as a scarce property. It is for this reason intellectual property law is found guilty of the cardinal sin in the economic sciences: sub-optimal efficiency. Hence, the same judgement is passed on it as would befall any other obsolete industry or sector: it must perish. This conclusion is underlined by connecting back from time to time to economic theory. In the case of Yochai Benkler, the connection is even written out in the title of his major book: The wealth of networks (2006). It is a beautiful rhetorical move. In a world where the economic science has shaped much official discourse and human self-understanding, a self-contradiction within the same worldview becomes a powerful lever for delivering critique against status quo. With the same self-assurance as economists lay down the omnipresence of scarcity and the inescapable laws of the market, critics of intellectual property assert the non-rival nature of informational resources and its exception from those same laws.
 
