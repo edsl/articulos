@@ -764,7 +764,24 @@ y sistematizada en la disciplina económica.
 [^freebeer]: "Libre como un libertad de expresión, no como en cerveza
               libre"
 
-[^1]: Va una nota al pie acá
+[^1]: This argument has been taken one step further by libertarian critics
+of intellectual property. Instead of talking about ”intellectual
+property”, they promote the derogative term “intellectual monopoly”. The
+case against property rights can thus be refashioned as an attack on
+state regulations and market distortions (Boldrin and Levine 2008). This
+line of argument is underpinned by the old libertarian fallacy that
+private property and markets can exist independently of the state and
+its legal powers.
+
+[^1]: Este argumento ha sido llevado un paso más allá por los críticos
+_libertarian_ de la propiedad intelectual.  En lugar de hablar sobre
+"propiedad intelectual", promueven el término derogativo "monopolio
+intelectual".  El caso contra los derechos de propiedad pueden entonces
+reciclarse como un ataque a las regulaciones estatales y las
+distorsiones del mercado [@boldrin-levine-2008].  Esta línea
+argumentativa es apuntalada por la vieja falacia libertaria que la
+propiedad privada y los mercados pueden existir independientemente del
+Estado y sus poderes legales.
 
 
 [^geek]: Geek es el fanático de la tecnología.
@@ -1482,7 +1499,4 @@ Söderberg, Johan. 2013. Automating amatuers in the 3D printing community: Conne
 Terranova, Tiziana. 2000. Free Labour. Producing Culture for the Digital Economy. Social Text 18 (2): 33-57.
 Virno, Paolo. 1996. Notes on the General Intellect. In Marxism Beyond Marxism, edited by Saree Makdisi, Cesare Casarino, and Rebecca E. Karl, 265-272. London: Routledge.
 Xenos, Nicholas. 1989. Scarcity and Modernity. London: Routledge.
-
-
-1) This argument has been taken one step further by libertarian critics of intellectual property. Instead of talking about ”intellectual property”, they promote the derogative term “intellectual monopoly”. The case against property rights can thus be refashioned as an attack on state regulations and market distortions (Boldrin and Levine 2008). This line of argument is underpinned by the old libertarian fallacy that private property and markets can exist independently of the state and its legal powers.
 
