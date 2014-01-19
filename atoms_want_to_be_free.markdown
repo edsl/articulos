@@ -802,8 +802,53 @@ sentido a los datos observados.  Sin embargo, ya que ninguna forma de
 conceptualizar el mundo puede dar una explicación de la realidad última
 y exhaustiva, nuevas anomalías están destinadas a aparecer.
 
-A common denominator and key postulate in classical and neo-classical economic thinking is the omnipresence of scarcity. Because resources are limited in relation to unbounded human needs/fancies, humans act as economic, maximising agents. It is for this reason, we are told, that economic theory can make predictions about human behaviour. The economist must posit scarcity in order to see anything in the world. Scarcity is his condition for seeing, and his blind spot. To such a science, the existence of something non-rival becomes an anomaly. This phenomenon has been recognised by economists as the problem of “public goods”. Seen from inside this paradigm, public goods is something that causes market failures. By defining public goods in those terms the anomaly has not been resolved. It merely reaffirms the starting assumptions of the economic science. An example closely related to the present argument is the talk about the rise of a so-called “attention economy” (Simon 1971). The abundance of information is said to have resulted in a new scarcity, i.e. the lack of attention among audiences. Hence, the market in information is superseded by a market in attention. Abundance is here defined as a scarcity of scarcity. My point is not that non-rivalrous, abundant goods exist in the world and the economic science is flawed to the extent that it fails to acknowledge them. Rather, what is important is that the anomaly is itself a product of the economist’s particular way of looking.
+A common denominator and key postulate in classical and neo-classical
+economic thinking is the omnipresence of scarcity. Because resources
+are limited in relation to unbounded human needs/fancies, humans act
+as economic, maximising agents. It is for this reason, we are told,
+that economic theory can make predictions about human behaviour. The
+economist must posit scarcity in order to see anything in the
+world. Scarcity is his condition for seeing, and his blind spot. To
+such a science, the existence of something non-rival becomes an
+anomaly. This phenomenon has been recognised by economists as the
+problem of “public goods”. Seen from inside this paradigm, public goods
+is something that causes market failures. By defining public goods in
+those terms the anomaly has not been resolved. It merely reaffirms the
+starting assumptions of the economic science. An example closely related
+to the present argument is the talk about the rise of a so-called
+“attention economy” (Simon 1971). The abundance of information is said
+to have resulted in a new scarcity, i.e. the lack of attention among
+audiences. Hence, the market in information is superseded by a market in
+attention. Abundance is here defined as a scarcity of scarcity. My point
+is not that non-rivalrous, abundant goods exist in the world and the
+economic science is flawed to the extent that it fails to acknowledge
+them. Rather, what is important is that the anomaly is itself a product
+of the economist’s particular way of looking.
 
+Un denominador común y postulado clave en el pensamiento económico
+clásico y neoclásico es la omnipresencia de las escasez.  Ya que los
+recursos son limitados en relaciones a las necesidades y deseos
+ilimitados de los humanos, estos actúan como agentes económicos
+maximizadores.  Es por esta razón, nos dicen, que la teoría económica
+puede hacer predicciones sobre el comportamiento humano.  El economista
+debe postular la escasez para poder ver algo en el mundo.  La escasez es
+su condición para la vista y el punto ciego.  Para tal ciencia, la
+existencia de algo no rival se vuelve una anomalía.  Este fenómeno ha
+sido reconocido por los economistas como el problema de los "bienes
+públicos".  Desde este paradigma, los bienes públicos son causa de
+fallas en el mercado.  Al definir los bienes públicos en estos términos
+la anomalía no queda resuelta.  Sólo reafirma las asunciones iniciales
+de la ciencia económica.  Un ejemplo cercanamente relacionado con el
+argumento presente es la charla sobre el surgimiento de la así llamada
+"economía de la atención" [@simon-1971].  Se dice que la abundancia de
+la información ha resultado en una nueva escasez, es decir, la falta de
+atención entre las audiencias.  Por lo tanto, el mercado de la
+información es superado por un mercado de la atención.  La abundancia es
+definida como una escasez de la escasez.  Mi punto no es que los bienes
+no rivales abundantes existen en el mundo y la ciencia económica falla
+al punto de que es incapaz de reconocerlos.  Antes bien, lo que es
+importante es que la anomalía es en sí misma producto de la forma
+particular de observación del economista.
 
 Being an artifact of the economic way of looking, it follows that the problem with non-rival goods arose at the same time as this discipline was staged. To the founding fathers, however, it was light rather than information which caught their puzzled attention. Henry Sidgwick observed that “the benefits of a well-placed lighthouse must be largely enjoyed by ships on which no toll could be conveniently imposed” (Sidgwick 1901, 412). John Stuart Mill concurred that the service provided by lighthouses was best administered collectively as a public good (Mill 1965, 968). A hundred years later, Ronald Coase returned to the debate over lighthouses and affirmed that it still posed a challenge to economic theory (1974). The connection between light and ideas was made by Thomas Jefferson (Peterson 1984). He famously concluded that both must be freely shared. Inventions cannot, by their very nature, be subject to exclusive private ownership. All of those statements converge in the claim that the political economy of information abides to laws different from those found in the political economy in general. This assumption was more systematically explored by the economist Fritz Machlup. He underlined the unusual properties of information:
 
