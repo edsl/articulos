@@ -1,24 +1,92 @@
 ---
 layout: post
-title: El Manifiesto Telecomunista
-author: Dmitry Kleiner
-cover: images/tapas/manifiesto_telecomunista_a5.png
+title: "El Manifiesto Telecomunista"
+author: "Dmitry Kleiner"
+cover: "images/tapas/manifiesto_telecomunista_a5.png"
+old-slug: telekommunist_manifesto.html
 ---
 
-# El Manifiesto Telecomunista
+El Manifiesto Telecomunista
+===========================
 
-El Manifiesto Telecomunista se compone de textos extendidos y re-trabajados por
-Dmytri Kleiner, a partir de trabajos de Joanne Richardson, Brian Wyrick y
-Dmytri Kleiner, 2004-2008.
+> El Manifiesto Telecomunista se compone de textos extendidos y
+> re-trabajados por Dmytri Kleiner, a partir de trabajos de Joanne
+> Richardson, Brian Wyrick y Dmytri Kleiner, 2004-2008.
+>
+> Esta publicación se encuentra bajo la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html).  Se promueve el
+> uso comercial hecho por colectivos y trabajadores independientes que
+> trabajen en el dominio común.
+>
+> Traducido al castellano por Nicolás Reynolds
+> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
+> <mpj@endefensadelsl.org>. Correcciones por Andrea Granate y Facundo
+> Acevedo.
 
-Esta publicación se encuentra bajo la Licencia de Producción de Pares (2010).
-Se promueve el uso comercial hecho por colectivos y trabajadores independientes
-que trabajen en el dominio común.
 
-Traducido al castellano por Nicolás Reynolds <fauno@endefensadelsl.org>
-y Mauricio Pasquier Juan <mpj@endefensadelsl.org>. Correcciones por Andrea
-Granate y Facundo Acevedo.
+Licencia de Producción de Pares
+===============================
 
+Ud. es libre de
+---------------
+
+* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la
+  obra
+
+* Hacer obras derivadas
+
+Bajo las condiciones siguientes:
+--------------------------------
+
+ ![](images/by.png)
+
+ **Atribución** -- Debe reconocer los créditos de la obra de la manera
+ especificada por el autor o el licenciante (pero no de una manera que
+ sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+
+ ![](images/sa.png)
+
+ **Compartir bajo la Misma Licencia** -- Si altera o transforma esta
+ obra, o genera una obra derivada, sólo puede distribuir la obra
+ generada bajo una licencia idéntica a ésta.
+
+ ![](images/nc.png)
+
+ **No Capitalista** -- La explotación comercial de esta obra sólo
+ está permitida a cooperativas, organizaciones y colectivos sin fines
+ de lucro, a organizaciones de trabajadores autogestionados, y donde
+ no existan relaciones de explotación.  Todo excedente o plusvalía
+ obtenidos por el ejercicio de los derechos concedidos por esta Licencia
+ sobre la Obra deben ser distribuidos por y entre los trabajadores.
+
+Entendiendo que
+---------------
+
+* **Renuncia** - Alguna de estas condiciones puede no aplicarse si se obtiene
+  el permiso del titular de los derechos de autor.
+
+* **Dominio Público** - Cuando la obra o alguno de sus elementos se halle en
+  el dominio público según la ley vigente aplicable, esta situación no quedará
+  afectada por la licencia.
+
+* **Otros derechos** - Los derechos siguientes no quedan afectados por
+  la licencia de ninguna manera:
+
+    + Los derechos derivados de usos legítimos u otras limitaciones
+      reconocidas por ley no se ven afectados por lo anterior;
+
+    + Los derechos morales del autor;
+
+    + Derechos que pueden ostentar otras personas sobre la propia obra o
+      su uso, como por ejemplo derechos de imagen o de privacidad.
+
+* **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en claro
+  los términos de la licencia de esta obra.  La mejor forma de hacerlo es
+  enlazar a esta página.
+
+
+El Manifiesto Telecomunista
+===========================
 
 ## Prefacio
 
@@ -230,8 +298,6 @@ capacidades competidoras por, entre otras cosas, la comunicación y el lobby.
 Estas capacidades son, en su base, capacidades económicas. El cambio requiere
 entonces la aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
-
-![](images/gran_hermano.png)
 
 Las nuevas formas de producir y compartir, entonces, son la precondición de
 cualquier cambio en el orden social. Estos nuevos métodos de producir
@@ -466,8 +532,6 @@ en su _Sobre los principios de la economía política y los impuestos_ de
 1817 [@ricardo-1821] y esta es la base de negociación que nos encontramos todos
 aquellos que nacimos en un mundo enteramente apropiado por otros.
 
-![](images/software_libre.png)
-
 En su "Ensayo sobre los beneficios", Ricardo argumenta: "El interés del
 terrateniente siempre se opone al interés de cualquier otra clase de la
 comunidad" [@ricardo-1815]. Este análisis no se basa en los medios sociales,
@@ -590,7 +654,7 @@ aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
 y controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial[^NdT1]
+## Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -746,7 +810,7 @@ del imaginario Circo McGurkus:
 > Mis obreros aman trabajar.\
 > Dicen, "¡Trabájanos! ¡Por favor hazlo!\
 > Trabajaremos y trabajaremos tantas sorpresas\
-> ¡Que nunca verías la mitad si tuvieras cuarenta ojos!" [@seuss-1956]
+> ¡Que nunca verías la mitad aunque tuvieras cuarenta ojos!" [@seuss-1956]
 
 Y mientras el término "Web 2.0" puede no significar nada para Tim Berners-Lee,
 quien ve a las innovaciones recientes como nada más que un desarrollo
@@ -2765,38 +2829,42 @@ sino colectivos, retenemos la riqueza que creamos y por lo tanto la posibilidad
 de una sociedad nueva se pone a nuestro alcance.
 
 
-[^100]: [Manifiesto del Partido Comunista (1848)](http://www.marxists.org/espanol/m-e/1840s/48-manif.htm)
+[^100]: Manifiesto del Partido Comunista (1848).
+http://www.marxists.org/espanol/m-e/1840s/48-manif.htm
 
-[^22]: El [‘Paquete de Reformas de
-Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
-fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
-de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
-europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
-europeo para los 27 miembros.
+[^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado
+por Viviane Reding al Parlamento Europeo en Estrasburgo el
+13 de noviembre de 2007. Apunta a cambiar las Reglas de las
+Telecomunicadoras europeas de 2002. Su objetivo es unificar el
+mercado de telecomunicaciones europeo para los 27 miembros.
+http://europa.eu/rapid/press-release_IP-07-1677_es.htm
 
-[^26]: Información sobre la historia del copyright ha sido recopilada mediante
-una extensa y diversa investigación. Muchos recursos primarias pueden
-encontrarse en el archivo digital _[Primary Sources on Copyright
-(1450-1900)](http://www.copyrighthistory.com/)_ iniciado por el Consejo de
-Investigación en Artes y Humanidades del Reino Unido.
+[^26]: Información sobre la historia del copyright ha sido recopilada
+mediante una extensa y diversa investigación. Muchos recursos primarias
+pueden encontrarse en el archivo digital _Primary Sources on Copyright
+(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
+Humanidades del Reino Unido. http://www.copyrighthistory.com/
 
 [^34]: El archivo de la Internacional Situacionista y el periódico
-_Internationale Situationniste_ pueden leerse en el sitio [Situationist
-International Online](http://www.cddc.vt.edu/sionline/index.html)
+_Internationale Situationniste_ pueden leerse en el sitio Situationist
+International Online: http://www.cddc.vt.edu/sionline/index.html
 
-[^36]: [Free Software Foundation](http://fsf.org)
+[^36]: [Free Software Foundation](http://fsf.org). http://fsf.org
 
-[^NdT1]: NdT: Trapped in the World Wide Web en el original. Web puede traducirse
-tanto por red como por telaraña.
-
-[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer creer a
-un grupo de personas que algo falso es real. En el idioma castellano el término
-se popularizó principalmente al referirse a engaños masivos por medios
-electrónicos (especialmente Internet).  [Ver](https://es.wikipedia.org/wiki/Bulo)
+[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer
+creer a un grupo de personas que algo falso es real. En el idioma
+castellano el término se popularizó principalmente al referirse a
+engaños masivos por medios electrónicos (especialmente Internet).
+https://es.wikipedia.org/wiki/Bulo
 
 [^NdT3]: NdT: Détournement es un concepto surgido dentro del movimiento
-situacionista que habla sobre la posibilidad artística y política de tomar
-algún objeto creado por el capitalismo o el sistema político hegemónico
-y distorsionar su significado y uso original para producir un efecto crítico.
-Una palabra parecida en español es tergiversación.
-[Ver](https://es.wikipedia.org/wiki/Detournement)
+situacionista que habla sobre la posibilidad artística y política de
+tomar algún objeto creado por el capitalismo o el sistema político
+hegemónico y distorsionar su significado y uso original para producir
+un efecto crítico.  Una palabra parecida en español es tergiversación.
+https://es.wikipedia.org/wiki/Detournement
+
+
+## Bibliografía
+
+

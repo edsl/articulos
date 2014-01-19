@@ -1,8 +1,8 @@
 ---
 layout: post
-author: Dmytri Kleiner
-title: El comunismo de pares contra el estado capitalista cliente-servidor
-cover: images/cover_endefensadelsl_nr1.png
+author: "Dmytri Kleiner"
+title: "El comunismo de pares contra el estado capitalista cliente-servidor"
+cover: "images/cover_endefensadelsl_nr1.png"
 ---
 
 El comunismo de pares contra el estado capitalista cliente-servidor
@@ -447,7 +447,7 @@ aplicaciones cliente-servidor se han vuelto centrales y cada vez más median
 y controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial[^NdT1]
+## Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre usuarios.
@@ -1137,11 +1137,15 @@ construcción de una sociedad sin clases, una sociedad de iguales.
 Tienen un mundo por ganar.
 
 
-## Notas
 [^22]: El [‘Paquete de Reformas de
 Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
 fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
 de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
 europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
 europeo para los 27 miembros.
+
+
+
+## Bibliografía
+
 

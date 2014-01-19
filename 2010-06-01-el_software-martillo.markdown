@@ -1,25 +1,29 @@
 ---
 layout: post
-title: El Software-martillo
-author: Nicolás Reynolds
-cover: images/cover_endefensadelsl_nr0.png
+title: "El Software-martillo"
+author: "Nicolás Reynolds"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
 
-# El Software-martillo [^0]
+El Software-martillo
+====================
+
+> Este artículo se libera bajo la licencia CC-BY-SA [@cc-by-sa-ar]
 
 ## Introducción
 
-El Software Libre surge como movimiento hace alrededor de 25 años, como
-continuación de una práctica de producción de software que estaba
+El Software Libre surge como movimiento hace alrededor de 25 años,
+como continuación de una práctica de producción de software que estaba
 desapareciendo desde los '70s. Era un momento en el cual los primeros
-hackers[^1] informáticos empezaban a convertirse en comerciantes de software y,
-por lo tanto, dejaban de compartir sus creaciones en forma de código fuente de
-programas de computadora.
+hackers[^1] informáticos empezaban a convertirse en comerciantes de
+software y, por lo tanto, dejaban de compartir sus creaciones en forma
+de código fuente de programas de computadora.
 
-La utilización de dispositivos legales en la forma de licencias libres que
-revierten los efectos del copyright –transformándolo en _copyleft_– ha
-permitido introducir en la lógica de producción de software una ética de
-cooperación cuyos alcances sociales a gran escala apenas empiezan a entreverse.
+La utilización de dispositivos legales en la forma de licencias libres
+que revierten los efectos del copyright –transformándolo en _copyleft_–
+ha permitido introducir en la lógica de producción de software una ética
+de cooperación cuyos alcances sociales a gran escala apenas empiezan a
+entreverse.
 
 La adopción de Software Libre por parte de empresas, dependencias estatales
 e individuos para sus computadoras personales contradice los monopolios del
@@ -222,7 +226,6 @@ y necesidades de las personas. En la praxis hacker, se trata de arreglar los
 problemas, como si se tratara de un _bug_, o como propone el título del libro
 de Söderberg, _hackear al capitalismo_.
 
-[^0]: Este artículo se libera bajo la licencia CC-BY-SA [@cc-by-sa-ar]
 
 [^1]: El sentido correcto del término no es ni pirata ni criminal informático.
 _Hacker_ es todo aquel que utiliza su creatividad para resolver un problema de
@@ -257,3 +260,8 @@ GNU/Linux para uso del Ejército Nacional.
 
 [^7]: "Si mi vecino puede prohibir los símbolos que no le gustan, ¿por qué no
 puedo hacer lo mismo?"
+
+
+## Bibliografía
+
+

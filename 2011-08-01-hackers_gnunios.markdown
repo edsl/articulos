@@ -1,12 +1,21 @@
 ---
 layout: post
-author: Johan Söderberg
+author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
-cover: images/cover_endefensadelsl_nr0.png
+cover: "images/cover_endefensadelsl_nr0.png"
+old-slug: hg.html
 ---
 
-¡Hackers GNUníos! [^0]
-======================
+¡Hackers GNUníos!
+=================
+
+> Este artículo es la traducción al castellano de "Hackers GNUnited!",
+> publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
+> encontrarse en [http://freebeer.fscons.org][0]. Traducción por Nicolás
+> Reynolds <fauno@endefensadelsl.org>, revisión y correcciones por
+> Leonardo G. De Luca, agosto, 2010. Este artículo y el original están
+> licenciados bajo Creative Commons Atribución-CompartirIgual 2.5
+> [@cc-by-sa]
 
 ## La izquierda política y la política de los hackers
 
@@ -53,7 +62,7 @@ eficiente de organizar la producción en el futuro [@gnunited-moglen99]. El
 estudioso de los medios Richard Barbrook razonaba en forma similar cuando
 desbancaba el hype acerca de los 'mercados libres en el ciberespacio' creado en
 los '90. En su lugar presentó su propia visión de una economía anarquista del
-don de alta tecnología.[^1]. El impulso a dar se genera automáticamente del
+don de alta tecnología [^1]. El impulso a dar se genera automáticamente del
 hecho de que en Internet la gente tiene un interés propio en compartir
 información libremente antes que comercializarla en un
 mercado [@gnunited-barbrook02]. Podría decirse que el surgimiento de Napster
@@ -692,13 +701,6 @@ Widerkrantz y Don Williams, por sus comentarios constructivos a los borradores
 de este artículo.
 
 
-[^0]: Este artículo es la traducción al castellano de "Hackers GNUnited!",
-publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
-encontrarse en [http://freebeer.fscons.org][0]. Traducción por Nicolás Reynolds
-<fauno@kiwwwi.com.ar>, revisión y correcciones por Leonardo G. De Luca, agosto,
-2010. Este artículo y el original están licenciados bajo [Creative Commons
-Atribución-CompartirIgual 2.5][1]
-
 [^1]: NdT: traduzco "gift economy" por economía del don ya que es el término
 más extendido en castellano, y podría decirse más exhaustivo que "regalo". Ver
 Ensayo sobre el don, de M. Mauss, y El enigma del don, de M. Godelier.
@@ -725,3 +727,8 @@ la asociación a otras formas de propiedad está enteramente justificada.
 
 [0]: http://freebeer.fscons.org "Free Beer"
 [1]: http://creativecommons.orglicensesby-sa2.5 "CC-BY-SA"
+
+
+## Bibliografía
+
+
