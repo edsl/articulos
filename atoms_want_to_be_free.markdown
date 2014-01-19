@@ -449,10 +449,72 @@ entonces un mundo entero ha sido construido alrededor de esta noción de
 información para hacerlo funcionar de la forma en que fue concebido
 originalmente.
 
-Of course, and in spite of the efforts to the contrary, the creation, transmission and operationalisation of information remain situated, embodied events that cannot be completely divorced from meaning making. Although it can be relevant for other reasons to distinguish between knowledge and information, as many cultural critics have done, the two are not antithetical in the sense that one carries meaning and the other does not (Malik 2005). The setting apart of information from the material substrate in which it inevitably is inscribed should be recognised as a cultural invention. From it has followed notions about ”cyberspace” and ”virtual reality”. In the 1990s, the Internet was customarily depicted as a disembodied realm of information flows. The attractiveness of this idea can partly be explained by that it drew strength from a millennial-old dualism in philosophical thinking, sometimes spoken of as an opposition between form and matter, other times as mind and body, and so on (Hayles 1994; Fuchs 2003). In the new media studies literature, variations upon this dualism have been equally prolific. For instance, the same opposition tends to resurface when the ”virtual community” is contrasted with real, geographically bounded communities (for a critique: Proulx and Latzko-Toth , 2005). Among legal scholars, a parallel discussion has raged if the virtual worlds constitute a separate jurisdiction requiring unique laws (Lastowka and Hunter 2004).
+Of course, and in spite of the efforts to the contrary, the creation,
+transmission and operationalisation of information remain situated,
+embodied events that cannot be completely divorced from meaning
+making. Although it can be relevant for other reasons to distinguish
+between knowledge and information, as many cultural critics have done,
+the two are not antithetical in the sense that one carries meaning and
+the other does not (Malik 2005). The setting apart of information from
+the material substrate in which it inevitably is inscribed should be
+recognised as a cultural invention. From it has followed notions about
+”cyberspace” and ”virtual reality”. In the 1990s, the Internet was
+customarily depicted as a disembodied realm of information flows. The
+attractiveness of this idea can partly be explained by that it drew
+strength from a millennial-old dualism in philosophical thinking,
+sometimes spoken of as an opposition between form and matter, other
+times as mind and body, and so on (Hayles 1994; Fuchs 2003). In the new
+media studies literature, variations upon this dualism have been equally
+prolific. For instance, the same opposition tends to resurface when the
+”virtual community” is contrasted with real, geographically bounded
+communities (for a critique: Proulx and Latzko-Toth , 2005). Among
+legal scholars, a parallel discussion has raged if the virtual worlds
+constitute a separate jurisdiction requiring unique laws (Lastowka and
+Hunter 2004).
 
+Por supuesto, y a pesar de las esfuerzos en contra, la creación,
+transmisión y operacionalización de información permaneció situada e
+incorporó eventos que no pueden quedar completamente divorciados de la
+creación de significado.  Aunque puede ser relevante por otras razones
+distinguir entre conocimiento e información, como muchos críticos
+culturales han hecho, ambos no son antitéticos en el sentido que uno
+lleve significado y el otro no [@malik-2005].  La separación de la
+información del sustrato material en el cual es inevitablemente inscrita
+debe ser reconocida como una invención cultural.  A partir de ella se
+han seguido nociones sobre el "ciberespacio" y la "realidad virtual".
+En los '90, la Internet era habitualmente pintada como un reino
+incorpóreo de flujos de información.  La atracción de esta idea puede
+ser explicada parcialmente porque tomaba fuerza del milenario dualismo
+del pensamiento filosófico, a veces referenciado como una oposición
+entre forma y materia, otras como mente y cuerpo y así [@hayles-1994;
+@fuchs-2003].  En la literatura de los nuevos estudios de medios han
+proliferado variantes de este dualismo.  Por ejemplo, la misma oposición
+tiende a resurgir cuando la "comunidad virtual" es contrastada con las
+comunidades reales, delimitadas geográficamente (para una crítica, ver
+Proulx y Latzko-Toth [-@proulx-latzko-2005])  Entre los académicos legales, una
+discusión paralela ha surgido sobre si los mundos virtuales constituyen
+una jurisdicción separada que requiere leyes únicas
+[@lastowska-hunter-2004].
 
-The notion of cyberspace as a disembodied realm of information exchange has come under sustained critique from feminists and cultural scholars. Instead of reiterating those critiques one more time, I would like to redeem the counterposition, although flawed it may be. One should keep in mind that the positing of a transcendental Beyond has often in history served as a point for critique and opposition to that which exists. Some examples include a kingdom of heaven, natural rights and technological (or historical) determinism. Perry Barlow's now infamous declaration of independence of cyberspace could rightfully be considered as a continuation of this long, potentially critical and emancipatory, tradition. Indeed, the declaration would have been pointless to Barlow had he not thought that cyberspace would bleed into and change the states of the industrial world (Barlow 1996). The lesson is the following: The moment something (information, cyberspace, etc.) is posited as a separate Beyond vis-à-vis its surroundings, it has already spilled over that boundary and begun to affect the ”outside”. The same strategy is adopted by the adversaries of the current intellectual property regime when they adopt the information exceptionalism hypothesis.
+The notion of cyberspace as a disembodied realm of information
+exchange has come under sustained critique from feminists and cultural
+scholars. Instead of reiterating those critiques one more time, I would
+like to redeem the counterposition, although flawed it may be. One
+should keep in mind that the positing of a transcendental Beyond has
+often in history served as a point for critique and opposition to
+that which exists. Some examples include a kingdom of heaven, natural
+rights and technological (or historical) determinism. Perry Barlow's
+now infamous declaration of independence of cyberspace could rightfully
+be considered as a continuation of this long, potentially critical
+and emancipatory, tradition. Indeed, the declaration would have been
+pointless to Barlow had he not thought that cyberspace would bleed
+into and change the states of the industrial world (Barlow 1996). The
+lesson is the following: The moment something (information, cyberspace,
+etc.) is posited as a separate Beyond vis-à-vis its surroundings,
+it has already spilled over that boundary and begun to affect the
+”outside”. The same strategy is adopted by the adversaries of the
+current intellectual property regime when they adopt the information
+exceptionalism hypothesis.
 
 
 The observation above can be further elaborated on by borrowing two popular terms from the science studies literature, boundary work and boundary objects. The first term was proposed by Thomas Gieryn. He used it to describe how science is separated from non-science by the efforts of scientists to uphold their professional status against amateur scientists and religious contenders. The lesson worth emphasising in the context of the present argument is that the boundary is not naturally given. It does not exist independently of the practitioners' whereabouts. The boundary has to be perpetually maintained, defended and re-negotiated (Gieryn 1983). The second term was introduced by Susan Leigh Star and James Griesemer. Their contribution consisted in treating the boundary not merely as a marker of difference but equally as an interface enabling communication across heterogeneous, scientific communities. The boundary object was plastic enough to adapt to local needs, while robust enough to maintain a common identity across different sites (Star and Griesemer 1989; Lamont and Molnár 2002). The original definition of boundary work does not match perfectly onto the information exceptionalism hypothesis outlined above, but it does a good enough job to bring home my key point. The boundary between informational resources and physical goods is not a given. It must be upheld through continuous work. The exceptionalism of information and the separateness of the virtual realm constitute the boundary object of the campaigners for information commons.
