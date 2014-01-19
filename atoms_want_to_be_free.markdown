@@ -126,10 +126,89 @@ directamente desde los objetos físicos.
 
 [^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
 
-The proposition that the 3D printer/scanner will make physical goods copyable just as software code is open to challenge. The claim has a fleeting resemblance with what the actually existing machine can do. Here I will leave aside the technical objections that one may want to raise against this idea (cf. Söderberg, 2013). My concern in the present paper is with the imaginary that propels the development of the home-built technology in one or the other direction. The chief merit of the open source 3D printer is that it introduces a narrative where ”bits” and ”atoms” converge. The convergence is destabilising for a number of disciplinary boundaries and associated theories within the academy. The study of new media and communication is pulled into a larger circuit of production, commodification and labour relations. Differently put, the old critique of political economy reassert itself over the former, not-so-new-anymore subject field. In the paper I set out to mobilise the political economy analysis against the predominant critique of intellectual property. The convergence goes to show that there are no hard lines between private property ownership (over atoms) and intellectual property ownership (over bits/ideas). The exceptionalism claimed for information vis-à-vis physical goods, by practitioners and scholars alike, is the shaky ground upon which the house of intellectual property critique has been built. In what follows, I suggest that this argument draws on the limited self-understanding of free software/open source advocates, combined with the limited theoretical presumptions of the classical, and, to some extent, neo-classical economic paradigm. Briefly stated, this limit comes from a naturalistic understanding of private property.
+The proposition that the 3D printer/scanner will make physical goods
+copyable just as software code is open to challenge. The claim has
+a fleeting resemblance with what the actually existing machine can
+do. Here I will leave aside the technical objections that one may want
+to raise against this idea (cf. Söderberg, 2013). My concern in the
+present paper is with the imaginary that propels the development of
+the home-built technology in one or the other direction. The chief
+merit of the open source 3D printer is that it introduces a narrative
+where ”bits” and ”atoms” converge. The convergence is destabilising
+for a number of disciplinary boundaries and associated theories within
+the academy. The study of new media and communication is pulled
+into a larger circuit of production, commodification and labour
+relations. Differently put, the old critique of political economy
+reassert itself over the former, not-so-new-anymore subject field. In
+the paper I set out to mobilise the political economy analysis against
+the predominant critique of intellectual property. The convergence goes
+to show that there are no hard lines between private property ownership
+(over atoms) and intellectual property ownership (over bits/ideas). The
+exceptionalism claimed for information vis-à-vis physical goods, by
+practitioners and scholars alike, is the shaky ground upon which the
+house of intellectual property critique has been built. In what follows,
+I suggest that this argument draws on the limited self-understanding
+of free software/open source advocates, combined with the limited
+theoretical presumptions of the classical, and, to some extent,
+neo-classical economic paradigm. Briefly stated, this limit comes from a
+naturalistic understanding of private property.
 
+La propuesta donde el escaneo y la impresión tridimensionales harán a
+los bienes físicos copiables como el código de software está abierta a
+desafío.  Existe una semejanza fugaz con lo que la máquina existente
+puede realmente hacer.  Aquí voy a dejar de lado las objeciones técnicas
+que uno pueda tener sobre esta idea [@soderberg-2013].  Mi preocupación
+en este artículo es sobre el imaginario que impulsa el desarrollo de la
+tecnología construída en casa en una u otra dirección.  El mérito
+principal de la impresora tridimensional libre es que introduce una
+narrativa donde convergen los "átomos" con los "bits".  Esta
+convergencia es desestabilizadora para un número de límites
+disciplinarios y teorías asociadas dentro de la academia.  El estudios
+de los nuevos medios y la comunicación está asociado dentro de un
+circuito más amplio de producción, _comodificación_ y relaciones
+laborales.  Puesto de otra manera, la vieja crítica de la economía
+política se reafirmar sobre el no-tan-nuevo campo subjetivo.  En este
+artículo intento movilizar el análisis de la economía política contra la
+crítica predominante de la propiedad intelectual.  La convergencia
+muestra que no hay límites duros entre la propiedad privada (sobre
+átomos) y la propiedad intelectual (sobre bits o ideas).  El
+excepcionalismo de la información frente a los bienes físicos,
+proclamado tanto por practicantes como por académicos, es la base no tan
+firme sobre la que se ha construido la crítica de la propiedad
+intelectual.  A continuación, sugiero que este argumento descansa sobre
+el limitado auto-entendimiento de los militantes del Software Libre y el
+Código Abierto, combinado con las limitadas presunciones teoréticas del
+paradigma económico clásico y hasta cierto punto, neo-clásico.  En
+resumen, este límite proviene de la naturalización de la propiedad
+privada.
 
-When hackers and hobbyists shift their attention from (proprietary) software to (closed) hardware, the industrial economy as a whole becomes implicated in their critique of intellectual property. Intellectual property is put on an equal footing with private property. To followers of the open source 3D printer, this is perceived as a push-back against vested interests and intellectual property advocates. But the decision by hackers and hobbyists to open a new front in the struggle against intellectual property could be given an alternative interpretation. It might reflect developments that are taking place in the property regime at large. According to such an interpretation, intellectual property, far from being rendered obsolete by recent, technological advances, stands to become the dominant form of property everywhere. Tangible, physical goods will not be spared from the most offensive traits of intellectual property, such as intricate schemes of price discrimination and digitial rights management techniques. In addition to the 3D-printer and other digital fabrication tools, the rise of the so-called ”Internet-of-things” and ”augmented reality” points in the same direction: a bleeding-out from the virtual and informational realm to physical, embodied existence. Corresponding with this movement, one can foresee a future where ownership, market exchanges, rent extraction and labour relations are regulated through what I elect to call “augmented property”. The push towards augmented property demonstrates that naturalism has been abandoned by the most advanced section of the capitalist party, i,e, the Neo-liberal Thought Collective (cf. Mirowski, 2013). Here the constructivist lesson has been embraced because it holds out the promise that property and markets can be constructed 'all the way down'.
+When hackers and hobbyists shift their attention from (proprietary)
+software to (closed) hardware, the industrial economy as a whole becomes
+implicated in their critique of intellectual property. Intellectual
+property is put on an equal footing with private property. To followers
+of the open source 3D printer, this is perceived as a push-back
+against vested interests and intellectual property advocates. But
+the decision by hackers and hobbyists to open a new front in the
+struggle against intellectual property could be given an alternative
+interpretation. It might reflect developments that are taking place
+in the property regime at large. According to such an interpretation,
+intellectual property, far from being rendered obsolete by recent,
+technological advances, stands to become the dominant form of property
+everywhere. Tangible, physical goods will not be spared from the most
+offensive traits of intellectual property, such as intricate schemes
+of price discrimination and digitial rights management techniques. In
+addition to the 3D-printer and other digital fabrication tools, the
+rise of the so-called ”Internet-of-things” and ”augmented reality”
+points in the same direction: a bleeding-out from the virtual and
+informational realm to physical, embodied existence. Corresponding
+with this movement, one can foresee a future where ownership, market
+exchanges, rent extraction and labour relations are regulated through
+what I elect to call “augmented property”. The push towards augmented
+property demonstrates that naturalism has been abandoned by the most
+advanced section of the capitalist party, i,e, the Neo-liberal Thought
+Collective (cf. Mirowski, 2013). Here the constructivist lesson has been
+embraced because it holds out the promise that property and markets can
+be constructed 'all the way down'.
 
 
 
