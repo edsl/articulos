@@ -210,7 +210,35 @@ Collective (cf. Mirowski, 2013). Here the constructivist lesson has been
 embraced because it holds out the promise that property and markets can
 be constructed 'all the way down'.
 
-
+Cuando los hackers y hobbistas mudan su atención del software
+(privativo) hacia el hardware (cerrado), la economía industrial como un
+todo resulta implicada en su crítica de la propiedad intelectual.  La
+propiedad intelectual es puesta en igualdad de condiciones que la
+propiedad privada.  Para los seguidores de la impresora tridimensional
+libre, esto es percibido como un retroceso de los intereses creados y
+los defensores de la propiedad intelectual.  Pero la decisión de hackers
+y hobbistas de abrir un nuevo frente en la lucha contra la propiedad
+intelectual puede tener una interpretación diferente.  Puede reflejar
+los desarrollos que se están dando en el régimen de propiedad en su
+conjunto.  De acuerdo a esta interpretación, la propiedad intelectual,
+lejos de volverse obsoleta por los avances tecnológicos recientes,
+comienza a convertirse en la forma predominante de propiedad.  Los
+bienes físicos, tangibles, no serán salvados por rasgos ofensivos de la
+propiedad intelectual, como los intrincados esquemas de discriminación
+de precios y las técnicas de restricción digital de derechos.
+Adicionalmente a la impresora tridimensional y otras herramientas
+digitales de fabricación, el surgimiento de la así llamada "Internet de
+las Cosas" y la "realidad aumentada" apunta en la misma dirección: un
+desangramiento del ámbito virtual e informacional hacia la existencia
+física, corpórea.  En correspondencia a este movimiento, uno podría
+prever un futuro donde la propiedad, los intercambios de mercado, la
+extración de rentas y las relaciones laborales sean regulados a través
+de lo que elijo llamar "propiedad aumentada".  El empuje hacia la
+propiedad aumentada demuestra que la naturalización ha sido abandonada
+por la sección más avanzada del partido capitalista, es decir el
+Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La lección
+constructivista ha sido abrazada porque sostiene la premisa que la
+propiedad y los mercados pueden ser construidos "hasta abajo".
 
 The two sources of the predominant critique of intellectual property
 In the early 1980s, copyright law was extended in most Western countries, from literary and artistic works to machine-readable language, i.e. software code. Corresponding with the expansion of the property regime, resistance to the same came into being. It was now that Richard Stallman invented the concept of free software and created a license to go with it. The General Public License (GPL) exploited the contractual rights invested in the author of a copyrighted work to specify the conditions of how his/her work may be used. The conditions laid down in GPL ensured public access to a work by ”excluding the excluders”. The rhetorical armament against intellectual property was worked out in the same decade. Stewart Brand, publisher of the Whole Earth Catalogue, veteran of the American counter-culture movement in the 1960s, and a pioneer of the computer underground, articulated the key tenets of what later became the predominant critique against intellectual property:
