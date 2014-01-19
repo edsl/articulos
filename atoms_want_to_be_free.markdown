@@ -1147,14 +1147,59 @@ esta última descripción es que permite un estilo más dinámico de
 razonamiento.  Una realidad empírica dada puede ser estudiada como una
 transición en su desarrollo.
 
-The advantages of the latter approach is plain to see when the object of study is technological change and creative destruction. The convergence of hardware and software is a case in point. This trend was working its way long before the surge of home-made, open source 3D printers forced the issue. A case in point is field-programmable circuits, widely used in the computer industry since more than a decade. The circuits are manufactured in such a way that the final design can be reprogrammed at a later date, as if it was software code. Needless to say, we owe the existence of field-programmable circuits to something more than the innate trajectory of scientific and technological progress. A testimony from an industry leader in the 1990s, anticipating the increased use of field-programmable circuits, makes this point succinctly:
+The advantages of the latter approach is plain to see when the object of
+study is technological change and creative destruction. The convergence
+of hardware and software is a case in point. This trend was working its
+way long before the surge of home-made, open source 3D printers forced
+the issue. A case in point is field-programmable circuits, widely used
+in the computer industry since more than a decade. The circuits are
+manufactured in such a way that the final design can be reprogrammed
+at a later date, as if it was software code. Needless to say, we owe
+the existence of field-programmable circuits to something more than the
+innate trajectory of scientific and technological progress. A testimony
+from an industry leader in the 1990s, anticipating the increased use of
+field-programmable circuits, makes this point succinctly:
 
+Las ventajas de este abordaje se ven cuando el objeto de estudio es el
+cambio tecnológico y la destrucción creativa.  La convergencia de
+hardware y software es un caso en cuestión.  Esta tendencia se estaba
+abriendo paso mucho antes que la aparición de las impresoras
+tridimensionales hogareñas forzara el problema.  Un caso son los
+circuitos de campo programable, que ya habían sido utilizados en la
+industria computacional por más de una década.  Los circuitos son
+manufacturados de forma tal que el diseño final puede ser reprogramado
+más tarde, como si se tratara de código de software.  No es necesario
+decir que le debemos la existencia de los circuitos de campo programable
+a algo más que la innata trayectoria del progreso científico y
+tecnológico.  Un testimonio de un líder industrial en los '90,
+anticipando el incremento en el uso de estos circuitos, afirma este
+punto sucintamente:
 
-"Our edge is that we can use easily available programming skills to do what previously required expensive and hard-to-recruit chip designers" (Gibson 1999, 38).
+"Our edge is that we can use easily available programming skills to do
+what previously required expensive and hard-to-recruit chip designers"
+(Gibson 1999, 38).
 
+> Nuestra ventaja es que podemos utilizar capacidades de programación
+> fácilmente encontrables para hacer lo que antes necesitaba de
+> diseñadores de chips caros y díficiles de reclutar [@gibson-1999, pp.
+> 38].
 
-Both the abstract, mathematical definition of information famously stipulated by Claude Shannon, which later underpinned the many claims about cyberspace as a realm detached from physical, embodied existence, and the latest narrative where the two realms converge again, should be located in a larger circuit of production, commodification and labour relations. That is to say, intellectual property needs to be analysed from the vantage point of a critique of the political economy.
+Both the abstract, mathematical definition of information famously
+stipulated by Claude Shannon, which later underpinned the many claims
+about cyberspace as a realm detached from physical, embodied existence,
+and the latest narrative where the two realms converge again, should be
+located in a larger circuit of production, commodification and labour
+relations. That is to say, intellectual property needs to be analysed
+from the vantage point of a critique of the political economy.
 
+Tanto la definición de información abstracta, matemática, estipulada por
+Claude Shannon, que luego apuntalara las muchas proclamas del
+ciberespacio como un reino independiente de la existencia física,
+corpórea, como la última narrativa donde los dos reinos vuelven a
+converger deben localizarse en un circuito más amplio de producción,
+mercantilización y relaciones de trabajo.  Es decir, la propiedad
+intelectual necesita ser analizada desde el punto panorámico de la
+crítica de la economía política.
 
 Conclusion
 In the article, I have questioned the information exceptionalism hypothesis, upon which the predominant critique against intellectual property rests. This critique has been cut out from the same cloth as the economic discipline. Neo-classical economic theory, the dominant tendency within economics, is not an academic pursuit like any other. It is a feedstock of hegemonic thought and as such a material force, rewriting the world according to its own abstractions. In order to make any prediction about the economy, neo-classical theory must first postulate the omnipresence of scarcity. Scarcity is a condition for seeing, and, subsequently, the constitutive, blind angle of this 'scientific paradigm'. It is this anomaly that critics of intellectual property exploit when they talk about the exceptionality of non-rival information goods. The irony of the reversal is easy enough to appreciate. The rationale for having intellectual property is overthrown from within the citadel of property. The liturgy of free markets is being chanted in praise of information commons. The price to pay, however, is that the blind spot of the economic discipline is duly reproduced in the critique of intellectual property. This is evident from the works of Lawrence Lessig and Yochai Benkler, as well as in the thinking of many hackers and hobbyists. It is not sufficient to criticise the intellectual flaws of this narrative without also recognising how practitioners make it work for them when they engage in boundary work. A case in point is the distinction between “free speech” and “free beer”. When advocates of free software insists on this boundary, they present themselves as strictly advocating civil rights issues, while exempting a critique of ownership, markets and wealth distribution from their openly declared opposition to intellectual property rights.
