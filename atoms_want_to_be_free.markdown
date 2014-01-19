@@ -389,8 +389,65 @@ esto en la segunda mitad del texto y por lo tanto a la crítica de Dan
 Schiller.  Primero necesito historizar la comprensión heredada sobre lo
 que es la información.
 
-The process in which ”information” was defined and constructed has been extensively debated in the social sciences. I have little to add to this debate, but I will give some pointers to it in order to arrive at the argument that I want to put forward here. As is well known, Claude Shannon's seminal article A Mathematical Theory of Communication from 1948 was key in defining the dominant conceptualisation of information (Shannon 1948). He sought to define information in terms of codification and transmission of messages. In other words, as signals indifferent to the meaning that they convey to the receiver. As Rafael Capurro has argued, this marked a watershed compared to how information had been understood in previous ages, going all the way back to the days of the Greeks and Romans. The concept of information used to have a broader meaning than ”sending messages”. It implied the act of giving form to something, such as knowledge or the human mind. This in turn implied a context dependent language and meaning creation (Capurro 2009). It is no accident that context and meaning was taken out of the equation by Shannon. Katherine Hayles has shown how his definition answered to the needs of an ascending techno-scientific industry. The industry wanted a definition that allowed reliable quantifications. Competing definitions was proposed at the time, according to which information and its content were treated as part of an inseparable whole. To assess ”information as meaning”, however, would require some means of measuring what had changed in the head of the recipient. It was such practical considerations, which persuaded the scientific community to side with a narrow, mathematical, and decontextualised definition of information (Hayles 1999). A whole world has since been erected around this notion of information in order to make it work the way it was originally conceived.
+The process in which ”information” was defined and constructed has been
+extensively debated in the social sciences. I have little to add to
+this debate, but I will give some pointers to it in order to arrive at
+the argument that I want to put forward here. As is well known, Claude
+Shannon's seminal article A Mathematical Theory of Communication from
+1948 was key in defining the dominant conceptualisation of information
+(Shannon 1948). He sought to define information in terms of codification
+and transmission of messages. In other words, as signals indifferent
+to the meaning that they convey to the receiver. As Rafael Capurro has
+argued, this marked a watershed compared to how information had been
+understood in previous ages, going all the way back to the days of the
+Greeks and Romans. The concept of information used to have a broader
+meaning than ”sending messages”. It implied the act of giving form to
+something, such as knowledge or the human mind. This in turn implied
+a context dependent language and meaning creation (Capurro 2009). It
+is no accident that context and meaning was taken out of the equation
+by Shannon. Katherine Hayles has shown how his definition answered to
+the needs of an ascending techno-scientific industry. The industry
+wanted a definition that allowed reliable quantifications. Competing
+definitions was proposed at the time, according to which information
+and its content were treated as part of an inseparable whole. To assess
+”information as meaning”, however, would require some means of measuring
+what had changed in the head of the recipient. It was such practical
+considerations, which persuaded the scientific community to side with
+a narrow, mathematical, and decontextualised definition of information
+(Hayles 1999). A whole world has since been erected around this notion
+of information in order to make it work the way it was originally
+conceived.
 
+El proceso por el cual la "información" es definida y construida ha sido
+un debate extenso en las ciencias sociales.  Tengo muy poco que agregar
+a este debate, pero daré algunos indicios sobre este para poder llegar
+al argumento que intento llevar a cabo.  Como es bien sabido, el
+artículo seminal de Claude Shannon _Una teoría matemática de la
+comunicación_ de 1948 fue clave para definir la conceptualización
+dominante de la información [@shannon-1948].  Él buscó definir la
+información en términos de codificación y transmisión de mensajes.  En
+otras palabras, como señales indiferentes al significado que el receptor
+les otorga.  Como argumentó Rafael Capurro, esto hizo una marca en la
+forma en cómo era entendida la información en épocas anteriores,
+llegando hasta los días de los griegos y los romanos.  El concepto de
+información tenía un significado más amplio que "enviar mensajes".
+Implicaba el acto de dar forma a algo, como el conocimiento o la mente
+humana.  Esto implicaba un contexto que dependía del lenguaje y la
+creación de significado [@capurro-2009].  No es accidental que contexto
+y significado fueron sacados de la ecuación por Shannon.  Katherine
+Hayles ha demostrado cómo su definición respondía a las necesidades de
+una industria tecnocientífica en ascenso.  La industria necesitaba una
+definición que le permitiera cuantificaciones confiables.  Varias
+definiciones fueron propuestas en ese momento, de acuerdo a las cuales
+la información y su contenido eran tratadas como partes de un todo
+inseparable.  Tomar este "información como significado", requería sin
+embargo algún medio de medir qué había cambiado en la cabeza del
+receptor.  Fueron las consideraciones prácticas las que persuadieron a
+la comunidad científica de quedarse con una definición estrecha,
+matemática y descontextualizada de la información [@hayles-1999].  Desde
+entonces un mundo entero ha sido construido alrededor de esta noción de
+información para hacerlo funcionar de la forma en que fue concebido
+originalmente.
 
 Of course, and in spite of the efforts to the contrary, the creation, transmission and operationalisation of information remain situated, embodied events that cannot be completely divorced from meaning making. Although it can be relevant for other reasons to distinguish between knowledge and information, as many cultural critics have done, the two are not antithetical in the sense that one carries meaning and the other does not (Malik 2005). The setting apart of information from the material substrate in which it inevitably is inscribed should be recognised as a cultural invention. From it has followed notions about ”cyberspace” and ”virtual reality”. In the 1990s, the Internet was customarily depicted as a disembodied realm of information flows. The attractiveness of this idea can partly be explained by that it drew strength from a millennial-old dualism in philosophical thinking, sometimes spoken of as an opposition between form and matter, other times as mind and body, and so on (Hayles 1994; Fuchs 2003). In the new media studies literature, variations upon this dualism have been equally prolific. For instance, the same opposition tends to resurface when the ”virtual community” is contrasted with real, geographically bounded communities (for a critique: Proulx and Latzko-Toth , 2005). Among legal scholars, a parallel discussion has raged if the virtual worlds constitute a separate jurisdiction requiring unique laws (Lastowka and Hunter 2004).
 
