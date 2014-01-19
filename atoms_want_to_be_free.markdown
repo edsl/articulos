@@ -641,11 +641,41 @@ therefore in the nature of how the resource is supplied" (Lessig 2001,
 > provisto [@lessig-2001].
 
 
-It is in the nature of informational, non-rival resources to be organised in a commons. In the same vein, rival, tangible resources are thought of as suited for markets. It is the nature of the resource which determines if a product is rival or non-rival. While intellectual property is said to create scarcity, traditional property is assumed to be grounded in objectively existing limitations in the real world. By implication, ownership of tangible, rival goods is seen as ”operational”, not to say ”optimal”. The same line of thought underpins Yochai Benkler’s argument,which has been no less influential in shaping the predominant critique against the current intellectual property:
+It is in the nature of informational, non-rival resources to be
+organised in a commons. In the same vein, rival, tangible resources
+are thought of as suited for markets. It is the nature of the resource
+which determines if a product is rival or non-rival. While intellectual
+property is said to create scarcity, traditional property is assumed
+to be grounded in objectively existing limitations in the real
+world. By implication, ownership of tangible, rival goods is seen as
+”operational”, not to say ”optimal”. The same line of thought underpins
+Yochai Benkler’s argument,which has been no less influential in shaping
+the predominant critique against the current intellectual property:
 
+Está en la naturaleza de los recursos informacionales, no rivales, ser
+organizados en un común.  En la misma vena, los recursos rivales,
+tangibles, son pensados como adecuados para los mercados.  Es la
+naturaleza de un recurso lo que determina si un producto es rival o no
+rival.  Mientras se dice que la propiedad intelectual crea escasez, la
+propiedad tradicional se asume como fundamentada en limitaciones
+existentes objetivamente en el mundo real.  Por implicación, la
+propiedad de bienes tangibles, rivales, es vista como "operacional", por
+no decir "óptima".  La misma línea de pensamiento apuntala el argumento
+de Yochai Benkler, que no ha sido menos influencial en la formación de
+la crítica predominante de la propiedad intelectual actual:
 
-“In the context of information, knowledge, and culture, because of the non- rivalry of information and its characteristic as input as well as output of the production process, the commons provides substantially greater security of context than it does when material resources, like parks or roadways, are at stake” (Benkler 2006, 146).
+“In the context of information, knowledge, and culture, because of the
+non- rivalry of information and its characteristic as input as well as
+output of the production process, the commons provides substantially
+greater security of context than it does when material resources, like
+parks or roadways, are at stake” (Benkler 2006, 146).
 
+> En el contexto de la información, el conocimiento y la cultura, por la
+> no rivalidad de la información y sus características tanto como
+> entrada y como salida del proceso productivo, los comunes proveen un
+> contexto de seguridad substancialmente mayor de lo que pueden hacer
+> cuando los recursos materiales, como los parques y las autopistas,
+> están en juego [@benkler-2006, pp. 146].
 
 More so than Lawrence Lessig, Yochai Benkler recognises that his reasoning rests on technological and social conditions that are transitory. As a consequence, the balance scales between commons and markets might shift and needs to be reassessed from time to time. However, Benkler understands technological and social change as external factors acting upon his computations from an Outside. What goes unrecognised is that those factors are integral to a larger social conflict, in which the two law scholars are taking part. What is at stake in this struggle is precisely the demarcation line between commons and markets. The idea that the optimal balance point between commons and markets can be established in a technical, neutral manner is fictitious. Lessig and Benkler are not unaware of the presence of a struggle, but they put it down to the machinations of uninformed and/or corrupted legislators. Plenty of evidence can be marshalled in support of that claim, but it leaves out what is most fundamental. This is due to the boundary laid down by the hypothesis about information exceptionalism. It asserts that a critique against the current intellectual property regime does not imply a general critique of private property as such. It affirms that the advocacy for information commons is not at the same time an assailment against the free market.
 
