@@ -111,72 +111,53 @@ Cuando los hackers y hobbistas mudan su atención desde el software
 todo resulta implicada en su crítica a la propiedad intelectual.  La
 propiedad intelectual es puesta en igualdad de condiciones respecto a la
 propiedad privada.  Para los seguidores de la impresora tridimensional
-libre, esto es percibido como un avance sobre los defensores de los intereses creados y
-la propiedad intelectual.  Pero la decisión de hackers
-y hobbistas de abrir un nuevo frente en la lucha contra la propiedad
-intelectual puede tener una interpretación diferente.  Podría reflejar
-desarrollos que se están dando en el régimen de propiedad en su
-conjunto.  De acuerdo con esta interpretación, la propiedad intelectual,
-lejos de volverse obsoleta por los avances tecnológicos recientes,
-comienza a convertirse en la forma predominante de propiedad.  Los
-bienes físicos, tangibles, no serán excusados por los rasgos más ofensivos de la
-propiedad intelectual, como los intrincados esquemas de discriminación
-de precios y las técnicas de restricción digital de derechos.
-Adicionalmente a la impresora tridimensional y otras herramientas
-digitales de fabricación, el surgimiento de la así llamada "Internet de
-las Cosas" y la "realidad aumentada" apunta en la misma dirección: un
-desangramiento del ámbito virtual e informacional hacia la existencia
-física, corpórea.  En correspondencia con este movimiento, uno podría
-prever un futuro donde la propiedad, los intercambios de mercado, la
-extración de rentas y las relaciones laborales fueran regulados a través
-de lo que elijo llamar "propiedad aumentada".  El empuje hacia la
-propiedad aumentada demuestra que la naturalización ha sido abandonada
-por la sección más avanzada del partido capitalista, es decir el
-Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La lección
-constructivista ha sido aquí abrazada porque detiene la promesa de que la
-propiedad y los mercados pueden ser construidos hasta el final.
+libre, esto es percibido como un avance sobre los defensores de los
+intereses creados y la propiedad intelectual.  Pero la decisión de
+hackers y hobbistas de abrir un nuevo frente en la lucha contra la
+propiedad intelectual puede tener una interpretación diferente.  Podría
+reflejar desarrollos que se están dando en el régimen de propiedad
+en su conjunto.  De acuerdo con esta interpretación, la propiedad
+intelectual, lejos de volverse obsoleta por los avances tecnológicos
+recientes, comienza a convertirse en la forma predominante de propiedad.
+Los bienes físicos, tangibles, no serán excusados por los rasgos más
+ofensivos de la propiedad intelectual, como los intrincados esquemas
+de discriminación de precios y las técnicas de restricción digital
+de derechos.  Adicionalmente a la impresora tridimensional y otras
+herramientas digitales de fabricación, el surgimiento de la así llamada
+"Internet de las Cosas" y la "realidad aumentada" apunta en la misma
+dirección: un desangramiento del ámbito virtual e informacional hacia la
+existencia física, corpórea.  En correspondencia con este movimiento,
+uno podría prever un futuro donde la propiedad, los intercambios de
+mercado, la extración de rentas y las relaciones laborales fueran
+regulados a través de lo que elijo llamar "propiedad aumentada".  El
+empuje hacia la propiedad aumentada demuestra que la naturalización ha
+sido abandonada por la sección más avanzada del partido capitalista,
+es decir el Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La
+lección constructivista ha sido aquí abrazada porque detiene la promesa
+de que la propiedad y los mercados pueden ser construidos hasta el
+final.
 
-The two sources of the predominant critique of intellectual property In
-the early 1980s, copyright law was extended in most Western countries,
-from literary and artistic works to machine-readable language, i.e.
-software code. Corresponding with the expansion of the property regime,
-resistance to the same came into being. It was now that Richard Stallman
-invented the concept of free software and created a license to go with
-it. The General Public License (GPL) exploited the contractual rights
-invested in the author of a copyrighted work to specify the conditions
-of how his/her work may be used. The conditions laid down in GPL ensured
-public access to a work by ”excluding the excluders”. The rhetorical
-armament against intellectual property was worked out in the same
-decade. Stewart Brand, publisher of the Whole Earth Catalogue, veteran
-of the American counter-culture movement in the 1960s, and a pioneer
-of the computer underground, articulated the key tenets of what later
-became the predominant critique against intellectual property:
+Las dos fuentes de la crítica predominante a la propiedad intelectual
+---------------------------------------------------------------------
 
-Las dos fuentes de la crítica predominante de la propiedad intelectual
-----------------------------------------------------------------------
-
-A principios de los '80, la regulación del copyright fue extendida en
-los países occidentales, de las obras literarias y artísticas al
-lenguaje entendible por máquinas, es decir el código del software.  En
-correspondencia a esta expansión del régimen de propiedad, surgió la
-resistencia.  En este momento Richard Stallman inventó el concepto de
-Software Libre y creó una licencia que lo acompañe.  La Licencia Pública
+A principios de los '80, la regulación del copyright fue extendida en la
+mayoría de
+los países occidentales: de limitarse a las obras literarias y
+artísticas pasó a ocuparse también del
+lenguaje entendible por máquinas, es decir, del código del software.  En
+correspondencia con esta expansión del régimen de propiedad, surgió su
+resistencia.  Fue en este momento que Richard Stallman inventó el concepto de
+Software Libre y creó una licencia que lo acompañara.  La Licencia Pública
 General (GPL por sus siglas en inglés) explotaba los derechos
-contractuales otorgados al autor de una cobra bajo copyright, para
-especificar las condiciones bajo los que su obra puede ser usada.  Las
-condiciones impuestas por la GPL aseguran el acceso público a una obra
+contractuales otorgados al autor de una obra bajo copyright, para
+especificar las condiciones bajo las que su obra podía ser usada.  Las
+condiciones impuestas por la GPL aseguraban el acceso público a una obra
 al "excluir a los excluidores".  El armamento retórico contra la
 propiedad intelectual fue desarrollado durante la misma década.  Stewart
-Brand, el editor del _Whole Earth Catalogue_, veterano del movimiento
+Brand, editor del _Whole Earth Catalogue_, veterano del movimiento
 contracultural estadounidense de los '60 y pionero del _underground_
 informático, articuló los principios clave de lo que luego se
 convertiría en la crítica predominante de la propiedad intelectual:
-
-“Information wants to be free. Information also wants to be
-expensive. Information wants to be free because it has become so cheap
-to distribute, copy, and recombine—too cheap to meter. It wants to be
-expensive because it can be immeasurably valuable to the recipient”
-(Brand 1987, 202).
 
 > La información quiere ser libre.  La información también quiere ser
 > cara.  La información quiere ser libre porque se ha vuelto tan barata
@@ -184,53 +165,31 @@ expensive because it can be immeasurably valuable to the recipient”
 > Quiere ser cara porque puede ser inmensamente valiosa para el
 > receptor [@brand-1987, pp. 202].
 
-Brand correctly identified two conflicting tendencies and situated
-them in an economy of information. Next he contrasted the uniqueness
-of the economy of information with the ordinariness of the economy at
-large. The exceptionality of information consists in that it can be
-copied infinitely, and thus it is a non-rivalrous good. In contrast,
-tangible physical goods are scarce and rivalrous. The merger between,
-on the one hand, an (ontological) assertion about what information
-is, and, on the other hand, classical and neo-classic economic theory
-about scarcity, provided the founding stone of Brand's argument against
-intellectual property. The integration of off-the-shelf economic ideas
-in this emerging social movement points to another sub-terranian
-connection beween counter-culture and cyberculture, out of which Stewart
-Brand was the chief exponent (Turner, 2008). His line of reasoning has
-since been endlessly elaborated and extended by hackers, fileshares
-and activists, as well as academic sympathisers. It is most succinctly
-summarised in the rallying cry: ”information wants to be free”. In
-order to make a critique of this critique, I first attend to the way
-”information” has been conceptualised and constructed, thereafter I
-discuss how economic theory underpins this position.
-
-Brand identificó correctamente las dos tendencias en conflicto y las
-situó en la economía de la información.  A continuación contrastó la
+Brand identificó correctamente dos tendencias en conflicto y las
+situó en una economía de la información.  A continuación contrastó la
 unicidad de la economía de la información con la ordinariez de la
-economía en su conjunto.  La excepcionalidad de las información consiste
-en que esta puede ser copiada indefinidamente y por lo tanto se
-convierte en un bien no rival.  En contraste, los bienes físicos
+economía en su conjunto.  La excepcionalidad de la información consiste
+en que esta puede ser copiada indefinidamente, convirtiéndose por lo tanto
+en un bien no rival.  En contraste, los bienes físicos
 tangibles son escasos y rivales.  La unión entre, por un lado, una
-afirmación (ontológica) sobre lo que la información es y por el otro, la
+afirmación (ontológica) sobre lo que la información es y, por el otro, la
 teoría económica clásica y neo-clásica sobre la escasez, proveyó la
 piedra fundacional del argumento de Brand contra la propiedad
-intelectual.  La integración de ideas económicas listas para llevar en
+intelectual.  La integración de ideas económicas listas para usar en
 este movimiento social emergente apunta a otra conexión subterránea
 entre la contracultura y la cibercultura, de la que Steward Brand era
 uno de los exponentes clave [@turner-2008].  Su línea de razonamiento ha
 sido desde entonces infinitamente elaborada y extendida por hackers,
 compartidores de archivos y activistas, así como por simpatizantes
 académicos.  Puede resumirse sucintamente en el grito de protesta: "la
-información quiere ser libre".  Para hacer una crítica de esta crítica,
+información quiere ser libre".  En pos de hacer una crítica de esta crítica,
 empiezo por retomar la forma en que la "información" ha sido
-conceptualizada y construida para luego discutir cómo la teoría
-económica apuntala esta posición
+conceptualizada y construida, para luego discutir cómo la teoría
+económica apuntala esta posición.
 
-The boundary object: information exceptionalism
 
 El objeto liminal: la excepcionalidad de la información
 -------------------------------------------------------
-
 
 The communication scholar Dan Schiller has produced a compelling
 critique of what he labelled the ”information exceptionalism hypothesis”
