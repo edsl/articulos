@@ -11,35 +11,34 @@ Introducción
 ------------
 
 Casi tan pronto como la impresora 3D de usuario final se convirtió en un
-producto ampliamente
-disponible al público, surgió el primer conflicto sobre la propiedad
-intelectual[^ndt1] de los objetos tridimensionales imprimibles.  En
-febrero del 2011, _Thingiverse_[^thingiverse], un repositorio de
-archivos de objetos, propiedad de los fabricantes de impresoras 3D
-_Makerbog Industries_, recibió su primera carta "cese y desista"[^ndt2].  El
-diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de propiedad
-sobre un objeto que había sido subido a Thingiverse.  El objeto en
-cuestión era un modelo de un "Triángulo de Penrose".  Se trata de una
-muy conocida ilusión óptica donde los lados del triángulo terminan
-en los lugares incorrectos.  El objeto no puede existir a excepción
-de una representación bidimensional en papel.  Schwanitz había diseñado un
-objeto tridimensional que al ser observado desde el ángulo correcto,
-se asemeja a un Triángulo de Penrose.  Un usuario de Thingiverse
-le había hecho ingeniería inversa a partir de una foto.  Temiendo
-responsabilidad secundaria bajo la _Digital Millenium Copyright Act_,
-Makerbot Industries decidió eliminar el archivo, aunque la situación
-legal era altamente incierta.  La representación bidimensional original
-del Triángulo de Penrose se encuentra en el dominio público y no resulta
-claro si Schwanitz reclamó derechos sobre el archivo de diseño, es decir sobre
-el código de software, sobre los planos de la estructura del objeto o
-sobre la foto con la imagen del Triángulo de Penrose.  Después de las
-protestas públicas, Schwanitz renunció a los cargos y liberó el diseño
-[@rideout-2012].  Sin embargo, este primer encuentro ha sido seguido por
-reclamos corporativos más estridentes y poderosos.  Resulta interesante
-que el primer reclamo de copyright sobre objetos tridimensionales
-imprimibles hayan concernido a una forma que, en términos lógicos, no puede
-existir en el espacio físico, sino como una ilusión
-óptica y un engaño visual
+producto ampliamente disponible al público, surgió el primer conflicto
+sobre la propiedad intelectual[^ndt1] de los objetos tridimensionales
+imprimibles.  En febrero del 2011, _Thingiverse_[^thingiverse], un
+repositorio de archivos de objetos, propiedad de los fabricantes de
+impresoras 3D _Makerbog Industries_, recibió su primera carta "cese
+y desista"[^ndt2].  El diseñador que la envió, Ulrich Schwanitz,
+hizo un reclamo de propiedad sobre un objeto que había sido subido a
+Thingiverse.  El objeto en cuestión era un modelo de un "Triángulo de
+Penrose".  Se trata de una muy conocida ilusión óptica donde los lados
+del triángulo terminan en los lugares incorrectos.  El objeto no puede
+existir a excepción de una representación bidimensional en papel.
+Schwanitz había diseñado un objeto tridimensional que al ser observado
+desde el ángulo correcto, se asemeja a un Triángulo de Penrose.  Un
+usuario de Thingiverse le había hecho ingeniería inversa a partir de una
+foto.  Temiendo responsabilidad secundaria bajo la _Digital Millenium
+Copyright Act_, Makerbot Industries decidió eliminar el archivo,
+aunque la situación legal era altamente incierta.  La representación
+bidimensional original del Triángulo de Penrose se encuentra en el
+dominio público y no resulta claro si Schwanitz reclamó derechos sobre
+el archivo de diseño, es decir sobre el código de software, sobre los
+planos de la estructura del objeto o sobre la foto con la imagen del
+Triángulo de Penrose.  Después de las protestas públicas, Schwanitz
+renunció a los cargos y liberó el diseño [@rideout-2012].  Sin embargo,
+este primer encuentro ha sido seguido por reclamos corporativos más
+estridentes y poderosos.  Resulta interesante que el primer reclamo de
+copyright sobre objetos tridimensionales imprimibles hayan concernido
+a una forma que, en términos lógicos, no puede existir en el espacio
+físico, sino como una ilusión óptica y un engaño visual
 
 [^thingiverse]: La traducción aproximada sería "cosoverso".
 
@@ -48,50 +47,30 @@ propiedad intelectual.  Ver ¡Hackers GNUníos!
 
 [^ndt2]: Documento legal utilizado para obligar la eliminación de obras.
 
-Already a year before the Penrose debacle, many hobbyists in the
-community building open source 3D printers had expressed doubts about
-the role of Thingiverse. Responding to those doubts, one of the founders
-of the Swedish filesharing service The Pirate Bay launched a new website
-called ”The Product Bay”. It was announced that the repository would
-be fully dedicated to information freedom. In conjunction with this
-initiative, young adherers of the Swedish Pirate Party made visits
-to furniture- and design fairs in order to pass the message on to
-IKEA-salesmen and professional designers. Their days were numbered, just
-like the days of the middlemen in the music- and film-industry. This
-threat, or promise, cuts to the heart of the rationale behind the
-development of the open source 3D printer. The technology was developed
-by a group of hobbyists and hackers with the explicit aim of expanding
-the conflict over intellectual property to tangible, physical goods
-(Bowyer, 2004). A pointer is an auxiliary project to the 3D printer,
-the development of a user-friendly 3D scanner. It holds out the promise
-of circumventing in physical space any control that legal authorities
-might try to exercise over repositories and computer networks. With a 3D
-scanner sitting next to the 3D-printer, design files can be generated
-(that is, scanned) directly from existing physical objects.
-
-Casi un año antes de la debacle sobre Penrose, muchos hobbistas de la
-comunidad que está construyendo impresoras tridimensionales libres ya
-estaban expresando dudas sobre el rol de Thingiverse.  En respuesta
+Ya un año antes de la debacle de Penrose, muchos hobbistas de la
+comunidad que estaban construyendo impresoras tridimensionales libres ya
+habían expresando sus dudas sobre el rol de Thingiverse.  En respuesta
 a estas dudas, uno de los fundadores del servicio de compartición de
 archivos sueco _The Pirate Bay_ lanzó un nuevo sitio web llamado "The
-Product Bay"[^tpb].  Se anunció que este repositorio estaría dedicado
-a la libertad de la información.  En conjunto con esta iniciativa, los
+Product Bay"[^tpb].  Se anunció que este repositorio estaría enteramente dedicado
+a la libertad de la información.  En conjunto con esta iniciativa,
 jóvenes seguidores del Partido Pirata de Suecia visitaron ferias de
-muebles y diseño con la idea de llevarle el mensaje a los vendedores de
-IKEA[^ikea] y los diseñadores profesionales.  Sus días estaban contados,
-como los días de los intermediarios de las industrias de la música y el
-cine.  Esta amenaza, o promesa, llega directo al corazón de la razón
-de ser detrás de la impresora tridimensional libre.  La tecnología
+muebles y diseño con la idea de llevarle el mensaje a vendedores de
+IKEA[^ikea] y diseñadores profesionales.  Sus días estaban contados,
+así como los días de los intermediarios de las industrias de la música y el
+cine.  Esta amenaza, o promesa, llega directo al corazón de los
+fundamentos
+detrás del desarrollo de la impresora tridimensional libre.  La tecnología
 fue desarrollada por un grupo de hobbistas y hackers con el objetivo
 explícito de expandir el conflicto de la propiedad intelectual sobre
 bienes tangibles, físicos. [@bowyer-2004] Un indicio de esto es un
-proyecto auxiliar de la impresora tridimensional, el desarrollo de un
-escáner tridimensional de fácil uso.  Sostiene la promesa de circundar
-en los espacios físicos el control que las autoridades legales pueden
-intentar ejercer sobre los repositorios y las redes informáticas.  Con
-un escáner tridimensional junto a la impresora tridimensional, los
+proyecto auxiliar de la impresora tridimensional: el desarrollo de un
+escáner tridimensional de fácil uso, que sostiene la promesa de evitar,
+en el espacio físico, cualquier tipo de control que las autoridades legales
+podrían intentar ejercer sobre repositorios y redes informáticas.  Con
+un escáner tridimensional trabajando junto a la impresora tridimensional, los
 archivos de diseño pueden ser generados (es decir, escaneados)
-directamente desde los objetos físicos.
+directamente desde los objetos físicos existentes.
 
 [^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
         Pirata(s)
