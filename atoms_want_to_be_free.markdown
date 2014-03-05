@@ -52,73 +52,46 @@ comunidad que estaban construyendo impresoras tridimensionales libres ya
 habían expresando sus dudas sobre el rol de Thingiverse.  En respuesta
 a estas dudas, uno de los fundadores del servicio de compartición de
 archivos sueco _The Pirate Bay_ lanzó un nuevo sitio web llamado "The
-Product Bay"[^tpb].  Se anunció que este repositorio estaría enteramente dedicado
-a la libertad de la información.  En conjunto con esta iniciativa,
-jóvenes seguidores del Partido Pirata de Suecia visitaron ferias de
-muebles y diseño con la idea de llevarle el mensaje a vendedores de
-IKEA[^ikea] y diseñadores profesionales.  Sus días estaban contados,
-así como los días de los intermediarios de las industrias de la música y el
-cine.  Esta amenaza, o promesa, llega directo al corazón de los
-fundamentos
-detrás del desarrollo de la impresora tridimensional libre.  La tecnología
-fue desarrollada por un grupo de hobbistas y hackers con el objetivo
-explícito de expandir el conflicto de la propiedad intelectual sobre
-bienes tangibles, físicos. [@bowyer-2004] Un indicio de esto es un
-proyecto auxiliar de la impresora tridimensional: el desarrollo de un
-escáner tridimensional de fácil uso, que sostiene la promesa de evitar,
-en el espacio físico, cualquier tipo de control que las autoridades legales
-podrían intentar ejercer sobre repositorios y redes informáticas.  Con
-un escáner tridimensional trabajando junto a la impresora tridimensional, los
-archivos de diseño pueden ser generados (es decir, escaneados)
-directamente desde los objetos físicos existentes.
+Product Bay"[^tpb].  Se anunció que este repositorio estaría enteramente
+dedicado a la libertad de la información.  En conjunto con esta
+iniciativa, jóvenes seguidores del Partido Pirata de Suecia visitaron
+ferias de muebles y diseño con la idea de llevarle el mensaje a
+vendedores de IKEA[^ikea] y diseñadores profesionales.  Sus días estaban
+contados, así como los días de los intermediarios de las industrias de
+la música y el cine.  Esta amenaza, o promesa, llega directo al corazón
+de los fundamentos detrás del desarrollo de la impresora tridimensional
+libre.  La tecnología fue desarrollada por un grupo de hobbistas y
+hackers con el objetivo explícito de expandir el conflicto de la
+propiedad intelectual sobre bienes tangibles, físicos. [@bowyer-2004] Un
+indicio de esto es un proyecto auxiliar de la impresora tridimensional:
+el desarrollo de un escáner tridimensional de fácil uso, que sostiene
+la promesa de evitar, en el espacio físico, cualquier tipo de control
+que las autoridades legales podrían intentar ejercer sobre repositorios
+y redes informáticas.  Con un escáner tridimensional trabajando junto
+a la impresora tridimensional, los archivos de diseño pueden ser
+generados (es decir, escaneados) directamente desde los objetos físicos
+existentes.
 
 [^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
         Pirata(s)
 
 [^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
 
-The proposition that the 3D printer/scanner will make physical goods
-copyable just as software code is open to challenge. The claim has
-a fleeting resemblance with what the actually existing machine can
-do. Here I will leave aside the technical objections that one may want
-to raise against this idea (cf. Söderberg, 2013). My concern in the
-present paper is with the imaginary that propels the development of
-the home-built technology in one or the other direction. The chief
-merit of the open source 3D printer is that it introduces a narrative
-where ”bits” and ”atoms” converge. The convergence is destabilising
-for a number of disciplinary boundaries and associated theories within
-the academy. The study of new media and communication is pulled
-into a larger circuit of production, commodification and labour
-relations. Differently put, the old critique of political economy
-reassert itself over the former, not-so-new-anymore subject field. In
-the paper I set out to mobilise the political economy analysis against
-the predominant critique of intellectual property. The convergence goes
-to show that there are no hard lines between private property ownership
-(over atoms) and intellectual property ownership (over bits/ideas). The
-exceptionalism claimed for information vis-à-vis physical goods, by
-practitioners and scholars alike, is the shaky ground upon which the
-house of intellectual property critique has been built. In what follows,
-I suggest that this argument draws on the limited self-understanding
-of free software/open source advocates, combined with the limited
-theoretical presumptions of the classical, and, to some extent,
-neo-classical economic paradigm. Briefly stated, this limit comes from a
-naturalistic understanding of private property.
-
-La propuesta donde el escaneo y la impresión tridimensionales harán a
-los bienes físicos copiables como el código de software está abierta a
-desafío.  Existe una semejanza fugaz con lo que la máquina existente
+La propuesta de que el escaneo y la impresión tridimensionales hagan a
+los bienes físicos tan copiables como el código de software está abierta a
+desafío.  El reclamo presenta una semejanza fugaz con lo que la máquina existente
 puede realmente hacer.  Aquí voy a dejar de lado las objeciones técnicas
 que uno pueda tener sobre esta idea [@soderberg-2013].  Mi preocupación
-en este artículo es sobre el imaginario que impulsa el desarrollo de la
+en este artículo radica en el imaginario que impulsa el desarrollo de la
 tecnología construída en casa en una u otra dirección.  El mérito
-principal de la impresora tridimensional libre es que introduce una
-narrativa donde convergen los "átomos" con los "bits".  Esta
-convergencia es desestabilizadora para un número de límites
-disciplinarios y teorías asociadas dentro de la academia.  El estudios
-de los nuevos medios y la comunicación está asociado dentro de un
+principal de la impresora tridimensional libre es que presenta una
+narrativa donde los "átomos" y los "bits" convergen.  Esta
+convergencia desestabiliza un número de límites
+disciplinarios y teorías asociadas dentro de la academia.  El estudio
+de los nuevos medios y la comunicación es empujdo hacia un
 circuito más amplio de producción, mercantilización y relaciones
-laborales.  Puesto de otra manera, la vieja crítica de la economía
-política se reafirmar sobre el no-tan-nuevo campo subjetivo.  En este
+laborales.  En otras palabras, la vieja crítica de la economía
+política se reafirmar sobre el ya-no-tan-nuevo campo subjetivo.  En este
 artículo intento movilizar el análisis de la economía política contra la
 crítica predominante de la propiedad intelectual.  La convergencia
 muestra que no hay límites duros entre la propiedad privada (sobre
@@ -129,8 +102,8 @@ firme sobre la que se ha construido la crítica de la propiedad
 intelectual.  A continuación, sugiero que este argumento descansa sobre
 el limitado auto-entendimiento de los militantes del Software Libre y el
 Código Abierto, combinado con las limitadas presunciones teoréticas del
-paradigma económico clásico y hasta cierto punto, neo-clásico.  En
-resumen, este límite proviene de la naturalización de la propiedad
+paradigma económico clásico y, hasta cierto punto, neo-clásico.  En
+resumen, este límite proviene de una naturalización de la propiedad
 privada.
 
 When hackers and hobbyists shift their attention from (proprietary)
