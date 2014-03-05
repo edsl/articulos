@@ -7,6 +7,11 @@ layout: post
 ¡Los átomos también quieren ser libres!
 =======================================
 
+Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>.  Corrección
+por Natalia Boquet.  Liberado bajo la [Licencia de Producción de
+Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del
+autor.
+
 Introducción
 ------------
 
