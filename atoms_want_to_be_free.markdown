@@ -77,92 +77,64 @@ existentes.
 
 [^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
 
-La propuesta de que el escaneo y la impresión tridimensionales hagan a
-los bienes físicos tan copiables como el código de software está abierta a
-desafío.  El reclamo presenta una semejanza fugaz con lo que la máquina existente
-puede realmente hacer.  Aquí voy a dejar de lado las objeciones técnicas
-que uno pueda tener sobre esta idea [@soderberg-2013].  Mi preocupación
-en este artículo radica en el imaginario que impulsa el desarrollo de la
-tecnología construída en casa en una u otra dirección.  El mérito
-principal de la impresora tridimensional libre es que presenta una
-narrativa donde los "átomos" y los "bits" convergen.  Esta
-convergencia desestabiliza un número de límites
-disciplinarios y teorías asociadas dentro de la academia.  El estudio
-de los nuevos medios y la comunicación es empujdo hacia un
-circuito más amplio de producción, mercantilización y relaciones
-laborales.  En otras palabras, la vieja crítica de la economía
-política se reafirmar sobre el ya-no-tan-nuevo campo subjetivo.  En este
-artículo intento movilizar el análisis de la economía política contra la
-crítica predominante de la propiedad intelectual.  La convergencia
-muestra que no hay límites duros entre la propiedad privada (sobre
-átomos) y la propiedad intelectual (sobre bits o ideas).  La
-excepcionalidad de la información frente a los bienes físicos,
-proclamado tanto por practicantes como por académicos, es la base no tan
-firme sobre la que se ha construido la crítica de la propiedad
-intelectual.  A continuación, sugiero que este argumento descansa sobre
-el limitado auto-entendimiento de los militantes del Software Libre y el
-Código Abierto, combinado con las limitadas presunciones teoréticas del
+La propuesta de que el escaneo y la impresión tridimensionales hagan
+a los bienes físicos tan copiables como el código de software está
+abierta a desafío.  El reclamo presenta una semejanza fugaz con lo
+que la máquina existente puede realmente hacer.  Aquí voy a dejar
+de lado las objeciones técnicas que uno pueda tener sobre esta idea
+[@soderberg-2013].  Mi preocupación en este artículo radica en el
+imaginario que impulsa el desarrollo de la tecnología construída en
+casa en una u otra dirección.  El mérito principal de la impresora
+tridimensional libre es que presenta una narrativa donde los "átomos"
+y los "bits" convergen.  Esta convergencia desestabiliza un número
+de límites disciplinarios y teorías asociadas dentro de la academia.
+El estudio de los nuevos medios y la comunicación es empujdo hacia
+un circuito más amplio de producción, mercantilización y relaciones
+laborales.  En otras palabras, la vieja crítica de la economía política
+se reafirmar sobre el ya-no-tan-nuevo campo subjetivo.  En este artículo
+intento movilizar el análisis de la economía política contra la crítica
+predominante de la propiedad intelectual.  La convergencia muestra
+que no hay límites duros entre la propiedad privada (sobre átomos) y
+la propiedad intelectual (sobre bits o ideas).  La excepcionalidad
+de la información frente a los bienes físicos, proclamado tanto por
+practicantes como por académicos, es la base no tan firme sobre la
+que se ha construido la crítica de la propiedad intelectual.  A
+continuación, sugiero que este argumento descansa sobre el limitado
+auto-entendimiento de los militantes del Software Libre y el Código
+Abierto, combinado con las limitadas presunciones teoréticas del
 paradigma económico clásico y, hasta cierto punto, neo-clásico.  En
 resumen, este límite proviene de una naturalización de la propiedad
 privada.
 
-When hackers and hobbyists shift their attention from (proprietary)
-software to (closed) hardware, the industrial economy as a whole becomes
-implicated in their critique of intellectual property. Intellectual
-property is put on an equal footing with private property. To followers
-of the open source 3D printer, this is perceived as a push-back
-against vested interests and intellectual property advocates. But
-the decision by hackers and hobbyists to open a new front in the
-struggle against intellectual property could be given an alternative
-interpretation. It might reflect developments that are taking place
-in the property regime at large. According to such an interpretation,
-intellectual property, far from being rendered obsolete by recent,
-technological advances, stands to become the dominant form of property
-everywhere. Tangible, physical goods will not be spared from the most
-offensive traits of intellectual property, such as intricate schemes
-of price discrimination and digitial rights management techniques. In
-addition to the 3D-printer and other digital fabrication tools, the
-rise of the so-called ”Internet-of-things” and ”augmented reality”
-points in the same direction: a bleeding-out from the virtual and
-informational realm to physical, embodied existence. Corresponding
-with this movement, one can foresee a future where ownership, market
-exchanges, rent extraction and labour relations are regulated through
-what I elect to call “augmented property”. The push towards augmented
-property demonstrates that naturalism has been abandoned by the most
-advanced section of the capitalist party, i,e, the Neo-liberal Thought
-Collective (cf. Mirowski, 2013). Here the constructivist lesson has been
-embraced because it holds out the promise that property and markets can
-be constructed 'all the way down'.
-
-Cuando los hackers y hobbistas mudan su atención del software
+Cuando los hackers y hobbistas mudan su atención desde el software
 (privativo) hacia el hardware (cerrado), la economía industrial como un
-todo resulta implicada en su crítica de la propiedad intelectual.  La
-propiedad intelectual es puesta en igualdad de condiciones que la
+todo resulta implicada en su crítica a la propiedad intelectual.  La
+propiedad intelectual es puesta en igualdad de condiciones respecto a la
 propiedad privada.  Para los seguidores de la impresora tridimensional
-libre, esto es percibido como un retroceso de los intereses creados y
-los defensores de la propiedad intelectual.  Pero la decisión de hackers
+libre, esto es percibido como un avance sobre los defensores de los intereses creados y
+la propiedad intelectual.  Pero la decisión de hackers
 y hobbistas de abrir un nuevo frente en la lucha contra la propiedad
-intelectual puede tener una interpretación diferente.  Puede reflejar
-los desarrollos que se están dando en el régimen de propiedad en su
-conjunto.  De acuerdo a esta interpretación, la propiedad intelectual,
+intelectual puede tener una interpretación diferente.  Podría reflejar
+desarrollos que se están dando en el régimen de propiedad en su
+conjunto.  De acuerdo con esta interpretación, la propiedad intelectual,
 lejos de volverse obsoleta por los avances tecnológicos recientes,
 comienza a convertirse en la forma predominante de propiedad.  Los
-bienes físicos, tangibles, no serán salvados por rasgos ofensivos de la
+bienes físicos, tangibles, no serán excusados por los rasgos más ofensivos de la
 propiedad intelectual, como los intrincados esquemas de discriminación
 de precios y las técnicas de restricción digital de derechos.
 Adicionalmente a la impresora tridimensional y otras herramientas
 digitales de fabricación, el surgimiento de la así llamada "Internet de
 las Cosas" y la "realidad aumentada" apunta en la misma dirección: un
 desangramiento del ámbito virtual e informacional hacia la existencia
-física, corpórea.  En correspondencia a este movimiento, uno podría
+física, corpórea.  En correspondencia con este movimiento, uno podría
 prever un futuro donde la propiedad, los intercambios de mercado, la
-extración de rentas y las relaciones laborales sean regulados a través
+extración de rentas y las relaciones laborales fueran regulados a través
 de lo que elijo llamar "propiedad aumentada".  El empuje hacia la
 propiedad aumentada demuestra que la naturalización ha sido abandonada
 por la sección más avanzada del partido capitalista, es decir el
 Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La lección
-constructivista ha sido abrazada porque sostiene la premisa que la
-propiedad y los mercados pueden ser construidos "hasta abajo".
+constructivista ha sido aquí abrazada porque detiene la promesa de que la
+propiedad y los mercados pueden ser construidos hasta el final.
 
 The two sources of the predominant critique of intellectual property In
 the early 1980s, copyright law was extended in most Western countries,
