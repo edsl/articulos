@@ -10,47 +10,19 @@ layout: post
 Introducción
 ------------
 
-Almost as soon as a consumer-grade 3D printer became widely
-available to the public, the first intellectual property conflict
-arose over printable, three-dimensional objects. In February 2011, the
-first cease and desist letter was sent to Thingiverse, a repository
-for files of such objects owned by the 3D printing company Makerbot
-Industries. The designer who sent the cease and desist letter, Ulrich
-Schwanitz, claimed ownership over an object that had been uploaded
-to Thingiverse. The object in question was a model of a ”Penrose
-triangle”. It is a well-known optical illusion where the sides of
-the triangle end in the wrong places. The object cannot exist except
-as a two-dimensional representation on a piece of paper. Schwanitz
-had designed a three-dimensional object which, when viewed from the
-right angle, appears to be a Penrose triangle. A user of Thingiverse
-had reverse-engineered the object from a photo. Fearing secondary
-liability under the Digital Millenium Copyright Act, Makerbot Industries
-decided to take down the file, though the legal situation was highly
-uncertain. The original, two-dimensional representation of the Penrose
-Triangle design is in the public domain, and it remains unclear if
-Schwanitz asserted his copyright over the design file, that is, over
-the software code, or over the blueprint of the structure of the
-object, or over the photo with the image of the Penrose triangle. After
-public outcry Schwanitz dropped his charges and released the design
-for free (Rideout, 2012). However, this initial encounter has been
-followed by requests from more strident, and powerful, corporate
-claimants. It is intriguing that the first copyright claim over
-printable, three-dimensional objects concerned a shape that on logical
-grounds cannot exist in physical, embodied space, except as an optical
-illusion and a trickery of the eye.
-
-Casi tan pronto como la primera impresora 3D de usuario final se volvió
+Casi tan pronto como la impresora 3D de usuario final se convirtió en un
+producto ampliamente
 disponible al público, surgió el primer conflicto sobre la propiedad
 intelectual[^ndt1] de los objetos tridimensionales imprimibles.  En
 febrero del 2011, _Thingiverse_[^thingiverse], un repositorio de
-archivos de objetos propiedad de la fabricantes de impresoras 3D
-_Makerbog Industries_, recibió su primer _cease & desist_[^ndt2].  El
+archivos de objetos, propiedad de los fabricantes de impresoras 3D
+_Makerbog Industries_, recibió su primera carta "cese y desista"[^ndt2].  El
 diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de propiedad
-sobre un objeto que había sido subido a Thingiverse.  El objeto es
-cuestión era un modelo del "Triángulo de Penrose".  Se trata de una
+sobre un objeto que había sido subido a Thingiverse.  El objeto en
+cuestión era un modelo de un "Triángulo de Penrose".  Se trata de una
 muy conocida ilusión óptica donde los lados del triángulo terminan
 en los lugares incorrectos.  El objeto no puede existir a excepción
-de una representación bidimensional en papel.  Schwanitz diseñó un
+de una representación bidimensional en papel.  Schwanitz había diseñado un
 objeto tridimensional que al ser observado desde el ángulo correcto,
 se asemeja a un Triángulo de Penrose.  Un usuario de Thingiverse
 le había hecho ingeniería inversa a partir de una foto.  Temiendo
@@ -58,16 +30,16 @@ responsabilidad secundaria bajo la _Digital Millenium Copyright Act_,
 Makerbot Industries decidió eliminar el archivo, aunque la situación
 legal era altamente incierta.  La representación bidimensional original
 del Triángulo de Penrose se encuentra en el dominio público y no resulta
-claro si Schwanitz reclamó derechos sobre el archivo, es decir sobre
+claro si Schwanitz reclamó derechos sobre el archivo de diseño, es decir sobre
 el código de software, sobre los planos de la estructura del objeto o
 sobre la foto con la imagen del Triángulo de Penrose.  Después de las
-quejas públicas, Schwanitz renunció a los cargos y liberó el diseño
+protestas públicas, Schwanitz renunció a los cargos y liberó el diseño
 [@rideout-2012].  Sin embargo, este primer encuentro ha sido seguido por
 reclamos corporativos más estridentes y poderosos.  Resulta interesante
 que el primer reclamo de copyright sobre objetos tridimensionales
-imprimibles hayan sido sobre una forma que en términos lógicos no puede
-existir en el espacio físico, corpóreo, a excepción de una ilusión
-óptica que engaña al ojo.
+imprimibles hayan concernido a una forma que, en términos lógicos, no puede
+existir en el espacio físico, sino como una ilusión
+óptica y un engaño visual
 
 [^thingiverse]: La traducción aproximada sería "cosoverso".
 
