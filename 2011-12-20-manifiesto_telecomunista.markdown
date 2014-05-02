@@ -1512,7 +1512,7 @@ de la Stationers' Company se vio amenazado por los libreros provinciales, los
 llamados "piratas" de Irlanda y Escocia. La Stationers' Company pidió al
 Parlamento una nueva acta para extender su monopolio sobre el copyright. Pero
 esta era una Inglaterra diferente a la de 1557, diferente del Parlamento que
-había ejecutado al rey Charles I en 1649, que abolió la monarquía y instaló una
+había ejecutado al rey Charles I en 1649, que abolió la monarquía e instaló una
 república bajo Cromwell, que restableció la monarquía con Charles II, destronó
 a James II en la Revolución de 1688 y, en 1689, pasó el primer decreto para una
 soberanía constitucional moderna, la Carta de Derechos. Esta era la Inglaterra
