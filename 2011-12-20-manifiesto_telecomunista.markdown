@@ -1779,13 +1779,13 @@ artísticas basadas en el _sampleo_ y reutilización de otros medios ha creado u
 serio problema para el sistema de copyright tradicional. Las industria de la
 música y el cine, en particular, se encuentran en el medio de una guerra a todo
 o nada contra sus propios consumidores para prohibirles descargar y samplear su
-propiedad, sus copyright. Resulta claro que las tecnologías de redes digitales
+propiedad, su copyright. Resulta claro que las tecnologías de redes digitales
 plantean un serio problema para las industrias discográficas y fílmicas. El
 disenso a las restricciones del copyright ha tenido una rica historia entre
 los artistas de vanguardia, productores de zines, músicos radicales y la
 marginalidad contracultural. Al día de hoy, la lucha contra la propiedad
 intelectual es liderada por abogados, profesores y miembros del gobierno. No
-sólo el estrato social al que pertenecen los jugadores principales muy
+sólo el estrato social al que pertenecen los jugadores principales es muy
 diferente, un hecho que, por sí mismo, puede no ser un detalle particularmente
 importante, sino que también el marco para la lucha contra la propiedad intelectual ha cambiado
 completamente.
@@ -1802,14 +1802,14 @@ las corporaciones de medios globales y sus poderosos lobbies, la absurda
 duración a la que se ha extendido el copyright y otras perversiones que
 restringen la creatividad de los artistas. Pero no cuestiona el copyright como
 tal, ya que lo ve como el más importante incentivo para crear que
-tienen los artistas. El objetivo aquí es defenderse del extremismo, y el
-absolutismo, en la propiedad intelectual, mientras se preservan los efectos
+tienen los artistas. El objetivo aquí es defenderse del extremismo y del
+absolutismo en la propiedad intelectual, mientras se preservan los efectos
 benéficos.
 
-En su conferencia maestra en Wizards of OS4 en Berlín, Lessig celebraba la
-cultura lectura-escritura de la compartición libre y autoría colaborativa que ha
+En su conferencia maestra para Wizards of OS4 en Berlín, Lessig celebraba la
+cultura de lecto-escritura de la compartición libre y autoría colaborativa que ha
 sido la norma en gran parte de la historia. Durante el último siglo, explicaba
-Lessig, esta cultura lectura-escritura se ha visto frustrada por la legislación de propiedad
+Lessig, esta cultura de lecto-escritura se ha visto frustrada por la legislación de propiedad
 intelectual y convertida en una cultura de sólo-lectura, dominada por un
 régimen de control del productor [@lessig-2006]. Lessig lamenta que las
 farsas recientes de la legislación del copyright hayan censurado el trabajo
@@ -1835,7 +1835,7 @@ común cultural suprime la distinción entre productores y consumidores, viéndo
 como actores iguales en un proceso continuo.
 
 Hoy, en el contexto específico del proyecto Creative Commons (CC), Lessig
-proclama que la posibilidad de una cultura de lectura-escritura ha renacido. ¿Pero
+proclama que la posibilidad de una cultura de lecto-escritura ha renacido. ¿Pero
 es Creative Commons realmente un dominio común? Según su sitio web, Creative
 Commons define el espectro de posibilidades entre el copyright completo (todos
 los derechos reservados) y el dominio público (ningún derecho reservado).
@@ -1968,11 +1968,11 @@ Aún antes, en un libro de canciones que Woody Guthrie distribuyó en los '30
 a los escuchas que querían saber las palabras de sus grabaciones, la siguiente
 nota fue incluida:
 
-Esta canción tiene copyright en los Estados Unidos, bajo el Sello de Copyright
-\#1540085, por un período de veintiocho años, y cualquiera que sea encontrado
-cantándola sin nuestro permiso será considerado un gran amigo nuestro, porque
-nos importa un comino. Publicalo. Escribilo. Cantalo. Bailalo. Yodealo.
-Nosotros lo escribimos, y es todo lo que quisimos hacer [@miller-2004].
+> Esta canción tiene copyright en los Estados Unidos, bajo el Sello de Copyright
+> \#1540085, por un período de veintiocho años, y cualquiera que sea encontrado
+> cantándola sin nuestro permiso será considerado un gran amigo nuestro, porque
+> nos importa un comino. Publicalo. Escribilo. Cantalo. Bailalo. Yodealo.
+> Nosotros lo escribimos, y es todo lo que quisimos hacer [@miller-2004].
 
 En estos casos, lo que es evidente es que la libertad de la que se habla es la
 libertad del consumidor para usar y producir, no la "libertad" del productor
