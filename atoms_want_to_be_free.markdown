@@ -8,597 +8,398 @@ layout: post
 =======================================
 
 Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>.  Corrección
-por Natalia Boquet.  Liberado bajo la [Licencia de Producción de
-Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del
-autor.
+por Natalia Boquet y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+Liberado bajo la [Licencia de Producción de
+Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
 Introducción
 ------------
 
-Casi tan pronto como la impresora 3D de usuario final se convirtió en un
-producto ampliamente disponible al público, surgió el primer conflicto
-sobre la propiedad intelectual[^ndt1] de los objetos tridimensionales
-imprimibles.  En febrero del 2011, _Thingiverse_[^thingiverse], un
-repositorio de archivos de objetos, propiedad de los fabricantes de
-impresoras 3D _Makerbog Industries_, recibió su primera carta "cese
-y desista"[^ndt2].  El diseñador que la envió, Ulrich Schwanitz,
-hizo un reclamo de propiedad sobre un objeto que había sido subido a
+Casi tan pronto como la impresora 3D apta para el público general se
+convirtió en un producto ampliamente disponible al público, surgió el
+primer conflicto sobre la propiedad intelectual[^ndt1] de los objetos
+tridimensionales imprimibles.  En febrero del 2011,
+_Thingiverse_[^thingiverse], un repositorio de archivos de este tipo de
+objetos, propiedad de los fabricantes de impresoras 3D _Makerbog
+Industries_, recibió su primera carta de cese y desistimiento (_cease &
+desist_[^ndt2]).  El diseñador que la envió, Ulrich Schwanitz, hizo un
+reclamo de propiedad sobre un objeto que había sido subido a
 Thingiverse.  El objeto en cuestión era un modelo de un "Triángulo de
 Penrose".  Se trata de una muy conocida ilusión óptica donde los lados
-del triángulo terminan en los lugares incorrectos.  El objeto no puede
-existir a excepción de una representación bidimensional en papel.
-Schwanitz había diseñado un objeto tridimensional que al ser observado
-desde el ángulo correcto, se asemeja a un Triángulo de Penrose.  Un
-usuario de Thingiverse le había hecho ingeniería inversa a partir de una
-foto.  Temiendo responsabilidad secundaria bajo la _Digital Millenium
-Copyright Act_, Makerbot Industries decidió eliminar el archivo,
-aunque la situación legal era altamente incierta.  La representación
-bidimensional original del Triángulo de Penrose se encuentra en el
-dominio público y no resulta claro si Schwanitz reclamó derechos sobre
-el archivo de diseño, es decir sobre el código de software, sobre los
-planos de la estructura del objeto o sobre la foto con la imagen del
-Triángulo de Penrose.  Después de las protestas públicas, Schwanitz
-renunció a los cargos y liberó el diseño [@rideout-2012].  Sin embargo,
-este primer encuentro ha sido seguido por reclamos corporativos más
-estridentes y poderosos.  Resulta interesante que el primer reclamo de
-copyright sobre objetos tridimensionales imprimibles hayan concernido
-a una forma que, en términos lógicos, no puede existir en el espacio
-físico, sino como una ilusión óptica y un engaño visual
+del triángulo terminan en lugares incorrectos.  El objeto no puede
+existir sino como una representación bidimensional en papel.  Schwanitz
+había diseñado un objeto tridimensional que, al ser observado desde el
+ángulo correcto, se asemejaba a un Triángulo de Penrose.  Un usuario de
+Thingiverse le había hecho ingeniería inversa a partir de una foto.
+Temiendo responsabilidad secundaria bajo la _Digital Millenium Copyright
+Act_, Makerbot Industries decidió eliminar el archivo, aunque la
+situación legal era altamente incierta.  La representación bidimensional
+original del Triángulo de Penrose se encuentra en el dominio público y
+no resulta claro si Schwanitz reclamó derechos sobre el archivo de
+diseño, es decir sobre el código de software, sobre los planos de la
+estructura del objeto o sobre la foto con la imagen del Triángulo de
+Penrose.  Después de las protestas públicas, Schwanitz renunció a los
+cargos y liberó el diseño [@rideout-2012].  Sin embargo, este primer
+encuentro ha sido seguido por reclamos corporativos más estridentes y
+poderosos.  Resulta interesante que el primer reclamo de copyright sobre
+objetos tridimensionales imprimibles haya concernido a una forma que, en
+términos lógicos, no puede existir en el espacio físico sino como una
+ilusión óptica.
 
 [^thingiverse]: La traducción aproximada sería "cosoverso".
 
 [^ndt1]: El autor no cree que haya una distinción entre propiedad y
-propiedad intelectual.  Ver ¡Hackers GNUníos!
+         propiedad intelectual.  Ver ¡Hackers GNUníos!
 
-[^ndt2]: Documento legal utilizado para obligar la eliminación de obras.
+[^ndt2]: Documento legal utilizado para obligar a que se termine con
+         cierta conducta. Mayoritariamente se usa para dar de baja obras
+         publicadas en la Internet.
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
-comunidad que estaban construyendo impresoras tridimensionales libres ya
-habían expresando sus dudas sobre el rol de Thingiverse.  En respuesta
-a estas dudas, uno de los fundadores del servicio de compartición de
-archivos sueco _The Pirate Bay_ lanzó un nuevo sitio web llamado "The
-Product Bay"[^tpb].  Se anunció que este repositorio estaría enteramente
-dedicado a la libertad de la información.  En conjunto con esta
-iniciativa, jóvenes seguidores del Partido Pirata de Suecia visitaron
-ferias de muebles y diseño con la idea de llevarle el mensaje a
-vendedores de IKEA[^ikea] y diseñadores profesionales.  Sus días estaban
-contados, así como los días de los intermediarios de las industrias de
-la música y el cine.  Esta amenaza, o promesa, llega directo al corazón
-de los fundamentos detrás del desarrollo de la impresora tridimensional
-libre.  La tecnología fue desarrollada por un grupo de hobbistas y
-hackers con el objetivo explícito de expandir el conflicto de la
-propiedad intelectual sobre bienes tangibles, físicos. [@bowyer-2004] Un
-indicio de esto es un proyecto auxiliar de la impresora tridimensional:
-el desarrollo de un escáner tridimensional de fácil uso, que sostiene
-la promesa de evitar, en el espacio físico, cualquier tipo de control
-que las autoridades legales podrían intentar ejercer sobre repositorios
-y redes informáticas.  Con un escáner tridimensional trabajando junto
-a la impresora tridimensional, los archivos de diseño pueden ser
-generados (es decir, escaneados) directamente desde los objetos físicos
+comunidad que estaba construyendo impresoras tridimensionales
+libres[^libres] ya habían expresado sus dudas sobre el rol de
+Thingiverse.  En respuesta a estas dudas, uno de los fundadores del
+servicio de compartición de archivos sueco _The Pirate Bay_ lanzó un
+nuevo sitio web llamado "The Product Bay"[^tpb].  Se anunció que este
+repositorio estaría enteramente dedicado a la libertad de la
+información.  En conjunto con esta iniciativa, jóvenes seguidores del
+Partido Pirata de Suecia visitaron ferias de muebles y diseño con la
+idea de llevar el mensaje a vendedores de IKEA[^ikea] y diseñadores
+profesionales: sus días estaban contados, así como los de los
+intermediarios de las industrias de la música y el cine.  Esta amenaza,
+o promesa, llega directo al corazón de los fundamentos detrás del
+desarrollo de la impresora tridimensional libre.  La tecnología fue
+desarrollada por un grupo de hobbistas y hackers con el objetivo
+explícito de expandir el conflicto de la propiedad intelectual sobre
+bienes tangibles, físicos. [@bowyer-2004] Un indicio de esto es un
+proyecto auxiliar de la impresora tridimensional: el desarrollo de un
+escáner tridimensional de fácil uso, que sostiene la promesa de evitar,
+en el espacio físico, cualquier tipo de control que las autoridades
+legales podrían intentar ejercer sobre los repositorios y redes
+informáticas.  Con un escáner tridimensional trabajando junto a la
+impresora tridimensional, los archivos de diseño pueden ser generados
+(es decir, escaneados) directamente desde los objetos físicos
 existentes.
 
+[^libres]: Siguiendo el espíritu del software libre, libres por libertad
+           de uso, modificación y distribución de los planos y el diseño.
+
 [^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
-        Pirata(s)
+        Pirata(s).
 
 [^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
 
-La propuesta de que el escaneo y la impresión tridimensionales hagan
+La proposición de que el escaneo y la impresión tridimensionales harán
 a los bienes físicos tan copiables como el código de software está
-abierta a desafío.  El reclamo presenta una semejanza fugaz con lo
+abierta a desafío.  La afirmación presenta una vaga semejanza con lo
 que la máquina existente puede realmente hacer.  Aquí voy a dejar
 de lado las objeciones técnicas que uno pueda tener sobre esta idea
 [@soderberg-2013].  Mi preocupación en este artículo radica en el
-imaginario que impulsa el desarrollo de la tecnología construída en
-casa en una u otra dirección.  El mérito principal de la impresora
-tridimensional libre es que presenta una narrativa donde los "átomos"
-y los "bits" convergen.  Esta convergencia desestabiliza un número
-de límites disciplinarios y teorías asociadas dentro de la academia.
-El estudio de los nuevos medios y la comunicación es empujdo hacia
-un circuito más amplio de producción, mercantilización y relaciones
-laborales.  En otras palabras, la vieja crítica de la economía política
-se reafirmar sobre el ya-no-tan-nuevo campo subjetivo.  En este artículo
-intento movilizar el análisis de la economía política contra la crítica
-predominante de la propiedad intelectual.  La convergencia muestra
-que no hay límites duros entre la propiedad privada (sobre átomos) y
-la propiedad intelectual (sobre bits o ideas).  La excepcionalidad
-de la información frente a los bienes físicos, proclamado tanto por
-practicantes como por académicos, es la base no tan firme sobre la
-que se ha construido la crítica de la propiedad intelectual.  A
-continuación, sugiero que este argumento descansa sobre el limitado
-auto-entendimiento de los militantes del Software Libre y el Código
-Abierto, combinado con las limitadas presunciones teoréticas del
-paradigma económico clásico y, hasta cierto punto, neo-clásico.  En
-resumen, este límite proviene de una naturalización de la propiedad
-privada.
+imaginario que impulsa el desarrollo de la tecnología casera en una u
+otra dirección.  El mérito principal de la impresora tridimensional
+libre es que presenta una narrativa donde los "átomos" y los "bits"
+convergen.  Esta convergencia desestabiliza un número de límites
+disciplinarios y teorías asociadas dentro de la academia.  El estudio de
+los nuevos medios y la comunicación es empujado hacia un circuito más
+amplio de producción, mercantilización y relaciones laborales.  En otras
+palabras, la vieja crítica de la economía política se reafirma sobre el
+ya-no-tan-nuevo campo subjetivo.  En este artículo intento movilizar el
+análisis de la economía política contra la crítica predominante de la
+propiedad intelectual.  La convergencia muestra que no hay límites duros
+entre la propiedad privada (sobre átomos) y la propiedad intelectual
+(sobre bits o ideas).  La excepcionalidad de la información frente a los
+bienes físicos, proclamada tanto por practicantes como por académicos,
+es la base no tan firme sobre la que se ha construido la crítica de la
+propiedad intelectual.  A continuación, sugiero que este argumento
+descansa sobre el limitado autoentendimiento de los militantes del
+Software Libre y el Código Abierto, combinado con las limitadas
+presunciones teoréticas del paradigma económico clásico y, hasta cierto
+punto, neo-clásico.  En resumen, este límite proviene de una
+naturalización de la propiedad privada.
 
 Cuando los hackers y hobbistas mudan su atención desde el software
 (privativo) hacia el hardware (cerrado), la economía industrial como un
 todo resulta implicada en su crítica a la propiedad intelectual.  La
-propiedad intelectual es puesta en igualdad de condiciones respecto a la
+propiedad intelectual es puesta en igualdad de condiciones respecto de la
 propiedad privada.  Para los seguidores de la impresora tridimensional
-libre, esto es percibido como un avance sobre los defensores de los
+libre, esto es percibido como un avance contra los defensores de los
 intereses creados y la propiedad intelectual.  Pero la decisión de
 hackers y hobbistas de abrir un nuevo frente en la lucha contra la
-propiedad intelectual puede tener una interpretación diferente.  Podría
-reflejar desarrollos que se están dando en el régimen de propiedad
-en su conjunto.  De acuerdo con esta interpretación, la propiedad
-intelectual, lejos de volverse obsoleta por los avances tecnológicos
-recientes, comienza a convertirse en la forma predominante de propiedad.
-Los bienes físicos, tangibles, no serán excusados por los rasgos más
-ofensivos de la propiedad intelectual, como los intrincados esquemas
-de discriminación de precios y las técnicas de restricción digital
-de derechos.  Adicionalmente a la impresora tridimensional y otras
-herramientas digitales de fabricación, el surgimiento de la así llamada
-"Internet de las Cosas" y la "realidad aumentada" apunta en la misma
-dirección: un desangramiento del ámbito virtual e informacional hacia la
-existencia física, corpórea.  En correspondencia con este movimiento,
-uno podría prever un futuro donde la propiedad, los intercambios de
-mercado, la extración de rentas y las relaciones laborales fueran
-regulados a través de lo que elijo llamar "propiedad aumentada".  El
-empuje hacia la propiedad aumentada demuestra que la naturalización ha
-sido abandonada por la sección más avanzada del partido capitalista,
-es decir el Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La
-lección constructivista ha sido aquí abrazada porque detiene la promesa
-de que la propiedad y los mercados pueden ser construidos hasta el
-final.
+propiedad intelectual puede tener una interpretación diferente. Podría
+reflejar desarrollos que se están dando en el régimen de propiedad en su
+conjunto.  De acuerdo con esta interpretación, la propiedad intelectual,
+lejos de volverse obsoleta por los avances tecnológicos recientes,
+comienza a convertirse en la forma predominante de propiedad.  Los
+bienes físicos no serán  excusados por los rasgos más ofensivos de la
+propiedad intelectual, como los intrincados esquemas de discriminación
+de precios y las técnicas de restricción digital de derechos.
+Adicionalmente a la impresora tridimensional y otras herramientas
+digitales de fabricación, el surgimiento de la así llamada "Internet de
+las Cosas" y la "realidad aumentada" apunta en la misma dirección: un
+desangramiento del ámbito virtual e informacional hacia la existencia
+corpórea.  En correspondencia con este movimiento, uno podría prever un
+futuro donde la propiedad, los intercambios de mercado, la extración de
+rentas y las relaciones laborales fueran reguladas a través de lo que
+elijo llamar "propiedad aumentada".  El empuje hacia la propiedad
+aumentada demuestra que la naturalización ha sido abandonada por la
+sección más avanzada del partido capitalista, es decir el Colectivo de
+Pensamiento Neo-Liberal [@mirowski-2013].  La lección constructivista ha
+sido aquí adoptada porque promete que la propiedad y los mercados pueden
+ser construidos hasta el final.
 
 Las dos fuentes de la crítica predominante a la propiedad intelectual
 ---------------------------------------------------------------------
 
 A principios de los '80, la regulación del copyright fue extendida en la
-mayoría de
-los países occidentales: de limitarse a las obras literarias y
-artísticas pasó a ocuparse también del
-lenguaje entendible por máquinas, es decir, del código del software.  En
-correspondencia con esta expansión del régimen de propiedad, surgió su
-resistencia.  Fue en este momento que Richard Stallman inventó el concepto de
-Software Libre y creó una licencia que lo acompañara.  La Licencia Pública
-General (GPL por sus siglas en inglés) explotaba los derechos
-contractuales otorgados al autor de una obra bajo copyright, para
-especificar las condiciones bajo las que su obra podía ser usada.  Las
-condiciones impuestas por la GPL aseguraban el acceso público a una obra
-al "excluir a los excluidores".  El armamento retórico contra la
-propiedad intelectual fue desarrollado durante la misma década.  Stewart
-Brand, editor del _Whole Earth Catalogue_, veterano del movimiento
-contracultural estadounidense de los '60 y pionero del _underground_
-informático, articuló los principios clave de lo que luego se
-convertiría en la crítica predominante de la propiedad intelectual:
+mayoría de los países occidentales: de limitarse a las obras literarias
+y artísticas pasó a ocuparse también del lenguaje entendible por
+máquinas, es decir, del código fuente.  En correspondencia con esta
+expansión del régimen de propiedad, surgió la resistencia al mismo. Fue
+En ese momento que Richard Stallman inventó el concepto de Software
+Libre y creó una licencia que lo acompañara.  La Licencia Pública
+General[^gpl] explotaba los derechos contractuales otorgados al autor de
+una obra bajo copyright, para especificar las condiciones bajo las que
+su obra podía ser usada.  Las condiciones impuestas por la GPL
+aseguraban el acceso público a una obra al "excluir a los excluidores".
+El armamento retórico contra la propiedad intelectual fue desarrollado
+durante la misma década.  Stewart Brand, el editor del _Whole Earth
+Catalogue_, veterano del movimiento contracultural estadounidense de los
+'60 y pionero del _underground_ informático, articuló los principios
+clave de lo que luego se convertiría en la crítica predominante de la
+propiedad intelectual:
 
 > La información quiere ser libre.  La información también quiere ser
-> cara.  La información quiere ser libre porque se ha vuelto tan barata
-> de distribuir, copiar y recombinar --demasiado barata para ser medida.
-> Quiere ser cara porque puede ser inmensamente valiosa para el
-> receptor [@brand-1987, pp. 202].
+> cara.  La información quiere ser libre porque se ha vuelto demasiado
+> barata de distribuir, copiar y recombinar como para medirlo.  Quiere
+> ser cara porque puede ser inmensamente valiosa para el receptor
+> [@brand-1987, pp. 202].
 
-Brand identificó correctamente dos tendencias en conflicto y las
-situó en una economía de la información.  A continuación contrastó la
-unicidad de la economía de la información con la ordinariez de la
-economía en su conjunto.  La excepcionalidad de la información consiste
-en que esta puede ser copiada indefinidamente, convirtiéndose por lo tanto
-en un bien no rival.  En contraste, los bienes físicos
-tangibles son escasos y rivales.  La unión entre, por un lado, una
-afirmación (ontológica) sobre lo que la información es y, por el otro, la
-teoría económica clásica y neo-clásica sobre la escasez, proveyó la
-piedra fundacional del argumento de Brand contra la propiedad
-intelectual.  La integración de ideas económicas listas para usar en
-este movimiento social emergente apunta a otra conexión subterránea
-entre la contracultura y la cibercultura, de la que Steward Brand era
-uno de los exponentes clave [@turner-2008].  Su línea de razonamiento ha
-sido desde entonces infinitamente elaborada y extendida por hackers,
-compartidores de archivos y activistas, así como por simpatizantes
-académicos.  Puede resumirse sucintamente en el grito de protesta: "la
-información quiere ser libre".  En pos de hacer una crítica de esta crítica,
-empiezo por retomar la forma en que la "información" ha sido
-conceptualizada y construida, para luego discutir cómo la teoría
-económica apuntala esta posición.
+[^gpl]: GPL por sus siglas en inglés.
+
+Brand identificó correctamente dos tendencias en conflicto y las situó
+en una economía de la información.  A continuación contrastó la unicidad
+de la economía de la información con la ordinariez de la economía en su
+conjunto.  La excepcionalidad de la información consiste en que esta
+puede ser copiada indefinidamente, convirtiéndose por lo tanto en un
+bien no rival.  En contraste, los bienes físicos tangibles son escasos y
+rivales.  La unión entre, por un lado, una afirmación (ontológica) sobre
+lo que la información es y, por el otro, la teoría económica clásica y
+neo-clásica sobre la escasez, proveyó la piedra fundacional del
+argumento de Brand contra la propiedad intelectual.  La integración de
+ideas económicas listas para usar en este movimiento social emergente
+apunta a otra conexión subterránea entre la contracultura y la
+cibercultura, de la que Steward Brand era uno de los exponentes clave
+[@turner-2008].  Su línea de razonamiento ha sido desde entonces
+infinitamente elaborada y extendida por hackers, compartidores de
+archivos y activistas, así como por simpatizantes académicos.  Puede
+resumirse sucintamente en el grito de protesta: "la información quiere
+ser libre".  En pos de hacer una crítica de esta crítica, empiezo por
+retomar la forma en que la "información" ha sido conceptualizada y
+construida, para luego discutir cómo la teoría económica apuntala esta
+posición.
 
 
-El objeto liminal: la excepcionalidad de la información
--------------------------------------------------------
-
-The communication scholar Dan Schiller has produced a compelling
-critique of what he labelled the ”information exceptionalism hypothesis”
-It is a fallacy, he charged, to make any special claims for information
-as opposed to other commodities. It is difficult to take aboard his
-argument because the differences between (digital) information and
-tangible, physical goods appear to be self-evident. To avoid a gut
-feeling rejection of his argument, I begin with a flanking manoeuvre
-developed in constructivist science studies. By bracketing the question
-of truth and facts, science studies scholars avoid getting bogged
-down in debates about realism. The focus can instead be placed on
-how the semblance of matter-of-factness and reality is produced by
-various practitioners. I am the first one to acknowledge that the
-constructivist detour can go astray, especially if it hardens into a
-positive description of the world in its own right. When used in a more
-restrictive sense, as a flanking maneuver to arrive at the essential of
-an argument, it can be legitimate. If used wisely, the constructivist
-detour helps to bring out nuances, which would be lost in a reasoning
-which starts and ends with a positive assertion about how the world
-is. Here I propose to make such a detour in order to loosen up some
-certainties about the nature of information (discrete, non-rivalrous,
-etc.). For the time being, I will bracket the question if information
-can be said, truly, to be different to tangible, physical goods. I
-will come back to it in the second half of the text, and thus to Dan
-Schiller's critique. First I need to historicise the given understanding
-of what information is.
+El objeto-frontera: la excepcionalidad de la información
+--------------------------------------------------------
 
 El académico de la comunicación Dan Schiller ha producido una crítica
-irresistible de lo que llamó "la hipótesis de la excepcionalidad
-de la información".  Resulta una falacia, dice, realizar proclamas
-especiales para la información en oposición a otros bienes.  Resulta
-difícil traer a bordo este argumento porque las diferencias entre la
-información (digital) y los bienes físicos, tangibles, aparecen como
-auto evidentes.  Para evitar una rechazo visceral a este argumento,
-comenzaré por una maniobra de flanqueo desarrollada en los estudios
-sociales constructivistas.  Poniendo entre corchetes la pregunta sobre
-la verdad y los hechos, los académicos de los estudios sobre la ciencia
-evitan empantanarse en debates sobre el realismo.  El foco puede ser
-puesto en cambio en cómo la resemblanza entre hechos y realidad es
-producida por varios practicantes.  Soy el primero en reconocer que el
-desvío constructivista puede llevar al estravío, especialmente si se
-endurece en una descripción positiva del mundo en su propio derecho.
-Cuando es utilizado en un sentido más restrictivo, como una maniobra de
-flanqueo para llegar a lo esencial de un argumento, puede ser legítimo.
-Si es utilizado sabiamente, el desvío constructivista ayuda a obtener
-matices que resultarían perdidos en un razonamiento que comienza y
-termina con una afirmación positiva de cómo es el mundo.  Aquí propongo
-tomar tal desvío para aflojar algunas certitudes sobre la naturaleza
-de la información (discreta, no rival, etc.).  Por el momento, pondré
-entre corchetes la pregunta sobre si puede decirse que la información
-es realmente diferente de los bienes tangibles, físicos.  Volveré sobre
-esto en la segunda mitad del texto y por lo tanto a la crítica de Dan
-Schiller.  Primero necesito historizar la comprensión heredada sobre lo
-que es la información.
+convincente de lo que llamó "la hipótesis de la excepcionalidad de la
+información".  Resulta una falacia, dice, exigir un trato diferencial
+para la información en relación a otros bienes.  Resulta difícil
+incorporar este argumento porque las diferencias entre la información
+(digital) y los bienes físicos parecen ser auto evidentes.  Para evitar
+una rechazo visceral a este argumento, comenzaré por una maniobra de
+flanqueo desarrollada en los estudios de la ciencia constructivista.
+Poniendo entre paréntesis la cuestión de la verdad y los hechos, los
+académicos de los estudios sobre la ciencia evitan empantanarse en
+debates sobre el realismo.  El foco puede ser puesto en cambio en cómo
+la resemblanza entre hechos y realidad es producida por varios
+facultativos.  Soy el primero en reconocer que el desvío constructivista
+puede llevar al estravío, especialmente si se encierra en una
+descripción positiva del mundo en su propio derecho.  Cuando es
+utilizado en un sentido más restrictivo, como una maniobra de flanqueo
+para llegar a lo esencial de un argumento, puede ser legítimo.  Si es
+utilizado sabiamente, el desvío constructivista ayuda a obtener matices
+que se perderían en un razonamiento que comienza y termina con una
+afirmación positiva de cómo es el mundo.  Aquí propongo tomar tal desvío
+para aflojar algunas certitudes sobre la naturaleza de la información
+(discreta, no rival, etc.).  Por el momento, pondré entre paréntesis la
+pregunta sobre si puede decirse que la información es realmente
+diferente de los bienes tangibles, físicos.  Volveré en la segunda mitad
+del texto sobre esto, y por lo tanto sobre la crítica de Dan Schiller.
+Primero necesito historizar la comprensión heredada sobre lo que es la
+información.
 
-The process in which ”information” was defined and constructed has been
-extensively debated in the social sciences. I have little to add to
-this debate, but I will give some pointers to it in order to arrive at
-the argument that I want to put forward here. As is well known, Claude
-Shannon's seminal article A Mathematical Theory of Communication from
-1948 was key in defining the dominant conceptualisation of information
-(Shannon 1948). He sought to define information in terms of codification
-and transmission of messages. In other words, as signals indifferent
-to the meaning that they convey to the receiver. As Rafael Capurro has
-argued, this marked a watershed compared to how information had been
-understood in previous ages, going all the way back to the days of the
-Greeks and Romans. The concept of information used to have a broader
-meaning than ”sending messages”. It implied the act of giving form to
-something, such as knowledge or the human mind. This in turn implied
-a context dependent language and meaning creation (Capurro 2009). It
-is no accident that context and meaning was taken out of the equation
-by Shannon. Katherine Hayles has shown how his definition answered to
-the needs of an ascending techno-scientific industry. The industry
-wanted a definition that allowed reliable quantifications. Competing
-definitions was proposed at the time, according to which information
-and its content were treated as part of an inseparable whole. To assess
-”information as meaning”, however, would require some means of measuring
-what had changed in the head of the recipient. It was such practical
-considerations, which persuaded the scientific community to side with
-a narrow, mathematical, and decontextualised definition of information
-(Hayles 1999). A whole world has since been erected around this notion
-of information in order to make it work the way it was originally
-conceived.
-
-El proceso por el cual la "información" es definida y construida ha sido
-un debate extenso en las ciencias sociales.  Tengo muy poco que agregar
-a este debate, pero daré algunos indicios sobre este para poder llegar
-al argumento que intento llevar a cabo.  Como es bien sabido, el
+El proceso por el cual "la información" fue definida y construida ha
+sido extensamente debatido en las ciencias sociales.  Tengo muy poco que
+agregar a este debate, pero daré algunos indicios sobre este para poder
+llegar al argumento que quiero desarrollar aquí. Como es bien sabido, el
 artículo seminal de Claude Shannon _Una teoría matemática de la
-comunicación_ de 1948 fue clave para definir la conceptualización
+comunicación_, de 1948, fue clave para definir la conceptualización
 dominante de la información [@shannon-1948].  Él buscó definir la
 información en términos de codificación y transmisión de mensajes.  En
 otras palabras, como señales indiferentes al significado que el receptor
-les otorga.  Como argumentó Rafael Capurro, esto hizo una marca en la
-forma en cómo era entendida la información en épocas anteriores,
-llegando hasta los días de los griegos y los romanos.  El concepto de
-información tenía un significado más amplio que "enviar mensajes".
-Implicaba el acto de dar forma a algo, como el conocimiento o la mente
-humana.  Esto implicaba un contexto que dependía del lenguaje y la
-creación de significado [@capurro-2009].  No es accidental que contexto
-y significado fueran sacados de la ecuación por Shannon.  Katherine
-Hayles ha demostrado cómo su definición respondía a las necesidades de
-una industria tecnocientífica en ascenso.  La industria necesitaba una
-definición que le permitiera cuantificaciones confiables.  Varias
-definiciones fueron propuestas en ese momento, de acuerdo a las cuales
-la información y su contenido eran tratadas como partes de un todo
-inseparable.  Tomar este "información como significado", requería sin
-embargo algún medio de medir qué había cambiado en la cabeza del
-receptor.  Fueron las consideraciones prácticas las que persuadieron a
+les otorga.  Como argumentó Rafael Capurro, esto marcó una línea
+divisoria en relación a cómo era entendida la información en épocas
+anteriores, llegando hasta los días de los griegos y los romanos.  El
+concepto de información solía tener un significado más amplio que
+"enviar mensajes".  Implicaba el acto de dar forma a algo, como por
+ejemplo al conocimiento o a la mente humana.  Esto implicaba un concepto
+de lenguage dependiente del contexto y de la creación de sentido.
+[@capurro-2009].  No es accidental que el contexto y el significado
+hayan sido sacados de la ecuación por Shannon.  Katherine Hayles ha
+demostrado cómo su definición respondía a las necesidades de una
+industria tecnocientífica en ascenso.  La industria quería una
+definición que le permitiera cuantificaciones confiables.  Otras
+definiciones, para las cuales la información y su contenido eran
+considerados parte de un todo inseparable, fueron propuestas en ese
+momento.  Tomar esta noción de "información como significado" requería,
+sin embargo, alguna forma de medir qué había cambiado en la cabeza del
+receptor.  Fue este tipo de consideraciones prácticas lo que persuadió a
 la comunidad científica de quedarse con una definición estrecha,
 matemática y descontextualizada de la información [@hayles-1999].  Desde
-entonces un mundo entero ha sido construido alrededor de esta noción de
-información para hacerlo funcionar de la forma en que fue concebido
+entonces un mundo entero ha sido erigido alrededor de esta noción de
+información, para hacerla funcionar de la forma en la que fue concebida
 originalmente.
 
-Of course, and in spite of the efforts to the contrary, the creation,
-transmission and operationalisation of information remain situated,
-embodied events that cannot be completely divorced from meaning
-making. Although it can be relevant for other reasons to distinguish
-between knowledge and information, as many cultural critics have done,
-the two are not antithetical in the sense that one carries meaning and
-the other does not (Malik 2005). The setting apart of information from
-the material substrate in which it inevitably is inscribed should be
-recognised as a cultural invention. From it has followed notions about
-”cyberspace” and ”virtual reality”. In the 1990s, the Internet was
-customarily depicted as a disembodied realm of information flows. The
-attractiveness of this idea can partly be explained by that it drew
-strength from a millennial-old dualism in philosophical thinking,
-sometimes spoken of as an opposition between form and matter, other
-times as mind and body, and so on (Hayles 1994; Fuchs 2003). In the new
-media studies literature, variations upon this dualism have been equally
-prolific. For instance, the same opposition tends to resurface when the
-”virtual community” is contrasted with real, geographically bounded
-communities (for a critique: Proulx and Latzko-Toth , 2005). Among
-legal scholars, a parallel discussion has raged if the virtual worlds
-constitute a separate jurisdiction requiring unique laws (Lastowka and
-Hunter 2004).
-
-Por supuesto, y a pesar de las esfuerzos en contra, la creación,
-transmisión y operacionalización de información permaneció situada
-e incorporó eventos que no pueden quedar completamente divorciados
-de la creación de significado.  Aunque puede ser relevante por otras
-razones distinguir entre conocimiento e información, como muchos
-críticos culturales han hecho, ambos no son antitéticos en el sentido
-que uno lleve significado y el otro no [@malik-2005].  La separación
-de la información del sustrato material en el cual es inevitablemente
+Por supuesto, y a pesar de los esfuerzos en sentido contrario, los
+eventos de creación, transmisión y operacionalización de la información
+permanecieron situados y encarnados, no pudiendo quedar completamente
+divorciados de la creación de sentido.  Aunque puede ser relevante por
+otras razones distinguir entre conocimiento e información, como muchos
+críticos culturales han hecho, éstos no son antitéticos en el sentido de
+que uno conlleva significado y el otro no [@malik-2005].  La separación
+de la información del sustrato material en el cual está inevitablemente
 inscrita debe ser reconocida como una invención cultural.  A partir de
-ella se han seguido nociones sobre el "ciberespacio" y la "realidad
-virtual".  En los '90, la Internet era habitualmente pintada como un
+ella se han derivado nociones sobre el "ciberespacio" y la "realidad
+virtual".  En los '90, Internet era habitualmente representada como un
 reino incorpóreo de flujos de información.  La atracción de esta idea
-puede ser explicada parcialmente porque tomaba fuerza del milenario
-dualismo del pensamiento filosófico, a veces referenciado como una
-oposición entre forma y materia, otras como mente y cuerpo y así
-[@hayles-1994; @fuchs-2003].  En la literatura de los nuevos estudios
-de medios han proliferado variantes de este dualismo.  Por ejemplo,
-la misma oposición tiende a resurgir cuando la "comunidad virtual" es
-contrastada con las comunidades reales, delimitadas geográficamente
-(para una crítica, ver Proulx y Latzko-Toth [-@proulx-latzko-2005]).
-Entre los académicos legales, una discusión paralela ha surgido sobre si
-los mundos virtuales constituyen una jurisdicción separada que requiere
-leyes únicas [@lastowska-hunter-2004].
-
-The notion of cyberspace as a disembodied realm of information
-exchange has come under sustained critique from feminists and cultural
-scholars. Instead of reiterating those critiques one more time, I would
-like to redeem the counterposition, although flawed it may be. One
-should keep in mind that the positing of a transcendental Beyond has
-often in history served as a point for critique and opposition to
-that which exists. Some examples include a kingdom of heaven, natural
-rights and technological (or historical) determinism. Perry Barlow's
-now infamous declaration of independence of cyberspace could rightfully
-be considered as a continuation of this long, potentially critical
-and emancipatory, tradition. Indeed, the declaration would have been
-pointless to Barlow had he not thought that cyberspace would bleed
-into and change the states of the industrial world (Barlow 1996). The
-lesson is the following: The moment something (information, cyberspace,
-etc.) is posited as a separate Beyond vis-à-vis its surroundings,
-it has already spilled over that boundary and begun to affect the
-”outside”. The same strategy is adopted by the adversaries of the
-current intellectual property regime when they adopt the information
-exceptionalism hypothesis.
+puede ser explicada parcialmente porque tomaba fuerza de un milenario
+dualismo en el pensamiento filosófico, a veces referenciado como una
+oposición entre forma y materia, otras como mente y cuerpo, y así
+[@hayles-1994; @fuchs-2003].  En la bibliografía sobre los estudios de
+los nuevos medios han proliferado también variantes de este dualismo.
+Por ejemplo, la misma oposición tiende a resurgir cuando la "comunidad
+virtual" es contrastada con las comunidades reales ancladas
+geográficamente (para una crítica, ver Proulx y Latzko-Toth
+[-@proulx-latzko-2005]).  Entre los juristas se ha desencadenado una
+discusión paralela que debate si los mundos virtuales constituyen una
+jurisdicción separada que requiere leyes epecíficas
+[@lastowska-hunter-2004].
 
 La noción del ciberespacio como un reino incorpóreo de intercambio de
 información ha sido puesta bajo una crítica sostenida por feministas y
-académicos culturales.  En lugar de reiterar estas críticas, me gustaría
-redimir la contraposición, tan defectuosa como pueda ser.  Hay que tener
-en mente que la puesta de un Más Allá trascendental ha servido
-históricamente como un punto de crítica y oposición a aquello que
-existe.  Algunos ejemplos incluyen el Reino de los Cielos, los derechos
-naturales y el determinismo tecnológico (o histórico).  La famosa
-declaración de independencia del ciberespacio de Perry Barlow puede ser
-considerada en todo derecho una continuación de esta larga,
-potencialmente crítica y emancipatoria tradición.  En efecto, la
-declaración hubiera sido inútil si Barlow no hubiera pensado que el
-ciberespacio se colaría en y cambiaría los estados del mundo industrial
-[@barlow-1996].  La lección es la siguiente: en el momento en que algo
-(información, ciberespacio, etc.) es puesto como un Más Allá separado y
-enfrentado a sus alrededores, ya ha derramado ese límite y comenzado a
-afectar lo de "afuera".  La misma estrategia es adoptada por los
-adversarios del régimen actual de la propiedad intelectual cuando
-adoptan la hipótesis de la excepcionalidad de la información.
+estudiosos de la cultura.  En lugar de reiterar estas críticas, me
+gustaría redimir la posición contraria, a pesar de lo defectuosa que
+pueda ser.  Hay que tener en mente que la postulación de un Más Allá
+trascendental ha servido históricamente como un punto para la crítica y
+la oposición a aquello que existe.  Algunos ejemplos incluyen el Reino
+de los Cielos, los derechos naturales y el determinismo tecnológico (o
+histórico).  La actualmente infame declaración de independencia del
+ciberespacio de Perry Barlow puede ser considerada en todo derecho una
+continuación de esta larga, potencialmente crítica y emancipatoria
+tradición.  En efecto, la declaración hubiera sido inútil si Barlow no
+hubiera pensado que el ciberespacio se colaría en y cambiaría los
+estados del mundo industrial [@barlow-1996].  La lección es la
+siguiente: en el momento en que algo (información, ciberespacio, etc.)
+es puesto como un Más Allá separado y enfrentado a sus alrededores, ya
+ha derramado ese límite y ha comenzado a afectar lo de "afuera".  La
+misma estrategia es adoptada por los adversarios del régimen actual de
+la propiedad intelectual cuando adoptan la hipótesis de la
+excepcionalidad de la información.
 
-
-The observation above can be further elaborated on by borrowing two
-popular terms from the science studies literature, boundary work and
-boundary objects. The first term was proposed by Thomas Gieryn. He used
-it to describe how science is separated from non-science by the efforts
-of scientists to uphold their professional status against amateur
-scientists and religious contenders. The lesson worth emphasising
-in the context of the present argument is that the boundary is not
-naturally given. It does not exist independently of the practitioners'
-whereabouts. The boundary has to be perpetually maintained, defended
-and re-negotiated (Gieryn 1983). The second term was introduced by
-Susan Leigh Star and James Griesemer. Their contribution consisted
-in treating the boundary not merely as a marker of difference but
-equally as an interface enabling communication across heterogeneous,
-scientific communities. The boundary object was plastic enough to adapt
-to local needs, while robust enough to maintain a common identity across
-different sites (Star and Griesemer 1989; Lamont and Molnár 2002). The
-original definition of boundary work does not match perfectly onto
-the information exceptionalism hypothesis outlined above, but it does
-a good enough job to bring home my key point. The boundary between
-informational resources and physical goods is not a given. It must be
-upheld through continuous work. The exceptionalism of information and
-the separateness of the virtual realm constitute the boundary object of
-the campaigners for information commons.
-
-La observación anterior puede ser elaborada tomando prestados dos
-términos populares en la literatura de los estudios de las ciencias,
-trabajo liminal y objetos liminales.  El primer término fue propuesto
-por Thomas Gieryn.  Lo utilizó para describir cómo la ciencia es
-separada de la no ciencia por los esfuerzos de los científicos por
-sostener su estatus profesional frente a científicos amateur y
-contendientes religiosos.  La lección que hay que enfatizar en el
-contexto del argumento presente es que los límites no están dados
-naturalmente.  Los límites deben ser mantenidos perpetuamente,
-defendidos y re-negociados [@gieryn-1983].  El segundo término fue
-introducido por Susan Leigh Start y James Griesemer.  Su contribución
-consistió en tratar los límites no solamente como un marcador de
-diferencia sino igualmente como una interfaz que habilita la comunición
-entre comunidades científicas heterogéneas.  El objeto liminal era lo
-suficientemente plástico para adaptarse a las necesidades locales, a la
-vez que lo suficientemente robusto para mantener una identidad común
-entre distintos sitios [@star-griesemer-1989; @lamont-molnar-2002].  La
-definición original del trabajo liminal no encaja perfectamente en la
-hipótesis de la excepcionalidad de la información descrita más arriba,
-pero hace un buen trabajo en acerca mi punto clave.  El límite entre los
-recursos informacionales y los bienes físicos no está dado.  Debe ser
+La observación anterior puede ser desarrollada tomando prestados dos
+términos populares de los estudios de las ciencias: trabajo-frontera y
+objetos-frontera.  El primer término fue propuesto por Thomas Gieryn.
+Lo utilizó para describir cómo la ciencia es separada de la no-ciencia
+por los esfuerzos de los científicos para sostener su estatus
+profesional frente a científicos amateurs y contendientes religiosos.
+La lección que vale la pena enfatizar en el contexto del presente
+argumento es que el límite no está dado naturalmente.  No existe
+independientemente del paradero del profesional. El límite debe ser
+perpetuamente sostenido, defendido y re-negociado [@gieryn-1983]. El
+segundo término fue introducido por Susan Leigh Start y James Griesemer.
+Su contribución consistió en tratar el límite no solamente como un
+marcador de diferencia sino también como una interfaz que habilita la
+comunición a través de comunidades científicas y heterogéneas.  El
+objeto-frontera era lo suficientemente plástico como para adaptarse a
+las necesidades locales, a la vez que lo suficientemente robusto como
+para mantener una identidad común a través de distintos sitios
+[@star-griesemer-1989; @lamont-molnar-2002].  La definición original del
+trabajo de frontera no coincide perfectamente con la hipótesis de la
+excepcionalidad de la información descrita más arriba, pero sí hace un
+buen trabajo en acercar mi punto clave. El límite entre los recursos
+informacionales y los bienes físicos no es un hecho dado.  Debe ser
 sostenido a través de trabajo continuo.  La excepcionalidad de la
-información y la separación del reino virtual constituye el objeto
-liminal de los militantes de los comunes informacionales.
+información y la separación del reino virtual constituyen el
+objeto-frontera de los militantes por un fondo común de la información.
 
-In line with Susan Leigh Star and James Griesemer’s understanding of
-the term, the vagueness of the notion ”information” is not a flaw but a
-strength. It is this imprecision, which allows hackers and activists of
-varying persuasions to communicate and collaborate with each other. This
-is probably even more important to hackers than to the average science
-community, given their sharp ideological differences. This corresponds
-in a way with the observation about the ”political agnosticism” of
-hackers outlined by Gabriella Coleman (Coleman 2004) There is a less
-innocent side to this story. As Geoffrey Bowker and Susan Leigh Star
-clarified in a later work, the classifications laid down by a boundary
-object have biases, which validate some points of view while rendering
-other positions invisible and/or unspeakable (Bowker and Star 1999)
-. That which has been rendered invisible in the boundary object of
-“information exceptionalism” can be seen from a quote by one of the
-chief architects behind the movement for creative commons licenses,
-Lawence Lessig. After having made a passionate case in favour of that
-information and culture should be distributed in a commons and free
-of charge, Lessig reassures his readers that markets and commons can
-co-exist side-by-side. He underlines that not all resources can nor
-should be organized in a commons:
-
-En la línea del entendimiento de Susan Leigh Start y James Griesemer del
-término, la vaguedad de la noción de "información" no es una falla sino
-una fortaleza.  Es esta imprecisión la que permite a los hackers y
-activistas de varias persuasiones comunicarse y colaborar entre sí.
-Esto es probablemente más importante para los hackers que para las
-comunidades científicas promedio, dadas sus marcadas diferencias
+En consonancia con la concepción del término sostenida por Susan Leigh
+Start y James Griesemer, la vaguedad de la noción de "información" no es
+una falla sino una fortaleza.  Es esta imprecisión la que permite a los
+hackers y activistas de variadas persuasiones comunicarse y colaborar
+entre sí.  Esto es probablemente más importante para los hackers que
+para la comunidad científica promedio, dadas sus marcadas diferencias
 ideológicas.  Esto corresponde de alguna forma con la observación sobre
 el "agnosticismo político" de los hackers descrito por Gabriella Coleman
-[-@coleman-2004].  Hay un costado menos inocente de esta historia.  Como
+[-@coleman-2004].  Hay un costado menos inocente en esta historia.  Como
 clarificaron Geoffrey Bowker y Susan Leigh Star en una obra posterior,
-las clasificaciones que establece un objeto liminal tienen sesgos que
+las clasificaciones que establece un objeto-frontera tienen sesgos que
 validan algunos puntos de vista mientras que vuelven invisibles o
-inefables a otras posiciones [@bowker-star-1999].  Aquello que ha sido
-vuelto invisible en el objeto liminal de la "excepcionalidad de la
+inefables otras posiciones [@bowker-star-1999].  Aquello que se ha
+vuelto invisible en el objeto-frontera de "la excepcionalidad de la
 información" puede ser visto en una cita de uno de los principales
 arquitectos detrás del movimiento de las licencias Creative Commons,
 Lawrence Lessig.  Después de haberse presentado apasionadamente en favor
-de que la información y la cultura deban ser distribuídas en un común y
-gratuitamente, Lessig reasegura a sus lectores que los mercados y los
-comunes pueden coexistir uno al lado del otro.  Subraya que no todos los
-recursos pueden o deben ser organizados en un común:
-
-
-"While some resources must be controlled, others can be provided much
-more freely. The difference is in the nature of the resource, and
-therefore in the nature of how the resource is supplied" (Lessig 2001,
-94).
+de que la información y la cultura deban ser distribuídas en un fondo
+común y gratuitamente, Lessig reasegura a sus lectores que los mercados
+y los fondos comunes pueden coexistir uno al lado del otro.  Subraya que
+no todos los recursos pueden ni deben ser organizados en un fondo común:
 
 > Mientras que algunos recursos deben ser controlados, otros pueden ser
 > provistos mucho más libremente.  La diferencia está en la naturaleza
 > del recurso y por lo tanto en la naturaleza de cómo el recurso es
 > provisto [@lessig-2001].
 
-
-It is in the nature of informational, non-rival resources to be
-organised in a commons. In the same vein, rival, tangible resources
-are thought of as suited for markets. It is the nature of the resource
-which determines if a product is rival or non-rival. While intellectual
-property is said to create scarcity, traditional property is assumed
-to be grounded in objectively existing limitations in the real
-world. By implication, ownership of tangible, rival goods is seen as
-”operational”, not to say ”optimal”. The same line of thought underpins
-Yochai Benkler’s argument,which has been no less influential in shaping
-the predominant critique against the current intellectual property:
-
-Está en la naturaleza de los recursos informacionales, no rivales, ser
-organizados en un común.  En la misma vena, los recursos rivales,
-tangibles, son pensados como adecuados para los mercados.  Es la
-naturaleza de un recurso lo que determina si un producto es rival o no
+Está en la naturaleza de los recursos informacionales no rivales estar
+organizados en un fondo común.  En la misma línea, los recursos
+tangibles y rivales, se piensan como adecuados para los mercados.  Es la
+naturaleza del recurso lo que determina si un producto es rival o no
 rival.  Mientras se dice que la propiedad intelectual crea escasez, la
-propiedad tradicional se asume como fundamentada en limitaciones
-existentes objetivamente en el mundo real.  Por implicación, la
-propiedad de bienes tangibles, rivales, es vista como "operacional", por
-no decir "óptima".  La misma línea de pensamiento apuntala el argumento
-de Yochai Benkler, que no ha sido menos influencial en la formación de
-la crítica predominante de la propiedad intelectual actual:
-
-“In the context of information, knowledge, and culture, because of the
-non- rivalry of information and its characteristic as input as well as
-output of the production process, the commons provides substantially
-greater security of context than it does when material resources, like
-parks or roadways, are at stake” (Benkler 2006, 146).
+propiedad tradicional se asume como fundamentada en limitaciones que
+existen objetivamente en el mundo real.  Por implicación, la propiedad
+de bienes tangibles y rivales es vista como "operacional", por no decir
+"óptima".  La misma línea de pensamiento apuntala el argumento de Yochai
+Benkler, que no ha sido menos influyente en la conformación de la
+crítica predominante de la propiedad intelectual actual:
 
 > En el contexto de la información, el conocimiento y la cultura, por la
-> no rivalidad de la información y sus características tanto como
-> entrada y como salida del proceso productivo, los comunes proveen un
-> contexto de seguridad substancialmente mayor de lo que pueden hacer
-> cuando los recursos materiales, como los parques y las autopistas,
-> están en juego [@benkler-2006, pp. 146].
-
-More so than Lawrence Lessig, Yochai Benkler recognises that his
-reasoning rests on technological and social conditions that are
-transitory. As a consequence, the balance scales between commons
-and markets might shift and needs to be reassessed from time to
-time. However, Benkler understands technological and social change as
-external factors acting upon his computations from an Outside. What
-goes unrecognised is that those factors are integral to a larger
-social conflict, in which the two law scholars are taking part. What
-is at stake in this struggle is precisely the demarcation line between
-commons and markets. The idea that the optimal balance point between
-commons and markets can be established in a technical, neutral manner
-is fictitious. Lessig and Benkler are not unaware of the presence of
-a struggle, but they put it down to the machinations of uninformed
-and/or corrupted legislators. Plenty of evidence can be marshalled in
-support of that claim, but it leaves out what is most fundamental. This
-is due to the boundary laid down by the hypothesis about information
-exceptionalism. It asserts that a critique against the current
-intellectual property regime does not imply a general critique of
-private property as such. It affirms that the advocacy for information
-commons is not at the same time an assailment against the free market.
+> no rivalidad de la información y sus características como entrada y
+> también como salida del proceso productivo, los comunes proveen un
+> contexto cuya seguridad es sustancialmente mayor que lo que sucede
+> cuando recursos materiales, como los parques y las autopistas, están
+> en juego [@benkler-2006, pp. 146].
 
 Aun más que Lawrence Lessig, Yochai Benkler reconoce que su razonamiento
 descansa sobre condiciones sociales y tecnológicas que son transitorias.
 Como consecuencia, la balanza entre comunes y mercados puede cambiar y
 necesita ser reevaluada de tiempo en tiempo.  Sin embargo, Benkler
-comprende el cambio social y tecnológico como factores externos actuando
-sobre sus computaciones desde un Afuera.  Lo que pasa desapercibido es
-que esos factores son integrales a un conflicto social más amplio, en el
-que los dos académicos legales están tomando parte.  Lo que está en
-juego en esta lucha es precisamente la línea de demarcación entre
-comunes y mercados.  La idea de que el punto de balance óptimo entre
-comunes y mercados puede establecerse de una manera técnica y neutral es
-ficticia.  Lessig y Benkler no son inconcientes de la presencia de una
-lucha, pero la rebajan a las maquinaciones de legisladores desinformados
-y/o corruptos.  Puede recolectarse suficiente evidencia para apoyar esta
-afirmación, pero deja fuera lo más fundamental.  Esto es así por el
-límite establecido por la hipótesis de la excepcionalidad informacional.
-Afirma que la crítica de la propiedad intelectual actual no implica a su
-vez una crítica general de la propiedad privada como tal.  Afirma que la
-militancia por los comunes informacionales no es a la vez un asalto al
-libre mercado.
-
-The bias of the boundary object must be respected by everyone in the
-geek public, on pain of being marginalised. This includes critics of
-intellectual property who are typically identified as ”leftists”. For
-instance, Richard Stallman, the founder of the Free Software Foundation,
-insists on not using the word ”intellectual property”. He argues that
-this term causes confusion by gathering a range of distinct legislation
-under a catch-all phrase (Stallman 2006). This wish to separate private
-property from the critique of intellectual property is also suggested
-by the iconic catch-phrase of the Free Software Foundation: ”free as in
-free speech, not free as in free beer”. By framing the issue in this
-way, the case for information commons can be portrayed as a defence of
-civil liberties, rather than being seen as an attack on private property
-and thus a struggle for economic redistribution.1 No one can deny that
-this way of presenting the issue has tactical advantages. Perhaps even
-the case for information commons becomes all the more efficient in
-criticising private property and free markets by not giving itself
-away as such a critique. Concurrently, this suggests the embeddedness
-of the critique of intellectual property in a liberal, commonsensical
-worldview, largely defined and systematised in the economic discipline.
+entiende el cambio social y el tecnológico como factores externos que
+actúan sobre sus computaciones desde un Afuera.  Lo que pasa
+desapercibido es que esos factores son parte de un conflicto social más
+amplio, en el que los dos juristas toman partido.  Lo que está en juego
+en esta lucha es precisamente la línea de demarcación entre comunes y
+mercados.  La idea de que el punto de balance óptimo entre comunes y
+mercados puede establecerse de una manera técnica y neutral es ficticia.
+Lessig y Benkler no son inconcientes de la presencia de una lucha, pero
+la rebajan a maquinaciones de legisladores desinformados y/o corruptos.
+Puede recolectarse suficiente evidencia para apoyar esta afirmación,
+pero ésto deja fuera lo más fundamental.  Esto se debe al límite
+establecido por la hipótesis de la excepcionalidad informacional.
+Afirma que una crítica de la propiedad intelectual actual no implica a
+su vez una crítica general de la propiedad privada como tal.  Afirma que
+la militancia por los comunes informacionales no es a la vez un ataque
+al libre mercado.
 
 El sesgo del objeto liminal debe ser respetado por todo el público
 _geek_[^geek] bajo pena de quedar marginalizado.  Esto incluye a los
@@ -625,15 +426,6 @@ y sistematizada en la disciplina económica.
 [^freebeer]: "Libre como un libertad de expresión, no como en cerveza
               libre"
 
-[^1]: This argument has been taken one step further by libertarian critics
-of intellectual property. Instead of talking about ”intellectual
-property”, they promote the derogative term “intellectual monopoly”. The
-case against property rights can thus be refashioned as an attack on
-state regulations and market distortions (Boldrin and Levine 2008). This
-line of argument is underpinned by the old libertarian fallacy that
-private property and markets can exist independently of the state and
-its legal powers.
-
 [^1]: Este argumento ha sido llevado un paso más allá por los críticos
 _libertarian_ de la propiedad intelectual.  En lugar de hablar sobre
 "propiedad intelectual", promueven el término derogativo "monopolio
@@ -647,24 +439,8 @@ Estado y sus poderes legales.
 
 [^geek]: Geek es el fanático de la tecnología.
 
-Abundance - the anomaly of classical/neo-classical economic science
-
 Abundancia: la anomalía en la ciencia económica (neo)clásica
 ------------------------------------------------------------
-
-The information exceptionalism hypothesis exploits an anomaly in
-a (scientific) paradigm, that is, the economic discipline and its
-predominant traditions, large part of the classical and the entire
-neo-classical economic theory (Daoud 2011; 2010) I am using the term
-”anomaly” in the strict sense given to it by Thomas Kuhn (1996). In his
-classic theory of science, to put it briefly, an anomaly is defined as
-something which gainsaid the prevailing scientific wisdom of the day. It
-is hard even to catch sight of the inconsistency, and impossible to
-resolve it within the scientific worldview of the day. Hence, an anomaly
-points beyond the established order, towards a new scientific paradigm
-which can make better sense of the observational data. However, since no
-way of conceptualising the world can give the ultimate and exhaustive
-explanation of reality, new anomalies are bound to crop up again.
 
 La hipótesis de la excepcionalidad de la información explota una anomalia
 en un paradigma (científico), esto es, la disciplina económica y sus
@@ -680,29 +456,6 @@ orden establecido, hacia un nuevo paradigma científico que pueda dar
 sentido a los datos observados.  Sin embargo, ya que ninguna forma de
 conceptualizar el mundo puede dar una explicación de la realidad última
 y exhaustiva, nuevas anomalías están destinadas a aparecer.
-
-A common denominator and key postulate in classical and neo-classical
-economic thinking is the omnipresence of scarcity. Because resources
-are limited in relation to unbounded human needs/fancies, humans act
-as economic, maximising agents. It is for this reason, we are told,
-that economic theory can make predictions about human behaviour. The
-economist must posit scarcity in order to see anything in the
-world. Scarcity is his condition for seeing, and his blind spot. To
-such a science, the existence of something non-rival becomes an
-anomaly. This phenomenon has been recognised by economists as the
-problem of “public goods”. Seen from inside this paradigm, public goods
-is something that causes market failures. By defining public goods in
-those terms the anomaly has not been resolved. It merely reaffirms the
-starting assumptions of the economic science. An example closely related
-to the present argument is the talk about the rise of a so-called
-“attention economy” (Simon 1971). The abundance of information is said
-to have resulted in a new scarcity, i.e. the lack of attention among
-audiences. Hence, the market in information is superseded by a market in
-attention. Abundance is here defined as a scarcity of scarcity. My point
-is not that non-rivalrous, abundant goods exist in the world and the
-economic science is flawed to the extent that it fails to acknowledge
-them. Rather, what is important is that the anomaly is itself a product
-of the economist’s particular way of looking.
 
 Un denominador común y postulado clave en el pensamiento económico
 clásico y neoclásico es la omnipresencia de las escasez.  Ya que los
@@ -729,25 +482,6 @@ al punto de que es incapaz de reconocerlos.  Antes bien, lo que es
 importante es que la anomalía es en sí misma producto de la forma
 particular de observación del economista.
 
-Being an artifact of the economic way of looking, it follows that the
-problem with non-rival goods arose at the same time as this discipline
-was staged. To the founding fathers, however, it was light rather
-than information which caught their puzzled attention. Henry Sidgwick
-observed that “the benefits of a well-placed lighthouse must be largely
-enjoyed by ships on which no toll could be conveniently imposed”
-(Sidgwick 1901, 412). John Stuart Mill concurred that the service
-provided by lighthouses was best administered collectively as a public
-good (Mill 1965, 968). A hundred years later, Ronald Coase returned to
-the debate over lighthouses and affirmed that it still posed a challenge
-to economic theory (1974). The connection between light and ideas was
-made by Thomas Jefferson (Peterson 1984). He famously concluded that
-both must be freely shared. Inventions cannot, by their very nature, be
-subject to exclusive private ownership. All of those statements converge
-in the claim that the political economy of information abides to laws
-different from those found in the political economy in general. This
-assumption was more systematically explored by the economist Fritz
-Machlup. He underlined the unusual properties of information:
-
 Al ser un artefacto de la forma de observación económica, se sigue que
 el problema de los bienes no rivales surgieron al mismo tiempo que esta
 disciplina fue puesta en escena.  Para sus padres fundacionales, sin
@@ -769,38 +503,9 @@ política en general.  Esta asunción fue sistemáticamente explorada por
 el economista Fritz Machlup.  Subrayó las propiedades inusuales de la
 información:
 
-
-”If a public or social good is defined as one that can be used by
-additional persons without caus- ing any additional cost, then knowledge
-is such a good of the purest type.” (Machlup 1984, 159).
-
 > Si un bien público o social se define como uno que puede ser usado por
 > personas adicionales sin causar un costo adicional, entonces el
 > conocimiento es el más puro de estos bienes [@machlup-1984, pp. 159]
-
-When Stewart Brand declared that information wants to be free, he jumped
-on an anomaly in the economic science. Grievances about intellectual
-property law could now be addressed by turning the economic science
-against itself. It laid the foundation for the present, dominant
-critique of intellectual property in its innumerable variations. Despite
-the many garden varieties, the argument pivots around the discrepancy
-between endless digital resources and limited tangible resources. The
-non-existent marginal cost of reproducing knowledge is said to be in
-conflict with its treatment as a scarce property. It is for this reason
-intellectual property law is found guilty of the cardinal sin in the
-economic sciences: sub-optimal efficiency. Hence, the same judgement
-is passed on it as would befall any other obsolete industry or sector:
-it must perish. This conclusion is underlined by connecting back from
-time to time to economic theory. In the case of Yochai Benkler, the
-connection is even written out in the title of his major book: The
-wealth of networks (2006). It is a beautiful rhetorical move. In a
-world where the economic science has shaped much official discourse
-and human self-understanding, a self-contradiction within the same
-worldview becomes a powerful lever for delivering critique against
-status quo. With the same self-assurance as economists lay down the
-omnipresence of scarcity and the inescapable laws of the market, critics
-of intellectual property assert the non-rival nature of informational
-resources and its exception from those same laws.
 
 Cuando Steward Brand declaró que la información quiere ser libre, estaba
 saltando a una anomalía de la ciencia económica.  Los agravios de la
@@ -837,24 +542,6 @@ Political economy of information
 
 La economía política de la información
 --------------------------------------
-
-The flanking maneuver is completed. Having got this far into the
-argument, the time has come to close the bracket in which I initially
-put the question, if the information exceptionalism hypothesis is
-an outright false proposition. My answer is that the exceptionalism
-attributed to information is not incorrect per se. The hypothesis is
-problematic only because it sets our inquiry off in the wrong direction
-by choosing a partial and one-sided point of departure. It holds out
-the wrong end of the rope when we try to make sense of intellectual
-property and information commons. If this seems like a minor correction,
-hardly worth all the stir I previously made, then I contend that
-this difference in nuance leads to an altogether different approach,
-both analytically and politically. By questioning the exceptionality
-attributed to information, the orientation of the inquiry as a whole is
-put in question too, because the ”exceptionality” is an artifact of the
-way the inquiry has been framed. The crux is the notion of scarcity,
-the alpha and omega of the economic discipline which gives raise to its
-radical Other: inexhaustible abundance of informational resources.
 
 La maniobra de flanqueo está completa.  Habiendo ido tan lejos en este
 argumento, ha llegado el momento de cerrar los corchetes entre los que
@@ -894,55 +581,12 @@ Marshal Sahlins, basándose en sus estudios sobre sociedades arcaicas,
 hablaba desde tal punto de vista elevado cuando hizo las siguientes
 observaciones:
 
-The starting point of the information exceptionalism hypothesis is a
-matter-of-factness assertion about the positive existence of scarcity
-in the physical world, borrowed from the economic discipline. The
-alternative is a historically and sociologically informed approach,
-according to which scarcity (both of intangible and tangible goods)
-is always-already inscribed in prevailing social relations. It is
-here that a robust analysis of intellectual property must start. My
-claim might sound counter-intuitive. Scarcity in the physical world
-is a condition of modern life, everywhere experienced as shortage and
-unfulfilled want. Certainty of such experiences must be suspended in
-favour of a viewpoint that relates scarcity to the social whole of the
-market-industrial system. The anthropologist Marshall Sahlins, drawing
-on his studies of archaic societies, talked from such an elevated
-vantage point when he made the following remarks:
-
-
-"The market-industrial system institutes scarcity, in a manner
-completely unparalleled and to a degree nowhere else approximated. Where
-production and distribution are arranged through the behaviour
-of prices, and all livelihoods depend on getting and spending,
-insufficiency of material means becomes the explicit, calculable
-starting point of all economic activity" (Sahlins , 1972, 4).
-
 > El sistema industrial de mercado instituye la escasez de una manera
 > sin paralelo y en un grado sin aproximación.  Donde la producción y la
 > distribución están organizadas a través del comportamiento de los
 > precios y todos los medios de vida dependen de obtener y gastar, la
 > insuficiencia del material se convierte en el punto inicial explícito
 > y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
-
-
-Numerous historians have demonstrated how this state of affairs came
-to be, starting with the enclosure movement in fifteenth and sixteenth
-century England (Perelman, 2000). Land that previously had been held in
-common was fenced in and assigned to individual property holders. Land
-was made into a scarce resource, just as information at one point
-was made to be an abstract and decontextualised entity. The current
-expansion of intellectual property, in James Boyle’s memorable words,
-amounts to ”a second enclosure movement” (Boyle 2003). He exemplifies
-an analysis that starts with a broader critique of private property
-and commodification as moments in a historically unfolding, social
-whole. The historical perspective on scarcity puts stress on continuity
-rather than discontinuity, and shows that the political economy of
-information is not so exceptional after all. Nothing said so far denies
-the common sense notion that there is a qualitative difference between
-information goods and tangible goods. Nor do I deny that it can be
-meaningful to reflect over this difference. What is at stake is solely
-how to best frame such an inquiry. The point was forcefully made by Dan
-Schiller in his critique of the information exceptionalism hypothesis:
 
 Muchos historiadores han demostrado cómo este estado de cosas ha llegado
 a ser, comenzando por el movimiento de cercamiento en los siglos XVI y
@@ -965,42 +609,12 @@ diferencia.  Lo que está en juego es solamente cómo enmarcar mejor tal
 investigación.  El punto fue forzosamente hecho por Dan Schiller en su
 crítica de la hipótesis de la excepcionalidad de la información:
 
-“As against the postindustrialists' assertion that the value of
-information derives from its inherent attributes as a resource, we
-counter that its value stems uniquely from its transformation into a
-commodity — a resource socially revalued and refined through progressive
-historical application of wage labor and the market to its production
-and exchange.” (Schiller 1988, 41).
-
 > Así como estamos en contra de la afirmación posindustrialista de que
 > el valor de la información deriva de sus atributos inherentes en tanto
 > recurso, respondemos que su valor nace solamente de su transformación
 > en una mercancía -- un recurso socialmente revalorizado y refinado a
 > través de una aplicación histórica progresiva del trabajo asalariado y
 > el mercado en su producción e intercambio [@schiller-1988. pp. 41].
-
-What appears to be inherent characteristics of information turns out
-to be, on a second look, a passing moment in a larger, historical
-process. Previously in the text I mentioned that information was defined
-in the mid-twentieth century as an abstract and decontextualised
-entity. Competing definitions of information existed at the
-time but this one was best aligned to the needs of an ascending
-scientific-industrial complex. Fifty years down the road, Claude
-Shannon's definition of information has sunk into the infrastructures,
-practices and representations of our society. To say that his definition
-of information is a cultural innovation and a construction does not
-imply that it could be wished away tomorrow, simply by making a
-critique of it. Information thus understood is real enough, and it has
-contributed to a rupture in the fabric of society, roughly corresponding
-with the spread of information technology. My only contention is that
-this rupture should be located in the labour process, not in some
-inherent characteristics attributed to information as-such. Instead of
-speaking of ”infinitely reproducible information treated as a scarce
-resource”, it would be more appropriate to say ”private property
-straitjacketed onto a socialised labour process”. The chief advantage
-with the latter description is that it allows a more dynamic style of
-reasoning. A given, empirical reality can be studied as transitional in
-its becoming.
 
 Lo que parecen ser características inherentes a la información terminan
 siendo, en un segundo vistazo, un momento pasajero en un proceso
@@ -1026,19 +640,6 @@ esta última descripción es que permite un estilo más dinámico de
 razonamiento.  Una realidad empírica dada puede ser estudiada como una
 transición en su desarrollo.
 
-The advantages of the latter approach is plain to see when the object of
-study is technological change and creative destruction. The convergence
-of hardware and software is a case in point. This trend was working its
-way long before the surge of home-made, open source 3D printers forced
-the issue. A case in point is field-programmable circuits, widely used
-in the computer industry since more than a decade. The circuits are
-manufactured in such a way that the final design can be reprogrammed
-at a later date, as if it was software code. Needless to say, we owe
-the existence of field-programmable circuits to something more than the
-innate trajectory of scientific and technological progress. A testimony
-from an industry leader in the 1990s, anticipating the increased use of
-field-programmable circuits, makes this point succinctly:
-
 Las ventajas de este abordaje se ven cuando el objeto de estudio es el
 cambio tecnológico y la destrucción creativa.  La convergencia de
 hardware y software es un caso en cuestión.  Esta tendencia se estaba
@@ -1054,22 +655,10 @@ tecnológico.  Un testimonio de un líder industrial en los '90,
 anticipando el incremento en el uso de estos circuitos, afirma este
 punto sucintamente:
 
-"Our edge is that we can use easily available programming skills to do
-what previously required expensive and hard-to-recruit chip designers"
-(Gibson 1999, 38).
-
 > Nuestra ventaja es que podemos utilizar capacidades de programación
 > fácilmente encontrables para hacer lo que antes necesitaba de
 > diseñadores de chips caros y díficiles de reclutar [@gibson-1999, pp.
 > 38].
-
-Both the abstract, mathematical definition of information famously
-stipulated by Claude Shannon, which later underpinned the many claims
-about cyberspace as a realm detached from physical, embodied existence,
-and the latest narrative where the two realms converge again, should be
-located in a larger circuit of production, commodification and labour
-relations. That is to say, intellectual property needs to be analysed
-from the vantage point of a critique of the political economy.
 
 Tanto la definición de información abstracta, matemática, estipulada por
 Claude Shannon, que luego apuntalara las muchas proclamas del
@@ -1082,35 +671,6 @@ crítica de la economía política.
 
 Conclusión
 ----------
-
-In the article, I have questioned the information exceptionalism
-hypothesis, upon which the predominant critique against intellectual
-property rests. This critique has been cut out from the same cloth as
-the economic discipline. Neo-classical economic theory, the dominant
-tendency within economics, is not an academic pursuit like any
-other. It is a feedstock of hegemonic thought and as such a material
-force, rewriting the world according to its own abstractions. In
-order to make any prediction about the economy, neo-classical theory
-must first postulate the omnipresence of scarcity. Scarcity is a
-condition for seeing, and, subsequently, the constitutive, blind angle
-of this 'scientific paradigm'. It is this anomaly that critics of
-intellectual property exploit when they talk about the exceptionality
-of non-rival information goods. The irony of the reversal is easy
-enough to appreciate. The rationale for having intellectual property
-is overthrown from within the citadel of property. The liturgy of free
-markets is being chanted in praise of information commons. The price
-to pay, however, is that the blind spot of the economic discipline
-is duly reproduced in the critique of intellectual property. This is
-evident from the works of Lawrence Lessig and Yochai Benkler, as well
-as in the thinking of many hackers and hobbyists. It is not sufficient
-to criticise the intellectual flaws of this narrative without also
-recognising how practitioners make it work for them when they engage
-in boundary work. A case in point is the distinction between “free
-speech” and “free beer”. When advocates of free software insists on this
-boundary, they present themselves as strictly advocating civil rights
-issues, while exempting a critique of ownership, markets and wealth
-distribution from their openly declared opposition to intellectual
-property rights.
 
 En este artículo, cuestioné la hipótesis de la excepcionalidad de la
 tecnología sobre la que descansa la crítica predominante de la propiedad
@@ -1143,30 +703,6 @@ crítica de la propiedad, los mercados y la distribución de riqueza a
 través de su abiertamente declarada oposición a los derechos de
 propiedad intelectual.
 
-
-The boundary work that hackers, activists and academics have engaged
-in since 1980s is now being destabilised due to the introduction of a
-new narrative element. Namely, the exclamation that, to put it in the
-jargon of the Californian ideology: “atoms are the new bits”. At the
-heart of articulating this new imaginary are the hobbyists building open
-source 3D printers. The machine was devised with the stated objective of
-knocking down the railing between information and physical goods. The
-expectation among many of the hobbyist is that the same disruptive
-forces will be unleashed on industrial manufacturers as have already
-beset the music- and film industry. Filesharing will be generalised to
-the whole of the economy. Stated in more abstract terms, the hobbyists
-pay tribute to the insight, that the line between information commons
-and property markets is not given once and for all. The line is not
-inscribed in the nature of the resources, as the naturalist position
-would have it. Since this line has been constructed, it is subject
-to being reconstructed and renegotiated anew. Note to be taken, the
-articulation of a new narrative around atoms and bits plays a minor
-role in this renegotiation process. What counts more are the ability
-and dedication of hobbyists to put work into and steer the development
-process of 3D printers. From the vantage point of the hobbyists, this is
-perceived to be an offensive move. They are opening-up a new front in
-the struggle against intellectual property.
-
 El trabajo liminal en el que hackers, hobbistas y académicos se han
 involucrado desde los '80 está siendo desestabilizado por la
 introducción de un nuevo elemento narrativo.  A saber, la exclamación
@@ -1190,60 +726,6 @@ hobbistas para trabajar y dirigir el proceso de desarrollo de las
 impresoras tridimensionales.  Desde el punto panorámico de los
 hobbistas, esto es percibido como una movida ofensiva.  Están abriendo
 un nuevo frente en la lucha contra la propiedad intelectual.
-
-Unfortunately, the same move away from a naturalist towards a
-constructivist understanding of private property has already been made
-by the most advanced sections of the 'vested interests'. The naturalist
-or foundationalist understanding of private property does not only
-legitimise property by portraying it as an eternal state of nature,
-a well-known critique on the left since Karl Marx's denounciation of
-commodity fetishism. By the same token, everything that is not-property
-is portrayed as equally belonging to a state of nature, be that light or
-ideas. This lays down a floor or foundation beyond which property cannot
-be conceived. No wonder then that the naturalist fallacies of classic
-liberalism and classic political economy have been discarded by the
-Neo-liberal Thought Collective (Mirowski, 2013). As much can be seen in
-a text published by the Cato Institute, one of the many think tanks that
-make up the neo-liberal avant-guarde. The book discusses the relation
-between property, markets and technology. In a re-examination of the
-old debate about lighthouses and public goods, mentioned above, one
-economist observes that light is now being replaced with radio signals
-as a means for assisting navigation. The latter technology is designed
-in such a way that rent can easily be extracted for the service. The
-writer rejoices: Due to technological change, there are no such things
-as natural public goods anymore. It is only institutional inertness
-which holds back the relentless expansion and intensification of markets
-(Foldvary 2003). The last comment clarifies why the Neo-liberal Thought
-Collective, although its official agenda is to 'smash the state', first
-and foremost is preoccupied with capturing the state. It is through
-state power that institutional inertia against the expansion of markets
-can be smashed (Mirowski, 2013). The parade example, extensively
-discussed elsewhere, is the privatisation of public services. But
-the projection of intellectual property on top of physical objects
-can be added to this list. This points to a future where the most
-controversial aspects of intellectual property, i.e. digitial rights
-management systems, real-time customer surveillance, and intricate price
-discrimination, have spilled over the former boundary between virtual
-and physical. It has, in other words, transformed private property as
-we knew it. The two types of property converge into what I have elected
-to call “augmented property”. The vindication that this projection is
-logically impossible, that it will leave many loopholes and corresponds
-badly to the actually-existing objects, is of little importance. The
-Penrose triange cannot exist on logical grounds, but the illusion of one
-suffices for the purposes of laws and markets. Augmentation of property
-means that the granularity of commodities can be made infinitely
-fine. Infinite are the ways to parse up information and provide it
-on a pay-per basis. The coarse way in which goods and services are
-being charged for today will, a few years down the line, look like an
-endless long tail of market failures. Technology holds out the promise
-of closing the market failures, over and over again. Paraphrasing the
-anti-foundationalist and constructivists meme, markets go ”all the way
-down”. As with private property regime before, this new order can only
-continue to exist if transgressions against it is sanctioned by the
-state. As the conflict over augmented property unfolds, piracy will be
-generalised to every corner of society. And everywhere we will hear the
-battle cry: atoms want to be free too!
-
 
 Desafortunadamente, la misma movida desde una comprensión naturalista
 hacia una constructivista sobre la propiedad privada ya ha sido
