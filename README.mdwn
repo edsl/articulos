@@ -75,3 +75,18 @@ Cualquier revisión en cualquiera de esos artículos es bienvenida.
 
 * [Modelo de ramas](http://nvie.com/git-model)
 * [Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+Guía de estilo
+==============
+
+## Notas de traducción
+
+Muchas veces las traducciones necesitan una explicación o una referencia
+al original para no perder el contexto, y muchas otras veces es
+interesante aclarar términos oscuros o de nicho para poder acercar los
+textos a gente fuera del ambiente. En esos casos usamos notas de traducción así:
+
+    Texto con término confuso[^nombre-de-la-nota] y bla bla,
+    sigue el párrafo hasta el final.
+
+    [^nombre-de-la-nota]: Explicación. _(Nota de traducción)_
