@@ -46,14 +46,14 @@ objetos tridimensionales imprimibles haya concernido a una forma que, en
 términos lógicos, no puede existir en el espacio físico sino como una
 ilusión óptica.
 
-[^thingiverse]: Una traducción fiel podría ser "cosoverso" (NdT).
+[^thingiverse]: Una traducción fiel podría ser "cosoverso". _(Nota de traducción)_
 
 [^ndt1]: El autor no cree que haya una distinción entre propiedad y
-         propiedad intelectual.  Ver ¡Hackers GNUníos! (NdT).
+         propiedad intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
 
 [^ndt2]: Documento legal utilizado para obligar a que se termine con
          cierta conducta. Mayoritariamente se usa como coacción para
-         eliminar obras publicadas en Internet (NdT).
+         eliminar obras publicadas en Internet. _(Nota de traducción)_
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
 comunidad que estaba construyendo impresoras tridimensionales
@@ -82,14 +82,14 @@ impresora tridimensional, los archivos de diseño pueden ser generados
 existentes.
 
 [^libres]: Siguiendo el espíritu del software libre, libres por libertad
-           de uso, modificación y distribución de los planos y el diseño
-           (NdT).
+           de uso, modificación y distribución de los planos y el
+           diseño. _(Nota de traducción)_
 
 [^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
-        Pirata(s) (NdT).
+        Pirata(s). _(Nota de traducción)_
 
-[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar
-         (NdT).
+[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
+         _(Nota de traducción)_
 
 La proposición de que el escaneo y la impresión tridimensionales harán
 a los bienes físicos tan copiables como el código de software está
@@ -176,7 +176,7 @@ propiedad intelectual:
 > ser cara porque puede ser inmensamente valiosa para el receptor
 > [@brand-1987, pp. 202].
 
-[^gpl]: GPL por sus siglas en inglés (NdT).
+[^gpl]: GPL por sus siglas en inglés. _(Nota de traducción)_
 
 Brand identificó correctamente dos tendencias en conflicto y las situó
 en una economía de la información.  A continuación contrastó la unicidad
@@ -426,12 +426,12 @@ sentido común, ampliamente definida y sistematizada en la disciplina
 económica.
 
 [^geek]: Geek es un término que se usa para referirse a la persona
-         fascinada por la tecnología y la informática (NdT).
+         fascinada por la tecnología y la informática. _(Nota de traducción)_
 
 [^freebeer]: "Free as in free speech, not free as in free beer" es la
              frase original. En inglés, _free_ puede usarse tanto para
-             hablar de libertad como de gratuidad, de ahí la aclaración
-             (NdT).
+             hablar de libertad como de gratuidad, de ahí la aclaración.
+             _(Nota de traducción)_
 
 [^1]: Este argumento ha sido llevado un paso más allá por los críticos
       _liberales libertarios_ de la propiedad intelectual.  En lugar de
@@ -444,68 +444,69 @@ económica.
       mercados pueden existir independientemente del Estado y sus
       poderes legales.
 
-Abundancia: la anomalía en la ciencia económica (neo)clásica
-------------------------------------------------------------
+La abundancia: la anomalía en las ciencias económicas (neo)clásicas
+-------------------------------------------------------------------
 
-La hipótesis de la excepcionalidad de la información explota una anomalia
-en un paradigma (científico), esto es, la disciplina económica y sus
-tradiciones predominantes, una amplia parte de la teoría clásica y la
-teoría neoclásica entera [@daoud-2011; @daoud-2010].  Uso el término
-"anomalía" en el sentido estricto dado por Thomas Kuhn [-@kuhn-1996].
-En su clásica teoría de la ciencia, para decirlo resumidamente, una
-anomalía es definida como algo que contradice la sabiduría científica
-prevaleciente del momento.  Resulta difícil incluso tomar conciencia de
-la inconsistencia e imposible resolverla dentro de esa visión del mundo
-científica particular.  Por lo tanto, una anomalía apunta más allá del
-orden establecido, hacia un nuevo paradigma científico que pueda dar
-sentido a los datos observados.  Sin embargo, ya que ninguna forma de
-conceptualizar el mundo puede dar una explicación de la realidad última
-y exhaustiva, nuevas anomalías están destinadas a aparecer.
+La hipótesis de la excepcionalidad de la información explota una
+anomalía en un paradigma (científico), esto es, la disciplina económica
+y sus tradiciones predominantes, buena parte de la teoría clásica y toda
+la neoclásica [@daoud-2011; @daoud-2010].  Uso el término "anomalía" en
+el sentido estricto que le da Thomas Kuhn [-@kuhn-1996].  En su clásica
+teoría de la ciencia, para decirlo resumidamente, una anomalía es
+definida como algo que contradice la sabiduría científica imperante del
+momento.  Resulta difícil incluso tomar conciencia de la inconsistencia,
+e imposible resolverla dentro de esa cosmovisión científica del momento.
+Por lo tanto, una anomalía apunta más allá del orden establecido, hacia
+un nuevo paradigma científico que pueda explicar mejor los datos
+observados.  Sin embargo, como ninguna forma de conceptualizar el mundo
+puede dar una explicación de la realidad última y exhaustiva, nuevas
+anomalías están destinadas a aparecer.
 
 Un denominador común y postulado clave en el pensamiento económico
-clásico y neoclásico es la omnipresencia de las escasez.  Ya que los
-recursos son limitados en relaciones a las necesidades y deseos
-ilimitados de los humanos, estos actúan como agentes económicos
-maximizadores.  Es por esta razón, nos dicen, que la teoría económica
-puede hacer predicciones sobre el comportamiento humano.  El economista
-debe postular la escasez para poder ver algo en el mundo.  La escasez es
-su condición para la vista y el punto ciego.  Para tal ciencia, la
-existencia de algo no rival se vuelve una anomalía.  Este fenómeno ha
-sido reconocido por los economistas como el problema de los "bienes
-públicos".  Desde este paradigma, los bienes públicos son causa de
-fallas en el mercado.  Al definir los bienes públicos en estos términos
-la anomalía no queda resuelta.  Sólo reafirma las asunciones iniciales
-de la ciencia económica.  Un ejemplo cercanamente relacionado con el
-argumento presente es la charla sobre el surgimiento de la así llamada
-"economía de la atención" [@simon-1971].  Se dice que la abundancia de
-la información ha resultado en una nueva escasez, es decir, la falta de
-atención entre las audiencias.  Por lo tanto, el mercado de la
-información es superado por un mercado de la atención.  La abundancia es
-definida como una escasez de la escasez.  Mi punto no es que los bienes
-no rivales abundantes existen en el mundo y la ciencia económica falla
-al punto de que es incapaz de reconocerlos.  Antes bien, lo que es
-importante es que la anomalía es en sí misma producto de la forma
-particular de observación del economista.
+clásico y neoclásico es la omnipresencia de las escasez.  Dado que los
+recursos son limitados en relación a las necesidades y deseos ilimitados
+de los humanos, éstos actúan como agentes económicos maximizadores.  Es
+por esta razón, nos dicen, que la teoría económica puede hacer
+predicciones sobre el comportamiento humano.  El economista debe
+postular la escasez para poder ver cualquier cosa en el mundo.  La
+escasez es su condición para la visión, y su punto ciego.  Para tal
+ciencia, la existencia de algo no rival se vuelve una anomalía.  Este
+fenómeno ha sido reconocido por los economistas como el problema de los
+"bienes públicos".  Desde este paradigma, los bienes públicos son causa
+de fallas en el mercado.  Al definir los bienes públicos en estos
+términos la anomalía no queda resuelta.  Sólo reafirma las asunciones
+iniciales de la ciencia económica.  Un ejemplo profundamente relacionado
+con el argumento presente es la charla sobre el surgimiento de la así
+llamada "economía de la atención" [@simon-1971].  Se dice que la
+abundancia de la información ha resultado en una nueva escasez, es
+decir, la falta de atención entre las audiencias.  Por lo tanto, el
+mercado de la información es superado por un mercado de la atención.  La
+abundancia es definida como una escasez de la escasez.  Mi punto no es
+que los bienes no rivales abundantes existen en el mundo y que la
+ciencia económica falla al punto de que es incapaz de reconocerlos.  En
+vez de eso, lo que es importante es que la anomalía es en sí misma
+producto de la forma particular de observación del economista.
 
 Al ser un artefacto de la forma de observación económica, se sigue que
 el problema de los bienes no rivales surgieron al mismo tiempo que esta
-disciplina fue puesta en escena.  Para sus padres fundacionales, sin
-embargo, la luz antes que la información fue lo que captó su
-perplejidad.  Henry Sidgwick observó que "los beneficios de un faro bien
-ubicado debe ser ampliamente disfrutado por las naves sobre las que
-ningún peaje puede ser convenientemente impuesto" [@sidgwick-1901, pp.
-412].  John Stuart Mill acordaba que el servicio provisto por los faros
-era mejor administrado colectivamente como un bien público [@mill-1965,
-pp. 968].  Cien años después, Ronald Coase regresó sobre el debate de
-los faros y afirmó que todavía suponía un desafío a la teoría económica
-[@coasen-1974].  La conexión entre luz e ideas fue hecha por Thomas
-Jefferson [@peterson-1984].  Es famosa su conclusión que ambos deben ser
-compartidos libremente.  Las invenciones no pueden, por su propia
-naturaleza, estar sujetas a la propiedad privada exclusiva.  Todas
-estas declaraciones convergen en proclamar que la economía política de
-la información se rige por leyes diferentes de las de la economía
-política en general.  Esta asunción fue sistemáticamente explorada por
-el economista Fritz Machlup.  Subrayó las propiedades inusuales de la
+disciplina fue puesta en escena.  Para sus padres fundadores, sin
+embargo, fue la luz, antes que la información, lo que captó su
+desconcertada atención.  Henry Sidgwick observó que "los beneficios de
+un faro bien ubicado deben ser ampliamente disfrutados por naves sobre
+las que ningún peaje puede ser convenientemente impuesto"
+[@sidgwick-1901, pp.  412].  John Stuart Mill acordaba que el servicio
+provisto por los faros era mejor administrado colectivamente como un
+bien público [@mill-1965, pp. 968].  Cien años después, Ronald Coase
+volvió sobre el debate de los faros y afirmó que todavía suponía un
+desafío para la teoría económica [@coasen-1974].  La conexión entre luz
+e ideas fue hecha por Thomas Jefferson [@peterson-1984].  Es famosa su
+conclusión de que ambos deben ser compartidos libremente.  Las
+invenciones no pueden, por su propia naturaleza, estar sujetas a la
+propiedad privada exclusiva.  Todas estas declaraciones convergen en
+proclamar que la economía política de la información se rige por leyes
+diferentes de aquellas que se encuentran en la economía política en
+general.  Esta suposición fue más sistemáticamente explorada por el
+economista Fritz Machlup, que Subrayó las propiedades inusuales de la
 información:
 
 > Si un bien público o social se define como uno que puede ser usado por
@@ -513,32 +514,33 @@ información:
 > conocimiento es el más puro de estos bienes [@machlup-1984, pp. 159]
 
 Cuando Steward Brand declaró que la información quiere ser libre, estaba
-saltando a una anomalía de la ciencia económica.  Los agravios de la
-regulación de la propiedad intelectual no pueden resolverse volviendo
+metiéndose con una anomalía de la ciencia económica.  Las quejas contra
+la regulación de la propiedad intelectual no podían resolverse volviendo
 a la ciencia económica contra sí misma.  Estableció la fundación de la
-crítica de la propiedad intelectual dominante en el presente en sus
-innumerables variantes.  A pesar de la gran cantidad de variantes, el
-argumento pivota alrededor de la discrepancia entre recursos digitales
-infinitos y recursos tangibles limitados.  Se dice que el costo marginal
-inexistente de la reproducción del conocimiento entra en conflicto con
-su tratamiento como una propiedad escasa.  Es por esta razón que la
+actual crítica de la propiedad intelectual dominante en sus innumerables
+variantes.  A pesar de la gran cantidad de variantes, el argumento gira
+alrededor de la discrepancia entre recursos digitales infinitos y
+recursos tangibles limitados.  Se dice que el costo marginal inexistente
+de la reproducción del conocimiento entra en conflicto con su
+tratamiento como una propiedad escasa.  Es por esta razón que la
 regulación de la propiedad intelectual es declarada culpable del pecado
 capital de las ciencias económicas: eficiencia subóptima.  Por lo tanto,
 se la juzga de la misma forma que a cualquier otra industria o sector
-obsoletos: debe perecer.  Esta conclusión es subrayada al conectar de
-tiempo en tiempo con la teoría económica.  En el caso de Yochai Benkler,
-la conexión está incluso escrita en el título de su libro principal: La
-riqueza de las redes[^wealth] [-@benkler-2006].  Es una movida retórica
-hermosa.  En un mundo donde la ciencia económica ha dado forma a la
-mayor parte del discurso oficial y la auto-comprensión humana, una
-auto-contradicción dentro de la mismo visión del mundo se convierte en
-una poderosa palanca para hacer llegar la crítica contra el status quo.
-Con la misma seguridad con la que los economistas establecen la
-omnipresencia de la escasez y las leyes inevitables del mercado, los
+obsoletos: debe perecer.  Esta conclusión es subrayada al volver a
+conectar de tanto en tanto con la teoría económica.  En el caso de
+Yochai Benkler, la conexión está incluso escrita en el título de su
+libro principal: La riqueza de las redes[^wealth] [-@benkler-2006].  Es
+una hermosa jugada retórica.  En un mundo donde la ciencia económica ha
+dado forma a gran parte del discurso oficial y la auto-comprensión
+humana, esta auto-contradicción dentro de la misma cosmovisión se
+convierte en una poderosa palanca para hacer llegar la crítica contra el
+status quo.  Con la misma seguridad con que los economistas establecen
+la omnipresencia de la escasez y las inevitables leyes del mercado, los
 críticos de la propiedad intelectual afirman la naturaleza no rival de
-los recursos informacionales y su excepción de tales leyes.
+los recursos informacionales y su excepción de esas mismas leyes.
 
 [^wealth]: En referencia a _La riqueza de las naciones_ de Adam Smith.
+           _(Nota de traducción)_
 
 The drawback with this critique of intellectual property is that it has taken over the limited horizon of the economic science. The anomaly of non-rival (informational) goods is always-already inscribed in the logic of omnipresent scarcity. Allegedly, the exceptionality of information as a commodity consists in that it has artificially been made scarce through a fiat by the state. The implicit assumption is that intellectual property defies the law of gravity and sooner or later must fall to the ground. The defenders of this position are oblivious to the fact that the economy pivots around at least three more commodities, labour, land and money, which are just as fictitious as information. The fiction that labour (i.e. living human beings) behave in accordance with price fluctuations and contractual agreements can only be maintained through continuous state intervention, and often repressive at that. Although the policing of this illusion is never airtight, most of the time it works well enough to keep the labour market and the economy in place (Polanyi, 2001). The only exceptionality that can be granted to information as opposed to labour, land and money, is that the former has very recently been made into a fictitious commodity. Hence, resistance to intellectual property feeds from the living memory of what information used to be and/or could have become. The achilles heel of this resistance is its indebtedness to commonsensical, economic notions, which naturalises a particular definition of information. According to this definition, information is something ready-made, predefined and unchangeable that can effortlessly be divorced from the flow of communication. The main grievance that can be voiced from this position is that intellectual property impedes the free circulation of information goods. Understood in those terms, the assignment of a content provider with intellectual property claims over the information units follows like a brief postscript. The rallying call ”information wants to be free” contains the seed of its own unfreedom: commodification.
 
