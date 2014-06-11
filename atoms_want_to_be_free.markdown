@@ -46,14 +46,14 @@ objetos tridimensionales imprimibles haya concernido a una forma que, en
 términos lógicos, no puede existir en el espacio físico sino como una
 ilusión óptica.
 
-[^thingiverse]: La traducción aproximada sería "cosoverso".
+[^thingiverse]: Una traducción fiel podría ser "cosoverso" (NdT).
 
 [^ndt1]: El autor no cree que haya una distinción entre propiedad y
-         propiedad intelectual.  Ver ¡Hackers GNUníos!
+         propiedad intelectual.  Ver ¡Hackers GNUníos! (NdT).
 
 [^ndt2]: Documento legal utilizado para obligar a que se termine con
-         cierta conducta. Mayoritariamente se usa para dar de baja obras
-         publicadas en la Internet.
+         cierta conducta. Mayoritariamente se usa como coacción para
+         eliminar obras publicadas en Internet (NdT).
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
 comunidad que estaba construyendo impresoras tridimensionales
@@ -82,12 +82,14 @@ impresora tridimensional, los archivos de diseño pueden ser generados
 existentes.
 
 [^libres]: Siguiendo el espíritu del software libre, libres por libertad
-           de uso, modificación y distribución de los planos y el diseño.
+           de uso, modificación y distribución de los planos y el diseño
+           (NdT).
 
 [^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
-        Pirata(s).
+        Pirata(s) (NdT).
 
-[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
+[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar
+         (NdT).
 
 La proposición de que el escaneo y la impresión tridimensionales harán
 a los bienes físicos tan copiables como el código de software está
@@ -174,7 +176,7 @@ propiedad intelectual:
 > ser cara porque puede ser inmensamente valiosa para el receptor
 > [@brand-1987, pp. 202].
 
-[^gpl]: GPL por sus siglas en inglés.
+[^gpl]: GPL por sus siglas en inglés (NdT).
 
 Brand identificó correctamente dos tendencias en conflicto y las situó
 en una economía de la información.  A continuación contrastó la unicidad
@@ -197,7 +199,6 @@ ser libre".  En pos de hacer una crítica de esta crítica, empiezo por
 retomar la forma en que la "información" ha sido conceptualizada y
 construida, para luego discutir cómo la teoría económica apuntala esta
 posición.
-
 
 El objeto-frontera: la excepcionalidad de la información
 --------------------------------------------------------
@@ -401,43 +402,47 @@ su vez una crítica general de la propiedad privada como tal.  Afirma que
 la militancia por los comunes informacionales no es a la vez un ataque
 al libre mercado.
 
-El sesgo del objeto liminal debe ser respetado por todo el público
+El sesgo del objeto-frontera debe ser respetado por todo el público
 _geek_[^geek] bajo pena de quedar marginalizado.  Esto incluye a los
-críticos de la propiedad intelectual típicamente identificados como
-"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la
-_Free Software Foundation_, insiste en no usar el término "propiedad
-intelectual".  Argumenta que este término causa confusión al juntar
-un rango de legislaciones diferentes bajo un término abarcativo
-[@stallman-2006].  Este deseo por separar la propiedad privada de
-la crítica de la propiedad intelectual es también sugerida por la
-frase pegadiza icónica de la Free Software Foundation: _"free as in
-free speech, not free as in free beer"_[^freebeer].  Al enmarcar el
+críticos de la propiedad intelectual, típicamente identificados como
+"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la _Free
+Software Foundation_, insiste en no usar el término "propiedad
+intelectual".  Argumenta que este término causa confusión al juntar un
+rango de legislaciones diferentes bajo un término abarcativo
+[@stallman-2006].  Este deseo de separar la propiedad privada de la
+crítica de la propiedad intelectual es también sugerida por la frase,
+pegadiza e icónica, de la Free Software Foundation: _"libre como la
+libre expresión, no como la cerveza libre"_[^freebeer].  Al enmarcar el
 problema de esta forma, el caso de los comunes informacionales puede ser
 retratado como una defensa de las libertades civiles, en lugar de ser
-visto como un ataque a la propiedad privada y por lo tanto una lucha
-por la redistribución económica.[^1] Nadie puede negar que esta forma
-de presentar el problema tiene ventajas tácticas.  Tal vez incluso el
-caso por los comunes informacionales se vuelve más eficiente en criticar
-la propiedad privada y el libre mercado al no exponerse como tal.  A la
-vez, esto sugiere un arraigo de la crítica de la propiedad intelectual
-en una visión del mundo liberal, de sentido común, ampliamente definida
-y sistematizada en la disciplina económica.
+visto como un ataque a la propiedad privada y, por lo tanto, como una
+lucha por la redistribución económica.[^1] Nadie puede negar que esta
+forma de presentar el problema tiene ventajas tácticas.  Tal vez,
+incluso el caso por los comunes informacionales se vuelve más eficiente
+como crítica a la propiedad privada y al libre mercado al no exponerse
+como tal.  A la vez, esto sugiere el arraigo de la crítica a la
+propiedad intelectual en una visión del mundo liberal, enmarcada en el
+sentido común, ampliamente definida y sistematizada en la disciplina
+económica.
 
-[^freebeer]: "Libre como un libertad de expresión, no como en cerveza
-              libre"
+[^geek]: Geek es un término que se usa para referirse a la persona
+         fascinada por la tecnología y la informática (NdT).
+
+[^freebeer]: "Free as in free speech, not free as in free beer" es la
+             frase original. En inglés, _free_ puede usarse tanto para
+             hablar de libertad como de gratuidad, de ahí la aclaración
+             (NdT).
 
 [^1]: Este argumento ha sido llevado un paso más allá por los críticos
-_libertarian_ de la propiedad intelectual.  En lugar de hablar sobre
-"propiedad intelectual", promueven el término derogativo "monopolio
-intelectual".  El caso contra los derechos de propiedad pueden entonces
-reciclarse como un ataque a las regulaciones estatales y las
-distorsiones del mercado [@boldrin-levine-2008].  Esta línea
-argumentativa es apuntalada por la vieja falacia libertaria que la
-propiedad privada y los mercados pueden existir independientemente del
-Estado y sus poderes legales.
-
-
-[^geek]: Geek es el fanático de la tecnología.
+      _liberales libertarios_ de la propiedad intelectual.  En lugar de
+      hablar sobre "propiedad intelectual", promueven el término
+      derogativo "monopolio intelectual".  El caso contra los derechos
+      de propiedad puede entonces reciclarse como un ataque a las
+      regulaciones estatales y a las distorsiones del mercado
+      [@boldrin-levine-2008].  Esta línea argumentativa es apuntalada
+      por la vieja falacia libertaria de que la propiedad privada y los
+      mercados pueden existir independientemente del Estado y sus
+      poderes legales.
 
 Abundancia: la anomalía en la ciencia económica (neo)clásica
 ------------------------------------------------------------
