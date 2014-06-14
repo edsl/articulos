@@ -20,7 +20,7 @@ La parodia de los Comunes
 > Tecnológica de Tallinn como también de la _P2P Foundation_.  Stelios
 > Stavroulakis es un científico informático e ingeniero de software
 > interesado en los sistemas informáticos distribuidos, enfocado
-> particularmente en el software libre y los estándares abiertos, y
+> particularmente en el software libre y los estándares abiertos y
 > generalmente consciente de las problemáticas sociales y ambientales.
 > Es colaborador del _P2P Lab_.
 
@@ -118,8 +118,8 @@ afinidades entre varias formas de colaboración y ayuda a validar sus
 dinámicas sociales distintivas en tanto fuerzas significativas en la
 producción económica y cultural [@bollier-2009].
 
-El término "producción de pares" o "producción de par a par" se origina en la
-naturaleza innovativa de la arquitectura de red de par a par (P2P) que
+El término "producción de pares" o "producción de par-a-par" se origina en la
+naturaleza innovativa de la arquitectura de red de par-a-par (P2P) que
 posibilitó el advenimiento de Internet.  La introducción de la
 arquitectura P2P en las relaciones sociales de producción e intercambio
 de bienes y servicios se basa en la idea de que cada comunidad de red,
@@ -179,7 +179,7 @@ los Comunes.  Después de todo, se podría argumentar que es dentro de
 esta esfera que la Internet y muchas otras tecnologías digitales se
 han estado desarrollando.  Nuestra posición es que la declaración
 anterior es parcialmente verdadera:  El surgimiento de las tecnologías
-web y de la Internet misma, ha tomado lugar en un marco contradictorio.
+web y de la Internet misma han tomado lugar en un marco contradictorio.
 Los intentos fallidos de adopción de las propuestas ACTA/SOPA/PIPA
 que buscan restringir la libertad de los individuos a través de
 la aplicación de estándares de "propiedad intelectual" estrictos;
@@ -196,9 +196,9 @@ al modelo de dispositivos bloqueados y controlados centralmente como si
 de electrodomésticos informacionales se tratara.
 
 La arquitectura P2P inicial de la Internet, basada en el principio de
-extremo-a-extremo, ha sido distorsionada hacia un formato
+punto-a-punto, ha sido distorsionada hacia un formato
 cliente-servidor donde el servidor tiene autoridad absoluta sobre el
-cliente, que se encuentra desprotegido y con posibilidad de intervención
+cliente, que se encuentra desprotegido y tiene posibilidad de intervención
 limitada [@kempf-austein-2004].  La "adicción" del cliente a asignar
 tareas, que le conciernen a él/ella en primer lugar, a la supuesta
 conveniencia que el servidor ofrece, es un fenómeno observado en las
@@ -207,7 +207,7 @@ de la población usuaria a neutralizarse y disociarse de problemas
 importantes para su futuro en y fuera de línea.
 
 [^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
-         por ejemplo Facebook.
+         por ejemplo Facebook (nota de la traducción).
 
 Aun más, en este marco contradictorio observamos cambios sutiles no sólo en el
 diseño institucional concerniente a la Internet sino también en la
@@ -349,7 +349,9 @@ que no haya malentendidos, necesitamos clarificar el significado de
 define por cuatro libertades que el usuario tiene para usar, estudiar,
 compartir copias y compartir versiones modificadas del software.
 
-[^NdT1]: NdT: EULA en inglés
+[^NdT1]: EULA en inglés, son las licencias de software privativo que
+incluyen las condiciones bajo las cuales _no_ se puede compartir y
+modificar el software (nota de la traducción).
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -387,7 +389,7 @@ facilidades que el sistema político hace al sector financiero.
 Definimos dos características principales en la parodia de los Comunes.
 La primera es la integración institucional, es decir la absorción del
 dividendo proporcional de cada individuo por una apropiación privada
-obligatoria forzada por legislación.  Las políticas aplicadas no pueden
+obligatoria forzada por una legislación.  Las políticas aplicadas no pueden
 afectar a las comunidades de software libre a gran escala, pero sí
 pueden dañar otras formas de los Comunes tanto como cualquier otro
 tipo de unidad industrial involucrada en la producción de un material
@@ -419,7 +421,7 @@ mientras que la mayor parte de las ciudades y pueblos pasaron a
 pertenecer a los bancos antes que al Estado federal [@czuczka-2012].
 Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
-40 años.  Esto es entonces el camino hacia un callejón sin salida.
+40 años.  Este es entonces el camino hacia un callejón sin salida.
 
 La segunda característica es la externalización, de acuerdo al cual y
 a pesar de las intenciones y planes de los miembros, el proyecto se
@@ -448,9 +450,10 @@ modo de su devolución."  Por lo tanto, concluye que "las plataformas de
 redes sociales deben ser des-privatizadas --es decir que la propiedad de
 los datos de los usuarios debe ser devuelta a sus dueños legítimos así
 como la libertad de acceder y modificar los protocolos y diagramas que
-estructuran su participación."
+estructuran su participación.
 
-[^NdT2]: NdT: tercerización o externalización de masas
+[^NdT2]: tercerización o externalización de masas (nota de la
+traducción).
 
 Entonces, el trabajo gratuito es voluntario.  En los proyectos
 de producción de pares, el trabajador cognitivo es dueño del
@@ -481,7 +484,7 @@ constituye un agujero de seguridad en la ecología de la producción
 de pares y por el momento no se ha propuesto un parche (es decir,
 una solución).  La pregunta entonces, es si los pares productores se
 beneficiarán realmente del desarrollo de relaciones de pares (P2P) y de
-la producción común de usos de valor, o si el fenómeno de la producción
+la producción común de valores de uso, o si el fenómeno de la producción
 de pares basada en los Comunes sólo constituirá una parte del Plan B
 neoliberal, como dice Caffentzis [-@caffentzis-2010].  Suponiendo que la
 producción de pares emergerá progresivamente como el modelo productivo
@@ -508,7 +511,7 @@ la cuota de ganancias a decrecer mientras que la segunda describe la
 necesidad de una creciente concentración y acumulación de capital.
 Estas dos leyes se contradicen mutuamente llevando a un sistema
 que colapsa y entra en crisis: el Capital no puede ser invertido
-cuando la tasa en descenso de la cuota ganancias es más rápida que la
+cuando la tasa en descenso de la cuota de ganancias es más rápida que la
 creciente tasa de acumulación de capital.  En el análisis de Marx, el
 capitalismo está inherentemente construido sobre una lógica sisífea que
 alcanza siempre un callejón sin salida, donde la política de escape
@@ -529,7 +532,7 @@ callejón sin salida [@marx-1992; @harvey-2007; @harvey-2010;
 compuesto dentro de los mercados internacionales junto con el salto de
 la toma de decisiones en estados democráticamente electos hacia
 compañías e instituciones del sector bancario mantienen un estado de
-deua en crisis global.  Una vez que el capital prestable asegura su
+deuda en crisis global.  Una vez que el capital prestable asegura su
 posición dominante en el mercado, la crisis de deudas se vuelve
 permanente y es reforzada a pesar del progreso de los índices económicos
 anuales.  Aun una economía próspera comenzará a declinar en el curso del
@@ -625,7 +628,7 @@ nodos pares antes que la mayoría caiga en la cuenta de la amplitud de
 oportunidades que ofrece.  La política escogida para subvertir las
 comunidades basadas en los Comunes es por un lado la presión por firmar
 acuerdos internacionales contra la libertad de Internet, lo que es una
-operación típica de integración institucional, y por el otro la
+operación típica de integración institucional y por el otro la
 vinculación de los usuarios a las corporaciones monopólicas.  Esas
 corporaciones cobran por las tecnologías privativas pre-instaladas en
 los dispositivos nuevos y privan a todos de libertades básicas a cambio
@@ -698,7 +701,8 @@ Comunes, como parte de las políticas de la "doctrina del shock"
 [@klein-2008], toma lugar más fácilmente, contribuyendo al y catalizando el
 proceso de la acumulación de capital.
 
-[^NdT3]: NdT: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica
+[^NdT3]: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica (nota
+         de la traducción).
 [^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
        ERT todavía es desconocido.
 
@@ -755,7 +759,7 @@ monetaria y acumulación de deuda a pesar de la posible reducción del
 déficit, la parodia de los Comunes puede ser eliminada sólo si las
 comunidades adhieren a su misión: asegurar un alto nivel de madurez y
 llevar sus demandas por una infraestructura de los Comunes a políticas
-de gobierno tendientes a un "Estado asociado", es decir a instituciones
+de gobierno tendientes a un "Estado Socio", es decir a instituciones
 cívicas democráticas que protejan el bien común [@bauwens-2012;
 @kostakis-2012].
 
@@ -784,9 +788,10 @@ maximización de ganancias no sería la fuerza motriz del desarrollo
 económico.
 
 [^ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html)
-[^NdT4]: NdT: extremaizquierda de copia, juego de palabras con izquierda de
+
+[^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
 copia (copyleft), a su vez un juego de palabras sobre derecho de copia
-(copyright)
+(copyright, nota de la traducción.)
 
 Contra la acumulación de capital, que lleva a la parodia de los Comunes,
 la lucha política de las comunidades debe incluir la creación de una
@@ -818,7 +823,7 @@ grupos de individuos conscientes sin órdenes desde arriba.  Esto debería
 tomar lugar fuera de la percepción tradicional del mercado, el que, a
 pesar de sus imperfecciones, aseguró su lugar en un pasado lejano cuando los
 niveles tecnológicos no hubieran podido soportar argumentos análogos.
-La subdivisión de las comunidades en grupos organizados por un ventaja
+La subdivisión de las comunidades en grupos organizados por una ventaja
 competitiva particular basada en la información o el acceso preferencial y la delegación de
 control hacia las partes más poderosas no pueden ser posibles si las
 comunidades basadas en los Comunes se apegan a sus principios.  La
