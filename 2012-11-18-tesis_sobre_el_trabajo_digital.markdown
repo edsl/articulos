@@ -8,8 +8,8 @@ Tesis sobre el trabajo digital
 ==============================
 
 El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La
-mayoría de los trabajadores de los países occidentales ya no están involucrados
-en el trabajo fabril, sino que son trabajadores cognitivos o de servicios.
+mayoría de los trabajadores de los países occidentales no están ya involucrados
+en el trabajo fabril, sino que se convirtieron en trabajadores cognitivos o de servicios.
 Existen conexiones muy fuertes entre los valores de pares tales como la
 apertura y la participación, así como la orientación hacia los comunes y las
 condiciones estructurales de esta nueva clase trabajadora.
@@ -22,7 +22,7 @@ el futuro. No es accidental que la producción de pares haya nacido entre los
 desarrolladores de software, que dependen específicamente del acceso a código
 compartible para poder desarrollar tu trabajo.
 
-En el trabajo cognitivo asalariado bajo condiciones estructurales de
+Para el trabajo cognitivo asalariado que se encuentra bajo condiciones estructurales de
 explotación y propiedad intelectual, la producción de pares es la modalidad de
 vida y trabajo a la que los trabajadores cognitivos aspiran y en la que se
 involucran en cuanto pueden escapar del trabajo asalariado; o al que están
@@ -46,8 +46,8 @@ a todos los usuarios de la red, al grado de involucrarse en la colaboración
 e intercambio de conocimiento en línea y la eventual creación de valor común
 a través de esa agregación libre de esfuerzos. Todo trabajo, sin embargo, posee
 aspectos cognitivos y hoy en día todos los trabajadores están expuestos a las
-redes y al sistemas de valores de pares. Por lo tanto, este sistema de valores
-y producción en tanto dinámica social *no está* constrenido a los trabajos
+redes y a sistemas de valores de pares. Por lo tanto, este sistema de valores
+y producción en tanto dinámica social *no está* constreñido a los trabajos
 cognitivos de tiempo completo sino a la totalidad de la clase trabajadora y de
 la gente trabajando.
 
@@ -59,16 +59,16 @@ actividad e los capitalistas redárquicos[^netarchic].
 
 [^netarchic]: _Netarchical_ en el original.
 
-El capital redárquico es el sector del capital que comprende la naturaleza
+El capital redárquico es el sector del capital que entiende la naturaleza
 hiperproductiva de la producción de pares y por lo tanto habilita y empodera la
 ocurrencia de la producción social, condicionada por la posibilidad de la
 extracción de valor para el beneficio de los poseedores del capital.
 
 La producción de pares es inmanente a la vez que trascendente frente al
 capitalismo porque posee características que des-comodifican tanto el trabajo
-como el valor inmaterial e instituyen un campo de acción basado en las
+como el valor inmaterial e instituye un campo de acción basado en las
 dinámicas de pares y su sistema de valores. La producción de pares funciona
-dentro del ciclo de acumulación del capital pero también dentro del nuevo ciclo
+dentro del ciclo de acumulación de capital pero también dentro del nuevo ciclo
 de creación y acumulación de los comunes. El capital redárquico utiliza la
 producción de pares para su propia acumulación de capital; los pares
 productores abogan naturalmente por la existencia continuada y protección de
@@ -79,7 +79,7 @@ cero. Esto significa que el hecho o la relación objetiva entre los comunes y el
 capital no constituye automáticamente una distinción pura y dura entre comunes
 capitalistas y anti-capitalistas. Los trabajadores asociados en la producción
 de pares tienen un interés natural en mantener y expandir los comunes del
-conocimiento, el código y el diseño y bajo las condiciones del capital, el rol
+conocimiento, el código y el diseño. Bajo las condiciones del capital, el rol
 del trabajo asalariado y la inversión capitalista contribuyen a la
 sostenibilidad de los comunes y de los comuneros.
 
@@ -93,7 +93,8 @@ capital. Las instituciones orientadas al beneficio son responsables de la
 sostenibilidad financiera y la reproducción social de los comuneros, así como
 de la protección y el fortalecimiento de los comunes.
 
-A través del uso de un nuevo tipo de licencia de producción de pares, los
+A través del uso de un nuevo tipo de [licencia de producción de
+pares](http://endefensadelsl.org/ppl_deed_es.html), los
 comuneros pueden compartir libremente los bienes comunes con entidades afines,
 mientras cobran a las entidades con fines de lucro que no reciprocan a los
 comunes, creando así un ciclo de realimentación positiva que genera una
@@ -104,45 +105,49 @@ los movimientos sociales más amplios que emergen para proteger las condiciones
 de vida de la clase trabajadora.
 
 El trabajo tradicional y sus organizaciones tienen un interés objetivo, bajo
-condiciones de capitalismo declinante, en adoptar la idea de comunes de
-innovación globales y compartidos y por lo tanto aliarse con la emergente
+las condiciones de un capitalismo declinante, en adoptar la idea de comunes de
+innovación compartidos globalmente y por lo tanto aliarse con la emergente
 y profundizadora producción de pares. En condiciones de conflicto social, las
 corporaciones capitalistas pueden ser transformadas en entidades
-auto-administradas bajo propiedad de los trabajadores, que creen sus propios
+auto-administradas bajo propiedad de los trabajadores, que crean sus propios
 comunes de conocimiento, código y diseño compartidos.
 
 Los granjeros y trabajadores agrícolas tienen un interés similar en la creación
-de comunes de innovación compartida con el objetivo de transformar a la
-agricultura industrial agotadora del suelo en una eco-agricultura inteligente
-basada en esos mismos comunes que una a granjeros y trabajadores del
+de comunes de innovación compartida con el objetivo de transformar la
+agricultura industrial que agota el suelo en una eco-agricultura inteligente
+basada en esos mismos comunes y que una a granjeros y trabajadores del
 conocimiento agrícola.
 
-La producción de pares orientada a los comunes puede fortalecer tanto al
-capital redárquico y con él al sistema de acumulación de capital, como la
+La producción de pares orientada a los comunes puede fortalecer sin
+embargo al
+capital redárquico y con él al sistema de acumulación de capital, además
+de la
 reproducción de los comunes. Los pares productores pueden beneficiar a las
-plataformas corporativos, mientras luchan por sus propios derechos en tanto
-creadores reales de valor y al convertirse en fuerza social, podrían tomar
+plataformas corporativas, mientras luchan por sus propios derechos en tanto
+creadores reales de valor y, al convertirse en fuerza social, podrían tomar
 tales plataformas como utilidades comunes o de propiedad pública.
 
-Los participantes de entidades con fines de beneficio[^NdT] poseídas por
+Los participantes de entidades con fines de beneficio[^NdT] bajo control
+de los
 comuneros pueden trascender significativamente las dinámicas de mercado
 puramente competitivas, mientras evitan una planificación central autoritaria
 a través de la adopción de una administración a libro abierto y una adaptación
-a la señalización públicamente disponible,[?] así como a través de la
+a la señalización públicamente disponible, así como a través de la
 negociación coordinada de la producción y la distribución. Esto no ignora una
 posible necesidad de planeamiento democrático a través de la participación
 ciudadana, siempre que sea necesario y deseado. Sin embargo, crea amplias áreas
 de alineamiento mutuo de las capacidades productivas.
 
-[^NdT]: Nota del traductor: Al contrario de las entidades con fines de lucro.
+[^NdT]: Al contrario de las entidades con fines de lucro (nota de la
+traducción).
 
-Las ideologías y movimientos tradicionales del movimiento laboral industrial se
-estuvieron muy asociados con la propiedad colectiva. La producción de pares
-abre la vía para más propiedad distribuida, donde los individuos pueden agregar
+Las ideologías y movimientos tradicionales del movimiento laboral industrial
+quedaron asociados a la propiedad colectiva. La producción de pares
+abre la puerta a una propiedad más distribuida, donde los individuos pueden agregar
 libremente no sólo sus recursos productivos inmateriales, sino también sus
 recursos productivos materiales. Bajo esas condiciones, el posible abuso de la
 propiedad colectiva se balancea por la libertad individual de derivar[^fork]
-los recursos productivos.
+los recursos productivos en esfuerzos alternativos.
 
 [^fork]: _Forking_ en el original.
 
@@ -154,9 +159,9 @@ más distribuido a los recursos productivos. Combinado con el desarrollo de
 maquinaria más distribuida, así como de asignación de capital más distribuido,
 la producción de pares puede llevar a un nuevo sistema que combine la
 re-localización inteligente de los materiales con la innovación cooperativa
-global y la existencia de _filés_[^file] globales uniendo entidades de
+global y la existencia de _filés_[^file] globales que unan entidades de
 producción de pares en una escala "material" global. Las filés son entidades
-transnacionales, fomentadoras de las comunidades, que crean una nueva capa de
+transnacionales, que fomentan las comunidades, que crean una nueva capa de
 cooperación material post-capitalista.
 
 [^file]: Griego antiguo para _tribu_, para su resignificación moderna, [ver
@@ -172,7 +177,7 @@ producción de pares se convierte en la condición para transcender el
 capitalismo. Su propia lógica, es decir la contribución libre a los comunes,
 administrada por asociaciones con fines de beneficio y hecha sostenible
 a través de emprendimientos con fines de beneficio de los comuneros mismos,
-crea la simiente para una nueva formación económica y social, centrada
+crea la forma seminal para una nueva formación económica y social, centrada
 alrededor de la creación de valor de los comunes, administrada y contribuida
 tanto por asociaciones con fines de beneficio como de coaliciones de
 emprendedores y sostenida por servicios colectivos participativos que forman la
@@ -183,7 +188,7 @@ La hiper-productividad de la producción de pares la hace cuadrar con las
 condiciones duales de las fases de transición, esto es, la crisis del viejo
 modelo de producción y la disponibilidad de una alternativa funcional que puede
 desempeñarse mejor mientras resuelve una cantidad de problemas sistémicos que
-plagan la actual forma de producción dominante. La tarea de los movimientos del
+plagan la forma de producción dominante en la actualidad. La tarea de los movimientos del
 trabajo cognitivo y de otros tipos es crear una nueva hegemonía y una nueva
 alianza basada en los comunes para el cambio social, que desafíe la dominación
 del capital, su forma-mercancía y la destrucción biosférica que le es
