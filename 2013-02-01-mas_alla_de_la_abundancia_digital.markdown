@@ -19,11 +19,11 @@ sorprendentes de información libremente utilizable y compartible.
 Mientras que esto es asombroso por sí mismo, muchas personas creen que
 eso es todo, que la producción de pares florece en el ámbito digital
 de la Internet y sólo allí.  Esto significaría que la producción de
-pares nunca podría pasar de un fenómeno de nicho, dado que nadie puede
-sobrevivir a base de información.  Este artículo discute este punto de
+pares nunca podría ser más que un fenómeno de nicho, dado que nadie puede
+sobrevivir a base de información.  Este artículo desafía este punto de
 vista convencional, argumentando que el potencial de la producción de
 pares se extiende mucho más allá de la esfera digital hacia la esfera
-de la producción física y que ese desarrollo está en camino.  Este
+de la producción física y que desarrollos de esta índole ya están en marcha.  Este
 artículo contrasta la abundancia en el mundo digital con la escasez
 aparente del mundo físico.  Explica la diferencia entre la escasez y
 las limitaciones y por qué es necesario distinguir entre los diferentes
@@ -31,9 +31,9 @@ significados de la palabra "abundancia" cuando se piensa la posibilidad
 de la abundancia en un mundo limitado.  Muestra que la producción
 capitalista de mercado es incapaz de producir abundancia para todos
 debido a sus fallas inherentes, mientras que la producción de pares
-basados en los comunes es muy diferente en este sentido.  Delinea
+basada en los comunes es muy diferente en este sentido.  Delinea
 los ladrillos para la generalización de la producción de pares en el
-mundo físico, refiriendo ejemplos que existen hoy en día.  Finalmente,
+mundo físico, haciendo alusión a ejemplos que existen hoy en día.  Finalmente,
 se discuten preguntas sobre la justicia en una sociedad basada en la
 producción de pares.
 
@@ -42,8 +42,7 @@ producción de pares.
 
 ### La Internet como un lugar de abundancia
 
-La Internet se ha convertido en un lugar de abundancia; abundancia en
-diferentes significados de la palabra.  El primer significado es el
+La Internet se ha convertido en un lugar de abundancia; abundancia entendida en las diferentes acepciones de esta palabra. El primer significado es el
 de "fastuosidad" o "desperdicio".  Podría estar todo el día navegando
 sitios de compartición de fotografías, mirando eternamente fotografías
 de cualquier persona o tema (digamos, del Monte Everest), aun cuando en
@@ -51,10 +50,9 @@ algún punto comience a volverse bastante repetitivo y que he encontrado
 todo lo que pudiera ser de interés; pero aun así continuar.
 
 Puedo utilizar BitTorrent para descargar montones de películas --lo que
-es usualmente ilegal, pero funcional-- hasta llenar mi disco rígido con
+es usualmente ilegal, pero funciona-- hasta llenar mi disco rígido con
 ellas, aunque nunca encuentre el tiempo para verlas.  Puedo instalar
-cualquier cantidad de programas de Software Libre, probando los nuevos
-hasta cansarme, aunque nunca los use realmente.  Es fácil desperdiciar
+cualquier cantidad de programas de Software Libre, probando incansablemente nuevos, aunque nunca los use realmente.  Es fácil desperdiciar
 tiempo en la Red.
 
 Pero la abundancia también tiene otro significado: "obtener lo que
@@ -86,14 +84,13 @@ línea.  Y puedo descargar y ver películas que me interesan --no
 legalmente, pero aun así.  Puedo encontrar programas de Software Libre
 para realizar tareas específicas o resolver problemas específicos; tanto
 para navegación Web, ver videos, editar fotos, videos o música, jugar,
-desarrollar programas, casi todo está ahí.  Entonces, la Internet es muy
-buena para proveer abundancia en el sentido "lo que necesito, cuando lo
+desarrollar programas, casi todo está ahí.  Entonces, la Internet también es muy
+buena para proveer abundancia en el sentido de "lo que necesito, cuando lo
 necesito".
 
-Es como si la abundancia se originara por la naturaleza digital de la
-Internet misma.  Pero esta sería una impresión errónea.  La tecnología
+Es como si la abundancia se originara por la naturaleza digital de la propia Internet.  Pero esta sería una impresión errónea.  La tecnología
 digital es solamente el basamento; los productores de la abundancia son
-las personas que usan la Internet y la hacen posible.  Regresaré a este
+las personas que usan la Internet y hacen que todo ello sea posible.  Regresaré a este
 problema, pero antes de hacerlo revisaré las limitaciones del mundo
 físico que lo hacen parecer tan diferente de la abundancia digital de la
 Red.
@@ -111,10 +108,10 @@ promedio.
 
 Hoy en día, la huella ecológica de la humanidad es alrededor de 18
 billones de hectáreas globales, pero la biocapacidad total de la Tierra
-es sólo de 12.  La disparidad es obvia: nuestra estilo de vida actual
+es sólo de 12 billones.  La disparidad es obvia: nuestra estilo de vida actual
 requeriría una Tierra y media para ser sostenible.  Consumimos recursos
 mucho más rápido de lo que la Tierra puede regenerarlos.  Dado que tal
-uso excesivo es imposible en el largo plazo, estamos viviendo al costo
+uso excesivo es imposible en el largo plazo, estamos viviendo a costa
 de las generaciones futuras.
 
 Pero no todos lo hacen.  En muchos países, la huella promedio por
@@ -129,12 +126,11 @@ El promedio global actual es alrededor de 2,7 hectáreas por persona,
 más del 50% arriba de lo que es sostenible.  Mi propio país, Alemania,
 utiliza el doble: 5,1 ha. por persona.  La mayoría de los demás países
 europeos poseen valores similares.  Las huellas promedio de los EEUU
-y algunos países árabes son mucho más altos: 8 ha. por persona, o
+y algunos países árabes son mucho más altas: 8 ha. por persona, o
 más [@wikipedia-2011].  Aquellos que vivimos en países altamente
-industrializados, no vivimos sólo al costo de las generaciones futuras,
-sino también al costo de personas en otras partes del mundo.  Nuestros
-patrones de consumo son posibles sólo porque otras personas en otras
-partes consumen mucho menos.
+industrializados, no vivimos sólo a costa de las generaciones futuras,
+sino también a costa de personas en otras partes del mundo.  Nuestros
+patrones de consumo son posibles sólo porque otras personas en otros lados consumen mucho menos.
 
 
 Escasez, limitaciones y cómo (no) producir abundancia
