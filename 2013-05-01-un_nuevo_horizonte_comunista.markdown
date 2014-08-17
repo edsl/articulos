@@ -283,7 +283,7 @@ ha reemplazado al despotismo impersonal y mecanizado del taylorismo por
 nuevas formas de esclavitud personal.  Los productores individuales
 no eligen sus tareas, ni el ritmo, tiempo y lugar de su trabajo.  En
 otras palabras el proceso de trabajo es micro-territorializado tanto
-espacial como temporalmente.  En este sentido el contraste con la coopración P2P no puede ser mayor. En la cooperación P2P los procesos
+espacial como temporalmente.  En este sentido el contraste con la cooperación P2P no puede ser mayor. En la cooperación P2P los procesos
 laborales están globalmente desterritorializados, en términos tanto
 temporales como espaciales.
 
@@ -377,14 +377,14 @@ capitalismo utiliza los comunes de la producción social gratuitamente.
 
 Los marxistas distinguen entre el modo de producción y la formación
 social.  La formación social es un sistema integrado social, económico,
-ideológico y cultural.  Puede consistir de más de un modo de producción.
+ideológico y cultural.  Puede consistir en más de un modo de producción.
 No obstante, un modo de producción domina sobre los demás y sus
 imperativos definen las características generales de la formación
 social.  En este sentido podemos hablar de formaciones sociales feudales
 y capitalistas como distintas de los modos de producción feudal y
 capitalista.  Aunque el modo de producción dominante domina a los otros
 modos de producción, no puede borrar sus lógicas específicas.  La
-tensión continua y dependencia entre el modo de producción dominante y
+continua tensión y dependencia entre el modo de producción dominante y
 sus subordinados convierten en fenómenos dinámicos, desequilibrados y
 complejos a las formaciones sociales.
 
@@ -397,7 +397,7 @@ En la segunda fase (1950-1980) el modo de producción capitalista
 erosionó profundamente los modos pre capitalistas y los reemplazó
 con el modo de producción capitalista.  El capitalismo se expandió
 intensivamente, penetrando en nuevos dominios de la actividad productiva
-como los servicios, tanto como extensivamente, conquistando el globo
+como los servicios, y extensivamente, conquistando el globo
 entero.  La tercera fase (1980 a la actualidad) se caracteriza por la
 emergencia del PTI como modo social de producción dentro de la formación
 social capitalista.  Este período ha sido descrito en términos tales
@@ -405,7 +405,7 @@ como la "Sociedad Red" [@castells-2010], "Imperio" [@hardt-negri-2000],
 etc.
 
 Aunque el modo de producción de pares se encuentra bajo el dominio
-del modo de producción capitalista, su permanencia frente a éste es
+del modo de producción capitalista, su situación frente a éste es
 diferente a la de los modos de producción pre-capitalistas.  Mientras
 que en las primeras dos fases el capitalismo representaba las nuevas
 fuerzas productivas, en la tercera fase es el P2P el nuevo y emergente
@@ -438,7 +438,7 @@ material.  En una producción totalmente automatizada, el factor
 cognitivo de la producción de pares (investigación y desarrollo, diseño
 y software) pondrá la producción material bajo el dominio del P2P.  La
 automatización capitalista lleva a la pérdida de puestos de trabajo
-y a la degradación del trabajo.  El empleo no tiene sentido y la
+y a la degradación del trabajo. La automatización no necesitará tener estos impactos en la formación social de pares. El empleo no tiene sentido y la
 automatización ofrece tiempo libre a la humanidad.  Este tiempo puede
 ser dedicado a la producción colectiva de conocimiento, educación y
 salud.
@@ -463,7 +463,7 @@ y la atmósfera como un común global [@rabinowitz-2010].  La propiedad
 común y el uso de la naturaleza, particularmente la tierra, por la
 humanidad entera será el desafío último para la sociedad de pares y por
 ese mismo motivo para la humanidad.  Por lo tanto, la protección de
-la naturaleza será una prioridad importante de una sociedad de pares
+la naturaleza se convertirá en la prioridad principal de una sociedad de pares
 global.
 
 
@@ -493,17 +493,17 @@ paralelamente con el capitalismo hasta que lo supere?  ¿O su desarrollo
 será mucho más complejo, marcado por flujos, reflujos y derrotas
 temporales?  ¿Será una revolución social que expropie medios de
 producción estratégicos a los capitalistas un prerrequisito para que
-la producción de pares se vuelva el modo de producción dominante?  La
+la producción de pares se vuelva el modo de producción dominante?  ¿Cuál será el rol de la lucha social y la conciencia humana en el avance de la producción de pares? La
 respuesta a estas preguntas necesita el esfuerzo colectivo de muchos.
 Aquí, será suficiente mencionar que "la idea del comunismo" se vuelve
 atractiva nuevamente.  No obstante no es suficiente, aunque realmente
 necesario, decir que "otro comunismo es posible" [@harvey-2010, pp. 259]
 sino que debemos imaginar los contornos generales de la producción
 comunista.  Aquí yace el significado histórico y político de la
-producción de pares.  El éxito de este modo de producción dependerá
+producción de pares.  Respresenta, aunque en una forma embrionaria, el modelo para la producción y distribución comunista. El éxito de este modo de producción dependerá
 definitivamente de la lucha social que lo asista.  ¿Cuáles son entonces
 las fortalezas y debilidades de la producción social de pares en tanto
-movimiento?  Su fuerza es que una práctica productiva.
+movimiento?  Su fuerza es que es una práctica productiva.
 
 Su debilidad, como argumenta Söderberg [-@soderberg-2008], es que la
 mayor parte de los participantes de la producción de pares carece de
@@ -528,7 +528,7 @@ Las comunidades de pares también desarrollan actitudes morales
 progresivas y humanistas.  Los miembros de estas comunidades no
 aprecian la fanfarronería, la auto promoción, la deshonestidad y la
 manipulación calculadora.  Mientras se reconoce a los individuos y se
-las da crédito por sus contribuciones el interés común por mantener y
+les da crédito por sus contribuciones el interés común por mantener y
 desarrollar comunidades de pares productivas es más fuerte.  Sin duda la
 formación de un colectivismo sólido y una cultura progresiva que crezca
 orgánicamente alrededor de la producción de pares y otros movimientos
@@ -544,8 +544,8 @@ comenzado como una producción P2P fueron reconvertidos en empresas
 capitalistas.  Bajo esta condición la propagación de una clara visión
 comunista entre los participantes de la producción de pares será
 indispensable para el avance de este nuevo modo de producción.  Sin
-duda existe una sección concientemente comunista entre los productores
-de la producción de pares.  Esta sección comunista debe ponerse al
+duda existe un sector concientemente comunista entre los productores
+de la producción de pares.  Este sector comunista debe ponerse al
 hombro una lucha teórica intransigente y crítica dentro del movimiento
 de la producción P2P.  Sin embargo, esta lucha debe ser conducida en
 términos fraternales y evitar el sectarismo.  Los comunistas no deben
@@ -562,10 +562,10 @@ abierta y públicamente en la red.  Este procedimiento también puede
 ser utilizado (y ya lo es en cierto punto) en los debates políticos,
 teóricos e ideológicos dentro de las comunidades de pares.
 
-En adición a la falta de conciencia de clase entre los pares productores
+Sumada a la falta de conciencia de clase entre los pares productores
 y tal vez como resultado de esto, la ausencia de alianzas/conexiones
 sostenidas entre pares productores y otros movimientos sociales
-progresivos es otra debilidad del movimiento de pares.  Estas es también
+progresivos es otra debilidad del movimiento de pares.  Esta es también
 una debilidad de los otros movimientos sociales.  La alianza entre
 un movimiento P2P auto-conciente y otros movimientos sociales, con
 potenciales y objetivos antisistémicos, fortalecerá ambos lados.  La
@@ -577,10 +577,10 @@ democrática y ecológica de la cooperación en la producción, esfera
 pública y autogestión; y la realización de la libertad y creatividad
 individuales.  El hecho mismo que _Occupy Wall Street_ haya sido
 iniciado por _Adbusters_ y _Anonymous_, y que su forma de organización
-decentralizada/en red, así como la de los indignados, sean muy similares
+descentralizada/en red, así como la de los indignados, sean muy similares
 a la del P2P, resulta muy prometedor.
 
-Existe al menos una sección entre los pares productores que relacionan
+Existe al menos un sector entre los pares productores que relacionan
 claramente su práctica con problemáticas más amplias sobre justicia,
 libertad, bienes comunes y democracia.  También participan en otros
 movimientos sociales.  La izquierda académica y activista, por otro
@@ -612,9 +612,9 @@ lucha social y darle la debida significación a la producción de pares en
 este contexto.
 
 Un movimiento de protesta importante ha barrido el globo en 2011.  ¿Qué
-pasaría si estos movimientos de protesta ponen la apropiación de los
+pasaría si estos movimientos de protesta ponen en su agenda la apropiación de los
 medios de producción más importantes y su reorganización bajo el sistema
-de cooperación de pares en su agenda?
+de cooperación de pares?
 
 
 ## Bibliografía
