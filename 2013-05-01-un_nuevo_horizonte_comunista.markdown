@@ -11,30 +11,29 @@ La producción de pares como alternativa al capitalismo: un nuevo horizonte comu
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> <fauno@endefensadelsl.org> en mayo del 2013.  Corregido por Tes en julio del 2014
+> <fauno@endefensadelsl.org> en mayo del 2013.
 
 La crisis actual del capitalismo ha provocado protestas, revueltas y
 revoluciones en grandes partes del planeta involucrando a 3 mil millones
 de habitantes.  Incluso la _Time Magazine_ hizo del "Protestante" el
-personaje del año.  La tapa decía: De la Primavera Árabe a Atenas, de
+personaje del año. La portada decía: De la Primavera Árabe a Atenas, de
 _Occupy Wall Street_ a Moscú.  China, Chile, España, Inglaterra, Italia,
 India, Israel, Irán y Francia, entre muchos otros lugares, pueden
-contarse entre los semilleros de las protestas sociales recientes.
+también contarse entre los semilleros de las protestas sociales recientes.
 
 Los movimientos de protesta han puesto las alternativas al capitalismo
-en la agenda histórica [@hardt-negri-2011].  Este artículo argumenta
-que una sección de los trabajadores cognitivos ya ha creado un nuevo
+en la agenda histórica [@hardt-negri-2011]. Este artículo argumenta
+que un sector de los trabajadores cognitivos ya ha creado un nuevo
 modo de producción llamado de pares (P2P) como una alternativa viable
-al capitalismo.  Aunque aun se encuentra en su fase emergente y se
-encuentra dominado por el capitalismo, el P2P demuestra claramente los
-contornos principales de una sociedad igualitaria.  El hecho mismo de
-que secciones del activismo P2P y los trabajadores de las TIC estén
-activamente involucrados en las protestas puede funcionar como un buen
+al capitalismo.  Aunque aun se encuentra en su fase emergente y dominado por el capitalismo, el P2P demuestra claramente los 
+contornos principales de una sociedad igualitaria. El hecho mismo de
+que sectores del activismo P2P y los trabajadores de las TIC estén
+-a su vez- activamente involucrados en las protestas puede funcionar como un buen
 catalizador que conecte el P2P con estos movimientos.
 
 En la producción de pares, los productores producen bienes
 colectivamente a través de la participación voluntaria en un sistema
-productivo decentralizado, de red.  Los voluntarios escogen las tareas
+productivo descentralizado, de red. Los voluntarios escogen las tareas
 que realizan; la cantidad de tiempo que dedican a la producción
 colectiva; el tiempo y lugar de su actividad productiva.  En términos
 de distribución, cualquiera en el mundo puede usar los productos
@@ -63,7 +62,7 @@ y personalizarlo; redistribuir copias gratuitamente o por un precio
 razonable; y cambiar y mejorar el programa.  Stallman incluyó la así
 llamada cláusula "copyleft" en la GPL.  De acuerdo con esta cláusula
 cualquier código que incluya componentes derivados de código bajo la GPL
-deberá ser también liberado bajo la misma licencia.  El copyleft es la
+deberá ser también liberado bajo la misma licencia en su totalidad.  El copyleft es la
 negación dialéctica del copyright, porque a la vez que lo preserva lo
 está aboliendo [@stallman-2002].
 
@@ -71,10 +70,10 @@ El significado de la GPL descansa en el hecho de haber formulado por
 primera vez en la historia de la humanidad un derecho de propiedad
 que engloba a todo el mundo.  Los comunes han existido desde la
 concepción misma de la humanidad en varias formas y dentro de varias
-civilizaciones [@marx-1965; @ostrom-1990].  Pero todas
-ellas, a excepción del común del conocimiento, han estado siempre
-territorializadas y pertenecido a comunidades, tribus o estados
-particulares.  Por lo tanto y como regla general, los extraños eran
+civilizaciones [@marx-1965; @ostrom-1990].  Pero todos
+ellos, a excepción del común del conocimiento, han estado siempre
+territorializados y pertenecido a comunidades, tribus o estados
+particulares.  Por lo tanto y como regla general, los forasteros eran
 excluidos.  La GPL creó un común globalmente desterritorializado,
 incluyendo a casi todos.  Sólo excluye a aquellos usuarios que rechazan
 liberar sus propios productos bajo la GPL.  La GPL ha sido modificada
@@ -82,9 +81,9 @@ bajo el nombre de _Open Source_ para acomodar los intereses comerciales.
 Este nuevo protocolo sólo obliga a los usuarios a liberar bajo la GPL
 sólo aquellos componentes de sus productos que deriven de otros bajo la
 GPL.  El propietario puede mantener otros componentes como propiedad
-privada.  Si el _Open Source_ es una corrupción de la GPL o facilita la
+privada.  Si el _Open Source_ corrompe a la GPL o facilita la
 expansión del P2P es tema de debate entre Stallman y sus seguidores,
-por un lado y aquellos que proponen el _Open Source_ por el otro
+por un lado y los defensores del _Open Source_ por el otro
 [@raymond-2001; @weber-2004].
 
 Para los propósitos de este artículo me concentraré en la GPL, porque
@@ -92,7 +91,7 @@ representa la esencia de los nuevos comunes del conocimiento globales y
 universales.  La mayoría de las formas de conocimiento han sido comunes
 universales.  Merton [-@merton-1979] argumentó que la ciencia requiere
 una forma de producción y distribución comunista.  Aunque han habido
-excepciones a esta regla (shamanes, magos, clérigos y artesanos, entre
+excepciones a esta regla (chamanes, magos, clérigos y artesanos, entre
 otros, intentaron mantener en secreto sus conocimientos o transferirlos
 sólo a selectos individuos), fue el capitalismo y sus correspondientes
 regimenes de copyright y patentes los que cercaron sistemáticamente
@@ -102,7 +101,7 @@ informacional, crecía dramáticamente un régimen de copyright draconiano
 [@lessig-2005].  La GNU GPL fue una estrategia jurídico-productiva
 pionera en producir un común global de conocimiento y en protegerlo de
 la invasión del capitalismo.  En este sentido, la iniciativa de Stallman
-fue una piedra de toque fundamental en la lucha de los trabajadores
+fue un hito fundamental en la lucha de los trabajadores
 cognitivos contra el capitalismo informacional [@soderberg-2008].
 
 Fue, sin embargo, Linus Torvalds quien tomó este desarrollo local y
@@ -170,7 +169,7 @@ Definamos brevemente el concepto de modo de producción según Marx
 producen bienes pre-diseñados.  Estos bienes pueden ser materiales, como
 el pan; servicios, como la salud y la educación; o información y
 conocimiento, como el software.  Las fuerzas productivas son los
-humanos, sus conocimientos y habilidades y otras condiciones materiales
+humanos, sus conocimientos y habilidades, las herramientas que usan, el material sobre el que actúan y otras condiciones materiales
 de la producción, como la energía, los edificios, etc.  Las relaciones
 de producción son relaciones "definitivas" e "indispensables" entre
 humanos que se corresponden con el estadio material de las fuerzas
@@ -193,8 +192,8 @@ La centralidad de la información/conocimiento y la estructura de la red
 contradicen inherentemente las relaciones capitalistas de producción.
 La lógica de la red requiere que el conocimiento producido en cada nodo
 de una red integrada globalmente deba fluir libre y horizontalmente en
-todas las direcciones hacia todos los demás nodos.  Es también universal
-en el sentido que el mismo ítem de conocimiento puede ser utilizado
+todas las direcciones hacia todos los demás nodos. El conocimiento es un bien no rival, que puede reproducirse sin costos extras. Es también universal
+dado que el mismo ítem de conocimiento puede ser utilizado
 simultáneamente por todo el planeta.
 
 Aun así el capitalismo previene el libre flujo del conocimiento en todas
@@ -208,7 +207,7 @@ excede al modo de producción capitalista [@hardt-negri-2000].
 
 Lo mismo es cierto para el conocimiento-información, la otra fuerza
 productiva paradigmática de nuestra era.  El conocimiento es universal y
-no rival.  El capital se engrava en una selecta subred de la red total:
+no rival.  El capital esculpe para sí una selecta subred de la red total:
 la red global de acumulación de capital.  El flujo de
 conocimiento-capital está cercado por esta subred.  Aun dentro de esta
 subred el flujo de conocimiento no es libre.  En primer lugar, en la
@@ -217,7 +216,7 @@ de conocimiento se han vuelto secretas y son celosamente mantenidas
 dentro del alcance de un pequeño número de diseñadores e ingenieros de
 empresas particulares.  En segundo lugar, el conocimiento-mercancía sólo
 puede moverse de un nodo a otro si es intercambiado por dinero.  En
-otras palabras la forma mercancía es una forma de cercamiento.
+otras palabras la forma mercancía en sí misma es una forma de cercamiento.
 
 El PTI también contradice profundamente la organización capitalista de
 la producción.  La red es una red abierta en la que cada nodo puede
@@ -246,7 +245,7 @@ aquella del capital.  Más arriba he descrito brevemente aquellos
 aspectos del P2P que se corresponden con aquello que Marx entendía por
 comunismo.  Todos estos aspectos contradicen la lógica del capital.
 Demostraré aquí cómo la lógica del P2P contradice profundamente a la
-división capitalista del trabajo.  Dejenme enfatizar que en el P2P
+división capitalista del trabajo, porque la división del trabajo es el componente clave de todo modo de producción.  Dejenme enfatizar que en el P2P
 tenemos una distribución del trabajo y no una división del trabajo
 [@weber-2004].  Los modos de cooperación entre pares y la distribución
 de sus productos vuelven superfluas las micro (entre unidades de
@@ -273,7 +272,7 @@ lo menos controversiales [@castells-2010].  Muchos argumentan que el
 taylorismo todavía es la forma dominante de la organización del proceso
 laboral [@tomaney-1994; @huws-2003].  Sin importar la validez de la
 hipótesis post-fordista, podemos decir con seguridad que el trabajo
-aun está compartimentalizado en espacios cerrados y es despóticamente
+aun está compartimentado en espacios cerrados y es despóticamente
 administrado por los representantes del capital.  Mientras que
 un pequeño y selecto grupo de trabajadores pueden disfrutar una
 autonomía parcial, el total del proceso laboral es centralizado por los
@@ -281,10 +280,10 @@ administradores que integran el trabajo de trabajadores separados en un
 proceso total de trabajo cooperativo.  Andre Gorz [-@gorz-1999, ch. 2],
 un proponente de la hipótesis post-fordista, dice que el post-fordismo
 ha reemplazado al despotismo impersonal y mecanizado del taylorismo por
-nuevas formas de esclavizamiento personal.  Los productores individuales
+nuevas formas de esclavitud personal.  Los productores individuales
 no eligen sus tareas, ni el ritmo, tiempo y lugar de su trabajo.  En
 otras palabras el proceso de trabajo es micro-territorializado tanto
-espacial como temporalmente.  En la cooperación P2P los procesos
+espacial como temporalmente.  En este sentido el contraste con la coopración P2P no puede ser mayor. En la cooperación P2P los procesos
 laborales están globalmente desterritorializados, en términos tanto
 temporales como espaciales.
 
@@ -296,7 +295,7 @@ demostró que en una organización centralizada el incremento del número
 de ingenieros que trabajan sobre un problema particular de software
 decrece la eficacia al crear complejidades innecesarias en un rango
 exponencial.  Raymond [-@raymond-2001] demostró que esto no era cierto
-en la cooperación decentralizada de la red P2P.  Aquí, el incremento en
+en la cooperación descentralizada de la red P2P.  Aquí, el incremento en
 el número de trabajadores incrementa la eficacia y mejora el producto.
 Esta hipótesis puede ser cierta para todas las formas de producción
 cognitiva.
@@ -310,7 +309,7 @@ bifurcaciones, ellos tienen la palabra final, aunque existe el espacio
 para el debate extensivo.  Sin embargo, si los demás no están contentos
 con las decisiones tomadas por ese liderazgo, tienen el derecho de tomar
 el proyecto entero y desarrollarlo en la dirección que les plazca.
-Si esta forma de "centralización" es un impacto del medio ambiente
+Si esta forma de "centralización" es un impacto del entorno externo
 capitalista, o inherente a la producción de pares, es un tema que
 requiere un examen crítico [@oneill-2009].
 
@@ -347,7 +346,7 @@ utilizando la teoría del valor de Marx; sin embargo, requiere una
 argumentación más larga de lo que el espacio disponible permite).
 
 En resumen, las fuerzas productivas del PTI combinadas con la forma de
-cooperación decentralizada de red, la ausencia del trabajo asalariado,
+cooperación descentralizada de red, la ausencia del trabajo asalariado,
 la contribución voluntaria y la forma común[^ndt1] de los productos
 constituyen las características principales del modo de producción
 P2P.  Aunque el modo de producción de pares es todavía un fenómeno
@@ -358,7 +357,7 @@ puedan difícilmente exagerarse.  El modo de producción capitalista es
 una barrera para la realización de las potencialidades del conocimiento
 en la era de Internet.  Limita la creatividad humana y el desarrollo
 de los trabajadores cognitivos en general.  Por lo tanto no es una
-coincidencia que una sección de los trabajadores cognitivos se haya
+coincidencia que un sector de los trabajadores cognitivos se haya
 rebelado contra las relaciones capitalistas de producción al lanzar el
 P2P.  Como argumenta Söderberg [-@soderberg-2008] esta es una forma de
 lucha de clases.
