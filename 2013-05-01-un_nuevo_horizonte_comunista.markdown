@@ -500,7 +500,7 @@ atractiva nuevamente.  No obstante no es suficiente, aunque realmente
 necesario, decir que "otro comunismo es posible" [@harvey-2010, pp. 259]
 sino que debemos imaginar los contornos generales de la producción
 comunista.  Aquí yace el significado histórico y político de la
-producción de pares.  Respresenta, aunque en una forma embrionaria, el modelo para la producción y distribución comunista. El éxito de este modo de producción dependerá
+producción de pares.  Representa, aunque en una forma embrionaria, el modelo para la producción y distribución comunista. El éxito de este modo de producción dependerá
 definitivamente de la lucha social que lo asista.  ¿Cuáles son entonces
 las fortalezas y debilidades de la producción social de pares en tanto
 movimiento?  Su fuerza es que es una práctica productiva.
