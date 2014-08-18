@@ -5,6 +5,15 @@ title: "Richard Stallman: Qué es el Software Libre"
 cover: "images/cover_endefensadelsl_nr0.png"
 ---
 
+Richard Stallman: Qué es el Software Libre
+==========================================
+
+> Las ilustraciones de Lucy Watts[^1] se encuentran bajo la licencia
+> Creative Commons Atribución-CompartirIgual 3.0 [@cc-by-sa].
+
+
+[^1]: https://commons.wikimedia.org/wiki/User:Lucy_Watts
+
 ![RICHARD STALLMAN, fundador de la Fundación por el Software Libre (FSF)
 ¿Qué es un software libre?  Hay 4 libertades esenciales. Libertad 0 es
 la libertad de usar el programa como quieras, Libertad 1 es la libertad
