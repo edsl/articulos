@@ -589,89 +589,91 @@ observaciones:
 > y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
 [^always-already]: Always-already en el original. Ver el artículo en
-Wikipedia: https://en.wikipedia.org/wiki/Always_already. _(Nota de
-traducción)_
+                   Wikipedia: https://en.wikipedia.org/wiki/Always_already.
+                   _(Nota de traducción)_
 
-Muchos historiadores han demostrado cómo este estado de cosas ha llegado
-a ser, comenzando por el movimiento de cercamiento en los siglos XVI y
-XVII en Inglaterra [@perelman-2000].  La tierra que hasta ese momento
-había sido tenida en común fue cercada y asignada a propietarios
+Muchos historiadores han demostrado cómo se ha llegado
+a esta situación, comenzando por el movimiento de cercamiento en los siglos XV y
+XVI en Inglaterra [@perelman-2000].  La tierra, que hasta ese momento
+había sido un bien común, fue cercada y asignada a propietarios
 individuales.  La tierra fue convertida en un recurso escaso, tal como
 la información fue convertida en una entidad abstracta y
 descontextualizada.  La expansión actual de la propiedad intelectual, en
 las memorables palabras de James Boyle, se convirtió en "un segundo
-movimiento de cercamiento" [@boyle-2003].  Ejemplifica un análisis que
+movimiento de cercamiento" [@boyle-2003].  Boyle ejemplifica un análisis que
 comienza con una crítica más amplia de la propiedad privada y la
 mercantilización como momentos de un todo social desplegándose
-históricamente.  La perspectiva histórica de la escasez estresa la
-continuidad antes que la discontinuidad y muestra que la economía
+históricamente.  La perspectiva histórica de la escasez pone el énfasis en la
+continuidad antes que en la discontinuidad, y muestra que la economía
 política de la información no es tan excepcional después de todo.  Nada
-dicho hasta ahora niega la noción de sentido común de que hay una
+de lo dicho hasta ahora niega la noción de sentido común de que hay una
 diferencia cualitativa entre los bienes informacionales y los tangibles.
-Tampoco niego que puede resultar significativo reflexionar sobre esta
+Tampoco niego que pueda resultar significativo reflexionar sobre esta
 diferencia.  Lo que está en juego es solamente cómo enmarcar mejor tal
-investigación.  El punto fue forzosamente hecho por Dan Schiller en su
+pregunta.  Esto fue señalado con vehemencia por Dan Schiller en su
 crítica de la hipótesis de la excepcionalidad de la información:
 
-> Así como estamos en contra de la afirmación posindustrialista de que
+> En contra de la afirmación posindustrialista de que
 > el valor de la información deriva de sus atributos inherentes en tanto
 > recurso, respondemos que su valor nace solamente de su transformación
-> en una mercancía -- un recurso socialmente revalorizado y refinado a
-> través de una aplicación histórica progresiva del trabajo asalariado y
-> el mercado en su producción e intercambio [@schiller-1988. pp. 41].
+> en una mercancía: un recurso socialmente revalorizado y refinado a
+> través de aplicaciones históricas progresivas del trabajo asalariado y
+> el mercado, hacia su producción e intercambio [@schiller-1988. pp. 41].
 
 Lo que parecen ser características inherentes a la información terminan
 siendo, en un segundo vistazo, un momento pasajero en un proceso
 histórico más amplio.  Anteriormente en el texto mencioné que la
 información fue definida a mediados del siglo XX como una entidad
-abstracta y descontextualizada.  Hubo definiciones de la información en
-competencia pero esta fue la que mejor se alineaba a las necesidades de
+abstracta y descontextualizada.  Competían otras definiciones de la información en
+ese momento, pero ésta era la que mejor se alineaba a las necesidades de
 un complejo científico-industrial en ascenso.  Cincuenta años después,
-la definición de información de Claude Shannon se ha hundido en las
+la definición de la información de Claude Shannon se ha grabado a fuego en las
 infraestructuras, prácticas y representaciones de nuestra sociedad.
-Decir que esta definición de información es una innovación cultural y
-una construcción no implica que dejará de funciona mañana, simplemente
-por haber hecho una crítica de ella.  La información entendida de esta
-forma es lo suficientemente real y ha contribuido a una ruptura en la
-urdimbre de la sociedad, correspondiéndose aproximadamente con la
-difusión de la tecnología de la información.  Mi única respuesta es que
-esta ruptura debe colocarse en el proceso de trabajo, no en algunas
+Decir que esta definición de la información es una innovación cultural y
+una construcción no implica que pueda desaparecer de la noche a la mañana, simplemente
+haciendo una crítica de ella.  La información entendida de esta
+forma es lo suficientemente real, y ha contribuido a una ruptura en la
+urdimbre de la sociedad, correspondiéndose a grandes rasgos con el
+esparcimiento de la tecnología de la información.  Mi única disputa es que
+esta ruptura debe atribuirse al proceso de trabajo, no a algunas
 características inherentes atribuidas a la información como tal.  En
 lugar de hablar de "información infinitamente reproducible tratada como
-un recurso escaso", sería más apropiado decir "propiedad privada metido
-a la fuerza en un proceso de trabajo socializado".  La ventaja clave con
+un recurso escaso", sería más apropiado decir "propiedad privada metida
+a la fuerza en un proceso laboral socializado".  La ventaja principal de
 esta última descripción es que permite un estilo más dinámico de
 razonamiento.  Una realidad empírica dada puede ser estudiada como una
 transición en su desarrollo.
 
-Las ventajas de este abordaje se ven cuando el objeto de estudio es el
-cambio tecnológico y la destrucción creativa.  La convergencia de
+Las ventajas del último enfoque se ven claramente cuando el objeto de estudio consiste en el
+cambio tecnológico y en la destrucción creativa.  La convergencia de
 hardware y software es un caso en cuestión.  Esta tendencia se estaba
 abriendo paso mucho antes que la aparición de las impresoras
-tridimensionales hogareñas forzara el problema.  Un caso son los
-circuitos de campo programable, que ya habían sido utilizados en la
-industria computacional por más de una década.  Los circuitos son
+tridimensionales hogareñas forzara el tema.  Un caso son los
+circuitos programables en campo[^FPGA], ampliamente utilizados en la
+industria computacional desde hace más de una década.  Los circuitos son
 manufacturados de forma tal que el diseño final puede ser reprogramado
 más tarde, como si se tratara de código de software.  No es necesario
-decir que le debemos la existencia de los circuitos de campo programable
-a algo más que la innata trayectoria del progreso científico y
-tecnológico.  Un testimonio de un líder industrial en los '90,
-anticipando el incremento en el uso de estos circuitos, afirma este
+decir que le debemos la existencia de los circuitos programables en campo
+a algo más que a la innata trayectoria del progreso científico y
+tecnológico.  El testimonio de un líder industrial en los '90,
+anticipando el incremento en el uso de estos circuitos, ilustra este
 punto sucintamente:
 
 > Nuestra ventaja es que podemos utilizar capacidades de programación
-> fácilmente encontrables para hacer lo que antes necesitaba de
-> diseñadores de chips caros y díficiles de reclutar [@gibson-1999, pp.
-> 38].
+> fácilmente disponibles para hacer lo que antes requería
+> diseñadores de chips caros y díficiles de reclutar [@gibson-1999, pp. 38].
 
-Tanto la definición de información abstracta, matemática, estipulada por
-Claude Shannon, que luego apuntalara las muchas proclamas del
-ciberespacio como un reino independiente de la existencia física,
-corpórea, como la última narrativa donde los dos reinos vuelven a
-converger deben localizarse en un circuito más amplio de producción,
+[^FPGA]: Un tipo de circuitos (FPGA) que se pueden programar fuera de la
+         fábrica, o sea "en el campo". _(Nota de traducción)_
+
+Tanto la definición de información abstracta y matemática estipulada por
+Claude Shannon, que más tarde respaldó las muchas afirmaciones sobre el
+ciberespacio como un reino independiente de la existencia física
+y corpórea, como la última narrativa donde los dos reinos convergen de nuevo,
+deben localizarse en un circuito más amplio de producción,
 mercantilización y relaciones de trabajo.  Es decir, la propiedad
-intelectual necesita ser analizada desde el punto panorámico de la
-crítica de la economía política.
+intelectual necesita ser analizada desde el punto de vista más elevado
+de una crítica de la economía política.
 
 Conclusión
 ----------
