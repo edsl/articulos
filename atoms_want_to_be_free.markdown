@@ -542,58 +542,55 @@ los recursos informacionales y su excepción de esas mismas leyes.
 [^wealth]: En referencia a _La riqueza de las naciones_ de Adam Smith.
            _(Nota de traducción)_
 
-The drawback with this critique of intellectual property is that it has taken over the limited horizon of the economic science. The anomaly of non-rival (informational) goods is always-already inscribed in the logic of omnipresent scarcity. Allegedly, the exceptionality of information as a commodity consists in that it has artificially been made scarce through a fiat by the state. The implicit assumption is that intellectual property defies the law of gravity and sooner or later must fall to the ground. The defenders of this position are oblivious to the fact that the economy pivots around at least three more commodities, labour, land and money, which are just as fictitious as information. The fiction that labour (i.e. living human beings) behave in accordance with price fluctuations and contractual agreements can only be maintained through continuous state intervention, and often repressive at that. Although the policing of this illusion is never airtight, most of the time it works well enough to keep the labour market and the economy in place (Polanyi, 2001). The only exceptionality that can be granted to information as opposed to labour, land and money, is that the former has very recently been made into a fictitious commodity. Hence, resistance to intellectual property feeds from the living memory of what information used to be and/or could have become. The achilles heel of this resistance is its indebtedness to commonsensical, economic notions, which naturalises a particular definition of information. According to this definition, information is something ready-made, predefined and unchangeable that can effortlessly be divorced from the flow of communication. The main grievance that can be voiced from this position is that intellectual property impedes the free circulation of information goods. Understood in those terms, the assignment of a content provider with intellectual property claims over the information units follows like a brief postscript. The rallying call ”information wants to be free” contains the seed of its own unfreedom: commodification.
-
-
-Political economy of information
-
 La economía política de la información
 --------------------------------------
 
 La maniobra de flanqueo está completa.  Habiendo ido tan lejos en este
-argumento, ha llegado el momento de cerrar los corchetes entre los que
-inicialmente coloqué la pregunta, si la hipótesis de la excepcionalidad de
+argumento, ha llegado el momento de cerrar el paréntesis en el que
+inicialmente coloqué la pregunta sobre si la hipótesis de la excepcionalidad de
 la información es una proposición totalmente falsa.  Mi respuesta es que
-la excepcionalidad atribuido a la información no es incorrecto per se.
+la excepcionalidad atribuida a la información no es incorrecta per se.
 La hipótesis es problemática sólo porque lleva nuestra investigación
 hacia la dirección equivocada al elegir un punto de partida parcial y
-unilateral.  Sostiene el lado incorrecto de la soga[^soga] cuando
+unilateral.  No sirve de nada cuando
 tratamos de darle sentido a la propiedad intelectual y los comunes
-informacionales.  Si esto parece una corrección menor, a duras penas
-valiosa después de todo el revuelo que armé, entonces respondo que esta
-diferencia de matices lleva a un abordaje totalmente diferente, tanto
+informacionales.  Si esto parece una corrección menor que a duras penas
+merece todo el revuelo que armé, entonces respondo que esta
+diferencia de matices lleva a un enfoque totalmente diferente, tanto
 analítica como políticamente.  Al cuestionar la excepcionalidad
-atribuida a la información, la orientación de la investigación como un
-todo es puesta en cuestión también, porque la "excepcionalidad" es un
-artefacto de la forma en que la investigación fue enmarcada.  Lo clave
-es la noción de escasez, el alfa y el omega de la disciplina económica
-que hace surgir a este Otro radical: la abundancia infinita de recursos
+atribuida a la información, la orientación de la investigación en su
+totalidad es puesta en cuestión también, porque la "excepcionalidad" es un
+artefacto de la forma en que la investigación fue enmarcada.  La clave
+del asunto es la noción de escasez, el alfa y el omega de la disciplina económica,
+que hace surgir a su Otro radical: la abundancia infinita de recursos
 informacionales.
-
-[^soga]: Podría traducirse como mear fuera del tarro? :P
 
 El punto inicial de la hipótesis de la excepcionalidad de la información
 es una afirmación de hecho sobre la existencia positiva de la escasez en
-el mundo físico, tomado de la disciplina económica.  La alternativa es
+el mundo físico, tomada de la disciplina económica.  La alternativa es
 un acercamiento histórica y sociológicamente informado, de acuerdo al
-cual la escasez (tanto de bienes tangibles como intangibles) está
-siempre inscrita en las relaciones sociales prevalecientes.  Es aquí que
+cual la escasez (tanto de bienes tangibles como intangibles) siempre-ya[^always-already]
+está inscrita en las relaciones sociales prevalecientes.  Es aquí que
 un análisis robusto de la propiedad intelectual debe comenzar.  Mi
-afirmación puede sonar contraintuitiva.  La escasez en el mundo físico
-es una condición de la vida moderna, experimentada en todos lados como
-un deseo insatisfecho.  La certeza sobre tales experiencias debe
+afirmación podría sonar contraintuitiva.  La escasez en el mundo físico
+es una característica de la vida moderna, experimentada en todos lados como
+falta y deseo insatisfecho.  La certeza sobre tales experiencias debe
 suspenderse en favor de un punto de vista que relaciona la escasez con
 el todo social del sistema industrial de mercado.  El antropólogo
 Marshal Sahlins, basándose en sus estudios sobre sociedades arcaicas,
-hablaba desde tal punto de vista elevado cuando hizo las siguientes
+hablaba desde este punto de vista privilegiado cuando hizo las siguientes
 observaciones:
 
-> El sistema industrial de mercado instituye la escasez de una manera
-> sin paralelo y en un grado sin aproximación.  Donde la producción y la
+> El sistema industrial-mercantil instituye la escasez de una manera
+> sin paralelo precedentes y en un grado sin aproximación en ningún otro lugar.  Donde la producción y la
 > distribución están organizadas a través del comportamiento de los
-> precios y todos los medios de vida dependen de obtener y gastar, la
-> insuficiencia del material se convierte en el punto inicial explícito
+> precios, y todos los medios de vida dependen de obtener y gastar, la
+> insuficiencia del los medios materiales material se convierte en el punto inicial explícito
 > y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
+
+[^always-already]: Always-already en el original. Ver el artículo en
+Wikipedia: https://en.wikipedia.org/wiki/Always_already. _(Nota de
+traducción)_
 
 Muchos historiadores han demostrado cómo este estado de cosas ha llegado
 a ser, comenzando por el movimiento de cercamiento en los siglos XVI y
