@@ -309,7 +309,7 @@ bifurcaciones, ellos tienen la palabra final, aunque existe el espacio
 para el debate extensivo.  Sin embargo, si los demás no están contentos
 con las decisiones tomadas por ese liderazgo, tienen el derecho de tomar
 el proyecto entero y desarrollarlo en la dirección que les plazca.
-Si esta forma de "centralización" es un impacto del entorno externo
+Si esta forma de "centralización" es un impacto del entorno
 capitalista, o inherente a la producción de pares, es un tema que
 requiere un examen crítico [@oneill-2009].
 
