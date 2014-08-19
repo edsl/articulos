@@ -3,6 +3,7 @@ title: "La parodia de los Comunes"
 author: Vasilis Kostakis y Stelios Stavroulakis
 layout: post
 license: http://endefensadelsl.org/ppl_deed_es.html
+cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
 La parodia de los Comunes

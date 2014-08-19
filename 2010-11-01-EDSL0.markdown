@@ -2,6 +2,7 @@
 layout: post
 author: "Publicación"
 title: "En Defensa del Software Libre 0"
+cover: "images/cover_endefensadelsl_nr0.png"
 ---
 
 En Defensa del Software Libre 0
@@ -20,21 +21,22 @@ Segunda edición: Abril 2011
 ![Cubierta de EDSL 0](images/cover_endefensadelsl_nr0.png)
 
 [Libertad en la nube: Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube][1]
-: Eben Moglen
+:    Eben Moglen
 
 [¡Hackers GNUíos!][2]
-: Johan Söderberg
+:    Johan Söderberg
 
 [El Software-martillo][3]
-: Nicolás Reynolds
+:    Nicolás Reynolds
 
 Richard Stallman: Qué es el Software Libre
-: Lucy Watts
+:    Lucy Watts
 
-Piratería y Software Libre
-: Benjamin Mako Hill
+[Piratería y Software Libre][4]
+:    Benjamin Mako Hill
 
 [0]: descargas/En.Defensa.del.Software.Libre.Nro0.pdf "Descargar EDSL 0"
 [1]: freedom_in_the_cloud.html "Libertad en la nube"
 [2]: hg.html
 [3]: el_software-martillo.html
+[4]: pirateria_y_software_libre.html

@@ -2,6 +2,7 @@
 layout: post
 author: "Publicación"
 title: "En Defensa del Software Libre 1"
+cover: "images/cover_endefensadelsl_nr1.png"
 ---
 
 En Defensa del Software Libre 1
@@ -19,13 +20,13 @@ Primera edición: Noviembre 2011
 
 
 [Proyecto Harmony considerado dañino][1]
-: Bradley M. Kuhn
+:    Bradley M. Kuhn
 
 [Por qué la libertad política depende de la libertad del software más que nunca][2]
-: Eben Moglen
+:    Eben Moglen
 
 [El comunismo de pares contra el estado capitalista cliente-servidor][3]
-: Dmytri Kleiner
+:    Dmytri Kleiner
 
 
 [0]: descargas/En.Defensa.del.Software.Libre.Nro1.pdf "Descargar EDSL 1"
