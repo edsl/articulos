@@ -2,6 +2,7 @@
 layout: post
 title: "La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista"
 author: Jakob Rigi
+license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
 La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
@@ -11,7 +12,9 @@ La producción de pares como alternativa al capitalismo: un nuevo horizonte comu
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> <fauno@endefensadelsl.org> en mayo del 2013.
+> <fauno@endefensadelsl.org> en mayo del 2013 y liberado bajo la
+> [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 La crisis actual del capitalismo ha provocado protestas, revueltas y
 revoluciones en grandes partes del planeta involucrando a 3 mil millones

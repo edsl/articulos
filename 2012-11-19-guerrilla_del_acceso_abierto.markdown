@@ -2,6 +2,7 @@
 layout: post
 author: "Aaron Swartz"
 title: "Manifiesto por la Guerrilla del Acceso Abierto"
+license: https://creativecommons.org/publicdomain/mark/1.0/
 ---
 
 Manifiesto por la Guerrilla del Acceso Abierto

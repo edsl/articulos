@@ -4,6 +4,7 @@ author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
 cover: "images/cover_endefensadelsl_nr0.png"
 old-slug: hg.html
+license: https://creativecommons.org/licenses/by-sa/3.0/deed.es
 ---
 
 ¡Hackers GNUníos!
