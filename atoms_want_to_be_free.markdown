@@ -678,35 +678,36 @@ de una crítica de la economía política.
 Conclusión
 ----------
 
-En este artículo, cuestioné la hipótesis de la excepcionalidad de la
-tecnología sobre la que descansa la crítica predominante de la propiedad
-intelectual.  Esta crítica ha sido cortada con la misma tela que la
-disciplina económica.  La teoría económica neo-clásica, la tendencia
+En este artículo he cuestionado la hipótesis de la excepcionalidad de la
+información, sobre la que descansa la crítica predominante contra la propiedad
+intelectual. Esta crítica ha sido cortada con la misma tijera que la
+disciplina económica. La teoría económica neo-clásica, tendencia
 dominante dentro de la economía, no es una búsqueda académica como
-cualquiera otra.  Es la materia prima del pensamiento hegemónico y como
-tal una fuerza material, que reescribe el mundo de acuerdo a sus propias
-abstracciones.  Para hacer cualquier predicción sobre la economía, la
+cualquier otra.  Es materia prima del pensamiento hegemónico y, como
+tal, una fuerza material que reescribe el mundo de acuerdo a sus propias
+abstracciones. Para hacer cualquier predicción sobre la economía, la
 teoría neo-clásica debe postular antes que nada la omnipresencia de la
-escasez.  La escasez es la condición para la visión y consecuentemente
-el punto ciego constitutivo de este "paradigma científico".  Es esta la
-anomalía que los críticas del régimen de propiedad intelectual explotan
+escasez.  La escasez es la condición para ver y, consecuentemente,
+el punto ciego y constitutivo de este "paradigma científico". Es esta la
+anomalía que los críticos del régimen de propiedad intelectual explotan
 cuando hablan sobre la excepcionalidad de los bienes informacionales
-no rivales.  La ironía de esta inversión es fácilmente apreciable.
-La razón de la propiedad intelectual es derrocada desde la citadel
-misma de la propiedad.  El precio a pagar, sin embargo, es que el
-punto ciego de la disciplina económica es debidamente reproducido
-en la crítica de la propiedad intelectual.  La liturgia del libre
-mercado es cantada en alabanza a los comunes informacionales.  Esto es
+no rivales. La ironía de este giro es fácilmente apreciable.
+La justificación para la existencia de la propiedad intelectual es
+derrocada desde adentro de la fortaleza misma de la propiedad. La
+liturgia del libre mercado está siendo cantada en alabanza a los comunes
+informacionales. El precio a pagar es, sin embargo, que el
+punto ciego de la disciplina económica sea debidamente reproducido
+en la crítica de la propiedad intelectual. Esto es
 evidente en las obras de Lawrence Lessig y Yochai Benkler, así como en
 el pensamiento de muchos hackers y hobbistas.  No es suficiente criticar
 las fallas intelectuales de esta narrativa sin reconocer también cómo
-los practicantes la hacen funcionar para ellos mismos cuando se
-involucran en el trabajo liminal.  Un punto en cuestión es la distinción
-entre "libertad de expresión" y "cerveza libre".  Cuando los militantes
-del Software Libre insisten en este límite, se presentan como militantes
-estrictos de problemáticas de derechos civiles mientras evitan una
-crítica de la propiedad, los mercados y la distribución de riqueza a
-través de su abiertamente declarada oposición a los derechos de
+quienes la practican la hacen funcionar para ellos mismos cuando hacen
+trabajo de frontera.  Un buen ejemplo es la distinción
+entre "libre expresión" y "cerveza libre". Cuando los militantes
+del Software Libre insisten en esta frontera, se presentan a sí mismos como militantes
+estrictos de problemáticas de derechos civiles, mientras eximen de
+criticar la propiedad, los mercados y la distribución de la riqueza a
+su oposición abiertamente declarada a los derechos de
 propiedad intelectual.
 
 El trabajo liminal en el que hackers, hobbistas y académicos se han
