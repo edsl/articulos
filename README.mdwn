@@ -71,7 +71,15 @@ Para ver los artículos traducidos pero que aún no se publicaron, podés usar
 
 Cualquier revisión en cualquiera de esos artículos es bienvenida.
 
-### Más información
+## ¡Quiero mi capital social!
+
+Si tradujiste desde cero, o corregiste una traducción contrastando con
+el artículo original, agregate a la lista de traductoras del artículo,
+con nombre o nick y un mail si querés. Si corregiste a partir del texto
+traducido (por ejemplo la ortografía o puntuación) agregate en la lista
+de correctoras.
+
+## Más información
 
 * [Modelo de ramas](http://nvie.com/git-model)
 * [Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
