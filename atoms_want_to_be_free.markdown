@@ -327,7 +327,7 @@ objeto-frontera era lo suficientemente plástico como para adaptarse a
 las necesidades locales, a la vez que lo suficientemente robusto como
 para mantener una identidad común a través de distintos sitios
 [@star-griesemer-1989; @lamont-molnar-2002].  La definición original del
-trabajo de frontera no coincide perfectamente con la hipótesis de la
+trabajo-frontera no coincide perfectamente con la hipótesis de la
 excepcionalidad de la información descrita más arriba, pero sí hace un
 buen trabajo en acercar mi punto clave. El límite entre los recursos
 informacionales y los bienes físicos no es un hecho dado.  Debe ser
@@ -702,7 +702,7 @@ evidente en las obras de Lawrence Lessig y Yochai Benkler, así como en
 el pensamiento de muchos hackers y hobbistas.  No es suficiente criticar
 las fallas intelectuales de esta narrativa sin reconocer también cómo
 quienes la practican la hacen funcionar para ellos mismos cuando hacen
-trabajo de frontera.  Un buen ejemplo es la distinción
+trabajo-frontera.  Un buen ejemplo es la distinción
 entre "libre expresión" y "cerveza libre". Cuando los militantes
 del Software Libre insisten en esta frontera, se presentan a sí mismos como militantes
 estrictos de problemáticas de derechos civiles, mientras eximen de
@@ -710,28 +710,28 @@ criticar la propiedad, los mercados y la distribución de la riqueza a
 su oposición abiertamente declarada a los derechos de
 propiedad intelectual.
 
-El trabajo liminal en el que hackers, hobbistas y académicos se han
+El trabajo-frontera en el que hackers, activistas y académicos se han
 involucrado desde los '80 está siendo desestabilizado por la
-introducción de un nuevo elemento narrativo.  A saber, la exclamación
-que, para ponerlo en el argot de la ideología californiana: "los átomos
-son los nuevos bits".  En el corazón de la articulación de este nuevo
+introducción de un nuevo elemento narrativo. A saber, la exclamación
+de que, para ponerlo en el argot de la ideología californiana: "los átomos
+son los nuevos bits". En el corazón de la articulación de este nuevo
 imaginario están los hobbistas construyendo impresoras tridimensionales
-libres.  La máquina fue ideada con el objetivo explícito de derrumbar la
-baranda entre la información y los bienes físicos.  La expectativa entre
-muchos de los hobbistas es que las mismas fuerzas disruptivas serán
-soltadas sobre los manufactureros industriales tal como ya están
-acosando a las industrias de la música y el cine.  Dicho en términos más
-abstractos, los hobbistas rinden homenaje de que la reflexión en que la
-línea entre los bienes informacionales y los mercados de la propiedad ya
-no esté dada.  La línea no está inscrita en la naturaleza de los
-recursos, como la posición naturalista dice.  Como esta línea ha sido
-construida está sujeta a ser reconstruida y renegociada de nuevo.  Pero
-hay que tomar en cuenta que la articulación de una nueva narrativa
+de código abierto. La máquina fue ideada con el objetivo explícito de derrumbar la
+barrera que separa la información de los bienes físicos. La expectativa entre
+muchos de los hobbistas es que se desencadenen, sobre la manufactura industrial,
+las mismas fuerzas disruptivas que ya tienen sitiadas a las industrias de la música
+y el cine. El *compartir archivos* va a ser generalizado a toda la economía. Dicho en términos más
+abstractos, los hobbistas rinden tributo a la revelación de que la
+línea entre los comunes informacionales y los mercados de objetos físicos
+no está dada de una vez y para siempre. La línea no está inscrita en la naturaleza de los
+recursos, como la posición naturalista establecería. Como esta línea ha sido
+construida, está sujeta a ser reconstruida y renegociada. Pero
+hay que notar que la articulación de una nueva narrativa
 alrededor de los átomos y los bits juega un rol menor en este proceso de
-renegociación.  Lo que más cuenta es la habilidad y la dedicación de los
-hobbistas para trabajar y dirigir el proceso de desarrollo de las
-impresoras tridimensionales.  Desde el punto panorámico de los
-hobbistas, esto es percibido como una movida ofensiva.  Están abriendo
+renegociación. Cuenta más la habilidad y la dedicación de los
+hobbistas para trabajar en y dirigir el proceso de desarrollo de las
+impresoras 3D. Desde el punto de vista privilegiado de los
+hobbistas, esto es percibido como una movida ofensiva. Están abriendo
 un nuevo frente en la lucha contra la propiedad intelectual.
 
 Desafortunadamente, la misma movida desde una comprensión naturalista
