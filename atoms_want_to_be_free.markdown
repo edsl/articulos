@@ -7,8 +7,8 @@ layout: post
 ¡Los átomos también quieren ser libres!
 =======================================
 
-Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>.  Corrección
-por Natalia Boquet y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
+Boquet y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
 Liberado bajo la [Licencia de Producción de
 Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
@@ -125,7 +125,7 @@ todo resulta implicada en su crítica a la propiedad intelectual.  La
 propiedad intelectual es puesta en igualdad de condiciones respecto de la
 propiedad privada.  Para los seguidores de la impresora tridimensional
 libre, esto es percibido como un avance contra los defensores de los
-intereses creados y la propiedad intelectual.  Pero la decisión de
+derechos adquiridos y la propiedad intelectual.  Pero la decisión de
 hackers y hobbistas de abrir un nuevo frente en la lucha contra la
 propiedad intelectual puede tener una interpretación diferente. Podría
 reflejar desarrollos que se están dando en el régimen de propiedad en su
@@ -734,63 +734,69 @@ impresoras 3D. Desde el punto de vista privilegiado de los
 hobbistas, esto es percibido como una movida ofensiva. Están abriendo
 un nuevo frente en la lucha contra la propiedad intelectual.
 
-Desafortunadamente, la misma movida desde una comprensión naturalista
-hacia una constructivista sobre la propiedad privada ya ha sido
-realizada por las secciones más avanzadas de los "intereses creados".
-La comprensión naturalistas o fundacionista de la propiedad privada no
-sólo legitima la propiedad al retratarla como un estado de naturaleza
-externo, una bien conocida crítica de la izquierda desde que Karl Marx
-denunciara el fetichismo de la mercancía.  Por el mismo motivo, todo lo
-que no sea propiedad es retratado como igualmente perteneciente al
-estado de naturaleza, ya sean luz o ideas.  Esto establece el piso o
-fundación más allá del cual la propiedad no puede ser concebida.  No hay
-que sorprenderse cuando las falacias naturalistas del liberalismo
-clásico y la economía política clásica han sido descartadas por el
-Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  Esto puede verse
+Desafortunadamente, el mismo dezplazamiento desde una comprensión naturalista
+de la propiedad privada hacia una constructivista ya ha sido
+realizado por los sectores más avanzadas de los "derechos adquiridos".
+La comprensión naturalista o fundacionista de la propiedad privada no
+sólo legitima la propiedad al retratarla como un estado natural
+eterno, una crítica muy conocida por la izquierda desde que Karl Marx
+denunciara el fetichismo de la mercancía.  Del mismo modo, todo lo
+que no es propiedad se retrata como igualmente perteneciente a un
+estado natural, ya sea luz o ideas.  Esto establece un piso o
+base más allá del cual la propiedad no puede ser concebida.  No hay
+que sorprenderse, entonces, de que las falacias naturalistas del liberalismo
+clásico y la economía política clásica hayan sido descartadas por el
+Colectivo de Pensamiento Neo-Liberal [@mirowski-2013]. Lo mismo puede verse
 en un texto publicado por el _Cato Institute_, uno de los muchos _think
 tanks_ que conforman la vanguardia neo-liberal.  El libro discute la
-relación entre propiedad, mercados y tecnología.  En una reexaminación
-del viejo debate sobre los faros y los bienes públicos, mencionada
-arriba, un economista observa que la luz ha sido reemplazada por las
-señales de radio como medio para asistir la navegación.  Esta tecnología
-está diseñada de tal forma que la renta puede ser fácilmente extraída
-por el servicio.  El escritor se regocija: Gracias al cambio
+relación entre propiedad, mercados y tecnología.  En una re-examinación
+del viejo debate sobre los faros y los bienes públicos, mencionado
+más arriba, un economista hace notar que la luz ha sido reemplazada,
+como medio para asistir la navegación, por las señales de radio. Esta tecnología
+está diseñada de tal forma que la renta por el servicio puede ser extraída
+fácilmente.  El escritor se regocija: gracias al cambio
 tecnológico, ya no hay tales cosas como los bienes públicos naturales.
 Es solo la inercia institucional la que retrasa la implacable expansión
-e intensificación de los mercados [@foldvary-2003].  El último
+e intensificación de los mercados [@foldvary-2003].  Ese último
 comentario clarifica por qué el Colectivo de Pensamiento Neo-Liberal,
 aunque su agenda oficial sea "aplastar el Estado", antes que nada está
 preocupado en capturar al Estado.  Es a través del poder estatal que la
 inercia institucional contra la expansión de los mercados puede ser
-aplastada [@mirowski-2013].  El ejemplo principal, discutido
+aplastada [@mirowski-2013].  El ejemplo más usado, discutido
 extensamente en otros lados, es la privatización de los servicios
-públicos.  Pero la proyección de la propiedad intelectual sobre los
-objetos físicos puede añadirse a esta lista.  Esto apunta a un futuro
+públicos.  Sin embargo, la proyección de la propiedad intelectual sobre los
+objetos físicos puede añadirse a la lista.  Esto apunta a un futuro
 donde los aspectos más controversiales de la propiedad intelectual, es
-decir los sistemas de administración digital de restricciones, la
+decir, los sistemas de gestión de derechos digitales[^DRM], la
 vigilancia de los clientes en tiempo real y los intrincados sistemas de
-administración de precios se han derramado sobre los límites entre lo
-virtual y lo físico.  Ha, en otras palabras, transformado la propiedad
-privada como la conocemos.  Los dos tipos de propiedad convergen en lo
-que he dado en llamar "propiedad aumentada".  La vindicación de que esta
-proyección es lógicamente imposible, de que dejaría muchas lagunas y se
-mal corresponde con los objetos realmente existentes, es de poca
+diferenciación de precios han pasado sobre la anterior barrera entre lo
+virtual y lo físico. En otras palabras, la proyección ha transformado la
+propiedad privada tal como la conocemos.  Los dos tipos de propiedad convergen en
+lo que he dado en llamar "propiedad aumentada".  La defensa de que esta
+proyección es lógicamente imposible, dejaría muchas lagunas, y no aplica
+correctamente a los objetos realmente existentes, es de poca
 importancia.  El triángulo de Penrose no puede existir en términos
-lógicos pero la ilusión de uno es suficiente para los propósitos de las
-leyes y los mercados.  La propiedad aumentada significa que la
-granularidad de las mercancías puede hacerse infinitamente fina.  Son
-infinitas las formas de analizar la información y proveerla en base al
-pago por uso.  La forma gruesa en que los bienes y servicios son
-cobrados hoy, en algunos años más se verán como una larga cola de
-fracasos de mercado sin fin.  La tecnología mantiene su promesa de
+lógicos, pero la ilusión de uno es suficiente para los propósitos de
+leyes y mercados. La propiedad aumentada implica que la
+granularidad de las mercancías puede hacerse infinitamente pequeña.  Son
+infinitas las formas de diseccionar la información y proveerla en según el
+pago.  La tosca manera en que los bienes y servicios son
+cobrados hoy, dentro de algunos años se verá como una larga e interminable lista de
+fracasos del mercado.  La tecnología mantiene su promesa de
 cerrar las fallas del mercado, una y otra vez.  Parafraseando el meme
 anti-fundacionalista y constructivista, los mercados van "hasta el
-fondo".  Como el régimen de la propiedad privada, este nuevo orden solo
-puede continuar existiendo si las transgresiones en su contra son
-sancionadas por el Estado.  Mientras de despliega el conflicto sobre la
-propiedad aumentada, la piratería se generalizará en cada esquina de la
-sociedad.  Y en todos lados escucharemos el grito de guerra: ¡Los átomos
-también quieren ser libres!
+fondo". Como antes sucediera con el régimen de la propiedad privada,
+este nuevo orden solo puede continuar existiendo si las transgresiones
+en su contra son sancionadas por el Estado.  Mientras se despliega el
+conflicto sobre la propiedad aumentada, la piratería se generalizará en
+cada rincón de la sociedad.  Y en todos lados escucharemos el grito de
+guerra: ¡los átomos también quieren ser libres!
+
+[^DRM]: Del inglés Digital Rights Management. Creemos que un nombre
+        más descriptivo es Gestión Digital de Restricciones. Ver el
+        ensayo de Richard Stallman: http://www.gnu.org/philosophy/can-you-trust.es.html.
+        _(Nota de traducción)_
+
 
 Bibliografía
 ============
