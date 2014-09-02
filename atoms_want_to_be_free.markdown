@@ -8,7 +8,7 @@ layout: post
 =======================================
 
 Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
-Boquet y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+Boquet <picado.fino@gmail> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
 Liberado bajo la [Licencia de Producción de
 Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
