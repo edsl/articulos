@@ -3,6 +3,7 @@ title: "¡Los átomos también quieren ser libres!"
 author: "Johan Söderberg"
 layout: post
 license: http://endefensadelsl.org/ppl_deed_es.html
+cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
 ¡Los átomos también quieren ser libres!
@@ -287,7 +288,7 @@ geográficamente (para una crítica, ver Proulx y Latzko-Toth
 [-@proulx-latzko-2005]).  Entre los juristas se ha desencadenado una
 discusión paralela que debate si los mundos virtuales constituyen una
 jurisdicción separada que requiere leyes epecíficas
-[@lastowska-hunter-2004].
+[@lastowka-hunter-2004].
 
 La noción del ciberespacio como un reino incorpóreo de intercambio de
 información ha sido puesta bajo una crítica sostenida por feministas y
@@ -499,8 +500,8 @@ las que ningún peaje puede ser convenientemente impuesto"
 provisto por los faros era mejor administrado colectivamente como un
 bien público [@mill-1965, pp. 968].  Cien años después, Ronald Coase
 volvió sobre el debate de los faros y afirmó que todavía suponía un
-desafío para la teoría económica [@coasen-1974].  La conexión entre luz
-e ideas fue hecha por Thomas Jefferson [@peterson-1984].  Es famosa su
+desafío para la teoría económica [@coase-1974].  La conexión entre luz e
+ideas fue hecha por Thomas Jefferson [@peterson-1984].  Es famosa su
 conclusión de que ambos deben ser compartidos libremente.  Las
 invenciones no pueden, por su propia naturaleza, estar sujetas a la
 propiedad privada exclusiva.  Todas estas declaraciones convergen en
