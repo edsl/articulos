@@ -2,6 +2,7 @@
 title: "¡Los átomos también quieren ser libres!"
 author: "Johan Söderberg"
 layout: post
+license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
 ¡Los átomos también quieren ser libres!
