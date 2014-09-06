@@ -2,6 +2,7 @@
 layout: post
 title: "Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física"
 author: Christian Siefkes
+license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
 Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
@@ -9,7 +10,9 @@ Más allá de la abundancia digital: Bloques para la construcción de la producc
 
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
-> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds.
+> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds y
+> liberado para la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 Resumen
 -------

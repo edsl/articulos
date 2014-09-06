@@ -4,6 +4,7 @@ title: "El Manifiesto Telecomunista"
 author: "Dmitry Kleiner"
 cover: "images/tapas/manifiesto_telecomunista_a5.png"
 old-slug: telekommunist_manifesto.html
+license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
 El Manifiesto Telecomunista

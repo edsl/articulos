@@ -3,6 +3,7 @@ layout: post
 title: "Piratería y Software Libre"
 author: "Benjamin Mako Hill"
 cover: "images/cover_endefensadelsl_nr0.png"
+license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 ---
 
 Piratería y Software Libre
