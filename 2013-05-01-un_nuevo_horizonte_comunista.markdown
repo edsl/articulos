@@ -26,7 +26,7 @@ India, Israel, Irán y Francia, entre muchos otros lugares, pueden
 también contarse entre los semilleros de las protestas sociales recientes.
 
 Los movimientos de protesta han puesto las alternativas al capitalismo
-en la agenda histórica [@hardt-negri-2011]. Este artículo argumenta que
+en la agenda histórica [@hardt-negri-2011a]. Este artículo argumenta que
 un sector de los trabajadores cognitivos ya ha creado un nuevo modo de
 producción llamado de pares (P2P) como una alternativa viable al
 capitalismo.  Aunque aun se encuentra en su fase emergente y dominado
