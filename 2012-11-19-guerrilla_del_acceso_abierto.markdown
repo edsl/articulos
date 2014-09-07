@@ -8,6 +8,12 @@ license: https://creativecommons.org/publicdomain/mark/1.0/
 Manifiesto por la Guerrilla del Acceso Abierto
 ==============================================
 
+> Publicado en Internet Archive
+> https://archive.org/details/GuerillaOpenAccessManifesto
+> 
+> Traducido por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
+> Pasquier Juan <mauricio@pasquierjuan.com.ar>
+
 La información es poder. Pero como con todo poder, hay quienes lo quieren
 mantener para sí mismos. La herencia científica y cultural del mundo completa,
 publicada durante siglos en libros y _journals_, está siendo digitalizada
