@@ -3,6 +3,7 @@ title: "¡Los átomos también quieren ser libres!"
 author: "Johan Söderberg"
 layout: post
 license: http://endefensadelsl.org/ppl_deed_es.html
+cover: "images/cover_endefensadelsl_nr2.png"
 ---
 
 ¡Los átomos también quieren ser libres!
@@ -92,11 +93,11 @@ existentes.
 [^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
          _(Nota de traducción)_
 
-La proposición de que el escaneo y la impresión tridimensionales harán
-a los bienes físicos tan copiables como el código de software está
-abierta a desafío.  La afirmación presenta una vaga semejanza con lo
-que la máquina existente puede realmente hacer.  Aquí voy a dejar
-de lado las objeciones técnicas que uno pueda tener sobre esta idea
+La proposición de que el escaneo y la impresión tridimensionales harán a
+los bienes físicos tan copiables como el código de software está abierta
+a desafío.  La afirmación presenta una vaga semejanza con lo que la
+máquina existente puede realmente hacer.  Aquí voy a dejar de lado las
+objeciones técnicas que uno pueda tener sobre esta idea
 [@soderberg-2013].  Mi preocupación en este artículo radica en el
 imaginario que impulsa el desarrollo de la tecnología casera en una u
 otra dirección.  El mérito principal de la impresora tridimensional
@@ -123,32 +124,33 @@ naturalización de la propiedad privada.
 Cuando los hackers y hobbistas mudan su atención desde el software
 (privativo) hacia el hardware (cerrado), la economía industrial como un
 todo resulta implicada en su crítica a la propiedad intelectual.  La
-propiedad intelectual es puesta en igualdad de condiciones respecto de la
-propiedad privada.  Para los seguidores de la impresora tridimensional
-libre, esto es percibido como un avance contra los defensores de los
-derechos adquiridos y la propiedad intelectual.  Pero la decisión de
-hackers y hobbistas de abrir un nuevo frente en la lucha contra la
-propiedad intelectual puede tener una interpretación diferente. Podría
-reflejar desarrollos que se están dando en el régimen de propiedad en su
-conjunto.  De acuerdo con esta interpretación, la propiedad intelectual,
-lejos de volverse obsoleta por los avances tecnológicos recientes,
-comienza a convertirse en la forma predominante de propiedad.  Los
-bienes físicos no serán  excusados por los rasgos más ofensivos de la
-propiedad intelectual, como los intrincados esquemas de discriminación
-de precios y las técnicas de restricción digital de derechos.
-Adicionalmente a la impresora tridimensional y otras herramientas
-digitales de fabricación, el surgimiento de la así llamada "Internet de
-las Cosas" y la "realidad aumentada" apunta en la misma dirección: un
-desangramiento del ámbito virtual e informacional hacia la existencia
-corpórea.  En correspondencia con este movimiento, uno podría prever un
-futuro donde la propiedad, los intercambios de mercado, la extración de
-rentas y las relaciones laborales fueran reguladas a través de lo que
-elijo llamar "propiedad aumentada".  El empuje hacia la propiedad
-aumentada demuestra que la naturalización ha sido abandonada por la
-sección más avanzada del partido capitalista, es decir el Colectivo de
-Pensamiento Neo-Liberal [@mirowski-2013].  La lección constructivista ha
-sido aquí adoptada porque promete que la propiedad y los mercados pueden
-ser construidos hasta el final.
+propiedad intelectual es puesta en igualdad de condiciones respecto de
+la propiedad privada.  Para los seguidores de la impresora
+tridimensional libre, esto es percibido como un avance contra los
+defensores de los derechos adquiridos y la propiedad intelectual.  Pero
+la decisión de hackers y hobbistas de abrir un nuevo frente en la lucha
+contra la propiedad intelectual puede tener una interpretación
+diferente. Podría reflejar desarrollos que se están dando en el régimen
+de propiedad en su conjunto.  De acuerdo con esta interpretación, la
+propiedad intelectual, lejos de volverse obsoleta por los avances
+tecnológicos recientes, comienza a convertirse en la forma predominante
+de propiedad.  Los bienes físicos no serán  excusados por los rasgos más
+ofensivos de la propiedad intelectual, como los intrincados esquemas de
+discriminación de precios y las técnicas de restricción digital de
+derechos.  Adicionalmente a la impresora tridimensional y otras
+herramientas digitales de fabricación, el surgimiento de la así llamada
+"Internet de las Cosas" y la "realidad aumentada" apunta en la misma
+dirección: un desangramiento del ámbito virtual e informacional hacia la
+existencia corpórea.  En correspondencia con este movimiento, uno podría
+prever un futuro donde la propiedad, los intercambios de mercado, la
+extración de rentas y las relaciones laborales fueran reguladas a través
+de lo que elijo llamar "propiedad aumentada".  El empuje hacia la
+propiedad aumentada demuestra que la naturalización ha sido abandonada
+por la sección más avanzada del partido capitalista, es decir el
+Colectivo de Pensamiento Neo-Liberal [@mirowski-2013].  La lección
+constructivista ha sido aquí adoptada porque promete que la propiedad y
+los mercados pueden ser construidos hasta el final.
+
 
 Las dos fuentes de la crítica predominante a la propiedad intelectual
 ---------------------------------------------------------------------
@@ -200,6 +202,7 @@ ser libre".  En pos de hacer una crítica de esta crítica, empiezo por
 retomar la forma en que la "información" ha sido conceptualizada y
 construida, para luego discutir cómo la teoría económica apuntala esta
 posición.
+
 
 El objeto-frontera: la excepcionalidad de la información
 --------------------------------------------------------
@@ -287,7 +290,7 @@ geográficamente (para una crítica, ver Proulx y Latzko-Toth
 [-@proulx-latzko-2005]).  Entre los juristas se ha desencadenado una
 discusión paralela que debate si los mundos virtuales constituyen una
 jurisdicción separada que requiere leyes epecíficas
-[@lastowska-hunter-2004].
+[@lastowka-hunter-2004].
 
 La noción del ciberespacio como un reino incorpóreo de intercambio de
 información ha sido puesta bajo una crítica sostenida por feministas y
@@ -445,6 +448,7 @@ económica.
       mercados pueden existir independientemente del Estado y sus
       poderes legales.
 
+
 La abundancia: la anomalía en las ciencias económicas (neo)clásicas
 -------------------------------------------------------------------
 
@@ -499,8 +503,8 @@ las que ningún peaje puede ser convenientemente impuesto"
 provisto por los faros era mejor administrado colectivamente como un
 bien público [@mill-1965, pp. 968].  Cien años después, Ronald Coase
 volvió sobre el debate de los faros y afirmó que todavía suponía un
-desafío para la teoría económica [@coasen-1974].  La conexión entre luz
-e ideas fue hecha por Thomas Jefferson [@peterson-1984].  Es famosa su
+desafío para la teoría económica [@coase-1974].  La conexión entre luz e
+ideas fue hecha por Thomas Jefferson [@peterson-1984].  Es famosa su
 conclusión de que ambos deben ser compartidos libremente.  Las
 invenciones no pueden, por su propia naturaleza, estar sujetas a la
 propiedad privada exclusiva.  Todas estas declaraciones convergen en
@@ -543,255 +547,257 @@ los recursos informacionales y su excepción de esas mismas leyes.
 [^wealth]: En referencia a _La riqueza de las naciones_ de Adam Smith.
            _(Nota de traducción)_
 
+
 La economía política de la información
 --------------------------------------
 
 La maniobra de flanqueo está completa.  Habiendo ido tan lejos en este
 argumento, ha llegado el momento de cerrar el paréntesis en el que
-inicialmente coloqué la pregunta sobre si la hipótesis de la excepcionalidad de
-la información es una proposición totalmente falsa.  Mi respuesta es que
-la excepcionalidad atribuida a la información no es incorrecta per se.
-La hipótesis es problemática sólo porque lleva nuestra investigación
-hacia la dirección equivocada al elegir un punto de partida parcial y
-unilateral.  No sirve de nada cuando
-tratamos de darle sentido a la propiedad intelectual y los comunes
-informacionales.  Si esto parece una corrección menor que a duras penas
-merece todo el revuelo que armé, entonces respondo que esta
-diferencia de matices lleva a un enfoque totalmente diferente, tanto
-analítica como políticamente.  Al cuestionar la excepcionalidad
-atribuida a la información, la orientación de la investigación en su
-totalidad es puesta en cuestión también, porque la "excepcionalidad" es un
-artefacto de la forma en que la investigación fue enmarcada.  La clave
-del asunto es la noción de escasez, el alfa y el omega de la disciplina económica,
-que hace surgir a su Otro radical: la abundancia infinita de recursos
-informacionales.
+inicialmente coloqué la pregunta sobre si la hipótesis de la
+excepcionalidad de la información es una proposición totalmente falsa.
+Mi respuesta es que la excepcionalidad atribuida a la información no es
+incorrecta per se.  La hipótesis es problemática sólo porque lleva
+nuestra investigación hacia la dirección equivocada al elegir un punto
+de partida parcial y unilateral.  No sirve de nada cuando tratamos de
+darle sentido a la propiedad intelectual y los comunes informacionales.
+Si esto parece una corrección menor que a duras penas merece todo el
+revuelo que armé, entonces respondo que esta diferencia de matices lleva
+a un enfoque totalmente diferente, tanto analítica como políticamente.
+Al cuestionar la excepcionalidad atribuida a la información, la
+orientación de la investigación en su totalidad es puesta en cuestión
+también, porque la "excepcionalidad" es un artefacto de la forma en que
+la investigación fue enmarcada.  La clave del asunto es la noción de
+escasez, el alfa y el omega de la disciplina económica, que hace surgir
+a su Otro radical: la abundancia infinita de recursos informacionales.
 
 El punto inicial de la hipótesis de la excepcionalidad de la información
 es una afirmación de hecho sobre la existencia positiva de la escasez en
 el mundo físico, tomada de la disciplina económica.  La alternativa es
 un acercamiento histórica y sociológicamente informado, de acuerdo al
-cual la escasez (tanto de bienes tangibles como intangibles) siempre-ya[^always-already]
-está inscrita en las relaciones sociales prevalecientes.  Es aquí que
-un análisis robusto de la propiedad intelectual debe comenzar.  Mi
-afirmación podría sonar contraintuitiva.  La escasez en el mundo físico
-es una característica de la vida moderna, experimentada en todos lados como
-falta y deseo insatisfecho.  La certeza sobre tales experiencias debe
-suspenderse en favor de un punto de vista que relaciona la escasez con
-el todo social del sistema industrial de mercado.  El antropólogo
-Marshal Sahlins, basándose en sus estudios sobre sociedades arcaicas,
-hablaba desde este punto de vista privilegiado cuando hizo las siguientes
-observaciones:
+cual la escasez (tanto de bienes tangibles como intangibles)
+siempre-ya[^always-already] está inscrita en las relaciones sociales
+prevalecientes.  Es aquí que un análisis robusto de la propiedad
+intelectual debe comenzar.  Mi afirmación podría sonar contraintuitiva.
+La escasez en el mundo físico es una característica de la vida moderna,
+experimentada en todos lados como falta y deseo insatisfecho.  La
+certeza sobre tales experiencias debe suspenderse en favor de un punto
+de vista que relaciona la escasez con el todo social del sistema
+industrial de mercado.  El antropólogo Marshal Sahlins, basándose en sus
+estudios sobre sociedades arcaicas, hablaba desde este punto de vista
+privilegiado cuando hizo las siguientes observaciones:
 
-> El sistema industrial-mercantil instituye la escasez de una manera
-> sin paralelo precedentes y en un grado sin aproximación en ningún otro lugar.  Donde la producción y la
-> distribución están organizadas a través del comportamiento de los
-> precios, y todos los medios de vida dependen de obtener y gastar, la
-> insuficiencia del los medios materiales material se convierte en el punto inicial explícito
-> y calculable de toda la actividad económica [@sahlins-1972, pp. 4].
+> El sistema industrial-mercantil instituye la escasez de una manera sin
+> paralelo precedentes y en un grado sin aproximación en ningún otro
+> lugar.  Donde la producción y la distribución están organizadas a
+> través del comportamiento de los precios, y todos los medios de vida
+> dependen de obtener y gastar, la insuficiencia del los medios
+> materiales material se convierte en el punto inicial explícito y
+> calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
 [^always-already]: Always-already en el original. Ver el artículo en
                    Wikipedia: https://en.wikipedia.org/wiki/Always_already.
                    _(Nota de traducción)_
 
-Muchos historiadores han demostrado cómo se ha llegado
-a esta situación, comenzando por el movimiento de cercamiento en los siglos XV y
-XVI en Inglaterra [@perelman-2000].  La tierra, que hasta ese momento
-había sido un bien común, fue cercada y asignada a propietarios
-individuales.  La tierra fue convertida en un recurso escaso, tal como
-la información fue convertida en una entidad abstracta y
-descontextualizada.  La expansión actual de la propiedad intelectual, en
-las memorables palabras de James Boyle, se convirtió en "un segundo
-movimiento de cercamiento" [@boyle-2003].  Boyle ejemplifica un análisis que
-comienza con una crítica más amplia de la propiedad privada y la
-mercantilización como momentos de un todo social desplegándose
-históricamente.  La perspectiva histórica de la escasez pone el énfasis en la
-continuidad antes que en la discontinuidad, y muestra que la economía
-política de la información no es tan excepcional después de todo.  Nada
-de lo dicho hasta ahora niega la noción de sentido común de que hay una
-diferencia cualitativa entre los bienes informacionales y los tangibles.
-Tampoco niego que pueda resultar significativo reflexionar sobre esta
-diferencia.  Lo que está en juego es solamente cómo enmarcar mejor tal
-pregunta.  Esto fue señalado con vehemencia por Dan Schiller en su
-crítica de la hipótesis de la excepcionalidad de la información:
+Muchos historiadores han demostrado cómo se ha llegado a esta situación,
+comenzando por el movimiento de cercamiento en los siglos XV y XVI en
+Inglaterra [@perelman-2000].  La tierra, que hasta ese momento había
+sido un bien común, fue cercada y asignada a propietarios individuales.
+La tierra fue convertida en un recurso escaso, tal como la información
+fue convertida en una entidad abstracta y descontextualizada.  La
+expansión actual de la propiedad intelectual, en las memorables palabras
+de James Boyle, se convirtió en "un segundo movimiento de cercamiento"
+[@boyle-2003].  Boyle ejemplifica un análisis que comienza con una
+crítica más amplia de la propiedad privada y la mercantilización como
+momentos de un todo social desplegándose históricamente.  La perspectiva
+histórica de la escasez pone el énfasis en la continuidad antes que en
+la discontinuidad, y muestra que la economía política de la información
+no es tan excepcional después de todo.  Nada de lo dicho hasta ahora
+niega la noción de sentido común de que hay una diferencia cualitativa
+entre los bienes informacionales y los tangibles.  Tampoco niego que
+pueda resultar significativo reflexionar sobre esta diferencia.  Lo que
+está en juego es solamente cómo enmarcar mejor tal pregunta.  Esto fue
+señalado con vehemencia por Dan Schiller en su crítica de la hipótesis
+de la excepcionalidad de la información:
 
-> En contra de la afirmación posindustrialista de que
-> el valor de la información deriva de sus atributos inherentes en tanto
-> recurso, respondemos que su valor nace solamente de su transformación
-> en una mercancía: un recurso socialmente revalorizado y refinado a
-> través de aplicaciones históricas progresivas del trabajo asalariado y
-> el mercado, hacia su producción e intercambio [@schiller-1988. pp. 41].
+> En contra de la afirmación posindustrialista de que el valor de la
+> información deriva de sus atributos inherentes en tanto recurso,
+> respondemos que su valor nace solamente de su transformación en una
+> mercancía: un recurso socialmente revalorizado y refinado a través de
+> aplicaciones históricas progresivas del trabajo asalariado y el
+> mercado, hacia su producción e intercambio [@schiller-1988. pp. 41].
 
 Lo que parecen ser características inherentes a la información terminan
 siendo, en un segundo vistazo, un momento pasajero en un proceso
 histórico más amplio.  Anteriormente en el texto mencioné que la
 información fue definida a mediados del siglo XX como una entidad
-abstracta y descontextualizada.  Competían otras definiciones de la información en
-ese momento, pero ésta era la que mejor se alineaba a las necesidades de
-un complejo científico-industrial en ascenso.  Cincuenta años después,
-la definición de la información de Claude Shannon se ha grabado a fuego en las
-infraestructuras, prácticas y representaciones de nuestra sociedad.
-Decir que esta definición de la información es una innovación cultural y
-una construcción no implica que pueda desaparecer de la noche a la mañana, simplemente
-haciendo una crítica de ella.  La información entendida de esta
-forma es lo suficientemente real, y ha contribuido a una ruptura en la
-urdimbre de la sociedad, correspondiéndose a grandes rasgos con el
-esparcimiento de la tecnología de la información.  Mi única disputa es que
-esta ruptura debe atribuirse al proceso de trabajo, no a algunas
-características inherentes atribuidas a la información como tal.  En
-lugar de hablar de "información infinitamente reproducible tratada como
-un recurso escaso", sería más apropiado decir "propiedad privada metida
-a la fuerza en un proceso laboral socializado".  La ventaja principal de
-esta última descripción es que permite un estilo más dinámico de
-razonamiento.  Una realidad empírica dada puede ser estudiada como una
-transición en su desarrollo.
+abstracta y descontextualizada.  Competían otras definiciones de la
+información en ese momento, pero ésta era la que mejor se alineaba a las
+necesidades de un complejo científico-industrial en ascenso.  Cincuenta
+años después, la definición de la información de Claude Shannon se ha
+grabado a fuego en las infraestructuras, prácticas y representaciones de
+nuestra sociedad.  Decir que esta definición de la información es una
+innovación cultural y una construcción no implica que pueda desaparecer
+de la noche a la mañana, simplemente haciendo una crítica de ella.  La
+información entendida de esta forma es lo suficientemente real, y ha
+contribuido a una ruptura en la urdimbre de la sociedad,
+correspondiéndose a grandes rasgos con el esparcimiento de la tecnología
+de la información.  Mi única disputa es que esta ruptura debe atribuirse
+al proceso de trabajo, no a algunas características inherentes
+atribuidas a la información como tal.  En lugar de hablar de
+"información infinitamente reproducible tratada como un recurso escaso",
+sería más apropiado decir "propiedad privada metida a la fuerza en un
+proceso laboral socializado".  La ventaja principal de esta última
+descripción es que permite un estilo más dinámico de razonamiento.  Una
+realidad empírica dada puede ser estudiada como una transición en su
+desarrollo.
 
-Las ventajas del último enfoque se ven claramente cuando el objeto de estudio consiste en el
-cambio tecnológico y en la destrucción creativa.  La convergencia de
-hardware y software es un caso en cuestión.  Esta tendencia se estaba
-abriendo paso mucho antes que la aparición de las impresoras
-tridimensionales hogareñas forzara el tema.  Un caso son los
+Las ventajas del último enfoque se ven claramente cuando el objeto de
+estudio consiste en el cambio tecnológico y en la destrucción creativa.
+La convergencia de hardware y software es un caso en cuestión.  Esta
+tendencia se estaba abriendo paso mucho antes que la aparición de las
+impresoras tridimensionales hogareñas forzara el tema.  Un caso son los
 circuitos programables en campo[^FPGA], ampliamente utilizados en la
 industria computacional desde hace más de una década.  Los circuitos son
 manufacturados de forma tal que el diseño final puede ser reprogramado
 más tarde, como si se tratara de código de software.  No es necesario
-decir que le debemos la existencia de los circuitos programables en campo
-a algo más que a la innata trayectoria del progreso científico y
+decir que le debemos la existencia de los circuitos programables en
+campo a algo más que a la innata trayectoria del progreso científico y
 tecnológico.  El testimonio de un líder industrial en los '90,
 anticipando el incremento en el uso de estos circuitos, ilustra este
 punto sucintamente:
 
 > Nuestra ventaja es que podemos utilizar capacidades de programación
-> fácilmente disponibles para hacer lo que antes requería
-> diseñadores de chips caros y díficiles de reclutar [@gibson-1999, pp. 38].
+> fácilmente disponibles para hacer lo que antes requería diseñadores de
+> chips caros y díficiles de reclutar [@gibson-1999, pp. 38].
 
 [^FPGA]: Un tipo de circuitos (FPGA) que se pueden programar fuera de la
          fábrica, o sea "en el campo". _(Nota de traducción)_
 
 Tanto la definición de información abstracta y matemática estipulada por
 Claude Shannon, que más tarde respaldó las muchas afirmaciones sobre el
-ciberespacio como un reino independiente de la existencia física
-y corpórea, como la última narrativa donde los dos reinos convergen de nuevo,
-deben localizarse en un circuito más amplio de producción,
+ciberespacio como un reino independiente de la existencia física y
+corpórea, como la última narrativa donde los dos reinos convergen de
+nuevo, deben localizarse en un circuito más amplio de producción,
 mercantilización y relaciones de trabajo.  Es decir, la propiedad
 intelectual necesita ser analizada desde el punto de vista más elevado
 de una crítica de la economía política.
+
 
 Conclusión
 ----------
 
 En este artículo he cuestionado la hipótesis de la excepcionalidad de la
-información, sobre la que descansa la crítica predominante contra la propiedad
-intelectual. Esta crítica ha sido cortada con la misma tijera que la
-disciplina económica. La teoría económica neo-clásica, tendencia
+información, sobre la que descansa la crítica predominante contra la
+propiedad intelectual. Esta crítica ha sido cortada con la misma tijera
+que la disciplina económica. La teoría económica neo-clásica, tendencia
 dominante dentro de la economía, no es una búsqueda académica como
 cualquier otra.  Es materia prima del pensamiento hegemónico y, como
 tal, una fuerza material que reescribe el mundo de acuerdo a sus propias
 abstracciones. Para hacer cualquier predicción sobre la economía, la
 teoría neo-clásica debe postular antes que nada la omnipresencia de la
-escasez.  La escasez es la condición para ver y, consecuentemente,
-el punto ciego y constitutivo de este "paradigma científico". Es esta la
+escasez.  La escasez es la condición para ver y, consecuentemente, el
+punto ciego y constitutivo de este "paradigma científico". Es esta la
 anomalía que los críticos del régimen de propiedad intelectual explotan
-cuando hablan sobre la excepcionalidad de los bienes informacionales
-no rivales. La ironía de este giro es fácilmente apreciable.
-La justificación para la existencia de la propiedad intelectual es
+cuando hablan sobre la excepcionalidad de los bienes informacionales no
+rivales. La ironía de este giro es fácilmente apreciable.  La
+justificación para la existencia de la propiedad intelectual es
 derrocada desde adentro de la fortaleza misma de la propiedad. La
 liturgia del libre mercado está siendo cantada en alabanza a los comunes
-informacionales. El precio a pagar es, sin embargo, que el
-punto ciego de la disciplina económica sea debidamente reproducido
-en la crítica de la propiedad intelectual. Esto es
-evidente en las obras de Lawrence Lessig y Yochai Benkler, así como en
-el pensamiento de muchos hackers y hobbistas.  No es suficiente criticar
-las fallas intelectuales de esta narrativa sin reconocer también cómo
-quienes la practican la hacen funcionar para ellos mismos cuando hacen
-trabajo-frontera.  Un buen ejemplo es la distinción
-entre "libre expresión" y "cerveza libre". Cuando los militantes
-del Software Libre insisten en esta frontera, se presentan a sí mismos como militantes
-estrictos de problemáticas de derechos civiles, mientras eximen de
-criticar la propiedad, los mercados y la distribución de la riqueza a
-su oposición abiertamente declarada a los derechos de
-propiedad intelectual.
+informacionales. El precio a pagar es, sin embargo, que el punto ciego
+de la disciplina económica sea debidamente reproducido en la crítica de
+la propiedad intelectual. Esto es evidente en las obras de Lawrence
+Lessig y Yochai Benkler, así como en el pensamiento de muchos hackers y
+hobbistas.  No es suficiente criticar las fallas intelectuales de esta
+narrativa sin reconocer también cómo quienes la practican la hacen
+funcionar para ellos mismos cuando hacen trabajo-frontera.  Un buen
+ejemplo es la distinción entre "libre expresión" y "cerveza libre".
+Cuando los militantes del Software Libre insisten en esta frontera, se
+presentan a sí mismos como militantes estrictos de problemáticas de
+derechos civiles, mientras eximen de criticar la propiedad, los mercados
+y la distribución de la riqueza a su oposición abiertamente declarada a
+los derechos de propiedad intelectual.
 
 El trabajo-frontera en el que hackers, activistas y académicos se han
 involucrado desde los '80 está siendo desestabilizado por la
-introducción de un nuevo elemento narrativo. A saber, la exclamación
-de que, para ponerlo en el argot de la ideología californiana: "los átomos
+introducción de un nuevo elemento narrativo. A saber, la exclamación de
+que, para ponerlo en el argot de la ideología californiana: "los átomos
 son los nuevos bits". En el corazón de la articulación de este nuevo
 imaginario están los hobbistas construyendo impresoras tridimensionales
-de código abierto. La máquina fue ideada con el objetivo explícito de derrumbar la
-barrera que separa la información de los bienes físicos. La expectativa entre
-muchos de los hobbistas es que se desencadenen, sobre la manufactura industrial,
-las mismas fuerzas disruptivas que ya tienen sitiadas a las industrias de la música
-y el cine. El *compartir archivos* va a ser generalizado a toda la economía. Dicho en términos más
-abstractos, los hobbistas rinden tributo a la revelación de que la
-línea entre los comunes informacionales y los mercados de objetos físicos
-no está dada de una vez y para siempre. La línea no está inscrita en la naturaleza de los
-recursos, como la posición naturalista establecería. Como esta línea ha sido
-construida, está sujeta a ser reconstruida y renegociada. Pero
-hay que notar que la articulación de una nueva narrativa
-alrededor de los átomos y los bits juega un rol menor en este proceso de
-renegociación. Cuenta más la habilidad y la dedicación de los
-hobbistas para trabajar en y dirigir el proceso de desarrollo de las
-impresoras 3D. Desde el punto de vista privilegiado de los
-hobbistas, esto es percibido como una movida ofensiva. Están abriendo
-un nuevo frente en la lucha contra la propiedad intelectual.
+de código abierto. La máquina fue ideada con el objetivo explícito de
+derrumbar la barrera que separa la información de los bienes físicos. La
+expectativa entre muchos de los hobbistas es que se desencadenen, sobre
+la manufactura industrial, las mismas fuerzas disruptivas que ya tienen
+sitiadas a las industrias de la música y el cine. El *compartir
+archivos* va a ser generalizado a toda la economía. Dicho en términos
+más abstractos, los hobbistas rinden tributo a la revelación de que la
+línea entre los comunes informacionales y los mercados de objetos
+físicos no está dada de una vez y para siempre. La línea no está
+inscrita en la naturaleza de los recursos, como la posición naturalista
+establecería. Como esta línea ha sido construida, está sujeta a ser
+reconstruida y renegociada. Pero hay que notar que la articulación de
+una nueva narrativa alrededor de los átomos y los bits juega un rol
+menor en este proceso de renegociación. Cuenta más la habilidad y la
+dedicación de los hobbistas para trabajar en y dirigir el proceso de
+desarrollo de las impresoras 3D. Desde el punto de vista privilegiado de
+los hobbistas, esto es percibido como una movida ofensiva. Están
+abriendo un nuevo frente en la lucha contra la propiedad intelectual.
 
-Desafortunadamente, el mismo dezplazamiento desde una comprensión naturalista
-de la propiedad privada hacia una constructivista ya ha sido
+Desafortunadamente, el mismo dezplazamiento desde una comprensión
+naturalista de la propiedad privada hacia una constructivista ya ha sido
 realizado por los sectores más avanzadas de los "derechos adquiridos".
 La comprensión naturalista o fundacionista de la propiedad privada no
-sólo legitima la propiedad al retratarla como un estado natural
-eterno, una crítica muy conocida por la izquierda desde que Karl Marx
-denunciara el fetichismo de la mercancía.  Del mismo modo, todo lo
-que no es propiedad se retrata como igualmente perteneciente a un
-estado natural, ya sea luz o ideas.  Esto establece un piso o
-base más allá del cual la propiedad no puede ser concebida.  No hay
-que sorprenderse, entonces, de que las falacias naturalistas del liberalismo
-clásico y la economía política clásica hayan sido descartadas por el
-Colectivo de Pensamiento Neo-Liberal [@mirowski-2013]. Lo mismo puede verse
-en un texto publicado por el _Cato Institute_, uno de los muchos _think
-tanks_ que conforman la vanguardia neo-liberal.  El libro discute la
-relación entre propiedad, mercados y tecnología.  En una re-examinación
-del viejo debate sobre los faros y los bienes públicos, mencionado
-más arriba, un economista hace notar que la luz ha sido reemplazada,
-como medio para asistir la navegación, por las señales de radio. Esta tecnología
-está diseñada de tal forma que la renta por el servicio puede ser extraída
-fácilmente.  El escritor se regocija: gracias al cambio
-tecnológico, ya no hay tales cosas como los bienes públicos naturales.
-Es solo la inercia institucional la que retrasa la implacable expansión
-e intensificación de los mercados [@foldvary-2003].  Ese último
-comentario clarifica por qué el Colectivo de Pensamiento Neo-Liberal,
-aunque su agenda oficial sea "aplastar el Estado", antes que nada está
-preocupado en capturar al Estado.  Es a través del poder estatal que la
-inercia institucional contra la expansión de los mercados puede ser
-aplastada [@mirowski-2013].  El ejemplo más usado, discutido
-extensamente en otros lados, es la privatización de los servicios
-públicos.  Sin embargo, la proyección de la propiedad intelectual sobre los
-objetos físicos puede añadirse a la lista.  Esto apunta a un futuro
-donde los aspectos más controversiales de la propiedad intelectual, es
-decir, los sistemas de gestión de derechos digitales[^DRM], la
-vigilancia de los clientes en tiempo real y los intrincados sistemas de
-diferenciación de precios han pasado sobre la anterior barrera entre lo
-virtual y lo físico. En otras palabras, la proyección ha transformado la
-propiedad privada tal como la conocemos.  Los dos tipos de propiedad convergen en
-lo que he dado en llamar "propiedad aumentada".  La defensa de que esta
-proyección es lógicamente imposible, dejaría muchas lagunas, y no aplica
-correctamente a los objetos realmente existentes, es de poca
-importancia.  El triángulo de Penrose no puede existir en términos
-lógicos, pero la ilusión de uno es suficiente para los propósitos de
-leyes y mercados. La propiedad aumentada implica que la
-granularidad de las mercancías puede hacerse infinitamente pequeña.  Son
-infinitas las formas de diseccionar la información y proveerla en según el
-pago.  La tosca manera en que los bienes y servicios son
-cobrados hoy, dentro de algunos años se verá como una larga e interminable lista de
-fracasos del mercado.  La tecnología mantiene su promesa de
-cerrar las fallas del mercado, una y otra vez.  Parafraseando el meme
-anti-fundacionalista y constructivista, los mercados van "hasta el
-fondo". Como antes sucediera con el régimen de la propiedad privada,
-este nuevo orden solo puede continuar existiendo si las transgresiones
-en su contra son sancionadas por el Estado.  Mientras se despliega el
-conflicto sobre la propiedad aumentada, la piratería se generalizará en
-cada rincón de la sociedad.  Y en todos lados escucharemos el grito de
-guerra: ¡los átomos también quieren ser libres!
+sólo legitima la propiedad al retratarla como un estado natural eterno,
+una crítica muy conocida por la izquierda desde que Karl Marx denunciara
+el fetichismo de la mercancía.  Del mismo modo, todo lo que no es
+propiedad se retrata como igualmente perteneciente a un estado natural,
+ya sea luz o ideas.  Esto establece un piso o base más allá del cual la
+propiedad no puede ser concebida.  No hay que sorprenderse, entonces, de
+que las falacias naturalistas del liberalismo clásico y la economía
+política clásica hayan sido descartadas por el Colectivo de Pensamiento
+Neo-Liberal [@mirowski-2013]. Lo mismo puede verse en un texto publicado
+por el _Cato Institute_, uno de los muchos _think tanks_ que conforman
+la vanguardia neo-liberal.  El libro discute la relación entre
+propiedad, mercados y tecnología.  En una re-examinación del viejo
+debate sobre los faros y los bienes públicos, mencionado más arriba, un
+economista hace notar que la luz ha sido reemplazada, como medio para
+asistir la navegación, por las señales de radio. Esta tecnología está
+diseñada de tal forma que la renta por el servicio puede ser extraída
+fácilmente.  El escritor se regocija: gracias al cambio tecnológico, ya
+no hay tales cosas como los bienes públicos naturales.  Es solo la
+inercia institucional la que retrasa la implacable expansión e
+intensificación de los mercados [@foldvary-2003].  Ese último comentario
+clarifica por qué el Colectivo de Pensamiento Neo-Liberal, aunque su
+agenda oficial sea "aplastar el Estado", antes que nada está preocupado
+en capturar al Estado.  Es a través del poder estatal que la inercia
+institucional contra la expansión de los mercados puede ser aplastada
+[@mirowski-2013].  El ejemplo más usado, discutido extensamente en otros
+lados, es la privatización de los servicios públicos.  Sin embargo, la
+proyección de la propiedad intelectual sobre los objetos físicos puede
+añadirse a la lista.  Esto apunta a un futuro donde los aspectos más
+controversiales de la propiedad intelectual, es decir, los sistemas de
+gestión de derechos digitales[^DRM], la vigilancia de los clientes en
+tiempo real y los intrincados sistemas de diferenciación de precios han
+pasado sobre la anterior barrera entre lo virtual y lo físico. En otras
+palabras, la proyección ha transformado la propiedad privada tal como la
+conocemos.  Los dos tipos de propiedad convergen en lo que he dado en
+llamar "propiedad aumentada".  La defensa de que esta proyección es
+lógicamente imposible, dejaría muchas lagunas, y no aplica correctamente
+a los objetos realmente existentes, es de poca importancia.  El
+triángulo de Penrose no puede existir en términos lógicos, pero la
+ilusión de uno es suficiente para los propósitos de leyes y mercados. La
+propiedad aumentada implica que la granularidad de las mercancías puede
+hacerse infinitamente pequeña.  Son infinitas las formas de diseccionar
+la información y proveerla en según el pago.  La tosca manera en que los
+bienes y servicios son cobrados hoy, dentro de algunos años se verá como
+una larga e interminable lista de fracasos del mercado.  La tecnología
+mantiene su promesa de cerrar las fallas del mercado, una y otra vez.
+Parafraseando el meme anti-fundacionalista y constructivista, los
+mercados van "hasta el fondo". Como antes sucediera con el régimen de la
+propiedad privada, este nuevo orden solo puede continuar existiendo si
+las transgresiones en su contra son sancionadas por el Estado.  Mientras
+se despliega el conflicto sobre la propiedad aumentada, la piratería se
+generalizará en cada rincón de la sociedad.  Y en todos lados
+escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
 
 [^DRM]: Del inglés Digital Rights Management. Creemos que un nombre
         más descriptivo es Gestión Digital de Restricciones. Ver el
