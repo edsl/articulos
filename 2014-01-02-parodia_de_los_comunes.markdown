@@ -9,8 +9,8 @@ cover: "images/cover_endefensadelsl_nr2.png"
 La parodia de los Comunes
 =========================
 
-> Publicado originalmente en tripleC 11: 412-424, 2013
-> http://www.triple-c.at/index.php/tripleC/article/view/484
+> Publicado originalmente en [tripleC
+> 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
 >
 > Esta traducción fue realizada por Nicolás Reynolds
 > <fauno@endefensadelsl.org> y Mauricio Pasquier Juan

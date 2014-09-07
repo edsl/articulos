@@ -9,10 +9,10 @@ cover: "images/cover_endefensadelsl_nr2.png"
 ¡Los átomos también quieren ser libres!
 =======================================
 
-Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
-Boquet <picado.fino@gmail.com> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
-Liberado bajo la [Licencia de Producción de
-Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
+> Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
+> Boquet <picado.fino@gmail.com> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+> Liberado bajo la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
 Introducción
 ------------

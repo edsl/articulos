@@ -9,6 +9,9 @@ license: http://endefensadelsl.org/ppl_deed_es.html
 El comunismo de pares contra el estado capitalista cliente-servidor
 ===================================================================
 
+> Este artículo forma parte del [Manifiesto
+> Telecomunista][manifiesto_telecomunista.html].
+
 La sociedad se compone de relaciones sociales. Estas forman las estructuras que
 la constituyen. Las redes de computadoras, como los sistemas económicos, pueden
 entonces describirse en términos de relaciones sociales. Los militantes
