@@ -10,7 +10,7 @@ cover: "images/cover_endefensadelsl_nr2.png"
 =======================================
 
 Traducido por Nicolás Reynolds <fauno@endefensadelsl.org>, Natalia
-Boquet <picado.fino@gmail> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
+Boquet <picado.fino@gmail.com> y Mauricio Pasquier Juan <mauricio@pasquierjuan.com.ar>.
 Liberado bajo la [Licencia de Producción de
 Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
 
@@ -179,7 +179,8 @@ propiedad intelectual:
 > ser cara porque puede ser inmensamente valiosa para el receptor
 > [@brand-1987, pp. 202].
 
-[^gpl]: GPL por sus siglas en inglés. _(Nota de traducción)_
+[^gpl]: GPL por sus siglas en inglés (General Public License).
+        _(Nota de traducción)_
 
 Brand identificó correctamente dos tendencias en conflicto y las situó
 en una economía de la información.  A continuación contrastó la unicidad

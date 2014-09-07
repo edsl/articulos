@@ -12,7 +12,7 @@ Más allá de la abundancia digital: Bloques para la construcción de la producc
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds y
-> liberado para la [Licencia de Producción de
+> Tes <tes@riseup.net>, liberado para la [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 Resumen
@@ -154,8 +154,9 @@ necesitado (y por quién) y en segundo, en cuánto de un bien es producido
 (y por quién).  La escasez es por lo tanto un fenómeno social, nunca uno
 natural.
 
-[^oekonux]: Disponible en
-http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project/
+[^oekonux]: Disponible en el primer número del Journal of Peer Production. Ver
+            http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project.
+            _(Nota de traducción)_
 
 Arriba he distinguido entre dos conceptos de la abundancia --el
 desperdicio sin límites contra "obtener lo que necesito, cuando lo
@@ -548,9 +549,11 @@ no son efectivas, la gente lo "aislará", ignorándolo completamente y
 rehusándose a cooperar con él.  En casos extremos, la persona aislada es
 oficialmente echada del proyecto.
 
-[^flame]:  Del argot de Internet _flame war_, dirigir un mensaje
-deliberadamente hostil, en este caso crítico de las (malas) acciones de
-otros.  Ver [Flame](http://es.wikipedia.org/wiki/Flame) en Wikipedia.
+[^flame]: Del argot de Internet _flame war_, dirigir un mensaje
+          deliberadamente hostil, en este caso crítico de las (malas)
+          acciones de otros.  Ver
+          [Flame](http://es.wikipedia.org/wiki/Flame) en Wikipedia.
+          _(Nota de traducción)_
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción

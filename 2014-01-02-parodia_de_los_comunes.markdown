@@ -209,7 +209,7 @@ ejemplifica la tendencia de la población usuaria a neutralizarse y
 disociarse de problemas importantes para su futuro en y fuera de línea.
 
 [^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
-         por ejemplo Facebook (nota de la traducción).
+         por ejemplo Facebook. _(Nota de traducción)_
 
 Aun más, en este marco contradictorio observamos cambios sutiles no sólo
 en el diseño institucional concerniente a la Internet sino también en la
@@ -354,8 +354,8 @@ el usuario tiene para usar, estudiar, compartir copias y compartir
 versiones modificadas del software.
 
 [^NdT1]: EULA en inglés, son las licencias de software privativo que
-incluyen las condiciones bajo las cuales _no_ se puede compartir y
-modificar el software (nota de la traducción).
+         incluyen las condiciones bajo las cuales _no_ se puede
+         compartir y modificar el software. _(Nota de traducción)_
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -458,8 +458,8 @@ usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: tercerización o externalización de masas (nota de la
-traducción).
+[^NdT2]: tercerización o externalización de masas. _(Nota de
+         traducción)_
 
 Entonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
@@ -710,11 +710,11 @@ parte de las políticas de la "doctrina del shock" [@klein-2008], toma
 lugar más fácilmente, contribuyendo al y catalizando el proceso de la
 acumulación de capital.
 
-[^NdT3]: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica
-(nota de la traducción).
+[^NdT3]: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.
+         _(Nota de traducción)_
 
 [^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
-       ERT todavía es desconocido.
+        ERT todavía es desconocido.
 
 Un tratamiento efectivo es probablemente el uso de medios que garanticen
 el crecimiento fluido de las comunidades.  Estructuralmente hablando,
@@ -796,12 +796,12 @@ financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
 esta forma la creación de ganancias está permitida, pero la maximización
 de ganancias no sería la fuerza motriz del desarrollo económico.
 
-[^ppl]: [Ver la licencia de Producción de
-Pares](http://endefensadelsl.org/ppl_deed_es.html)
+[^ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html).
+        _(Nota de traducción)_
 
 [^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
-copia (copyleft), a su vez un juego de palabras sobre derecho de copia
-(copyright, nota de la traducción.)
+         copia (copyleft), a su vez un juego de palabras sobre derecho
+         de copia (copyright). _(Nota de traducción)_
 
 Contra la acumulación de capital, que lleva a la parodia de los Comunes,
 la lucha política de las comunidades debe incluir la creación de una
