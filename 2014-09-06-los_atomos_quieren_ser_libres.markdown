@@ -179,7 +179,8 @@ propiedad intelectual:
 > ser cara porque puede ser inmensamente valiosa para el receptor
 > [@brand-1987, pp. 202].
 
-[^gpl]: GPL por sus siglas en inglés. _(Nota de traducción)_
+[^gpl]: GPL por sus siglas en inglés (General Public License).
+        _(Nota de traducción)_
 
 Brand identificó correctamente dos tendencias en conflicto y las situó
 en una economía de la información.  A continuación contrastó la unicidad

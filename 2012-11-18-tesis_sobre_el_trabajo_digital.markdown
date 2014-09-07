@@ -149,8 +149,8 @@ planeamiento democrático a través de la participación ciudadana, siempre
 que sea necesario y deseado. Sin embargo, crea amplias áreas de
 alineamiento mutuo de las capacidades productivas.
 
-[^NdT]: Al contrario de las entidades con fines de lucro (nota de la
-traducción).
+[^NdT]: Al contrario de las entidades con fines de lucro. _(Nota de
+        traducción)_
 
 Las ideologías y movimientos tradicionales del movimiento laboral
 industrial quedaron asociados a la propiedad colectiva. La producción de
@@ -161,7 +161,7 @@ esas condiciones, el posible abuso de la propiedad colectiva se balancea
 por la libertad individual de derivar[^fork] los recursos productivos en
 esfuerzos alternativos.
 
-[^fork]: _Forking_ en el original.
+[^fork]: _Forking_ en el original. _(Nota de traducción)_
 
 La producción de pares es vital para la sostenibilidad y los métodos de
 producción amigables con la biósfera, ya que las comunidades de diseño
@@ -178,7 +178,8 @@ fomentan las comunidades, que crean una nueva capa de cooperación
 material post-capitalista.
 
 [^file]: Griego antiguo para _tribu_, para su resignificación moderna, [ver
-         Filé en Indianopedia](http://lasindias.net/indianopedia/Fil%C3%A9)
+         Filé en Indianopedia](http://lasindias.net/indianopedia/Fil%C3%A9).
+         _(Nota de traducción)_
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
 y captura de capital (redárquico) no-recíproco. Bajo condiciones de
