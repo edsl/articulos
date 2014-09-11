@@ -15,7 +15,8 @@ La parodia de los Comunes
 > Esta traducción fue realizada por Nicolás Reynolds
 > <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
 > <mpj@endefensadelsl.org> y se publica bajo la [Licencia de Producción
-> de Pares](/ppl_deed_es.html) bajo permiso de los autores.
+> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
+> los autores.
 >
 > Vasilis Kostakis es un economista político y el fundador del _P2P
 > Lab_.  En la actualidad es investigador miembro de la Universidad
