@@ -13,8 +13,8 @@ La producción de pares como alternativa al capitalismo: un nuevo horizonte comu
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
 > y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Tes <tes@riseup.net> y Tes
-> <tes@riseup.net> y liberado bajo la [Licencia de Producción de
+> <fauno@endefensadelsl.org> y Tes <tes@riseup.net> y liberado bajo la
+> [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 La crisis actual del capitalismo ha provocado protestas, revueltas y
