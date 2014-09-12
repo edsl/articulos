@@ -10,7 +10,7 @@ Tesis sobre el trabajo digital
 ==============================
 
 > Este artículo fue publicado en el [wiki de la P2P
-> Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy)
+> Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
 > 
 > Traducido por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
 > Pasquier Juan <mauricio@pasquierjuan.com.ar>
@@ -185,7 +185,7 @@ fomentan las comunidades, que crean una nueva capa de cooperación
 material post-capitalista.
 
 [^file]: Griego antiguo para _tribu_, para su resignificación moderna, [ver
-         Filé en Indianopedia](http://lasindias.net/indianopedia/Fil%C3%A9).
+         Filé en Indianopedia](http://lasindias.net/indianopedia/File).
          _(Nota de traducción)_
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad

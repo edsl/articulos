@@ -12,12 +12,6 @@ La parodia de los Comunes
 > Publicado originalmente en [tripleC
 > 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
 >
-> Esta traducción fue realizada por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
-> <mpj@endefensadelsl.org> y se publica bajo la [Licencia de Producción
-> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
-> los autores.
->
 > Vasilis Kostakis es un economista político y el fundador del _P2P
 > Lab_.  En la actualidad es investigador miembro de la Universidad
 > Tecnológica de Tallinn como también de la _P2P Foundation_.  Stelios
@@ -26,7 +20,12 @@ La parodia de los Comunes
 > particularmente en el software libre y los estándares abiertos y
 > generalmente consciente de las problemáticas sociales y ambientales.
 > Es colaborador del _P2P Lab_.
-
+>
+> Esta traducción fue realizada por Nicolás Reynolds
+> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
+> <mauricio@pasquierjuan.com.ar> y se publica bajo la [Licencia de Producción
+> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
+> los autores.
 
 Abstract
 --------
@@ -459,7 +458,7 @@ usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: tercerización o externalización de masas. _(Nota de
+[^NdT2]: Tercerización o externalización de masas. _(Nota de
          traducción)_
 
 Entonces, el trabajo gratuito es voluntario.  En los proyectos de
