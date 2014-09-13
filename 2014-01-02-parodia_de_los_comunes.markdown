@@ -458,10 +458,11 @@ usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: Tercerización o externalización de masas. _(Nota de
-         traducción)_
+[^NdT2]: Tercerización o externalización de masas, una forma de
+  trasladar la fuerza de trabajo hacia colectivos de voluntarios y
+  apropiarse del valor producido. _(Nota de traducción)_
 
-Entonces, el trabajo gratuito es voluntario.  En los proyectos de
+eNtonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
 final (que permanece abierto a su desarrollo ulterior) del proceso
 productivo y gana experiencia, conocimiento, relaciones y/o incluso
@@ -504,32 +505,38 @@ contexto socioeconómico en proceso que está aflorando y discutir cómo
 afecta el funcionamiento de la economía real.
 
 Mientras que el evento disparador de su explosión fue la falla de las
-hipotecas _subprime_, muchas opiniones se han alzado sobre las causas de
-la burbuja financiera del 2008.  Alguna de naturaleza tecnoeconómica
-[@perez-2009a; @perez-2009b] y otras [@sowell-2010; @krugman-2009;
-@krugman-2012; @stiglitz-2010] que se enfocan en los síntomas antes que
-en las características contradictorias inherentes al sistema
-capitalista.  De acuerdo con Karl Marx [-@marx-1992; -@marx-1993], el
-patrón general del sistema capitalista, que vuelve inevitables las
-crisis económicas, es creado por la acción combinada de dos leyes de la
-integración capitalista.  La primera ley concierne a la tendencia de la
-cuota de ganancias a decrecer mientras que la segunda describe la
-necesidad de una creciente concentración y acumulación de capital.
-Estas dos leyes se contradicen mutuamente llevando a un sistema que
-colapsa y entra en crisis: el Capital no puede ser invertido cuando la
-tasa en descenso de la cuota de ganancias es más rápida que la creciente
-tasa de acumulación de capital.  En el análisis de Marx, el capitalismo
-está inherentemente construido sobre una lógica sisífea que alcanza
-siempre un callejón sin salida, donde la política de escape a menudo
-constituye la destrucción parcial del capital total.  Por un período
-determinado, el capitalismo --un proceso de "creatividad destructiva"
-según Schumpeter [-@schumpeter-1975; -@schumpeter-1982], que comparte
-muchos puntos de vista con Marx en el análisis de la dinámica
-capitalista-- puede parecer sostenible, al introducir productos y
-servicios innovadores.  Desde una perspectiva diferente, Williamson
+hipotecas basura[^subprime], muchas opiniones se han alzado sobre las
+causas de la burbuja financiera del 2008.  Alguna de naturaleza
+tecnoeconómica [@perez-2009a; @perez-2009b] y otras [@sowell-2010;
+@krugman-2009; @krugman-2012; @stiglitz-2010] que se enfocan en los
+síntomas antes que en las características contradictorias inherentes al
+sistema capitalista.  De acuerdo con Karl Marx [-@marx-1992;
+-@marx-1993], el patrón general del sistema capitalista, que vuelve
+inevitables las crisis económicas, es creado por la acción combinada de
+dos leyes de la integración capitalista.  La primera ley concierne a la
+tendencia de la cuota de ganancias a decrecer mientras que la segunda
+describe la necesidad de una creciente concentración y acumulación de
+capital.  Estas dos leyes se contradicen mutuamente llevando a un
+sistema que colapsa y entra en crisis: el Capital no puede ser invertido
+cuando la tasa en descenso de la cuota de ganancias es más rápida que la
+creciente tasa de acumulación de capital.  En el análisis de Marx, el
+capitalismo está inherentemente construido sobre una lógica sisífea que
+alcanza siempre un callejón sin salida, donde la política de escape a
+menudo constituye la destrucción parcial del capital total.  Por un
+período determinado, el capitalismo --un proceso de "creatividad
+destructiva" según Schumpeter [-@schumpeter-1975; -@schumpeter-1982],
+que comparte muchos puntos de vista con Marx en el análisis de la
+dinámica capitalista-- puede parecer sostenible, al introducir productos
+y servicios innovadores.  Desde una perspectiva diferente, Williamson
 [-@williamson-1985; -@williamson-1995] alcanza una conclusión similar:
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
+
+[^subprime]: Un crédito _subprime_ o hipoteca basura es una modalidad
+  crediticia del mercado financiero de Estados Unidos que se
+  caracteriza por tener un nivel de riesgo de impago superior
+  a la media del resto de créditos. Ver Wikipedia:
+  https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime. _(Nota de traducción)_
 
 La transformación parcial del capital estancado en el capital de
 préstamo es utilizada como una válvula de presión para superar este
