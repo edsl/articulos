@@ -62,7 +62,7 @@ desafíos institucionales y normativos".
 
 ## Introducción
 
-Se dice que un número creciente de personas son ahora capaces de
+Se dice que un número creciente de personas es ahora capaz de
 administrar sus vidas políticas, sociales y productivas a través de una
 variedad de redes interdependientes habilitadas por las Tecnologías de
 la Información y la Comunicación (TICs) [@castells-2000; @castells-2003;
@@ -99,7 +99,7 @@ valor de las estrategias propietarias y posibilita esfuerzos de
 producción de información a gran escala [@benkler-2006].  En este
 contexto, la producción de pares puede ser considerada una forma seminal
 de un nuevo modo de producción posibilitado por la coordinación a través
-de Internet donde las decisiones surgen del libre involucramiento y
+de Internet donde las decisiones surgen del libre compromiso y
 cooperación entre las personas.  Se unen para crear valor común sin
 recurrir a la compensación monetaria como la forma clave de motivación
 [@bauwens-2005; @orsi-2009; @kostakis-2013].
@@ -125,7 +125,7 @@ en la naturaleza innovativa de la arquitectura de red de par-a-par (P2P)
 que posibilitó el advenimiento de Internet.  La introducción de la
 arquitectura P2P en las relaciones sociales de producción e intercambio
 de bienes y servicios se basa en la idea de que cada comunidad de red,
-al igual que cada nodo en la red, se vuelve "servidora" para satisfacer
+al igual que cada nodo en la red, se convierte en "servidora" para satisfacer
 las necesidades de otras comunidades, así como en "cliente" para
 satisfacer las propias.  La producción de pares opera sobre fundamentos
 no competitivos, sinergéticos, llevando a una distribución óptima de los
@@ -145,7 +145,7 @@ productores al involucrar estructuras de propiedad, aprendizaje y toma
 de decisiones participativas [@fuchs-2013].  Mientras que la empresa ata
 por contrato sólo una fracción de las capacidades, a las que considera
 apropiadas para realizar cierto objetivo, en un proyecto de pares el
-motivo emerge cuando el conjunto completo de las capacidades accede una
+motivo emerge cuando el conjunto completo de las capacidades accede a una
 cantidad determinada de recursos.  La producción de pares alcanza la
 asignación óptima de recursos al ser un sistema más productivo para la
 información que los mercados o las burocracias estatales [@bauwens-2005;
@@ -175,7 +175,7 @@ Benkler [-@benkler-2006] postula sus supuestos sobre las condiciones
 para el desarrollo de la producción de pares, dando por sentada una
 economía general estable.  No toma en cuenta las amenazas que la
 producción de pares enfrentará una vez que se exponga a un ambiente
-económico hostil.  Una pregunta que emerge es por qué el marco
+económico hostil.  Una pregunta que emerge es porqué el marco
 socioeconómico dominante se resistiría a la construcción de una esfera
 de los Comunes.  Después de todo, se podría argumentar que es dentro de
 esta esfera que la Internet y muchas otras tecnologías digitales se han
@@ -224,7 +224,7 @@ movimiento social."  El código abierto presupone que el software no
 libre es una solución inferior para un problema práctico dado, mientras
 que para los defensores del software libre el software privativo "es un
 problema social" [@stallman-2012].  "Si es el mismo software (o casi)
-¿importa qué nombre se le de?", pregunta Stallman para responder, "sí,
+¿importa qué nombre se le dé?", pregunta Stallman para responder, "sí,
 porque palabras diferentes transmiten diferentes ideas.  Aunque un
 programa libre con cualquier otro nombre te puede dar las mismas
 libertades hoy, establecer la libertad de forma duradera depende sobre
@@ -235,7 +235,7 @@ discusión de los Comunes dentro de un marco socioeconómico turbulento y
 contradictorio.  En otras palabras, ¿cuál es el rol de los Comunes en la
 acumulación capitalista mientras el potencial emancipatorio de las
 comunidades de pares es neutralizado sin afectar su función productiva?
-El sistema capitalista razonablemente intenta incorporar a las
+El sistema capitalista razonablemente intenta asimilar a las
 comunidades de pares basadas en los Comunes por su rentabilidad
 ventajosa (trabajo de bajo costo con productos de alta calidad).
 Argumentamos que el desarrollo de las relaciones de pares por sí solo,
@@ -279,7 +279,7 @@ prácticas.
 La posición de Hardin [-@hardin-1968] sobre la salvación a través de la
 privatización ha sido proclamada para los bosques.  Si los bosques son
 privatizados, el interés del administrador será proteger la madera del
-fuego y el trabajo indiscriminado de los leñadores.  Lo que tenemos aquí
+fuego y del trabajo indiscriminado de los leñadores.  Lo que tenemos aquí
 es un error de categoría.  Lo que el administrador protege es el área
 vallada antes que el bosque.  Frente a los derechos de propiedad
 "sagrados" no existe documento legal que garantice que el área se
@@ -310,7 +310,7 @@ de acuerdo con Hardin.  Benkler [-@benkler-2006] establece que esto no
 sucede en la producción de pares:  las comunidades basadas en los
 Comunes se las arreglan para encontrar sus propias formas.
 
-No obstante, pueden encontrarse contraejemplos a los que presenta
+No obstante, pueden encontrarse contraejemplos a los casos que presenta
 Benkler para apoyar su argumentación.  Por ejemplo, el desarrollo de
 software en los ambientes corporativos tradicionales cuyos proyectos son
 liberados bajo licencias permisivas (como la MIT o las BSD) que permiten
@@ -418,7 +418,7 @@ Cualquier actividad ambiciosa finalmente resulta detenida y una de las
 primeras víctimas es el trabajo voluntario que realizan los miembros de
 las comunidades de pares.  Esta no es una situación imaginaria; es la
 realidad de la Eurozona actual, donde el sector bancario tiene permitido
-concentrar una cantidad imprecedente de poder.  El vínculo, que vuelve
+concentrar una cantidad de poder sin precedentes.  El vínculo, que vuelve
 esta situación insoportable para todos, es el puño de hierro de la
 moneda común.  Aun Alemania, la más poderosa economía de la Eurozona,
 está cayendo lentamente en recesión [@indexmundi-2013; @economist-2011]
@@ -428,8 +428,8 @@ Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
 40 años.  Este es entonces el camino hacia un callejón sin salida.
 
-La segunda característica es la externalización, de acuerdo al cual y a
-pesar de las intenciones y planes de los miembros, el proyecto se
+La segunda característica es la externalización, de acuerdo a la cual --y a
+pesar de las intenciones y planes de los miembros-- el proyecto se
 convierte en una forma de economía de agregación o
 _crowdsourcing_[^NdT2].  En este escenario el valor de uso producido por
 los pares sirve a ciertos intereses lucrativos sin importar que los
@@ -448,10 +448,10 @@ trabajo productivo es externalizado hacia los usuarios "quienes trabajan
 completamente gratis y ayudan a maximizar la tasa de explotación [...]
 de forma que las ganancias puedan ser aumentadas y el nuevo capital
 mediático pueda ser acumulado.  Esta es una situación de infinita
-explotación de los usuarios".  En una vena similar, Terranova
+explotación de los usuarios".  En la misma línea, Terranova
 [-@terranova-2013, pp. 53] aborda la relevancia del concepto de los
-Comunes: "como la riqueza generada por el trabajo gratuito es social,
-este también debería ser el modo de su devolución."  Por lo tanto,
+Comunes: "dado que la riqueza generada por el trabajo gratuito es social,
+también lo debería ser el modo de su devolución."  Por lo tanto,
 concluye que "las plataformas de redes sociales deben ser
 des-privatizadas --es decir que la propiedad de los datos de los
 usuarios debe ser devuelta a sus dueños legítimos así como la libertad
@@ -466,7 +466,7 @@ producción de pares, el trabajador cognitivo es dueño del artefacto
 final (que permanece abierto a su desarrollo ulterior) del proceso
 productivo y gana experiencia, conocimiento, relaciones y/o incluso
 dinero (aun cuando la ganancia monetaria no sea el factor determinante)
-a través de este.  En estado de privatización (de acuerdo a la
+a través de éste.  En estado de privatización (de acuerdo a la
 categorización antes mencionada de las economías de
 agregación/crowdsource) el trabajo gratuito implica explotación.  En
 adición a los monopolios de los medios sociales, el desarrollo de MacOS
@@ -484,8 +484,8 @@ farsa o parodia.  Tan pronto como esta destrucción gradual es percibida
 (la tragedia) todos están de acuerdo en que la administración debe
 privatizarse y si no acordaran, el Estado podría forzar el acuerdo para
 poder implementar la asignación.  El recurso común permanece como tal
-sólo de nombre (la parodia).  Decimos que, desafortunadamente, este es
-el escenario más posible.  Para ponerlo en términos de software,
+sólo por su nombre (la parodia).  Decimos que, desafortunadamente, este es
+el escenario más probable.  Para ponerlo en términos de software,
 constituye un agujero de seguridad en la ecología de la producción de
 pares y por el momento no se ha propuesto un parche (es decir, una
 solución).  La pregunta entonces, es si los pares productores se
@@ -512,7 +512,7 @@ en las características contradictorias inherentes al sistema
 capitalista.  De acuerdo con Karl Marx [-@marx-1992; -@marx-1993], el
 patrón general del sistema capitalista, que vuelve inevitables las
 crisis económicas, es creado por la acción combinada de dos leyes de la
-integración capitalista.  La primera ley concierne la tendencia de la
+integración capitalista.  La primera ley concierne a la tendencia de la
 cuota de ganancias a decrecer mientras que la segunda describe la
 necesidad de una creciente concentración y acumulación de capital.
 Estas dos leyes se contradicen mutuamente llevando a un sistema que
@@ -526,7 +526,7 @@ determinado, el capitalismo --un proceso de "creatividad destructiva"
 según Schumpeter [-@schumpeter-1975; -@schumpeter-1982], que comparte
 muchos puntos de vista con Marx en el análisis de la dinámica
 capitalista-- puede parecer sostenible, al introducir productos y
-servicios innovativos.  Desde una perspectiva diferente, Williamson
+servicios innovadores.  Desde una perspectiva diferente, Williamson
 [-@williamson-1985; -@williamson-1995] alcanza una conclusión similar:
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
@@ -547,7 +547,7 @@ Pagar la deuda externa no significa necesariamente que la deuda se
 reduce, sino que por el contrario puede incrementarse si el interés es
 acumulado como capital, que por lo tanto neutraliza no sólo las
 ganancias de los productores locales, sino también cualquier ventaja
-innovativa alcanzada por su talento y esfuerzo.  Esta situación ocurre
+innovadora alcanzada por su talento y esfuerzo.  Esta situación ocurre
 cuando el acreedor y el moroso firman un acuerdo desbalanceado donde las
 tasas de interés y propagación son injustamente altas y no existe
 flexibilidad en la política monetaria.  En este caso y especialmente en
@@ -563,7 +563,7 @@ comunicarse y compartir) voluntariamente [@benkler-2006; @hertel-2003;
 Linux son impulsados "por motivos similares a los de la acción
 voluntaria dentro de movimientos sociales como el movimiento por los
 derechos civiles, el movimiento obrero o el movimiento pacifista."  Por
-otro lado, el par productor no tiene idea que sus aportes voluntarios
+otro lado, el par productor no tiene idea de que sus aportes voluntarios
 contribuyen a la retención del decrecimiento promedio de la cuota de
 ganancias, ofreciendo una chance al capital para desarrollar,
 apropiarse, expandirse y crecer.  Por lo tanto, decimos que aquellos que
@@ -571,7 +571,7 @@ tienen una ventaja competitiva sobre las relaciones de producción de
 pares se beneficiarán de la apropiación del valor de uso producido en
 común por los pares.  Esto es un caso típico de transformación de
 tragedia en parodia, una vez que la falta de autoridad observada en
-ciertos proyectos de pares basados en los Comunes da una oportunidad a
+ciertos proyectos de pares basados en los Comunes dá una oportunidad a
 medios extraeconómicos de tomar ventaja de la inercia de las comunidades
 creativas.
 
@@ -679,7 +679,7 @@ capitalista no ha permitido ningún otro modo de producción.  El futuro
 de los modos de producción precapitalistas o innovadores está
 predeterminado: destrucción o integración.  Mientras que las relaciones
 P2P no sean dominantes, su dependencia de un medioambiente económico
-amistoso resulta imperativo.
+amigable resulta imperativo.
 
 Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el
 caso del archivo digital de la ERT.  La ERT[^NdT3] era la cadena de
@@ -739,7 +739,7 @@ probabilidad de adoptar prácticas de pares es prácticamente cero, ya que
 esta perspectiva requiere la implementación inmediata de
 infraestructuras de pares, lo que contrasta con la noción de "propiedad"
 tal como está incrustada en la filosofía del sistema político.  ¿Cómo es
-posible que un sistema política que defiende la interpretación
+posible que un sistema político que defiende la interpretación
 institucional de "propiedad" tome las riendas de la expropiación de la
 propiedad privada?  Una respuesta posible es que mientras el sistema
 político se declara adherente de la propiedad, sólo defiende una
@@ -825,7 +825,7 @@ emergen como una promesa, que se convierte en tragedia y luego en
 parodia.  Tan pronto como la destrucción gradual es percibida (tragedia)
 la administración de los recursos de los Comunes es privatizada: el
 recurso común sólo es común por su nombre (parodia).  Argumentamos que
-este es un escenario probable, particularmente dañando las comunidades
+éste es un escenario probable, particularmente dañando las comunidades
 abocadas a la producción de bienes tangibles, en ausencia de hardware
 libre y especificaciones abiertas.  Ya que las fuentes de información y
 las TICs están distribuidas uniformemente, afirmamos que la mejor
