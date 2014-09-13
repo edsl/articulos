@@ -22,8 +22,8 @@ La parodia de los Comunes
 > Es colaborador del _P2P Lab_.
 >
 > Esta traducción fue realizada por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
-> <mauricio@pasquierjuan.com.ar> y se publica bajo la [Licencia de Producción
+> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
+> (mauricio@pasquierjuan.com.ar) y se publica bajo la [Licencia de Producción
 > de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
 > los autores.
 

@@ -20,9 +20,9 @@ El Manifiesto Telecomunista
 > trabajen en el dominio común.
 >
 > Traducido al castellano por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
-> <mpj@endefensadelsl.org>. Correcciones por Andrea Granate y Facundo
-> Acevedo.
+> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
+> (mauricio@pasquierjuan.com.ar).  Correcciones por Andrea Granate y
+> Facundo Acevedo.
 
 
 Licencia de Producción de Pares

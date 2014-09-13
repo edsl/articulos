@@ -15,8 +15,8 @@ Definición de una red libre
 > documento](https://commons.thefnf.org/index.php/Free_network_definition)
 >
 > Esta traducción fue realizada por Nicolás Reynolds
-> <fauno@endefensadelsl.org> y Mauricio Pasquier Juan
-> <mpj@endefensadelsl.org>.
+> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
+> (mpj@endefensadelsl.org).
 
 La dialéctica fundamental de nuestra lucha es esta: ¿seremos
 esclavizados por nuestra tecnología, o liberados por ella?

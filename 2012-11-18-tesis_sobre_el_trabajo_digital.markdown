@@ -12,8 +12,8 @@ Tesis sobre el trabajo digital
 > Este artículo fue publicado en el [wiki de la P2P
 > Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
 > 
-> Traducido por Nicolás Reynolds <fauno@endefensadelsl.org> y Mauricio
-> Pasquier Juan <mauricio@pasquierjuan.com.ar>
+> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org) y Mauricio
+> Pasquier Juan (mauricio@pasquierjuan.com.ar)
 
 
 El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La

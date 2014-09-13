@@ -19,7 +19,7 @@ Por qué la libertad política depende de la libertad del software más que nunc
 > Atribución-CompartirIgual 3.0 Estados Unidos de
 > Norteamérica](http://creativecommons.org/licenses/by-sa/3.0/us/).
 > 
-> Traducido por Nicolás Reynolds <fauno@kiwwwi.com.ar>. Correcciones por
+> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org). Correcciones por
 > Martin Javier Fernández y Mauricio Pasquier Juan.
 
 Gracias, buenos días. Es un gran placer estar aquí. Quiero agradecer a
