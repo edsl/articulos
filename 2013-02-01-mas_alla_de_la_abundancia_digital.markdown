@@ -303,17 +303,20 @@ forzado a hacerse cargo de tareas específicas.  La forma en que se
 distribuyen tareas en tales proyectos es usualmente llamada
 _estigmérgica_ [@heylighen-2007].  Los participantes dejan pistas sobre
 las tareas que comenzaron y cosas que quisieran ver, animando a otros a
-hacerse cargo.  Los reportes de _bugs_ en los proyectos de software y
-los "vínculos rojos" que apuntan a artículos faltantes en la Wikipedia
-son ejemplos de tales pistas.  Estas pistas proveen orientación a los
-novatos y a los participantes que terminaron otras tareas y están
-buscando alguna nueva.  Mientras más participantes se preocupen por una
-tarea, más visibles serán las pistas que apunten a ella, incrementando
-la posibilidad de que alguien comience a trabajar en ella.  ¿Puede la
-producción de pares lograr lo que el capitalismo no puede: producir
-abundancia en el sentido de "lo que necesites, cuando lo necesites" para
-todos, y no sólo en áreas específicas (por ejemplo, software) y no sólo
-para algunos, sino en todas las áreas y para todos?
+hacerse cargo.  Los reportes de _bugs_[^bug] en los proyectos de
+software y los "vínculos rojos" que apuntan a artículos faltantes en la
+Wikipedia son ejemplos de tales pistas.  Estas pistas proveen
+orientación a los novatos y a los participantes que terminaron otras
+tareas y están buscando alguna nueva.  Mientras más participantes se
+preocupen por una tarea, más visibles serán las pistas que apunten a
+ella, incrementando la posibilidad de que alguien comience a trabajar en
+ella.  ¿Puede la producción de pares lograr lo que el capitalismo no
+puede: producir abundancia en el sentido de "lo que necesites, cuando lo
+necesites" para todos, y no sólo en áreas específicas (por ejemplo,
+software) y no sólo para algunos, sino en todas las áreas y para todos?
+
+[^bug]: Los bugs son comportamientos imprevistos en el software,
+  generalmente producto de errores de programación.
 
 Para hacerlo posible, la producción de pares necesita crecer más allá
 del mundo inmaterial hacia el material, produciendo no sólo información
@@ -382,10 +385,13 @@ ch. 46] llegó a la misma conclusión:
 > sociedad, la propiedad privada del globo por individuos parecerá tan
 > absurda como la propiedad privada de un hombre sobre otro.  Aun una
 > sociedad completa, una nación o incluso todas las sociedades
-> existentes simultáneamente tomadas juntas pueden ser propietarias del
-> globo.  Sólo son sus poseedores, sus usufructuarios y, como las *boni
-> patres familias*, deben dejarlo a las generaciones siguientes en
-> condición mejorada.
+> existentes simultáneamente tomadas juntas pueden ser propietarias de
+> la tierra.  Sólo son sus poseedores, sus usufructuarios y deben
+> dejarla a las generaciones siguientes en mejores condiciones, como si
+> fueran *boni patres familias*[^boni_patres_familias].
+
+[^boni_patres_familias]:
+  Buenos padres de familia. _(Nota de traducción)_
 
 Tratar los recursos naturales como comunes significa que nadie puede
 reclamar derechos exclusivos sobre ellos y deben ser preservados
@@ -468,10 +474,18 @@ un común en Sudamérica [@deangelis-2010].
 Los _hackerspaces_ (ver [hackerspaces.org](http://hackerspaces.org)) son
 otro ejemplo de lugares de encuentro autoorganizados donde las personas
 los usan para desarrollar software libre, crear contenidos libres,
-aprender y compartir conocimiento o solo relajarse y divertirse.  La
-mayoría de los hackerspaces se financian con las contribuciones de sus
-miembros, aunque por lo general cualquiera es bienvenido, aun cuando no
-pague.
+aprender y compartir conocimiento o solo relajarse y
+divertirse.[^hackerspace]  La mayoría de los hackerspaces se financian
+con las contribuciones de sus miembros, aunque por lo general cualquiera
+es bienvenido, aun cuando no pague.
+
+[^hackerspace]:
+  Esta descripción se acerca más a la de _hacklab_ que a la de
+  _hackerspace_, ver "Hacklabs and hackerspaces", en
+  http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+  y "Hackeando los espacios", en
+  https://github.com/edsl/articulos/blob/traduccion/hacking-the-spaces/hackeando_los_espacios.mdwn.
+  _(Nota de traducción)_
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
@@ -499,7 +513,7 @@ sus versiones comerciales y propietarias, la brecha se está cerrando.
 
 Una vez que las máquinas usadas sean ellas mismas el resultado de la
 producción de pares, serán reproducidas libremente por cualquiera que
-posea el equipamiento adecuado.  Y si los _hubs_ de producción abierta
+posea el equipamiento adecuado.  Y si los centros de producción abierta
 --"Fab Labs" más avanzados-- hospedan el equipamiento necesario para
 producir sus herramientas, la cosa se pone excitante, ya que significa
 que la red abierta de facilidades productivas pueden crecer sin requerir
@@ -514,7 +528,7 @@ ladrillo para la construcción de la producción física de pares.
 
 Nada de esto sería posible sin las personas que contribuyen su tiempo y
 esfuerzo a compartir su conocimiento, diseñar y realizar cosas útiles,
-organizar y llevar adelante hackerspaces, Fab Labs y otros _hubs_ de la
+organizar y llevar adelante hackerspaces, Fab Labs y otros centros de
 producción de pares.  La gente elige contribuir por sí misma en formas
 que se adecuan a sus preferencias y deseos.  Tales contribuciones
 voluntarias de los pares son la base de un nuevo tipo de producción de
