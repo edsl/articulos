@@ -46,12 +46,12 @@ estructura artesanal del trabajo cognitivo. Los trabajadores cognitivos
 ya no se encuentran principalmente envueltos en el trabajo fabril de
 larzo plazo, sino que tienen carreras bastante flexibles, por opción o
 necesidad, que requieren saltar de trabajadores asalariados, a
-consultores independientes _freelance_, a _entrepeneurs_ y de vuelta a
-trabajadores. Bajo condiciones de flexibilidad elegida o forzada, los
-trabajadores tienen un interés objetivo en ser puestos en red, para
-ganar experiencia práctica y capital tanto social como reputacional, así
-como acceso a redes de intercambio y solidaridad. La producción de pares
-en red es el mejor camino para percibir estas ventajas.
+consultores independientes, a emprendedores y de vuelta a trabajadores.
+Bajo condiciones de flexibilidad elegida o forzada, los trabajadores
+tienen un interés objetivo en ser puestos en red, para ganar experiencia
+práctica y capital tanto social como reputacional, así como acceso a
+redes de intercambio y solidaridad. La producción de pares en red es el
+mejor camino para percibir estas ventajas.
 
 El par-a-par y el involucramiento en la producción de pares son las
 condiciones objetivas de la participación en redes y por lo tanto afecta
@@ -72,7 +72,12 @@ el acceso a la red), atrae la participación e involucramiento del
 capital a través de la actividad de los capitalistas
 redárquicos[^netarchic].
 
-[^netarchic]: _Netarchical_ en el original.
+[^netarchic]:
+  _Netarchical_ en el original.  Según la P2P Foundation, el
+  capitalismo redárquico es un nuevo segmento de la clase capitalista
+  que no depende del control de los medios de producción ni de la
+  propiedad intelectual para producir valor, sino del desarrollo y
+  control sobre plataformas de participación. _(Nota de traducción)_
 
 El capital redárquico es el sector del capital que entiende la
 naturaleza hiperproductiva de la producción de pares y por lo tanto
@@ -168,7 +173,10 @@ esas condiciones, el posible abuso de la propiedad colectiva se balancea
 por la libertad individual de derivar[^fork] los recursos productivos en
 esfuerzos alternativos.
 
-[^fork]: _Forking_ en el original. _(Nota de traducción)_
+[^fork]:
+  _Forking_ en el original. En el contexto de la programación, _forkear_
+  un proyecto es tomar la base común de código y comenzar un nuevo
+  desarrollo, con otra comunidad y objetivos. _(Nota de traducción)_
 
 La producción de pares es vital para la sostenibilidad y los métodos de
 producción amigables con la biósfera, ya que las comunidades de diseño
