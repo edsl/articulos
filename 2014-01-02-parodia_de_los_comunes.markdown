@@ -175,7 +175,7 @@ Benkler [-@benkler-2006] postula sus supuestos sobre las condiciones
 para el desarrollo de la producción de pares, dando por sentada una
 economía general estable.  No toma en cuenta las amenazas que la
 producción de pares enfrentará una vez que se exponga a un ambiente
-económico hostil.  Una pregunta que emerge es porqué el marco
+económico hostil.  Una pregunta que emerge es porque el marco
 socioeconómico dominante se resistiría a la construcción de una esfera
 de los Comunes.  Después de todo, se podría argumentar que es dentro de
 esta esfera que la Internet y muchas otras tecnologías digitales se han
@@ -571,7 +571,7 @@ tienen una ventaja competitiva sobre las relaciones de producción de
 pares se beneficiarán de la apropiación del valor de uso producido en
 común por los pares.  Esto es un caso típico de transformación de
 tragedia en parodia, una vez que la falta de autoridad observada en
-ciertos proyectos de pares basados en los Comunes dá una oportunidad a
+ciertos proyectos de pares basados en los Comunes da una oportunidad a
 medios extraeconómicos de tomar ventaja de la inercia de las comunidades
 creativas.
 
