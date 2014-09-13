@@ -490,7 +490,7 @@ bastante costoso de obtener, por lo que la mayoría de los Labs necesitan
 el esponsoreo de una universidad u otra organización.  Pero esta está
 cambiando gradualmente, desde que la multitud de proyectos de pares que
 desarrolla herramientas de producción como hardware abierto está
-emergiendo en los últimos años.  Existen enrutadoras CNC libres y
+emergiendo en los últimos años.  Existen fresadoras CNC libres y
 abiertas como la [Kikori](http://sindrianarts.com), cortadoras láser
 como el [Lasersaur](http://labs.nortd.com/lasersaur/), _fabbers_ como la
 [RepRap](http://reprap.org) y la [Ultimaker](http://ultimaker.com).
