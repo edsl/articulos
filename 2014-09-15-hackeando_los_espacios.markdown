@@ -167,7 +167,7 @@ el campo de la música pop con el llamado rock alternativo de los
 noventas. Moda alternativa, ahoi!
 
 Por otro lado, los noventa marcaron el triunfo de la democracia liberal,
-tal como Slavoj Žižek[^use-your-illusions] escribe:
+tal como Slavoj Žižek escribe:
 
 > La caída del Muro de Berlín el 9 de noviembre de 1989 marcó el inicio
 > de la "feliz década de 1990". De acuerdo a Francis Fukuyama, la
@@ -175,11 +175,7 @@ tal como Slavoj Žižek[^use-your-illusions] escribe:
 > vista como finalizada tras el 9/11. Sin embargo, parece que la utopía
 > tuvo que morir dos veces: el colapso de la utopía política
 > liberal-demócrata del 9/11 no afectó la utopía económica del mercado
-> global capitalista, que ahora ha llegado a su fin.
-
-[^use-your-illusions]: En 'Use your illusions'. Ver:
-  http://www.egs.edu/faculty/slavoj-zizek/articles/use-your-illusion/.
-  _(Nota de traducción)_
+> global capitalista, que ahora ha llegado a su fin.[@zizek-2008]
 
 Es por tanto muy irónico que los geeks y nerds, mientras observan la
 muerte de la liberal-democracia en su forma política (libertades civiles
