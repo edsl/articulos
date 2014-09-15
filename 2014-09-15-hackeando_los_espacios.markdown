@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Hackeando los espacios"
 author: Johannes Grenzfurthner, Frank Apunkt Schneide.
+layout: post
 ---
 
 Hackeando los espacios
@@ -10,11 +10,14 @@ Hackeando los espacios
 > Johannes Grenzfurthner y Frank Apunkt Schneide son miembros de
 > [monochrom](http://www.monochrom.at/english/), un grupo de arte, tecnología y
 > filosofía con base en Viena y en Zeta Draconis. El artículo original puede
-> encontrarse en [http://www.monochrom.at/hacking-the-spaces][0], y fue
-> traducido por [Barbanegra](http://hackerspaces.org/wiki/User:Barbanegra) en
+> encontrarse en
+> [http://www.monochrom.at/hacking-the-spaces](http://www.monochrom.at/hacking-the-spaces).
+
+> Fue traducido por
+> [Barbanegra](http://hackerspaces.org/wiki/User:Barbanegra) en
 > [hackerspaces.org](http://hackerspaces.org/wiki/Reescribiendo_el_Hacking_de_los_Espacios),
-> y corregido para En Defensa Del Software Libre por Mauricio Pasquier Juan
-> <mpj@endefensadelsl.org>.
+> de donde derivó esta versión traducida por Mauricio Pasquier Juan
+> (mauricio@pasquierjuan.com.ar).
 
 Una proclama crítica, de lo que fue, es y será un hackerspace (o hacklab, para
 el caso)
@@ -258,9 +261,7 @@ nerds. Hagamoslos un mejor espacio. Para vos y para mí y para toda la raza
 humana.
 
 Agradecimiento a Jens Ohlig por los comentarios y consejos. Gracias a Melinda
-Richka por la severidad gramática.[^NdT]
+Richka por la severidad gramática.[^barbanegra-agradece]
 
-[^NdT]: N. del T. ☠♥☠. Agradecimiento a los hermanos de QuilmesLUG por tanta
-buena onda.
-
-[0]: http://www.monochrom.at/hacking-the-spaces "Hacking the spaces"
+[^barbanegra-agradece]: ☠♥☠. Agradecimiento a los hermanos de QuilmesLUG por tanta
+buena onda. _Barbanegra (Nota de traducción)_
