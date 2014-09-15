@@ -108,7 +108,7 @@ ideas interesantes que pudieran ser ordeñadas y comercializadas.
 
 [^adorno]: Los autores se refieren a la conocida frase de Theodor W.
   Adorno "la vida equivocada no se puede vivir correctamente", escrita
-  en Minima Moralia, sección 18. _(Nota de traducción)_
+  en _Minima Moralia, §18_. _(Nota de traducción)_
 
 Ciertas características estructurales producto de este movimiento
 'indie' fueron repentinamente muy aclamadas, aplicadas y reproducidas en
