@@ -356,21 +356,23 @@ argumentación más larga de lo que el espacio disponible permite).
 
 En resumen, las fuerzas productivas del PTI combinadas con la forma de
 cooperación descentralizada de red, la ausencia del trabajo asalariado,
-la contribución voluntaria y la forma común[^ndt1] de los productos
-constituyen las características principales del modo de producción P2P.
-Aunque el modo de producción de pares es todavía un fenómeno emergente,
-su lógica es claramente diferente de la del capitalismo y ha sido creada
-como respuesta a los requerimientos de las nuevas fuerzas productivas.
-Por lo tanto, su significado histórico, urgencia y novedad puedan
-difícilmente exagerarse.  El modo de producción capitalista es una
-barrera para la realización de las potencialidades del conocimiento en
-la era de Internet.  Limita la creatividad humana y el desarrollo de los
-trabajadores cognitivos en general.  Por lo tanto no es una coincidencia
-que un sector de los trabajadores cognitivos se haya rebelado contra las
-relaciones capitalistas de producción al lanzar el P2P.  Como argumenta
-Söderberg [-@soderberg-2008] esta es una forma de lucha de clases.
+la contribución voluntaria y la forma común[^ndt1-forma-comun] de los
+productos constituyen las características principales del modo de
+producción P2P.  Aunque el modo de producción de pares es todavía un
+fenómeno emergente, su lógica es claramente diferente de la del
+capitalismo y ha sido creada como respuesta a los requerimientos de las
+nuevas fuerzas productivas.  Por lo tanto, su significado histórico,
+urgencia y novedad puedan difícilmente exagerarse.  El modo de
+producción capitalista es una barrera para la realización de las
+potencialidades del conocimiento en la era de Internet.  Limita la
+creatividad humana y el desarrollo de los trabajadores cognitivos en
+general.  Por lo tanto no es una coincidencia que un sector de los
+trabajadores cognitivos se haya rebelado contra las relaciones
+capitalistas de producción al lanzar el P2P.  Como argumenta Söderberg
+[-@soderberg-2008] esta es una forma de lucha de clases.
 
-[^ndt1]: En contraposición a la forma mercancía.
+[^ndt1-forma-comun]:
+  En contraposición a la forma mercancía. _(Nota de traducción)_
 
 
 La relación del modo de producción de pares con el capitalismo
