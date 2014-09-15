@@ -803,7 +803,7 @@ financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
 esta forma la creación de ganancias está permitida, pero la maximización
 de ganancias no sería la fuerza motriz del desarrollo económico.
 
-[^ppl]: [Ver la licencia de Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html).
+[^ppl]: Ver la licencia de Producción de Pares: http://endefensadelsl.org/ppl_deed_es.html.
         _(Nota de traducción)_
 
 [^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de

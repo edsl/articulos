@@ -569,11 +569,11 @@ efectivas, la gente lo "aislará", ignorándolo completamente y
 rehusándose a cooperar con él.  En casos extremos, la persona aislada es
 oficialmente echada del proyecto.
 
-[^flame]: Del argot de Internet _flame war_, dirigir un mensaje
-          deliberadamente hostil, en este caso crítico de las (malas)
-          acciones de otros.  Ver
-          [Flame](http://es.wikipedia.org/wiki/Flame) en Wikipedia.
-          _(Nota de traducción)_
+[^flame]:
+  Del argot de Internet _flame war_, dirigir un mensaje deliberadamente
+  hostil, en este caso crítico de las (malas) acciones de otros.  Ver
+  _Flame_ en Wikipedia: http://es.wikipedia.org/wiki/Flame.  _(Nota de
+  traducción)_
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción de
