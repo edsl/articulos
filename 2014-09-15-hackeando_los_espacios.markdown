@@ -39,7 +39,7 @@ económico.
 
 Las políticas de establecer espacios abiertos fueron pensadas como
 declaraciones explícitas que confrontaban una sociedad capitalista (y en
-el Este a un comunismo autoritario) cuya propia estructura, propósito y
+el Este: un comunismo autoritario) cuya propia estructura, propósito y
 modo de funcionamiento se consideraba en términos generales como
 alienante, para tomar el control de y para modificar sus relaciones y
 necesidades básicas humanas. Así, la fallada revuelta de los sesenta
@@ -51,9 +51,9 @@ lisérgicos y discursos patéticos para alcanzar los sueños propios y/o
 tener los pies en tierra firme --para ser des-obamizado, si se quiere.
 Esta conversión ganó su fama debido al sueño hippie macro-político
 ("Tenía mucho que soñar anoche", como decía el título de una clásica
-canción de pop psicodélico de _The Elecric Prunes_) pero se deterioró
+canción de pop psicodélico de _The Electric Prunes_) pero se deterioró
 completamente. Los hippies aprendieron que el cambio social y político
-requiere más que simplemente unir el mantra de los pósters, canciones
+requiere más que simplemente unir el mantra de los _posters_, canciones
 pop y fantasías de drogas que estaban promoviendo.
 
 El mundo real era muy duro como para ser impresionado por un puñado de
@@ -61,7 +61,7 @@ sucios burgueses marginados que cantaban mantras acerca del cambio. El
 imperativo capitalista del mundo real era demasiado efectivo para
 cambiar realmente. Y aún así, cuando todo finalizó en 1972, algunas de
 las personas involucradas no estaban listas para rendirse y entregarse
-al sistema y desaparecer en la integración, de ahí el uso de tácticas de
+al sistema para luego desaparecer en la integración --de ahí el uso de tácticas de
 micro-política. En lugar de tratar de transformar el viejo mundo en uno
 nuevo, la gente comenzó a construir pequeños nuevos mundos dentro del
 viejo mundo. Compusieron espacios abiertos donde las personas pudieran
@@ -74,12 +74,12 @@ estudiantil de 1969 fue conducida por la idea de recuperar los lugares y
 establecer una psicogeografía distinta entre el laberinto de la ciudad a
 través de la desviación. Del mismo modo, el movimiento autónomo de la
 década del setenta que cobró vida en Italia y luego influenció a
-personas en países de habla alemana y los Países Bajos se fijó sobre la
+personas en países de habla alemana y los Países Bajos se centro en la
 apropiación de los espacios, ya sea para centros juveniles autónomos
 como para la apropiación de las ondas de radio piratas.
 
-En consecuencia, los primeros hackerspaces se adaptan mejor al mundo de
-la topografía contracultural, que consta de casas ocupadas, cafés
+En consecuencia, los primeros hackerspaces encajan mejor en una
+topografía contracultural, que consta de casas ocupadas, cafés
 alternativos, cooperativas agrícolas, empresas de gestión colectiva,
 comunas, centros de cuidado infantil no autoritarios y así. Todo esto
 estableció una estrecha red, para un estilo de vida alternativo en el
@@ -133,7 +133,7 @@ primer hackerspace se formó siempre habían claras distinciones (un
 
 Cierta gente no quería vivir y trabajar dentro del esquema de trabajo
 burgués clásico y se negó a ser parte de su proyecto ideológico y
-político, por varias y muy buenas razones. La alteridad de los espacios
+político, por muy buenas razones. La alteridad de los espacios
 en ese entonces era determinada por la consistencia de una cultura
 dominante burguesa sobre la base de un orden dualista de guerra fría
 mundial. Una vez más demostraron ser terceros espacios de una clase
@@ -151,7 +151,7 @@ la posición de los hackerspaces. Mientras que por un lado se fortaleció
 y se tornó más represivo, el sistema (¡ningún boludo!) aprendió a
 tolerar cosas que son distintas (de camino a su integración o
 asimilación) y a entender que siempre han sido los bordes de la
-normalidad donde crecía la nueva sustancia. Ordeñando la cultura
+normalidad donde crecía la nueva sustancia. Ordeñando cultura
 encubierta.  Antes de eso, la intolerancia abierta y seguidamente la
 brutal opresión llevada a cabo contra los espacios contraculturales
 únicamente los hizo más fuertes y su necesidad más evidente (al menos
@@ -194,7 +194,7 @@ talleres-paraísos frikis. Las micro-políticas fallaron en la misma
 escala y con el mismo alcance que los antiguos proyectos macro-políticos
 que fueron pulverizados por la irreversibilidad del capitalismo. La idea
 de tener una revolución (de cualquier tipo) fue domesticada en un buen y
-limpio reformismo y las únicas revoluciones que yacían delante eran las
+limpio reformismo, y las únicas revoluciones que yacían delante eran las
 semi-revoluciones tecnológicas de internet y sus brotes de red social.
 Sin las antiguas agendas políticas los hackerspaces se convirtieron en
 pequeños lugares que en realidad no hicieron diferencias fundamentales.
