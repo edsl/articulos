@@ -193,8 +193,8 @@ Como tal, el enfoque político se desvaneció en el camino a ser pequeños
 talleres-paraísos frikis. Las micro-políticas fallaron en la misma
 escala y con el mismo alcance que los antiguos proyectos macro-políticos
 que fueron pulverizados por la irreversibilidad del capitalismo. La idea
-de tener una revolución (de cualquier tipo) fue domesticada en un buen y
-limpio reformismo, y las únicas revoluciones que yacían delante eran las
+de tener una revolución (de cualquier tipo) fue domesticada hacia un
+reformismo aséptico y las únicas revoluciones que yacían delante eran las
 semi-revoluciones tecnológicas de internet y sus brotes de red social.
 Sin las antiguas agendas políticas los hackerspaces se convirtieron en
 pequeños lugares que en realidad no hicieron diferencias fundamentales.
