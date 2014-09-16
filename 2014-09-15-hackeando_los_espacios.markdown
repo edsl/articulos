@@ -74,7 +74,7 @@ estudiantil de 1969 fue conducida por la idea de recuperar los lugares y
 establecer una psicogeografía distinta entre el laberinto de la ciudad a
 través de la desviación. Del mismo modo, el movimiento autónomo de la
 década del setenta que cobró vida en Italia y luego influenció a
-personas en países de habla alemana y los Países Bajos se centro en la
+personas en países de habla alemana y los Países Bajos se centró en la
 apropiación de los espacios, ya sea para centros juveniles autónomos
 como para la apropiación de las ondas de radio piratas.
 
