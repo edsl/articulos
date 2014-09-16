@@ -321,7 +321,7 @@ componente de libertad y su calidad se vuelve cuestionable, ya que la
 distribución de los cambios en el código depende de la posición personal
 de un emprendedor que los puede empaquetar bajo términos restrictivos.
 Es decir, el programador o el emprendedor pueden cambiar de una licencia
-permisiva a un Acuerdo de Licenciamiento para Usuario Final[^NdT1].
+permisiva a un Acuerdo de Licenciamiento para Usuario Final[^ndt-eula].
 Además, la producción cambia hacia los términos en los que el software
 no libre, propietario, es producido.  Por lo tanto la comunidad de
 software experimenta una mayor presión y los derechos del usuario final
@@ -353,9 +353,10 @@ significa gratis.  El software libre se define por cuatro libertades que
 el usuario tiene para usar, estudiar, compartir copias y compartir
 versiones modificadas del software.
 
-[^NdT1]: EULA en inglés, son las licencias de software privativo que
-         incluyen las condiciones bajo las cuales _no_ se puede
-         compartir y modificar el software. _(Nota de traducción)_
+[^ndt-eula]:
+  EULA en inglés, son las licencias de software privativo que incluyen
+  las condiciones bajo las cuales _no_ se puede compartir y modificar el
+  software. _(Nota de traducción)_
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -428,39 +429,40 @@ Para el Sur europeo existen muchos ejemplos de reformas estructurales
 que dañaron tanto el sector industrial como el agrícola en los últimos
 40 años.  Este es entonces el camino hacia un callejón sin salida.
 
-La segunda característica es la externalización, de acuerdo a la cual --y a
-pesar de las intenciones y planes de los miembros-- el proyecto se
+La segunda característica es la externalización, de acuerdo a la cual
+--y a pesar de las intenciones y planes de los miembros-- el proyecto se
 convierte en una forma de economía de agregación o
-_crowdsourcing_[^NdT2].  En este escenario el valor de uso producido por
-los pares sirve a ciertos intereses lucrativos sin importar que los
-pares productores estén al tanto.  Los dueños/administradores de la
-red/plataforma, es decir los "netarquistas" como Facebook o Google
-pueden considerarse los capitalistas de la web, que renuncian a su
-dependencia de la acumulación de información a través de la propiedad
-intelectual y se vuelven facilitadores de la participación social
-[@bauwens-2007; @bauwens-2013; @kostakis-2012].  Combinan elementos
-abiertos y cerrados en la arquitectura de sus plataformas para
-asegurarse una medida de lucro y control al expandir el alcance de la
-economía neoliberal a través del capitalismo cognitivo [@aytes-2013;
-@andrejevic-2013; @bauwens-2007; @bauwens-2013; @kostakis-2012].  Fuchs
-[-@fuchs-2013, pp. 219-220] muestra que en las plataformas privativas el
-trabajo productivo es externalizado hacia los usuarios "quienes trabajan
-completamente gratis y ayudan a maximizar la tasa de explotación [...]
-de forma que las ganancias puedan ser aumentadas y el nuevo capital
-mediático pueda ser acumulado.  Esta es una situación de infinita
-explotación de los usuarios".  En la misma línea, Terranova
-[-@terranova-2013, pp. 53] aborda la relevancia del concepto de los
-Comunes: "dado que la riqueza generada por el trabajo gratuito es social,
-también lo debería ser el modo de su devolución."  Por lo tanto,
-concluye que "las plataformas de redes sociales deben ser
+_crowdsourcing_[^ndt-crowdsourcing].  En este escenario el valor de uso
+producido por los pares sirve a ciertos intereses lucrativos sin
+importar que los pares productores estén al tanto.  Los
+dueños/administradores de la red/plataforma, es decir los "netarquistas"
+como Facebook o Google pueden considerarse los capitalistas de la web,
+que renuncian a su dependencia de la acumulación de información a través
+de la propiedad intelectual y se vuelven facilitadores de la
+participación social [@bauwens-2007; @bauwens-2013; @kostakis-2012].
+Combinan elementos abiertos y cerrados en la arquitectura de sus
+plataformas para asegurarse una medida de lucro y control al expandir el
+alcance de la economía neoliberal a través del capitalismo cognitivo
+[@aytes-2013; @andrejevic-2013; @bauwens-2007; @bauwens-2013;
+@kostakis-2012].  Fuchs [-@fuchs-2013, pp. 219-220] muestra que en las
+plataformas privativas el trabajo productivo es externalizado hacia los
+usuarios "quienes trabajan completamente gratis y ayudan a maximizar la
+tasa de explotación [...] de forma que las ganancias puedan ser
+aumentadas y el nuevo capital mediático pueda ser acumulado.  Esta es
+una situación de infinita explotación de los usuarios".  En la misma
+línea, Terranova [-@terranova-2013, pp. 53] aborda la relevancia del
+concepto de los Comunes: "dado que la riqueza generada por el trabajo
+gratuito es social, también lo debería ser el modo de su devolución."
+Por lo tanto, concluye que "las plataformas de redes sociales deben ser
 des-privatizadas --es decir que la propiedad de los datos de los
 usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^NdT2]: Tercerización o externalización de masas, una forma de
-  trasladar la fuerza de trabajo hacia colectivos de voluntarios y
-  apropiarse del valor producido. _(Nota de traducción)_
+[^ndt-crowdsourcing]:
+  Tercerización o externalización de masas, una forma de trasladar la
+  fuerza de trabajo hacia colectivos de voluntarios y apropiarse del
+  valor producido. _(Nota de traducción)_
 
 eNtonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
@@ -532,11 +534,13 @@ y servicios innovadores.  Desde una perspectiva diferente, Williamson
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
 
-[^subprime]: Un crédito _subprime_ o hipoteca basura es una modalidad
-  crediticia del mercado financiero de Estados Unidos que se
-  caracteriza por tener un nivel de riesgo de impago superior
-  a la media del resto de créditos. Ver Wikipedia:
-  https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime. _(Nota de traducción)_
+[^subprime]:
+  Un crédito _subprime_ o hipoteca basura es una modalidad crediticia
+  del mercado financiero de Estados Unidos que se caracteriza por tener
+  un nivel de riesgo de impago superior a la media del resto de
+  créditos. Ver Wikipedia:
+  [https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime](https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime).
+  _(Nota de traducción)_
 
 La transformación parcial del capital estancado en el capital de
 préstamo es utilizada como una válvula de presión para superar este
@@ -689,7 +693,7 @@ P2P no sean dominantes, su dependencia de un medioambiente económico
 amigable resulta imperativo.
 
 Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el
-caso del archivo digital de la ERT.  La ERT[^NdT3] era la cadena de
+caso del archivo digital de la ERT.  La ERT[^ndt-ert] era la cadena de
 radio y televisión estatal griega.  Fue un componente del sector público
 y era financiada a través de un impuesto obligatorio implementado en la
 factura de la empresa de electricidad pública (DEI) durante décadas.  En
@@ -717,8 +721,9 @@ parte de las políticas de la "doctrina del shock" [@klein-2008], toma
 lugar más fácilmente, contribuyendo al y catalizando el proceso de la
 acumulación de capital.
 
-[^NdT3]: Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.
-         _(Nota de traducción)_
+[^ndt-ert]:
+  Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.  _(Nota de
+  traducción)_
 
 [^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
         ERT todavía es desconocido.
@@ -803,8 +808,10 @@ financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
 esta forma la creación de ganancias está permitida, pero la maximización
 de ganancias no sería la fuerza motriz del desarrollo económico.
 
-[^ppl]: Ver la licencia de Producción de Pares: http://endefensadelsl.org/ppl_deed_es.html.
-        _(Nota de traducción)_
+[^ppl]:
+  Ver la licencia de Producción de Pares:
+  [http://endefensadelsl.org/ppl_deed_es.html](http://endefensadelsl.org/ppl_deed_es.html).
+  _(Nota de traducción)_
 
 [^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
          copia (copyleft), a su vez un juego de palabras sobre derecho

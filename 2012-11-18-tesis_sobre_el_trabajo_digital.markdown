@@ -150,19 +150,21 @@ sus propios derechos en tanto creadores reales de valor y, al
 convertirse en fuerza social, podrían tomar tales plataformas como
 utilidades comunes o de propiedad pública.
 
-Los participantes de entidades con fines de beneficio[^NdT] bajo control
-de los comuneros pueden trascender significativamente las dinámicas de
-mercado puramente competitivas, mientras evitan una planificación
-central autoritaria a través de la adopción de una administración a
-libro abierto y una adaptación a la señalización públicamente
-disponible, así como a través de la negociación coordinada de la
-producción y la distribución. Esto no ignora una posible necesidad de
-planeamiento democrático a través de la participación ciudadana, siempre
-que sea necesario y deseado. Sin embargo, crea amplias áreas de
-alineamiento mutuo de las capacidades productivas.
+Los participantes de entidades con fines de
+beneficio[^ndt-fines-de-beneficio] bajo control de los comuneros pueden
+trascender significativamente las dinámicas de mercado puramente
+competitivas, mientras evitan una planificación central autoritaria a
+través de la adopción de una administración a libro abierto y una
+adaptación a la señalización públicamente disponible, así como a través
+de la negociación coordinada de la producción y la distribución. Esto no
+ignora una posible necesidad de planeamiento democrático a través de la
+participación ciudadana, siempre que sea necesario y deseado. Sin
+embargo, crea amplias áreas de alineamiento mutuo de las capacidades
+productivas.
 
-[^NdT]: Al contrario de las entidades con fines de lucro. _(Nota de
-        traducción)_
+[^ndt-fines-de-beneficio]:
+  Al contrario de las entidades con fines de lucro. _(Nota de
+  traducción)_
 
 Las ideologías y movimientos tradicionales del movimiento laboral
 industrial quedaron asociados a la propiedad colectiva. La producción de
@@ -194,7 +196,7 @@ material post-capitalista.
 
 [^file]:
   Griego antiguo para _tribu_, para su resignificación moderna, ver
-  _Filé_ en Indianopedia: http://lasindias.net/indianopedia/File.
+  _Filé_ en Indianopedia: [http://lasindias.net/indianopedia/File](http://lasindias.net/indianopedia/File).
   _(Nota de traducción)_
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad

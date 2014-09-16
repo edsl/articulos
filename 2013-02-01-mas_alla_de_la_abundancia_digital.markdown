@@ -160,9 +160,10 @@ necesitado (y por quién) y en segundo, en cuánto de un bien es producido
 (y por quién).  La escasez es por lo tanto un fenómeno social, nunca uno
 natural.
 
-[^oekonux]: Disponible en el primer número del Journal of Peer Production. Ver
-            http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project.
-            _(Nota de traducción)_
+[^oekonux]:
+  Disponible en el primer número del Journal of Peer Production. Ver
+  [http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project](http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project).
+  _(Nota de traducción)_
 
 Arriba he distinguido entre dos conceptos de la abundancia --el
 desperdicio sin límites contra "obtener lo que necesito, cuando lo
@@ -483,9 +484,9 @@ es bienvenido, aun cuando no pague.
 [^hackerspace]:
   Esta descripción se acerca más a la de _hacklab_ que a la de
   _hackerspace_, ver "Hacklabs and hackerspaces", en
-  http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+  [http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)
   y "Hackeando los espacios", en
-  http://endefensadelsl.org/hackeando_los_espacios.html. _(Nota de traducción)_
+  [http://endefensadelsl.org/hackeando_los_espacios.html](http://endefensadelsl.org/hackeando_los_espacios.html). _(Nota de traducción)_
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
@@ -571,8 +572,9 @@ oficialmente echada del proyecto.
 [^flame]:
   Del argot de Internet _flame war_, dirigir un mensaje deliberadamente
   hostil, en este caso crítico de las (malas) acciones de otros.  Ver
-  _Flame_ en Wikipedia: http://es.wikipedia.org/wiki/Flame.  _(Nota de
-  traducción)_
+  _Flame_ en Wikipedia:
+  [http://es.wikipedia.org/wiki/Flame](http://es.wikipedia.org/wiki/Flame).
+  _(Nota de traducción)_
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción de

@@ -598,9 +598,10 @@ privilegiado cuando hizo las siguientes observaciones:
 > materiales material se convierte en el punto inicial explícito y
 > calculable de toda la actividad económica [@sahlins-1972, pp. 4].
 
-[^always-already]: Always-already en el original. Ver el artículo en
-                   Wikipedia: https://en.wikipedia.org/wiki/Always_already.
-                   _(Nota de traducción)_
+[^always-already]:
+  Always-already en el original. Ver el artículo en Wikipedia:
+  [https://en.wikipedia.org/wiki/Always_already](https://en.wikipedia.org/wiki/Always_already).
+  _(Nota de traducción)_
 
 Muchos historiadores han demostrado cómo se ha llegado a esta situación,
 comenzando por el movimiento de cercamiento en los siglos XV y XVI en
@@ -803,10 +804,12 @@ se despliega el conflicto sobre la propiedad aumentada, la piratería se
 generalizará en cada rincón de la sociedad.  Y en todos lados
 escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
 
-[^DRM]: Del inglés Digital Rights Management. Creemos que un nombre
-        más descriptivo es Gestión Digital de Restricciones. Ver el
-        ensayo de Richard Stallman: http://www.gnu.org/philosophy/can-you-trust.es.html.
-        _(Nota de traducción)_
+[^DRM]:
+  Del inglés Digital Rights Management. Creemos que un nombre más
+  descriptivo es Gestión Digital de Restricciones. Ver el ensayo de
+  Richard Stallman:
+  [http://www.gnu.org/philosophy/can-you-trust.es.html](http://www.gnu.org/philosophy/can-you-trust.es.html).
+  _(Nota de traducción)_
 
 
 ## Bibliografía

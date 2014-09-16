@@ -1141,12 +1141,13 @@ construcción de una sociedad sin clases, una sociedad de iguales.
 Tienen un mundo por ganar.
 
 
-[^22]: El [‘Paquete de Reformas de
-Telecomunicadoras’](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
-fue presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
-de noviembre de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras
-europeas de 2002. Su objetivo es unificar el mercado de telecomunicaciones
-europeo para los 27 miembros.
+[^22]:
+  El "Paquete de Reformas de Telecomunicadoras" fue presentado por
+  Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre
+  de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras europeas
+  de 2002. Su objetivo es unificar el mercado de telecomunicaciones
+  europeo para los 27 miembros. Ver
+  [http://europa.eu/rapid/press-release_IP-07-1677_es.htm](http://europa.eu/rapid/press-release_IP-07-1677_es.htm)
 
 
 
