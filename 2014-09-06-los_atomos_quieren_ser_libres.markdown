@@ -19,43 +19,46 @@ Introducción
 
 Casi tan pronto como la impresora 3D apta para el público general se
 convirtió en un producto ampliamente disponible al público, surgió el
-primer conflicto sobre la propiedad intelectual[^ndt1] de los objetos
-tridimensionales imprimibles.  En febrero del 2011,
-_Thingiverse_[^thingiverse], un repositorio de archivos de este tipo de
-objetos, propiedad de los fabricantes de impresoras 3D _Makerbog
-Industries_, recibió su primera carta de cese y desistimiento (_cease &
-desist_[^ndt2]).  El diseñador que la envió, Ulrich Schwanitz, hizo un
-reclamo de propiedad sobre un objeto que había sido subido a
-Thingiverse.  El objeto en cuestión era un modelo de un "Triángulo de
-Penrose".  Se trata de una muy conocida ilusión óptica donde los lados
-del triángulo terminan en lugares incorrectos.  El objeto no puede
-existir sino como una representación bidimensional en papel.  Schwanitz
-había diseñado un objeto tridimensional que, al ser observado desde el
-ángulo correcto, se asemejaba a un Triángulo de Penrose.  Un usuario de
-Thingiverse le había hecho ingeniería inversa a partir de una foto.
-Temiendo responsabilidad secundaria bajo la _Digital Millenium Copyright
-Act_, Makerbot Industries decidió eliminar el archivo, aunque la
-situación legal era altamente incierta.  La representación bidimensional
-original del Triángulo de Penrose se encuentra en el dominio público y
-no resulta claro si Schwanitz reclamó derechos sobre el archivo de
-diseño, es decir sobre el código de software, sobre los planos de la
-estructura del objeto o sobre la foto con la imagen del Triángulo de
-Penrose.  Después de las protestas públicas, Schwanitz renunció a los
-cargos y liberó el diseño [@rideout-2012].  Sin embargo, este primer
-encuentro ha sido seguido por reclamos corporativos más estridentes y
-poderosos.  Resulta interesante que el primer reclamo de copyright sobre
-objetos tridimensionales imprimibles haya concernido a una forma que, en
+primer conflicto sobre la propiedad
+intelectual[^ndt1-propiedad-intelectual] de los objetos tridimensionales
+imprimibles.  En febrero del 2011, _Thingiverse_[^thingiverse], un
+repositorio de archivos de este tipo de objetos, propiedad de los
+fabricantes de impresoras 3D _Makerbog Industries_, recibió su primera
+carta de cese y desistimiento (_cease & desist_[^ndt2-cease-desist]).
+El diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de
+propiedad sobre un objeto que había sido subido a Thingiverse.  El
+objeto en cuestión era un modelo de un "Triángulo de Penrose".  Se trata
+de una muy conocida ilusión óptica donde los lados del triángulo
+terminan en lugares incorrectos.  El objeto no puede existir sino como
+una representación bidimensional en papel.  Schwanitz había diseñado un
+objeto tridimensional que, al ser observado desde el ángulo correcto, se
+asemejaba a un Triángulo de Penrose.  Un usuario de Thingiverse le había
+hecho ingeniería inversa a partir de una foto.  Temiendo responsabilidad
+secundaria bajo la _Digital Millenium Copyright Act_, Makerbot
+Industries decidió eliminar el archivo, aunque la situación legal era
+altamente incierta.  La representación bidimensional original del
+Triángulo de Penrose se encuentra en el dominio público y no resulta
+claro si Schwanitz reclamó derechos sobre el archivo de diseño, es decir
+sobre el código de software, sobre los planos de la estructura del
+objeto o sobre la foto con la imagen del Triángulo de Penrose.  Después
+de las protestas públicas, Schwanitz renunció a los cargos y liberó el
+diseño [@rideout-2012].  Sin embargo, este primer encuentro ha sido
+seguido por reclamos corporativos más estridentes y poderosos.  Resulta
+interesante que el primer reclamo de copyright sobre objetos
+tridimensionales imprimibles haya concernido a una forma que, en
 términos lógicos, no puede existir en el espacio físico sino como una
 ilusión óptica.
 
 [^thingiverse]: Una traducción fiel podría ser "cosoverso". _(Nota de traducción)_
 
-[^ndt1]: El autor no cree que haya una distinción entre propiedad y
-         propiedad intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
+[^ndt1-propiedad-intelectual]:
+  El autor no cree que haya una distinción entre propiedad y propiedad
+  intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
 
-[^ndt2]: Documento legal utilizado para obligar a que se termine con
-         cierta conducta. Mayoritariamente se usa como coacción para
-         eliminar obras publicadas en Internet. _(Nota de traducción)_
+[^ndt2-cease-desist]:
+  Documento legal utilizado para obligar a que se termine con cierta
+  conducta. Mayoritariamente se usa como coacción para eliminar obras
+  publicadas en Internet. _(Nota de traducción)_
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
 comunidad que estaba construyendo impresoras tridimensionales
