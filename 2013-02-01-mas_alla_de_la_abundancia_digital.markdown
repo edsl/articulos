@@ -485,8 +485,7 @@ es bienvenido, aun cuando no pague.
   _hackerspace_, ver "Hacklabs and hackerspaces", en
   http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
   y "Hackeando los espacios", en
-  https://github.com/edsl/articulos/blob/traduccion/hacking-the-spaces/hackeando_los_espacios.mdwn.
-  _(Nota de traducción)_
+  http://endefensadelsl.org/hackeando_los_espacios.html. _(Nota de traducción)_
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
