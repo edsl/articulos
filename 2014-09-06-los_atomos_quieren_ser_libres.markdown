@@ -809,6 +809,5 @@ escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
         _(Nota de traducción)_
 
 
-Bibliografía
-============
+## Bibliografía
 

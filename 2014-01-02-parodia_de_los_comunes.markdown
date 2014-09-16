@@ -849,6 +849,5 @@ principios.  La apertura de un camino hacia tal perspectiva depende de
 que la mayoría decida tomar el control creativo de su futuro.
 
 
-Bibliografía
-------------
+## Bibliografía
 
