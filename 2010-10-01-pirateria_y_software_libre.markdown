@@ -3,24 +3,25 @@ layout: post
 title: "Piratería y Software Libre"
 author: "Benjamin Mako Hill"
 cover: "images/cover_endefensadelsl_nr0.png"
+license: https://creativecommons.org/licenses/by-sa/2.5/ar/
 ---
 
 Piratería y Software Libre
 ==========================
 
-> Este artículo es la traducción al castellano de “Piracy and Free
-> Software”. El artículo original en inglés puede encontrarse en
+> Este artículo es la traducción al castellano de "Piracy and Free
+> Software". El artículo original en inglés puede encontrarse en
 > http://mako.cc/copyrighteous/20101011-00. Traducción por Nicolás
 > Reynolds, septiembre, 2010. Este artículo y el original están
 > licenciados bajo Creative Commons Atribución-CompartirIgual 3.0.
 > [@cc-by-sa-ar]
 
-> Este ensayo es un resumen de mi presentación en el taller “Inlaws
-> and Outlaws” realizado los días 19 y 20 de agosto, 2010 en Split,
+> Este ensayo es un resumen de mi presentación en el taller "Inlaws
+> and Outlaws" realizado los días 19 y 20 de agosto, 2010 en Split,
 > Croacia. El taller reunió militantes de la piratería con participantes
 > de los movimientos por la Cultura y el Software Libres. [@nsnd-split]
 
-En “Por qué el software no debería tener dueños” [@stallman-definition], Richard
+En "Por qué el software no debería tener dueños" [@stallman-definition], Richard
 Stallman explica que, si un amigo te pide una pieza de software y la licencia
 de ese software te impide compartirlo, vas a tener que elegir entre ser un mal
 amigo o violar la licencia del software. Stallman sugiere que los usuarios
@@ -114,8 +115,8 @@ sin ser necesariamente anti-ética. Al tomar una posición de principios, uno
 puede construir e ir más allá, del comentario de Richard Stallman. En términos
 de software y cultura libres, podemos sugerir que la piratería no es éticamente
 mala, pero que es una manera imprudente de promover el compartir. Sin ser
-hipócrita, podemos decir “No pienso que la piratería sea anti-ética. Pero
-tampoco la apoyo”.
+hipócrita, podemos decir "No pienso que la piratería sea anti-ética. Pero
+tampoco la apoyo".
 
 
 

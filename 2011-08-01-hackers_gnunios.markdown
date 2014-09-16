@@ -4,6 +4,7 @@ author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
 cover: "images/cover_endefensadelsl_nr0.png"
 old-slug: hg.html
+license: https://creativecommons.org/licenses/by-sa/3.0/deed.es
 ---
 
 ¡Hackers GNUníos!
@@ -12,7 +13,7 @@ old-slug: hg.html
 > Este artículo es la traducción al castellano de "Hackers GNUnited!",
 > publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
 > encontrarse en [http://freebeer.fscons.org][0]. Traducción por Nicolás
-> Reynolds <fauno@endefensadelsl.org>, revisión y correcciones por
+> Reynolds (fauno@endefensadelsl.org), revisión y correcciones por
 > Leonardo G. De Luca, agosto, 2010. Este artículo y el original están
 > licenciados bajo Creative Commons Atribución-CompartirIgual 2.5
 > [@cc-by-sa]

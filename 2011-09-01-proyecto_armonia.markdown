@@ -4,6 +4,7 @@ title: "Proyecto Harmony considerado dañino"
 author: "Bradley M. Kuhn"
 cover: "images/cover_endefensadelsl_nr1.png"
 old-slug: harmony_harmful.html
+license: https://creativecommons.org/licenses/by-sa/3.0/us
 ---
 
 Proyecto Harmony considerado dañino

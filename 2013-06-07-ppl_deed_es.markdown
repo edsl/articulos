@@ -2,6 +2,7 @@
 title: "Licencia de Producción de Pares (Versión legible por humanos)"
 author: "En Defensa del Software Libre"
 layout: post
+cover: "images/cover_manifiesto_telecomunista.png"
 ---
 
 Licencia de Producción de Pares (Versión legible por humanos)
@@ -19,26 +20,20 @@ Ud. es libre de
 Bajo las condiciones siguientes:
 --------------------------------
 
-![](images/by.png)
-
-**Atribución** - Debe reconocer los créditos de la obra de la manera
+![**Atribución** - Debe reconocer los créditos de la obra de la manera
 especificada por el autor o el licenciante (pero no de una manera que sugiera
-que tiene su apoyo o que apoyan el uso que hace de su obra).
+que tiene su apoyo o que apoyan el uso que hace de su obra).](images/by.png)
 
-![](images/sa.png)
-
-**Compartir bajo la Misma Licencia** - Si altera o transforma esta obra, o
+![**Compartir bajo la Misma Licencia** - Si altera o transforma esta obra, o
 genera una obra derivada, sólo puede distribuir la obra generada bajo una
-licencia idéntica a ésta.
+licencia idéntica a ésta.](images/sa.png)
 
-![](images/nc.png)
-
-**No Capitalista** - La explotación comercial de esta obra sólo está permitida
+![**No Capitalista** - La explotación comercial de esta obra sólo está permitida
 a cooperativas, organizaciones y colectivos sin fines de lucro, a
 organizaciones de trabajadores autogestionados, y donde no existan relaciones
 de explotación.  Todo excedente o plusvalía obtenidos por el ejercicio de los
 derechos concedidos por esta Licencia sobre la Obra deben ser distribuidos por y
-entre los trabajadores.
+entre los trabajadores.](images/nc.png)
 
 
 Entendiendo que

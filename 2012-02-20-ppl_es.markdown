@@ -2,6 +2,8 @@
 layout: post
 title: "Licencia de Producción de Pares: un modelo para el copyfarleft"
 author: "Telekommunisten"
+license: http://endefensadelsl.org/ppl_deed_es.html
+cover: "images/cover_manifiesto_telecomunista.png"
 ---
 
 Licencia de Producción de Pares: un modelo para el copyfarleft
