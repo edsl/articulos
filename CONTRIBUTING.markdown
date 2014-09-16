@@ -102,7 +102,10 @@ al original para no perder el contexto, y muchas otras veces es
 interesante aclarar términos oscuros o de nicho para poder acercar los
 textos a gente fuera del ambiente. En esos casos usamos notas de traducción así:
 
-    Texto con término confuso[^nombre-de-la-nota] y bla bla,
+    Texto con término confuso[^ndt-nombre-de-la-nota] y bla bla,
     sigue el párrafo hasta el final.
 
-    [^nombre-de-la-nota]: Explicación. _(Nota de traducción)_
+    [^ndt-nombre-de-la-nota]: Explicación. _(Nota de traducción)_
+
+Siempre empezá con `[^ndt-]` para diferenciar más fácilmente las notas
+que son de traducción de las notas en el texto original.
