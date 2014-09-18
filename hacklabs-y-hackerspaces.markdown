@@ -7,7 +7,13 @@ http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hacke
 1. Introducción
 ---------------
 
-Pareciese muy prometedor trazar la genealogía de los hackerspaces desde el punto de vista de los hacklabs, ya que la relación entre estas escenas a sido raramente discutida y queda en gran parte inexplorada. Una aproximación sistemática echará luz a muchas diferencias interesantes y conexiones que pueden ser útiles para practicantes que busquen nutrir y esparcir la cultura de los hackerspaces, como para academicas que buscan conceptualizarlo y entenderlo. 
+Pareciese muy prometedor trazar la genealogía de los hackerspaces desde
+el punto de vista de los hacklabs, ya que la relación entre estas
+escenas a sido raramente discutida y queda en gran parte inexplorada.
+Una aproximación sistemática echará luz a muchas diferencias
+interesantes y conexiones que pueden ser útiles para practicantes que
+busquen nutrir y esparcir la cultura de los hackerspaces, como para
+academicas que buscan conceptualizarlo y entenderlo.
 
 It seems very promising to chart the genealogy of hackerspaces from the
 point of view of hacklabs, since the relationship between these scenes
