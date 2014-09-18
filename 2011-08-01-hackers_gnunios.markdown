@@ -9,6 +9,7 @@ license: https://creativecommons.org/licenses/by-sa/3.0/deed.es
 
 ¡Hackers GNUníos!
 =================
+Fauno goma!
 
 > Este artículo es la traducción al castellano de "Hackers GNUnited!",
 > publicado en Free Beer 1.0 (2008). El libro completo en inglés puede
