@@ -4,12 +4,14 @@ http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hacke
 
 **Maxigas**
 
-1. Introduction
+1. Introducción
 ---------------
+
+Pareciese muy prometedor trazar la genealogía de los hackerspaces desde el punto de vista de los hacklabs, ya que la relación entre estas escenas a sido raramente discutida y queda en gran parte inexplorada.
 
 It seems very promising to chart the genealogy of hackerspaces from the
 point of view of hacklabs, since the relationship between these scenes
-have seldom been discussed and largely remains unreflected. A
+have seldom been discussed and largely remains unreflected.A
 methodological examination will highlight many interesting differences
 and connections that can be useful for practitioners who seek to foster
 and spread the hackerspace culture, as well as for academics who seek to
