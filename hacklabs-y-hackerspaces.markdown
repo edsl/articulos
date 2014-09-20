@@ -13,7 +13,7 @@ escenas a sido raramente discutida y queda en gran parte inexplorada.
 Una aproximación sistemática echará luz a muchas diferencias
 interesantes y conexiones que pueden ser útiles para practicantes que
 busquen nutrir y esparcir la cultura de los hackerspaces, como para
-academicas que buscan conceptualizarlo y entenderlo.
+academicas que buscan conceptualizarlo y entenderlo. En particular, los hackerspaces han probado ser un fenómeno viral que pueden haber llegado al tope de su popularidad, y mientras una nueva ola de fablabs florece, gente como Grenzfurthner y Schneider (2009) han comenzado a hacer preguntas sobre la dirección de estos movimientos.Me gustaría contribuir a este debate sobre la dirección política y los potenciales políticos de los hacklabs y hackerspaces con un paper historiográfico comparativo y crítico. Principalmente estoy interesado en como estas redes entrelazadas de instituciones y comunidades pueden escapar al aparato de captura capitalista,, y como estas potencialidades son condicionadas por un arraigo histórico en varias escenas e historias.
 
 It seems very promising to chart the genealogy of hackerspaces from the
 point of view of hacklabs, since the relationship between these scenes
@@ -33,6 +33,8 @@ networks of institutions and communities can escape the the capitalist
 apparatus of capture, and how these potentialities are conditioned by a
 historical embeddedness in various scenes and histories.
 
+Los hacklabs manifiestan algunos de las mismas características de los hackerspaces, y, de echo, muchas comunidades que estań registradas en hackerspaces.org se identifican también como "hacklabs". Aún más, algunos de los grupos registrados no serían considerados comomo hackerspaces "reales" por la mayoría del resto. De echo, hay un amplio espectro de términos y lugares con un parecido familiar como los "coworking spaces", innovation laboratories", "media labs", "fab labs", "makerspaces", entre otros. No todos ellos están siquiera basados en una comunidad existente, sino que han sido fundados por actores del sistema educativo formal o el sector comercial. Es imposible clarificar todo en un artículo corto. Por lo tanto sólo consideraré aquí hacklabs y hackerspaces conducidos por la comunidad.
+
 Hacklabs manifest some of the same traits as hackerspaces, and, indeed,
 many communities who are registered on hackerspaces.org identify
 themselves as “hacklabs” as well. Furthermore, some registered groups
@@ -45,6 +47,8 @@ founded by actors of the formal educational system or commercial sector.
 It is impossible to clarify everything in the scope of a short article.
 I will therefore only consider community-led hacklabs and hackerspaces
 here.
+
+A pesar del echo de que estos espacios comparten una misma herencia cultural, algunas de sus raícez históricas e ideológicas son diferentes. Esto reulta en una adopción un poco distinta de tecnológias y una sutil divergencia en sus modelos organizacionales. Hisoricamente hablando, los hacklabs comenzaron a mediados de los 90' y se popularizaron a mediados de los 2000'. Los hackerspaces comenzaron a finales de los 90' y se popularizaron en la segunda mitad de los 2000'. Ideológicamente hablando, la mayoría de los hacklabs se han politizado explicitamente como parte de una escena anarchista/autonomista más amplia, mientras que los hackerspaces, desarrollandose en la esphera libertaria de influencia alrededor del Chaos Computer CLub, no se definene necesariamente a sí mismos como abiertamente políticos. Mientras que los participantes en ambas escenas consideran sus actividades como orientadas hacia la liberación del conocimiento tecnológico y sus prácticas relacionadas, la interpretación de lo que "libertad" significa diverge. Un ejemplo concreto de como estas divergencias históricas e ideológicas se plasman, puede encontrarse en el estatus legal de los espacios: mientras que los hacklabs suelen ubicarse en edificios okupados, los hackerspaces son generalmente lugares de alquiler.
 
 Despite the fact that these spaces share the same cultural heritage,
 some of their ideological and historical roots are indeed different.
@@ -64,6 +68,7 @@ One concrete example of how these historical and ideological divergences
 show up is to be found in the legal status of the spaces: while hacklabs
 are often located in squatted buildings, hackerspaces are generally
 rented.
+
 
 This paper is comprised of three distinct sections. The first two
 sections draw up the historical and ideological genealogy of hacklabs
