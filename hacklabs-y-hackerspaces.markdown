@@ -69,6 +69,7 @@ show up is to be found in the legal status of the spaces: while hacklabs
 are often located in squatted buildings, hackerspaces are generally
 rented.
 
+Este papaer comprende tres secciones distintas. Las primeras dos secciones elaboran la genealogía histórica e ideológica de los hacklabs y hackerspaces. La tercer sección unifica lo encontrado con la intención de que eche luz a las diferencias existentes desde un punto de vista contemporáneo. Mientras que las secciones genealógicas son descriptivas, la evaluación en la última sección es normativa, preguntandose como las diferencias identificadas en el paper se juegan desde un punto de vista estratégico en la creacción de espacios, sujetos y tecnologías. postapocalípticos
 
 This paper is comprised of three distinct sections. The first two
 sections draw up the historical and ideological genealogy of hacklabs
@@ -78,6 +79,8 @@ While the genealogical sections are descriptive, the evaluation in the
 last section is normative, asking how the differences identified in the
 paper play out strategically from the point of view of creating
 postcapitalist spaces, subjects and technologies.
+
+Nótese que en la actulidad los términos "hacklab" y "hackerspace" son usados generalmente como sinónimos. Al contrario de la categorización actual, uso hacklabs en su sentido antiguo (1990s) e histórico, con la intención de echar luz a las diferencias históricas e ideológicas que resultan en una aproximación de algún modo diferente a la tecnología.Esto no es un puntillismo lingüístico, sino un intento de permitir un entendimiento mas sutil de los ámbitos y prácticas en consideración. La continua evolución de estos términos, reflejando los cambios sociales que han tenido lugar, se encuentra registrada en Wikipedia. El artículo de Hacklab fue creado en 2006 (Wikipedia contributors, 2010a), el artículo de Hackerspace en 2008 (Wikipedia contributors, 2011). En 2010, el contenido del artículo Hacklab fue unído al artículo de Hackerspace. Esta unión fue justificada en la correspondienta página de discusión (Wikipedia contributors, 2010). Un usuario con el nombre de "Anarkitekt" escribió que "nunca he escuchado o leído nada que implicase que hay una diferencia ideológica entre los términos hackerspace y hacklab" (Wikipedia contributors, 2010b). Por tanto, el tratamiento del tema por parte de las wikipedistas apoya mi planteo de que la proliferación de hackerspaces fue de la mano con el olvido de la historia que intento recapitular aquí.
 
 Note that at the moment the terms “hacklab” and “hackerspace” are used
 largely synonymously. Contrary to prevailing categorisation, I use
@@ -102,11 +105,18 @@ recapitulate here.
 
 ![](http://peerproduction.net/wp-content/uploads/2012/06/figure1Maxigas8.jpg)
 
+Figura 1. Encuesta de registro de dominios de la lista de hacklabs de hacklabs.org
+
 Figure 1. Survey of domain registrations of the hacklabs list from
 hacklabs.org
 
 2. Hacklabs
 -----------
+
+2. Hacklabs
+-----------
+
+El aumento de los hacklabs puede ser atribuído a un número de factores. Para esquematizar su genealogía, no centraremos aquí en dos contextos: el movimiento autonomista y el mediactivismo.Un resumido y simplicifado recorrido
 
 The surge of hacklabs can be attributed to a number of factors. In order
 to sketch out their genealogy, two contexts will be expanded on here:
