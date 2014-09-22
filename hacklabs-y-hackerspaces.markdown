@@ -116,7 +116,9 @@ hacklabs.org
 2. Hacklabs
 -----------
 
-El aumento de los hacklabs puede ser atribuído a un número de factores. Para esquematizar su genealogía, no centraremos aquí en dos contextos: el movimiento autonomista y el mediactivismo.Un resumido y simplicifado recorrido
+El aumento de los hacklabs puede ser atribuído a un número de factores. Para esquematizar su genealogía, no centraremos aquí en dos contextos: el movimiento autonomista y el mediactivismo.Se da un resumido y simplicifado recorrido de estas dos historias, que enfatisa elementos que son importantes desde el punto de vista de la emergencia de los hacklabs. La cultura hacker, de no menos importancia, será tratada en la siguiente sección con más detalle. Una definición de un artículo seminal, de Simon Yuill señala las formas de pensamiento básicas detras de estas iniciaticas (2008):
+
+
 
 The surge of hacklabs can be attributed to a number of factors. In order
 to sketch out their genealogy, two contexts will be expanded on here:
@@ -126,6 +128,8 @@ are important from the point of view of the emergence of hacklabs. The
 hacker culture, of no less importance, will be treated in the next
 section in more detail. A definition from a seminal article by Simon
 Yuill highlights the basic rationales behind these initiatives (2008):
+
+"Los hacklabs son, mayoritariamente, espacios que funcionan a base de voluntarios proveyendo acceso público y gratuito a computadoras e internet. Usualmente hacen uso de maquinas rekuperadas y recicladas que corren GNU/Linux, y a la vez que proveen acceso a computadoras, la mayoría de los hacklabs tienen talleres funcionando en un rango de temas que va desde uso basico de la computadora e instalación de software GNU/Linux, hasta programación, electronica y radiodifución independiente (o pirata). Los primeros hacklabs se desarrollaron en Europa, usualmente surgiendo de tradiciones de centros sociales okupados y media labs comunales. En Italia se los conecta con los centros sociales autonomistas y en España, Alemania y en los Paises Bajos con movimientos de okupación anarquistas."
 
 “Hacklabs are, mostly, voluntary-run spaces providing free public access
 to computers and internet. They generally make use of reclaimed and
@@ -137,6 +141,9 @@ hacklabs developed in Europe, often coming out of the traditions of
 squatted social centres and community media labs. In Italy they have
 been connected with the autonomist social centres, and in Spain,
 Germany, and the Netherlands with anarchist squatting movements.”
+
+
+Los movimientos autónomos surgieron del "shock cultural" (Wallerstein, 2004) de 1968, lo que incluyó una nueva ola de contestaciones contra el capitalismo, tanto en su forma de estado de bienestar como en su forma del Este como "capitalismo burocrático" (Debord [1970], 1977). Estaba vinculado concurrentemente con el levantamiento de las subculturas juveniles. Estaba orientado principalmente hacia la acción directa masiva y el establecimeinto de iniciativas que buscaban proveer una alternativa a las instituciones operadas por el Estado y el Capital. Su característica mas crucial era la auto-organización enfatizando la distribución formal del poder. En los 70', el movimiento autónomo jugó un rol en las políticas de Italia, Alemania y Francia (En orden de importancia) y en menor medida en otros paises europeoscomo Grecia (Wright, 2002). Las bases teóricas son que la clase trabajadora ( luego se generaliza a las oprimidas en general) pueden ser un actor histórico independiente ante el Estado y el Capital, construyendo sus propias estructuras de poder a travez de la autovalirisación y apropiación. Se nutrió del marxismo ortodoxo, el communismo de izquierda y el anarquismo, tanto en términos teóricos como en términos de una continuidad histórica y de contacto direcoto entre estos otros moviemientos. El auge y caída de las organizaciones terroristas de izquierda, que emergió de un contexto similar (como la RAF en Alemania o las Brigadas Rojas en Italia), ha marcado un quiebre en la historia de los movimientos autónomos. Después de esto, se volvieron menos coherentes y más heterogéneos. Dos prácticas específicas que instauraron las autonomistas son la okupación y el mediactivismo (Lotringer Marazzi, 2007).
 
 The autonomous movement grew out of the “cultural shock” (Wallerstein,
 2004) of 1968 which included a new wave of contestations against
@@ -162,6 +169,8 @@ has marked a break in the history of the autonomous movements.
 Afterwards they became less coherent and more heterogenous. Two specific
 practices that were established by autonomists are squatting and media
 activism (Lotringer Marazzi, 2007).
+
+La reapropiación de lugares físicos y de propiedades tiene una historia mucho más largan que el movimiento autónomo. Algunas veces, como es el caso de los asentamientos piratas descrito por Hakim Bey (1995,, 2003), estos lugares han evolucionado en ciudades para "formas de vida" alternativas (Agamben, 1998). La escasez de vivienda luego de la segunda guerra mundial resultó en una oleada de ocupaciones en el Reino Unido (Hinton, 1988) lo que necesariamente tomó un estatuto político y produjo experiencias en comunidad. Sin embargo, la especificidad de la okupación, se basa en la ocupación de casas como comienzo de una estrategia de reinvención de todas las esferas de la vida, mientras se confronta con las autoridades y el "status quo" más comunmente concebido. Mientras que muchas casas funcionaban como casas privadas, centrandoze  en experimentar con estilos de vidas alternativos o simplemente para satisfacer necesidades básicas, otras optaron por jugar un rol en la vida urbana. Estas últimas son llamadas "centros culturales". Un centro cultural proveía espacio para inicitivas que buscaban establecer una alternativa a las instituciones oficiales. Por ejemplo, un "infoshop" sería la alternativa a un "mostrador de informes", librería y archivo, mientras que la "cocina de bicicletas" sería una alternativa a los locales de bicicletas y locales de reparación de bicicletas. Estos dos ejemplos muestran que entre las muchas instituciones a ser remplazadas, dos de las que son operadas por el Estado y el Capital estaban incluidas. Por otro lado, los espacios okupados tanto temporalmente como los mas o menos permanentes servían como bases, y algunas veces líneas de frente, de un conjunto de actividades de protesta.
 
 The reappropriation of physical places and real estate has a much longer
 history than the autonomous movement. Sometimes, as in the case of the
