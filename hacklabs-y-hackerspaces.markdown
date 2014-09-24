@@ -297,6 +297,9 @@ providers, but as an integral part of a social movement. As Söderberg
 demonstrates (2011), political convictions of a user community can be an
 often overlooked enabler of technological creativity.
 
+
+Estas dos tendencias entrelazadas se juntaron en la creación de los hacklabs. Las okupas, por un lado, incrustadas en los flujos urbanos de vida, tuvieron que usar infraestructuras de comunicación como el acceso a Internet y terminales de acceso público. Las media-activistas, por el otro lado, quienes estaban frecuentemente emplazadas en una comunidad local, necesitaban lugares para convocar, producir, enseñar y aprender.Como observa Marion Hamm cuando discute como los espacios físicos y virtuales se enredaron debido al uso de las activistas de los medios electrónicos de comunicación: " Esta práctica no es una realidad virtual como lo fue imaginada en los ochentas en tanto una simulación gráfica de la realidad. Ocurre en tanto en el teclado, como en los talleres técnicos, en las calles y en centros mediáticos temporales, en carpas, en centros socio-culturales y en casas okupadas."(Traducido por Aileen Derieg,, 2003). Un ejemplo de como convergen estas líneas es el Ultralab en Forte Prenestino, una fortaleza ocupada en Roma que es tambíen reconocida por sus políticas autónomas en Italia. Han declarado en su sitio web que el Ultralab es un "patrón emergente"(AvANa.net, 2005), uniendo varias necesidades tecnológicas de las comunidades apoyadas por el Forte. Las usuarias del centro social tienen una necesidad compartida de una red de area local de computadoras que conecte varios espacios en la okupación., de servidores para hostear páginas webs y listas de mails de los grupos locales, de instalar y mantener terminales de acceso público, de tener espacios de officina para los equipos gráficos y de prensa, y finalmente de tener un lugar de encuentro para compartir conocimiento. El punto de partida para este desarrollo fue el cuarto de servidores de AvANa, que empezó como un sistema de tablón de anuncios (BBS), que es, en 1994 un tablón de mensajes de acceso telefónico.(Bazichelli 2008:80-81). Como lo recuerda la video activista Agnese Trocchi, 
+
 These two intertwined tendencies came together in the creation of
 hacklabs. Squats, on the one hand, closely embedded in the urban flows
 of life, had to use communication infrastructures such as Internet
@@ -308,7 +311,7 @@ the activists’ use of electronic media communication: “This practice is
 not a virtual reality as it was imagined in the eighties as a graphical
 simulation of reality. It takes place at the keyboard just as much as in
 the technicians’ workshops, on the streets and in the temporary media
-centres, in tents, in socio-cultural centres and squatted houses.”
+centres, in tents, in socio-cultural centres and squatted houses.” 
 (Translated by Aileen Derieg,, 2003). One example of how these lines
 converge is the Ultralab in Forte Prenestino, an occupied fortress in
 Rome which is also renowned for its autonomous politics in Italy. The
@@ -325,6 +328,8 @@ was the server room of AvANa, which started as a bulletin board system
 (BBS), that is, a dial-in message board in 1994 (Bazichelli 2008:80-81).
 As video activist Agnese Trocchi remembers,
 
+"La BBS AvANa estaba esparciendo el concepto de Telemática Subversiva: derecho al anonimáto, acceso para todas y democracias digital. La BBS AvANa estaba fisicamente localizada en Forte Prenestino el mas grande y viejo espacio okupado en Roma. Entonces al final de los 90' me encontré a mi misma trabajando con tecnología y el espacio imaginativo que la misma estaba abriendo en las jóvenes y enojadas mentes de las integrantes de las comunidades okupas, las activistas y delirantes." (citado en Willemsen, 2006)
+
 “AvANa BBS was spreading the concept of Subversive Thelematic: right to
 anonymity, access for all and digital democracy. AvANa BBs was
 physically located in Forte Prenestino the older and bigger squatted
@@ -333,6 +338,8 @@ technology and the imaginative space that it was opening in the young
 and angry minds of communities of squatters, activist and ravers.”
 (quoted in Willemsen, 2006)
 
+AvANa y Forte Prenestino se conectaron a la Contra Red Europea (ahora en ecn.org), la cual conectaba varios centros sociales okupados en Italia, proveyendo canales seguros de comunicación y presencia pública electrónica resiliente de los grupos antifacistas, el movimiento Disobbedienti, y otros grupos afiliados con las escenas okupa y autonónoma. Localizando los nodos dentro de las okupaciones tenía sus desventajas, pero también proveía un cierto nivel de seguridad física y política frente a las autoridades.
+
 AvANa and Forte Prenestino connected to the European Counter Network
 (now at ecn.org), which linked several occupied social centres in Italy,
 providing secure communication channels and resilient electronic public
@@ -340,6 +347,8 @@ presence to antifascist groups, the Disobbedienti movement, and other
 groups affiliated with the autonomous and squatting scenes. Locating the
 nodes inside squats had their own drawbacks, but also provided a certain
 level of physical and political protection from the authorities.
+
+Otro ejemplo más reciente de corta duración, es la Hackney Crack House, un hacklab localizado en 95 Mare Street en London. Esta okupación situada en una casa de estilo Georgiana, y estaba compuesta por un edificio de teatro, un bar, dos niveles de espacios de vivienda y un sótano que tenía un taller de bicicletas y espacio para un estudio (see Foti, 2010). El hacklab preveía una red de area local y un servidor de medios para la casa, y servía como un espacio de toqueteo para las inclinadas hacia la tecnología.Durante eventos como el "Free School", las participantes, incluyendo tanto a novatas absolutas como a hobbistas mas dedicadas, podían aprender a usar tecnologías libres y de código abierto, seguridade de redes y testeo de penetración. En base diaria las actividades iban desde arreglar aparátos electronicos rotos pasando por la construcción de instalaciones de medios combinados a gran escala, hasta jugar a juegos de computadora.
 
 Another, more recent example is the short lived Hackney Crack House, a
 hacklab located on 195 Mare Street in London. This squat situated in an
@@ -353,6 +362,7 @@ dedicated hobbyists, could learn to use free and open source
 technologies, network security and penetration testing. Everyday
 activities ranged from fixing broken electronics through building
 large-scale mixed media installations to playing computer games.
+
 
 The descriptions given above serve to indicate how hacklabs grew out of
 the needs and aspirations of squatters and media activists. This history
