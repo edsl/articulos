@@ -363,6 +363,7 @@ technologies, network security and penetration testing. Everyday
 activities ranged from fixing broken electronics through building
 large-scale mixed media installations to playing computer games.
 
+Las descripciones presentadas con anterioridad sirven para indicar como los hacklabs surgieron de las necesidades y aspiraciones de las okupas y media-activistas. Esta historía arrastra una serie de consecuencias. Primeramente, que los hacklabs entraban organicamente en el ethos anti-institucional cultivado por la gente en los espacios autónomos. En segundo lugar, estaban incrustados en el régimen político de los espacios, y eran sometidas a las mismas formas de frágil soveranía política que dichos proyectos desarrollaron. Tanto Forte Prenestino y Mare Street han escrito y des-escrito formas de comportarse que se esperaba que las usuarias siguieran. Esta última okupación había promocionado "Políticas de lugares mas seguros", declarando por ejemplo que la gente que exibía comportamientos sexistas, racistas o autoritarios debiera esperar ser confrontada, y si fuese necesario, excluida. En tercer lugar, la lógica politicada de las okupaciones, y mas especificamente la ideología detrás del anarchismo apropiativo, tuvo también sus consecuencias. Un centro social designado para ser una institución pública, cuya legitimidad yace en servir a su audiencia y barrio, si fuese posible de mejor manera de lo que lo hacen las autoridades locales, por lo cual el riesgo de desalojo es de alguna manera reducido. Por último,el estado de okupación fomenta un ambiente de complicidad. Consecuentemente, ciertas formas de ilegalidad son vistas como al menos necesarias, o algunas veces hasta deseable. Estos factores son cruciales para entender las diferencias entre hacklabs y hackerspaces, que será discutida en la sección 3.
 
 The descriptions given above serve to indicate how hacklabs grew out of
 the needs and aspirations of squatters and media activists. This history
@@ -386,6 +387,8 @@ of illegality are seen as at least necessary, or sometimes even as
 desirable. These factors are crucial for understanding the differences
 between hacklabs and hackerspaces, to be discussed in Section 3.
 
+Una rudimentaria encuesta basada en los registros a páginas (ver Figura 1. en el apéndice), investigación de escritorio y entrevistas muestra que los primeros hacklabs fueron establecidos en la decada alrededor del cambio de milenio (1995-2005). Su concentración en el Sur de Europa ha sido señalada por la organización de los "hackmeetins" anuales en Italia, que comenzaron en 1998. El Hackmeeting es un encuentro donde las practicantes pueden intercambiar conocimiento, conocer su trabajo, y disfrutar de la compañia de las otras. En Europa del Norte "plug n' politx", anfitrionada primero por "Egocity" (un cyber-cafe okupado en Zurich, Suiza) proveyó un punto de encuentro para proyectos afines en 2001. Bajo el mismo nombre se estableció una red, a la que le siguió un segundo encuentro en 2004 en Barcelona. Mientras tanto, Hacklabs.org (difunta desde 2006) fue montada en el 2002 para mantener una lista de hacklabas, vivos o muertos, y probeer noticias e infomación básica sobre el movimiento. Una revisión de las actividades publicitadas de los hacklabs, muestra talleres organizados alrededor de temas como el desarrollo de software libre, seguridad y anonimato, arte electrónico y producciones mediáticas.
+
 A rudimentary survey based on website registrations (see Figure 1. in
 the appendix), desktop research and interviews shows that the first
 hacklabs were established in the decade around the turn of the
@@ -402,6 +405,8 @@ of hacklabs, dead or alive, and provide news and basic information about
 the movement. A review of the advertised activities of hacklabs show
 workshops organised around topics like free software development,
 security and anonymity, electronic art and media production.
+
+Las actividades de Print, un hacklab localizado en una okupación en Dijon, que se llama "Les Tanneries", muestra el tipo de contribuciones que surgieron de estos lugares. La gente activa en Print han mantenido un laboratorio de computadoras con con acceso a internet gratuito para visitantes del centro social, y una colección de componentes de computadoras viejos que los invididuos pueden usar para construir sus propias computadoras. Han organizado eventos de distintos tamaños (de un par de personas hasta mil) relacionado con el software libre, como una fiesta para arreglar los últimos "bugs" restantes en el próximo lanzamiento del sistema operativo Debian GNU/Linux. Además, han proveído soporte de red y distribuido computadoras con acceso a Internet en el "European gathering of Peoples’ Global Action", un encuentro a nivel mundial de activistas de base conectados al movimiento de globalización alternativa. En una veta similar, han realizado varias protestas en la ciudad llamando la atención hacia temas relacionados con la vigilancia estatal y legislaciones de copyright.Estas acciones han construido una tradición de montar instalaciones arísticas en varios lugares dentro y alrededor del edificio, el ejemplo mas chocante es el grafitti enorme en el cortafuegos que dice “apt-get install anarchism”. Que es un broma técnica aludiendo a la manera en la que los programas son installados en el sistema Debian, tan técnica que de hecho funciona.
 
 The activities of Print, a hacklab located in a squat in Dijon which is
 called Les Tanneries, show the kinds of contributions that came out of
@@ -423,6 +428,8 @@ graffiti on the firewall spelling out “apt-get install anarchism”. It is
 a practical joke on how programs are set up on Debian systems, so
 practical that it actually works.
 
+Otro ejemplo de el Sur de Europa es Riereta en Barcelona, un hacklab okupando un edificio separado que hace de anfitrión a un estudio de radio manejado por mujeres. Las actividades ahí, gravitan alrededor tres ejes, software libre, tecnología, y creatividad artística. Sin embargo, como un testimonio de la influencia  del media-activismo, la mayoría de los proyectos y eventos están concentrados en producción de mediática, como el procesamiento en tiempo real de audio y video, transmitiendo y haciendo campaña contra el copyright y otras restricciones a la distribución libre de información. La lista de ejemplos podría facilmente hacerse mas larga, demostrando que la mayorñia de los hacklabs comparten ideas y prácticas similares y mantienen vínculos con las políticas de globalización alternativa, espacios okupados y (el nuevo) media-activismo.
+
 Another example from South Europe is Riereta in Barcelona, a hacklab
 occupying a separate building that hosts a radio studio ran by women.
 The activities there gravitate around the three axes of free software,
@@ -435,11 +442,7 @@ made longer, demonstrating that most hacklabs share similar ideas and
 practicesand maintains links with alterglobalisation politics, occupied
 spaces and (new) media activism.
 
-To summarise, due to their historical situatedness in anticapitalist
-movements and the barriers of access to the contemporary communication
-infrastructure, hacklabs tended to focus on the adoption of computer
-networks and media technologies for political uses, spreading access to
-dispossesed and championing folk creativity.
+En resumen, debido a su situación histórica en los movimientos anticapitalistas y las barreras de acceso a la infraestructura de comunicación contemporanea, los hacklabs tienden a focalizarse en la adopción de redes de computadora y tecnologías mediáticas para usos políticos, esparciendo acceso a desposeídos y la defensa de la creatividad popular. 
 
 3. Hackerspaces
 ---------------
