@@ -447,6 +447,8 @@ En resumen, debido a su situación histórica en los movimientos anticapitalista
 3. Hackerspaces
 ---------------
 
+Es probablemente una observación certera afirmar que los hackerspaces están en el tope de su popularidad en este momento. Como mencionamos en la introducción, muchas instituciones e iniciativas diferentes se llaman a sí mismas "hackerspaces". Por lo menos en Europa, Hay un núcleo de proyectos más o menos dirigidos por la comunidad que se definen a sí mismos como hackerspaces.El caso de los hacklabs ya fue descripto, pero es meramente un ejemplo del extremamente amplio espectro político. Existen una serie de variaciones poblando el mundo, como son los fablabs, makerlabs, telecottages, medialabs, laboratorios de innovación y espacios de co-working. Lo que distingue a los ultimos dos del resto ( y posiblemente también de los fablabs) es que están armados en un contexto institucional, ya sea una universidad, una compañia o una fundación. Y la mayoría de las veces su misión es la de adoptar innovaciones. Tales espacios tienden a focalizarse en resultados concretos como proyectos de investigación o productos comerciales.  "Telecottages" y "telehouses" están a la mitad del espectro. Están típicamente financiadas por fondos de desarrollo para mejorar a través de las TICs las condiciones sociales y económicas locales. Inclusive los makerlabas son algunas veces gestaciones comerciales ( como Fablab en Budapest, que no debe confundirse con el Centro Autónomo Hungariano para el Conocimiento mencionado anteriormente), basado en la idea de proveer como servicio acceso a herramientas para para compañias e individuos. Los Fablabs pueden ser la nueva generación en la evolución de los hackerspaces, faocalizandose en la manufactura de proyectos de construcción personalizada. Esta encuadrado como una fábrica repensada a partir de la inspiración del modelo de producción de pares (MIT’s Center for Bits and Atoms, 2007). Lo que caracteriza a los hackerspaces - junto con la mayoría de los fablabs - es que están armados por hackers y para hackers con la misión principal de apoyar el hackeo.
+
 It is probably safe to state that hackerspaces are at the height of
 their popularity at the moment. As mentioned in the introduction, many
 different institutions and initiatives are now calling themselves
@@ -474,6 +476,8 @@ production model (MIT’s Center for Bits and Atoms, 2007). What sets
 hackerspaces apart — along with most fablabs — is that they are set up
 by hackers for hackers with the principal mission of supporting hacking.
 
+Este es por lo tanto, el momento apropiado del paper para centrarnos en el aspecto social e histórico del fenómeno del hacking. Esto no quiere decir que los hacklabs - como lo indica su nombre - estarían menos involucrados en una tradición inspirada por hackers. Podría hacerse un estudio separado dedicado al entrelazamiento de esos dos movimientos en el movimiento del sofware libre. Sin embargo,  ya que lso dos movimienos contribuyen en igual medida pero de distintas maneras, este aspecto no será elaborado aquí en extensión ya que dicho contraste sería difícil de reflejar. Por lo tanto se asume que muhco de lo que dice aquí sobre cultura hacker y su influencia en el movimiento de hackerspaces aplica igualmente a los hacklabs.
+
 This is therefore the right point in the paper to dwelve on the social
 and historical phenomena of hacking. This is not to say that hacklabs —
 as is indicated by their name — would be less involved in and inspired
@@ -484,6 +488,7 @@ ways, this aspect will not be elaborated here at length as the contrast
 would be more difficult to tease out. It is hence assumed that much of
 what is said here about hacker culture and its influence on the
 hackerspace movement applies equally to hacklabs.
+
 
 The beginnings of the hacker subculture are well-documented.
 Interestingly, it also starts in the 1960s and spreads out in the 1970s,
