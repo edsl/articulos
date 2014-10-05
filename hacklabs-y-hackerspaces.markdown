@@ -542,6 +542,8 @@ returned the next day in front of the press. This began the Club’s
 tumultuous relationship with the German government that lasts until
 today.
 
+En su estudio de la cultura hacker, Gabriella COleman y Alex Golub plantean que en el tiempo que se ha mantenido unida, esta subcultura manifiesta una inovativa pero históricamente determinada versión del liberalismo, mientras que en sus múltiples tendencias expresa y explota algunas de las contradicciones inherentes a la misma tradición política (2008). Se concentran en tres corrientes de prácticas hackers: cryptolibertad, software libre y de código abierto, y el underground hacker. Sin embargo, no pretenden que dichas categorías exausten la riqueza de la cultura hacker. Al contrario, en un artículo de comentario en el "Atlantic", Coleman (2010) explícitamente menciona que la escena de seguridad informática ha sido sub-representada en la literatura sobre hackers. Las tres tendencias identificadas en su texto difieren ligeramente de la clasificación que sugiero aquí. La invención técnica y legal del proyecto de Stallman, plantó al software libre como uno de los pilares del hacking para las próximas décadas. Los exploits de las phreakers abrieron un camino para el underground hacker donde su carácter lúdico inicial se desarrolló en dos direcciones, hacia las ganancias o hacia lo político.
+
 In their study of the hacker culture, Gabriella Coleman and Alex Golub
 have argued that as far as it hangs together, this subculture manifests
 an innovative yet historically determined version of liberalism, while
@@ -559,6 +561,8 @@ cemented free software as one pillar of hackerdom for the coming
 decades. The exploits of the phreakers opened a way for the hacker
 underground where its initial playfulness developed in two directions,
 towards profit or politics.
+
+En Europa, la postura del Chaos Computer Club, allanó en camino para la investigación independiente de seguridad informáitca. Admitidamente, todas aquellas aproximaciones se concentraron en una interpretación específica de la libertad individual, la cual entiende a la libertad como una cuestión de conocimiento. Mas aún, a este conocimiento se lo concidera producido y circulado en una red de humanas y computadoras - en contraste directo con la versión del liberalismo asociado con el individualismo romántico, como lo observan Coleman y Golub. Por lo tanto, este es un liberalismo antihumanista tecnologicamente informado. Las hackers toman distintas posturas dentro de estos parámetros que algunas veces se complementan y algunas veces se contradicen. La comunidad del software libre ve al acceso universal del conocimiento como la condición escencial de la libertad. El underground hacker ejerce el conocimiento para garantizar la libertad de un individuo o una facción. Las expertas en seguridad informática de "sombrero gris" ven a la divulgación completa como la mejor manera de asegurar la estabilidad de una infraestructura, y por lo tanto la libertad de comunicación. La divulgacióm completa refiera a la práctica de liberar información y herramientas que puedan revelar fallas de seguridad al público. Esta idea surge de la tradicion de las cerrajeras del siglo del siglo XIX, quienes proponían que las mejores cerraduras están construidas sobre principios ampliamente comprendidos, y no sobre secretos: el único secreto, a ser gurdado en privado, debiera ser la llave misma.(Hobbs, Tomlinson Fenby [1853] 1868:2 citado en Blaze 2003 como en Cheswick, Bellovin Rubin 2003:120). La idea de que la libertad depende del conocimiento, y que a la vez, el conocimiento depende de la libertad, está articulada en el aforismo hacker atribuido a Stewart Brand: "La información quiere ser libre."(Clarke, 2001).
 
 In Europe, the stance of the Chaos Computer Club paved the way for
 independent information security research. Admittedly, all of those
@@ -585,6 +589,7 @@ Cheswick, Bellovin Rubin 2003:120). The idea that freedom depends on
 knowledge and, in turn, knowledge depends on freedom, is articulated in
 the hackers aphorism attributed to Stewart Brand: “Information wants to
 be free.” (Clarke, 2001).
+
 
 During the course of the 1990s the hacker world saw the setting up of
 institutions that have been in place up until now. From all three
