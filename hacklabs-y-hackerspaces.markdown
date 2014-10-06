@@ -667,6 +667,8 @@ the hackerspaces movement, sporting the slogan “build! unite! multiply!”
 (hackerspaces.org, 2011). A survey of the founding date of the 500
 registered hackerspaces show a growing trend from 2008 (see Figure 2).
 
+Notablemente, la mayoría de estos desarrollos se focalizaron en las características formales de los hackerspaces, por ejemplo como manejar problemas y hacer crecer una comunidad. Enfatizaban un modelo de membresía abierta para mantener un espacio común de trabajao que funcione como un ambiente de producción cooperativo, socializante y de aprendizaje. Sin embargo, el contenido de las actividades que transcurren en los hackerspaces tambíen muestra una gran consistencia. Las tecnologías usadas pueden ser descriptas como capas de sedimentación: las nuevas tecnologias ocupan su lugar al lado de las viejas, sin convertirse en absolutamente obsoletas. En primera isntancia, el hecho de que las hackers colaboren en un espacio físico significó un resurgimiento del trabajo en electrónica, que se unía con la tendencia establesida de toquetear computadoras físicas. Un esbozo de las áreas de investigación conectadas puede ser (en orden de aparición): desarrollo de software libre, reciclaje de computadoras, redes mesh inalámbricas, microelectrónica, hardware abierto, impresión 3d, talleres de maquinaría y cocina.
+
 Notably, most of these developments focused on the formal
 characteristics of hackerspaces, for instance how to manage problems and
 grow a community. They emphasised an open membership model for
