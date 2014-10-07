@@ -363,6 +363,7 @@ technologies, network security and penetration testing. Everyday
 activities ranged from fixing broken electronics through building
 large-scale mixed media installations to playing computer games.
 
+Las descripciones presentadas con anterioridad sirven para indicar como los hacklabs surgieron de las necesidades y aspiraciones de las okupas y media-activistas. Esta historía arrastra una serie de consecuencias. Primeramente, que los hacklabs entraban organicamente en el ethos anti-institucional cultivado por la gente en los espacios autónomos. En segundo lugar, estaban incrustados en el régimen político de los espacios, y eran sometidas a las mismas formas de frágil soveranía política que dichos proyectos desarrollaron. Tanto Forte Prenestino y Mare Street han escrito y des-escrito formas de comportarse que se esperaba que las usuarias siguieran. Esta última okupación había promocionado "Políticas de lugares mas seguros", declarando por ejemplo que la gente que exibía comportamientos sexistas, racistas o autoritarios debiera esperar ser confrontada, y si fuese necesario, excluida. En tercer lugar, la lógica politicada de las okupaciones, y mas especificamente la ideología detrás del anarchismo apropiativo, tuvo también sus consecuencias. Un centro social designado para ser una institución pública, cuya legitimidad yace en servir a su audiencia y barrio, si fuese posible de mejor manera de lo que lo hacen las autoridades locales, por lo cual el riesgo de desalojo es de alguna manera reducido. Por último,el estado de okupación fomenta un ambiente de complicidad. Consecuentemente, ciertas formas de ilegalidad son vistas como al menos necesarias, o algunas veces hasta deseable. Estos factores son cruciales para entender las diferencias entre hacklabs y hackerspaces, que será discutida en la sección 3.
 
 The descriptions given above serve to indicate how hacklabs grew out of
 the needs and aspirations of squatters and media activists. This history
@@ -386,6 +387,8 @@ of illegality are seen as at least necessary, or sometimes even as
 desirable. These factors are crucial for understanding the differences
 between hacklabs and hackerspaces, to be discussed in Section 3.
 
+Una rudimentaria encuesta basada en los registros a páginas (ver Figura 1. en el apéndice), investigación de escritorio y entrevistas muestra que los primeros hacklabs fueron establecidos en la decada alrededor del cambio de milenio (1995-2005). Su concentración en el Sur de Europa ha sido señalada por la organización de los "hackmeetins" anuales en Italia, que comenzaron en 1998. El Hackmeeting es un encuentro donde las practicantes pueden intercambiar conocimiento, conocer su trabajo, y disfrutar de la compañia de las otras. En Europa del Norte "plug n' politx", anfitrionada primero por "Egocity" (un cyber-cafe okupado en Zurich, Suiza) proveyó un punto de encuentro para proyectos afines en 2001. Bajo el mismo nombre se estableció una red, a la que le siguió un segundo encuentro en 2004 en Barcelona. Mientras tanto, Hacklabs.org (difunta desde 2006) fue montada en el 2002 para mantener una lista de hacklabas, vivos o muertos, y probeer noticias e infomación básica sobre el movimiento. Una revisión de las actividades publicitadas de los hacklabs, muestra talleres organizados alrededor de temas como el desarrollo de software libre, seguridad y anonimato, arte electrónico y producciones mediáticas.
+
 A rudimentary survey based on website registrations (see Figure 1. in
 the appendix), desktop research and interviews shows that the first
 hacklabs were established in the decade around the turn of the
@@ -402,6 +405,8 @@ of hacklabs, dead or alive, and provide news and basic information about
 the movement. A review of the advertised activities of hacklabs show
 workshops organised around topics like free software development,
 security and anonymity, electronic art and media production.
+
+Las actividades de Print, un hacklab localizado en una okupación en Dijon, que se llama "Les Tanneries", muestra el tipo de contribuciones que surgieron de estos lugares. La gente activa en Print han mantenido un laboratorio de computadoras con con acceso a internet gratuito para visitantes del centro social, y una colección de componentes de computadoras viejos que los invididuos pueden usar para construir sus propias computadoras. Han organizado eventos de distintos tamaños (de un par de personas hasta mil) relacionado con el software libre, como una fiesta para arreglar los últimos "bugs" restantes en el próximo lanzamiento del sistema operativo Debian GNU/Linux. Además, han proveído soporte de red y distribuido computadoras con acceso a Internet en el "European gathering of Peoples’ Global Action", un encuentro a nivel mundial de activistas de base conectados al movimiento de globalización alternativa. En una veta similar, han realizado varias protestas en la ciudad llamando la atención hacia temas relacionados con la vigilancia estatal y legislaciones de copyright.Estas acciones han construido una tradición de montar instalaciones arísticas en varios lugares dentro y alrededor del edificio, el ejemplo mas chocante es el grafitti enorme en el cortafuegos que dice “apt-get install anarchism”. Que es un broma técnica aludiendo a la manera en la que los programas son installados en el sistema Debian, tan técnica que de hecho funciona.
 
 The activities of Print, a hacklab located in a squat in Dijon which is
 called Les Tanneries, show the kinds of contributions that came out of
@@ -423,6 +428,8 @@ graffiti on the firewall spelling out “apt-get install anarchism”. It is
 a practical joke on how programs are set up on Debian systems, so
 practical that it actually works.
 
+Otro ejemplo de el Sur de Europa es Riereta en Barcelona, un hacklab okupando un edificio separado que hace de anfitrión a un estudio de radio manejado por mujeres. Las actividades ahí, gravitan alrededor tres ejes, software libre, tecnología, y creatividad artística. Sin embargo, como un testimonio de la influencia  del media-activismo, la mayoría de los proyectos y eventos están concentrados en producción de mediática, como el procesamiento en tiempo real de audio y video, transmitiendo y haciendo campaña contra el copyright y otras restricciones a la distribución libre de información. La lista de ejemplos podría facilmente hacerse mas larga, demostrando que la mayorñia de los hacklabs comparten ideas y prácticas similares y mantienen vínculos con las políticas de globalización alternativa, espacios okupados y (el nuevo) media-activismo.
+
 Another example from South Europe is Riereta in Barcelona, a hacklab
 occupying a separate building that hosts a radio studio ran by women.
 The activities there gravitate around the three axes of free software,
@@ -435,14 +442,12 @@ made longer, demonstrating that most hacklabs share similar ideas and
 practicesand maintains links with alterglobalisation politics, occupied
 spaces and (new) media activism.
 
-To summarise, due to their historical situatedness in anticapitalist
-movements and the barriers of access to the contemporary communication
-infrastructure, hacklabs tended to focus on the adoption of computer
-networks and media technologies for political uses, spreading access to
-dispossesed and championing folk creativity.
+En resumen, debido a su situación histórica en los movimientos anticapitalistas y las barreras de acceso a la infraestructura de comunicación contemporanea, los hacklabs tienden a focalizarse en la adopción de redes de computadora y tecnologías mediáticas para usos políticos, esparciendo acceso a desposeídos y la defensa de la creatividad popular. 
 
 3. Hackerspaces
 ---------------
+
+Es probablemente una observación certera afirmar que los hackerspaces están en el tope de su popularidad en este momento. Como mencionamos en la introducción, muchas instituciones e iniciativas diferentes se llaman a sí mismas "hackerspaces". Por lo menos en Europa, Hay un núcleo de proyectos más o menos dirigidos por la comunidad que se definen a sí mismos como hackerspaces.El caso de los hacklabs ya fue descripto, pero es meramente un ejemplo del extremamente amplio espectro político. Existen una serie de variaciones poblando el mundo, como son los fablabs, makerlabs, telecottages, medialabs, laboratorios de innovación y espacios de co-working. Lo que distingue a los ultimos dos del resto ( y posiblemente también de los fablabs) es que están armados en un contexto institucional, ya sea una universidad, una compañia o una fundación. Y la mayoría de las veces su misión es la de adoptar innovaciones. Tales espacios tienden a focalizarse en resultados concretos como proyectos de investigación o productos comerciales.  "Telecottages" y "telehouses" están a la mitad del espectro. Están típicamente financiadas por fondos de desarrollo para mejorar a través de las TICs las condiciones sociales y económicas locales. Inclusive los makerlabas son algunas veces gestaciones comerciales ( como Fablab en Budapest, que no debe confundirse con el Centro Autónomo Hungariano para el Conocimiento mencionado anteriormente), basado en la idea de proveer como servicio acceso a herramientas para para compañias e individuos. Los Fablabs pueden ser la nueva generación en la evolución de los hackerspaces, faocalizandose en la manufactura de proyectos de construcción personalizada. Esta encuadrado como una fábrica repensada a partir de la inspiración del modelo de producción de pares (MIT’s Center for Bits and Atoms, 2007). Lo que caracteriza a los hackerspaces - junto con la mayoría de los fablabs - es que están armados por hackers y para hackers con la misión principal de apoyar el hackeo.
 
 It is probably safe to state that hackerspaces are at the height of
 their popularity at the moment. As mentioned in the introduction, many
@@ -471,6 +476,8 @@ production model (MIT’s Center for Bits and Atoms, 2007). What sets
 hackerspaces apart — along with most fablabs — is that they are set up
 by hackers for hackers with the principal mission of supporting hacking.
 
+Este es por lo tanto, el momento apropiado del paper para centrarnos en el aspecto social e histórico del fenómeno del hacking. Esto no quiere decir que los hacklabs - como lo indica su nombre - estarían menos involucrados en una tradición inspirada por hackers. Podría hacerse un estudio separado dedicado al entrelazamiento de esos dos movimientos en el movimiento del sofware libre. Sin embargo,  ya que lso dos movimienos contribuyen en igual medida pero de distintas maneras, este aspecto no será elaborado aquí en extensión ya que dicho contraste sería difícil de reflejar. Por lo tanto se asume que muhco de lo que dice aquí sobre cultura hacker y su influencia en el movimiento de hackerspaces aplica igualmente a los hacklabs.
+
 This is therefore the right point in the paper to dwelve on the social
 and historical phenomena of hacking. This is not to say that hacklabs —
 as is indicated by their name — would be less involved in and inspired
@@ -481,6 +488,9 @@ ways, this aspect will not be elaborated here at length as the contrast
 would be more difficult to tease out. It is hence assumed that much of
 what is said here about hacker culture and its influence on the
 hackerspace movement applies equally to hacklabs.
+
+Los comienzos de la cultura hacker están bien documentados. También comienza, interesantemente, en los años 60' y se esparce en los 70', similarmente a la historia del movimiento autnomo. De hecho, en algún sentido puede ser considerada como una de las culturas juveniles que Wallerstein atribuye al "shock cultural" de 1968 (2004). Para no perderse en la mitología, mantendremos la historia corta y esquemática. Un semillero pareciese haber sido la cultura universitaria personificada por el Laboratorio de Inteligencia Articial del MIT y cultivada en media dozena de otros institutos de investigación alrededor de los EEUU. Otra fue la escena "phreaker" la cual se encuentra expresada en la revista de corte Yippie "TAP". Mientras que los anteriores se encontraban trabajando en descubrimientos de ingeniería como las primeras computadoras y sistemas operativos, o como redes precursoras a la Internet, estos últimos hacían lo opuesto: hacían ingeniería inversa para obtener información y tecnologías de comunicación, que en la época principalmente eran redes telefónicas. En 1984 ATT se separa en compañias mas chicas - la "Baby Bells", pero no antes de que partes importantes de la red fuesen apagadas por phreakers (Slatalla Quittner 1995, Sterling, 1992). El mismo año supo ver, el último número de TAP y el primer número de la revista 2600, aún activa. La cultura universitaria fue preservada en el *Jargon File* en 1975 el cual todavía es mantenido (Steele Raymond, 1996). Fue el inventor del Cyberpunk, William Gibson, el que popularizó el término cyberespacio en su novela Neuromancer. Inspiró por lo tanto, la cultura cyberpunk que dió un completo - sino "real" - Weltanschauung (Visión del mundo) a la cultura hacker. La idea de un futuro oscuro, donde la libertad sólo puede encontrarse en los bordes y las corporaciones gobiernan el mundo, llamaba tanto a los hackers de universidad como a los prheakers. Las estrellas del underground "prheaker" habían sido perseguidas por las autoridades legales por sus "pranks" a los gigantes de la comunicación, mientras que Richard Stallman - " la última de [la primer generación] las verdaderas hackers" (Levy [1984], 2001) - inventó el software libre en 1983 y establece la lucha contra la privatización creciente del conocimiento por parte de las corporaciones, que podía verse en aquel entonces en la expansión de las demandas de copyright de software, el esparcimiento de arreglos de confidencialidad, 
+y la "proliferación" de compañias "start-up".
 
 The beginnings of the hacker subculture are well-documented.
 Interestingly, it also starts in the 1960s and spreads out in the 1970s,
@@ -516,6 +526,8 @@ corporations, as could then be seen in the expansion of copyright claims
 to software, the spread of non-disclosure agreements, and the
 mushrooming of start-up companies.
 
+La historia del movimiento hacker en Europa, no ha sido tan bien documentada. Una instancia importante es el Chaos Computer Club que fue fundado en 1981 por Wau Holland y otras integrantes del grupo editorial del diario de una Zona Temporalmente Autónoma en un edificio de Kommune I., una famosa okupación autónoma (Anon, 2008:85). El Chaos Computer Club pasó a la luz en 1984. Las hackers pertenecientes al club se habían transferido 134,000 Marcos Alemane a través del sistema nacional de videotex, llamado Bildschirmtext o BTX. La Oficina Postal tenía un monopólio de hecho en el mecado con este producto obsoleto, y aseguraba mantener una red segura inclusive despues de haber sido notificados sobre el exploit. El dinero fue devuelto al otro día en frente de la prensa. Esto comenzó la relación tumultuosa del Club con el govierno alemán, que dura hasta estos días.
+
 The history of the hacker movement in Europe has been less well
 documented. An important instance is the Chaos Computer Club which was
 founded in 1981 by Wau Holland and others sitting in the editorial room
@@ -529,6 +541,8 @@ network even after it had been notified about the exploit. The money was
 returned the next day in front of the press. This began the Club’s
 tumultuous relationship with the German government that lasts until
 today.
+
+En su estudio de la cultura hacker, Gabriella COleman y Alex Golub plantean que en el tiempo que se ha mantenido unida, esta subcultura manifiesta una inovativa pero históricamente determinada versión del liberalismo, mientras que en sus múltiples tendencias expresa y explota algunas de las contradicciones inherentes a la misma tradición política (2008). Se concentran en tres corrientes de prácticas hackers: cryptolibertad, software libre y de código abierto, y el underground hacker. Sin embargo, no pretenden que dichas categorías exausten la riqueza de la cultura hacker. Al contrario, en un artículo de comentario en el "Atlantic", Coleman (2010) explícitamente menciona que la escena de seguridad informática ha sido sub-representada en la literatura sobre hackers. Las tres tendencias identificadas en su texto difieren ligeramente de la clasificación que sugiero aquí. La invención técnica y legal del proyecto de Stallman, plantó al software libre como uno de los pilares del hacking para las próximas décadas. Los exploits de las phreakers abrieron un camino para el underground hacker donde su carácter lúdico inicial se desarrolló en dos direcciones, hacia las ganancias o hacia lo político.
 
 In their study of the hacker culture, Gabriella Coleman and Alex Golub
 have argued that as far as it hangs together, this subculture manifests
@@ -547,6 +561,8 @@ cemented free software as one pillar of hackerdom for the coming
 decades. The exploits of the phreakers opened a way for the hacker
 underground where its initial playfulness developed in two directions,
 towards profit or politics.
+
+En Europa, la postura del Chaos Computer Club, allanó en camino para la investigación independiente de seguridad informáitca. Admitidamente, todas aquellas aproximaciones se concentraron en una interpretación específica de la libertad individual, la cual entiende a la libertad como una cuestión de conocimiento. Mas aún, a este conocimiento se lo concidera producido y circulado en una red de humanas y computadoras - en contraste directo con la versión del liberalismo asociado con el individualismo romántico, como lo observan Coleman y Golub. Por lo tanto, este es un liberalismo antihumanista tecnologicamente informado. Las hackers toman distintas posturas dentro de estos parámetros que algunas veces se complementan y algunas veces se contradicen. La comunidad del software libre ve al acceso universal del conocimiento como la condición escencial de la libertad. El underground hacker ejerce el conocimiento para garantizar la libertad de un individuo o una facción. Las expertas en seguridad informática de "sombrero gris" ven a la divulgación completa como la mejor manera de asegurar la estabilidad de una infraestructura, y por lo tanto la libertad de comunicación. La divulgacióm completa refiera a la práctica de liberar información y herramientas que puedan revelar fallas de seguridad al público. Esta idea surge de la tradicion de las cerrajeras del siglo del siglo XIX, quienes proponían que las mejores cerraduras están construidas sobre principios ampliamente comprendidos, y no sobre secretos: el único secreto, a ser gurdado en privado, debiera ser la llave misma.(Hobbs, Tomlinson Fenby [1853] 1868:2 citado en Blaze 2003 como en Cheswick, Bellovin Rubin 2003:120). La idea de que la libertad depende del conocimiento, y que a la vez, el conocimiento depende de la libertad, está articulada en el aforismo hacker atribuido a Stewart Brand: "La información quiere ser libre."(Clarke, 2001).
 
 In Europe, the stance of the Chaos Computer Club paved the way for
 independent information security research. Admittedly, all of those
@@ -574,6 +590,9 @@ knowledge and, in turn, knowledge depends on freedom, is articulated in
 the hackers aphorism attributed to Stewart Brand: “Information wants to
 be free.” (Clarke, 2001).
 
+
+Durante el curso de la decada de los 90' el mundo hacker vio el armando de instituciones que han seguido de pie hasta el día de hoy. A partir de las tres sub-tradiciones que mencionamos antes han crecido distintas industrias, dandole de comer a profesionales en pleno empleo, trabajadoras precarias, y a entusiastas. La "Electronic Frontier Foundation" fue establecida en 1990 en los EE. UU. para defender y promover los valores hackers a través de apoyo legal, trabajo político y proyectos específicos en educación e investigación. Ocupa una posición muy distinta, pero comparabl econ el "Chaos Computer Club" en Europa. Los primeros discursos de la EEF como el de john Perry Barlow *Una declaración de la independencia del cyberespacio* invoca la narrativa de películas del lejano Oeste sobre un territorio indigena propenso a ser ocupado por el Este civilizatorio. Esta llena de referencias a los Padres Fundadores y a la constitución Estadounidense(1996).Conferencias, reuniones y campamentos refiriendose a las tres tendencias anteriores se convirtieron en extremadamente populares, similarmente a como la industria del cine progresivamente se apollaba en festivales. El "Chaos Communication Congress" desde 1984 y es hoy en día el evento más prominente en Europa, mientras que en EE. UU. H.O.P.E. fue organizado en 1994 por la gente que rodea la revista 2600, y todavía se mantiene fuerte. Los campamentos hackers fueron iniciados por una serie de eventos en los paises bajos que funcionan desde 1989. Estas experiencias solidificaron y popularizaron al movimiento hacker y el deseo por espacicos hackers permanentes era parte de este desarrollo.
+
 During the course of the 1990s the hacker world saw the setting up of
 institutions that have been in place up until now. From all three
 sub-traditions mentioned above have grown distinct industries, catering
@@ -596,6 +615,8 @@ initiated by a series of events in Netherlands running since 1989. These
 experiences solidified and popularised the hacker movement and the
 desire for permanent hacker spaces was part of this development.
 
+Como señaló Nick Farr (2009), la primer ola pionera de hackerspaces fue fundada en los 90', de igual modo que los hacklabs. L0pht se asentó en 1992 en el área de Boston como un club a base de membresías que ofrecía un espacio físico compartido y una estructura virtual para un grupo selecto de gente. Algunos otros lugares fueron comenzados en esos años en los EE.UU. basados en este modelo "encubierto". En Europa, C-base en Berlín comenzó con un perfil más público en 1995, promoviendo el acceso libre a Internet y sirviendo como un lugar común para varios grupos comunitarios. Estos espacios de segunda ola "probaron que las hackers podían ser abiertas sobre su trabajo, organizarse oficialmente, ganar reconocimiento por parte del gobierno y respeto por parte del público viviendo y aplicando la Ética hacker en sus esfuerzos" (Farr,2009). Sin embagro, es con la actual tercer hora, que el número de hackerspaces comenzó a crecer expoencialmente y que se desearrolló como un tipo de movimiento global. Considero que el término hackerspaces no era comunmente usado antes de este punto y que el pequeño número de hackerspaces que existían eran menos consistentes y todavía no habían desarrollado las características de un movimiento. Notablemente, este es el contraste con la narrativa de los hacklabs presentada con anterioridad que aparecen como un movimiento político más consistente.
+
 As Nick Farr (2009) has pointed out, the first wave of pioneering
 hackerspaces were founded in the 1990s, just as were hacklabs. L0pht
 stated in 1992 in the Boston area as a membership based club that
@@ -615,6 +636,9 @@ were less consistent and did not yet develop the characteristics of a
 movement. Notably, this is in constrast with narrative of the hacklabs
 presented earlier which appeared as a more consistent political
 movement.
+
+
+Varias cuentas (por ejemplo Anon, 2008) señalan una serie de charlas en 2007 y 2008 que insciraron, y continúan inspirando, la fundación de nuevos hackerspaces, sin embargo, la proliferación parece haber comenzado antes. En 2007 Farr organizó un proyecto llamado "Hackers on a Plane", que trajo hackers de los EE. UU. al "Chaos Communication Congress", e incluía un tour de los hackerspaces del área. Ohlig y Weiler del hackerspace C4 en Cologne dieron una charla innovadora en la conferencia, llamada *Construyendo un Hackerspace* (2007). La conferencia definía los patrones de diseño de un hackerspace, los cuales están escritos en forma de un catesismo y proveen soluciones a los problmeas mas comunes que surgen durante la organización de un hacrespace. Más importante aún,  ha canonizado el concepto de hackerspace e impuesto la idea de armar nuevos alrededor de del mundo en la agenda del movimiento hacker. Cuando la delegación estadounidense volvió a casa, presentaron sus experiencias bajo el título programático *Construyendo Hackerspaces en todos lados: Tus Escusas son Inválidas*. Aseguraban que "cuatro personas pueden empezar un hackerspace sustentable", y mostraban como hacerlo (Farr et al,2008). En el mismo año se concretó el lanzamiento de hackerspaces.org, en Europa con *Construyendo un movimiento internacional: hackerspaces.org* (Pettis et al, 2008), y también en Agosto en el H.O.P.E. norteamericano (Anon, 2008). Mientras que el dominio esta registrado desde el 2006, el Internet Archive vio la primera página de internet ahí en el 2008 teniendo en lista 72 hackespaces. Desde entonces las plataformas de comunicación que provee el portal se volvieron un elemento vital en el movimiento de hackerspaces, llevando el slogan "Construye! Une! Multiplica!" (hackerspaces.org, 2011).Una encuesta sobre la fecha de inicio de los 500 hackerspaces registrados muestra una creciente desde 2008 (ver Figura 2).
 
 Several accounts (for example Anon, 2008) highlight a series of talks in
 2007 and 2008 that inspired, and continue to inspire, the foundation of
@@ -642,6 +666,8 @@ communication platforms provided by the portal became a vital element in
 the hackerspaces movement, sporting the slogan “build! unite! multiply!”
 (hackerspaces.org, 2011). A survey of the founding date of the 500
 registered hackerspaces show a growing trend from 2008 (see Figure 2).
+
+Notablemente, la mayoría de estos desarrollos se focalizaron en las características formales de los hackerspaces, por ejemplo como manejar problemas y hacer crecer una comunidad. Enfatizaban un modelo de membresía abierta para mantener un espacio común de trabajao que funcione como un ambiente de producción cooperativo, socializante y de aprendizaje. Sin embargo, el contenido de las actividades que transcurren en los hackerspaces tambíen muestra una gran consistencia. Las tecnologías usadas pueden ser descriptas como capas de sedimentación: las nuevas tecnologias ocupan su lugar al lado de las viejas, sin convertirse en absolutamente obsoletas. En primera isntancia, el hecho de que las hackers colaboren en un espacio físico significó un resurgimiento del trabajo en electrónica, que se unía con la tendencia establesida de toquetear computadoras físicas. Un esbozo de las áreas de investigación conectadas puede ser (en orden de aparición): desarrollo de software libre, reciclaje de computadoras, redes mesh inalámbricas, microelectrónica, hardware abierto, impresión 3d, talleres de maquinaría y cocina.
 
 Notably, most of these developments focused on the formal
 characteristics of hackerspaces, for instance how to manage problems and
