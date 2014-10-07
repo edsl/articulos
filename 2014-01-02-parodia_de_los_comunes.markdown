@@ -464,7 +464,7 @@ participación.
   fuerza de trabajo hacia colectivos de voluntarios y apropiarse del
   valor producido. _(Nota de traducción)_
 
-eNtonces, el trabajo gratuito es voluntario.  En los proyectos de
+Entonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
 final (que permanece abierto a su desarrollo ulterior) del proceso
 productivo y gana experiencia, conocimiento, relaciones y/o incluso
