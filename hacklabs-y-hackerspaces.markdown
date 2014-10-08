@@ -685,6 +685,8 @@ order of appearance): free software development, computer recycling,
 wireless mesh networking, microelectronics, open hardware, 3D printing,
 machine workshops and cooking.
 
+A partir de esta línea del tiempo rudimentaria, es evidente que las actividades en los hackerspaces han gravitado alrededor de lo físico. Podríamos extendernos en las trayectorias individuales de todas esas áreas tecnológicas, pero aquí haremos foco en la microelectrónica. Esta elección se debe a que la microelectrónica tuvo un rol principal en dar el primer empujón a los hackerspaces, como se evidencia en la popularidad de clases de electrónica básica y talleres de microcontroladores programables en los programas de los hackerspaces jovenes.La computación física fue esbozada por Igoe y O’Sullivan en *Computadoras Físicas: sintiendo y controlando el mundo físico con computadoras* (2004), y tuvo un gran inpacto en toda la escena de las computadoras. Este nuevo marco de trabajo en la interacción humano-máquina subrayó la manera en la que la gente se comporta en situaciones cotidianas usando todo su cuerpo, y abrió el camino para la investigación exploratoria a través de la construcción de aparatos inteligentes. Al otro año O'Reilly Media comenzó a publicar la revista "Make" que se focaliza en tecnología hagalo-usted-mismo, incluyendo tutoriales, recetas, y comentarios. Entre las autoras se encuentran muchas de las celebridades de la subcultura hacker. "La primer revista dedicada a proyectos digitales, hackeo de hardware, e inspiración DIY. Fotografía aérea en cometas, estabilizador de cámara de vídeo, lector de tarjetas de banda magnética, y mucho más." (Make Magazine, 2011) En Europa, Massimo Banzi y otras comenzaron a trabajar en la invención del Arduino, una placa de microcontrolador programable con un software de interface fácil-de-usar. Este sistema microcontrolador "amigable" para las amateurs se convirtió en el sello de los talleres de hackerspaces y de artistas e inició a toda una nueva generación en el armado rápido de prototípos y trabajo electrónico. Para armarlo un poco, la computación física proveyó un área teórica a ser explorada, y el Arduino se convirtió en su aplicación más popular, mientras que la revista MAKE y medios parecidos facilitaron el esparcimiento de los resultados de investigación. Queda abierto para la especulación como esta tendencia encaja en el marco mas amplio de lo uqe parece ser un cambio en las sensibilidades de la sociedad en su conjunto. Si los 90' fueron marcados por una preocupación por los discursos y lenguajes, hoy en día se da preminencia a materialidades y  corporalidades.
+
 From this rudimentary time line, it is evident that activities in
 hackerspaces have gravitated towards the physical. The individual
 trajectories of all these technology areas could be unfolded, but here
@@ -718,6 +720,8 @@ sensibilities in society at large. If the 1990s was marked by a
 preoccupation with discourses and languages, preeminence is now given to
 materialities and embodiedness.
 
+El Centro Autonomo Hungariano para el Conocimiento en Budapest es un típico hackerspace de la tercer ola. Fue fundado en 2009 despues de una presentación en el encuentro local de nuevas tecnologías, que a su vez había sido inspirado por la presentación de hackerspaces en Berlin (Stef, 2009). El lugar esta compuesto por un espacio de trabajo, una cocina, un cuarto de descanzo y una terraza en un centro cultural citadino que anfitriona ateliers para artistas junto a un bar y algunas tiendas. La renta se cubre con el pago de las membresías y donaciones de individuos, compañias y otras organizaciones.A las miembros les corresponde una llave, mientras que las visitantes pueden averiguar cuando esta abierto el espacio gracias a un sistema de señal en tiempo real que se llama Hacksense. Que muestra el status del lab en su página web, cuenta de twitter y una base de datos. Por lo tanto, las visitantes son bienvenidas en cualquier momento, en especial a los eeventos anunciados que pasan un algunas veces cada mes. Estos incluyen tanto encuentros y eventos comunitarios, como talleres prácticos, presentaciones y cursos. Acorde a los lineamientos de diseño de hackerspaces, se dan discusiones de orientación semanales los días jueves, donde se toman decisiones basadas en un consenso aproximado. Los hackatones son eventos especiales donde mucha gente trabaja en temas anunciados por seis horas o un día entero. Estos eventos son sincronziados a veces internacionalmente con otros hackspaces. Sin embargo, la mayoría de las actividades transcurren en términos mas ad-hocraticos, dependiendo del plan horario y capricho de las participantes. Por esta razón, el canal de chat online y la página wiki son fuertemente usadas para la cordinación, documentación y socialización. Los proyectos pertenecen usualmente a uno o mas individuos, pero algunos proyectos están "refrendados" por casi todas.
+
 The Hungarian Autonomous Center for Knowledge in Budapest is a fairly
 typical third wave hackerspace. It was founded in 2009 after a
 presentation at the local new tech meetup, itself inspired by the
@@ -742,6 +746,8 @@ schedule and the whim of the participants. For this reason, the online
 chat channel and the wiki website are heavily used for coordination,
 documentation and socialisation. Projects usually belong to one or more
 individual, but some projects are endorsed by almost everybody.
+
+Entre los proyectos que se dan en el Centro Autonomo Hungariano para el Conocimiento, algunos son proyectos de puro software. Uno de estos casos es f33dme, un lector de "feeds" basado en navegador. f33dme es un proyecto popular en el hackerspace y mientras que más gente lo adopta para sus necesidades, se hace cada vez mas robusto y más características se le agregan en el tiempo. Aunque esto no tiene nada de neuvo comparado con el modelo de desarrollo de software libre que se puede encontrar en otras partes, el hecho de que hay una comunidad de usuarias coporporalizada ha contribuído a su éxito. También tienen "hardware hacks" como el SIDBox, que está construido con el chip de música de una vieja computadora Commodore C64, al que le añadieron un input USB  y un output de mini-jack. Esto habilita al usuario a reproducir música contenmporánea usando el chip como una placa de sonido externa. Una "esquina de hardware" simpre en expansión con partes electrónicas, soldadores y multimetros facilita este tipo de trabajo. Las miembros son trabajadoras precarias en TIC, investigadoras en compañias de seguridad informática, y/o estudiantes en los campos relacionados. Es un aspecto significante para la viabilidad del hackerspace que bastantes integrantes del núcleo de miembros  trabajan en horarios fexlibres o sólo trabajan ocasionalmente, así que durante algunos períodos tienen tiempo para dedicarle al hackerspace. Algunas de las actividades tienen una intencionalidad política directa, concentrandose mayoritariamente en temas como "open data", transparencia y privacidad. Es notable la colaboración con grupos que hacen campaña en pos de los derechos de la información  en el Parlamento europeo y en paises europeos, o ayudan a periodistas a conseguir un conjunto de datos de databases de acceso público. EL hackerspace envía delegaciones que lo representan en eventos ante el movimiento global de hackerspaces, como en el Congreso anteriormente mencionado y en el  "Chaos Communication Camp", y en algunos mas pequeños como el "Stadtflucht sojourn" organizado por Metalab, un hackerspace en Vienna (Metalab, 2011).
 
 Among the projects housed at Hungarian Autonomous Center for Knowledge,
 some arepure software projects. A case in point isf33dme, a
@@ -772,6 +778,8 @@ the aforementioned Congress and the Chaos Communication Camp, and
 smaller ones such as the Stadtflucht sojourn organised by Metalab, a
 hackerspace in Vienna (Metalab, 2011).
 
+Para concluir, la emergencia de hackerspaces está alineada con una trayectoria más larga en el movimiento hacker, que gradualmente a ganado más estructuras institucionales. El giro hacia lo físico (prinsipalmente a través del uso de micro-controladores) marcó el punto en donde los hackerspaces se esparcieron, debido a que el desarrollo y colaboración en ese tipo de proyectos es facilitada de gran manera teniendo un espacio compartido. Mientras que la mayoría de los discursos y las inovaciones en la comunidad se han focalizado en la forma organizacional más que en el contenido político de los hackerspaces, ese menos definido y mas inclinado hacia el liberalismo contenido político, permitió que el movimiento se esparsa y forge conexxiones en múltiples direcciones sin perder su propio empuje: desde las empresas a través de la sociedad civil hasta un público general.
+
 To conclude, the emergence of hackerspaces is in line with a larger
 trajectory in the hacker movement, which gradually has gained more
 institutional structures. The turn towards the physical (mainly through
@@ -789,8 +797,14 @@ thrust: from companies through civil society to a general audience.
 Figure 3. The two previous figures superimposed for the sake of
 clarification.
 
+Figura 3. Las dos figuras previs superimpuests en pos de la clarificación.
+
+
 4. Hacklabs and Hackerspaces
 ----------------------------
+
+4. Hacklabs y Hackerspaces
+--------------------------
 
 Having outlined the parallel genealogies of hacklabs and hackerspaces,
 it is now possible to contrast these ideal types with each other and
