@@ -797,7 +797,7 @@ thrust: from companies through civil society to a general audience.
 Figure 3. The two previous figures superimposed for the sake of
 clarification.
 
-Figura 3. Las dos figuras previs superimpuests en pos de la clarificación.
+Figura 3. Las dos figuras previas superimpuestas en pos de la clarificación.
 
 
 4. Hacklabs and Hackerspaces
@@ -806,12 +806,16 @@ Figura 3. Las dos figuras previs superimpuests en pos de la clarificación.
 4. Hacklabs y Hackerspaces
 --------------------------
 
+Habíendo marcado las genealogías paralelas de los hacklabs y los hackerspaces, nos es ahora posible contrastar entre sí estos dos tipos ideales y hacer algunas observaciones comparativas. Con la intención de ser breves, solo algunos puntos serán señalados en esta sección. Esperamos que esto clarifique más aún la diferencia entre labs y spaces y provea criterios útiles para investigaciones posteriores.
+
 Having outlined the parallel genealogies of hacklabs and hackerspaces,
 it is now possible to contrast these ideal types with each other and
 make some comparative observations. For the sake of brevity, only a few
 points will be highlighted in this section. Hopefully, these will
 further clarify the differences between labs and spaces and provide some
 useful critierias for further research.
+
+En 2010 se presentó una ocasión interesante para hacer la comparación directa entre el hacklab "Hackney Crack House" y el hackerspace "Hungarian Autonomous Center for Knowledge". Tuve en ese momento experiencia de primera mano en ver como de distintas maneras el hacklab y el hackerspace desarrollaban y presentaban el mismo artefacto. El artefacto en cuestión se llama "Burnstation". Inclusive un breve bosquejo de las diferentes direcciones en las que la "Burnstation" se desarrolló puede servir para iluminar algunos puntos claves que se deriban de las genealogías históricas y conceptuales que se mencionaron antes. La Burnstation es un "kiosko" físico que le permite al usuario navegar, escuchar, seleccionar, y quemar a un CD o copiar a un USB archivos de audio desde una base de datos de música (Rama Cosentino platoniq, 2003). La Burnstation original fue inventada en el riereta en Barcelona, que empezó como un hacklab focalizado en media en 2001 y que después se institucinalizó en 2005, cuando recibió financiación por parte de las autoridades locales - lo que significa que hoy en día es más un hackerspace.Subyacentemente de esta transformación, también esta registrado en hackerspaces.org. Las abundantes variaciones de la Burnstation han sido mostradas en público en distintos contextos de exibición como también haver sido ampliamente usados en hacklabs y hackerspaces. Fotografías de como se veían la Burnstation original y sus dos derivadas en algún momento del proceso de desarrollo se pueden ver en la Figura 4 (Rama et al), Figura 5 (HCH) y la Figura 6 (H.A.C.K.).
 
 An interesting occasion presented itself in 2010 for making a direct
 comparison between the Hackney Crack House hacklab and the Hungarian
@@ -835,6 +839,8 @@ original Burnstation and its two derivatives looked like at some point
 in its ongoing development process can be seen in Figure 4 (Rama et al),
 Figure 5 (HCH) and Figure 6 (H.A.C.K.).
 
+La diferencia mas chocante entre las dos implementaciones recientes de la Burnstation es que en la versión construida por la gente del hacklab, el concepto fue alterado de que la colección de música incluya exclusivamente material bajo la licencia Creative Commons que puede ser libremente distribuido, a una librería "vale todo", incluyendo muchos archvos que son ilegales de copiar. El mensaje fue entonces radicalmente cambiado del consumo y celebración de los frutos de un nuevo tipo de régimen de producción, a uno que enfatisa la piratería y la transgresión. La exposición pública  de la isntalación era una declaración contra el "Digital Economy Act" que recién se implementaba en el Reino Unido. Este acta criminalizaba el compartir archivos y amenazaba con suspender el acceso a internet en los casos donde los derechos de la propiedad intelectual fuesen violados (Parliament of the United Kingdom, 2010). Por lo tanto la isntalación promovía actividades ilegales en directa oposición con las politicas estatales vigentes - lo que no era tan controversial como suena, ya que las salas y exposiciones donde se la mostraba estaban ellas mismas bajo una base legal frágil. En contraste, la Burnstation desarrollada por  el hackerspace apareció en una exibición del 300 aniversario del copyright en una institución prestigiosa, mostrando prácticas y marcos legislativos alternativos a la concepción tracicional de los derechos de propiedad intelectual. 
+
 The most striking difference between the two recent reimplementations of
 Burnstation is that in the version built by the hacklab people, the
 original concept was altered so that the music collection includes
@@ -855,6 +861,8 @@ the Burnstation developed by the hackerspace appeared in an exhibition
 on the 300th birthday of copyright in a prestigious institution,
 showcasing the alternative practices and legislative frameworks to the
 traditional view of intellectual property rights.
+
+Otro aspecto de la diferencia entre las dos instalaciones era evidente en las soluciones para la interacción con el usuario. La versión del hackerspace estaba basada en una versión actualizada del software y hardware original: una interface web amigable corriendo detrás de una pantalla táctil. La versión del hacklab, por otro lado, reimplementó el software en un entorno solo de texto y tenía un teclado pintado, proveyendo una experiencia de navegación mas arcana. Más aún, la instalación exibida estaba ubicada en un entorno temático pirata y la computadora sólo podía ser alcanzada a traves de una pileta pelopincho. Las dos modalidades diferentes corresponden a las dos tendencias mas grandes en el diseño de interfaces: mientras que una apunta a una experiencia mas transparente y suave, la otra monta barreras para enfatisar la interfase de una manera lúdica. En conclusión, las miembros del hackerspace crearon una experiencia alternativa que encajaba más fácilmente en al concepción hegemónica de la propiedad intelectual y la amigabilidad para el usuario, mientras que el equipo del hacklab desafiaba esas mismas nociones hegemónicas, poniendo en primer plano la libertad y el deseo. Al mismo tiempo, se ve a primera vista que muchos factores atan juntos a ls dos proyectos.  Ambos grupos llevaron a cabo un proyecto colectivo abierto a la colaboración y basandose en resultados existentes de iniciativas similares, usando tecnología antigua y componentes reciclados creativamente. En última instancia,  ambos proyectos se alejaron de una relación con la tecnología preconfigurada y consumista. De distinta manera, sus intervenciones buscaron poner en cuestionamiento las leyes de copyright en existencia.
 
 Another aspect of the difference between the two installations was
 apparent in the solutions for user interaction. The hackerspace version
@@ -884,6 +892,9 @@ law.
 
 Figure 4. Burnstation (Rama Cosentino platoniq). Emerging Art Festival,
 2011, Buenos Aires. Photo by Dianeth Medina.
+
+Figura 4. Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente,
+2011, Buenos Aires. Foto por Dianeth Medina.
 
 Generally speaking, technological choices made in the two types of
 spaces described above seem to be conditioned by two factors: the
