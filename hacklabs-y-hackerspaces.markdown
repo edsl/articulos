@@ -14,15 +14,15 @@ Una aproximación sistemática echará luz a muchas diferencias
 interesantes y conexiones que pueden ser útiles para practicantes que
 busquen nutrir y esparcir la cultura de los hackerspaces, como para
 academicas que buscan conceptualizarlo y entenderlo. En particular, los
-hackerspaces han probado ser un fenómeno viral que pueden haber llegado
+hackerspaces han probado ser un fenómeno viral que puede haber llegado
 al tope de su popularidad, y mientras una nueva ola de fablabs florece,
-gente como Grenzfurthner y Schneider (2009) han comenzado a hacer
-preguntas sobre la dirección de estos movimientos.Me gustaría contribuir
+gente como Grenzfurthner y Schneider (2009) ha comenzado a preguntarse
+sobre la dirección de estos movimientos. Me gustaría contribuir
 a este debate sobre la dirección política y los potenciales políticos de
 los hacklabs y hackerspaces con un paper historiográfico comparativo y
-crítico. Principalmente estoy interesado en como estas redes
+crítico. Principalmente estoy interesado en cómo estas redes
 entrelazadas de instituciones y comunidades pueden escapar al aparato de
-captura capitalista,, y como estas potencialidades son condicionadas por
+captura capitalista, y como estas potencialidades son condicionadas por
 un arraigo histórico en varias escenas e historias.
 
 It seems very promising to chart the genealogy of hackerspaces from the
@@ -44,14 +44,14 @@ apparatus of capture, and how these potentialities are conditioned by a
 historical embeddedness in various scenes and histories.
 
 Los hacklabs manifiestan algunos de las mismas características de los
-hackerspaces, y, de echo, muchas comunidades que estań registradas en
-hackerspaces.org se identifican también como "hacklabs". Aún más,
-algunos de los grupos registrados no serían considerados comomo
-hackerspaces "reales" por la mayoría del resto. De echo, hay un amplio
+hackerspaces, y, de hecho, muchas comunidades que estań registradas en
+hackerspaces.org se identifican también como "hacklabs". Incluso
+algunos de los grupos registrados no serían considerados como
+hackerspaces "reales" por la mayoría de los demás. En realidad, hay un amplio
 espectro de términos y lugares con un parecido familiar como los
 "espacios de coworking", "laboratorios de innovación", "media labs",
-"fab labs", "makerspaces", entre otros. No todos ellos están siquiera
-basados en una comunidad existente, sino que han sido fundados por
+"fab labs", "makerspaces", entre otros. No todos están
+basados en una comunidad, sino que han sido fundados por
 actores del sistema educativo formal o el sector comercial. Es imposible
 clarificar todo en un artículo corto. Por lo tanto sólo consideraré aquí
 hacklabs y hackerspaces conducidos por la comunidad.
@@ -108,7 +108,7 @@ show up is to be found in the legal status of the spaces: while hacklabs
 are often located in squatted buildings, hackerspaces are generally
 rented.
 
-Este papaer comprende tres secciones distintas. Las primeras dos
+Este paper comprende tres secciones distintas. Las primeras dos
 secciones elaboran la genealogía histórica e ideológica de los hacklabs
 y hackerspaces. La tercer sección unifica lo encontrado con la intención
 de que eche luz a las diferencias existentes desde un punto de vista
