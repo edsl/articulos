@@ -1,6 +1,8 @@
 http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
 
-· Hacklabs and hackerspaces – tracing two genealogies
+· Hacklabs y hackerspaces - rastreando dos genealogías
+
+  Hacklabs and hackerspaces – tracing two genealogies
 
 **Maxigas**
 
@@ -1653,6 +1655,9 @@ Figure 4. Burnstation (Rama Cosentino platoniq). Emerging Art Festival,
 Figura 4. Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente,
 2011, Buenos Aires. Foto por Dianeth Medina.
 
+
+En líneas generales, las elecciones tecnológicas hechas por los dos tipos de espacios descriptos anteriormente parecen estar condicionadas por dos factores: el lineamiento histórico y el entorno político-cultural. Desde que florecieron los hacklabs en el momento en que el acceso a Internet e inclusive a computadoras era un recurso escaso y las computadoras de escritorio con software libre no eran triviales, su contribución en el área de tecnología acceso y redes era crucial. Mas aun, su contribución al desarrollo tecnológico y mensajes políticos - por ejemplo el caso de la red Indymedia - encajaban en el patron del movimiento de globalización-alternativa, mientras que compartían algunos de sus mismas carencias. Similarmente, algunos años después, los hackerspaces empujaron los límites de la tecnología disponible en el momento al adoptar y mejorar microcontroladores e impresoras 3D. En el momento de escritura, estos son los únicos espacios donde el un público general puede libremente acceder y aprender sobre estos dispositivos, aunque no esta claro si estos se volveran tan ubicuos en la vida diaria como las computadoras y las redes. La diferencia más importante es que los hackerspaces esque no están incrustados y comprometidos concientemente con un proyecto o idea abiertamente político. Por supuesto que esto no previene que se emprendan proyectos políticos en los hackerspaces. En el mejor de los casos, la ausencia de una ideología abiertamente declarada puede potencialmente llevar a una difusión más amplia del proyecto. En el peor de los casos, sin embargo, la falta de una consciencia política lleva a la reproducción de las estructuras de poder dominantes orientada hacia  hombres blancos de clase media aficionados a la tecnología, una afirmación a ser investigada más adelante.
+
 Generally speaking, technological choices made in the two types of
 spaces described above seem to be conditioned by two factors: the
 historical lineage and the political-cultural surrounding. Since the
@@ -1678,6 +1683,8 @@ conscioussness leads to the reproduction of dominant power structures
 orientated towards white middle class tech-savvy males, a claim to be
 investigated below.
 
+Un asunto más abstracto para señalar las diferencias estructurales entre hacklabs y hackerspace ses sus políticas y prácticas hacia la inclusión y exclusión. Por un lado, la orientación autónoma o anarquísta de los hacklabs contrasta mucho con la orientaciñon liberal o libertaria de la mayoría de los hackerspaces. Por otro lado, ya que los hacklabs son más integrales a un movimiento político mas amplio, aspectos no-técnicos juegan un rol más grande en como son manejados. Un ejemplo contreto es que mientras que el sexismo y comportamientos similarmente ofensivos son vistos como razones legitimas para exluír a un individo de los hacklabs, en los hackerspaces esos temas son altamente controversiales y son discutidos largamente en vano (como en Metalab) o simplemente no se abordan (como en H.A.C.K.). Aún así, una conferencia y discusión en el último Chaos Communication Camp mostró que aunque la cultura hacker es todavía de una orientación abrumadoramente masculina, se ha convertido en la última decada cada vez mas acogedora hacia mujeres y minorías sexuales (Braybrooke, 2011).
+
 A more abstract issue to address in order to highlight the structural
 differences between hacklabs and hackerspaces is their policy and
 practices towards inclusion and exclusion. On the one hand, the
@@ -1694,6 +1701,8 @@ at the latest Chaos Communication Camp found that although hacker
 culture is still overwhelmingly male-oriented, it has become more and
 more welcoming to women and sexual minorities in the last decade
 (Braybrooke, 2011).
+
+Las diferentes prioridades de hacklabs y hackerspaces pueden ser demostradas en sus políticas divergentes alrededor de la accesibilidad en sillas de ruedas. Mientras que el hacklab en London descrito anteriormente no era accesible en sillas de ruedas, se había construido una rampa para la casa para que lo sea. Las discusiones sobre sesiones de entrenamiento abiertas abordaron el tema, y se planeó un cuarto de computadoras temporal en la planta baja. En una veta similar, el hackerspace llamado Metalaba en Vienna fue hecho accesible en silla de ruedas, y hasta se instaló un baño para silla de ruedas, que usaba regularmente un visitante. Sin embargo, con el tiempo se decidió que el cuarto oscuro remplazaría al baño de silla de ruedas, prácticamente exlcuyendo a la persona del espacio. Un cambio similar ocurrió con la ducha, la cual fue tomada por la expansión del taller de máquinas (Anon, 2011). Esto afectó a una persona que prácticamente no tenía casa y que frecuentemente asistía al espacio para jugar ajedrez. Estas decisiones muestran la reversión de una disposición excepcionalmente social y espacialmente inclusiva debido a la priorización del foco en la tecnología, de la mano con la primacía asignada a los intereses colectivos en detrimento de las necesidades de las minorías. Los hacklabs, especialemnte si están en espacios okupados, tienen una inclinación mucho menor a ese tipo de desiciones, en parte debido al ethos del espacio público que viene usualente con las ocupaciones, y especialmente en centros sociales. Sin embargo, debe notarse que aunque mientras que la accesibilidad y no-discrimination son bases legítimas para el debate en los hacklabs pero no necesariamente en los hackerspaces, como muestran los ejemplos anteriores inclusive los hacklabs han hecho poco progreso práctico en este asunto.
 
 The different priorities of hacklabs and hackerspaces can be
 demonstrated with their diverging policies on wheelchair accessibility.
@@ -1721,6 +1730,7 @@ the above example shows even hacklabs have made little practical
 progress on the issue.
 
 ![](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
+
 
 Figure 5. Piratepond installation from Hackney Crack House at the
 Temporary Autonomous Art exhibition in London, 2011, including a
