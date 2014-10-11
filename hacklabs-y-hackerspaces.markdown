@@ -1799,14 +1799,45 @@ progress on the issue.
 ![](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
 
 
-Figura 5. Instalación "Piratepond" del Hackney Crack House en la exibición Temporary Autonomous Art en London, 201, que incluye una Burnstation. La foto es de dominio público.
+Figura 5. Instalación "Piratepond" del Hackney Crack House en la
+exibición Temporary Autonomous Art en London, 201, que incluye una
+Burnstation. La foto es de dominio público.
 
 Figure 5. Piratepond installation from Hackney Crack House at the
 Temporary Autonomous Art exhibition in London, 2011, including a
 Burnstation. Photo in the public domain.
 
-Finalmente, me gustaría señalar el impacto político de estas constelaciones divergentes, y preguntar hasta que punto y en que maneras contribuyen a apoyar prácticas post-capitalistas, movimientos y subjetividades. Los hacklabs dieron una ventaga tecnológica a los movimientos políticos de base, siendo pioneras en el acceso a las tecnologías de la información y comunicación y soluciones inovativas en una era donde el acceso no estaba disponible a la mayoría de las personas como un servicio para el consumo. En el lado negativo, esas iniciaticas a menudo quedan estancadas en lo que podría llamarse un "ghetto activista" o un "underground", lo que significa que inclusive el proyecto de la Burnstation descripto anteriormente era accesible solamente a un grupo social limitado. A traves de un proceso que Granzfurthner y Schneider describen como co-optasión capitalista de la resistencia fertil inherente a esas escenas ([2009]), los hackerspaces se las arreglaron para ir más alla de estos limites históricos y forjaron connecioens importantes. Esto último, continúa teniendo un efecto duradero a traves de los artefactos tecnológicos - ambos abstractos y físicos - que ellos crean, como también la innovación y mas importantemente la educación que practican. El caso de las impresoras 3D, que según Jakob Rigi puede revolucionar los procesos de producción y crear las condiciones para una sociedad basada en 
-la artesanía mas que en fábricas, es solamente uno de los posibles casos ([2011]). Más aun,  gracias a sus dinámicas mas abiertas, los hackerspaces pueden adoptar colaboración entre un amplio rango de actores sociales. Para la cultura hacker que ha logrado en los últimos años catapultarse a sí misma a la primera plana de los diarios internacionales, es de extremadamente significativo haber adquirido una red global de espacios reales de talleres que proveen infraestructura. En la atmósfera política actual, dominada por una serie de crisis, esta escena muestra vitalidad y dirección. Sin embargo, como el comando de superusuario dice, "Con gran poder, viene gran responsabilidad". 
+Finalmente, me gustaría señalar el impacto político de estas
+constelaciones divergentes, y preguntar hasta que punto y en que maneras
+contribuyen a apoyar prácticas post-capitalistas, movimientos y
+subjetividades. Los hacklabs dieron una ventaga tecnológica a los
+movimientos políticos de base, siendo pioneras en el acceso a las
+tecnologías de la información y comunicación y soluciones inovativas en
+una era donde el acceso no estaba disponible a la mayoría de las
+personas como un servicio para el consumo. En el lado negativo, esas
+iniciaticas a menudo quedan estancadas en lo que podría llamarse un
+"ghetto activista" o un "underground", lo que significa que inclusive el
+proyecto de la Burnstation descripto anteriormente era accesible
+solamente a un grupo social limitado. A traves de un proceso que
+Granzfurthner y Schneider describen como co-optasión capitalista de la
+resistencia fertil inherente a esas escenas ([2009]), los hackerspaces
+se las arreglaron para ir más alla de estos limites históricos y
+forjaron connecioens importantes. Esto último, continúa teniendo un
+efecto duradero a traves de los artefactos tecnológicos - ambos
+abstractos y físicos - que ellos crean, como también la innovación y mas
+importantemente la educación que practican. El caso de las impresoras
+3D, que según Jakob Rigi puede revolucionar los procesos de producción y
+crear las condiciones para una sociedad basada en la artesanía mas que
+en fábricas, es solamente uno de los posibles casos ([2011]). Más aun,
+gracias a sus dinámicas mas abiertas, los hackerspaces pueden adoptar
+colaboración entre un amplio rango de actores sociales. Para la cultura
+hacker que ha logrado en los últimos años catapultarse a sí misma a la
+primera plana de los diarios internacionales, es de extremadamente
+significativo haber adquirido una red global de espacios reales de
+talleres que proveen infraestructura. En la atmósfera política actual,
+dominada por una serie de crisis, esta escena muestra vitalidad y
+dirección. Sin embargo, como el comando de superusuario dice, "Con gran
+poder, viene gran responsabilidad".
 
 Finally I would like to make apoint about the political impact of these
 diverging constellations, and ask to what extent and in which ways they
@@ -1838,7 +1869,21 @@ atmosphere dominated by an array of crises, this scene shows vitality
 and direction. However, as the superuser command says, “With great power
 comes great responsibility”.
 
-La apreciación de la historia no consiste en juzgar a los viejos y a los muertos, sino que se hace para inspirar los esfuerzos presentes. Como "Théorie Communiste" afirma, cada ciclo de luchas trae algo nuevo basado en lo que paso antes, de esa manera expandiendo los límites historicos de las luchas (Endnotes, 2008). Quizás el potencial político de los hackerspaces yace precisamente en el hecho de que no se han convertido en un movimiento social y por lo tanto no se encuentran limitados por las convenciones de los movimientos sociales. Se ubican en la intersección entre la distopía del "taller paradisíaco geek"  (Granzfurthner and Schneider [2009]) y la utopía de una realidad con espacios genuinamente contendientes que tengan un amplio impacto. Si más hackers pueden combinar la productividad tecnológica con el "imperativo manos-a-la-obra" (Levy [1968], 2001) y las amplias posibilidades de polinización-cruzada transversal de los hackerspaces con la crítica social de los hacklabs, hay un mundo para ganar.
+La apreciación de la historia no consiste en juzgar a los viejos y a los
+muertos, sino que se hace para inspirar los esfuerzos presentes. Como
+"Théorie Communiste" afirma, cada ciclo de luchas trae algo nuevo basado
+en lo que paso antes, de esa manera expandiendo los límites historicos
+de las luchas (Endnotes, 2008). Quizás el potencial político de los
+hackerspaces yace precisamente en el hecho de que no se han convertido
+en un movimiento social y por lo tanto no se encuentran limitados por
+las convenciones de los movimientos sociales. Se ubican en la
+intersección entre la distopía del "taller paradisíaco geek"
+(Granzfurthner and Schneider [2009]) y la utopía de una realidad con
+espacios genuinamente contendientes que tengan un amplio impacto. Si más
+hackers pueden combinar la productividad tecnológica con el "imperativo
+manos-a-la-obra" (Levy [1968], 2001) y las amplias posibilidades de
+polinización-cruzada transversal de los hackerspaces con la crítica
+social de los hacklabs, hay un mundo para ganar.
 
 The appreciation of history is not about passing judgement on the old
 and the dead, but it is there to inspire present efforts. As Théorie
@@ -1879,7 +1924,7 @@ AvANa.net. (2005) *Cronaca della nascita di un medialab al
 forteprenestino*. http://avana.forteprenestino.net/index.htm [última visita  5/7 2011]
 
 Barlow, J.P. (1996) *A Declaration of the Independence of Cyberspace*.
-https://projects.eff.org/\~barlow/Declaration-Final.html [última visita 
+https://projects.eff.org/\~barlow/Declaration-Final.html [última visita
 10/14 2011]
 
 Bazichelli, T. (2008) *Networking — The Net as Artwork*. Aarhus: Digital
