@@ -1799,9 +1799,14 @@ progress on the issue.
 ![](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
 
 
+Figura 5. Instalación "Piratepond" del Hackney Crack House en la exibición Temporary Autonomous Art en London, 201, que incluye una Burnstation. La foto es de dominio público.
+
 Figure 5. Piratepond installation from Hackney Crack House at the
 Temporary Autonomous Art exhibition in London, 2011, including a
 Burnstation. Photo in the public domain.
+
+Finalmente, me gustaría señalar el impacto político de estas constelaciones divergentes, y preguntar hasta que punto y en que maneras contribuyen a apoyar prácticas post-capitalistas, movimientos y subjetividades. Los hacklabs dieron una ventaga tecnológica a los movimientos políticos de base, siendo pioneras en el acceso a las tecnologías de la información y comunicación y soluciones inovativas en una era donde el acceso no estaba disponible a la mayoría de las personas como un servicio para el consumo. En el lado negativo, esas iniciaticas a menudo quedan estancadas en lo que podría llamarse un "ghetto activista" o un "underground", lo que significa que inclusive el proyecto de la Burnstation descripto anteriormente era accesible solamente a un grupo social limitado. A traves de un proceso que Granzfurthner y Schneider describen como co-optasión capitalista de la resistencia fertil inherente a esas escenas ([2009]), los hackerspaces se las arreglaron para ir más alla de estos limites históricos y forjaron connecioens importantes. Esto último, continúa teniendo un efecto duradero a traves de los artefactos tecnológicos - ambos abstractos y físicos - que ellos crean, como también la innovación y mas importantemente la educación que practican. El caso de las impresoras 3D, que según Jakob Rigi puede revolucionar los procesos de producción y crear las condiciones para una sociedad basada en 
+la artesanía mas que en fábricas, es solamente uno de los posibles casos ([2011]). Más aun,  gracias a sus dinámicas mas abiertas, los hackerspaces pueden adoptar colaboración entre un amplio rango de actores sociales. Para la cultura hacker que ha logrado en los últimos años catapultarse a sí misma a la primera plana de los diarios internacionales, es de extremadamente significativo haber adquirido una red global de espacios reales de talleres que proveen infraestructura. En la atmósfera política actual, dominada por una serie de crisis, esta escena muestra vitalidad y dirección. Sin embargo, como el comando de superusuario dice, "Con gran poder, viene gran responsabilidad". 
 
 Finally I would like to make apoint about the political impact of these
 diverging constellations, and ask to what extent and in which ways they
@@ -1833,6 +1838,8 @@ atmosphere dominated by an array of crises, this scene shows vitality
 and direction. However, as the superuser command says, “With great power
 comes great responsibility”.
 
+La apreciación de la historia no consiste en juzgar a los viejos y a los muertos, sino que se hace para inspirar los esfuerzos presentes. Como "Théorie Communiste" afirma, cada ciclo de luchas trae algo nuevo basado en lo que paso antes, de esa manera expandiendo los límites historicos de las luchas (Endnotes, 2008). Quizás el potencial político de los hackerspaces yace precisamente en el hecho de que no se han convertido en un movimiento social y por lo tanto no se encuentran limitados por las convenciones de los movimientos sociales. Se ubican en la intersección entre la distopía del "taller paradisíaco geek"  (Granzfurthner and Schneider [2009]) y la utopía de una realidad con espacios genuinamente contendientes que tengan un amplio impacto. Si más hackers pueden combinar la productividad tecnológica con el "imperativo manos-a-la-obra" (Levy [1968], 2001) y las amplias posibilidades de polinización-cruzada transversal de los hackerspaces con la crítica social de los hacklabs, hay un mundo para ganar.
+
 The appreciation of history is not about passing judgement on the old
 and the dead, but it is there to inspire present efforts. As Théorie
 Communiste argues, each cycle of struggle brings something new based on
@@ -1850,9 +1857,225 @@ of the hacklabs, there is a world to win.
 
 ![](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
 
+Figura 6. La Burnstation del "Hungarian Autonomous Center for Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo. License: CC BY-NC.
+
 Figure 6. Burnstation from Hungarian Autonomous Center for Knowledge,
 exhibited at KOPIRÁJT, OSA Archivum, 2010. Photo by eapo. License: CC
 BY-NC.
+
+Obras Citadas
+-------------
+
+Agamben, G. (1998) *Homo Sacer: Sovereign Power and Bare Life*.
+Standford, CA: Stanford University Press.
+
+Anon. (2008) *Hackerspaces: The Beginning*. [e-book]
+http://blog.hackerspaces.org/2011/08/31/hackerspaces-the-beginning-the-book/
+[última visita 05/7 2011]
+
+. (2011) Interview on politics of hackerspaces. Vienna.
+
+AvANa.net. (2005) *Cronaca della nascita di un medialab al
+forteprenestino*. http://avana.forteprenestino.net/index.htm [última visita  5/7 2011]
+
+Barlow, J.P. (1996) *A Declaration of the Independence of Cyberspace*.
+https://projects.eff.org/\~barlow/Declaration-Final.html [última visita 
+10/14 2011]
+
+Bazichelli, T. (2008) *Networking — The Net as Artwork*. Aarhus: Digital
+Aesthetics Research Center.
+
+Berardi, F. (Bifo) Mecchia, G. (2007) ‘Technology and Knowledge in a
+Universe of Indetermination’. *SubStance* 36(1): 56-74.
+
+Bey, H. (1995,, 2003) *Pirate Utopias: Moorish Corsairs and European
+Renegadoes*. New York: Autonomedia.
+
+Blaze, M. (2003) ‘*Is it harmful to discuss security vulnerabilities?’*
+http://www.crypto.com/hobbs.html [última visita 10/14 2011]
+
+Braybrooke, K. (2011) ‘She-Hackers: Millennials and Gender in European
+F/LOSS Subcultures — A Presentation of Research and Invitation for
+Debate’, talk at the 4th Chaos Communication Camp, Finowfurt airport,
+8/10-14.
+
+Burgmann, V. (2005) ‘From Syndicalism to Seattle: Class and the Politics
+of Identity’. *International Labor and Working-Class History*
+67(Spring,, 2005): 1-21.
+
+Cheswick, W. R., Bellovin, S.M. and Rubin, A.D. (2003) *Firewalls and
+Internet Security: Repelling the Wily Hacker*. Boston, MA:
+Addison-Wesley (Pearson Education).
+
+Clarke, R. (2001) ‘*Information Wants to be Free …’*.
+http://www.rogerclarke.com/II/IWtbF.html [última visita 10/14 2011]
+
+Coleman, G. and Golub, A. (2008) ‘Hacker Practice: Moral Genres and The
+Cultural Articulation of Liberalism’. *Anthropological Theory* September
+8(3): 255-277.
+
+​(2010) ‘The Anthropology of Hackers’, *The Atlantic*,
+http://www.theatlantic.com/technology/archive/2010/09/the-anthropology-of-hackers/63308/
+[última visita 10/14 2011]
+
+Cosentino, R. platoniq. (2005). *Burnstation — Free Audio Culture*.
+http://burnstation.net/indexnew.html [última visita 5/7 2011]
+
+Critical Art Ensemble. (2000) Critical Art Ensemble Timeline. *TDR*44(4,
+Winter): 132-135.
+
+(2002). *Digital Resistance: Exploration in Tactical Media*, Autonomedia
+and Critical Art Ensemble: New York.
+
+Debord, G. ([1967], 1977) *Society of the Spectacle*. s.l.: Black Red.
+
+Endnotes, eds. (2008) *Endnotes 1: Preliminary Materials for a Balance
+Sheet of the 20th Century*. London: Endnotes.
+
+Farr, N. et al. (2008) ‘Building Hacker Spaces Everywhere: Your Excuses
+are Invalid’, talk at The Last HOPE (Hackers On Planet Earth), Hotel
+Pennsylvania, 7/18-20.
+
+Farr, N. (2009) ‘Respect the Past, Examine the Present, Build the
+Future’. *Hackerspaces Flux**.*
+http://blog.hackerspaces.org/2009/08/25/respect-the-past-examine-the-present-build-the-future/
+[última visita 10/14 2011]
+
+Foti, M. (2010) ‘*The New Lansdowne Club History of the building and 3D
+reconstructions: The New Lansdowne Club in 2010′*.
+http://www.newlansdowneclub3d.org.uk/ex4.html [última visita 10/13 2011]
+
+Grenzfurthner, J. and Schneider, F. A. (of monochrom). [2009] ‘*Hacking
+the Spaces’*. http://www.monochrom.at/hacking-the-spaces/ [última visita
+10/24 2011]
+
+hackerspaces.org. (2011) ‘*Hackerspaces | flux | About us’*.
+http://blog.hackerspaces.org/about/ [última visita Oct 20 2011]
+
+Hamm, M. (2003) ‘A r/c tivism in Physical and Virtual Spaces’.
+*Republicart* 9.
+http://www.republicart.net/disc/realpublicspaces/hamm02\_en.htm [última visita 10/13 2011]
+
+Hardt, M. and Negri, A. (2002) *Empire*. Cambridge, MA: Harvard
+University Press.
+
+​(2004) *Multitude*. New York: Penguin.
+
+Harvey, D. (2005,, 2007). *A Brief History of Neoliberalism.* Oxford,
+New York: OUP.
+
+Hinton, J. (1988). ‘Self-Help and Socialism the Squatters’ Movement of
+1946′. *History Workshop* 25(Spring): 100-126.
+
+Hobbs, A.C., Tomlinson, C. Fenby, J.B. [1853] (1868). *Locks and Safes:
+The Construction of Locks*. London: Virtue Co.
+
+House of Commons. (2010). ‘Early day motion 1545: Squatting’. *Website
+of the Houses of Parliament of the United Kingdom*,.
+http://www.parliament.uk/edm/2010-12/1545 [última visita 3/82010].
+
+Igoe, T. O’Sullivan, D. (2004) *Physical Computing: Sensing and
+Controlling the Physical World with Computers*. Boston, MA: Premier
+Press.
+
+Immanuel, W. (2004) *World-Systems Analysis: An Introduction*. Durham
+and London: Duke University Press.
+
+Johns, A. (2009) ‘Piracy as a Business Force’. *Culture Machine* 10.
+http://www.culturemachine.net/index.php/cm/issue/view/21 [última visita
+5/7 2012]
+
+Levy, S. [1968] (2001). *Hackers: Heroes of the Computer Revolution*,
+New York: Penguin.
+
+Lotringer, S. and Marazzi, C., eds. (2007). *Autonomia: Post-Political
+Politics*. Los Angeles: Semiotext(e).
+
+Make Magazine (2011) *DIY Projects, Inspiration, How-tos, Hacks, Mods
+More @ Makezine.com – Tweak Technology to Your Will*.
+http://makezine.com/volumes/index.csp [última visita Oct 14 2011]
+
+Metalab (2011) ‘*Stadtflucht’*. https://metalab.at/wiki/Stadtflucht
+[última visita 10/20 2011]
+
+MIT’s Center for Bits and Atoms. (2007) ‘*The Fab Charter’.*
+http://fab.cba.mit.edu/about/charter/ [última visita 3/20 2012].
+
+Morris, D. (2004) ‘Globalisation and Media Democracy: The Case of
+Indymedia’. In Schuler, D. Day, P. (eds) *Shaping the Network Society:
+The New Role of Civil Society in Cyberspace.* Massachusetts, MA: MIT
+Press.
+
+Ohlig, J. and Weiler, L. (2007) ‘Building a Hackerspace’, talk at 24C3,
+the 24th Chaos Communication Congress, Berliner Congress Center,
+12/27-30.
+
+Pettis, B. et al. (2008) ‘Building an international movement:
+hackerspaces.org’, talk at 25C3, the 25th Chaos Communication Congress,
+Berliner Congress Center, 12/27-30.
+
+Parliament of the United Kingdom. (2010) *Digital Economy Act*. [act of
+parliament]
+http://www.legislation.gov.uk/ukpga/2010/24/pdfs/ukpga\_20100024\_en.pdf
+[última visita Oct 20 2011]
+
+Proudhon, P-J. (2007) [1840]. ‘Chapter I: Method Pursued In This Work —
+The Idea of a Revolution’. In *What is Property?* Wikimedia Foundation.
+http://en.wikisource.org/wiki/What\_is\_Property%3F/1 [última visita 5/7
+2011]
+
+Rigi, J. [2011] (unpublished). Peer to Peer Production and Advanced
+Communism: The Alternative to Capitalism.
+
+Slatalla, M. and Quittner, J. (1995) *Masters of Deception: The Gang
+that Rules Cyberspace*. New York: HarperCollins.
+
+Söderberg, J. (2011) ‘Free Space Optics in the Czech Wireless Community:
+Shedding Some Light on the Role of Normativity for User-Initiated
+Innovations ‘*. Science Technology Human Values*September 36: 423.
+
+Steele, G.L. Raymond, E.S. eds. (1996) *The New Hacker’s Dictionary*
+(3rd ed.). Cambridge, MA, London: MIT Press.
+
+Stef. (2009) ‘WTF: hackerspace’, talk at New Tech Meetup, Dürer Kert, 06
+2009.
+
+Sterling, Bruce (1992) *The Hacker Crackdown*. New York: Bantam.
+
+Taylor, Charles (1989) *Sources of the Self: The Making of Modern
+Identity*. Cambridge, MA: Harvard University Press.
+
+*Telestreet: The Italian Media Jacking Movement* (2005) Directed by And.
+http://www.archive.org/details/telestreet2 [última visita 08/3 2011]
+
+Usher, S. (2010) ‘Amsterdam protest at new squatting laws’. *BBC News
+Europe*, 10/2. http://www.bbc.co.uk/news/world-europe-11458225 [última visita 3/8 2011]
+
+Willemsen, M. (2006) ‘Telestreet: Squatting Frequencies — Merel
+Willemsen in conversation with Agnese Trocchi, co-founder of Candida
+TV’. *Untitled Magazine* 37(Spring).
+http://www.cascoprojects.org/?programme=allentryid=89 [última visita 5/7
+2011]
+
+Wright, S. (2002). *Storming Heaven: Class composition and struggle in
+Italian Autonomist Marxism*. London: Pluto Press.
+
+Yuill, S. (2008) All Problems of Notation Will be Solved by the Masses,
+*Mute — Politics and Culture after the
+Net*http://www.metamute.org/en/All-Problems-of-Notation-Will-be-Solved-by-the-Masses
+[última visita 5/7 2011]
+
+Wikipedia contributors (2010a) ‘*History: Hacklab’.*
+http://en.wikipedia.org/w/index.php?title=Hacklabaction=history [última visita Oct 10 2011]
+
+(2010b) ‘*Talk: Hacklab’.* http://en.wikipedia.org/wiki/Talk:Hacklab
+[última visita 10/10 2011]
+
+(2011). ‘*History: Hackerspace’.*
+http://en.wikipedia.org/w/index.php?title=Hacklabaction=history [última visita 10/10 2011]
+
+
+
 
 Cited works
 -----------
