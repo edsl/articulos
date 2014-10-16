@@ -292,7 +292,7 @@ abolishment of laws protecting squatters in the Netherlands (Usher,,
 2010) and discussion of the same in the UK (House of Commons,, 2010).
 
 
-El mediactivismo se desarrolló por vías similares, sobre la base de una tradición de publicaciones independientes. Adrian Jones (2009) aduce una continuidad no sólo estructural sino que también histórica en las prácticas de las radios piratas de los años 60' y los conflictos de copyright contemporáneos protagonizados por la Pirate Bay. Desde un punto de vista estrictamente del activismo, una contribución temprana  importante fue Radio Alice (est., 1976) que emergió desde la escena autonomista en Bologna (Berardi Mecchia, 2007). Las radios piratas y su contraparte reformista, las estaciones de radio comunitarias, florecieron desde entonces. Sin embargo, rekuperar las frecuencias de radio era solamente un primer paso. Como explica Dee Dee Halleck, las mediactivistas pronto comenzarían a hacer uso de productos electrónicos caseros, como las cámaras filmadoras que se encontraron disponibles en el mercado desde finales de los ochentas en adelante. Organizaron la producción en colectivos como "Paper Tiger Television" y la distribución en iniciativas de bases como "Deep Dish TV" que se focalizaba en tiempo de aire satelital (Halleck, 1998). El siguiente paso lógico eran las tecnologías de la información y comunicación como las computadoras personales -que aparecían en el mercado en ese mismo tiempo. Eran diferente a las cámaras filmadoras en el sentido de que eran una herramienta de procesamiento de información para propósitos generales. Con la combinación del acceso comercial a Internet, cambió el panorama de la defensa política y las formas de organización. En la vanguardia de las teorías y prácticas en desarrollo alrededor de las nuevas tecnologías de la comunicación estaba el "Critical Art Ensemble". Empezó con trabajos en video en 1986, pero continuó con otras tecnologías emergentes (Critical Art Ensemble, 2000). Aunque han publicado exclusivamente trabajos basados en Internet como “Diseases of the Consciousness” (1997), su aproximación táctica a los medios enfatiza el uso de la herramienta correcta para el trabajo correcto. En 2002 organizaron un taller en el Eyebeam de Nueva York, que pertenece a la escena mas amplia de hackerspaces. Las nuevas mediactivistas jugaron un rol en la emergencia del movimiento de globalización-alternativa, estableciendo la red Indymedia. Indymedia esta compuesta por centros locales de medios independientes y una infraestructura global que los mantiene juntos (Morris 2004 da una descripción justa). Focalizándose en publicaciones abiertas como principio editorial, la iniciativa rápidamente unió e involucró a tantas activistas que devino rápidamente una de las marcas mas reconocidas del movimiento de globalización-alternativa, lentamente cayendo a la irrelevancia solamente a finales de la década. Más o menos paralelo a este desarrollo, el movimiento "Telestreet" era encabezado por Franco Berardi, también conocido como Bifo, quien estuvo involucrado en Radio Alice, mencionada con anterioridad. OrfeoTv comenzó en 2002 y usaba recibidores modificados de televisiones comerciales para transmisión televisiva pirata. (ver Telestreet, the Italian Media Jacking Movement, 2005). Aunque la iniciativa Telestreet pasó en una escala mucho menor que los desarrollos esbozados anteriormente, vale la pena señalarla ya que  las operadoras de Telestreet hicieron ingeniería inversa en productos masivos de la misma manera que lo hacen las hackers.
+El mediactivismo se desarrolló por vías similares, sobre la base de una tradición de publicaciones independientes. Adrian Jones (2009) aduce una continuidad no sólo estructural sino que también histórica en las prácticas de las radios piratas de los años 60' y los conflictos de copyright contemporáneos protagonizados por la Pirate Bay. Desde un punto de vista estrictamente del activismo, una contribución temprana  importante fue Radio Alice (est., 1976) que emergió desde la escena autonomista en Bologna (Berardi Mecchia, 2007). Las radios piratas y su contraparte reformista, las estaciones de radio comunitarias, florecieron desde entonces. Sin embargo, rekuperar las frecuencias de radio era solamente un primer paso. Como explica Dee Dee Halleck, las mediactivistas pronto comenzarían a hacer uso de productos electrónicos caseros, como las cámaras filmadoras que se encontraron disponibles en el mercado desde finales de los ochentas en adelante. Organizaron la producción en colectivos como "Paper Tiger Television" y la distribución en iniciativas de bases como "Deep Dish TV" que se focalizaba en tiempo de aire satelital (Halleck, 1998). El siguiente paso lógico eran las tecnologías de la información y comunicación como las computadoras personales -que aparecían en el mercado en ese mismo tiempo. Eran diferente a las cámaras filmadoras en el sentido de que eran una herramienta de procesamiento de información para propósitos generales. Con la combinación del acceso comercial a Internet, cambió el panorama de la defensa política y las formas de organización. En la vanguardia de las teorías y prácticas en desarrollo alrededor de las nuevas tecnologías de la comunicación estaba el "Critical Art Ensemble". Empezó con trabajos en video en 1986, pero continuó con otras tecnologías emergentes (Critical Art Ensemble, 2000). Aunque han publicado exclusivamente trabajos basados en Internet como *Diseases of the Consciousness* (1997), su aproximación *táctica mediática* (tactical media) enfatiza el uso de la herramienta correcta para el trabajo correcto. En 2002 organizaron un taller en el Eyebeam de Nueva York, que pertenece a la escena mas amplia de hackerspaces. Las nuevas mediactivistas jugaron un rol en la emergencia del movimiento de globalización-alternativa, estableciendo la red Indymedia. Indymedia esta compuesta por centros locales de medios independientes y una infraestructura global que los mantiene juntos (Morris 2004 da una descripción justa). Focalizándose en publicaciones abiertas como principio editorial, la iniciativa rápidamente unió e involucró a tantas activistas que devino rápidamente una de las marcas mas reconocidas del movimiento de globalización-alternativa, lentamente cayendo a la irrelevancia solamente a finales de la década. Más o menos paralelo a este desarrollo, el movimiento "Telestreet" era encabezado por Franco Berardi, también conocido como Bifo, quien estuvo involucrado en Radio Alice, mencionada con anterioridad. OrfeoTv comenzó en 2002 y usaba recibidores modificados de televisiones comerciales para transmisión televisiva pirata. (ver Telestreet, the Italian Media Jacking Movement, 2005). Aunque la iniciativa Telestreet pasó en una escala mucho menor que los desarrollos esbozados anteriormente, vale la pena señalarla ya que  las operadoras de Telestreet hicieron ingeniería inversa en productos masivos de la misma manera que lo hacen las hackers.
 
 Media activism developed along similar lines, building on a long
 tradition of independent publishing. Adrian Jones (2009) argues for a
@@ -745,19 +745,19 @@ the hackerspaces movement, sporting the slogan “build! unite! multiply!”
 (hackerspaces.org, 2011). A survey of the founding date of the 500
 registered hackerspaces show a growing trend from 2008 (see Figure 2).
 
-Notablemente, la mayoría de estos desarrollos se focalizaron en las
+Notablemente, la mayoría de estos desarrollos se centraron en las
 características formales de los hackerspaces, por ejemplo como manejar
 problemas y hacer crecer una comunidad. Enfatizaban un modelo de
-membresía abierta para mantener un espacio común de trabajao que
+membresía abierta para mantener un espacio común de trabajo que
 funcione como un ambiente de producción cooperativo, socializante y de
-aprendizaje. Sin embargo, el contenido de las actividades que
-transcurren en los hackerspaces tambíen muestra una gran consistencia.
+aprendizaje. Sin embargo, los contenidos de las actividades que
+transcurren en los hackerspaces tambíén muestran una gran consistencia.
 Las tecnologías usadas pueden ser descriptas como capas de
-sedimentación: las nuevas tecnologias ocupan su lugar al lado de las
-viejas, sin convertirse en absolutamente obsoletas. En primera
-isntancia, el hecho de que las hackers colaboren en un espacio físico
-significó un resurgimiento del trabajo en electrónica, que se unía con
-la tendencia establesida de toquetear computadoras físicas. Un esbozo de
+sedimentación: las nuevas tecnologías ocupan su lugar al lado de las
+viejas, las cuales no se convierten en absolutamente obsoletas. En primera
+instancia, el hecho de que las hackers colaboren en un espacio físico
+significó un resurgimiento del trabajo en electrónica, que se unió con
+la tendencia establecida de toquetear computadoras físicas. Un esbozo de
 las áreas de investigación conectadas puede ser (en orden de aparición):
 desarrollo de software libre, reciclaje de computadoras, redes mesh
 inalámbricas, microelectrónica, hardware abierto, impresión 3d, talleres
@@ -779,42 +779,7 @@ order of appearance): free software development, computer recycling,
 wireless mesh networking, microelectronics, open hardware, 3D printing,
 machine workshops and cooking.
 
-A partir de esta línea del tiempo rudimentaria, es evidente que las
-actividades en los hackerspaces han gravitado alrededor de lo físico.
-Podríamos extendernos en las trayectorias individuales de todas esas
-áreas tecnológicas, pero aquí haremos foco en la microelectrónica. Esta
-elección se debe a que la microelectrónica tuvo un rol principal en dar
-el primer empujón a los hackerspaces, como se evidencia en la
-popularidad de clases de electrónica básica y talleres de
-microcontroladores programables en los programas de los hackerspaces
-jovenes.La computación física fue esbozada por Igoe y O’Sullivan en
-*Computadoras Físicas: sintiendo y controlando el mundo físico con
-computadoras* (2004), y tuvo un gran inpacto en toda la escena de las
-computadoras. Este nuevo marco de trabajo en la interacción
-humano-máquina subrayó la manera en la que la gente se comporta en
-situaciones cotidianas usando todo su cuerpo, y abrió el camino para la
-investigación exploratoria a través de la construcción de aparatos
-inteligentes. Al otro año O'Reilly Media comenzó a publicar la revista
-"Make" que se focaliza en tecnología hagalo-usted-mismo, incluyendo
-tutoriales, recetas, y comentarios. Entre las autoras se encuentran
-muchas de las celebridades de la subcultura hacker. "La primer revista
-dedicada a proyectos digitales, hackeo de hardware, e inspiración DIY.
-Fotografía aérea en cometas, estabilizador de cámara de vídeo, lector de
-tarjetas de banda magnética, y mucho más." (Make Magazine, 2011) En
-Europa, Massimo Banzi y otras comenzaron a trabajar en la invención del
-Arduino, una placa de microcontrolador programable con un software de
-interface fácil-de-usar. Este sistema microcontrolador "amigable" para
-las amateurs se convirtió en el sello de los talleres de hackerspaces y
-de artistas e inició a toda una nueva generación en el armado rápido de
-prototípos y trabajo electrónico. Para armarlo un poco, la computación
-física proveyó un área teórica a ser explorada, y el Arduino se
-convirtió en su aplicación más popular, mientras que la revista MAKE y
-medios parecidos facilitaron el esparcimiento de los resultados de
-investigación. Queda abierto para la especulación como esta tendencia
-encaja en el marco mas amplio de lo uqe parece ser un cambio en las
-sensibilidades de la sociedad en su conjunto. Si los 90' fueron marcados
-por una preocupación por los discursos y lenguajes, hoy en día se da
-preminencia a materialidades y  corporalidades.
+A partir de esta línea del tiempo rudimentaria, es evidente que las actividades en los hackerspaces han gravitado alrededor de lo físico. Podríamos extendernos en las trayectorias individuales de todas esas áreas tecnológicas, pero aquí haremos foco en la microelectrónica. Esta elección se debe a que la microelectrónica tuvo un rol principal en dar el primer empujón a los hackerspaces, como se evidencia en la popularidad de clases de electrónica básica y talleres de micro-controladores programables en los programas de los hackerspaces jóvenes. La computación física fue esbozada por Igoe y O’Sullivan en *Computadoras Físicas: sintiendo y controlando el mundo físico con computadoras*(2004), y tuvo un gran impacto en toda la escena de las computadoras. Este nuevo marco de trabajo en la interacción humano-máquina subrayó la manera en la que la gente se comporta en situaciones cotidianas usando todo su cuerpo, y abrió el camino para la investigación exploratoria a través de la construcción de aparatos inteligentes. Al otro año O'Reilly Media comenzó a publicar la revista "MAKE" que se focaliza en tecnología hagalo-usted-mismo, incluyendo tutoriales, recetas, y comentarios. Entre las autoras se encuentran muchas de las celebridades de la subcultura hacker. "La primer revista dedicada a proyectos digitales, hackeo de hardware, e inspiración DIY. Fotografía aérea en cometas, estabilizador de cámara de vídeo, lector de tarjetas de banda magnética, y mucho más." (Make Magazine, 2011) En Europa, Massimo Banzi y otras comenzaron a trabajar en la invención del Arduino, una placa de micro-controlador programable con un software de interface fácil-de-usar. Este sistema micro-controlador "amigable" para las amateurs se convirtió en el sello de los talleres de hackerspaces y de artistas e inició a toda una nueva generación en el armado rápido de prototipos y trabajo electrónico. Para armarlo un poco, la computación física proveyó un área teórica a ser explorada, y el Arduino se convirtió en su aplicación más popular, mientras que la revista MAKE y medios parecidos facilitaron el esparcimiento de los resultados de investigación. Queda abierto para la especulación como esta tendencia encaja en el marco mas amplio de lo que parece ser un cambio en las sensibilidades de la sociedad en su conjunto. Si los 90' fueron marcados por una preocupación por los discursos y lenguajes, hoy en día se da predominancia a materialidades y corporalidades.
 
 From this rudimentary time line, it is evident that activities in
 hackerspaces have gravitated towards the physical. The individual
@@ -849,34 +814,7 @@ sensibilities in society at large. If the 1990s was marked by a
 preoccupation with discourses and languages, preeminence is now given to
 materialities and embodiedness.
 
-El Centro Autonomo Hungariano para el Conocimiento en Budapest es un
-típico hackerspace de la tercer ola. Fue fundado en 2009 despues de una
-presentación en el encuentro local de nuevas tecnologías, que a su vez
-había sido inspirado por la presentación de hackerspaces en Berlin
-(Stef, 2009). El lugar esta compuesto por un espacio de trabajo, una
-cocina, un cuarto de descanzo y una terraza en un centro cultural
-citadino que anfitriona ateliers para artistas junto a un bar y algunas
-tiendas. La renta se cubre con el pago de las membresías y donaciones de
-individuos, compañias y otras organizaciones.A las miembros les
-corresponde una llave, mientras que las visitantes pueden averiguar
-cuando esta abierto el espacio gracias a un sistema de señal en tiempo
-real que se llama Hacksense. Que muestra el status del lab en su página
-web, cuenta de twitter y una base de datos. Por lo tanto, las visitantes
-son bienvenidas en cualquier momento, en especial a los eeventos
-anunciados que pasan un algunas veces cada mes. Estos incluyen tanto
-encuentros y eventos comunitarios, como talleres prácticos,
-presentaciones y cursos. Acorde a los lineamientos de diseño de
-hackerspaces, se dan discusiones de orientación semanales los días
-jueves, donde se toman decisiones basadas en un consenso aproximado. Los
-hackatones son eventos especiales donde mucha gente trabaja en temas
-anunciados por seis horas o un día entero. Estos eventos son
-sincronziados a veces internacionalmente con otros hackspaces. Sin
-embargo, la mayoría de las actividades transcurren en términos mas
-ad-hocraticos, dependiendo del plan horario y capricho de las
-participantes. Por esta razón, el canal de chat online y la página wiki
-son fuertemente usadas para la cordinación, documentación y
-socialización. Los proyectos pertenecen usualmente a uno o mas
-individuos, pero algunos proyectos están "refrendados" por casi todas.
+El Centro Autónomo Hungariano para el Conocimiento en Budapest es un típico hackerspace de la tercer ola. Fue fundado en 2009 después de una presentación en el encuentro local de nuevas tecnologías, que a su vez había sido inspirada por la presentación de hackerspaces en Berlin (Stef, 2009). El lugar esta compuesto por un espacio de trabajo, una cocina, un cuarto de descanso y una terraza en un centro cultural citadino que anfitriona ateliers para artistas junto a un bar y algunas tiendas. La renta se cubre con el pago de las membresías y donaciones de individuos, compañías y otras organizaciones. A las miembros les corresponde una llave, mientras que las visitantes pueden averiguar cuando esta abierto el espacio gracias a un sistema de señal en tiempo real que se llama Hacksense. Que muestra el estatus del lab en su página web, cuenta de twitter y una base de datos. Por lo tanto, las visitantes son bienvenidas en cualquier momento, en especial a los eventos anunciados que pasan algunas veces cada mes. Estos incluyen tanto encuentros y eventos comunitarios, como talleres prácticos, presentaciones y cursos. Acorde a los lineamientos de diseño de hackerspaces, se dan discusiones de orientación semanales los días jueves, donde se toman decisiones basadas en un consenso aproximado. Los hackatones son eventos especiales donde mucha gente trabaja en temas anunciados por seis horas o un día entero. Estos eventos son sincronizados a veces internacionalmente con otros hackspaces. Sin embargo, la mayoría de las actividades transcurren en términos mas ad-hocraticos, dependiendo del plan horario y capricho de las participantes. Por esta razón, el canal de chat online y la página wiki son fuertemente usadas para la coordinación, documentación y socialización. Los proyectos pertenecen usualmente a uno o mas individuos, pero algunos proyectos están "refrendados" por casi todas.
 
 The Hungarian Autonomous Center for Knowledge in Budapest is a fairly
 typical third wave hackerspace. It was founded in 2009 after a
