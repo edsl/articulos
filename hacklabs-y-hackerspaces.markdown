@@ -841,35 +841,35 @@ chat channel and the wiki website are heavily used for coordination,
 documentation and socialisation. Projects usually belong to one or more
 individual, but some projects are endorsed by almost everybody.
 
-Entre los proyectos que se dan en el Centro Autonomo Hungariano para el
+Entre los proyectos que se dan en el Centro Autónomo Hungariano para el
 Conocimiento, algunos son proyectos de puro software. Uno de estos casos
 es f33dme, un lector de "feeds" basado en navegador. f33dme es un
 proyecto popular en el hackerspace y mientras que más gente lo adopta
 para sus necesidades, se hace cada vez mas robusto y más características
-se le agregan en el tiempo. Aunque esto no tiene nada de neuvo comparado
+se le agregan en el tiempo. Aunque esto no tiene nada de nuevo comparado
 con el modelo de desarrollo de software libre que se puede encontrar en
-otras partes, el hecho de que hay una comunidad de usuarias
-coporporalizada ha contribuído a su éxito. También tienen "hardware
+otras partes, el hecho de que haya una comunidad de usuarias
+coporporalizada ha contribuido a su éxito. También tienen "hardware
 hacks" como el SIDBox, que está construido con el chip de música de una
 vieja computadora Commodore C64, al que le añadieron un input USB  y un
-output de mini-jack. Esto habilita al usuario a reproducir música
-contenmporánea usando el chip como una placa de sonido externa. Una
-"esquina de hardware" simpre en expansión con partes electrónicas,
-soldadores y multimetros facilita este tipo de trabajo. Las miembros son
-trabajadoras precarias en TIC, investigadoras en compañias de seguridad
+output de mini-jack. Esto habilita a la usuaria a reproducir música
+contemporánea usando el chip como una placa de sonido externa. Una
+"esquina de hardware" siempre en expansión con partes electrónicas,
+soldadores y multímetros facilita este tipo de trabajo. Las miembros son
+trabajadoras precarias en TICs, investigadoras en compañías de seguridad
 informática, y/o estudiantes en los campos relacionados. Es un aspecto
 significante para la viabilidad del hackerspace que bastantes
-integrantes del núcleo de miembros  trabajan en horarios fexlibres o
+integrantes del núcleo de miembros  trabajan en horarios flexibles o
 sólo trabajan ocasionalmente, así que durante algunos períodos tienen
 tiempo para dedicarle al hackerspace. Algunas de las actividades tienen
-una intencionalidad política directa, concentrandose mayoritariamente en
+una intencionalidad política directa, concentrándose mayoritariamente en
 temas como "open data", transparencia y privacidad. Es notable la
 colaboración con grupos que hacen campaña en pos de los derechos de la
-información  en el Parlamento europeo y en paises europeos, o ayudan a
-periodistas a conseguir un conjunto de datos de databases de acceso
-público. EL hackerspace envía delegaciones que lo representan en eventos
+información en el Parlamento europeo y en países europeos, o ayudan a
+periodistas a conseguir un conjunto de datos de bases de datos de acceso
+público. El hackerspace envía delegaciones que lo representan en eventos
 ante el movimiento global de hackerspaces, como en el Congreso
-anteriormente mencionado y en el  "Chaos Communication Camp", y en
+mencionado mas arriba y en el  "Chaos Communication Camp", y en
 algunos mas pequeños como el "Stadtflucht sojourn" organizado por
 Metalab, un hackerspace en Vienna (Metalab, 2011).
 
@@ -902,17 +902,17 @@ the aforementioned Congress and the Chaos Communication Camp, and
 smaller ones such as the Stadtflucht sojourn organised by Metalab, a
 hackerspace in Vienna (Metalab, 2011).
 
-Para concluir, la emergencia de hackerspaces está alineada con una
-trayectoria más larga en el movimiento hacker, que gradualmente a ganado
-más estructuras institucionales. El giro hacia lo físico (prinsipalmente
+En conclusión, la emergencia de hackerspaces está alineada con una
+trayectoria más larga en el movimiento hacker, que gradualmente ha ganado
+más estructuras institucionales. El giro hacia lo físico (principalmente
 a través del uso de micro-controladores) marcó el punto en donde los
 hackerspaces se esparcieron, debido a que el desarrollo y colaboración
 en ese tipo de proyectos es facilitada de gran manera teniendo un
 espacio compartido. Mientras que la mayoría de los discursos y las
-inovaciones en la comunidad se han focalizado en la forma organizacional
+innovaciones en la comunidad se han focalizado en la forma organizacional
 más que en el contenido político de los hackerspaces, ese menos definido
-y mas inclinado hacia el liberalismo contenido político, permitió que el
-movimiento se esparsa y forge conexxiones en múltiples direcciones sin
+y mas inclinado hacia el liberalismo, permitió que el
+movimiento se esparza y forje conexiones en múltiples direcciones sin
 perder su propio empuje: desde las empresas a través de la sociedad
 civil hasta un público general.
 
@@ -942,7 +942,7 @@ Figura 3. Las dos figuras previas superimpuestas en pos de la clarificación.
 4. Hacklabs y Hackerspaces
 --------------------------
 
-Habíendo marcado las genealogías paralelas de los hacklabs y los
+Habiendo marcado las genealogías paralelas de los hacklabs y los
 hackerspaces, nos es ahora posible contrastar entre sí estos dos tipos
 ideales y hacer algunas observaciones comparativas. Con la intención de
 ser breves, solo algunos puntos serán señalados en esta sección.
@@ -964,18 +964,18 @@ y el hackerspace desarrollaban y presentaban el mismo artefacto. El
 artefacto en cuestión se llama "Burnstation". Inclusive un breve
 bosquejo de las diferentes direcciones en las que la "Burnstation" se
 desarrolló puede servir para iluminar algunos puntos claves que se
-deriban de las genealogías históricas y conceptuales que se mencionaron
+derivan de las genealogías históricas y conceptuales que se mencionaron
 antes. La Burnstation es un "kiosko" físico que le permite al usuario
 navegar, escuchar, seleccionar, y quemar a un CD o copiar a un USB
 archivos de audio desde una base de datos de música (Rama Cosentino
-platoniq, 2003). La Burnstation original fue inventada en el riereta en
-Barcelona, que empezó como un hacklab focalizado en media en 2001 y que
-después se institucinalizó en 2005, cuando recibió financiación por
+platoniq, 2003). La Burnstation original fue inventada en el Riereta en
+Barcelona, que empezó como un hacklab de focalización media en 2001 y que
+después se institucionalizó en 2005, cuando recibió financiación por
 parte de las autoridades locales - lo que significa que hoy en día es
-más un hackerspace.Subyacentemente de esta transformación, también esta
+más un hackerspace. Subyacentemente de esta transformación, también esta
 registrado en hackerspaces.org. Las abundantes variaciones de la
 Burnstation han sido mostradas en público en distintos contextos de
-exibición como también haver sido ampliamente usados en hacklabs y
+exhibición como también han sido ampliamente usadas en hacklabs y
 hackerspaces. Fotografías de como se veían la Burnstation original y sus
 dos derivadas en algún momento del proceso de desarrollo se pueden ver
 en la Figura 4 (Rama et al), Figura 5 (HCH) y la Figura 6 (H.A.C.K.).
@@ -1004,25 +1004,25 @@ Figure 5 (HCH) and Figure 6 (H.A.C.K.).
 
 La diferencia mas chocante entre las dos implementaciones recientes de
 la Burnstation es que en la versión construida por la gente del hacklab,
-el concepto fue alterado de que la colección de música incluya
-exclusivamente material bajo la licencia Creative Commons que puede ser
-libremente distribuido, a una librería "vale todo", incluyendo muchos
-archvos que son ilegales de copiar. El mensaje fue entonces radicalmente
-cambiado del consumo y celebración de los frutos de un nuevo tipo de
-régimen de producción, a uno que enfatisa la piratería y la
-transgresión. La exposición pública  de la isntalación era una
+el concepto fue alterado para que la colección de música incluya en vez de
+material solamente bajo la licencia Creative Commons que puede ser
+libremente distribuido, a también una librería "vale todo", incluyendo muchos
+archivos que son ilegales de copiar. El mensaje fue entonces radicalmente
+cambiado pasando del consumo y celebración de los frutos de un nuevo tipo de
+régimen de producción, a uno que enfatiza la piratería y la
+transgresión. La exposición pública  de la instalación era una
 declaración contra el "Digital Economy Act" que recién se implementaba
 en el Reino Unido. Este acta criminalizaba el compartir archivos y
-amenazaba con suspender el acceso a internet en los casos donde los
+amenazaba con suspender el acceso a Internet en los casos donde los
 derechos de la propiedad intelectual fuesen violados (Parliament of the
-United Kingdom, 2010). Por lo tanto la isntalación promovía actividades
-ilegales en directa oposición con las politicas estatales vigentes - lo
+United Kingdom, 2010). Por lo tanto la instalación promovía actividades
+ilegales en directa oposición con las políticas estatales vigentes - lo
 que no era tan controversial como suena, ya que las salas y exposiciones
 donde se la mostraba estaban ellas mismas bajo una base legal frágil. En
 contraste, la Burnstation desarrollada por  el hackerspace apareció en
-una exibición del 300 aniversario del copyright en una institución
+una exhibición del 300 aniversario del copyright en una institución
 prestigiosa, mostrando prácticas y marcos legislativos alternativos a la
-concepción tracicional de los derechos de propiedad intelectual.
+concepción tradicional de los derechos de propiedad intelectual.
 
 The most striking difference between the two recent reimplementations of
 Burnstation is that in the version built by the hacklab people, the
@@ -1050,21 +1050,21 @@ en las soluciones para la interacción con el usuario. La versión del
 hackerspace estaba basada en una versión actualizada del software y
 hardware original: una interface web amigable corriendo detrás de una
 pantalla táctil. La versión del hacklab, por otro lado, reimplementó el
-software en un entorno solo de texto y tenía un teclado pintado,
+software en un entorno "solo texto" y tenía un teclado pintado,
 proveyendo una experiencia de navegación mas arcana. Más aún, la
-instalación exibida estaba ubicada en un entorno temático pirata y la
-computadora sólo podía ser alcanzada a traves de una pileta pelopincho.
+instalación exhibida estaba ubicada en un entorno temático pirata y la
+computadora sólo podía ser alcanzada a través de una pileta pelopincho.
 Las dos modalidades diferentes corresponden a las dos tendencias mas
 grandes en el diseño de interfaces: mientras que una apunta a una
 experiencia mas transparente y suave, la otra monta barreras para
-enfatisar la interfase de una manera lúdica. En conclusión, las miembros
+enfatizar la interfase de una manera lúdica. En conclusión, las miembros
 del hackerspace crearon una experiencia alternativa que encajaba más
 fácilmente en al concepción hegemónica de la propiedad intelectual y la
 amigabilidad para el usuario, mientras que el equipo del hacklab
 desafiaba esas mismas nociones hegemónicas, poniendo en primer plano la
 libertad y el deseo. Al mismo tiempo, se ve a primera vista que muchos
-factores atan juntos a ls dos proyectos.  Ambos grupos llevaron a cabo
-un proyecto colectivo abierto a la colaboración y basandose en
+factores atan juntos a los dos proyectos.  Ambos grupos llevaron a cabo
+un proyecto colectivo abierto a la colaboración y basándose en
 resultados existentes de iniciativas similares, usando tecnología
 antigua y componentes reciclados creativamente. En última instancia,
 ambos proyectos se alejaron de una relación con la tecnología
@@ -1111,18 +1111,18 @@ político-cultural. Desde que florecieron los hacklabs en el momento en
 que el acceso a Internet e inclusive a computadoras era un recurso
 escaso y las computadoras de escritorio con software libre no eran
 triviales, su contribución en el área de tecnología acceso y redes era
-crucial. Mas aun, su contribución al desarrollo tecnológico y mensajes
-políticos - por ejemplo el caso de la red Indymedia - encajaban en el
-patron del movimiento de globalización-alternativa, mientras que
-compartían algunos de sus mismas carencias. Similarmente, algunos años
+crucial. Mas aún, su contribución al desarrollo tecnológico y mensajes
+políticos - por ejemplo el caso de la red Indymedia - encajaba en el
+patrón del movimiento de globalización-alternativa, mientras que
+compartía algunas de sus mismas carencias. Similarmente, algunos años
 después, los hackerspaces empujaron los límites de la tecnología
-disponible en el momento al adoptar y mejorar microcontroladores e
-impresoras 3D. En el momento de escritura, estos son los únicos espacios
+disponible en el momento, al adoptar y mejorar micro-controladores e
+impresoras 3D. Al momento de escritura, estos son los únicos espacios
 donde el un público general puede libremente acceder y aprender sobre
-estos dispositivos, aunque no esta claro si estos se volveran tan
+estos dispositivos, aunque no esta claro si estos se volverán tan
 ubicuos en la vida diaria como las computadoras y las redes. La
-diferencia más importante es que los hackerspaces esque no están
-incrustados y comprometidos concientemente con un proyecto o idea
+diferencia más importante es que los hackerspaces es que no están
+incrustados y comprometidos conscientemente con un proyecto o idea
 abiertamente político. Por supuesto que esto no previene que se
 emprendan proyectos políticos en los hackerspaces. En el mejor de los
 casos, la ausencia de una ideología abiertamente declarada puede
@@ -1158,20 +1158,20 @@ orientated towards white middle class tech-savvy males, a claim to be
 investigated below.
 
 Un asunto más abstracto para señalar las diferencias estructurales entre
-hacklabs y hackerspace ses sus políticas y prácticas hacia la inclusión
-y exclusión. Por un lado, la orientación autónoma o anarquísta de los
-hacklabs contrasta mucho con la orientaciñon liberal o libertaria de la
+hacklabs y hackerspaces es sus políticas y prácticas hacia la inclusión
+y exclusión. Por un lado, la orientación autónoma o anarquista de los
+hacklabs contrasta mucho con la orientación liberal o libertaria de la
 mayoría de los hackerspaces. Por otro lado, ya que los hacklabs son más
 integrales a un movimiento político mas amplio, aspectos no-técnicos
-juegan un rol más grande en como son manejados. Un ejemplo contreto es
+juegan un rol más grande en como son manejados. Un ejemplo concreto es
 que mientras que el sexismo y comportamientos similarmente ofensivos son
-vistos como razones legitimas para exluír a un individo de los hacklabs,
+vistos como razones legítimas para excluir a un individuo de los hacklabs,
 en los hackerspaces esos temas son altamente controversiales y son
 discutidos largamente en vano (como en Metalab) o simplemente no se
 abordan (como en H.A.C.K.). Aún así, una conferencia y discusión en el
 último Chaos Communication Camp mostró que aunque la cultura hacker es
 todavía de una orientación abrumadoramente masculina, se ha convertido
-en la última decada cada vez mas acogedora hacia mujeres y minorías
+en la última década cada vez mas acogedora hacia mujeres y minorías
 sexuales (Braybrooke, 2011).
 
 A more abstract issue to address in order to highlight the structural
@@ -1193,16 +1193,16 @@ more welcoming to women and sexual minorities in the last decade
 
 Las diferentes prioridades de hacklabs y hackerspaces pueden ser
 demostradas en sus políticas divergentes alrededor de la accesibilidad
-en sillas de ruedas. Mientras que el hacklab en London descrito
+en sillas de ruedas. Mientras que el hacklab en Londres descrito
 anteriormente no era accesible en sillas de ruedas, se había construido
 una rampa para la casa para que lo sea. Las discusiones sobre sesiones
 de entrenamiento abiertas abordaron el tema, y se planeó un cuarto de
 computadoras temporal en la planta baja. En una veta similar, el
-hackerspace llamado Metalaba en Vienna fue hecho accesible en silla de
+hackerspace llamado Metalab en Vienna fue hecho accesible para silla de
 ruedas, y hasta se instaló un baño para silla de ruedas, que usaba
 regularmente un visitante. Sin embargo, con el tiempo se decidió que el
-cuarto oscuro remplazaría al baño de silla de ruedas, prácticamente
-exlcuyendo a la persona del espacio. Un cambio similar ocurrió con la
+cuarto oscuro remplazaría al baño para silla de ruedas, prácticamente
+excluyendo a la persona del espacio. Un cambio similar ocurrió con la
 ducha, la cual fue tomada por la expansión del taller de máquinas (Anon,
 2011). Esto afectó a una persona que prácticamente no tenía casa y que
 frecuentemente asistía al espacio para jugar ajedrez. Estas decisiones
@@ -1211,11 +1211,11 @@ espacialmente inclusiva debido a la priorización del foco en la
 tecnología, de la mano con la primacía asignada a los intereses
 colectivos en detrimento de las necesidades de las minorías. Los
 hacklabs, especialemnte si están en espacios okupados, tienen una
-inclinación mucho menor a ese tipo de desiciones, en parte debido al
-ethos del espacio público que viene usualente con las ocupaciones, y
+inclinación mucho menor a ese tipo de decisiones, en parte debido al
+ethos del espacio público que viene usualmente con las okupaciones, y
 especialmente en centros sociales. Sin embargo, debe notarse que aunque
-mientras que la accesibilidad y no-discrimination son bases legítimas
-para el debate en los hacklabs pero no necesariamente en los
+mientras que la accesibilidad y no-discriminación son bases legítimas
+para el debate en los hacklabs y no necesariamente en los
 hackerspaces, como muestran los ejemplos anteriores inclusive los
 hacklabs han hecho poco progreso práctico en este asunto.
 
@@ -1248,7 +1248,7 @@ progress on the issue.
 
 
 Figura 5. Instalación "Piratepond" del Hackney Crack House en la
-exibición Temporary Autonomous Art en London, 201, que incluye una
+exibición Temporary Autonomous Art en Londres, 2011, que incluye una
 Burnstation. La foto es de dominio público.
 
 Figure 5. Piratepond installation from Hackney Crack House at the
@@ -1257,21 +1257,21 @@ Burnstation. Photo in the public domain.
 
 Finalmente, me gustaría señalar el impacto político de estas
 constelaciones divergentes, y preguntar hasta que punto y en que maneras
-contribuyen a apoyar prácticas post-capitalistas, movimientos y
-subjetividades. Los hacklabs dieron una ventaga tecnológica a los
-movimientos políticos de base, siendo pioneras en el acceso a las
-tecnologías de la información y comunicación y soluciones inovativas en
+contribuyen a apoyar prácticas, movimientos y
+subjetividades post-capitalistas. Los hacklabs dieron una ventaja tecnológica a los
+movimientos políticos de base, siendo pioneros en el acceso a las
+tecnologías de la información y comunicación y soluciones innovativas en
 una era donde el acceso no estaba disponible a la mayoría de las
 personas como un servicio para el consumo. En el lado negativo, esas
-iniciaticas a menudo quedan estancadas en lo que podría llamarse un
+iniciáticas a menudo quedan estancadas en lo que podría llamarse un
 "ghetto activista" o un "underground", lo que significa que inclusive el
 proyecto de la Burnstation descripto anteriormente era accesible
-solamente a un grupo social limitado. A traves de un proceso que
-Granzfurthner y Schneider describen como co-optasión capitalista de la
-resistencia fertil inherente a esas escenas ([2009]), los hackerspaces
+solamente a un grupo social limitado. A través de un proceso que
+Granzfurthner y Schneider describen como cooptación capitalista de la
+resistencia fértil inherente a esas escenas ([2009]), los hackerspaces
 se las arreglaron para ir más alla de estos limites históricos y
-forjaron connecioens importantes. Esto último, continúa teniendo un
-efecto duradero a traves de los artefactos tecnológicos - ambos
+forjaron conexiones importantes. Esto último, continúa teniendo un
+efecto duradero a través de los artefactos tecnológicos - ambos
 abstractos y físicos - que ellos crean, como también la innovación y mas
 importantemente la educación que practican. El caso de las impresoras
 3D, que según Jakob Rigi puede revolucionar los procesos de producción y
@@ -1280,7 +1280,7 @@ en fábricas, es solamente uno de los posibles casos ([2011]). Más aun,
 gracias a sus dinámicas mas abiertas, los hackerspaces pueden adoptar
 colaboración entre un amplio rango de actores sociales. Para la cultura
 hacker que ha logrado en los últimos años catapultarse a sí misma a la
-primera plana de los diarios internacionales, es de extremadamente
+primera plana de los diarios internacionales, es extremadamente
 significativo haber adquirido una red global de espacios reales de
 talleres que proveen infraestructura. En la atmósfera política actual,
 dominada por una serie de crisis, esta escena muestra vitalidad y
@@ -1320,7 +1320,7 @@ comes great responsibility”.
 La apreciación de la historia no consiste en juzgar a los viejos y a los
 muertos, sino que se hace para inspirar los esfuerzos presentes. Como
 "Théorie Communiste" afirma, cada ciclo de luchas trae algo nuevo basado
-en lo que paso antes, de esa manera expandiendo los límites historicos
+en lo que paso antes, de esa manera expandiendo los límites históricos
 de las luchas (Endnotes, 2008). Quizás el potencial político de los
 hackerspaces yace precisamente en el hecho de que no se han convertido
 en un movimiento social y por lo tanto no se encuentran limitados por
@@ -1350,7 +1350,7 @@ of the hacklabs, there is a world to win.
 
 ![](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
 
-Figura 6. La Burnstation del "Hungarian Autonomous Center for Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo. License: CC BY-NC.
+Figura 6. La Burnstation del "Hungarian Autonomous Center for Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo. Licencia: CC BY-NC.
 
 Figure 6. Burnstation from Hungarian Autonomous Center for Knowledge,
 exhibited at KOPIRÁJT, OSA Archivum, 2010. Photo by eapo. License: CC
