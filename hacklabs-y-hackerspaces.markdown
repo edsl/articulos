@@ -8,27 +8,28 @@ original_url: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hack
 ---
 
 
-# Hacklabs y hackerspaces - rastreando dos genealogías
+# Hacklabs y hackerspaces: rastreando dos genealogías
 
 Introducción
 ------------
 
-Parece muy prometedor trazar la genealogía de los hackerspaces desde
-el punto de vista de los hacklabs, ya que la relación entre estas
-escenas raramente es discutida y en gran parte permanece inexplorada.
+Resulta muy prometedor trazar la genealogía de los hackerspaces desde
+la perspectiva de los hacklabs, ya que la relación entre estas
+escenas es raramente discutida y en gran parte permanece inexplorada.
 Una aproximación metódica a dicha relación, echará luz a muchas diferencias
-y conexiones interesantes que pueden ser útiles para las profesionales que
-busquen nutrir y esparcir la cultura de los hackerspaces, como para
-académicas que buscan conceptualizarlo y entenderlo. En particular, los
-hackerspaces han mostrado ser un fenómeno viral que puede haber llegado
-al tope de su popularidad, y mientras una nueva ola de fablabs florece,
-gente como Grenzfurthner y Schneider (2009) han comenzado a preguntarse
+y conexiones interesantes que pueden ser útiles para las practicantes que
+busquen nutrir y difundir la cultura de los hackerspaces y para las
+académicas que buscan conceptualizarlos y entenderlos. En particular, los
+hackerspaces han mostrado ser un fenómeno viral que puede haber
+alcanzado
+el tope de su popularidad, por lo que mientras florece una nueva ola de fablabs,
+gente como Grenzfurthner y Schneider [-@grenzfurthner-schneider-2009] han comenzado a preguntarse
 sobre la dirección de estos movimientos. Me gustaría contribuir
-a este debate, sobre la dirección política y los potenciales políticos de
+a este debate sobre la dirección política y los potenciales políticos de
 los hacklabs y hackerspaces, con un paper historiográfico comparativo y
-crítico. Mi interés principal es en cómo estas redes
+crítico. Mi interés principal está puesto en cómo estas redes
 entrelazadas de instituciones y comunidades pueden escapar al aparato de
-captura capitalista, y como estas potencialidades están condicionadas por
+captura capitalista y cómo estas potencialidades están condicionadas por
 un arraigo histórico en varias escenas e historias.
 
 It seems very promising to chart the genealogy of hackerspaces from the
@@ -49,18 +50,18 @@ networks of institutions and communities can escape the the capitalist
 apparatus of capture, and how these potentialities are conditioned by a
 historical embeddedness in various scenes and histories.
 
-Los hacklabs tienen algunas de las características de los
-hackerspaces, y, de hecho, muchas comunidades que están registradas en
-hackerspaces.org también se identifican como "hacklabs". Incluso
+Los hacklabs manifiestan algunas de las características de los
+hackerspaces y, de hecho, muchas comunidades que están registradas en
+[hackerspaces.org](http://hackerspaces.org) también se identifican como "hacklabs". Incluso
 algunos de los grupos registrados no serían considerados como
-hackerspaces "reales" por la mayoría de los demás. De hecho, hay un amplio
-espectro de términos y lugares parecidos de familia, como son los
+hackerspaces "verdaderos" por la mayoría de los demás. De hecho, hay un amplio
+espectro de términos y lugares con parecidos de familia, como son los
 "espacios de coworking", "laboratorios de innovación", "media labs",
 "fab labs", "makerspaces", entre otros. No todos están
 basados siquiera en una comunidad, sino que han sido fundados por
-actores del sistema educativo formal o el sector comercial. Es imposible
+actores del sistema educativo formal o del sector comercial. Es imposible
 clarificar todo en un artículo corto. Por lo tanto sólo consideraré aquí
-hacklabs y hackerspaces comunitarios.
+a los hacklabs y hackerspaces comunitarios.
 
 Hacklabs manifest some of the same traits as hackerspaces, and, indeed,
 many communities who are registered on hackerspaces.org identify
@@ -79,21 +80,21 @@ A pesar del hecho de que estos espacios comparten una misma herencia
 cultural, algunas de sus raíces históricas e ideológicas son diferentes.
 Esto resulta en una adopción un poco distinta de las tecnologías y una sutil
 divergencia en sus modelos organizacionales. Históricamente hablando, los
-hacklabs comenzaron a mediados de los 90' y se popularizaron a mediados
-de los 2000'. Los hackerspaces comenzaron a finales de los 90' y se
-popularizaron en la segunda mitad de los 2000'. Ideológicamente
+hacklabs comenzaron a mediados de los '90 y se popularizaron a mediados
+de los 2000. Los hackerspaces comenzaron a finales de los '90 y se
+popularizaron en la segunda mitad de los 2000. Ideológicamente
 hablando, la mayoría de los hacklabs se han politizado explícitamente
 como parte de una escena anarquista/autonomista más amplia, mientras que
-los hackerspaces, desarrollándose en la esfera de influencia libertaria
-alrededor del Chaos Computer CLub, no se definen necesariamente a sí
+los hackerspaces, desarrollándose en la esfera de influencia
+_libertarian_ del _Chaos Computer Club_, no se definen necesariamente a sí
 mismos como abiertamente políticos. Mientras que las participantes en
-ambas escenas consideran sus actividades como orientadas hacia la
-liberación del conocimiento tecnológico y prácticas relacionadas, la
-interpretación de lo que "libertad" significa diverge. Un ejemplo
-concreto de como estas divergencias históricas e ideológicas se plasman,
+ambas escenas consideran sus actividades orientadas hacia la
+liberación del conocimiento tecnológico y sus prácticas relacionadas,
+las interpretaciones de lo que significa "libertad" divergen. Un ejemplo
+concreto de cómo estas divergencias históricas e ideológicas se plasman,
 puede encontrarse en el estatus legal de los espacios: mientras que los
-hacklabs suelen ubicarse en edificios okupados, los hackerspaces son
-generalmente lugares de alquiler.
+hacklabs suelen ubicarse en edificios okupados, los hackerspaces se
+encuentran generalmente en lugares de alquiler.
 
 Despite the fact that these spaces share the same cultural heritage,
 some of their ideological and historical roots are indeed different.
@@ -116,12 +117,13 @@ rented.
 
 Este paper consta de tres secciones distintas. Las primeras dos
 secciones elaboran la genealogía histórica e ideológica de los hacklabs
-y los hackerspaces. La tercer sección unifica lo encontrado con la intención
+y los hackerspaces. La tercer sección unifica lo encontrado antes con la intención
 de contraponerlo a las diferencias existentes desde un punto de vista
 contemporáneo. Mientras que las secciones genealógicas son descriptivas,
-la evaluación en la última sección es normativa, preguntándose como las
+la evaluación en la última sección es normativa, preguntándose cómo las
 diferencias identificadas en el paper se juegan desde un punto de vista
-estratégico en la creación de espacios, sujetos y tecnologías postapocalípticos.
+estratégico en la creación de espacios, sujetos y tecnologías
+postcapitalistas.
 
 This paper is comprised of three distinct sections. The first two
 sections draw up the historical and ideological genealogy of hacklabs
