@@ -136,21 +136,21 @@ postcapitalist spaces, subjects and technologies.
 
 Nótese que en la actualidad los términos "hacklab" y "hackerspace" son
 usados en líneas generales como sinónimos. Al contrario de la categorización
-actual, uso hacklabs en su sentido antiguo (1990s) e histórico, con la
+actual, uso hacklabs en su sentido antiguo (el de los '90) e histórico, con la
 intención de echar luz a las diferencias históricas e ideológicas que
-resultan en una aproximación de un modo diferente a la
-tecnología. Esto no es un puntillismo lingüístico, sino que un intento de
-permitir un entendimiento mas sutil de los ámbitos y prácticas en
+resultan en una aproximación diferente a la
+tecnología. Esto no es un puntillismo lingüístico, sino que se trata de un intento de
+permitir un entendimiento más sutil de los ámbitos y prácticas en
 consideración. La continua evolución de estos términos, reflejando los
 cambios sociales que han tenido lugar, se encuentra registrada en
-Wikipedia. El artículo de Hacklab fue creado en 2006 (Wikipedia
-contributors, 2010a), el artículo de Hackerspace en 2008 (Wikipedia
-contributors, 2011). En 2010, el contenido del artículo Hacklab fue
+Wikipedia. El artículo de Hacklab fue creado en 2006
+[@wikipedia-hacklab-2010a], el artículo de Hackerspace en 2008
+[@wikipedia-hackerspace-2011]. En 2010, el contenido del artículo Hacklab fue
 unido al artículo de Hackerspace. Esta unión fue justificada en la
-correspondiente página de discusión (Wikipedia contributors, 2010). Un
+correspondiente página de discusión [@wikipedia-hacklab-2010]. Un
 usuario con el nombre de "Anarkitekt" escribió que "nunca he escuchado o
 leído nada que implicase que hay una diferencia ideológica entre los
-términos hackerspace y hacklab" (Wikipedia contributors, 2010b). Por
+términos hackerspace y hacklab" [@wikipedia-hacklab-2010b]. Por lo
 tanto, el tratamiento del tema por parte de las wikipedistas apoya mi
 planteo de que la proliferación de los hackerspaces fue de la mano con un
 olvido de la historia que intento recapitular aquí.
@@ -185,17 +185,15 @@ Los Hacklabs
 2. Hacklabs
 -----------
 
-El aumento de los hacklabs puede ser atribuido a un número de factores. 
-Para esquematizar su genealogía, nos centraremos aquí en dos de sus contextualidades: 
-el movimiento autonomista y el mediactivismo. Se dará un recorrido simplificado y resumido 
-de estas dos historias, enfatizando elementos 
-que son importantes desde el punto de vista de la emergencia de los 
-hacklabs. La cultura hacker, de no menos importancia, será tratada en la 
-posterior sección con más detalle. Una definición de un artículo 
-seminal, de Simon Yuill señala las formas de pensamiento básicas detrás 
-de estas iniciativas (2008):
-
-
+El surgimiento de los hacklabs puede ser atribuido a un número de factores.
+Para esquematizar su genealogía, nos centraremos aquí en dos de sus contextualidades:
+el movimiento autonomista y el mediactivismo. Se dará un recorrido simplificado y resumido
+de estas dos historias, enfatizando elementos
+que son importantes desde el punto de vista de la emergencia de los
+hacklabs. La cultura hacker, de no menor importancia, será tratada en la
+posterior sección con más detalle. Una definición de un artículo
+seminal, de Simon Yuill señala las formas de pensamiento básicas detrás
+de estas iniciativas[-@yuill-2008]:
 
 The surge of hacklabs can be attributed to a number of factors. In order
 to sketch out their genealogy, two contexts will be expanded on here:
@@ -206,18 +204,18 @@ hacker culture, of no less importance, will be treated in the next
 section in more detail. A definition from a seminal article by Simon
 Yuill highlights the basic rationales behind these initiatives (2008):
 
-"Los hacklabs son, mayoritariamente, espacios de voluntariado que
-proveen acceso público y gratuito a computadoras e Internet. Usualmente
-hacen uso de máquinas rekuperadas y recicladas que corren GNU/Linux, y a
-la vez que proveen acceso a computadoras, la mayoría de los hacklabs
-tienen talleres funcionando en un rango de temas que van desde el uso
-básico de la computadora e instalación de software GNU/Linux, hasta
-programación, electrónica y radiodifusión independiente (o pirata). Los
-primeros hacklabs se desarrollaron en Europa, usualmente surgiendo de
-tradiciones de centros sociales okupados y media labs comunales. En
-Italia se los conecta con los centros sociales autonomistas y en España,
-Alemania y en los Países Bajos con movimientos de okupación
-anarquistas."
+> "Los hacklabs son, mayoritariamente, espacios voluntarios que
+> proveen acceso público y gratuito a computadoras y a Internet. Usualmente
+> hacen uso de máquinas rekuperadas y recicladas que corren GNU/Linux y a
+> la vez que proveen acceso a computadoras, la mayoría de los hacklabs
+> tienen talleres funcionando en un rango de temas que van desde el uso
+> básico de la computadora e instalación de software GNU/Linux, hasta
+> programación, electrónica y radiodifusión independiente (o pirata). Los
+> primeros hacklabs se desarrollaron en Europa, usualmente surgiendo de
+> tradiciones de centros sociales okupados y media labs comunitarios. En
+> Italia se los conecta con los centros sociales autonomistas y en España,
+> Alemania y en los Países Bajos con movimientos de okupación
+> anarquistas."
 
 “Hacklabs are, mostly, voluntary-run spaces providing free public access
 to computers and internet. They generally make use of reclaimed and
