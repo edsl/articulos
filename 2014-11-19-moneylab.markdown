@@ -320,41 +320,42 @@ contra el Espíritu Santo, que no puede ser perdonada."
 
 # Las monedas alternativas tienen un problema de escala
 
-La discusión de cierta manera más abstracta que nutre el siguiente
-punto, que era otra observación importante hecha en una serie de
-críticas sobre las criptomonedas, incluyendo a Franco 'Bifo' Berardi.
-Uno de los retos principales que las monedas alternativas encaran es la
-cuestión de escala --la cual, a su vez, tiene algunas implicaciones muy
-importantes para la cuestión de la confianza. Por un lado, tenemos una
-proliferación de monedas locales, algunas ya bastante enraizadas en sus
-comunidades, donde personas comunes y corrientes buscan reapropiar y
-reincorporar dinero con una matriz diferente de valores comunes para
-facilitar la satisfacción de necesidades y deseos sociales importantes.
-Estas monedas locales a veces remiten a una noción ciertamente romántica
-de territorialidad que busca aterrizar relaciones humanas en un mundo
-tangible de seres humanos reales, por tanto contraponiendo un sentido
-tangible de socialización al ámbito virtual y abstracto de las permutas
-de incumplimiento crediticio y los contratos derivativos complejos que
-caracterizan las finanzas modernas. Una cosa que tienen en común es que
-están basadas principalmente en la confianza.  Está claro, sin embargo,
-que las monedas locales nunca van a poder retar --mucho menos
-reemplazar-- al capital de financiamiento global como tal. A lo sumo,
-las monedas locales van a convertirse en monedas complementarias
-significativas que pueden ser agregadas a una mezcla de instrumentos
-monetarios más amplia. Si vamos a idear algún tipo de alternativa al
-capitalismo global, sin embargo, tendremos que empezar a pensar tanto en
-una escala territorial mucho más amplia (es decir, global) o trascender
-la territorialidad completamente, desarrollando monedas no-locales
-(donde no-localidad refiere al concepto de la física cuántica donde dos
-objetos, separados en el espacio y sin un intermediario, pueden sin
-embargo mantener un contacto directo entre sí).  Lo último es el reino
-de las criptomonedas como Bitcoin: una moneda digital de pares capaz de
-poner a una granjera keniana en contacto directo con sus clientes y a
-una estudiante norteamericana o una banquera de Wall Street en contacto
-directo con su _dealer_, sin intermediación de un banco o Estado.  La
-tecnología de pares detrás de Bitcoin es bastante revolucionaria en este
-aspecto.  Lo que estamos presenciando es una prueba de concepto muy
-excitante: ¡podemos crear dinero sin necesidad de bancos ni estados!
+La discusión previa y de alguna manera más abstracta nutre directamente
+al siguiente punto, que fue otra observación importante hecha por una
+serie de críticas sobre las criptomonedas, incluída la de Franco 'Bifo'
+Berardi.  Uno de los retos principales que las monedas alternativas
+encaran es la cuestión de escala --la cual, a su vez, tiene algunas
+implicaciones muy importantes para la cuestión de la confianza. Por un
+lado, tenemos una proliferación de monedas locales, algunas ya bastante
+enraizadas en sus comunidades, donde personas comunes y corrientes
+buscan reapropiar y reincorporar dinero con una matriz diferente de
+valores comunes para facilitar la satisfacción de necesidades y deseos
+sociales importantes.  Estas monedas locales a veces remiten a una
+noción ciertamente romántica de territorialidad que busca aterrizar
+relaciones humanas en un mundo tangible de seres humanos reales, por
+tanto contraponiendo un sentido tangible de socialización al ámbito
+virtual y abstracto de las permutas de incumplimiento crediticio y los
+contratos derivativos complejos que caracterizan las finanzas modernas.
+Una cosa que tienen en común es que están basadas principalmente en la
+confianza.  Está claro, sin embargo, que las monedas locales nunca van a
+poder retar --mucho menos reemplazar-- al capital de financiamiento
+global como tal. A lo sumo, las monedas locales van a convertirse en
+monedas complementarias significativas que pueden ser agregadas a una
+mezcla de instrumentos monetarios más amplia. Si vamos a idear algún
+tipo de alternativa al capitalismo global, sin embargo, tendremos que
+empezar a pensar tanto en una escala territorial mucho más amplia (es
+decir, global) o trascender la territorialidad completamente,
+desarrollando monedas no-locales (donde no-localidad refiere al concepto
+de la física cuántica donde dos objetos, separados en el espacio y sin
+un intermediario, pueden sin embargo mantener un contacto directo entre
+sí).  Lo último es el reino de las criptomonedas como Bitcoin: una
+moneda digital de pares capaz de poner a una granjera keniana en
+contacto directo con sus clientes y a una estudiante norteamericana o
+una banquera de Wall Street en contacto directo con su _dealer_, sin
+intermediación de un banco o Estado.  La tecnología de pares detrás de
+Bitcoin es bastante revolucionaria en este aspecto.  Lo que estamos
+presenciando es una prueba de concepto muy excitante: ¡podemos crear
+dinero sin necesidad de bancos ni estados!
 
 # La criptografía no nos liberará (por sí misma)
 
@@ -535,7 +536,7 @@ nacional y global, desarrollar nuevos modelos de toma de decisión,
 reconstruir confianza en nuestras comunidades y más allá, encontrar
 formas de defendernos de la represión estatal, etc. las monedas
 alternativas se convertirán en poco más que una impotente expresión de
-un admirable pero inofensivo deseo por el cambio social.  Nuestra
+un admirable pero inofensivo deseo por el cambio social.  Nuestro
 proyecto político de largo plazo es romper el poder del capital y
 democratizar radicalmente la sociedad desde abajo.  Si perdemos de vista
 este horizonte más amplio en el que la búsqueda de alternativas
