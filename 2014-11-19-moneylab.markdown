@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Jerome Roos"
-title: "En cada una de nosotras confiamos: acuñando alternativas al capitalismo"
+title: "En nosotras confiamos: acuñando alternativas al capitalismo"
 license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
