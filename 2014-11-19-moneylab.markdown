@@ -9,7 +9,7 @@ license: http://endefensadelsl.org/ppl_deed_es.html
 > Paris_ y el _London School of Economics_ y en la actualidad es un
 > candidato a PhD en la _European University Institute_.  Es también el
 > editor fundador de la _ROAR Magazine_.
-> 
+>
 > Traducción colaborativa realizada con el [Hacklab de
 > Barracas](http://wiki.hackcoop.com.ar) y [Rancho
 > Electrónico](http://ranchoelectronico.org).
@@ -18,7 +18,7 @@ license: http://endefensadelsl.org/ppl_deed_es.html
 > podemos imaginar alternativas?  ¿Qué rol jugarán innovaciones
 > recientes como Bitcoin en esta lucha?
 
-No es necesario suscribir al postestructuralismo pseudo-oscurantista de
+No es necesario suscribir al post-estructuralismo pseudo-oscurantista de
 Gilles Deleuze para reconocer que este filósofo francés ha realizado dos
 observaciones extremadamente proféticas.  Primero, su hipótesis de
 principios de los '90 de que la sociedad disciplinaria de Foucault, con
@@ -50,7 +50,7 @@ economía global."
 
 Con paneles de discusión sobre "la monetización de todo", "desmantelando
 las finanzas globales", "más allá de Bitcoin", "una crítica del
-financiamiento colectivo", y "diseñando alternativas", las organizadoras
+financiamiento colectivo" y "diseñando alternativas", las organizadoras
 de la conferencia encontraron el tono adecuado: en un mundo dominado por
 las finanzas, en un mundo completamente endeudado en el cual el dinero
 ha asumido eficazmente la función de significante universal al cual
@@ -70,12 +70,12 @@ internacional de académicas, hackers y activistas que trabajan en una
 crítica a las finanzas y al desarrollo de monedas alternativas, sistemas
 de pago y modelos de ganancias, fue que simplemente aconteciera.  De
 hecho, hace menos de cinco años muy poca gente hablaba seriamente sobre
-el dinero.  Hoy, al menos entre intelectuales y activistas, pero también 
-cada vez más entre la población en general, pareciera haber un verdadero 
-resurgimiento de interés sobre la naturaleza y la importancia del
-dinero, así como sobre el rol crítico que las monedas alternativas y 
-los sistemas mutuales de crédito podrían jugar en la subversión del 
-nexo estado-finanzas para liberarnos del control capitalista.
+el dinero.  Hoy, al menos entre intelectuales y activistas, pero también
+cada vez más entre la población en general, pareciera haber un verdadero
+resurgimiento en el interés sobre la naturaleza y la importancia del
+dinero, así como sobre el rol crítico que las monedas alternativas y los
+sistemas mutuales de crédito podrían jugar en la subversión del nexo
+estado-finanzas para liberarnos del control capitalista.
 
 En gran parte gracias a la crítica de _Occupy_ sobre las finanzas
 globales, a la influyente publicación _Deuda: Los primeros 5000 años_ de
@@ -83,13 +83,13 @@ David Graeber, al resurgimiento de relecturas no dogmáticas de Marx y a
 la incansable (aunque no muy revolucionaria) militancia de grupos como
 _Positive Money_ y la _New Economics Foundation_ por una reforma hacia
 las monedas heterodoxas, la cuestión del dinero finalmente parece haber
-sido liberada de la sofocante escena de teóricos antisemitas de la 
-conspiración, libertarios de derecha y anarcocapitalistas fanatizados 
-con una moneda que había estado, hasta ahora, confinada a sus propio 
-dominio. Por fin, un proyecto internacional está empezando a tomar forma 
-para investigar y experimentar con alternativas concretas, preparando el 
-terreno para un mundo en el que los medios de producción son comunes y 
-tanto la forma como la creación de dinero están sujetas al control de 
+sido liberada de la sofocante escena de teóricos antisemitas de la
+conspiración, libertarios de derecha y anarcocapitalistas fanatizados
+con una moneda que había estado, hasta ahora, confinada a sus propio
+dominio. Por fin, un proyecto internacional está empezando a tomar forma
+para investigar y experimentar con alternativas concretas, preparando el
+terreno para un mundo en el que los medios de producción son comunes y
+tanto la forma como la creación de dinero están sujetas al control de
 nuevas comunidades de usuarios, empoderadas por una democracia directa.
 
 Mientras resulta imposible incluir en un solo artículo los muchos puntos
@@ -99,7 +99,7 @@ participantes, junto con algunos pensamientos adicionales que me
 inspiraron. Me disculpo de antemano por dejar de lado las otras
 incontables e interesantes observaciones. En las próximas semanas y
 meses tenemos la esperanza de revisitar la cuestión del dinero con más
-detalle aquí, en _ROAR_.  Como siempre, son bienvenidas contribuciones 
+detalle aquí, en _ROAR_.  Como siempre, son bienvenidas contribuciones
 sobre el tema.
 
 # El dinero es deuda
@@ -132,12 +132,12 @@ recientemente confirmada por un _paper_ publicado por el Banco de
 Inglaterra, es que cada vez que un banco realiza un préstamo está
 creando dinero. La pura simplicidad de esta afirmación invita a la
 incredulidad. ¿Pueden acaso los bancos privados crear dinero de
-la nada? ¿Está acaso el dinero creado por los bancos centrales actuando 
-en beneficio del Estado? La respuesta es sí: los bancos centrales crean 
-dinero, pero el que crean es o crédito que extienden a los bancos privados 
-o dinero en efectivo, cuando el efectivo sólo constituye un pequeño porcentaje 
-de la cantidad total de dinero. En EEUU e Inglaterra, el papel moneda y 
-las monedas constituyen apenas el 3% del agregado monetario, y en la eurozona  
+la nada? ¿Está acaso el dinero creado por los bancos centrales actuando
+en beneficio del Estado? La respuesta es sí: los bancos centrales crean
+dinero, pero el que crean es o crédito que extienden a los bancos privados
+o dinero en efectivo, cuando el efectivo sólo constituye un pequeño porcentaje
+de la cantidad total de dinero. En EEUU e Inglaterra, el papel moneda y
+las monedas constituyen apenas el 3% del agregado monetario y en la eurozona
 se acerca al 10%. El resto es dinero-crédito "virtual" que existe como números
 en una pantalla.  La mayor parte de este dinero existe gracias a un
 truco contable muy básico en el que el banco simplemente crea crédito en
@@ -148,7 +148,7 @@ que luego "multiplican" sus depósitos para generar dinero adicional.  En
 esta teoría keynesiana de creación de dinero, defendida vehementemente
 por Paul Krugman, los bancos centrales todavía controlan la cantidad
 total de moneda.  Sin embargo, hay evidencias recientes que desafían este
-punto de vista, y el paper del Banco de Inglaterra, aunque no niega que
+punto de vista y el paper del Banco de Inglaterra, aunque no niega que
 los bancos centrales juegan un papel importante, establece sin
 ambigüedades que "la creación de dinero difiere en la práctica con
 algunas concepciones; los bancos no actúan solo como intermediarios,
@@ -171,7 +171,7 @@ las ganancias más altas.  Mientras que las finanzas han habilitado la
 monetización de todo, Saskia Sassen insistió correctamente en su charla
 que "si reducimos las finanzas al dinero, nos estamos perdiendo los
 aspectos claves de la trama." Sassen define las finanzas como una
-capacidad, y no necesariamente una benigna. La finanza es la capacidad de
+capacidad y no necesariamente una benigna. La finanza es la capacidad de
 vender algo que no tenés, o, volviendo a lo que decíamos antes, la
 capacidad de crear dinero y sin tenerlo colocarlo como crédito de un
 préstamo. Esto confiere a las finanzas un vasto poder estructural y un
@@ -239,17 +239,17 @@ económica.
 Una de las contradicciones fundamentales contra las que las formas de
 producción autónomas y cooperativas tienden a chocar es que usualmente
 requieren alguna forma de inversión para comenzar. Mientras las
-cooperativas obreras dependan de bancos privados para financiarse, 
+cooperativas obreras dependan de bancos privados para financiarse,
 estarán sujetas a las mismas exigencias estructurales que
 las empresas ordinarias: deberán lograr un plusvalor (es decir, generar
-ganancias) para poder pagar los préstamos con sus intereses, y por lo
+ganancias) para poder pagar los préstamos con sus intereses y por lo
 tanto se verán forzadas a reproducir el comportamiento de las formas
-capitalistas en el mercado competitivo, o, en su caso, a enfrentar las 
-consecuencias y cerrar (un ejemplo de esto es la reciente bancarrota de 
-algunas cooperativas Mondragón en el País Vasco). En este contexto, las 
-monedas alternativas y el crédito mutuo pueden jugar un rol importante, 
-cortando la dependencia de las cooperativas obreras respecto al financiamiento 
-privado y respecto al ciclo de acumulación capitalista en general, recuperando  
+capitalistas en el mercado competitivo, o, en su caso, a enfrentar las
+consecuencias y cerrar (un ejemplo de esto es la reciente bancarrota de
+algunas cooperativas Mondragón en el País Vasco). En este contexto, las
+monedas alternativas y el crédito mutuo pueden jugar un rol importante,
+cortando la dependencia de las cooperativas obreras respecto al financiamiento
+privado y respecto al ciclo de acumulación capitalista en general, recuperando
 de esta manera el sentido de agencia colectiva y autonomía productiva.
 
 # El dinero se basa en la confianza
@@ -257,10 +257,10 @@ de esta manera el sentido de agencia colectiva y autonomía productiva.
 Ya que el dinero es en última instancia una relación social enraizada en
 un entendimiento común y un reconocimiento mutuo de nuestras
 obligaciones hacia otros, una moneda exitosa depende fundamentalmente en
-la confianza. No es coincidencia que _credere_, creer o confiar, sea la 
+la confianza. No es coincidencia que _credere_, creer o confiar, sea la
 raíz latina de la palabra crédito. En este sentido, la
 crisis crediticia de 2008, de la que seguimos sintiendo ramificaciones
-hoy en día, es propiamente una crisis de confianza: de desconfianza sobre 
+hoy en día, es propiamente una crisis de confianza: de desconfianza sobre
 la capacidad de los prestatarios para pagar los préstamos, desconfianza sobre el
 valor real de las balanzas de las instituciones financieras,
 desconfianza sobre la voluntad de los banqueros para mantener su parte
@@ -268,17 +268,17 @@ del trato, desconfianza sobre las intenciones del Estado con respecto a
 las jubilaciones, servicios públicos, ahorros, etc. Esta observación no
 intenta "psicologizar" el capitalismo (ya que claramente la raíz de la
 crisis es sistémica), sino exponer una paradoja fundamental que descansa
-en el corazón de su forma financiera. 
+en el corazón de su forma financiera.
 
-Después de todo, ¿no es acaso el hecho de no confiar en nadie un aspecto 
-definitorio de la cultura mafiosa de Wall Street? _Fidite nemini_ parece 
-reinar como el dogma de la desconfianza en el capitalismo competitivo. 
-¿No era Ayn Rand quien exaltaba las virtudes del egoísmo y denunciaba las 
-maldades del altruismo, precisamente porque el hombre sólo debe confiar 
-en sí mismo y nadie más?  En la sociedad hiper-individualista de la actualidad, 
-nuestra confianza en la humanidad y entre nosotras está siendo desplazada 
-rápidamente por una confianza infantil en los dos avatares de la gobernabilidad 
-neoliberal: el dinero-crédito y el Estado de seguridad.  Basta mirar un billete 
+Después de todo, ¿no es acaso el hecho de no confiar en nadie un aspecto
+definitorio de la cultura mafiosa de Wall Street? _Fidite nemini_ parece
+reinar como el dogma de la desconfianza en el capitalismo competitivo.
+¿No era Ayn Rand quien exaltaba las virtudes del egoísmo y denunciaba las
+maldades del altruismo, precisamente porque el hombre sólo debe confiar
+en sí mismo y nadie más?  En la sociedad hiper-individualista de la actualidad,
+nuestra confianza en la humanidad y entre nosotras está siendo desplazada
+rápidamente por una confianza infantil en los dos avatares de la gobernabilidad
+neoliberal: el dinero-crédito y el Estado de seguridad.  Basta mirar un billete
 de 20USD o una moneda cualquiera para encontrar la inscripción "en Dios
 confiamos". ¿Pero cuál Dios?  Giorgio Agamben estaba completamente en lo
 cierto cuando dijo hace poco: "Dios no murió, fue transformado en
@@ -349,7 +349,7 @@ decir, global) o trascender la territorialidad completamente,
 desarrollando monedas no-locales (donde no-localidad refiere al concepto
 de la física cuántica donde dos objetos, separados en el espacio y sin
 un intermediario, pueden sin embargo mantener un contacto directo entre
-sí).  Esto último nos remite al reino de las criptomonedas como Bitcoin: 
+sí).  Esto último nos remite al reino de las criptomonedas como Bitcoin:
 una moneda digital de pares capaz de poner a una granjera keniana en
 contacto directo con sus clientes y a una estudiante norteamericana o
 una banquera de Wall Street en contacto directo con su _dealer_, sin
@@ -372,10 +372,14 @@ no-local, Bitcoin es incapaz de operar sobre la base del principio de
 confianza, tal como lo hacen las monedas locales. En cambio, es diseñado
 con base en el mismo principio randiano que anima la cultura bancaria:
 _fidite nemeni_, ¡no confíes en nadie!  Ahora que hemos sido abandonadas
-por Dios, las finanzas y el Estado, un ejército de ciberlibertarias
-anónimas propone un nuevo ícono al que adorar: la criptografía.
-Entonces nuestra fe se desplaza hacia el sofisticado código fuente que
-se esconde detrás de las nuevas formas de dinero digital.
+por Dios, las finanzas y el Estado, un ejército de
+ciber-libertarians[^libertarian] anónimas propone un nuevo ícono al que
+adorar: la criptografía.  Entonces nuestra fe se desplaza hacia el
+sofisticado código fuente que se esconde detrás de las nuevas formas de
+dinero digital.
+
+[^libertarian]: No traducimos _libertarian_ para no confundir con
+libertarias de raíz anarquista (Nota de la traducción).
 
 El dinero, entonces, se _automatiza_. Una vez que es programada y
 liberada, se supone que la moneda asume vida propia.  Por supuesto los
@@ -401,7 +405,7 @@ Como me indicaba luego de la conferencia mi amigo Rutger Kaput, filósofo
 en la Universidad de Oxford, en tiempos de engaño universal, la simple
 confianza entre nosotras se convierte en un acto revolucionario.
 Seguramente el deseo romántico de las comunidades locales de antaño no
-hará caer la dictadura financiera.  Pero un mundo sin confianza no es un mundo 
+hará caer la dictadura financiera.  Pero un mundo sin confianza no es un mundo
 en el que vale la pena vivir. Como argumentaba
 convincentemente Quinn DuPont, la criptografía puede tener un rol
 importante en la lucha contra el control estatal. Pero si empezamos a
@@ -424,7 +428,7 @@ tecnológico amoral, hay una cuestión crucial en el diseño _monetario_ de
 Bitcoin: es esencialmente conservador en su naturaleza. De hecho,
 Satoshi Nakamoto, el fundador misterioso de Bitcoin, fue claramente
 influenciado por teorías monetarias ortodoxas e ideas económicas
-libertarias de derecha, y no en menor grado por las propuestas
+libertarias de derecha y no en menor grado por las propuestas
 del archi-neoliberal Friedrich Hayek, que ya en la década de 1970 llamaba a la
 "denacionalización del dinero". Pero lo más importante es
 que Bitcoin está diseñado para funcionar como el oro: se crea
@@ -432,13 +436,13 @@ exógenamente, a través de un complejo proceso algorítmico llamado
 "minado", para luego circular como mercancía. Estas nuevas monedas se
 crean con una tasa predeterminada, con un límite definido a la cantidad
 total de dinero.  Esto significa que la provisión de moneda no podrá
-crecer a la par que la cantidad de usuarias y transacciones de Bitcoin se
-se expandan, lo que eventualmente producirá deflación. (La deflación es 
-un decrecimiento en el nivel general del precio de los bienes y 
-servicios y fue la plaga del patrón oro que destruyó millones de 
-vidas durante la Gran Depresión). El hecho de que los Bitcoin sean 
-divisibles al infinito demuestra que Nakamoto estaba bien al tanto 
-de esto y codificó la deflación deliberadamente. 
+crecer a la par que la cantidad de usuarias y transacciones de Bitcoin
+se expandan, lo que eventualmente producirá deflación. (La deflación es
+un decrecimiento en el nivel general del precio de los bienes y
+servicios y fue la plaga del patrón oro que destruyó millones de
+vidas durante la Gran Depresión). El hecho de que los Bitcoin sean
+divisibles al infinito demuestra que Nakamoto estaba bien al tanto
+de esto y codificó la deflación deliberadamente.
 
 Pero mientras las trabajadoras sufren la deflación, que agrava el
 desempleo y presiona para bajar los salarios, los ricos se benefician.
@@ -449,14 +453,14 @@ acumulación de dinero.  En la deflación, los ricos se enriquecen aún más
 _sin hacer nada_. En lugar de poner su dinero en circulación, como hace
 una trabajadora cuando compra sus necesidades básicas o el capitalista
 "productivo" cuando adquiere maquinaria, materia prima y fuerza de
-trabajo, el acaparador mantendrá su oro o Bitcoins fuera de circulación 
-tanto como pueda. Los regímenes monetarios deflacionarios, como Bitcoin 
-o el patrón oro, alimentan la concentración de riquezas y poder.  
-No resulta sorprendente entonces que Bitcoin ya tenga su propia élite 
-ultra rica. Para julio de 2011, el 97% de las cuentas en Bitcoin contenían 
-menos de diez de estas monedas, mientras que un total de 78 entidades acaparaban 
-10.000 Bitcoins cada una. Stanislas Jourdan hacía la pregunta correcta 
-en respuesta a esta cuestión: ¿Cómo es posible que una forma monetaria altamente 
+trabajo, el acaparador mantendrá su oro o Bitcoins fuera de circulación
+tanto como pueda. Los regímenes monetarios deflacionarios, como Bitcoin
+o el patrón oro, alimentan la concentración de riquezas y poder.
+No resulta sorprendente entonces que Bitcoin ya tenga su propia élite
+ultra rica. Para julio de 2011, el 97% de las cuentas en Bitcoin contenían
+menos de diez de estas monedas, mientras que un total de 78 entidades acaparaban
+10.000 Bitcoins cada una. Stanislas Jourdan hacía la pregunta correcta
+en respuesta a esta cuestión: ¿Cómo es posible que una forma monetaria altamente
 concentrada y deflacionaria sirva de ayuda a los griegos?
 
 # El financiamiento colectivo no es "el estado de bienestar anarquista"
@@ -478,8 +482,9 @@ mayor valor de mercado y reconocimiento de nombre, el crowdfunding es la
 obvio valor de cambio y por lo tanto son incapaces de competir por
 subsidios o inversiones que de entrada son escasos.
 
-[kickstarter]: Uno de los primeros sitios de financiamiento colectivo.
-Casi todos descuentan una parte del dinero recolectado.
+[^kickstarter]: Uno de los primeros sitios de financiamiento colectivo.
+Casi todos descuentan una parte del dinero recolectado (Nota de la
+traducción).
 
 Otro riesgo es que al enfatizar sólo los éxitos del financiamiento
 colectivo, terminamos reproduciendo ciertos mecanismos ideológicos que
@@ -490,7 +495,7 @@ una manera brillante de reinventar el Sueño Americano para la clase
 creativa emergente? Un rápido vistazo al sitio de IndieGoGo[^indiegogo]
 revela la triste realidad detrás del financimiento colectivo: en la
 página principal se nos presentan los proyectos exitosos, generando
-expectativa entre las posibles participantes ("si ellas pudieron, yo
+expectativa entre las posibles participantes ("si ellas pudieron yo
 también").  Sin embargo, al navegar por las diferentes categorías
 podemos encontrar otros tantos proyectos que nunca alcanzarán su
 objetivo. Mientras estos proyectos generen ganancias, están
@@ -500,7 +505,8 @@ de inicio marginadas.  El "estado de bienestar anarquista",
 entonces, no es tan igualitario y el plusvalor que genera termina en los
 bolsillos de los dueños de la plataforma.
 
-[indiegogo]: Otro sitio de financiamiento colectivo.
+[^indiegogo]: Otro sitio de financiamiento colectivo (Nota de la
+traducción).
 
 Además, resulta que la "multitud" del crowdfunding muchas veces ni
 siquiera existe.  La vasta mayoría de las ganancias de Kickstarter no
@@ -526,7 +532,7 @@ serán esenciales para la construcción de la autonomía del nexo
 estado-finanzas y la recuperación del control sobre nuestras vidas,
 existe un grave riesgo de que las soluciones que profesamos terminen
 circunscriptas en la lógica del sistema monetario y financiero
-presente, y por lo tanto convertidas en otra forma de especulación,
+presente y por lo tanto convertidas en otra forma de especulación,
 apropiación y acumulación.  Resulta crucial, por lo tanto, no fetichizar
 las monedas alternativas y los modelos de ganancias.  Construir
 autonomía y desafiar el nexo estado-finanzas requiere de una lucha
@@ -549,18 +555,18 @@ fracaso.
 Mientras es posible que en los próximos años la cuestión del dinero
 asuma una importancia central para el movimiento anticapitalista
 emergente, debemos ser extremadamente cuidadosas de no caer en el
-síndrome del mesías, que suele caracterizar a las más recientes "conversas" 
-a la causa que nos ocupa. Al descubrir que el dinero es creado por la 
+síndrome del mesías, que suele caracterizar a las más recientes "conversas"
+a la causa que nos ocupa. Al descubrir que el dinero es creado por la
 banca privada y que la deuda con interés alimenta continuamente la necesidad de
 expansión económica que es el corazón del sistema capitalista, muchas
 personas tienen un "momento eureka" --"¡Ya sé! ¡El dinero es la raíz del
 mal!  ¡Creemos una moneda alternativa y cambiemos el mundo!"-- que las
 ciega temporariamente de las otras contradicciones fundamentales del
 sistema (tema que David Harvey aborda en su próximo libro). No puedo
-enfatizar lo suficiente que el dinero es sólo uno de los elementos (ciertamente 
+enfatizar lo suficiente que el dinero es sólo uno de los elementos (ciertamente
 uno de los principales, pero sólo uno de ellos) dentro de un
 proceso de valorización y un modo de producción y acumulación que es
-extremadamente complejo, y que no puede ser simplemente reducido a sus
+extremadamente complejo y que no puede ser simplemente reducido a sus
 partes constituyentes.  Un desafío crucial --que siempre medra detrás de
 las formas superficiales del dinero-- es el que presentó Max Haiven en
 MoneyLab y en su nuevo libro, _Crisis de imaginación, crisis de poder_:
@@ -585,10 +591,10 @@ no-uso).  ¿Será posible organizar una sociedad basada en el valor de uso
 (y no-uso), antes que en los valores de cambio? ¿Cómo será tal sociedad?
 ¿Cómo llegamos ahí?  ¿Seremos capaces de confiar en las buenas
 intenciones de cada una y en nuestro sentido de propósito común mientras
-disputamos y luchamos en relación a las posibles respuestas?  
+disputamos y luchamos en relación a las posibles respuestas?
 
-En este momento nadie tiene la respuesta, --pero al menos hemos comenzado 
-a hacer las preguntas correctas.  En un mundo altamente monetarizado, en 
+En este momento nadie tiene la respuesta, --pero al menos hemos comenzado
+a hacer las preguntas correctas.  En un mundo altamente monetarizado, en
 el que los seres humanos han cesado de contar por cualquier cosa, esto, al
 menos, tiene que contar para algo.
 
