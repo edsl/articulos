@@ -513,7 +513,7 @@ obvio valor de cambio y por lo tanto son incapaces de competir por
 subsidios o inversiones que de entrada son escasos.
 
 [^kickstarter]: Uno de los primeros sitios de financiamiento colectivo.
-Casi todos descuentan una parte del dinero recolectado (Nota de la
+Casi todos cobran comisión del dinero recolectado (Nota de la
 traducción).
 
 Otro riesgo es que al enfatizar sólo los éxitos del financiamiento
@@ -529,7 +529,7 @@ expectativa entre las posibles participantes ("si ellas pudieron yo
 también").  Sin embargo, al navegar por las diferentes categorías
 podemos encontrar otros tantos proyectos que nunca alcanzarán su
 objetivo. Mientras estos proyectos generen ganancias, están
-efectivamente juntando dinero para la plataforma. En el fondo, aquéllas
+efectivamente juntando dinero para la plataforma. En el fondo, aquellas
 que no poseen capacidad de marketing y acceso a redes ricas son
 de inicio marginadas.  El "estado de bienestar anarquista",
 entonces, no es tan igualitario y el plusvalor que genera termina en los
