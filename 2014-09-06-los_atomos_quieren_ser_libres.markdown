@@ -179,8 +179,8 @@ propiedad intelectual:
 > La información quiere ser libre.  La información también quiere ser
 > cara.  La información quiere ser libre porque se ha vuelto demasiado
 > barata de distribuir, copiar y recombinar como para medirlo.  Quiere
-> ser cara porque puede ser inmensamente valiosa para el receptor
-> [@brand-1987, pp. 202].
+> ser cara porque puede ser inmensamente valiosa para el receptor.
+> [@brand-1987, pp. 202]
 
 [^gpl]: GPL por sus siglas en inglés (General Public License).
         _(Nota de traducción)_
@@ -235,7 +235,7 @@ para aflojar algunas certitudes sobre la naturaleza de la información
 (discreta, no rival, etc.).  Por el momento, pondré entre paréntesis la
 pregunta sobre si puede decirse que la información es realmente
 diferente de los bienes tangibles, físicos.  Volveré en la segunda mitad
-del texto sobre esto, y por lo tanto sobre la crítica de Dan Schiller.
+del texto sobre esto y por lo tanto sobre la crítica de Dan Schiller.
 Primero necesito historizar la comprensión heredada sobre lo que es la
 información.
 
@@ -271,7 +271,7 @@ entonces un mundo entero ha sido erigido alrededor de esta noción de
 información, para hacerla funcionar de la forma en la que fue concebida
 originalmente.
 
-Por supuesto, y a pesar de los esfuerzos en sentido contrario, los
+Por supuesto y a pesar de los esfuerzos en sentido contrario, los
 eventos de creación, transmisión y operacionalización de la información
 permanecieron situados y encarnados, no pudiendo quedar completamente
 divorciados de la creación de sentido.  Aunque puede ser relevante por
@@ -285,7 +285,7 @@ virtual".  En los '90, Internet era habitualmente representada como un
 reino incorpóreo de flujos de información.  La atracción de esta idea
 puede ser explicada parcialmente porque tomaba fuerza de un milenario
 dualismo en el pensamiento filosófico, a veces referenciado como una
-oposición entre forma y materia, otras como mente y cuerpo, y así
+oposición entre forma y materia, otras como mente y cuerpo y así
 [@hayles-1994; @fuchs-2003].  En la bibliografía sobre los estudios de
 los nuevos medios han proliferado también variantes de este dualismo.
 Por ejemplo, la misma oposición tiende a resurgir cuando la "comunidad
@@ -368,7 +368,7 @@ no todos los recursos pueden ni deben ser organizados en un fondo común:
 > Mientras que algunos recursos deben ser controlados, otros pueden ser
 > provistos mucho más libremente.  La diferencia está en la naturaleza
 > del recurso y por lo tanto en la naturaleza de cómo el recurso es
-> provisto [@lessig-2001].
+> provisto. [@lessig-2001]
 
 Está en la naturaleza de los recursos informacionales no rivales estar
 organizados en un fondo común.  En la misma línea, los recursos
@@ -387,7 +387,7 @@ crítica predominante de la propiedad intelectual actual:
 > también como salida del proceso productivo, los comunes proveen un
 > contexto cuya seguridad es sustancialmente mayor que lo que sucede
 > cuando recursos materiales, como los parques y las autopistas, están
-> en juego [@benkler-2006, pp. 146].
+> en juego. [@benkler-2006, pp. 146]
 
 Aun más que Lawrence Lessig, Yochai Benkler reconoce que su razonamiento
 descansa sobre condiciones sociales y tecnológicas que son transitorias.
@@ -472,13 +472,13 @@ puede dar una explicación de la realidad última y exhaustiva, nuevas
 anomalías están destinadas a aparecer.
 
 Un denominador común y postulado clave en el pensamiento económico
-clásico y neoclásico es la omnipresencia de las escasez.  Dado que los
+clásico y neoclásico es la omnipresencia de la escasez.  Dado que los
 recursos son limitados en relación a las necesidades y deseos ilimitados
 de los humanos, éstos actúan como agentes económicos maximizadores.  Es
 por esta razón, nos dicen, que la teoría económica puede hacer
 predicciones sobre el comportamiento humano.  El economista debe
 postular la escasez para poder ver cualquier cosa en el mundo.  La
-escasez es su condición para la visión, y su punto ciego.  Para tal
+escasez es su condición para la visión y su punto ciego.  Para tal
 ciencia, la existencia de algo no rival se vuelve una anomalía.  Este
 fenómeno ha sido reconocido por los economistas como el problema de los
 "bienes públicos".  Desde este paradigma, los bienes públicos son causa
@@ -593,10 +593,10 @@ privilegiado cuando hizo las siguientes observaciones:
 > El sistema industrial-mercantil instituye la escasez de una manera sin
 > paralelo precedentes y en un grado sin aproximación en ningún otro
 > lugar.  Donde la producción y la distribución están organizadas a
-> través del comportamiento de los precios, y todos los medios de vida
+> través del comportamiento de los precios y todos los medios de vida
 > dependen de obtener y gastar, la insuficiencia del los medios
 > materiales material se convierte en el punto inicial explícito y
-> calculable de toda la actividad económica [@sahlins-1972, pp. 4].
+> calculable de toda la actividad económica. [@sahlins-1972, pp. 4]
 
 [^always-already]:
   Always-already en el original. Ver el artículo en Wikipedia:
@@ -615,7 +615,7 @@ de James Boyle, se convirtió en "un segundo movimiento de cercamiento"
 crítica más amplia de la propiedad privada y la mercantilización como
 momentos de un todo social desplegándose históricamente.  La perspectiva
 histórica de la escasez pone el énfasis en la continuidad antes que en
-la discontinuidad, y muestra que la economía política de la información
+la discontinuidad y muestra que la economía política de la información
 no es tan excepcional después de todo.  Nada de lo dicho hasta ahora
 niega la noción de sentido común de que hay una diferencia cualitativa
 entre los bienes informacionales y los tangibles.  Tampoco niego que
@@ -629,7 +629,7 @@ de la excepcionalidad de la información:
 > respondemos que su valor nace solamente de su transformación en una
 > mercancía: un recurso socialmente revalorizado y refinado a través de
 > aplicaciones históricas progresivas del trabajo asalariado y el
-> mercado, hacia su producción e intercambio [@schiller-1988. pp. 41].
+> mercado, hacia su producción e intercambio. [@schiller-1988. pp. 41]
 
 Lo que parecen ser características inherentes a la información terminan
 siendo, en un segundo vistazo, un momento pasajero en un proceso
@@ -643,7 +643,7 @@ grabado a fuego en las infraestructuras, prácticas y representaciones de
 nuestra sociedad.  Decir que esta definición de la información es una
 innovación cultural y una construcción no implica que pueda desaparecer
 de la noche a la mañana, simplemente haciendo una crítica de ella.  La
-información entendida de esta forma es lo suficientemente real, y ha
+información entendida de esta forma es lo suficientemente real y ha
 contribuido a una ruptura en la urdimbre de la sociedad,
 correspondiéndose a grandes rasgos con el esparcimiento de la tecnología
 de la información.  Mi única disputa es que esta ruptura debe atribuirse
@@ -673,7 +673,7 @@ punto sucintamente:
 
 > Nuestra ventaja es que podemos utilizar capacidades de programación
 > fácilmente disponibles para hacer lo que antes requería diseñadores de
-> chips caros y díficiles de reclutar [@gibson-1999, pp. 38].
+> chips caros y díficiles de reclutar. [@gibson-1999, pp. 38]
 
 [^FPGA]: Un tipo de circuitos (FPGA) que se pueden programar fuera de la
          fábrica, o sea "en el campo". _(Nota de traducción)_
@@ -786,7 +786,7 @@ pasado sobre la anterior barrera entre lo virtual y lo físico. En otras
 palabras, la proyección ha transformado la propiedad privada tal como la
 conocemos.  Los dos tipos de propiedad convergen en lo que he dado en
 llamar "propiedad aumentada".  La defensa de que esta proyección es
-lógicamente imposible, dejaría muchas lagunas, y no aplica correctamente
+lógicamente imposible, dejaría muchas lagunas y no aplica correctamente
 a los objetos realmente existentes, es de poca importancia.  El
 triángulo de Penrose no puede existir en términos lógicos, pero la
 ilusión de uno es suficiente para los propósitos de leyes y mercados. La
