@@ -176,7 +176,7 @@ supports my claim that the proliferation of hackerspaces went hand in
 hand with a forgetting of the history that I am setting out to
 recapitulate here.
 
-![Encuesta de registro de dominios de la lista de hacklabs en hacklabs.org](http://peerproduction.net/wp-content/uploads/2012/06/figure1Maxigas8.jpg)
+![Encuesta de registro de dominios de la lista de hacklabs en hacklabs.org](img/colour-hacklabs.png)
 
 
 Los Hacklabs
@@ -1480,7 +1480,7 @@ more liberal-leaning political content allowed the movement to spread
 and forge connections in multiple directions without loosing its own
 thrust: from companies through civil society to a general audience.
 
-![Las dos figuras previas superimpuestas en pos de la clarificación.](http://peerproduction.net/wp-content/uploads/2012/06/figure3maxigas2.jpg)
+![Las dos figuras previas superimpuestas en pos de la clarificación.](img/colour-hacklabs-vs-hackerspaces.png)
 
 Figure 3. The two previous figures superimposed for the sake of
 clarification.
