@@ -1,0 +1,133 @@
+---
+layout: post
+author: "Dmytri Kleiner"
+title: "M - C - LOL: Circuitos de valor en la economía de los lulz"
+license: http://endefensadelsl.org/ppl_deed_es.html
+---
+
+> _"M - C - LOL: Circuits of value in the Lulz economy"_[^1] por
+> Dmytri Kleiner. Traducción por fauno, correcciones por mep, midraed
+> y sísifo, enero de 2015.
+
+Ni el software libre ni el financiamiento colectivo [multitudinario]
+nos salvarán del capitalismo.  No podemos derrocar al capitalismo
+trabajando por los lulz[^lulz]. Lo que necesitamos es crear nuevos
+circuitos de valor que nos permitan construir los nuevos medios de
+supervivencia en el planeta. Sólo en ese momento podremos librarnos
+del capitalismo.
+
+[^lulz]: Por el simple placer de hacerlo, por las risas (Nota de la
+Traducción.)
+
+En los estadíos de la producción capitalista, el Capitalista acude al
+mercado dos veces.  La primera vez como comprador y la segunda como
+vendedor.
+
+Marx lo describió como M - C - M'
+
+En el primer estadío el capitalista compra bienes y tiempo de trabajo.
+En el segundo, los bienes y el trabajo adquirido son puestos a
+producir.  El resultado es una mercancía de mayor valor que la de los
+elementos combinados en su producción.  En el tercer estadío, el
+capitalista regresa al mercado como vendedor.  Las nuevas mercancías
+son convertidas en más dinero.
+
+Como el capitalista termina con más dinero a raíz del proceso
+productivo, puede comprar más tiempo de trabajo y mercancías para
+repetir el proceso una y otra vez.
+
+Al invertir en la producción el capitalista puede reproducir,
+incrementar y acumular capital.  Este ciclo reproductivo es lo que
+hace al capitalismo un sistema vivo y dinámico que se expande.
+
+Este mismo proceso de producción capitalista tiene muchos negativos,
+muchos de los cuales se derivan de la explotación inherente a la
+conversión de tiempo de trabajo en mercancía, o de la práctica por la
+que los bienes productivos están puestos en el interés lucrativo, en
+lugar del bien social y todavía muchos más a partir de la desposesión
+y cerramiento requeridos para crear las condiciones sociales de la
+producción capitalista.
+
+Aun así, el capitalismo nos sustenta.  A pesar de sus costos sociales,
+sus fábricas e instituciones proveen los medios de supervivencia sobre
+los que depende el mundo, aun cuando sus contradicciones pongan en
+peligro nuestra supervivencia.
+
+Para trascender al capitalismo, tenemos que encontrar formas
+alternativas de proveernos los medios de supervivencia. "Terminar" el
+capitalismo antes de que estas estrategias productivas alternativas
+sean concebidas o existan en escala suficiente, muy probablemente
+lleven a un colapso hacia una nueva edad oscura antes que a una
+sociedad más justa y sostenible.
+
+Para que estas estrategias productivas alternativas pueden alcanzar
+una escala en la que se conviertan en alternativas viables al
+capitalismo, deben, como este, ser sistemas vivos y dinámicos capaces
+de crecer.  Necesitan ser capaces de reproducir su producción.  Las
+economías alternativas deben poseer circuitos de valor sostenibles
+para poder ser verdaderamente viables.
+
+El Software Libre tanto como los bienes financiados a través de
+Kickstarter y sitios similares parecen o simulan una forma de
+producción, ya que después de todo hay cosas que están siendo
+producidas.  Es posible usar software libre, así como se consume una
+película, un libro o el último chirimbolo financiado en Kickstarter.
+
+Aun así, la forma en que se financia la creación de estos bienes no es
+capaz de reproducirse a sí misma.
+
+En la creación de software libre y en el financiamiento de proyectos a
+través de Kickstarter, el dinero que sustenta el primer estadío
+proviene de donaciones, ya sean donaciones de dinero en el caso del
+financiamiento multitudinario, o en especie, en forma de trabajo
+gratuito para el caso del software libre.  Estas donaciones y
+contribuciones en especie se hacen voluntariamente.  Aún así esta
+producción voluntarista es diferente de la producción capitalista.
+
+M – C – LOL
+
+Entonces, como los capitalistas, los productores voluntarios acuden al
+mercado dos veces.  La primera vez como compradores, la segunda por
+los lulz.  Sin embargo, a diferencia de los capitalistas el círculo no
+se completa, porque los lulz no los habilitan para volver a ser
+compradores, no les permiten adquirir los bienes que necesitan para
+repetir tal producción.
+
+Sí, en el caso del Software Libre, algunas grandes corporaciones
+proveen financiamiento y bastante.  Esto es el capitalista acudiendo
+al mercado como comprador, no como vendedor.  Se trata entonces de
+consumo capitalista, ya que no necesitan lucrar del software libre en
+forma directa, sino usándolo en su proceso productivo y ganar dinero
+cuando regresen al mercado con el producto resultante, el cual es
+distribuido por más dinero, no por los lulz.
+
+La fuente de este dinero no es un nuevo modo de producción, sino que
+es capitalismo.  Es simplemente parte de la inversión que el capital
+debe hacer en sus medios de producción.  Se trata de consumo, no de
+producción.
+
+Y sí, los receptores del financiamiento por Kickstarter pueden usarlo
+para hacer dinero, pero ese ingreso no fluye de vuelta a aquellos que
+hicieron la donación original.  Los donantes, en su mayor parte, deben
+regresar al trabajo para ganar un salario y volver a donar.  Por lo
+tanto ese dinero proviene de sus empleadores capitalistas y es gastado
+de su salario neto disponible, o en otras palabras y de nuevo, es
+consumo y no producción.
+
+Tanto el software libre como el financiamiento colectivo son meras
+formas nóveles de distribución dentro del modo de producción
+capitalista y por lo tanto no son un nuevo modo de producción
+potencialmente disruptivo.
+
+Para transformar estas prácticas en formas genuinamente
+revolucionarias, debemos poseer colectivamente los medios de
+producción que creamos, por lo que el software no solo debe ser libre
+sino que además debemos poseer colectivamente la riqueza que resulta
+de ponerlo a producir.  Debemos poseer colectivamente los productos
+que se generan a través del financiamiento colectivo, para que podamos
+utilizarla en la reproducción de este ciclo, una y otra vez.
+
+Mientras nuestro trabajo solo obtenga lulz a cambio, el capitalismo
+seguirá riendo último.
+
+[^1]: [http://www.dmytri.info/m-c-lol/](http://www.dmytri.info/m-c-lol/)
