@@ -16,7 +16,7 @@ Introducción
 Resulta muy prometedor trazar la genealogía de los hackerspaces desde
 la perspectiva de los hacklabs, ya que la relación entre estas
 escenas es raramente discutida y en gran parte permanece inexplorada.
-Una aproximación metódica a dicha relación, echará luz a muchas diferencias
+Una aproximación metódica a dicha relación, resaltará muchas diferencias
 y conexiones interesantes que pueden ser útiles para las practicantes que
 busquen nutrir y difundir la cultura de los hackerspaces y para las
 académicas que buscan conceptualizarlos y entenderlos. En particular, los
@@ -26,7 +26,7 @@ el tope de su popularidad, por lo que mientras florece una nueva ola de fablabs,
 gente como Grenzfurthner y Schneider [-@grenzfurthner-schneider-2009] han comenzado a preguntarse
 sobre la dirección de estos movimientos. Me gustaría contribuir
 a este debate sobre la dirección política y los potenciales políticos de
-los hacklabs y hackerspaces, con un paper historiográfico comparativo y
+los hacklabs y hackerspaces, con un artículo historiográfico comparativo y
 crítico. Mi interés principal está puesto en cómo estas redes
 entrelazadas de instituciones y comunidades pueden escapar al aparato de
 captura capitalista y cómo estas potencialidades están condicionadas por
@@ -94,7 +94,7 @@ las interpretaciones de lo que significa "libertad" divergen. Un ejemplo
 concreto de cómo estas divergencias históricas e ideológicas se plasman,
 puede encontrarse en el estatus legal de los espacios: mientras que los
 hacklabs suelen ubicarse en edificios okupados, los hackerspaces se
-encuentran generalmente en lugares de alquiler.
+encuentran generalmente en lugares pagando renta.
 
 Despite the fact that these spaces share the same cultural heritage,
 some of their ideological and historical roots are indeed different.
@@ -115,13 +115,13 @@ show up is to be found in the legal status of the spaces: while hacklabs
 are often located in squatted buildings, hackerspaces are generally
 rented.
 
-Este paper consta de tres secciones distintas. Las primeras dos
-secciones elaboran la genealogía histórica e ideológica de los hacklabs
+Este artículo consta de tres secciones distintas. Las primeras dos
+secciones trazan la genealogía histórica e ideológica de los hacklabs
 y los hackerspaces. La tercer sección unifica lo encontrado antes con la intención
 de contraponerlo a las diferencias existentes desde un punto de vista
 contemporáneo. Mientras que las secciones genealógicas son descriptivas,
 la evaluación en la última sección es normativa, preguntándose cómo las
-diferencias identificadas en el paper se juegan desde un punto de vista
+diferencias identificadas en el artículo se juegan desde un punto de vista
 estratégico en la creación de espacios, sujetos y tecnologías
 postcapitalistas.
 
@@ -137,9 +137,9 @@ postcapitalist spaces, subjects and technologies.
 Nótese que en la actualidad los términos "hacklab" y "hackerspace" son
 usados en líneas generales como sinónimos. Al contrario de la categorización
 actual, uso hacklabs en su sentido antiguo (el de los '90) e histórico, con la
-intención de echar luz a las diferencias históricas e ideológicas que
+intención de resaltar las diferencias históricas e ideológicas que
 resultan en una aproximación diferente a la
-tecnología. Esto no es un puntillismo lingüístico, sino que se trata de un intento de
+tecnología. Esto no es un señalamiento lingüístico, sino que se trata de un intento de
 permitir un entendimiento más sutil de los ámbitos y prácticas en
 consideración. La continua evolución de estos términos, reflejando los
 cambios sociales que han tenido lugar, se encuentra registrada en
@@ -152,7 +152,7 @@ usuario con el nombre de "Anarkitekt" escribió que "nunca he escuchado o
 leído nada que implicase que hay una diferencia ideológica entre los
 términos hackerspace y hacklab" [@wikipedia-hacklab-2010b]. Por lo
 tanto, el tratamiento del tema por parte de las wikipedistas apoya mi
-planteo de que la proliferación de los hackerspaces fue de la mano con un
+planteamiento de que la proliferación de los hackerspaces fue de la mano con un
 olvido de la historia que intento recapitular aquí.
 
 Note that at the moment the terms “hacklab” and “hackerspace” are used
@@ -192,7 +192,7 @@ de estas dos historias, enfatizando elementos
 que son importantes desde el punto de vista de la emergencia de los
 hacklabs. La cultura hacker, de no menor importancia, será tratada en la
 posterior sección con más detalle. Una definición de un artículo
-seminal, de Simon Yuill señala las formas de pensamiento básicas detrás
+germinal, de Simon Yuill señala las formas de pensamiento básicas detrás
 de estas iniciativas[-@yuill-2008]:
 
 The surge of hacklabs can be attributed to a number of factors. In order
@@ -213,7 +213,7 @@ Yuill highlights the basic rationales behind these initiatives (2008):
 > programación, electrónica y radiodifusión independiente (o pirata). Los
 > primeros hacklabs se desarrollaron en Europa, usualmente surgiendo de
 > tradiciones de centros sociales okupados y media labs comunitarios. En
-> Italia se los conecta con los centros sociales autonomistas y en España,
+> Italia se les relaciona con los centros sociales autonomistas y en España,
 > Alemania y en los Países Bajos con movimientos de okupación
 > anarquistas."
 
@@ -283,8 +283,8 @@ activism (Lotringer Marazzi, 2007).
 
 La reapropiación de lugares físicos y de propiedades tiene una historia
 mucho más larga que la de los movimientos autónomos. Algunas veces, como
-es en el caso de los asentamientos piratas descripto por Hakim Bey
-(1995, 2003), estos lugares han evolucionado en ciudades para "formas de
+es en el caso de los asentamientos piratas descrito por Hakim Bey
+(1995, 2003), estos lugares han evolucionado en ciudades como "formas de
 vida" alternativas (Agamben, 1998). La escasez de viviendas luego de la
 segunda guerra mundial resultó en una oleada de ocupaciones en el Reino
 Unido (Hinton, 1988) lo cual tomó necesariamente un estatuto político y
@@ -338,12 +338,12 @@ en estos choques que tenían frecuentemente calles enteras bajo bloqueo,
 era el forzamiento al Estado y el Capital a reconocer las okupaciones
 como una práctica social medianamente legítima. Mientras que el
 allanamiento e ingreso a propiedad privada continuaba siendo ilegal, las
-okupas recibían al menos una protección legal temporaria y las disputas
+okupas recibían al menos una protección legal temporal y las disputas
 debían ser resueltas en una corte, usualmente tomando un largo tiempo
-para concluirse. La okupación proliferó en ese "área gris" resultante.
+para concluirse. La okupación proliferó en esa "área gris" resultante.
 Prácticas de refuerzo, leyes okupas y marcos de trabajo se establecieron
 en el Reino Unido, Catalunia, Países Bajos y Alemania. Algunos de los
-centros sociales mas poderosos (como el EKH en Vienna) y un manojo de
+centros sociales más poderosos (como el EKH en Vienna) y un manojo de
 escenas fuertes en algunas ciudades (como Barcelona) lograron asegurar
 su existencia en la primer década del siglo XXI. Los años recientes han
 visto una serie de golpes a las últimas zonas de okupaciones populares
@@ -406,7 +406,7 @@ mediactivistas jugaron un rol en la emergencia del movimiento de
 globalización-alternativa, estableciendo la red Indymedia. Indymedia
 esta compuesta por centros locales de medios independientes y una
 infraestructura global que los mantiene juntos (Morris 2004 da una
-descripción justa). Focalizándose en publicaciones abiertas como
+descripción justa). Enfocándose en publicaciones abiertas como
 principio editorial, la iniciativa rápidamente unió e involucró a tantas
 activistas que devino rápidamente una de las marcas mas reconocidas del
 movimiento de globalización-alternativa, lentamente cayendo a la
@@ -416,7 +416,7 @@ Berardi, también conocido como Bifo, quien estuvo involucrado en Radio
 Alice, mencionada con anterioridad. OrfeoTv comenzó en 2002 y usaba
 recibidores modificados de televisiones comerciales para transmisión
 televisiva pirata. (ver Telestreet, the Italian Media Jacking Movement,
-2005). Aunque la iniciativa Telestreet pasó en una escala mucho menor
+2005). Aunque la iniciativa Telestreet pasó a una escala mucho menor
 que los desarrollos esbozados anteriormente, vale la pena señalarla ya
 que  las operadoras de Telestreet hicieron ingeniería inversa en
 productos masivos de la misma manera que lo hacen las hackers.
@@ -498,7 +498,7 @@ distinguía a las practicantes mediáticas en términos de identidad es que
 no se veían a si mismas simplemente como extranjeras o proveedoras de
 servicios, sino como una parte integral del movimiento social. Como
 demuestra Söderberg (2001), las convicciones políticas de una comunidad
-de usuarias puede ser una habilitadora usualmente desestima de
+de usuarias puede ser una habilitadora usualmente menospreciada de
 creatividad tecnológica.
 
 Taking a cue from Situationism with its principal idea of making
@@ -630,9 +630,9 @@ en una casa de estilo Georgiana, estaba compuesta por un edificio de
 teatro, un bar, dos niveles de espacios de vivienda y un sótano que
 tenía un taller de bicicletas y espacio para un estudio (ver Foti,
 2010). El hacklab proveía una red de área local y un servidor mediático
-para la casa, y servía como un espacio de toqueteo para aquellas
+para la casa, y servía como un espacio de cacharreo para aquellas
 inclinadas hacia la tecnología. Durante eventos como el Free School, las
-participantes, incluyendo tanto a novatas absolutas como a hobbystas mas
+participantes, incluyendo tanto a novatas absolutas como a hobbystas más
 dedicadas, podían aprender a usar tecnologías libres y de código
 abierto, seguridad de redes y testeo de penetración. Las actividades de
 todos los días iban desde arreglar aparatos electrónicos rotos, pasando
@@ -701,7 +701,7 @@ between hacklabs and hackerspaces, to be discussed in Section 3.
 
 Una rudimentaria encuesta basada en los registros a páginas (ver Figura
 1. en el apéndice), investigación de escritorio y entrevistas, muestra
-que los primeros hacklabs fueron establecidos en la década alrededor del
+que los primeros hacklabs fueron establecidos en la década circundante del
 cambio de milenio (1995-2005). Su concentración en el Sur de Europa ha
 sido señalada por la organización de los "hackmeetins" anuales en
 Italia, que comenzaron en 1998. El Hackmeeting es un encuentro donde las
@@ -738,7 +738,7 @@ security and anonymity, electronic art and media production.
 Las actividades de Print, un hacklab localizado en una okupación en
 Dijon, que se llama "Les Tanneries", muestra el tipo de contribuciones
 que surgieron de estos lugares. La gente activa en Print ha mantenido un
-laboratorio de computadoras con con acceso a Internet gratuito para
+laboratorio de computadoras con acceso a Internet gratuito para
 visitantes del centro social, y una colección de componentes de
 computadoras viejos que las concurrentes pueden usar para construir sus
 propias computadoras. Han organizado eventos de distintos tamaños (de un
@@ -782,7 +782,7 @@ okupando un edificio separado hace de anfitrión a un estudio de radio
 manejado por mujeres. Las actividades ahí, gravitan alrededor tres ejes,
 software libre, tecnología, y creatividad artística. Sin embargo, como
 testimonio de la influencia del mediactivismo, la mayoría de los
-proyectos y eventos están concentrados en producción de mediática, como
+proyectos y eventos están concentrados en producción mediática, como
 el procesamiento en tiempo real de audio y video, transmitiendo y
 haciendo campaña contra el copyright y otras restricciones a la
 distribución libre de información. La lista de ejemplos podría
@@ -833,7 +833,7 @@ espacios tienden a focalizarse en resultados concretos como proyectos de
 investigación o productos comerciales. Los "Telecottages" y "telehouses"
 están a la mitad del espectro. Están típicamente financiados por fondos
 de desarrollo para mejorar a través de las TICs las condiciones sociales
-y económicas locales. Inclusive los makerlabs son algunas veces
+y económicas locales. Incluso los makerlabs son algunas veces
 gestaciones comerciales (como Fablab en Budapest, que no debe
 confundirse con el Centro Autónomo Hungariano para el Conocimiento
 mencionado anteriormente), basado en la idea de proveer como servicio,
@@ -873,7 +873,7 @@ production model (MIT’s Center for Bits and Atoms, 2007). What sets
 hackerspaces apart — along with most fablabs — is that they are set up
 by hackers for hackers with the principal mission of supporting hacking.
 
-Este es por lo tanto, el momento apropiado del paper para centrarnos en
+Este es por lo tanto, el momento apropiado del artículo para centrarnos en
 el aspecto social e histórico del fenómeno del hacking. Esto no quiere
 decir que los hacklabs - como lo indica su nombre - estén menos
 involucrados en una tradición inspirada por hackers. Podría hacerse un
