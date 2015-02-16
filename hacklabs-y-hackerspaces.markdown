@@ -840,7 +840,7 @@ mencionado anteriormente), basado en la idea de proveer como servicio,
 acceso a herramientas para compañías e individuos. Los Fablabs pueden
 ser la nueva generación en la evolución de los hackerspaces,
 focalizándose en la manufactura de proyectos de construcción
-personalizada. Se los encuadra como una fábrica repensada a partir de la
+personalizada. Se les encuadra como una fábrica repensada a partir de la
 inspiración del modelo de producción de pares (MIT’s Center for Bits and
 Atoms, 2007). Lo que caracteriza a los hackerspaces - junto con la
 mayoría de los fablabs - es que están armados por hackers y para hackers
@@ -924,7 +924,7 @@ completa - sino "real" - Weltanschauung (Visión del mundo) a la cultura
 hacker. La idea de un futuro oscuro, donde la libertad sólo puede
 encontrarse en los margenes y las corporaciones gobiernan el mundo,
 llamaba tanto a las hackers de universidad como a las prheakers. Las
-estrellas del underground "prheaker" habían sido perseguidas por las
+estrellas del underground "phreaker" habían sido perseguidas por las
 autoridades legales por sus "pranks" a los gigantes de la comunicación,
 mientras que Richard Stallman - " la última de [la primer generación de]
 las verdaderas hackers" (Levy [1984], 2001) - inventó el software libre
