@@ -31,13 +31,13 @@ necesita ser compartido libremente y estar disponible para todos los que
 necesiten el mismo material en el futuro. No es accidental que la
 producción de pares haya nacido entre los desarrolladores de software,
 que dependen específicamente del acceso a código compartible para poder
-desarrollar tu trabajo.
+desarrollar su trabajo.
 
 Para el trabajo cognitivo asalariado que se encuentra bajo condiciones
 estructurales de explotación y propiedad intelectual, la producción de
 pares es la modalidad de vida y trabajo a la que los trabajadores
 cognitivos aspiran y en la que se involucran en cuanto pueden escapar
-del trabajo asalariado; o al que están obligados luego de un precario
+del trabajo asalariado; o a la que están obligados luego de un precario
 éxodo del trabajo asalariado en el contexto de condiciones de crisis
 económica temporal o permanente.
 
@@ -54,8 +54,8 @@ redes de intercambio y solidaridad. La producción de pares en red es el
 mejor camino para percibir estas ventajas.
 
 El par-a-par y el involucramiento en la producción de pares son las
-condiciones objetivas de la participación en redes y por lo tanto afecta
-e involucra a todos los usuarios de la red, al grado de involucrarse en
+condiciones objetivas de la participación en redes y por lo tanto afectan
+y comprometen a todos los usuarios de la red, al grado de involucrarlos en
 la colaboración e intercambio de conocimiento en línea y la eventual
 creación de valor común a través de esa agregación libre de esfuerzos.
 Todo trabajo, sin embargo, posee aspectos cognitivos y hoy en día todos
@@ -63,7 +63,7 @@ los trabajadores están expuestos a las redes y a sistemas de valores de
 pares. Por lo tanto, este sistema de valores y producción en tanto
 dinámica social *no está* constreñido a los trabajos cognitivos de
 tiempo completo sino a la totalidad de la clase trabajadora y de la
-gente trabajando.
+gente que trabaja.
 
 Debido a la naturaleza hiperproductiva de la producción de pares, que
 permite la más amplia participación e ingreso, involucramiento
@@ -206,13 +206,13 @@ de valor común es una actividad altamente emancipatoria.
 
 Por su naturaleza hiperproductiva y su inherente sostenibilidad
 ecológica, la producción de pares se convierte en la condición para
-transcender el capitalismo. Su propia lógica, es decir la contribución
+trascender el capitalismo. Su propia lógica, es decir la contribución
 libre a los comunes, administrada por asociaciones con fines de
 beneficio y hecha sostenible a través de emprendimientos con fines de
 beneficio de los comuneros mismos, crea la forma seminal de una nueva
 formación económica y social, centrada alrededor de la creación de valor
-de los comunes, administrada y contribuida tanto por asociaciones con
-fines de beneficio como de coaliciones de emprendedores y sostenida por
+de los comunes, administrada por y a la que contribuyen tanto asociaciones con
+fines de beneficio como coaliciones de emprendedores y sostenida por
 servicios colectivos participativos que forman la base de un nuevo
 modelo de Estado Socio, habilitando y empoderando la producción social
 como la razón principal de su existencia.
