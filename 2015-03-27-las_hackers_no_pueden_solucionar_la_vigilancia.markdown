@@ -3,6 +3,7 @@ layout: post
 title: "Las hackers no pueden solucionar la vigilancia"
 author: "Dmytri Kleiner"
 license: http://endefensadelsl.org/ppl_deed_es.html
+old-slug: las_hackers_no_pueden_resolver_la_vigilancia.html
 ---
 
 Las hackers no pueden solucionar la vigilancia
