@@ -97,7 +97,8 @@ tanto, el tratamiento del tema por parte de las wikipedistas apoya mi
 planteamiento de que la proliferación de los hackerspaces vino de la
 mano con un olvido de la historia que intento recapitular aquí.
 
-![Encuesta de registro de dominios de la lista de hacklabs en hacklabs.org](img/colour-hacklabs.png)
+![Encuesta de registro de dominios de la lista de hacklabs en
+hacklabs.org](images/colour-hacklabs.png)
 
 
 Los Hacklabs
@@ -795,7 +796,8 @@ permitió que el movimiento se esparza y forje conexiones en múltiples
 direcciones sin perder su propio empuje: desde las empresas, pasando por
 la sociedad civil hasta un público general.
 
-![Las dos figuras previas superimpuestas en pos de la clarificación.](img/colour-hacklabs-vs-hackerspaces.png)
+![Las dos figuras previas superimpuestas en pos de la
+clarificación.](images/colour-hacklabs-vs-hackerspaces.png)
 
 
 Hacklabs y Hackerspaces
