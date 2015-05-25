@@ -89,13 +89,13 @@ registrada en Wikipedia. El artículo de Hacklab fue creado en 2006
 [@wikipedia-hacklab-2010a], el artículo de Hackerspace en 2008
 [@wikipedia-hackerspace-2011]. En 2010, el contenido del artículo
 Hacklab fue unido al artículo de Hackerspace. Esta unión fue justificada
-en la correspondiente página de discusión [@wikipedia-hacklab-2010]. Un
-usuario con el nombre de "Anarkitekt" escribió que "nunca he escuchado o
-leído nada que implicase que hay una diferencia ideológica entre los
-términos hackerspace y hacklab" [@wikipedia-hacklab-2010b]. Por lo
-tanto, el tratamiento del tema por parte de las wikipedistas apoya mi
-planteamiento de que la proliferación de los hackerspaces vino de la
-mano con un olvido de la historia que intento recapitular aquí.
+en la correspondiente página de discusión [@wikipedia-hacklab-2010b].
+Un usuario con el nombre de "Anarkitekt" escribió que "nunca he
+escuchado o leído nada que implicase que hay una diferencia ideológica
+entre los términos hackerspace y hacklab" [@wikipedia-hacklab-2010b].
+Por lo tanto, el tratamiento del tema por parte de las wikipedistas
+apoya mi planteamiento de que la proliferación de los hackerspaces vino
+de la mano con un olvido de la historia que intento recapitular aquí.
 
 ![Encuesta de registro de dominios de la lista de hacklabs en
 hacklabs.org](images/colour-hacklabs.png)
@@ -157,7 +157,7 @@ mediactivismo [@lotringer-marazzi-2007].
 La reapropiación de lugares físicos y de propiedades inmuebles tiene una
 historia mucho más larga que la de los movimientos autónomos. Algunas
 veces, como es en el caso de los asentamientos piratas descrito por
-Hakim Bey [-@bey-1995; -@bey-2003], estos lugares han evolucionado en
+Hakim Bey [-@bey-2003], estos lugares han evolucionado en
 ciudades como "formas de vida" alternativas [@agamben-1998]. La escasez
 de viviendas luego de la segunda guerra mundial resultó en una oleada de
 ocupaciones en el Reino Unido [@hinton-1988] lo cual tomó necesariamente
@@ -180,25 +180,24 @@ Capital. Por otro lado, los espacios okupados tanto temporalmente como
 los más o menos permanentes servían como bases, y algunas veces líneas
 de frente, de un conjunto de actividades de protesta.
 
-Con el inicio del neoliberalismo [@harvey-2005; @harvey-2007], las
-okupas tuvieron que pelear duramente por su territorio, lo que tuvo como
-resultado las "guerras okupas" de los '90. Lo que estaba en juego en
-estos choques que bloqueaban frecuentemente calles enteras, era el
-forzamiento al Estado y el Capital a reconocer las okupaciones como una
-práctica social medianamente legítima. Mientras que el allanamiento e
-ingreso a propiedad privada continuaba siendo ilegal, las okupas
-recibían al menos una protección legal temporal y las disputas debían
-ser resueltas en una corte, usualmente tomando un largo tiempo para
-concluir. La okupación proliferó en esa "área gris".  Se establecieron
-prácticas de refuerzo, leyes okupas y marcos de trabajo en el Reino
-Unido, Catalunia, Países Bajos y Alemania. Algunos de los centros
-sociales más poderosos (como el EKH en Viena) y un manojo de escenas
-fuertes en algunas ciudades (como Barcelona) lograron asegurar su
-existencia hasta la primer década del siglo XXI. Los años recientes han
-visto una serie de golpes a las últimas zonas de okupaciones populares,
-como la abolición de las leyes de protección de okupas en los Países
-Bajos [@usher-2010] y discusiones sobre el mismo tema en el Reino Unido
-[@house-of-commons-2010].
+Con el inicio del neoliberalismo [@harvey-2007], las okupas tuvieron que
+pelear duramente por su territorio, lo que tuvo como resultado las
+"guerras okupas" de los '90. Lo que estaba en juego en estos choques que
+bloqueaban frecuentemente calles enteras, era el forzamiento al Estado y
+el Capital a reconocer las okupaciones como una práctica social
+medianamente legítima. Mientras que el allanamiento e ingreso a
+propiedad privada continuaba siendo ilegal, las okupas recibían al menos
+una protección legal temporal y las disputas debían ser resueltas en una
+corte, usualmente tomando un largo tiempo para concluir. La okupación
+proliferó en esa "área gris".  Se establecieron prácticas de refuerzo,
+leyes okupas y marcos de trabajo en el Reino Unido, Catalunia, Países
+Bajos y Alemania. Algunos de los centros sociales más poderosos (como el
+EKH en Viena) y un manojo de escenas fuertes en algunas ciudades (como
+Barcelona) lograron asegurar su existencia hasta la primer década del
+siglo XXI. Los años recientes han visto una serie de golpes a las
+últimas zonas de okupaciones populares, como la abolición de las leyes
+de protección de okupas en los Países Bajos [@usher-2010] y discusiones
+sobre el mismo tema en el Reino Unido [@house-of-commons-2010].
 
 El mediactivismo se desarrolló por vías similares, sobre la base de una
 tradición de publicaciones independientes. Adrian Jones [-@jones-2009]
@@ -206,7 +205,7 @@ aduce una continuidad no sólo estructural sino también histórica en las
 prácticas de las radios piratas de los '60 y los conflictos de copyright
 contemporáneos protagonizados por Pirate Bay. Desde un punto de vista
 estrictamente activista, una contribución temprana muy importante fue
-Radio Alice [-@alice-1976] que emergió desde la escena autonomista en
+Radio Alice (en 1976) que emergió desde la escena autonomista en
 Boloña [@berardi-mecchia-2007]. Las radios piratas y su contraparte
 reformista, las estaciones de radio comunitarias, florecieron desde
 entonces. Sin embargo, rekuperar las frecuencias de radio era solamente
@@ -282,7 +281,7 @@ ideológicas, sin embargo, lo que distinguía a las practicantes
 mediáticas en términos de identidad es que no se veían a si mismas
 simplemente como ajenas o proveedoras de servicios, sino como una parte
 integral del movimiento social. Como demuestra Söderberg
-[-@soderberg-2001], las convicciones políticas de una comunidad de
+[-@soderberg-2011], las convicciones políticas de una comunidad de
 usuarias puede ser una habilitadora usualmente menospreciada de
 creatividad tecnológica.
 
@@ -465,7 +464,7 @@ individuales. Los Fablabs pueden ser la nueva generación en la evolución
 de los hackerspaces, focalizándose en la manufactura de proyectos de
 construcción personalizada. Se les encuadra como una fábrica repensada a
 partir de la inspiración del modelo de producción de pares
-[@mit-bits-and-atoms-2007]. Lo que caracteriza a los hackerspaces (junto
+[@mit-2007]. Lo que caracteriza a los hackerspaces (junto
 con la mayoría de los fablabs) es que están armados por hackers y para
 hackers con la misión principal de apoyar el hackeo.
 
@@ -548,7 +547,7 @@ contradicciones inherentes a la misma tradición política
 hackers: cryptolibertad, software libre y de código abierto y
 underground hacker. Sin embargo, no pretenden que dichas categorías
 agoten la riqueza de la cultura hacker. Al contrario, en un artículo de
-opinión en el _Atlantic_, Coleman [-@coleman-2010] explícitamente
+opinión en el _Atlantic_, Coleman [-@coleman-golub-2010] explícitamente
 menciona que la escena de seguridad informática ha sido sub-representada
 en la literatura sobre hackers. Las tres tendencias identificadas en su
 texto difieren ligeramente de la clasificación que sugiero aquí. La
@@ -970,9 +969,9 @@ a menudo quedan estancadas en lo que podría llamarse un "gueto
 activista" o un "underground", lo que significa que inclusive el
 proyecto de la _Burnstation_ descrito anteriormente era accesible
 solamente a un grupo social limitado. A través de un proceso que
-Granzfurthner y Schneider describen como cooptación capitalista de la
+Grenzfurthner y Schneider describen como cooptación capitalista de la
 resistencia fértil inherente a esas escenas
-[-@granzfurthner-schneider-2009], los hackerspaces se las arreglaron
+[-@grenzfurthner-schneider-2009], los hackerspaces se las arreglaron
 para ir más alla de estos límites históricos y forjaron conexiones
 importantes. Esto último, continua teniendo un efecto duradero a través
 de los artefactos tecnológicos (tanto abstractos como físicos) que
@@ -1000,7 +999,7 @@ hackerspaces yace precisamente en el hecho de que no se han convertido
 en un movimiento social y por lo tanto no se encuentran limitados por
 las convenciones de los movimientos sociales. Se ubican en la
 intersección entre la distopía del "taller paradisíaco geek"
-[@granzfurthner-schneider-2009] y la realidad utópica de los espacios
+[@grenzfurthner-schneider-2009] y la realidad utópica de los espacios
 genuinamente contestatarios de alto impacto. Si más hackers pueden
 combinar la productividad tecnológica del "imperativo manos-a-la-obra"
 [@levy-2001] y las amplias posibilidades de polinización cruzada
@@ -1009,213 +1008,7 @@ hay un mundo por ganar.
 
 ![La Burnstation del "Hungarian Autonomous Center for Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo. Licencia: CC BY-NC.](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
 
-Obras Citadas
--------------
 
-Agamben, G. (1998) *Homo Sacer: Sovereign Power and Bare Life*.
-Standford, CA: Stanford University Press.
+Referencias
+-----------
 
-Anon. (2008) *Hackerspaces: The Beginning*. [e-book]
-http://blog.hackerspaces.org/2011/08/31/hackerspaces-the-beginning-the-book/
-[última visita 05/7 2011]
-
-. (2011) Interview on politics of hackerspaces. Vienna.
-
-AvANa.net. (2005) *Cronaca della nascita di un medialab al
-forteprenestino*. http://avana.forteprenestino.net/index.htm [última visita  5/7 2011]
-
-Barlow, J.P. (1996) *A Declaration of the Independence of Cyberspace*.
-https://projects.eff.org/\~barlow/Declaration-Final.html [última visita
-10/14 2011]
-
-Bazichelli, T. (2008) *Networking — The Net as Artwork*. Aarhus: Digital
-Aesthetics Research Center.
-
-Berardi, F. (Bifo) Mecchia, G. (2007) ‘Technology and Knowledge in a
-Universe of Indetermination’. *SubStance* 36(1): 56-74.
-
-Bey, H. (1995,, 2003) *Pirate Utopias: Moorish Corsairs and European
-Renegadoes*. New York: Autonomedia.
-
-Blaze, M. (2003) ‘*Is it harmful to discuss security vulnerabilities?’*
-http://www.crypto.com/hobbs.html [última visita 10/14 2011]
-
-Braybrooke, K. (2011) ‘She-Hackers: Millennials and Gender in European
-F/LOSS Subcultures — A Presentation of Research and Invitation for
-Debate’, talk at the 4th Chaos Communication Camp, Finowfurt airport,
-8/10-14.
-
-Burgmann, V. (2005) ‘From Syndicalism to Seattle: Class and the Politics
-of Identity’. *International Labor and Working-Class History*
-67(Spring,, 2005): 1-21.
-
-Cheswick, W. R., Bellovin, S.M. and Rubin, A.D. (2003) *Firewalls and
-Internet Security: Repelling the Wily Hacker*. Boston, MA:
-Addison-Wesley (Pearson Education).
-
-Clarke, R. (2001) ‘*Information Wants to be Free …’*.
-http://www.rogerclarke.com/II/IWtbF.html [última visita 10/14 2011]
-
-Coleman, G. and Golub, A. (2008) ‘Hacker Practice: Moral Genres and The
-Cultural Articulation of Liberalism’. *Anthropological Theory* September
-8(3): 255-277.
-
-(2010) ‘The Anthropology of Hackers’, *The Atlantic*,
-http://www.theatlantic.com/technology/archive/2010/09/the-anthropology-of-hackers/63308/
-[última visita 10/14 2011]
-
-Cosentino, R. platoniq. (2005). *Burnstation — Free Audio Culture*.
-http://burnstation.net/indexnew.html [última visita 5/7 2011]
-
-Critical Art Ensemble. (2000) Critical Art Ensemble Timeline. *TDR*44(4,
-Winter): 132-135.
-
-(2002). *Digital Resistance: Exploration in Tactical Media*, Autonomedia
-and Critical Art Ensemble: New York.
-
-Debord, G. ([1967], 1977) *Society of the Spectacle*. s.l.: Black Red.
-
-Endnotes, eds. (2008) *Endnotes 1: Preliminary Materials for a Balance
-Sheet of the 20th Century*. London: Endnotes.
-
-Farr, N. et al. (2008) ‘Building Hacker Spaces Everywhere: Your Excuses
-are Invalid’, talk at The Last HOPE (Hackers On Planet Earth), Hotel
-Pennsylvania, 7/18-20.
-
-Farr, N. (2009) ‘Respect the Past, Examine the Present, Build the
-Future’. *Hackerspaces Flux**.*
-http://blog.hackerspaces.org/2009/08/25/respect-the-past-examine-the-present-build-the-future/
-[última visita 10/14 2011]
-
-Foti, M. (2010) ‘*The New Lansdowne Club History of the building and 3D
-reconstructions: The New Lansdowne Club in 2010′*.
-http://www.newlansdowneclub3d.org.uk/ex4.html [última visita 10/13 2011]
-
-Grenzfurthner, J. and Schneider, F. A. (of monochrom). [2009] ‘*Hacking
-the Spaces’*. http://www.monochrom.at/hacking-the-spaces/ [última visita
-10/24 2011]
-
-hackerspaces.org. (2011) ‘*Hackerspaces | flux | About us’*.
-http://blog.hackerspaces.org/about/ [última visita Oct 20 2011]
-
-Hamm, M. (2003) ‘A r/c tivism in Physical and Virtual Spaces’.
-*Republicart* 9.
-http://www.republicart.net/disc/realpublicspaces/hamm02\_en.htm [última visita 10/13 2011]
-
-Hardt, M. and Negri, A. (2002) *Empire*. Cambridge, MA: Harvard
-University Press.
-
-(2004) *Multitude*. New York: Penguin.
-
-Harvey, D. (2005,, 2007). *A Brief History of Neoliberalism.* Oxford,
-New York: OUP.
-
-Hinton, J. (1988). ‘Self-Help and Socialism the Squatters’ Movement of
-1946′. *History Workshop* 25(Spring): 100-126.
-
-Hobbs, A.C., Tomlinson, C. Fenby, J.B. [1853] (1868). *Locks and Safes:
-The Construction of Locks*. London: Virtue Co.
-
-House of Commons. (2010). ‘Early day motion 1545: Squatting’. *Website
-of the Houses of Parliament of the United Kingdom*,.
-http://www.parliament.uk/edm/2010-12/1545 [última visita 3/82010].
-
-Igoe, T. O’Sullivan, D. (2004) *Physical Computing: Sensing and
-Controlling the Physical World with Computers*. Boston, MA: Premier
-Press.
-
-Immanuel, W. (2004) *World-Systems Analysis: An Introduction*. Durham
-and London: Duke University Press.
-
-Johns, A. (2009) ‘Piracy as a Business Force’. *Culture Machine* 10.
-http://www.culturemachine.net/index.php/cm/issue/view/21 [última visita
-5/7 2012]
-
-Levy, S. [1968] (2001). *Hackers: Heroes of the Computer Revolution*,
-New York: Penguin.
-
-Lotringer, S. and Marazzi, C., eds. (2007). *Autonomia: Post-Political
-Politics*. Los Angeles: Semiotext(e).
-
-Make Magazine (2011) *DIY Projects, Inspiration, How-tos, Hacks, Mods
-More @ Makezine.com – Tweak Technology to Your Will*.
-http://makezine.com/volumes/index.csp [última visita Oct 14 2011]
-
-Metalab (2011) ‘*Stadtflucht’*. https://metalab.at/wiki/Stadtflucht
-[última visita 10/20 2011]
-
-MIT’s Center for Bits and Atoms. (2007) ‘*The Fab Charter’.*
-http://fab.cba.mit.edu/about/charter/ [última visita 3/20 2012].
-
-Morris, D. (2004) ‘Globalisation and Media Democracy: The Case of
-Indymedia’. In Schuler, D. Day, P. (eds) *Shaping the Network Society:
-The New Role of Civil Society in Cyberspace.* Massachusetts, MA: MIT
-Press.
-
-Ohlig, J. and Weiler, L. (2007) ‘Building a Hackerspace’, talk at 24C3,
-the 24th Chaos Communication Congress, Berliner Congress Center,
-12/27-30.
-
-Pettis, B. et al. (2008) ‘Building an international movement:
-hackerspaces.org’, talk at 25C3, the 25th Chaos Communication Congress,
-Berliner Congress Center, 12/27-30.
-
-Parliament of the United Kingdom. (2010) *Digital Economy Act*. [act of
-parliament]
-http://www.legislation.gov.uk/ukpga/2010/24/pdfs/ukpga\_20100024\_en.pdf
-[última visita Oct 20 2011]
-
-Proudhon, P-J. (2007) [1840]. ‘Chapter I: Method Pursued In This Work —
-The Idea of a Revolution’. In *What is Property?* Wikimedia Foundation.
-http://en.wikisource.org/wiki/What\_is\_Property%3F/1 [última visita 5/7
-2011]
-
-Rigi, J. [2011] (unpublished). Peer to Peer Production and Advanced
-Communism: The Alternative to Capitalism.
-
-Slatalla, M. and Quittner, J. (1995) *Masters of Deception: The Gang
-that Rules Cyberspace*. New York: HarperCollins.
-
-Söderberg, J. (2011) ‘Free Space Optics in the Czech Wireless Community:
-Shedding Some Light on the Role of Normativity for User-Initiated
-Innovations ‘*. Science Technology Human Values*September 36: 423.
-
-Steele, G.L. Raymond, E.S. eds. (1996) *The New Hacker’s Dictionary*
-(3rd ed.). Cambridge, MA, London: MIT Press.
-
-Stef. (2009) ‘WTF: hackerspace’, talk at New Tech Meetup, Dürer Kert, 06
-2009.
-
-Sterling, Bruce (1992) *The Hacker Crackdown*. New York: Bantam.
-
-Taylor, Charles (1989) *Sources of the Self: The Making of Modern
-Identity*. Cambridge, MA: Harvard University Press.
-
-*Telestreet: The Italian Media Jacking Movement* (2005) Directed by And.
-http://www.archive.org/details/telestreet2 [última visita 08/3 2011]
-
-Usher, S. (2010) ‘Amsterdam protest at new squatting laws’. *BBC News
-Europe*, 10/2. http://www.bbc.co.uk/news/world-europe-11458225 [última visita 3/8 2011]
-
-Willemsen, M. (2006) ‘Telestreet: Squatting Frequencies — Merel
-Willemsen in conversation with Agnese Trocchi, co-founder of Candida
-TV’. *Untitled Magazine* 37(Spring).
-http://www.cascoprojects.org/?programme=allentryid=89 [última visita 5/7
-2011]
-
-Wright, S. (2002). *Storming Heaven: Class composition and struggle in
-Italian Autonomist Marxism*. London: Pluto Press.
-
-Yuill, S. (2008) All Problems of Notation Will be Solved by the Masses,
-*Mute — Politics and Culture after the
-Net*http://www.metamute.org/en/All-Problems-of-Notation-Will-be-Solved-by-the-Masses
-[última visita 5/7 2011]
-
-Wikipedia contributors (2010a) ‘*History: Hacklab’.*
-http://en.wikipedia.org/w/index.php?title=Hacklabaction=history [última visita Oct 10 2011]
-
-(2010b) ‘*Talk: Hacklab’.* http://en.wikipedia.org/wiki/Talk:Hacklab
-[última visita 10/10 2011]
-
-(2011). ‘*History: Hackerspace’.*
-http://en.wikipedia.org/w/index.php?title=Hacklabaction=history [última visita 10/10 2011]
