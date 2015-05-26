@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacklabs y Hackerspaces: rastreando dos genealogías"
-author: "Maxi Gas"
+author: "Maxigas"
 cover: "images/cover_endefensadelsl_nr0.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
 original_url: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
@@ -97,7 +97,7 @@ Por lo tanto, el tratamiento del tema por parte de las wikipedistas
 apoya mi planteamiento de que la proliferación de los hackerspaces vino
 de la mano con un olvido de la historia que intento recapitular aquí.
 
-![Encuesta de registro de dominios de la lista de hacklabs en
+![Figura 1: Encuesta de registro de dominios de la lista de hacklabs en
 hacklabs.org](images/colour-hacklabs.png)
 
 
@@ -795,7 +795,7 @@ permitió que el movimiento se esparza y forje conexiones en múltiples
 direcciones sin perder su propio empuje: desde las empresas, pasando por
 la sociedad civil hasta un público general.
 
-![Las dos figuras previas superimpuestas en pos de la
+![Figura 3: Las dos figuras previas superimpuestas en pos de la
 clarificación.](images/colour-hacklabs-vs-hackerspaces.png)
 
 
