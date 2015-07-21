@@ -10,6 +10,12 @@ original_url: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hack
 
 # Hacklabs y hackerspaces: rastreando dos genealogías
 
+> Traducción de ["Hacklabs and Hackerspaces - Tracing two
+> genealogies"](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)
+> de Maxigas, por maxpower.  Corrección por stf, fauno y minitrue.
+> Liberado bajo la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html).
+
 Introducción
 ------------
 
@@ -112,7 +118,7 @@ enfatizando elementos que son importantes desde el punto de vista de la
 emergencia de los hacklabs. La cultura hacker, de no menor importancia,
 será tratada en la posterior sección con más detalle. Una definición de
 un artículo germinal de Simon Yuill señala las formas de pensamiento
-básicas detrás de estas iniciativas[-@yuill-2008]:
+básicas detrás de estas iniciativas [-@yuill-2008]:
 
 > Los hacklabs son, mayoritariamente, espacios voluntarios que proveen
 > acceso público y gratuito a computadoras y a Internet. Usualmente
@@ -200,16 +206,16 @@ de protección de okupas en los Países Bajos [@usher-2010] y discusiones
 sobre el mismo tema en el Reino Unido [@house-of-commons-2010].
 
 El mediactivismo se desarrolló por vías similares, sobre la base de una
-tradición de publicaciones independientes. Adrian Jones [-@jones-2009]
+tradición de publicaciones independientes. Adrian Johns [-@johns-2009]
 aduce una continuidad no sólo estructural sino también histórica en las
 prácticas de las radios piratas de los '60 y los conflictos de copyright
 contemporáneos protagonizados por Pirate Bay. Desde un punto de vista
 estrictamente activista, una contribución temprana muy importante fue
-Radio Alice (en 1976) que emergió desde la escena autonomista en
-Boloña [@berardi-mecchia-2007]. Las radios piratas y su contraparte
-reformista, las estaciones de radio comunitarias, florecieron desde
-entonces. Sin embargo, rekuperar las frecuencias de radio era solamente
-un primer paso. Como explica Dee Dee Halleck, las mediactivistas pronto
+Radio Alice (en 1976) que emergió desde la escena autonomista en Boloña
+[@berardi-mecchia-2007]. Las radios piratas y su contraparte reformista,
+las estaciones de radio comunitarias, florecieron desde entonces. Sin
+embargo, rekuperar las frecuencias de radio era solamente un primer
+paso. Como explica Dee Dee Halleck, las mediactivistas pronto
 comenzarían a hacer uso de productos electrónicos caseros, como las
 cámaras filmadoras que se encontraron disponibles en el mercado desde
 finales de los ochentas en adelante. Organizaron la producción en
@@ -254,11 +260,11 @@ Siguiendo el ejemplo del Situacionismo con su idea principal de hacer
 intervenciones en los flujos de comunicación como punto de partida, las
 mediactivistas buscaban expandir lo que llamaban "interferencia
 cultural" en una práctica popular enfatizando elementos folclóricos
-[@critical-art-ensemble-2001]. Similarmente a las iniciativas
+[@critical-art-ensemble-2000]. Similarmente a las iniciativas
 educacionales proletarias de los movimientos de trabajadores clásicos
-(Por ejemplo [@burgmann-2005] en _Proletarian Schools_), este
-acercamiento puso en primer plano los temas de acceso, regulación de
-frecuencia, educación popular, políticas editoriales y creatividad de
+--por ejemplo en Burgmann [-@burgmann-2005] en _Proletarian Schools_--
+este acercamiento puso en primer plano los temas de acceso, regulación
+de frecuencia, educación popular, políticas editoriales y creatividad de
 masas, todos los cuales apuntaban a bajar las barreras para la
 participación de la producción cultural y tecnológica conjuntamente con
 establecer una infraestructura de comunicación distribuida para
@@ -272,7 +278,7 @@ a acentuar la importancia de la información para los mecanismos del
 cambio social fue fortalecida por las afirmaciones popularizadas por
 Michael Hardt y Antonio Negri de que el trabajo inmaterial y lingüístico
 son el modo hegemónico de producción en la configuración contemporánea
-del capitalismo [-@hardt-negri-2002; -@hardt-negri-2004]. En el punto
+del capitalismo [@hardt-negri-2002; @hardt-negri-2004]. En el punto
 extremo de este espectro, algunas argumentaban que elementos decisivos
 de la política dependen de performances de representación, usualmente
 mediatizadas, ubicando al mediactivismo en el centro de la lucha contra
@@ -297,8 +303,8 @@ parte de las activistas: "Esta práctica no es de una realidad virtual
 como fue imaginada en los '80 en tanto una simulación gráfica de la
 realidad. Ocurre tanto en el teclado, como en los talleres técnicos, en
 las calles y en centros mediáticos temporales, en carpas, en centros
-socio-culturales y en casas okupadas." [@derieg-2003]. Un ejemplo de
-cómo convergen estas líneas es el _Ultralab_ en _Forte Prenestino_, una
+socio-culturales y en casas okupadas." [@hamm-2003a]. Un ejemplo de cómo
+convergen estas líneas es el _Ultralab_ en _Forte Prenestino_, una
 fortaleza okupada en Roma que tiene en Italia renombre por sus políticas
 autónomas. Han declarado en su sitio web que el _Ultralab_ es un "patrón
 emergente" [@avana-2005], uniendo varias necesidades tecnológicas de las
@@ -435,6 +441,9 @@ políticos, esparciendo acceso a desposeídos y la defensa de la
 creatividad popular.
 
 
+![Figura 2: cantidad de hackerspaces registrados en
+hackerspaces.org](images/colour-hackerspaces.png)
+
 Los Hackerspaces
 ----------------
 
@@ -497,7 +506,7 @@ hacían lo opuesto: hacían ingeniería inversa para obtener información y
 tecnologías de comunicación, que en la época principalmente eran redes
 telefónicas. En 1984 AT\&T se separa en compañías más chicas (las "Baby
 Bells"), pero no antes de que partes importantes de la red fuesen
-apagadas por phreakers [@slatalla-quittner-1995; @sterling-1992). El
+apagadas por phreakers [@slatalla-quittner-1995; @sterling-1992]. El
 mismo año supo ver el último número de _TAP_ y el primer número de la
 revista _2600_, aún activa. La cultura universitaria fue preservada en
 el _Jargon File_ en 1975 el cual todavía es mantenido
@@ -820,12 +829,12 @@ servir para iluminar algunos puntos claves que se derivan de las
 genealogías históricas y conceptuales que se mencionaron antes. La
 _Burnstation_ es un kiosko físico que le permite a la usuaria navegar,
 escuchar, seleccionar y quemar a un CD o copiar a un USB archivos de
-audio desde una base de datos de música [@rama-2003]. La _Burnstation_
-original fue inventada en el Riereta en Barcelona, que empezó como un
-hacklab de focalización media en 2001 y que después se institucionalizó
-en 2005, cuando recibió financiación por parte de las autoridades
-locales --lo que significa que hoy en día es más un hackerspace.
-Subrayando esta transformación también está registrado en
+audio desde una base de datos de música [@cosentino-platoniq-2011]. La
+_Burnstation_ original fue inventada en el Riereta en Barcelona, que
+empezó como un hacklab de focalización media en 2001 y que después se
+institucionalizó en 2005, cuando recibió financiación por parte de las
+autoridades locales --lo que significa que hoy en día es más un
+hackerspace.  Subrayando esta transformación también está registrado en
 hackerspaces.org. Las abundantes variaciones de la _Burnstation_ han
 sido mostradas en público en distintos contextos de exhibición como
 también han sido ampliamente usadas en hacklabs y hackerspaces.
@@ -881,7 +890,7 @@ proyectos se alejaron de una relación con la tecnología preconfigurada y
 consumista. De distinta manera, sus intervenciones buscaron poner en
 cuestionamiento las leyes de copyright en existencia.
 
-![Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente, 2011, Buenos Aires. Foto por Dianeth Medina.](http://peerproduction.net/wp-content/uploads/2012/06/image1maxigas1.jpg)
+![Figura 4: Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente, 2011, Buenos Aires. Foto por Dianeth Medina.](http://peerproduction.net/wp-content/uploads/2012/06/image1maxigas1.jpg)
 
 En líneas generales, las elecciones tecnológicas hechas por los dos
 tipos de espacios descritas anteriormente parecen estar condicionadas
@@ -955,7 +964,10 @@ para el debate en los hacklabs y no necesariamente en los hackerspaces,
 como muestran los ejemplos anteriores inclusive los hacklabs han hecho
 poco progreso práctico en este asunto.
 
-![Instalación "Piratepond" del Hackney Crack House en la exhibición _Temporary Autonomous Art_ en Londres, 2011, que incluye una _Burnstation_. La foto es de dominio público.](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
+![Figura 5: Instalación "Piratepond" del Hackney Crack House en la
+exhibición _Temporary Autonomous Art_ en Londres, 2011, que incluye una
+_Burnstation_. La foto es de dominio
+público.](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
 
 Finalmente, me gustaría señalar el impacto político de estas
 constelaciones divergentes y preguntar hasta qué punto y en qué maneras
@@ -1006,7 +1018,10 @@ combinar la productividad tecnológica del "imperativo manos-a-la-obra"
 transversal de los hackerspaces con la crítica social de los hacklabs,
 hay un mundo por ganar.
 
-![La Burnstation del "Hungarian Autonomous Center for Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo. Licencia: CC BY-NC.](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
+![Figura 6: La Burnstation del "Hungarian Autonomous Center for
+Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo.
+Licencia: CC
+BY-NC.](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
 
 
 Referencias
