@@ -32,7 +32,7 @@ producción llamado de pares (P2P) como una alternativa viable al
 capitalismo.  Aunque aun se encuentra en su fase emergente y dominado
 por el capitalismo, el P2P demuestra claramente los contornos
 principales de una sociedad igualitaria. El hecho mismo de que sectores
-del activismo P2P y los trabajadores de las TIC estén -a su vez-
+del activismo P2P y los trabajadores de las TIC estén --a su vez--
 activamente involucrados en las protestas puede funcionar como un buen
 catalizador que conecte el P2P con estos movimientos.
 
@@ -60,7 +60,7 @@ inglés) y el Software Libre (SL) por Richard Stallman en 1984 y por el
 otro la invención del sistema de cooperación colectiva voluntaria en
 línea por Linus Torvalds en 1991.
 
-Stallman creó la Free Software Foundation liberando código bajo una
+Stallman creó la _Free Software Foundation_ liberando código bajo una
 licencia llamada Licencia Pública General.  La GPL garantizaba cuatro
 libertades: correr el programa con cualquier propósito; estudiarlo y
 personalizarlo; redistribuir copias gratuitamente o por un precio
@@ -261,7 +261,7 @@ unidades de producción separadas) y macro (entre diferentes unidades)
 divisiones capitalistas del trabajo.
 
 
-### El P2P y la micro división capitalista del trabajo
+### El P2P y la micro-división capitalista del trabajo
 
 En el nivel empresarial, la administración capitalista impone la
 división técnica del trabajo entre los trabajadores.  Los capitalistas
@@ -323,9 +323,9 @@ inherente a la producción de pares, es un tema que requiere un examen
 crítico [@oneill-2009].
 
 
-### El P2P y la macro división capitalista del trabajo
+### El P2P y la macro-división capitalista del trabajo
 
-En la macro división capitalista del trabajo las diferentes unidades
+En la macro-división capitalista del trabajo las diferentes unidades
 productivas no están conectadas inmediatamente entre sí sino a través de
 la mediación del mercado.  Los trabajadores intercambian su trabajo por
 salarios y los productos de su labor se convierten en mercancías
@@ -333,7 +333,7 @@ propiedad de los capitalistas que las venden en el mercado.  Es solo a
 través de esta vía que el trabajo de los productores inmediatos de
 varias unidades y ramas de la producción se conectan entre sí,
 volviéndose partes del total del trabajo social de la sociedad.  Cada
-unidad productiva se vuelve un componente del total de la macro división
+unidad productiva se vuelve un componente del total de la macro-división
 capitalista del trabajo en tanto produce mercancías que son vendidas
 [@marx-1978].  Los productos del P2P son principalmente comunes
 universales.
@@ -401,17 +401,18 @@ complejos a las formaciones sociales.
 La formación social capitalista ha pasado por tres fases parcialmente
 solapadas: la emergente, la dominante y la declinante.  En la fase
 emergente (1850-1950) el modo de producción capitalista dominó
-mundialmente a los modos de producción feudal, doméstico y otros pre
-capitalistas, extrayendo trabajo y valor de ellos [@mandel-1970, ch. 2].
-En la segunda fase (1950-1980) el modo de producción capitalista
-erosionó profundamente los modos pre capitalistas y los reemplazó con el
-modo de producción capitalista.  El capitalismo se expandió
-intensivamente, penetrando en nuevos dominios de la actividad productiva
-como los servicios, y extensivamente, conquistando el globo entero.  La
-tercera fase (1980 a la actualidad) se caracteriza por la emergencia del
-PTI como modo social de producción dentro de la formación social
-capitalista.  Este período ha sido descrito en términos tales como la
-"Sociedad Red" [@castells-2010], "Imperio" [@hardt-negri-2000], etc.
+mundialmente a los modos de producción feudal, doméstico y otros
+pre-capitalistas, extrayendo trabajo y valor de ellos [@mandel-1970,
+cap. 2].  En la segunda fase (1950-1980) el modo de producción
+capitalista erosionó profundamente los modos pre-capitalistas y los
+reemplazó con el modo de producción capitalista.  El capitalismo se
+expandió intensivamente, penetrando en nuevos dominios de la actividad
+productiva como los servicios, y extensivamente, conquistando el globo
+entero.  La tercera fase (1980 a la actualidad) se caracteriza por la
+emergencia del PTI como modo social de producción dentro de la formación
+social capitalista.  Este período ha sido descrito en términos tales
+como la "Sociedad Red" [@castells-2010], "Imperio" [@hardt-negri-2000],
+etc.
 
 Aunque el modo de producción de pares se encuentra bajo el dominio del
 modo de producción capitalista, su situación frente a éste es diferente
@@ -434,24 +435,25 @@ material.
 
 En la actualidad el modo social de producción (de pares) se ha extendido
 más allá del software, cubriendo otras esferas de la producción de
-símbolos y signos (ver el sitio de la [P2P
-Foundation](http://p2pfoundation.net)).  Bauwens [-@bauwens-2011]
-muestra que el P2P está ganando terreno en el diseño y la manufactura.
-Adrian Bowyer [-@bowyer-2006] y sus colaboradores lanzaron un proyecto
-abierto para la producción de una impresora tridimensional en el 2005
-que ahora se reproduce a sí misma.  En efecto, el modo de producción de
-pares puede extenderse a la mayoría de las ramas de la producción
-material.  La automatización será el pilar de esta transformación,
-aunque la automatización no es una pre-condición necesaria del P2P
-material.  En una producción totalmente automatizada, el factor
-cognitivo de la producción de pares (investigación y desarrollo, diseño
-y software) pondrá la producción material bajo el dominio del P2P.  La
+símbolos y signos.[^p2pf]  Bauwens [-@bauwens-2011] muestra que el P2P
+está ganando terreno en el diseño y la manufactura.  Adrian Bowyer
+[-@bowyer-2006] y sus colaboradores lanzaron un proyecto abierto para la
+producción de una impresora tridimensional en el 2005 que ahora se
+reproduce a sí misma.  En efecto, el modo de producción de pares puede
+extenderse a la mayoría de las ramas de la producción material.  La
+automatización será el pilar de esta transformación, aunque la
+automatización no es una pre-condición necesaria del P2P material.  En
+una producción totalmente automatizada, el factor cognitivo de la
+producción de pares (investigación y desarrollo, diseño y software)
+pondrá la producción material bajo el dominio del P2P.  La
 automatización capitalista lleva a la pérdida de puestos de trabajo y a
 la degradación del trabajo. La automatización no necesitará tener estos
 impactos en la formación social de pares. El empleo no tiene sentido y
 la automatización ofrece tiempo libre a la humanidad.  Este tiempo puede
 ser dedicado a la producción colectiva de conocimiento, educación y
 salud.
+
+[^p2pf]:  Ver por ejemplo, el sitio de la P2P Foundation <http://p2pfoundation.net>
 
 Como los recursos materiales estratégicos son limitados y están
 desperdigados desigualmente por el globo, una distribución global justa
@@ -502,18 +504,18 @@ pares se convierta en el modo de producción dominante?  ¿Crecerá
 paralelamente con el capitalismo hasta que lo supere?  ¿O su desarrollo
 será mucho más complejo, marcado por flujos, reflujos y derrotas
 temporales?  ¿Será una revolución social que expropie medios de
-producción estratégicos a los capitalistas un prerrequisito para que la
+producción estratégicos a los capitalistas un pre-requisito para que la
 producción de pares se vuelva el modo de producción dominante?  ¿Cuál
 será el rol de la lucha social y la conciencia humana en el avance de la
-producción de pares? La respuesta a estas preguntas necesita el esfuerzo
-colectivo de muchos.  Aquí, será suficiente mencionar que "la idea del
-comunismo" se vuelve atractiva nuevamente.  No obstante no es
+producción de pares?  La respuesta a estas preguntas necesita el
+esfuerzo colectivo de muchos.  Aquí, será suficiente mencionar que "la
+idea del comunismo" se vuelve atractiva nuevamente.  No obstante no es
 suficiente, aunque realmente necesario, decir que "otro comunismo es
 posible" [@harvey-2010, pp. 259] sino que debemos imaginar los contornos
 generales de la producción comunista.  Aquí yace el significado
 histórico y político de la producción de pares.  Representa, aunque en
 una forma embrionaria, el modelo para la producción y distribución
-comunista. El éxito de este modo de producción dependerá definitivamente
+comunista.  El éxito de este modo de producción dependerá definitivamente
 de la lucha social que lo asista.  ¿Cuáles son entonces las fortalezas y
 debilidades de la producción social de pares en tanto movimiento?  Su
 fuerza es que es una práctica productiva.
