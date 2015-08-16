@@ -2164,880 +2164,958 @@ y en negar el refuerzo de la distinción entre productor y consumidor.
 ## Software Libre: El _copyright_ se come a sí mismo
 
 Si la información copiable se vuelve escasa sólo mediante la aplicación
-de la ley, también puede hacerse abundante por ley. La práctica de
+de la ley, también puede hacerse abundante por ley.  La práctica de
 utilizar la legislación del _copyright_ misma como una forma de disentir
 con ella, llamada _copyleft_, creció prominentemente en el desarrollo de
 software y en el surgimiento de la comunidad del software libre.
 
-La Licencia Pública General (GPL) fue la primer licencia _copyleft_ bajo la cual
-una gran cantidad de software libre fue lanzado. Su inventor Richard Stallman
-afirma que en la era de la copia digital, el rol del _copyright_ ha sido
-revertido completamente. Aún cuando comenzó como una medida legal para
-permitir a los autores restringir a los editores por el bien del público general,
-el _copyright_ se ha convertido en el arma de los editores para mantener su
-monopolio imponiendo restricciones al público general, que ahora posee los
-medios para producir sus propias copias. El objetivo del _copyleft_ en general,
-y de las licencias como la GPL en particular, es revertir esta reversión.
+La Licencia Pública General (GPL) fue la primer licencia _copyleft_ bajo
+la cual una gran cantidad de software libre fue lanzado.  Su inventor
+Richard Stallman afirma que en la era de la copia digital, el rol del
+_copyright_ ha sido revertido completamente.  Aún cuando comenzó como
+una medida legal para permitir a los autores restringir a los editores
+por el bien del público general, el _copyright_ se ha convertido en el
+arma de los editores para mantener su monopolio imponiendo restricciones
+al público general, que ahora posee los medios para producir sus propias
+copias.  El objetivo del _copyleft_ en general, y de las licencias como
+la GPL en particular, es revertir esta reversión.
 
-El _copyleft_ utiliza la legislación del _copyright_ volviéndola sobre sí misma
-para servir los propósitos opuestos. En lugar de promover la privatización, se
-convierte en una garantía de la libertad de todos para usar, copiar, distribuir
-y modificar el software o cualquier otra obra. Su única "restricción" es
-precisamente la que garantiza la libertad, es decir que los usuarios no tienen
-permitido restringir la libertad de nadie más ya que todas las copias
-y derivaciones deben redistribuirse bajo la misma licencia. El _copyleft_ reclama
-la propiedad legalmente, sólo para subvertirla en la práctica, al permitir
-a todos usar la obra como prefieran mientras que el _copyleft_ se mantenga. El
-reclamo meramente formal de la propiedad significa que nadie puede volver
-a poner la obra bajo _copyright_ una vez que es _copyleft_, para intentar limitar su
-uso.
+El _copyleft_ utiliza la legislación del _copyright_ volviéndola sobre
+sí misma para servir los propósitos opuestos.  En lugar de promover la
+privatización, se convierte en una garantía de la libertad de todos para
+usar, copiar, distribuir y modificar el software o cualquier otra obra.
+Su única "restricción" es precisamente la que garantiza la libertad, es
+decir que los usuarios no tienen permitido restringir la libertad de
+nadie más ya que todas las copias y derivaciones deben redistribuirse
+bajo la misma licencia.  El _copyleft_ reclama la propiedad legalmente,
+sólo para subvertirla en la práctica, al permitir a todos usar la obra
+como prefieran mientras que el _copyleft_ se mantenga.  El reclamo
+meramente formal de la propiedad significa que nadie puede volver a
+poner la obra bajo _copyright_ una vez que es _copyleft_, para intentar
+limitar su uso.
 
-Las licencias _copyleft_ garantizan libertad de la propiedad intelectual al
-requerir que la reutilización y redistribución de la información esté gobernada
-por las "cuatro libertades" de la Fundación del Software Libre (FSF). Estas son
-las libertades de usar, estudiar, modificar y redistribuir.[^36] Puesto en
-contexto histórico, el _copyleft_ descansa en algún lugar entre el _copyright_ y el
-anti-_copyright_. El gesto de los escritores al poner en anti-_copyright_ sus obras
-era hecho con un espíritu de generosidad, afirmando que el conocimiento puede
-florecer sólo cuando carece de propietarios. En tanto declaración de "ningún
-derecho reservado", el anti-_copyright_ era un eslógan perfecto lanzado en un mundo
-imperfecto. Se suponía que los demás usarían la información en el mismo
-espíritu de generosidad. Pero las corporaciones aprendieron a explotar la falta
-de _copyright_ y redistribuir las obras por lucro.
+Las licencias _copyleft_ garantizan libertad de la propiedad intelectual
+al requerir que la reutilización y redistribución de la información esté
+gobernada por las "cuatro libertades" definidas por la Fundación del
+Software Libre (FSF).  Estas son las libertades de usar, estudiar,
+modificar y redistribuir.[^36]  Puesto en contexto histórico, el
+_copyleft_ descansa en algún lugar entre el _copyright_ y el
+anti-_copyright_.  El gesto de los escritores al poner en
+anti-_copyright_ sus obras era hecho con un espíritu de generosidad,
+afirmando que el conocimiento puede florecer sólo cuando carece de
+propietarios.  En tanto declaración de "ningún derecho reservado", el
+anti-_copyright_ era un eslógan perfecto lanzado en un mundo imperfecto.
+Se suponía que los demás usarían la información en el mismo espíritu de
+generosidad.  Pero las corporaciones aprendieron a explotar la falta de
+_copyright_ y redistribuir las obras por lucro.
 
-A Stallman se le ocurrió la idea del _copyleft_ en 1984, después que una compañía
-hizo mejoras a software que él había puesto en el dominio público (el equivalente
-técnico del anti-_copyright_, pero sin el gesto crítico), privatizó el código
-fuente y rehusó compartir la nueva versión. En este sentido, el _copyleft_
-representa un aprendizaje, una dolorosa lección de que la renuncia a todos los
-derechos puede llevar al abuso de los lucradores. El _copyleft_ intenta crear unos
-comunes basados en derechos y responsabilidades recíprocos para respetar los
-derechos de otros usuarios. Todos pueden sumar a los comunes, pero nadie puede
-sustraer de ellos.
+A Stallman se le ocurrió la idea del _copyleft_ en 1984, después que una
+compañía hizo mejoras a software que él había puesto en el dominio
+público (el equivalente técnico del anti-_copyright_, pero sin el gesto
+crítico), privatizó el código fuente y rehusó compartir la nueva
+versión.  En este sentido, el _copyleft_ representa un aprendizaje, una
+dolorosa lección de que la renuncia a todos los derechos puede llevar al
+abuso de los lucradores.  El _copyleft_ intenta crear unos comunes
+basados en derechos y responsabilidades recíprocos para respetar los
+derechos de otros usuarios.  Todos pueden sumar a los comunes, pero
+nadie puede sustraer de ellos.
 
-Pero en otro sentido el _copyleft_ representa un paso atrás del anti-_copyright_
-y está plagado por una serie de contradicciones. La posición de Stallman está
-en línea con el consenso general de un _copyright_ pervertido en una herramienta
-que beneficia a las corporaciones antes que a los autores a los que servía en
-un principio. Pero es importante destacar que no existe tal época dorada del
-_copyright_. El _copyright_ siempre ha sido una herramienta legal. Al acoplar
-textos a autores, transformó ideas en mercancías para crear beneficios para los
-propietarios del capital.
+Pero en otro sentido el _copyleft_ representa un paso atrás del
+anti-_copyright_ y está plagado por una serie de contradicciones.  La
+posición de Stallman está en línea con el consenso general de un
+_copyright_ pervertido en una herramienta que beneficia a las
+corporaciones antes que a los autores a los que servía en un principio.
+Pero es importante destacar que no existe tal época dorada del
+_copyright_.  El _copyright_ siempre ha sido una herramienta legal.  Al
+acoplar textos a autores, transformó ideas en mercancías para crear
+beneficios para los propietarios del capital.
 
-Esta miopía específica sobre el _copyright_ es parte de un desinvolucramiento
-general con cuestiones económicas. La "izquierda" del _copyleft_ asemeja un tipo
-vago de libertarianismo en oposición a sistemas cerrados y opacos
-y a restricciones totalitarias en el acceso a la información, antes que al
-privilegio económico o la explotación del trabajo. El _copyleft_ emergió de una
-ética hacker que se acerca a la persecución del conocimiento por el
-conocimiento mismo. Su objetivo principal es defender la libertad de la
-información contra las restricciones impuestas por "el sistema", lo que explica
-en parte por qué existe una amplia gama de posturas políticas entre los
-hackers. También explica por qué la comunalidad que vincula a los hackers entre
-sí -la "izquierda" en la visión de Stallman sobre el _copyleft_- no es la
-izquierda entendida por la mayoría de los activistas políticos.
+Esta miopía específica sobre el _copyright_ es parte de un
+desinvolucramiento general en cuestiones económicas.  La "izquierda" del
+_copyleft_ asemeja un tipo vago de libertarianismo opuesto a sistemas
+cerrados y opacos y a restricciones totalitarias en el acceso a la
+información, antes que al privilegio económico o la explotación del
+trabajo.  El _copyleft_ emergió de una ética hacker que se acerca a la
+persecución del conocimiento por el conocimiento mismo.  Su objetivo
+principal es defender la libertad de la información contra las
+restricciones impuestas por "el sistema", lo que explica en parte por
+qué existe una amplia gama de posturas políticas entre los hackers.
+También explica por qué la comunalidad que vincula a los hackers entre
+sí --la "izquierda" en la visión de Stallman sobre el _copyleft_-- no es
+la izquierda entendida por la mayoría de los activistas políticos.
 
-La GPL y el _copyleft_ son frecuentemente invocados como ejemplos de la tendencia
-anticomercial del movimiento del Software Libre. Pero no hay tal tendencia. Las
-cuatro libertades requeridas por la GPL significan que cualquier restricción
-adicional, como una cláusula no comercial, convertiría a la obra en no-libre
-aún si cumple con algunas de las libertades. Mantener el software "libre" no
-previene a los desarrolladores vender copias que hayan modificado con su propio
-trabajo, y tampoco previene la redistribución hecha por una compañía comercial
-cobrando una tarifa, mientras que la misma licencia sea utilizada y el código
-fuente siga siendo transparente.
+La GPL y el _copyleft_ son frecuentemente invocados como ejemplos de la
+tendencia anti-comercial del movimiento del Software Libre.  Pero no hay
+tal tendencia.  Las cuatro libertades requeridas por la GPL significan
+que cualquier restricción adicional, como una cláusula no comercial,
+convertiría a la obra en no-libre aún si cumple con algunas de las
+libertades.  Mantener el software "libre" no previene a los
+desarrolladores vender copias que hayan modificado con su propio trabajo
+y tampoco previene la redistribución hecha por una compañía comercial
+cobrando una tarifa, mientras que la misma licencia sea utilizada y el
+código fuente siga siendo transparente.
 
-Esta versión de la libertad no suprime el intercambio, como han proclamado
-algunos entusiastas del software libre, ni es incompatible con una economía
-capitalista basada en el robo de la plusvalía. La contradicción inherente en
-estos comunes se debe a un entendimiento de lo propietario como sinónimo de
-código cerrado o no transparente. "Propietario" significa tener un dueño
-que prohibe el acceso a la información y mantiene el código fuente en secreto,
-pero no necesariamente significa tener un dueño que extraiga un rédito,
-aunque mantener el código fuente en secreto y extraer rédito a menudo coincidan
-en la práctica. Mientras que las cuatro condiciones se cumplan, la
-redistribución comercial del software libre no es considerada propietaria.
+Esta versión de la libertad no suprime el intercambio, como han
+proclamado algunos entusiastas del software libre, ni es incompatible
+con una economía capitalista basada en el robo de la plusvalía.  La
+contradicción inherente en estos comunes se debe a un entendimiento de
+lo propietario como sinónimo de código cerrado o no transparente.
+"Propietario" significa tener un dueño que prohibe el acceso a la
+información y mantiene el código fuente en secreto, pero no
+necesariamente significa tener un dueño que extraiga un rédito, aunque
+mantener el código fuente en secreto y extraer rédito a menudo coincidan
+en la práctica.  Mientras que las cuatro condiciones se cumplan, la
+redistribución comercial del software libre no es considerada
+propietaria.
 
-Virtualmente cada oficina, academia y fábrica necesita de software para su
-trabajo diario. Para todas estas organizaciones, el valor de uso del software
-puede traducirse directamente en valor de cambio en el curso de su producción
-normal, no al venderlo, sino al realizar sus tareas habituales, vendiendo el
-producto de ellas y usando software para aumentar su productividad. Pagar por
-licencias de software y acordar con los términos restrictivos de estas no
-les conviene. En comparación con lo que David Ricardo dijo sobre los
-terratenientes, el interés de una compañía de software como Microsoft siempre
-está en oposición al de cada usuario de software.
+Virtualmente cada oficina, academia y fábrica necesita de software para
+su trabajo diario.  Para todas estas organizaciones, el valor de uso del
+software puede traducirse directamente en valor de cambio en el curso de
+su producción normal, no al venderlo, sino al realizar sus tareas
+habituales, vendiendo el producto de ellas y usando software para
+aumentar su productividad.  Pagar por licencias de software y acordar
+con los términos restrictivos de estas no les conviene.  En comparación
+con lo que David Ricardo dijo sobre los terratenientes, el interés de
+una compañía de software como Microsoft siempre está en oposición al de
+cada usuario de software.
 
-Las organizaciones que utilizan software, sean escuelas, fábricas, oficinas
-y empresas de comercio electrónico, emplean colectivamente muchos más
-desarrolladores de software que las pocas compañías que venden software
-propietario, como Microsoft. Entonces, el software libre es muy atractivo para
-estas organizaciones ya que les permite reducir sus costos individuales de
-desarrollo manteniendo colectivamente un inventario común de activos de software.
-Entonces, el valor de uso del software libre es valorado por las organizaciones
-que pagan desarrolladores de software para trabajar en él, aunque no posean el
-_copyright_ exclusivo. Al patrocinar el software libre y el _copyleft_ para
-recortar sus costos de producción, los gigantes tecnológicos como IBM tienen
-mucho en común con capitalistas liberales como David Ricardo, que trabajó para
-sobrepasar las ventajas que los terratenientes tenían sobre los capitalistas al,
-por ejemplo, reducir el precio de sus medios de producción.
+Las organizaciones que utilizan software, sean escuelas, fábricas,
+oficinas y empresas de comercio electrónico, emplean colectivamente
+muchos más desarrolladores de software que las pocas compañías que
+venden software propietario, como Microsoft.  Entonces, el software
+libre es muy atractivo para estas organizaciones ya que les permite
+reducir sus costos individuales de desarrollo manteniendo colectivamente
+un inventario común de activos de software.  Entonces, el valor de uso
+del software libre es valorado por las organizaciones que pagan
+desarrolladores de software para trabajar en él, aunque no posean
+exclusivamente el _copyright_.  Al patrocinar el software libre y el
+_copyleft_ para recortar sus costos de producción, los gigantes
+tecnológicos como IBM tienen mucho en común con capitalistas liberales
+como David Ricardo, que trabajó para sobrepasar las ventajas que los
+terratenientes tenían sobre los capitalistas al, por ejemplo, reducir el
+precio de sus medios de producción.
 
-Pero el software libre no fue concebido como una mera forma de reducir los
-costos corporativos de producción de software. Richard Stallman escribe en el
-sitio de web de su organización: "Mi trabajo por el software libre es motivado
-por un objetivo idealista: propagar libertad y cooperación. Quiero fomentar el
-software libre para reemplazar el software propietario que proscribe la
-cooperación y así mejorar nuestra sociedad." [@stallman-2010] Sin embargo, ya que
-el software libre no puede capturar directamente el valor de cambio, sus
-productores todavía deben vender su trabajo para lograr su subsistencia
-material. Por lo tanto el _copyleft_ no es capaz de "mejorar la sociedad" en
-ningún sentido material, porque la mayoría del valor de cambio creado por los
-productores del software libre es capturado por los propietarios de lo material
-que son los que proveen su subsistencia. Como el _copyleft_ no puede hacer que
-los trabajadores acumulen riqueza más allá de su subsistencia, el _copyleft_ solo
-no puede cambiar la distribución de activos productivos o su producto. Por lo
-tanto, el _copyleft_ no tiene por sí mismo impacto directo en la distribución de
+Pero el software libre no fue concebido como una mera forma de reducir
+los costos corporativos de producción de software.  Richard Stallman
+escribe en el sitio de web de su organización: "Mi trabajo por el
+software libre es motivado por un objetivo idealista: propagar libertad
+y cooperación.  Quiero fomentar el software libre para reemplazar el
+software propietario que proscribe la cooperación y así mejorar nuestra
+sociedad." [@stallman-2010]  Sin embargo, ya que el software libre no
+puede capturar directamente el valor de cambio, sus productores todavía
+deben vender su trabajo para lograr su subsistencia material.  Por lo
+tanto el _copyleft_ no es capaz de "mejorar la sociedad" en ningún
+sentido material, porque la mayor parte del valor de cambio creado por
+los productores del software libre es capturado por los propietarios de
+lo material que son los que proveen su subsistencia.  Como el _copyleft_
+no puede hacer que los trabajadores acumulen riqueza más allá de su
+subsistencia, el _copyleft_ por su cuenta no puede cambiar la
+distribución de activos productivos o su producto.  Por lo tanto, el
+_copyleft_ no tiene por sí mismo impacto directo en la distribución de
 riqueza y poder.
 
-No todo el software libre es _copyleft_. Todo el software licenciado bajo los
-términos que proveen las cuatro libertades de la FSF es software libre. El
-software es _copyleft_ cuando, además, prescribe que todas las obras derivadas
-lleven estas cuatro libertades. La pregunta que hay que hacerse es, ¿en qué
-grado beneficia realmente el _copyleft_ al movimiento del software libre?
+No todo el software libre es _copyleft_.  Todo el software licenciado
+bajo los términos que proveen las cuatro libertades de la FSF es
+software libre.  El software es _copyleft_ cuando, además, prescribe que
+todas las obras derivadas lleven estas cuatro libertades.  La pregunta
+que hay que hacerse es, ¿en qué grado beneficia realmente el _copyleft_
+al movimiento del software libre?
 
-A pesar de ejemplos como los de la experiencia formativa de Stallman, cuando su
-software de dominio público fue apropiado y privatizado en 1984, existen
-también amplios contraejemplos de proyectos de software libre de gran escala
-que continúan utilizando licencias que permiten redistribución propietaria,
-como varios sistemas operativos basados en BSD y el enormemente popular
-servidor web Apache. Aunque una corporación puede utilizar código de estos
-proyectos en sus aplicaciones propietarias, lo hace costosamente. Al separar su
-desarrollo del proyecto de software libre principal, debe parchar manualmente
-o reimplementar las mejoras de código de la distribución libre a su propia
-derivación, y olvidarse de recibir ayuda de la comunidad del software libre
-para mejorar sus contribuciones propietarias. Esto significa que las compañías
-que eligen hacer versiones propietarias del software libre necesitan una fuerte
-razón comercial para hacerlo. En la práctica esto apenas sucede, porque las
-versiones propietarias tienden a caer rápidamente detrás de las versiones
-libres en cuanto a funcionalidad, y por lo tanto pierden valor de mercado.
+A pesar de ejemplos como los de la experiencia formativa de Stallman,
+cuando su software de dominio público fue apropiado y privatizado en
+1984, existen también amplios contraejemplos de proyectos de software
+libre de gran escala que continúan utilizando licencias que permiten
+redistribución propietaria, como varios sistemas operativos basados en
+BSD y el enormemente popular servidor web Apache.  Aunque una
+corporación puede utilizar código de estos proyectos en sus aplicaciones
+propietarias, lo hace costosamente.  Al separar su desarrollo del
+proyecto de software libre principal, debe emparchar manualmente o
+reimplementar las mejoras de código de la distribución libre a su propia
+derivación y olvidarse de recibir ayuda de la comunidad del software
+libre para mejorar sus contribuciones propietarias.  Esto significa que
+las compañías que eligen hacer versiones propietarias del software libre
+necesitan una fuerte razón comercial para hacerlo.  En la práctica esto
+apenas sucede, porque las versiones propietarias tienden a caer
+rápidamente detrás de las versiones libres en cuanto a funcionalidad y
+por lo tanto pierden valor de mercado.
 
 Los más exitosos ejemplos de utilización propietaria del software libre
 provienen de las compañías cuyo negocio principal es vender hardware, no
-software, como Apple Computer o los routers Juniper, donde ambos utilizan
-versiones propietarias de software derivado de proyectos BSD. Debe notarse que
-tanto Apple como Juniper hacen software propietario no para venderlo, sino para
-imbuirlo en su hardware costoso. Este punto se enfatiza con los esfuerzos de
-ambas compañías para evitar que los usuarios adquieran su software para
-utilizarlo en hardware más barato. Por ejemplo, considérense los ejemplos
-de Apple para frustrar el proyecto Hackintosh, que ofrece instrucciones para
-utilizar los sistemas operativos Mac en hardware no soportado, así como tomar
-acciones legales contra las compañías que venden hardware que no es de Apple
-cargado con copias legalmente adquiridas de su OS X [@keizer-sf].
+software, como _Apple Computer_ o los enrutadores _Juniper_, donde ambos
+utilizan versiones propietarias de software derivado de proyectos BSD.
+Debe notarse que tanto _Apple_ como _Juniper_ hacen software propietario
+no para venderlo, sino para imbuirlo en su hardware costoso.  Este punto
+se enfatiza con los esfuerzos de ambas compañías para evitar que los
+usuarios adquieran su software para utilizarlo en hardware más barato.
+Por ejemplo, considérense los ejemplos de _Apple_ para frustrar el
+proyecto _Hackintosh_, que ofrece instrucciones para utilizar los
+sistemas operativos _Mac_ en hardware no soportado, así como tomar
+acciones legales contra las compañías que venden hardware que no es de
+_Apple_ cargado con copias legalmente adquiridas de su OS X
+[@keizer-sf].
 
 Ejemplos como estos demuestran el énfasis de la libertad imbuida en el
-_copyleft_. Las acciones de Apple no han amenazado a los proyectos de software
-libre basados en BSD de los que han tomado código. De hecho, Apple ha
-contribuido a estos proyectos. No obstante, los términos de las licencias de
-tipo BSD permiten que Apple agregue restricciones que les permite controlar
-a sus usuarios y negarles la libertad de utilizar el software que han adquirido
-legalmente como deseen. No hubieran tenido esta oportunidad si el software en
-el que basaran su sistema operativo fuera _copyleft_ como Linux, que es publicado
-bajo la GPL.
+_copyleft_.  Las acciones de _Apple_ no han amenazado a los proyectos de
+software libre basados en BSD de los que han tomado código.  De hecho,
+_Apple_ ha contribuido a estos proyectos.  No obstante, los términos de
+las licencias de tipo BSD permiten que _Apple_ agregue restricciones que
+les permite controlar a sus usuarios y negarles la libertad de utilizar
+el software que han adquirido legalmente como deseen.  No hubieran
+tenido esta oportunidad si el software en el que basaran su sistema
+operativo fuera _copyleft_ como Linux, que es publicado bajo la GPL.
 
-Así como el _copyleft_ es de alguna manera un retroceso de la posición ideológica
-del anti-_copyright_, la posición política del _copyleft_ es un retroceso de la
-posición ideológica de la izquierda socialista. Aun cuando se apropia de
-argumentos de la izquierda en contra de la propiedad, el _copyleft_ limita su
-crítica al estrecho campo de la propiedad inmaterial. Un ejemplo
-particularmente desvergonzado de esto es el "Manifiesto puntoComunista" de Eben
-Moglen [@moglen-2003], un ofensivo pastiche del manifiesto seminal de Marx
-y Engels, que convierte aquella llamada a las armas de la clase trabajadora por
-la abolición del capitalismo para sólo demandar la abolición de la propiedad
-intelectual. Los dos materialistas decimonónicos hubieran comprendido que la
-sola abolición de la propiedad intelectual no hubiera liberado a la clase
-trabajadora de sus cadenas. Moglen, profesor de leyes en la Universidad de
-Columbia y consejero maestro en la FSF de Stallman, falla en involucrarse en el
-problema de la institución misma de la propiedad, y por lo tanto no ha
-aprendido nada de la posición de los revolucionarios que intenta imitar.
+Así como el _copyleft_ es de alguna manera un retroceso de la posición
+ideológica del anti-_copyright_, la posición política del _copyleft_ es
+un retroceso de la posición ideológica de la izquierda socialista.  Aun
+cuando se apropia de argumentos de la izquierda en contra de la
+propiedad, el _copyleft_ limita su crítica al estrecho campo de la
+propiedad inmaterial.  Un ejemplo particularmente desvergonzado de esto
+es el "Manifiesto puntoComunista" de Eben Moglen [@moglen-2003], un
+ofensivo pastiche del manifiesto seminal de Marx y Engels, que convierte
+aquella llamada a las armas a la clase trabajadora por la abolición del
+capitalismo, para sólo demandar la abolición de la propiedad
+intelectual.  Los dos materialistas decimonónicos hubieran comprendido
+que la sola abolición de la propiedad intelectual no hubiera liberado a
+la clase trabajadora de sus cadenas.  Moglen, profesor de leyes en la
+Universidad de Columbia y consejero maestro en la FSF de Stallman, falla
+en involucrarse en el problema de la institución misma de la propiedad,
+y por lo tanto no ha aprendido nada de la posición de los
+revolucionarios que intenta imitar.
 
-Pero, a pesar de los retrocesos ideológicos y políticos que el _copyleft_
-representa, en el área del desarrollo de software, el _copyleft_ se ha probado un
-medio tremendamente efectivo para crear un común informacional que beneficia
-ampliamente a aquellos cuya producción depende de este. En efecto, el
-surgimiento del movimiento del software libre es con justicia una inspiración
-para todos los que luchan por formas más equitativas de producir.
+Pero, a pesar de los retrocesos ideológicos y políticos que el
+_copyleft_ representa, en el área del desarrollo de software, el
+_copyleft_ se ha probado un medio tremendamente efectivo para crear un
+común informacional que beneficia ampliamente a aquellos cuya producción
+depende de este.  En efecto, el surgimiento del movimiento del software
+libre es con justicia una inspiración para todos los que luchan por
+formas más equitativas de producir.
 
-La izquierda socialista promueve la idea de que la riqueza debe ser justa
-y equitativamente distribuida y controlada por la gente que la produce. Tal vez
-el mejor método de alcanzar esto es a través de empresas decentralizadas
-controladas por sus trabajadores, cooperativas y consejos. Por la misma razón
-que las organizaciones capitalistas apoyan el software libre, porque representa
-un stock común de valor de uso que pueden aplicar a la producción, los
-productores con base en el común y por lo tanto todas las empresas
-autoorganizadas de obreros pueden beneficiarse de tal stock común de software
-_copyleft_ e incorporar a desarrolladores de software en sus empresas colectivas.
+La izquierda socialista promueve la idea de que la riqueza debe ser
+justa y equitativamente distribuida y controlada por la gente que la
+produce.  Tal vez el mejor método de alcanzar esto es a través de
+empresas decentralizadas controladas por sus trabajadores, cooperativas
+y consejos.  Por la misma razón que las organizaciones capitalistas
+apoyan el software libre, porque representa un stock común de valor de
+uso que pueden aplicar a la producción, los productores con base en el
+común y por lo tanto todas las empresas auto-organizadas de obreros
+pueden beneficiarse de tal stock común de software _copyleft_ e
+incorporar a desarrolladores de software en sus empresas colectivas.
 
-El software libre es por lo tanto valioso para la producción autoorganizada de
-los obreros, al darnos una valiosa fuente de capital, software que
-previamente hubiera sido controlado con exclusividad por corporaciones
-propietarias ahora nos da la posibilidad de retener una mayor porción del
-producto de nuestro trabajo. Tal vez tan importante como esto es la forma en
-que la comunidad del software fue pionera en la organización cooperativa de
-proyectos distribuidos de gran escala, aunando contribuidores dispersos
-internacionalmente para trabajar en el desarrollo de software valioso. De esta
-manera, el movimiento del software libre realiza contribuciones importantes
-hacia el objetivo de "organizar industrialmente \[y\] formar la estructura de
-una sociedad nueva dentro del caparazón de la antigua", el ideal histórico de
-los Trabajadores Industriales del Mundo [@iww-sf].
+El software libre es por lo tanto valioso para la producción
+auto-organizada de los obreros, al darnos una valiosa fuente de capital,
+software que previamente hubiera sido controlado con exclusividad por
+corporaciones propietarias ahora nos da la posibilidad de retener una
+mayor porción del producto de nuestro trabajo.  Tal vez tan importante
+como esto es la forma en que la comunidad del software fue pionera en la
+organización cooperativa de proyectos distribuidos de gran escala,
+aunando contribuidores dispersos internacionalmente para trabajar en el
+desarrollo de software valioso.  De esta manera, el movimiento del
+software libre realiza contribuciones importantes hacia el objetivo de
+"organizar industrialmente \[y\] formar la estructura de una sociedad
+nueva dentro de la cáscara de la vieja", el ideal histórico de los
+Trabajadores Industriales del Mundo [@iww-sf].
 
 
 ## La Cultura Libre necesita una Sociedad Libre: El _copyfarleft_
 
-A pesar del rol beneficioso del _copyleft_ para formar un valioso stock común de
-software, se vuelve problemático cuando el modelo es forzado en el dominio del
-arte y la cultura del que nació el disenso contra la propiedad intelectual. Las
-obras culturales, a diferencia del software, son bienes de consumo, no una
-herramienta para utilizar en la producción, es decir un bien de producción. Los
-bienes de producción, como se mencionó antes, son los activos utilizados en la
-producción, como las herramientas y el equipamiento necesario para producir
-bienes de consumo que se venden por rédito. La demanda del capital es distinta
-de la demanda del consumo. La demanda del capital es la demanda de bienes de
-producción; la demanda del consumo es la demanda de bienes de consumo. El
-capitalismo no necesita realizar su ganancia en la producción de bienes de
-capital porque las ganancias se hacen a través del control de la circulación de
-bienes de consumo. Todo aquello que baje el costo del capital aumenta
-consecuentemente el beneficio potencial que podrá ser capturado en la venta de
-esos bienes. Fracasar en comprender la diferencia entre demanda del capital
-y demanda del consumo propaga el mito de que el éxito del software libre puede
-ser una plantilla para la cultura libre. Bajo el capitalismo, sólo el capital
-puede ser libre. Es por esto que el software puede ser libre, pero la cultura
-no puede serlo sin otros cambios más fundamentales en la sociedad.
+A pesar del rol beneficioso del _copyleft_ para formar un valioso stock
+común de software, se vuelve problemático cuando el modelo es forzado en
+el dominio del arte y la cultura del que nació el disenso contra la
+propiedad intelectual.  Las obras culturales, a diferencia del software,
+son bienes de consumo, no una herramienta para utilizar en la
+producción, es decir un bien de producción.  Los bienes de producción,
+como se mencionó antes, son los activos utilizados en la producción,
+como las herramientas y el equipamiento necesario para producir bienes
+de consumo que se venden por rédito.  La demanda del capital es distinta
+de la demanda del consumo.  La demanda del capital es la demanda de
+bienes de producción; la demanda del consumo es la demanda de bienes de
+consumo.  El capitalismo no necesita realizar su ganancia en la
+producción de bienes de capital porque las ganancias se hacen a través
+del control de la circulación de bienes de consumo.  Todo aquello que
+baje el costo del capital aumenta consecuentemente el beneficio
+potencial que podrá ser capturado en la venta de esos bienes.  Fracasar
+en comprender la diferencia entre demanda del capital y demanda del
+consumo propaga el mito de que el éxito del software libre puede ser una
+plantilla para la cultura libre.  Bajo el capitalismo, sólo el capital
+puede ser libre.  Es por esto que el software puede ser libre, pero la
+cultura no puede serlo sin otros cambios más fundamentales en la
+sociedad.
 
-El arte no es, en la mayoria de los casos, una necesidad común de la producción
-como lo es el software. Entonces, su demanda es una demanda de consumo, no de
-capital. Existen ciertamente casos en los que las obras artísticas pueden
-considerarse necesidades productivas, como los efectos de sonido, el clipart,
-clips musicales y otros similares, y la tradición de los artistas de basarse en la obra de
-sus predecesores se ha discutido largamente más arriba; sin embargo, cuando
-discutimos la economía de las obras de contenido, como los poemas, novelas,
-películas o música, así como el software de entretenimiento como los juegos, no
-estamos hablando de bienes de producción, sino de bienes de consumo. Las
-editoras capitalistas y los gigantes de la industria del entretenimiento
-apoyarán la creación de software _copyleft_ para emplearlo en su producción. No
-obstante, en la mayoría de los casos, no apoyarán la creación de arte _copyleft_.
-Por qué lo harían, si el arte es un bien de consumo y la industria no está en
-el mercado para regalar bienes de consumo. Están en el mercado para, no
-obstante, obtener ganancias al controlar la distribución de bienes de consumo.
+El arte no es, en la mayoria de los casos, una necesidad común de la
+producción como lo es el software.  Entonces, su demanda es una demanda
+de consumo, no de capital.  Existen ciertamente casos en los que las
+obras artísticas pueden considerarse necesidades productivas, como los
+efectos de sonido, el _clipart_, clips musicales y otros similares y la
+tradición de los artistas de basarse en la obra de sus predecesores se
+ha discutido largamente más arriba;  sin embargo, cuando discutimos la
+economía de las obras de contenido, como los poemas, novelas, películas
+o música, así como el software de entretenimiento como los juegos, no
+estamos hablando de bienes de producción, sino de bienes de consumo.
+Las editoras capitalistas y los gigantes de la industria del
+entretenimiento apoyarán la creación de software _copyleft_ para
+emplearlo en su producción.  No obstante, en la mayoría de los casos, no
+apoyarán la creación de arte _copyleft_.  Por qué lo harían, si el arte
+es un bien de consumo y la industria no está en el mercado para regalar
+bienes de consumo.  Están en el mercado para, no obstante, obtener
+ganancias al controlar la distribución de bienes de consumo.
 
-Como toda la información copiable y reproducible, las obras de contenido no
-tienen valor de cambio directo, y a diferencia del software, raramente poseen
-valor de uso en la producción. El valor de uso existe sólo entre los fanáticos
-de estas obras y, si los propietarios no pueden obtener dinero de esos
-fanáticos por el derecho a copiar, ¿por qué financiarían la producción? Y si
-los propietarios no apoyarán el arte _copyleft_, que es distribuido libremente,
-¿quién lo hará? La respuesta no es clara. En algunos casos, instituciones
-culturales estatales o privadas, pero estas sólo pueden soportar un pequeño
-número de artistas, y eso sólo aplicando dudosos y en última instancia
-arbitrarios criterios de selección para decidir quién y quién no recibe ese
-financiamiento.
+Como toda la información copiable y reproducible, las obras de contenido
+no tienen valor de cambio directo y a diferencia del software, raramente
+poseen valor de uso en la producción.  El valor de uso existe sólo entre
+los fanáticos de estas obras y si los propietarios no pueden obtener
+dinero de esos fanáticos por el derecho a copiar, ¿por qué financiarían
+la producción?  Y si los propietarios no apoyarán el arte _copyleft_,
+que es distribuido libremente, ¿quién lo hará?  La respuesta no es
+clara.  En algunos casos, son instituciones culturales estatales o
+privadas, pero estas sólo pueden soportar un pequeño número de artistas
+y eso sólo aplicando dudosos y en última instancia arbitrarios criterios
+de selección para decidir quién y quién no recibe ese financiamiento.
 
-El problema resulta obvio cuando se intenta traducir el _copyleft_ a las obras
-culturales. Si alguien libera una novela bajo una licencia _copyleft_, y Random
-House la imprime y obtiene ganancias de esa obra, Random House no ha violado el
-_copyleft_ mientras lo haya aplicado. Ser "libre" significa estar abierto a la
-apropiación comercial, ya que la libertad en términos del _copyleft_ se define
-por la circulación irrestricta de información antes que libertad de la
-explotación. No es una sorpresa que la mayor aplicación de _copyleft_ en la
-producción de obras artísticas, música y textos sea la de permitir la copia,
-modificación y redistribución mientras sea en términos no comerciales.
+El problema resulta obvio cuando se intenta traducir el _copyleft_ a las
+obras culturales.  Si alguien libera una novela bajo una licencia
+_copyleft_ y _Random House_ la imprime y obtiene ganancias de esa obra,
+_Random House_ no ha violado el _copyleft_ mientras lo haya aplicado en
+su edición.  Ser "libre" significa estar abierto a la apropiación
+comercial, ya que la libertad en términos del _copyleft_ se define por
+la circulación irrestricta de información antes que libertad de la
+explotación.  No es una sorpresa que la mayor aplicación de _copyleft_
+en la producción de obras artísticas, música y textos sea la de permitir
+la copia, modificación y redistribución mientras sea en términos no
+comerciales.
 
-Wu Ming, un grupo de autores anti propiedad intelectual de Italia, proclama que
-es necesario restringir el uso comercial, o el uso lucrativo, para proscribir
-la explotación parasitaria de los trabajadores culturales. Justifican esta
-restricción y su divergencia de la versión del _copyleft_ de la Licencia Pública
-General, en base a que la lucha contra la explotación y la lucha por la
-remuneración justa del trabajo son la piedra fundacional histórica de la
-izquierda. Otros proveedores de contenido y editores de libros, Verso por
-ejemplo, han expandido esta restricción reclamando que la copia, modificación
-y redistribución no sólo debe ser no lucrativa, sino también en el espíritu del
-original, sin explicar qué es lo que este "espíritu" significa.
+Wu Ming, un grupo de autores anti-propiedad intelectual de Italia,
+proclama que es necesario restringir el uso comercial, o el uso
+lucrativo, para proscribir la explotación parasitaria de los
+trabajadores culturales.  Justifican esta restricción y su divergencia
+de la versión del _copyleft_ de la Licencia Pública General, en base a
+que la lucha contra la explotación y la lucha por la remuneración justa
+del trabajo son la piedra fundacional histórica de la izquierda.  Otros
+proveedores de contenido y editores de libros, _Verso_ por ejemplo, han
+expandido esta restricción reclamando que la copia, modificación y
+redistribución no sólo debe ser no lucrativa, sino también en el
+espíritu del original, sin explicar qué es lo que este "espíritu"
+significa.
 
-Indymedia de Rumania ha revisado su definición de _copyleft_ para aclarar el
-significado de "en el espíritu del original" luego de tener problemas con el
-sitio web neo-fascista Altermedia Rumania, cuyas "jodas" fueron desde
-secuestrar el dominio indymedia.ro a copiar textos de Indymedia mintiendo sobre
-nombres y fuentes. Las restricciones de Indymedia Rumania incluyen la no
-modificación del nombre original y la fuente porque se opone al deseo de
-transparencia, no reproducir el material lucrativamente porque abusa el
-espíritu de generosidad y no reproducir el material en un contexto que viole
-los derechos de individuos y grupos al discriminarlos por nacionalidad,
-etnicidad, género o sexualidad porque contraviene su compromiso con la
-igualdad.
+Indymedia de Rumania ha revisado su definición de _copyleft_ para
+aclarar el significado de "en el espíritu del original" luego de tener
+problemas con el sitio web neo-fascista Altermedia Rumania, cuyas
+"jodas" fueron desde secuestrar el dominio indymedia.ro a copiar textos
+de Indymedia mintiendo sobre nombres y fuentes.  Las restricciones de
+Indymedia Rumania incluyen la no modificación del nombre original y la
+fuente porque se opone al deseo de transparencia, no reproducir el
+material lucrativamente porque abusa el espíritu de generosidad y no
+reproducir el material en un contexto que viole los derechos de
+individuos y grupos al discriminarlos por nacionalidad, etnicidad,
+género o sexualidad porque contraviene su compromiso con la igualdad.
 
-Otras versiones del _copyleft_ han intentado añadir otras restricciones basándose
-en una interpretación fuerte de la "izquierda" de _copyleft_, utilizando
-principios positivos en lugar de la libertad negativa basada en restricciones,
-como valor la cooperación social sobre el lucro, la partición no
-jerárquica y la no discriminación. Las definiciones más restrictivas del
-_copyleft_ intentar fundar un común informacional que no se trate sólo de la
-libre circulación de información, sino como parte de un movimiento social más
-grande que basa su comunalidad en principios izquierdistas compartidos. En sus
-varias mutaciones, el _copyleft_ representa un abordaje pragmático, racional, que
-reconoce que los límites de la libertad están en que implica derechos
-y responsabilidades recíprocos. Estas diversas restricciones representan
-interpretaciones divergentes sobre cómo deben ser estos derechos
-y responsabilidades. Aún así, dadas las pobres condiciones económicas de la
-mayoría de los artistas que se reservan el _copyright_ completo, el prospecto de
-la mutaciones no comerciales del _copyleft_ para mejorar las condiciones
-económicas de los artistas parece remota.
+Otras versiones del _copyleft_ han intentado añadir otras restricciones
+basándose en una interpretación fuerte de la "izquierda" de _copyleft_,
+utilizando principios positivos en lugar de la libertad negativa basada
+en restricciones, como valor la cooperación social sobre el lucro, la
+participación no jerárquica y la no discriminación.  Las definiciones
+más restrictivas del _copyleft_ intentar fundar un común informacional
+que no se trate sólo de la libre circulación de información, sino como
+parte de un movimiento social más grande que basa su comunalidad en
+principios izquierdistas compartidos.  En sus varias mutaciones, el
+_copyleft_ representa un abordaje pragmático, racional, que reconoce que
+los límites de la libertad se encuentran en los derechos y
+responsabilidades recíprocos.  Estas diversas restricciones representan
+interpretaciones divergentes sobre cómo deben ser estos derechos y
+responsabilidades.  Aún así, dadas las pobres condiciones económicas de
+la mayoría de los artistas que se reservan el _copyright_ completo, el
+prospecto de la mutaciones no comerciales del _copyleft_ para mejorar
+las condiciones económicas de los artistas parece remota.
 
-La ventaja principal de la reserva de los derechos comerciales de un artista es
-la habilidad de licenciar la obra a la industria del entretenimiento bajo otros
-términos; ya que es comercial, no califica para el acceso libre bajo los
-términos de la licencia no comercial. Sin embargo, los artistas carecen de
-recursos para manufacturar y distribuir en una escala comercial. Entonces,
-necesitan de hecho a aquellos que poseen el capital para hacerlo y no pueden
-negociar nada más que su subsistencia. En esencia, vender sus ideas es como
-para otros trabajadores vender su trabajo. Esto se ilustra en
-"Ganancias de los artistas musicales y digitalización: una revisión de datos
-empíricos en Inglaterra y Alemania" de Martin Kretschmer, Profesor de
-Jurisprudencia de la Información en la Universidad Bournemouth, donde concluye
-que "los creadores tienen poco para ganar de la exclusividad" [@kretschmer-sf].
-Similarmente, en su estudio "Evidencia empírica de las ganancias por _copyright_"
-del 2006, dice: "Las ganancias del no-_copyright_, e incluso de las actividades
-no artísticas, son una fuente importante de ingresos para muchos
-creadores" [@kretschmer-2006]. Este estudio incluye muchas cifras
-sorprendentes. Por ejemplo, el pago medio distribuido por la Performing Right
-Society (Reino Unido) en 1994 a los detentadores de _copyright_ fue de
-£84 [@kretschmer-2006].
+La ventaja principal de la reserva de los derechos comerciales de un
+artista es la habilidad de licenciar la obra a la industria del
+entretenimiento bajo otros términos;  ya que es comercial, no califica
+para el acceso libre bajo los términos de la licencia no comercial.  Sin
+embargo, los artistas carecen de recursos para manufacturar y distribuir
+en una escala comercial.  Entonces, necesitan de hecho a aquellos que
+poseen el capital para hacerlo y no pueden negociar nada más que su
+subsistencia.  En esencia, vender sus ideas es como para otros
+trabajadores vender su trabajo.  Esto se ilustra en "_Ganancias de los
+artistas musicales y digitalización: una revisión de datos empíricos en
+Inglaterra y Alemania_" de Martin Kretschmer, Profesor de Jurisprudencia
+de la Información en la Universidad Bournemouth, donde concluye que "los
+creadores tienen poco para ganar de la exclusividad" [@kretschmer-sf].
+Similarmente, en su estudio "_Evidencia empírica de las ganancias por_
+copyright" del 2006, dice: "Las ganancias del no-_copyright_, e incluso
+de las actividades no artísticas, son una fuente importante de ingresos
+para muchos creadores" [@kretschmer-2006].  Este estudio incluye muchas
+cifras sorprendentes.  Por ejemplo, el pago medio distribuido por la
+_Performing Right Society_ (Reino Unido) en 1994 a los detentadores de
+_copyright_ fue de £84 [@kretschmer-2006].
 
-Mientras que los términos no comerciales podrían proveer una forma de integrar
-a los artistas que producen cultura libre a la de otra forma propietaria
-industria del entretenimiento, no la desafían ni abordan la explotación imbuida
-en ella. Los términos no comerciales resultan muy problemáticos para aquellos
-en la izquierda socialista que militan por la producción autoorganizada de los
-trabajadores, ya que estos términos también restringen la habilidad de estas
-empresas no capitalistas para reproducir tales obras. Entonces, tales licencias
-van en detrimento no sólo de los intereses de los artistas sino también de
-todos los trabajadores porque no son compatibles con el objetivo general de la
+Mientras que los términos no comerciales podrían proveer una forma de
+integrar a los artistas que producen cultura libre a la de otra forma
+propietaria industria del entretenimiento, no la desafían ni abordan la
+explotación imbuida en ella.  Los términos no comerciales resultan muy
+problemáticos para aquellos en la izquierda socialista que militan por
+la producción auto-organizada de los trabajadores, ya que estos términos
+también restringen la habilidad de estas empresas no capitalistas para
+reproducir tales obras.  Entonces, tales licencias van en detrimento no
+sólo de los intereses de los artistas sino también de todos los
+trabajadores porque no son compatibles con el objetivo general de la
 izquierda socialista: la creación de una economía controlada por los
 trabajadores.
 
-Para que el _copyleft_ transmute en un instrumento revolucionario en el dominio
-de la producción cultural, debe convertirse en "copy-far-left" (extremaizquierda
-de copia). Debe insistir en la propiedad de los trabajadores sobre los medios
-de producción. Las obras mismas deben formar parte de ese stock común y estar
-disponibles para su uso productivo por otros productores con base en el común.
-Mientras los autores se reserven el derecho a hacer dinero de sus obras
-y prevengan a otros productores basados en el común hacerlo, sus obras no
-pueden considerarse parte del común en lo absoluto, son obras privadas.
-Una licencia _copyfarleft_ no debe restringir el uso comercial, antes bien el uso
-que no está basado en el común.
+Para que el _copyleft_ transmute en un instrumento revolucionario en el
+dominio de la producción cultural, debe convertirse en "_copy-far-left_"
+(extremaizquierda de copia).  Debe insistir en la propiedad de los
+trabajadores sobre los medios de producción.  Las obras mismas deben
+formar parte de ese stock común y estar disponibles para su uso
+productivo por otros productores con base en el común.  Mientras los
+autores se reserven el derecho a hacer dinero de sus obras y prevengan a
+otros productores basados en el común hacerlo, sus obras no pueden
+considerarse parte del común en lo absoluto, son obras privadas.  Una
+licencia _copyfarleft_ no debe restringir el uso comercial, antes bien
+el uso que no está basado en el común.
 
-Específicamente, el _copyfarleft_ debe poseer un grupo de reglas para aquellos
-que están trabajando en el contexto de la propiedad comunal de los
-trabajadores, y otro para aquellos que emplean la propiedad privada y el
-trabajo asalariado en la producción. Una licencia _copyfarleft_ debe posibilitar
-a los productores a compartir libremente y también a retener el valor del
-producto de su trabajo. En otras palabras, debe ser posible para los
-trabajadores obtener una remuneración aplicando su trabajo a la
-propiedad mutua, pero imposible para los propietarios de la propiedad privada
-obtener ganancias del trabajo asalariado.
+Específicamente, el _copyfarleft_ debe poseer un grupo de reglas para
+aquellos que están trabajando en el contexto de la propiedad comunal de
+los trabajadores y otro para aquellos que emplean la propiedad privada y
+el trabajo asalariado en la producción.  Una licencia _copyfarleft_ debe
+posibilitar a los productores a compartir libremente y también a retener
+el valor del producto de su trabajo.  En otras palabras, debe ser
+posible para los trabajadores obtener una remuneración aplicando su
+trabajo a la propiedad mutua, pero imposible para los propietarios de la
+propiedad privada obtener ganancias del trabajo asalariado.
 
-Entonces, bajo una licencia _copyfarleft_, una imprenta cooperativa controlada
-por sus trabajadores sería libre de reproducir, distribuir y modificar el
-stock común como deseen, pero una imprenta privada se vería impedida de
-obtener acceso libre. De esta forma, el _copyfarleft_ se mantiene libre en el
-mismo sentido que el _copyleft_, a pesar de las restricciones a la redistribución
-propietaria. El _copyfarleft_ proscribe la sustracción del común, no las
-contribuciones a él.
+Entonces, bajo una licencia _copyfarleft_, una imprenta cooperativa
+controlada por sus trabajadores sería libre de reproducir, distribuir y
+modificar el stock común como deseen, pero una imprenta privada se vería
+impedida de obtener acceso libre.  De esta forma, el _copyfarleft_ se
+mantiene libre en el mismo sentido que el _copyleft_, a pesar de las
+restricciones a la redistribución propietaria.  El _copyfarleft_
+proscribe la sustracción del común, no las contribuciones a él.
 
-Una licencia _copyfarleft_ permitiría el uso comercial con base en el común al
-tiempo que niega la posibilidad de obtener rédito explotando el trabajo
-asalariado. El abordaje _copyleft_ no comercial no hace ninguna de las dos cosas,
-previene el comercio basado en el común mientras que no restringe efectivamente la
-explotación asalariada porque esto requiere un cambio en la distribución de la
-riqueza. El _copyleft_ provee una fundación sólida para el software en la
-producción basada en el común. El _copyfarleft_ podría proveer un basamento
-funcional para las obras culturales y además convertirse en un stock común
-empleado por productores independientes. Sólo la promoción de una economía de
-los trabajadores, no sólo la prevención del uso comercial, puede cambiar la
+Una licencia _copyfarleft_ permitiría el uso comercial con base en el
+común al tiempo que niega la posibilidad de obtener rédito explotando el
+trabajo asalariado.  El abordaje _copyleft_ no comercial no hace ninguna
+de las dos cosas, previene el comercio basado en el común mientras que
+no restringe efectivamente la explotación asalariada porque esto
+requiere un cambio en la distribución de la riqueza.  El _copyleft_
+provee una fundación sólida para el software en la producción basada en
+el común.  El _copyfarleft_ podría proveer una base funcional para las
+obras culturales y además convertirse en un stock común empleado por
+productores independientes.  Sólo la promoción de una economía de los
+trabajadores, no sólo la prevención del uso comercial, puede cambiar la
 distribución de la riqueza.
 
-Sin embargo, para que el _copyfarleft_ tenga un impacto real, necesitaría ser
-empleado en el contexto de una naciente economía de los trabajadores que incluya
-varias formas de producción, por ejemplo culturales y materiales (arte tanto como
-comida, etc.). En ausencia de tal ambiente, el _copyleft_ y sus variedades poseen
-poca ventaja para la mayoría de los artistas, para quienes el prospecto de
-ganancia financiera a través del licenciamiento comercial es despreciable.
-Para estos artistas, el anti-_copyright_ mantiene un fuerte atractivo. El
-anti-_copyright_ es un gesto radical que rechaza transigencias pragmáticas y busca
-abolir la propiedad intelectual toda. El anti-_copyright_ afirma una
-libertad absoluta y no reconoce límites para su deseo.
+Sin embargo, para que el _copyfarleft_ tenga un impacto real,
+necesitaría ser empleado en el contexto de una naciente economía de los
+trabajadores que incluya varias formas de producción, por ejemplo
+culturales y materiales (arte tanto como comida, etc.)  En ausencia de
+tal ambiente, el _copyleft_ y sus variedades poseen poca ventaja para la
+mayoría de los artistas, para quienes el prospecto de ganancia
+financiera a través del licenciamiento comercial es despreciable.  Para
+estos artistas, el anti-_copyright_ mantiene un fuerte atractivo.  El
+anti-_copyright_ es un gesto radical que rechaza transigencias
+pragmáticas y busca abolir la propiedad intelectual toda.  El
+anti-_copyright_ afirma una libertad absoluta y no reconoce límites para
+su deseo.
 
-Mientras que algunas mutaciones del _copyleft_ han multiplicado las restricciones,
-otras han rechazado cualquier tipo de restricción, incluyendo la sola
-restricción impuesta por el _copyleft_ inicial. Es el movimiento alrededor de la
-compartición entre pares lo que más se acerca al gesto del anti-_copyright_. El mejor
-ejemplo de esto es el blog _Copyriot_ de Rasmus Fleischer del Piratbyrån (Buró
-de Piratería), un _think tank_ anti propiedad intelectual, y los alguna vez
-fundadores de Pirate Bay, el más conocido sitio BitTorrent de la comunidad P2P.
-El leit motiv de Copyriot es "Sin _copyright_. Sin licencia". Pero existe una
-diferencia con respecto a la vieja tradición anti-_copyright_. Fleischer afirma que
-el _copyright_ se ha vuelto absurdo en la era de la tecnología digital porque
-debe recurrir a toda suerte de ficciones, como distinciones entre subidas
-y bajadas o entre productor y consumidor, que no tienen existencia real en una
+Mientras que algunas mutaciones del _copyleft_ han multiplicado las
+restricciones, otras han rechazado cualquier tipo de restricción,
+incluyendo la sola restricción impuesta por el _copyleft_ inicial.  Es
+el movimiento alrededor de la compartición entre pares lo que más se
+acerca al gesto del anti-_copyright_.  El mejor ejemplo de esto es el
+blog _Copyriot_ de Rasmus Fleischer del _Piratbyrån_ (Buró de
+Piratería), un _think tank_ anti-propiedad intelectual y los alguna vez
+fundadores de _Pirate Bay_, el más conocido sitio BitTorrent de la
+comunidad P2P.  El leit motiv de _Copyriot_ es "Sin _copyright_.  Sin
+licencia".  Pero existe una diferencia con respecto a la vieja tradición
+anti-_copyright_.  Fleischer afirma que el _copyright_ se ha vuelto
+absurdo en la era de la tecnología digital porque debe recurrir a toda
+suerte de ficciones, como distinciones entre subidas y bajadas o entre
+productor y consumidor, que no tienen existencia real en una
 comunicación horizontal entre pares.
 
-El Piratbyrån rechaza el _copyright_ completamente, pero no porque está
-fallado de fábrica, sino porque fue inventado para regular una costosa máquina
-de una sola vía como la imprenta y ya no se corresponde con las prácticas que
-han sido posibilitadas por las actuales tecnologías de la reproducción. Sin
-embargo, a pesar de la absurdidad de las ficciones en que descansa el
-_copyright_, el contexto político más amplio sugiere que los modelos inspirados en el
-_copyleft_ también tienen un rol importante que jugar. El rechazo total del
-ambiente legal no siempre es posible cuando se toman en cuenta las
-consideraciones prácticas. Construir formas alternativas de producir
-y compartir, "construir la sociedad nueva en el caparazón de la vieja",
-requiere que operemos dentro del sistema legal capitalista donde la lógica de
-captura y explotación está imbuida. Aunque existe el espacio para gestos
-desafiantes, debemos ponernos a buscar las formas y estructuras requeridas para
-construir y expandir el común. Resulta claro que restricciones como las del
-_copyleft_ y el _copyfarleft_ sirven para proteger el común y mantenerlo libre.
+El _Piratbyrån_ rechaza el _copyright_ completamente, pero no porque
+está fallado de fábrica, sino porque fue inventado para regular una
+costosa máquina de una sola vía como la imprenta y ya no se corresponde
+con las prácticas que han sido posibilitadas por las actuales
+tecnologías de la reproducción.  Sin embargo, a pesar de lo absurdo de
+las ficciones en que descansa el _copyright_, el contexto político más
+amplio sugiere que los modelos inspirados en el _copyleft_ también
+tienen un rol importante que jugar.  El rechazo total del ambiente legal
+no siempre es posible cuando se toman en cuenta las consideraciones
+prácticas.  Construir formas alternativas de producir y compartir,
+"construir la sociedad nueva en la cáscara de la vieja", requiere que
+operemos dentro del sistema legal capitalista donde la lógica de captura
+y explotación está imbuida.  Aunque existe el espacio para gestos
+desafiantes, debemos ponernos a buscar las formas y estructuras
+requeridas para construir y expandir el común.  Resulta claro que
+restricciones como las del _copyleft_ y el _copyfarleft_ sirven para
+proteger el común y mantenerlo libre.
 
 Mientras exista el _copyright_, las licencias con inspiración _copyleft_
-continuarán siendo necesarias para permitir la libertad intelectual dentro del
-régimen del _copyright_. Sólo cuando los trabajadores hayan realizado su rol
-histórico y creen una sociedad sin clases, podremos crear una cultura realmente
-libre sin restricciones.
+continuarán siendo necesarias para permitir la libertad intelectual
+dentro del régimen del _copyright_.  Sólo cuando los trabajadores hayan
+realizado su rol histórico y creen una sociedad sin clases, podremos
+crear una cultura realmente libre sin restricciones.
 
 
 ## La licencia de producción de pares: un modelo para el _copyfarleft_
 
-La Licencia de Producción de Pares es un modelo de licencia _copyfarleft_,
-derivada de la licencia Creative Commons "Atribución-NoComercial-CompartirIgual
-3.0 Unported": http://creativecommons.org/licenses/by-nc-sa/3.0/
+La Licencia de Producción de Pares es un modelo de licencia
+_copyfarleft_, derivada de la licencia _Creative Commons_
+"Atribución-NoComercial-CompartirIgual
+3.0 Unported": <http://creativecommons.org/licenses/by-nc-sa/3.0/>
 
-Para la traducción al castellano se adaptó el texto de la licencia "Creative
-Commons Atribución-NoComercial-CompartirIgual 3.0 Chile":
-http://creativecommons.org/licenses/by-nc-sa/3.0/cl/
+Para la traducción al castellano se adaptó el texto de la licencia
+_Creative Commons_ "Atribución-NoComercial-CompartirIgual 3.0 Chile":
+<http://creativecommons.org/licenses/by-nc-sa/3.0/cl/>
 
 ### Licencia de Producción de Pares
 
 LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA
-_COPYFARLEFT_ PÚBLICA ("LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS DE AUTOR
-Y/U OTRAS LEYES APLICABLES. QUEDA PROHIBIDO CUALQUIER OTRO USO QUE SE HAGA DE
-LA OBRA QUE NO CUENTE CON LA AUTORIZACIÓN PERTINENTE DE CONFORMIDAD CON LOS
-TÉRMINOS DE ESTA LICENCIA Y DE LA LEY SOBRE DERECHOS DE AUTOR.
+_COPYFARLEFT_ PÚBLICA ("LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS
+DE AUTOR Y/U OTRAS LEYES APLICABLES. QUEDA PROHIBIDO CUALQUIER OTRO USO
+QUE SE HAGA DE LA OBRA QUE NO CUENTE CON LA AUTORIZACIÓN PERTINENTE DE
+CONFORMIDAD CON LOS TÉRMINOS DE ESTA LICENCIA Y DE LA LEY SOBRE DERECHOS
+DE AUTOR.
 
-MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA
-LICENCIA, USTED ACEPTA Y CONSIENTE VERSE OBLIGADO EN LOS TÉRMINOS QUE SE
-SEÑALAN EN ELLA. EN LA MEDIDA QUE ESTA LICENCIA PUEDA SER CONSIDERADA COMO UN
-CONTRATO, EL LICENCIANTE LE CONCEDE A USTED LOS DERECHOS CONTENIDOS EN ELLA,
-CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
+MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN
+ESTA LICENCIA, USTED ACEPTA Y CONSIENTE VERSE OBLIGADO EN LOS TÉRMINOS
+QUE SE SEÑALAN EN ELLA. EN LA MEDIDA QUE ESTA LICENCIA PUEDA SER
+CONSIDERADA COMO UN CONTRATO, EL LICENCIANTE LE CONCEDE A USTED LOS
+DERECHOS CONTENIDOS EN ELLA, CONDICIONADOS A LA ACEPTACIÓN DE SUS
+TÉRMINOS Y CONDICIONES.
 
  1) Definiciones
 
-    a. "Adaptación", también llamada "Obra Derivada", es aquella creación
-    basada en la Obra, o basada en la Obra y otras creaciones preexistentes,
-    tales como una traducción, una obra derivada, arreglo musical u otra
-    modificación de una obra literaria o artística, o de un fonograma
-    o interpretación, e incluye las adaptaciones cinematográficas o cualquier
-    otra forma en que la Obra pueda ser transformada o modificada,
-    comprendiendo cualquier forma reconocible derivada de la original, que
-    constituya una creación autónoma, excepto que una obra forme parte de una
-    Colección, en cuyo caso no será considerada una Adaptación para los fines
-    de esta Licencia. Para evitar dudas, cuando la Obra es una creación
-    musical, interpretación o fonograma, la sincronización de ella en cuanto al
+    a. "Adaptación", también llamada "Obra Derivada", es aquella
+    creación basada en la Obra, o basada en la Obra y otras creaciones
+    preexistentes, tales como una traducción, una obra derivada, arreglo
+    musical u otra modificación de una obra literaria o artística, o de
+    un fonograma o interpretación, e incluye las adaptaciones
+    cinematográficas o cualquier otra forma en que la Obra pueda ser
+    transformada o modificada, comprendiendo cualquier forma reconocible
+    derivada de la original, que constituya una creación autónoma,
+    excepto que una obra forme parte de una Colección, en cuyo caso no
+    será considerada una Adaptación para los fines de esta Licencia.
+    Para evitar dudas, cuando la Obra es una creación musical,
+    interpretación o fonograma, la sincronización de ella en cuanto al
     tiempo en relación con la imagen en movimiento será considerada una
     Adaptación para los fines de esta Licencia.
 
-    b. "Colección" se refiere a aquellas recopilaciones de obras literarias
-    o artísticas, tales como enciclopedias y antologías, o interpretaciones,
-    fonogramas o emisiones, u otras creaciones o materias distintas de las
-    obras enumeradas en la Sección 1(g) siguiente, las que, en razón de la
-    selección y distribución de sus contenidos, constituyan creaciones
-    intelectuales, en las cuales la Obra esté incluida en su totalidad sin
-    modificaciones junto con una o más de otras contribuciones, constituyendo
-    cada una obras separadas e independientes en sí mismas, que al encontrarse
-    juntas están unidas en un todo colectivo. Una obra que constituya una
-    Colección no será considerada una Adaptación (tal como se ha definido
-    anteriormente) para los fines de esta Licencia.
+    b. "Colección" se refiere a aquellas recopilaciones de obras
+    literarias o artísticas, tales como enciclopedias y antologías, o
+    interpretaciones, fonogramas o emisiones, u otras creaciones o
+    materias distintas de las obras enumeradas en la Sección 1(g)
+    siguiente, las que, en razón de la selección y distribución de sus
+    contenidos, constituyan creaciones intelectuales, en las cuales la
+    Obra esté incluida en su totalidad sin modificaciones junto con una
+    o más de otras contribuciones, constituyendo cada una obras
+    separadas e independientes en sí mismas, que al encontrarse juntas
+    están unidas en un todo colectivo. Una obra que constituya una
+    Colección no será considerada una Adaptación (tal como se ha
+    definido anteriormente) para los fines de esta Licencia.
 
-    c. "Distribuir" significa poner a disposición del público el original y las
-    copias de la Obra o Adaptación, venta u otra transferencia de dominio
-    o posesión.
+    c. "Distribuir" significa poner a disposición del público el
+    original y las copias de la Obra o Adaptación, venta u otra
+    transferencia de dominio o posesión.
 
-    d. "Elementos de la Licencia" se refiere a los siguientes atributos de esta
-    Licencia, de acuerdo a la selección del Licenciante, e indicados en el
-    título de ella: Atribución - NoCapitalista - CompartirIgual.
+    d. "Elementos de la Licencia" se refiere a los siguientes atributos
+    de esta Licencia, de acuerdo a la selección del Licenciante, e
+    indicados en el título de ella: Atribución - NoCapitalista -
+    CompartirIgual.
 
     e. "Licenciante" es la persona o personas que ofrece(n) la Obra en
     conformidad con las condiciones de esta Licencia.
 
     f. "Autor Original" se refiere, en el caso de una creación literaria
-    o artística, a la persona o personas que crearon la Obra, o al editor, si
-    no es posible identificar a aquélla(s); y además, para efectos de esta
-    licencia, se entiende por tal autor (i) en el caso de una interpretación
-    los actores, cantantes, músicos, bailarines, y otras personas que actúen,
-    canten, pronuncien, declamen, pongan en escena, interpreten o de otra forma
-    ejecuten obras literarias o artísticas o expresiones del folklore; (ii) en
-    el caso de un fonograma el productor que sea la persona o entidad legal que
-    primero fije los sonidos de una interpretación u otros sonidos; y, (iii) en
-    el caso de las emisiones, la organización que transmita dichas emisiones.
+    o artística, a la persona o personas que crearon la Obra, o al
+    editor, si no es posible identificar a aquélla(s); y además, para
+    efectos de esta licencia, se entiende por tal autor (i) en el caso
+    de una interpretación los actores, cantantes, músicos, bailarines, y
+    otras personas que actúen, canten, pronuncien, declamen, pongan en
+    escena, interpreten o de otra forma ejecuten obras literarias o
+    artísticas o expresiones del folklore; (ii) en el caso de un
+    fonograma el productor que sea la persona o entidad legal que
+    primero fije los sonidos de una interpretación u otros sonidos; y,
+    (iii) en el caso de las emisiones, la organización que transmita
+    dichas emisiones.
 
-    g. "Obra" se refiere a la creación literaria y/o artística ofrecida bajo
-    las condiciones de esta Licencia incluyendo, sin limitación, cualquier
-    producción de los dominios literarios, científicos y artísticos, cualquiera
-    sea su modo o forma de expresión. Se entenderán comprendidas en este
-    concepto las obras de tipo digital, tales como un libro, panfleto y otros
-    escritos; un discurso, sermón u otra obra de la misma naturaleza; una obra
-    dramática o dramático-musical; una obra coreográfica o de entretenimiento
-    en un show de pantomima; una composición musical con o sin palabras; una
-    obra audiovisual, una obra cinematográfica a la que sean asimiladas las
-    creaciones expresadas mediante un proceso análogo a la cinematografía; una
-    obra de dibujo, pintura, arquitectura, escultura, grabado o litografía; una
-    obra fotográfica a las que sean asimiladas las creaciones expresadas
-    mediante un proceso análogo a la fotografía; una creación de arte aplicada;
-    una ilustración, mapa, plan, bosquejo u obra tridimensional relativa
-    a geografía, topografía, arquitectura o ciencia; una representación; una
-    transmisión; un fonograma; una compilación de datos en la medida que esta
-    sea protegida como obra por el derecho de autor; o una obra interpretada
-    por un artista de variedades o circense, en la medida que ésta no sea
-    considerada una obra literaria o artística.
+    g. "Obra" se refiere a la creación literaria y/o artística ofrecida
+    bajo las condiciones de esta Licencia incluyendo, sin limitación,
+    cualquier producción de los dominios literarios, científicos y
+    artísticos, cualquiera sea su modo o forma de expresión. Se
+    entenderán comprendidas en este concepto las obras de tipo digital,
+    tales como un libro, panfleto y otros escritos; un discurso, sermón
+    u otra obra de la misma naturaleza; una obra dramática o
+    dramático-musical; una obra coreográfica o de entretenimiento en un
+    show de pantomima; una composición musical con o sin palabras; una
+    obra audiovisual, una obra cinematográfica a la que sean asimiladas
+    las creaciones expresadas mediante un proceso análogo a la
+    cinematografía; una obra de dibujo, pintura, arquitectura,
+    escultura, grabado o litografía; una obra fotográfica a las que sean
+    asimiladas las creaciones expresadas mediante un proceso análogo a
+    la fotografía; una creación de arte aplicada; una ilustración, mapa,
+    plan, bosquejo u obra tridimensional relativa a geografía,
+    topografía, arquitectura o ciencia; una representación; una
+    transmisión; un fonograma; una compilación de datos en la medida que
+    esta sea protegida como obra por el derecho de autor; o una obra
+    interpretada por un artista de variedades o circense, en la medida
+    que ésta no sea considerada una obra literaria o artística.
 
-    h. "Usted" es la persona que ejercita los derechos otorgados al amparo de
-    esta Licencia y que, con anterioridad, no ha violado las condiciones de la
-    misma respecto a la Obra, o que ha obtenido autorización expresa por parte
-    del Licenciante para ejercer los derechos al amparo de esta Licencia pese
-    a una violación anterior de la misma.
+    h. "Usted" es la persona que ejercita los derechos otorgados al
+    amparo de esta Licencia y que, con anterioridad, no ha violado las
+    condiciones de la misma respecto a la Obra, o que ha obtenido
+    autorización expresa por parte del Licenciante para ejercer los
+    derechos al amparo de esta Licencia pese a una violación anterior de
+    la misma.
 
-    i. "Ejecutar Públicamente" se refiere a efectuar recitaciones en público de
-    la Obra y comunicárselas al público, por cualquier medio o proceso,
-    incluyendo los medios por cable o inalámbricos o las interpretaciones
-    públicas digitales; poner a disposición del público las Obras de tal forma
-    que los miembros de la audiencia puedan acceder a aquéllas desde y en un
-    lugar individualmente escogido por ella; interpretar la Obra al público por
-    cualquier medio o proceso y comunicarle dichas interpretaciones, incluida
-    la interpretación pública digital; transmitir y retransmitir la Obra por
-    cualquier medio incluyendo símbolos, sonidos o imágenes.
+    i. "Ejecutar Públicamente" se refiere a efectuar recitaciones en
+    público de la Obra y comunicárselas al público, por cualquier medio
+    o proceso, incluyendo los medios por cable o inalámbricos o las
+    interpretaciones públicas digitales; poner a disposición del público
+    las Obras de tal forma que los miembros de la audiencia puedan
+    acceder a aquéllas desde y en un lugar individualmente escogido por
+    ella; interpretar la Obra al público por cualquier medio o proceso y
+    comunicarle dichas interpretaciones, incluida la interpretación
+    pública digital; transmitir y retransmitir la Obra por cualquier
+    medio incluyendo símbolos, sonidos o imágenes.
 
     j. "Reproducir" significa fijar la Obra por un medio que permita su
     comunicación y la obtención de copias de todo o parte de ella, por
-    cualquier medio o procedimiento, incluyendo sin limitación grabaciones de
-    sonido y visuales, e incluyendo el almacenamiento de una interpretación
-    o fonograma protegido en un formato digital u otro medio electrónico.
+    cualquier medio o procedimiento, incluyendo sin limitación
+    grabaciones de sonido y visuales, e incluyendo el almacenamiento de
+    una interpretación o fonograma protegido en un formato digital u
+    otro medio electrónico.
 
  2) Usos Legítimos.
 
     Nada en esta Licencia podrá ser interpretado como una disminución,
-    limitación o restricción de cualquiera de los derechos de usos que se
-    encuentran permitidos por las leyes, tal como las excepciones
-    y limitaciones a los derechos de autor y conexos previstos en la ley
-    u otras legislaciones que resulten aplicables.
+    limitación o restricción de cualquiera de los derechos de usos que
+    se encuentran permitidos por las leyes, tal como las excepciones y
+    limitaciones a los derechos de autor y conexos previstos en la ley u
+    otras legislaciones que resulten aplicables.
 
  3) Otorgamiento de la Licencia.
 
-    Bajo los términos y condiciones de esta Licencia, el Licenciante le otorga
-    a Usted una licencia mundial, gratuita, no exclusiva y permanente (durante
-    todo el período de vigencia de los derechos de autor) para ejercer derechos
-    sobre la Obra tal y como se indica a continuación:
+    Bajo los términos y condiciones de esta Licencia, el Licenciante le
+    otorga a Usted una licencia mundial, gratuita, no exclusiva y
+    permanente (durante todo el período de vigencia de los derechos de
+    autor) para ejercer derechos sobre la Obra tal y como se indica a
+    continuación:
 
-    a. Reproducir la Obra, incorporarla en una o más Colecciones,
-    y Reproducirla incorporada en las Colecciones;
+    a. Reproducir la Obra, incorporarla en una o más Colecciones, y
+    Reproducirla incorporada en las Colecciones;
 
-    b. Crear y reproducir Adaptaciones, incluyendo la traducción que se haga en
-    cualquier medio, siempre que se tomen las medidas razonables para, con
-    claridad, etiquetar, demarcar o de alguna otra forma identificar que se le
-    hicieron cambios a la Obra original. Por ejemplo, una traducción podría
-    expresar "La obra original fue traducida desde el Inglés al Español", o una
-    modificación podría indicar "La obra original ha sido modificada";
+    b. Crear y reproducir Adaptaciones, incluyendo la traducción que se
+    haga en cualquier medio, siempre que se tomen las medidas razonables
+    para, con claridad, etiquetar, demarcar o de alguna otra forma
+    identificar que se le hicieron cambios a la Obra original. Por
+    ejemplo, una traducción podría expresar "La obra original fue
+    traducida desde el Inglés al Español", o una modificación podría
+    indicar "La obra original ha sido modificada";
 
-    c. Distribuir y Ejecutar Públicamente la Obra incluyendo su incorporación
-    en Colecciones; y,
+    c. Distribuir y Ejecutar Públicamente la Obra incluyendo su
+    incorporación en Colecciones; y,
 
     d. Distribuir y Ejecutar Públicamente las Adaptaciones.
 
-    Los derechos mencionados anteriormente pueden ser ejercidos en todos los
-    medios y formatos actualmente conocidos o mediante aquellos que se inventen
-    en el futuro. Los derechos antes mencionados incluyen el derecho a realizar
-    dichas modificaciones, en la medida que sean técnicamente necesarias para
-    ejercer los derechos en otros medios o formatos. Todos los derechos no
-    otorgados expresamente por el Licenciante quedan reservados, incluyendo
-    pero no limitándose a los derechos establecidos en las Secciones 4(e)
-    y 4(f).
+    Los derechos mencionados anteriormente pueden ser ejercidos en todos
+    los medios y formatos actualmente conocidos o mediante aquellos que
+    se inventen en el futuro. Los derechos antes mencionados incluyen el
+    derecho a realizar dichas modificaciones, en la medida que sean
+    técnicamente necesarias para ejercer los derechos en otros medios o
+    formatos. Todos los derechos no otorgados expresamente por el
+    Licenciante quedan reservados, incluyendo pero no limitándose a los
+    derechos establecidos en las Secciones 4(e) y 4(f).
 
  4) Restricciones.
 
-    La licencia otorgada en la anterior Sección 3 está expresamente sujeta
-    y limitada por las siguientes restricciones:
+    La licencia otorgada en la anterior Sección 3 está expresamente
+    sujeta y limitada por las siguientes restricciones:
 
-    a. Usted puede Distribuir o Ejecutar Públicamente la Obra sólo bajo las
-    condiciones de esta Licencia. Usted debe incluir una copia de esta
-    Licencia, o del Identificador Universal de Recursos (IUR), con cada copia
-    de la Obra que Usted Distribuya o Ejecute Públicamente. No le es posible
-    ofrecer o imponer ninguna condición sobre la Obra que limite las
-    condiciones de esta Licencia o la capacidad del destinatario de la Obra de
-    ejercer los derechos otorgados bajo los términos de esta Licencia. Usted no
-    puede sublicenciar la Obra. Usted debe mantener intactos todos los avisos
-    que hagan referencia a esta Licencia y a la cláusula de garantías en cada
-    copia de la Obra que Usted Distribuya o Ejecute Públicamente. Usted no
-    puede imponer ninguna medida tecnológica efectiva sobre la Obra que
-    restrinja la capacidad de un destinatario de una Obra entregada por Usted
-    de ejercer los derechos otorgados a dicho destinatario bajo los términos de
-    esta Licencia. Esta Sección 4(a) se aplica a una Obra incorporada en una
-    Colección, pero esto no exige que la Colección en sí, aparte de la Obra,
-    quede sujeta a las condiciones de esta Licencia. Si Usted crea una
-    Colección, previa comunicación del Licenciante, Usted deberá, en la medida
-    de lo posible, quitar de dicha Colección cualquier crédito requerido en la
-    Sección 4(e), según lo que le fuese solicitado. Si Usted crea una
-    Adaptación, previa comunicación del Licenciante, deberá, en la medida de lo
-    posible, quitar de dicha Adaptación cualquier crédito requerido en la
-    Sección 4(e), según lo que le fuese solicitado.
+    a. Usted puede Distribuir o Ejecutar Públicamente la Obra sólo bajo
+    las condiciones de esta Licencia. Usted debe incluir una copia de
+    esta Licencia, o del Identificador Universal de Recursos (IUR), con
+    cada copia de la Obra que Usted Distribuya o Ejecute Públicamente.
+    No le es posible ofrecer o imponer ninguna condición sobre la Obra
+    que limite las condiciones de esta Licencia o la capacidad del
+    destinatario de la Obra de ejercer los derechos otorgados bajo los
+    términos de esta Licencia. Usted no puede sublicenciar la Obra.
+    Usted debe mantener intactos todos los avisos que hagan referencia a
+    esta Licencia y a la cláusula de garantías en cada copia de la Obra
+    que Usted Distribuya o Ejecute Públicamente. Usted no puede imponer
+    ninguna medida tecnológica efectiva sobre la Obra que restrinja la
+    capacidad de un destinatario de una Obra entregada por Usted de
+    ejercer los derechos otorgados a dicho destinatario bajo los
+    términos de esta Licencia. Esta Sección 4(a) se aplica a una Obra
+    incorporada en una Colección, pero esto no exige que la Colección en
+    sí, aparte de la Obra, quede sujeta a las condiciones de esta
+    Licencia. Si Usted crea una Colección, previa comunicación del
+    Licenciante, Usted deberá, en la medida de lo posible, quitar de
+    dicha Colección cualquier crédito requerido en la Sección 4(e),
+    según lo que le fuese solicitado. Si Usted crea una Adaptación,
+    previa comunicación del Licenciante, deberá, en la medida de lo
+    posible, quitar de dicha Adaptación cualquier crédito requerido en
+    la Sección 4(e), según lo que le fuese solicitado.
 
-    b. A excepción de la Sección 4(a), Usted no puede ejercer ninguno de los
-    derechos que le han sido otorgados en la Sección 3 precedente de modo que
-    estén principalmente destinados o directamente dirigidos a conseguir un
-    provecho comercial o una compensación monetaria privada. El intercambio de
-    la Obra por otras obras protegidas por derechos de autor, ya sea a través
-    de un sistema para compartir archivos digitales (digital file-sharing) o de
-    cualquier otra manera no será considerado como destinado principalmente
-    o dirigido directamente a conseguir un provecho comercial o una
-    compensación monetaria privada, siempre que no se realice pago de una
-    compensación monetaria cualquiera en relación con el intercambio de obras
-    protegidas por derechos de autor.
+    b. A excepción de la Sección 4(a), Usted no puede ejercer ninguno de
+    los derechos que le han sido otorgados en la Sección 3 precedente de
+    modo que estén principalmente destinados o directamente dirigidos a
+    conseguir un provecho comercial o una compensación monetaria
+    privada. El intercambio de la Obra por otras obras protegidas por
+    derechos de autor, ya sea a través de un sistema para compartir
+    archivos digitales (digital file-sharing) o de cualquier otra manera
+    no será considerado como destinado principalmente o dirigido
+    directamente a conseguir un provecho comercial o una compensación
+    monetaria privada, siempre que no se realice pago de una
+    compensación monetaria cualquiera en relación con el intercambio de
+    obras protegidas por derechos de autor.
 
-    c. Usted puede ejercer los derechos concedidos en la Sección 3 precedente
-    con fines comerciales sólo si:
+    c. **Usted puede ejercer los derechos concedidos en la Sección 3
+    precedente con fines comerciales sólo si:
 
         i. Usted es o pertenece a un colectivo o empresa bajo posesión
         y control obrero;
 
-        ii. Toda ganancia, valor añadido, rédito o beneficio producido por el
-        ejercicio de los derechos concedidos en esta Obra se distribuyen entre
-        los trabajadores pertenecientes al colectivo o empresa.
+        ii. Toda ganancia, valor añadido, rédito o beneficio producido
+        por el ejercicio de los derechos concedidos en esta Obra se
+        distribuyen entre los trabajadores pertenecientes al colectivo o
+        empresa.**
 
-    d. Cualquier uso realizado por una empresa poseída y administrada en forma
-    privada, y que busque obtener rédito del trabajo asalariado de sus
-    empleados o cualquier otra forma de explotación está expresamente prohibido
-    por esta Licencia.
+    d. **Cualquier uso realizado por una empresa poseída y administrada en
+    forma privada, y que busque obtener rédito del trabajo asalariado de
+    sus empleados o cualquier otra forma de explotación está
+    expresamente prohibido por esta Licencia.**
 
     e. Si Usted Distribuye o Ejecuta Públicamente, la Obra o cualquiera
-    Adaptaciones o Colecciones, Usted debe, a menos que se haya hecho una
-    petición de acuerdo a la Sección 4(a), mantener intactos todos los avisos
-    relativos a derechos de autor para la Obra y consignar, de acuerdo al medio
-    o método que Usted esté utilizando: (i) el nombre del Autor Original (o
-    pseudónimo, en su caso) si fuera facilitado, y/o si el Autor Original y/o
-    Licenciante designa a otra parte o partes (por ejemplo un instituto
-    patrocinante, editorial o publicación ("Grupo de Atribución") en el aviso
-    de derecho de autor del Licenciante, condiciones de servicio u otras
-    circunstancias pertinentes, el nombre de tal parte o partes; (ii) el título
-    de la Obra, si se facilitase; (iii) en la medida de lo posible y de
-    existir, el IUR que el Licenciante especifica para ser vinculado con la
-    Obra, a menos que aquél no se refiera al aviso de derechos del autor o a la
-    información de licenciamiento de la Obra; y, (iv) de acuerdo con la Sección
-    3(b), en el caso de una Adaptación, un crédito que identifique que se ha
-    hecho uso de la Obra en la Adaptación (por ejemplo, "Traducción al francés
-    de la Obra del Autor Original" o "Guión basado en la Obra originaria de
-    Autor Original").  Los créditos o menciones solicitados por esta Sección
-    4 (e) pueden ser implementados de cualquier forma razonable; Sin embargo,
-    si en una Adaptación o una Colección aparecen mencionados los autores que
-    contribuyeron a formarla, como mínimo el crédito de esta Sección 4(e)
-    deberá aparecer incluido como parte de dicha mención y de forma tan
-    destacada como los créditos de quienes han contribuido. Para evitar dudas,
-    Usted sólo puede utilizar los créditos requeridos por esta Sección con la
-    finalidad de realizar la atribución de paternidad o autoría en la forma
-    señalada anteriormente y, para ejercer sus derechos bajo esta Licencia,
-    Usted no puede implícita ni explícitamente afirmar ni sugerir ninguna
-    conexión, patrocinio o respaldo por parte del Autor Original, del
-    Licenciante y/o de los Grupos de Atribución, según corresponda, de Usted
-    o del uso que ha hecho de la Obra, sin la autorización separada, previa
-    y escrita del Autor Original, Licenciante y/o Grupo de Atribución.
+    Adaptaciones o Colecciones, Usted debe, a menos que se haya hecho
+    una petición de acuerdo a la Sección 4(a), mantener intactos todos
+    los avisos relativos a derechos de autor para la Obra y consignar,
+    de acuerdo al medio o método que Usted esté utilizando: (i) el
+    nombre del Autor Original (o pseudónimo, en su caso) si fuera
+    facilitado, y/o si el Autor Original y/o Licenciante designa a otra
+    parte o partes (por ejemplo un instituto patrocinante, editorial o
+    publicación ("Grupo de Atribución") en el aviso de derecho de autor
+    del Licenciante, condiciones de servicio u otras circunstancias
+    pertinentes, el nombre de tal parte o partes; (ii) el título de la
+    Obra, si se facilitase; (iii) en la medida de lo posible y de
+    existir, el IUR que el Licenciante especifica para ser vinculado con
+    la Obra, a menos que aquél no se refiera al aviso de derechos del
+    autor o a la información de licenciamiento de la Obra; y, (iv) de
+    acuerdo con la Sección 3(b), en el caso de una Adaptación, un
+    crédito que identifique que se ha hecho uso de la Obra en la
+    Adaptación (por ejemplo, "Traducción al francés de la Obra del Autor
+    Original" o "Guión basado en la Obra originaria de Autor Original").
+    Los créditos o menciones solicitados por esta Sección 4 (e) pueden
+    ser implementados de cualquier forma razonable; Sin embargo, si en
+    una Adaptación o una Colección aparecen mencionados los autores que
+    contribuyeron a formarla, como mínimo el crédito de esta Sección
+    4(e) deberá aparecer incluido como parte de dicha mención y de forma
+    tan destacada como los créditos de quienes han contribuido. Para
+    evitar dudas, Usted sólo puede utilizar los créditos requeridos por
+    esta Sección con la finalidad de realizar la atribución de
+    paternidad o autoría en la forma señalada anteriormente y, para
+    ejercer sus derechos bajo esta Licencia, Usted no puede implícita ni
+    explícitamente afirmar ni sugerir ninguna conexión, patrocinio o
+    respaldo por parte del Autor Original, del Licenciante y/o de los
+    Grupos de Atribución, según corresponda, de Usted o del uso que ha
+    hecho de la Obra, sin la autorización separada, previa y escrita del
+    Autor Original, Licenciante y/o Grupo de Atribución.
 
     f. En caso de dudas:
 
-        i. Sistemas de Licencias Obligatorias No Renunciables. En aquellos
-        países en los que la facultad de percibir los derechos a través de un
-        sistema de licenciamiento reglamentario u obligatorio no pueda ser
-        renunciada, el Licenciante se reserva la facultad exclusiva de percibir
-        dichos derechos por cualquier ejercicio, hecho por Usted, de los
-        derechos concedidos por esta Licencia;
+        i. Sistemas de Licencias Obligatorias No Renunciables. En
+        aquellos países en los que la facultad de percibir los derechos
+        a través de un sistema de licenciamiento reglamentario u
+        obligatorio no pueda ser renunciada, el Licenciante se reserva
+        la facultad exclusiva de percibir dichos derechos por cualquier
+        ejercicio, hecho por Usted, de los derechos concedidos por esta
+        Licencia;
 
-        ii. Sistemas de Licencias Obligatorias Renunciables. En aquellos países
-        en los que la facultad de percibir los derechos a través de un sistema
-        de licenciamiento reglamentario u obligatorio pueda ser renunciada, el
-        Licenciante se reserva la facultad exclusiva de percibir dichos
-        derechos por cualquier ejercicio, hecho por Usted, de los derechos
-        concedidos por esta Licencia si usted ejerce tales derechos para un
-        propósito o uso de alguna otra forma distinta a la no comercial de
-        acuerdo a lo permitido por la Sección 4(c), y que de lo contrario
-        renuncia a la facultad de percibir los derechos a través de un esquema
-        de licenciamiento obligatorio; y,
+        ii. Sistemas de Licencias Obligatorias Renunciables. En aquellos
+        países en los que la facultad de percibir los derechos a través
+        de un sistema de licenciamiento reglamentario u obligatorio
+        pueda ser renunciada, el Licenciante se reserva la facultad
+        exclusiva de percibir dichos derechos por cualquier ejercicio,
+        hecho por Usted, de los derechos concedidos por esta Licencia si
+        usted ejerce tales derechos para un propósito o uso de alguna
+        otra forma distinta a la no comercial de acuerdo a lo permitido
+        por la Sección 4(c), y que de lo contrario renuncia a la
+        facultad de percibir los derechos a través de un esquema de
+        licenciamiento obligatorio; y,
 
-        iii. Sistemas de Licencias Voluntarias. El Licenciante se reserva la
-        facultad de percibir los derechos, ya sea individualmente o, en el
-        evento que el Licenciante sea miembro de una sociedad gestora de
-        derechos que administra sistemas de licencias voluntarias, a través de
-        esa sociedad, de cualquier ejercicio que Usted haga de los derechos
-        concedidos bajo esta Licencia, que sea hecho para un propósito distinto
-        del no comercial de acuerdo a lo permitido en la Sección 4(c).
+        iii. Sistemas de Licencias Voluntarias. El Licenciante se
+        reserva la facultad de percibir los derechos, ya sea
+        individualmente o, en el evento que el Licenciante sea miembro
+        de una sociedad gestora de derechos que administra sistemas de
+        licencias voluntarias, a través de esa sociedad, de cualquier
+        ejercicio que Usted haga de los derechos concedidos bajo esta
+        Licencia, que sea hecho para un propósito distinto del no
+        comercial de acuerdo a lo permitido en la Sección 4(c).
 
-    g. Los derechos morales no se verán alterados por esta Licencia en la
-    medida que éstos sean reconocidos, y no considerados renunciables, por el
-    derecho aplicable.
+    g. Los derechos morales no se verán alterados por esta Licencia en
+    la medida que éstos sean reconocidos, y no considerados
+    renunciables, por el derecho aplicable.
 
  5) Garantía
 
-    A MENOS QUE LAS PARTES LO CONVINIERAN DE OTRA FORMA POR ESCRITO, Y HASTA LA
-    MAYOR EXTENSIÓN PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL LICENCIANTE
-    OFRECE LA OBRA "TAL CUAL", SIN BRINDAR GARANTÍAS DE CLASE ALGUNA RESPECTO
-    DE LA OBRA, YA SEA EXPRESA, IMPLÍCITA, LEGAL O CUALQUIERA OTRA, INCLUYENDO,
-    SIN LIMITACIÓN, GARANTÍAS DE TITULARIDAD, COMERCIABILIDAD, ADAPTABILIDAD
-    A PROPÓSITO DETERMINADO, AUSENCIA DE INFRACCIÓN, DE DEFECTOS LATENTES O DE
-    OTRO TIPO, PRECISIÓN O ERRORES, SEAN O NO DESCUBRIBLES. ALGUNOS PAÍSES NO
-    PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, EN CUYO CASO ESTA EXCLUSIÓN
-    PUEDE NO APLICARSE A USTED.
+    A MENOS QUE LAS PARTES LO CONVINIERAN DE OTRA FORMA POR ESCRITO, Y
+    HASTA LA MAYOR EXTENSIÓN PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL
+    LICENCIANTE OFRECE LA OBRA "TAL CUAL", SIN BRINDAR GARANTÍAS DE
+    CLASE ALGUNA RESPECTO DE LA OBRA, YA SEA EXPRESA, IMPLÍCITA, LEGAL O
+    CUALQUIERA OTRA, INCLUYENDO, SIN LIMITACIÓN, GARANTÍAS DE
+    TITULARIDAD, COMERCIABILIDAD, ADAPTABILIDAD A PROPÓSITO DETERMINADO,
+    AUSENCIA DE INFRACCIÓN, DE DEFECTOS LATENTES O DE OTRO TIPO,
+    PRECISIÓN O ERRORES, SEAN O NO DESCUBRIBLES. ALGUNOS PAÍSES NO
+    PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, EN CUYO CASO ESTA
+    EXCLUSIÓN PUEDE NO APLICARSE A USTED.
 
  6) Limitación de Responsabilidad.
 
-    A MENOS QUE LO EXIJA EXPRESAMENTE LA LEY APLICABLE, EL LICENCIANTE NO SERÁ
-    RESPONSABLE ANTE USTED POR DAÑO ALGUNO, SEA POR RESPONSABILIDAD
-    EXTRACONTRACTUAL O CONTRACTUAL, OBJETIVAS O SUBJETIVAS, SE TRATE DE DAÑOS
-    MORALES O PATRIMONIALES, DIRECTOS O INDIRECTOS, PREVISTOS O IMPREVISTOS
-    PRODUCIDOS POR EL USO DE ESTA LICENCIA O DE LA OBRA, AUN CUANDO EL
-    LICENCIANTE HAYA SIDO ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS. ALGUNAS
-    LEYES NO PERMITEN LA EXCLUSIÓN DE CIERTA RESPONSABILIDAD, EN CUYO CASO ESTA
-    EXCLUSIÓN PUEDE NO APLICARSE A USTED.
+    A MENOS QUE LO EXIJA EXPRESAMENTE LA LEY APLICABLE, EL LICENCIANTE
+    NO SERÁ RESPONSABLE ANTE USTED POR DAÑO ALGUNO, SEA POR
+    RESPONSABILIDAD EXTRACONTRACTUAL O CONTRACTUAL, OBJETIVAS O
+    SUBJETIVAS, SE TRATE DE DAÑOS MORALES O PATRIMONIALES, DIRECTOS O
+    INDIRECTOS, PREVISTOS O IMPREVISTOS PRODUCIDOS POR EL USO DE ESTA
+    LICENCIA O DE LA OBRA, AUN CUANDO EL LICENCIANTE HAYA SIDO ADVERTIDO
+    DE LA POSIBILIDAD DE DICHOS DAÑOS. ALGUNAS LEYES NO PERMITEN LA
+    EXCLUSIÓN DE CIERTA RESPONSABILIDAD, EN CUYO CASO ESTA EXCLUSIÓN
+    PUEDE NO APLICARSE A USTED.
 
  7) Término
 
-    a. Esta Licencia y los derechos otorgados en virtud de ella terminarán
-    automáticamente si Usted infringe alguna condición establecida en ella. Sin
-    embargo, los individuos o entidades que han recibido Adaptaciones
-    o Colecciones de Usted de conformidad con esta Licencia, no verán
-    terminadas sus licencias, siempre que estos individuos o entidades sigan
-    cumpliendo íntegramente las condiciones de estas licencias. Las secciones
-    1, 2, 5, 6, 7, y 8 subsistirán a cualquier terminación de esta Licencia.
+    a. Esta Licencia y los derechos otorgados en virtud de ella
+    terminarán automáticamente si Usted infringe alguna condición
+    establecida en ella. Sin embargo, los individuos o entidades que han
+    recibido Adaptaciones o Colecciones de Usted de conformidad con esta
+    Licencia, no verán terminadas sus licencias, siempre que estos
+    individuos o entidades sigan cumpliendo íntegramente las condiciones
+    de estas licencias. Las secciones 1, 2, 5, 6, 7, y 8 subsistirán a
+    cualquier terminación de esta Licencia.
 
-    b. Sujeta a las condiciones y términos anteriores, la licencia otorgada
-    aquí es permanente (durante el período de vigencia de los derechos de autor
-    de la obra). No obstante lo anterior, el Licenciante se reserva el derecho
-    a publicar y/o estrenar la Obra bajo condiciones de licencia diferentes
-    o a dejar de distribuirla en los términos de esta Licencia en cualquier
-    momento; sin embargo, cualquiera sea la elección, ella no surtirá efecto
-    retroactivo respecto de la Licencia de este ejemplar de la obra (o
-    cualquier otra Licencia que haya sido otorgada, o le haya sido exigida,
-    bajo los términos de ésta). La Licencia revocada continuará siendo
-    plenamente vigente y efectiva, en relación con los ejemplares de la obra
-    distribuidos con ella, si no se le da término en las condiciones indicadas
-    anteriormente.
+    b. Sujeta a las condiciones y términos anteriores, la licencia
+    otorgada aquí es permanente (durante el período de vigencia de los
+    derechos de autor de la obra). No obstante lo anterior, el
+    Licenciante se reserva el derecho a publicar y/o estrenar la Obra
+    bajo condiciones de licencia diferentes o a dejar de distribuirla en
+    los términos de esta Licencia en cualquier momento; sin embargo,
+    cualquiera sea la elección, ella no surtirá efecto retroactivo
+    respecto de la Licencia de este ejemplar de la obra (o cualquier
+    otra Licencia que haya sido otorgada, o le haya sido exigida, bajo
+    los términos de ésta). La Licencia revocada continuará siendo
+    plenamente vigente y efectiva, en relación con los ejemplares de la
+    obra distribuidos con ella, si no se le da término en las
+    condiciones indicadas anteriormente.
 
  8) Varios
 
-    a. Cada vez que Usted Distribuya o Ejecute Públicamente la Obra o una
-    Colección, el Licenciante ofrecerá al destinatario una licencia en los
-    mismos términos y condiciones que la licencia otorgada a Usted bajo esta
-    Licencia.
+    a. Cada vez que Usted Distribuya o Ejecute Públicamente la Obra o
+    una Colección, el Licenciante ofrecerá al destinatario una licencia
+    en los mismos términos y condiciones que la licencia otorgada a
+    Usted bajo esta Licencia.
 
-    b. Cada vez que Usted Distribuya o Ejecute Públicamente una Adaptación, el
-    Licenciante ofrecerá al destinatario una licencia para la Obra originaria
-    en los mismos términos y condiciones garantizadas por la licencia que le ha
-    sido otorgada a Usted bajo esta Licencia.
+    b. Cada vez que Usted Distribuya o Ejecute Públicamente una
+    Adaptación, el Licenciante ofrecerá al destinatario una licencia
+    para la Obra originaria en los mismos términos y condiciones
+    garantizadas por la licencia que le ha sido otorgada a Usted bajo
+    esta Licencia.
 
-    c. Si alguna disposición de esta Licencia resulta invalidada o no exigible,
-    según la legislación vigente, esto no afectará ni la validez ni la
-    aplicabilidad del resto de condiciones de esta Licencia y, sin acción
-    adicional por parte de los sujetos de este acuerdo, aquélla se entenderá
-    reformada lo mínimo necesario para hacer que dicha disposición sea válida
-    y exigible.
+    c. Si alguna disposición de esta Licencia resulta invalidada o no
+    exigible, según la legislación vigente, esto no afectará ni la
+    validez ni la aplicabilidad del resto de condiciones de esta
+    Licencia y, sin acción adicional por parte de los sujetos de este
+    acuerdo, aquélla se entenderá reformada lo mínimo necesario para
+    hacer que dicha disposición sea válida y exigible.
 
-    d. Ningún término o disposición de esta Licencia se estimará renunciada
-    y ninguna infracción de ella será consentida, a menos que esa renuncia
-    o consentimiento sea otorgado por escrito y bajo firma de la parte que
-    renuncia o consiente.
+    d. Ningún término o disposición de esta Licencia se estimará
+    renunciada y ninguna infracción de ella será consentida, a menos que
+    esa renuncia o consentimiento sea otorgado por escrito y bajo firma
+    de la parte que renuncia o consiente.
 
-    e. Esta Licencia refleja el acuerdo pleno entre las partes respecto a la
-    Obra aquí licenciada. No hay arreglos, acuerdos o declaraciones respecto
-    a la Obra que no estén especificados en este documento. El Licenciante no
-    se verá limitado por ninguna disposición adicional que pueda surgir en
-    alguna comunicación emanada de Usted. Esta Licencia no puede ser modificada
-    sin el consentimiento mutuo y por escrito entre el Licenciante y Usted.
+    e. Esta Licencia refleja el acuerdo pleno entre las partes respecto
+    a la Obra aquí licenciada. No hay arreglos, acuerdos o declaraciones
+    respecto a la Obra que no estén especificados en este documento. El
+    Licenciante no se verá limitado por ninguna disposición adicional
+    que pueda surgir en alguna comunicación emanada de Usted. Esta
+    Licencia no puede ser modificada sin el consentimiento mutuo y por
+    escrito entre el Licenciante y Usted.
 
 
 ## El Comunismo de Riesgo y el _Copyfarleft_
 
 > "El Estado es una condición, una cierta relación entre seres humanos,
-> un modo de comportamiento humano; lo destruimos cuando contraemos otras
-> relaciones, comportándonos diferente..." [@landauer-2010]
+> un modo de comportamiento humano; lo destruimos cuando contraemos
+> otras relaciones, comportándonos diferente..." [@landauer-2010]
 
-Proponer un abordaje de la lucha de clases basada en el comunismo de riesgo
-y el _copyfarleft_ puede ser chocante para muchos revolucionarios por la
-utilización de corporaciones de stock unido (joint stock corporations), bonos,
-acuerdos de renta, licencias de _copyright_ y el mantenimiento del mercado de
-intercambio del producto del trabajo. Por lo tanto, debe notarse que el
-comunismo de riesgo y el _copyfarleft_ son sólo uno de los medios de la lucha de
-clases, no objetivos ideales por sí mismos. Su intención es ser medios de
-organizar la producción con el objetivo de construir la capacidad económica
-necesaria para entrar en el conflicto de clase y transformar el sistema
-capitalista. En palabras de los Trabajadores Industriales del Mundo "no sólo
-por la lucha diaria contra los capitalistas, sino para sostener la producción
-una vez que el capitalismo haya sido destronado. Al organizarnos
-industrialmente estamos formando la estructura de la nueva sociedad dentro del
-caparazón de la antigua" [@iww-sf].
+Proponer un abordaje de la lucha de clases basada en el comunismo de
+riesgo y el _copyfarleft_ puede ser chocante para muchos revolucionarios
+por la utilización de sociedades anónimas, bonos, acuerdos de renta,
+licencias de _copyright_ y el mantenimiento del mercado de intercambio
+del producto del trabajo.  Por lo tanto, debe notarse que el comunismo
+de riesgo y el _copyfarleft_ son sólo uno de los medios de la lucha de
+clases, no objetivos ideales por sí mismos.  Su intención es ser medios
+de organizar la producción con el objetivo de construir la capacidad
+económica necesaria para entrar en el conflicto de clase y transformar
+el sistema capitalista.  En palabras de los Trabajadores Industriales del
+Mundo "no sólo por la lucha diaria contra los capitalistas, sino para
+sostener la producción una vez que el capitalismo haya sido destronado.
+Al organizarnos industrialmente estamos formando la estructura de la
+nueva sociedad dentro de cáscara de la vieja" [@iww-sf].
 
 El capitalismo, un modo de producción donde el trabajador gana sólo su
-subsistencia mientras que los propietarios retienen el resto del producto, sólo
-puede crear una sociedad donde los intereses del propietario se verán
-reflejados en las instituciones sociales y en los intereses de los productores
-subyugados. Tanto el comunismo de riesgo como el _copyfarleft_ tienen como objetivo
-la creación de un común productivo que los productores puedan utilizar para
-acumular riqueza mutual, y por lo tanto trabajo hacia la realización de su rol
-histórico en la creación de una sociedad libre de clases económicas.
+subsistencia mientras que los propietarios retienen el resto del
+producto, sólo puede crear una sociedad donde los intereses del
+propietario se verán reflejados en las instituciones sociales y en los
+intereses de los productores subyugados.  Tanto el comunismo de riesgo
+como el _copyfarleft_ tienen como objetivo la creación de un común
+productivo que los productores puedan utilizar para acumular riqueza
+mutua y por lo tanto trabajan hacia la realización de su rol histórico
+en la creación de una sociedad libre de clases económicas.
 
-Mientras los productores operen dentro del modo de producción capitalista, no
-podrán cambiar políticamente a la sociedad. Cualquier riqueza que los
-productores puedan aplicar sobre las instituciones sociales para influenciarlas
-debe provenir de la parte de la producción que retengan, y esta será siempre
-menor a la que retengan los propietarios, que la usan para impedir el cambio.
-Cuando empleamos un común de activos productivos, sin propietarios individuales
-sino colectivos, retenemos la riqueza que creamos y por lo tanto la posibilidad
-de una sociedad nueva se pone a nuestro alcance.
+Mientras los productores operen dentro del modo de producción
+capitalista, no podrán cambiar políticamente a la sociedad.  Cualquier
+riqueza que los productores puedan aplicar sobre las instituciones
+sociales para influenciarlas debe provenir de la parte de la producción
+que retengan y esta será siempre menor a la que retengan los
+propietarios, que la usan para impedir el cambio.  Cuando empleamos un
+común de activos productivos, sin propietarios individuales sino
+colectivos, retenemos la riqueza que creamos y por lo tanto la
+posibilidad de una sociedad nueva se pone a nuestro alcance.
 
 
 [^100]: Manifiesto del Partido Comunista (1848).
-http://www.marxists.org/espanol/m-e/1840s/48-manif.htm
+<http://www.marxists.org/espanol/m-e/1840s/48-manif.htm>
 
-[^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado
-por Viviane Reding al Parlamento Europeo en Estrasburgo el
-13 de noviembre de 2007. Apunta a cambiar las Reglas de las
-Telecomunicadoras europeas de 2002. Su objetivo es unificar el
-mercado de telecomunicaciones europeo para los 27 miembros.
-http://europa.eu/rapid/press-release_IP-07-1677_es.htm
+[^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado por
+Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre
+de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras europeas
+de 2002. Su objetivo es unificar el mercado de telecomunicaciones
+europeo para los 27 miembros.
+<http://europa.eu/rapid/press-release_IP-07-1677_es.htm>
 
 [^26]: Información sobre la historia del _copyright_ ha sido recopilada
 mediante una extensa y diversa investigación. Muchos recursos primarias
-pueden encontrarse en el archivo digital _Primary Sources on _Copyright_
-(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
-Humanidades del Reino Unido. http://www.copyrighthistory.com/
+pueden encontrarse en el archivo digital _Primary Sources on_ Copyright
+_(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
+Humanidades del Reino Unido. <http://www.copyrighthistory.com/>
 
 [^34]: El archivo de la Internacional Situacionista y el periódico
-_Internationale Situationniste_ pueden leerse en el sitio Situationist
-International Online: http://www.cddc.vt.edu/sionline/index.html
+_Internationale Situationniste_ pueden leerse en el sitio <Situationist
+International Online_: <http://www.cddc.vt.edu/sionline/index.html>
 
-[^36]: [Free Software Foundation](http://fsf.org). http://fsf.org
+[^36]: [Free Software Foundation](http://fsf.org). <http://fsf.org>
 
-[^NdT2]: NdT: Un hoax, noticia falsa o bulo, es un intento de hacer
-creer a un grupo de personas que algo falso es real. En el idioma
-castellano el término se popularizó principalmente al referirse a
-engaños masivos por medios electrónicos (especialmente Internet).
-https://es.wikipedia.org/wiki/Bulo
+[^NdT2]: Un hoax, noticia falsa o bulo, es un intento de hacer
+creer a un grupo de personas que algo falso es real.  En castellano el
+término se popularizó principalmente al referirse a engaños masivos por
+medios electrónicos (especialmente Internet).
+<https://es.wikipedia.org/wiki/Bulo> (Nota de la traducción.)
 
-[^NdT3]: NdT: Détournement es un concepto surgido dentro del movimiento
+[^NdT3]: _Détournement_ es un concepto surgido dentro del movimiento
 situacionista que habla sobre la posibilidad artística y política de
 tomar algún objeto creado por el capitalismo o el sistema político
-hegemónico y distorsionar su significado y uso original para producir
-un efecto crítico.  Una palabra parecida en español es tergiversación.
-https://es.wikipedia.org/wiki/Detournement
+hegemónico y distorsionar su significado y uso original para producir un
+efecto crítico.  Una palabra parecida en español es tergiversación.
+<https://es.wikipedia.org/wiki/Detournement> (Nota de la traducción.)
 
 
 ## Bibliografía
