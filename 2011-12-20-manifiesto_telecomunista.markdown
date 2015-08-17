@@ -2871,12 +2871,12 @@ TÉRMINOS Y CONDICIONES.
     obras protegidas por derechos de autor.
 
     c. **Usted puede ejercer los derechos concedidos en la Sección 3
-    precedente con fines comerciales sólo si:
+    precedente con fines comerciales sólo si**:
 
-        i. Usted es o pertenece a un colectivo o empresa bajo posesión
-        y control obrero;
+        i. **Usted es o pertenece a un colectivo o empresa bajo posesión
+        y control obrero;**
 
-        ii. Toda ganancia, valor añadido, rédito o beneficio producido
+        ii. **Toda ganancia, valor añadido, rédito o beneficio producido
         por el ejercicio de los derechos concedidos en esta Obra se
         distribuyen entre los trabajadores pertenecientes al colectivo o
         empresa.**
