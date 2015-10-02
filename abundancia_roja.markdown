@@ -40,29 +40,29 @@ not just the quaint altermondialiste slogan, ‘another world is
 possible’, but what David Harvey (2010: np) identifies as the more
 cogent and subversive possibility, that of ‘another communism’.
 
-Poco despues de la gran caida de Wall Street del 2008, una novela acerca
-de eventos historicos oscuros y remotos proveia un inesperado punto de
-discusion sobre la crisis en marcha.  Abundancia roja, de Francis
-Spufford (2010), ofrecia un recuento ficcionalizado del intento fallido
-de los ciberneticos sovieticos de los '60 por establecer un sistema
-completamente computarizado de planificacion economica.  Mezclando
-figuras historicas --Leonid Kantorovich, inventor de las ecuaciones de
-programacion lineal, Sergei Alexeievich Lebedev, pionero del diseño de
-computadoras sovieticas, Nikita Khrushchev, Secretario General del
-Partido Comunista-- con imaginarias y poniendolas en accion en pasillos
-del Kremlin, colectivos rurales, fabricas industriales y la ciudad
-cientifica siberiana de Akademgorodok, Abundancia roja tuvo exito en la
-improbable mision de convertir la planificacion cibernetica en un libro
-atrapante.  Pero el interes que atrajo por parte de economistas,
-informaticas y activistas politicas no fue solo por la narrativa
-cientifica y la intriga politica.  Tambien le debio mucho al momento en
+Poco después de la gran caída de Wall Street del 2008, una novela acerca
+de eventos históricos oscuros y remotos proveía un inesperado punto de
+discusión sobre la crisis en marcha.  Abundancia roja, de Francis
+Spufford (2010), ofrecía un recuento ficcionalizado del intento fallido
+de los cibernéticos soviéticos de los '60 por establecer un sistema
+completamente computarizado de planificación económica.  Mezclando
+figuras históricas --Leonid Kantorovich, inventor de las ecuaciones de
+programación lineal, Sergei Alexeievich Lebedev, pionero del diseño de
+computadoras soviéticas, Nikita Khrushchev, Secretario General del
+Partido Comunista-- con imaginarias y poniéndolas en acción en los
+pasillos del Kremlin, colectivos rurales, fabricas industriales y la
+ciudad científica siberiana de Akademgorodok, Abundancia roja tuvo éxito
+en la improbable misión de convertir la planificación cibernética en un
+libro atrapante.  Pero el interés que atrajo por parte de economistas,
+informáticas y activistas políticas no fue solo por la narrativa
+científica y la intriga política.  También le debió mucho al momento en
 que se publico.  Al aparecer en el medio de la austeridad y el
-desempleo, con el mercado global todavia al borde del colapso,
+desempleo, con el mercado global todavía al borde del colapso,
 Abundancia roja puede interpretarse de distintas formas: a) como un
-cuento con moraleja que al retrotraernos a las debacles sovieticas nos
+cuento con moraleja que al retrotraernos a las debacles soviéticas nos
 recuerda que el capitalismo sigue existiendo, aun cuando no funcione del
 todo bien ('no hay otra alternativa'); o b) contraintuitivamente, como
-una recoleccion de potencialidades no realizadas, no solo susurrando el
+una recolección de potencialidades no realizadas, no solo susurrando el
 pintoresco eslogan altermundialista 'otro mundo es posible', sino lo que
 David Harvey [-@harvey-2010] identifica como la otra posibilidad, mas
 fuerte y subversiva, la del 'otro comunismo'.
@@ -496,7 +496,7 @@ seria determinada por la cantidad de horas socialmente necesarias
 requeridas para la produccion de bienes y servicios.  En el espacio de
 trabajo capitalista, los trabajadores son pagados por la reproduccion de
 su capacidad de trabajo y no por el trabajo realmente extraido de ellos.
-Esto es lo que permite al capitalismo asegurarse la plusvalia.  
+Esto es lo que permite al capitalismo asegurarse la plusvalia.
 
 
 The elimination of this state of affairs, Cockshott and Cottrell
