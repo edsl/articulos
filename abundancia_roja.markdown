@@ -84,13 +84,13 @@ personal conversation, once called ‘red-prints’- approximating
 orientations to revolutionary possibilities.
 
 Este articulo toma la novela de Spufford como el punto de partida desde
-el que examinar las plataformas informaticas que serian necesarias para
-una "abundancia roja" contemporanea.  No es una discusion sobre los
-meritos o no del hacktivismo, la desobediencia digital, los entramados
-electronicos de las luchas, twits en las calles o las revoluciones por
-Facebook, sino del comunismo digital.  Este tema ya ha sido tocado por
-la ola de repensadores de la vida luego del capitalismo iniciada por la
-implosion de la URSS en 1989, en propuestas como "economia
+el que examinar las plataformas informáticas que serian necesarias para
+una "abundancia roja" contemporánea.  No es una discusión sobre los
+méritos o deméritos del hacktivismo, la desobediencia digital, los entramados
+electrónicos de las luchas, twits en las calles o las revoluciones por
+Facebook, sino del comunismo digital.  Este tema ya ha sido tratado por
+una ola de repensadores de la vida luego del capitalismo iniciada por la
+implosión de la URSS en 1989, en propuestas como "economía
 participativa" [@albert-hahnel-1991], un "nuevo socialismo"
 [@cockshott-cottrell-1993], "socialismo del siglo XXI" [@dieterich-2006]
 o forma de "_commonwealth_" [@hardt-negri-2009].  Al contrario de estas
