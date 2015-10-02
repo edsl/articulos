@@ -86,18 +86,18 @@ orientations to revolutionary possibilities.
 Este articulo toma la novela de Spufford como el punto de partida desde
 el que examinar las plataformas informáticas que serian necesarias para
 una "abundancia roja" contemporánea.  No es una discusión sobre los
-méritos o deméritos del hacktivismo, la desobediencia digital, los entramados
-electrónicos de las luchas, twits en las calles o las revoluciones por
-Facebook, sino del comunismo digital.  Este tema ya ha sido tratado por
-una ola de repensadores de la vida luego del capitalismo iniciada por la
-implosión de la URSS en 1989, en propuestas como "economía
-participativa" [@albert-hahnel-1991], un "nuevo socialismo"
-[@cockshott-cottrell-1993], "socialismo del siglo XXI" [@dieterich-2006]
-o forma de "_commonwealth_" [@hardt-negri-2009].  Al contrario de estas
-fuentes, este ensayo no intenta proveer cianotipos detallados, a menudo
-competitivos, para una sociedad nueva, sino lo que Greg de Peuter
-llamaba (en una conversación privada), "rojotipos", es decir
-orientaciones aproximativas a posibilidades revolucionarias.
+méritos o deméritos del hacktivismo, la desobediencia digital, los
+entramados electrónicos de las luchas, twits en las calles o las
+revoluciones por Facebook, sino del comunismo digital.  Este tema ya ha
+sido tratado por una ola de repensadores de la vida luego del
+capitalismo iniciada por la implosión de la URSS en 1989, en propuestas
+como "economía participativa" [@albert-hahnel-1991], un "nuevo
+socialismo" [@cockshott-cottrell-1993], "socialismo del siglo XXI"
+[@dieterich-2006] o forma de "_commonwealth_" [@hardt-negri-2009].  Al
+contrario de estas fuentes, este ensayo no intenta proveer cianotipos
+detallados, a menudo competitivos, para una sociedad nueva, sino lo que
+Greg de Peuter llamaba (en una conversación privada), "rojotipos", es
+decir orientaciones aproximativas a posibilidades revolucionarias.
 
 
 In discussing computing and communism it is almost impossible to escape
@@ -130,37 +130,37 @@ it reviews some of the problems, both practical and theoretical, that
 were grappled with by the Soviet planners depicted in Red Plenty.
 
 Al discutir informática y comunismo resulta casi imposible escapar a las
-acusaciones abandono de las luchas por un determinismo mecanicista.
-Ciertamente todos los modelos automaticos, teleologicos y
-evolucionistas, incluyendo las coreografias esquematicas de fuerzas y
-relaciones de produccion, deben ser rechazados.  Resulta tan importante,
+acusaciones de abandono de las luchas por un determinismo mecanicista.
+Ciertamente todos los modelos automáticos, teleologicos y
+evolucionistas, incluyendo las coreografías esquemáticas de fuerzas y
+relaciones de producción, deben ser rechazados.  Resulta tan importante,
 sin embargo, como evitar por el contrario un determinismo humanista, que
-exagera la autonomia y el privilegio ontológico del "hombre contra la
-maquina".  Aqui, los modos de producción y las luchas que los
+exagera la autonomía y el privilegio ontológico del "hombre contra la
+maquina".  Aquí, los modos de producción y las luchas que los
 convulsionan, son entendidos como combinaciones de agentes humanos y
-mecanicos, enredados, hibridizados y co-determinados "ensamblajes
-deleuzo-delandianos" [@thorburn-2013].  Es por esto que la estimacion
-que me enviara Benjamin Peters, historiador de la cibernetica sovietica,
-comparando las maquinas que los planificadores de Abundancia roja tenian
-a disposición en, digamos 1969, con la computadora mas rapida de 2019 y
-que arroja que el poder de procesamiento de esta ultima representara
+mecánicos, enredados, híbridos y co-determinados "ensamblajes
+deleuzo-delandianos" [@thorburn-2013].  Es por esto que la estimación
+que me enviara Benjamin Peters, historiador de la cibernética soviética,
+comparando las maquinas que los planificadores de Abundancia roja tenían
+a disposición en, digamos 1969, con la computadora mas rápida de 2019
+arroja que el poder de procesamiento de esta ultima representara
 "aproximadamente un aumento de 100 mil millones de veces en operaciones
-por segundo" resulta excitante, un factoide que es, como remarca Peters,
+por segundo" resulta excitante, un hecho que es, como remarca Peters,
 "no significativo en si mismo pero aun sugestivo".  El argumento que
 sigue explora esta sugestividad.  Este articulo trata sobre la linea mas
-directa en la continuidad de la cibernetica sovietica en cuanto a
-teorizacion de formas de planificacion economica basada en algoritmos de
-tiempo de trabajo y supercomputacion.  Ademas discute las preocupaciones
-sobre el autoritarismo en la planificacion centralizada y como es
+directa en la continuidad de la cibernética soviética en cuanto a
+teorización de formas de planificación económica basada en algoritmos de
+tiempo de trabajo y supercomputación.  Ademas discute las preocupaciones
+sobre el autoritarismo en la planificación centralizada y como es
 afectado por los medios sociales y los agentes de software, antes de
-pasar a considerar si la planificacion se vuelve redundante en un mundo
-de automatas, junto con la copia y la replicacion.  Como respuesta
+pasar a considerar si la planificación se vuelve redundante en un mundo
+de autómatas, junto con la copia y la replicación.  Como respuesta
 parcial a la ultima pregunta, este articulo recorre el rol de la
-cibernetica dentro de la biocrisis planetaria, concluyendo con algunas
-observaciones generales sobre la cibernetica en el "horizonte comunista"
+cibernética dentro de la bio-crisis planetaria, concluyendo con algunas
+observaciones generales sobre la cibernética en el "horizonte comunista"
 actual [@dean-2012].  Primero, no obstante, revisa algunos de los
-problemas, tanto practicos como teoreticos, con los que los
-planificadores sovieticos de Abundancia roja se encontraron.
+problemas, tanto prácticos como teóricos, con los que los planificadores
+soviéticos de Abundancia roja se encontraron.
 
 
 Is Capitalism a Computer?
