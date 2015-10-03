@@ -236,11 +236,11 @@ invoked the giant mainframe computers of the Manhattan Project, for what
 he proposed was that the market acted as an automatic calculating
 engine: a computer.
 
-Aunque se referia a las telecomunicaciones y la ingenieria durante el
+Aunque se refería a las telecomunicaciones y la ingeniería durante el
 ultimo año de la Segunda Guerra Mundial, Hayek bien podría haberse
 referido a las gigantes _mainframes_ del Proyecto Manhattan, porque lo
-que estaba proponiendo es que el mercado actua como un motor de calculo
-automatico: una computadora.
+que estaba proponiendo que el mercado actúa como un motor de calculo
+automático: una computadora.
 
 This was, however, a two-sided argument deployed polemically against
 socialism. For if the market acts as a computer, why not replace it with
@@ -375,7 +375,7 @@ socialista a recolectar información económica y presentarla a los
 decisores politicos, aun cuando incluia en su tecnologia salvaguardas
 contra la microgestión estatal y estimulos para discusiones
 multilaterales sobre la planificación.  Este fue un intento de
-ingenieria sociotecnica para el socialismo democrático que hoy en dia
+ingeniería sociotecnica para el socialismo democrático que hoy en dia
 parece mas atractivo que las maniobras post-estalinistas de los
 planificadores sovieticos.  Pero se encontró con un destino mas brutal:
 el Proyecto Cybersyn fue exterminado por el golpe pinochetista de 1973.
@@ -408,7 +408,7 @@ empresas colectivamente apropiadas, coordinadas por señales de precios.
 Las muchas variantes de tal "socialismo de mercado" han provocado el
 rechazo de los marxistas que se resisten al intercambio de mercancias.
 Tal vez porque le otorgan al mercado las mismas funciones de
-procesamiento automatico de información que los economistas austriacos y
+procesamiento automático de información que los economistas austriacos y
 los socialistas de mercado, pueden tocar temas como la innovación
 tecnológica o la disponibilidad de datos publicos, pero no parecen
 involucrarse profundamente con las potencialidades de la computación
