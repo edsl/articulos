@@ -197,19 +197,18 @@ intelectuales al pensamiento comunista, "el problema del calculo
 socialista", formulado por economistas de la escuela de Austria como
 Ludwig von Mises [-@mises-1935] y Frederick Hayes [-@hayes-1945].
 Escribiendo en el periodo definido por el éxito de la revolución rusa,
-estos economistas atacaron las premisas y la factibilidad de la
-economía centralmente planificada.  Todos los sistemas sociales,
-reconocían, necesitan una forma de planificación de recursos.  El
-mercado, sin embargo, funciona como un plan distribuido, espontaneo,
-emergente y no-coercitivo --lo que Hayek llamo la "catalaxia"
-[-@hayek-1976].  Los precios proveen una señal sinóptica y abstracta
-sobre condiciones y necesidades cambiantes y heterogéneas a los que la
-inversión empresarial responde.  Una economía comandada, en contraste,
-debe ser a la vez despótica e impractica, porque el calculo de una
-distribución optima de recursos escasos depende de innumerables
-conocimientos locales sobre las necesidades de consumo y las condiciones
-de producción que ningún método central de reporte podría compilar y
-evaluar.
+estos economistas atacaron las premisas y la factibilidad de la economía
+centralmente planificada.  Todos los sistemas sociales, reconocían,
+necesitan una forma de planificación de recursos.  El mercado, sin
+embargo, funciona como un plan distribuido, espontaneo, emergente y
+no-coercitivo --lo que Hayek llamo la "catalaxia" [-@hayek-1976].  Los
+precios proveen una señal sinóptica y abstracta sobre condiciones y
+necesidades cambiantes y heterogéneas a los que la inversión empresarial
+responde.  Una economía comandada, en contraste, debe ser a la vez
+despótica e impractica, porque el calculo de una distribución optima de
+recursos escasos depende de innumerables conocimientos locales sobre las
+necesidades de consumo y las condiciones de producción que ningún método
+central de reporte podría compilar y evaluar.
 
 The Austrian economists thus offered an update of Adam Smith’s
 celebration of capital’s ‘invisible hand’, now re-envisioned as a
@@ -221,14 +220,14 @@ the hands of a few dials, in order to adjust their activities to changes
 of which they may never know more than is reflected in the price
 movement. (Hayek, 1945: 527)
 
-Por lo tanto los economistas austriacos ofrecian una version actualizada
+Por lo tanto los economistas austriacos ofrecían una versión actualizada
 de la "mano invisible" del capital de Adam Smith, ahora reconvertida en
-un sistema de informacion cuasi cibernetico:  es mas que metaforico
+un sistema de información cuasi cibernético:  es mas que metafórico
 describir el sistema de precios como una especie de maquinaria para
 registrar el cambio, o como un sistema de telecomunicaciones que permite
 a los productores individuales observar algunos puntos como una
-ingeniera observa las indicaciones de un medidor, para ajustar sus
-actividades a cambios de los que no podrian saber mas que lo que se
+ingeniera observa las indicaciones de un medidor, para poder ajustar sus
+actividades a cambios de los que no podrían saber mas que lo que se
 refleja en el movimiento de precios [@hayek-1945].
 
 Although he referred to telecommunications and engineering, Hayek,
@@ -346,7 +345,7 @@ planning method a threat to its bureaucratic power, compelled
 abandonment of the project (Castells, 2000; Gerovitch, 2008; Peters,
 2012).  This was not the only twentieth century project of ‘cybernetic
 revolutionaries’; as remarkable was the attempt by Salvador Allende’s
-Chilean regime to introduce a more decentralized version of electronic
+Chilean regime to introduce a more decentralized versión of electronic
 planning, ‘Project Cybersyn’ (Medina, 2005). Led by the Canadian
 cybernetician Stafford Beer, this was conceived as a system of
 communication and control that would enable the socialist regime to
@@ -370,7 +369,7 @@ Este no fue el unico proyecto de "cibernetica revolucionaria" del siglo
 XXI.  Igual de remarcable fue el intento del gobierno de Salvador
 Allende en Chile por introducir una versión decentralizada de
 planificación electrónica, el "Proyecto Cybersyn" [@medina-2005].
-Liderado por el cibernetico canadiense Stafford Beer, fue concebido como
+Liderado por el cibernético canadiense Stafford Beer, fue concebido como
 un sistema de comunicación y control que habilitaria al gobierno
 socialista a recolectar información económica y presentarla a los
 decisores politicos, aun cuando incluia en su tecnologia salvaguardas
@@ -429,7 +428,7 @@ one avoiding the ‘serfdom’ of the statist subjugation Hayek (1944)
 predicted – might work.
 
 En la actualidad y despues de la crisis, decir que los mercados son
-maquinas infalibles de informacion puede sonar menos creible que un
+maquinas infalibles de información puede sonar menos creible que un
 cuarto de siglo atras.  El parasitario robo energetico que subyace a las
 transmisiones de señales de precios (es decir la explotacion en el
 momento de la producción), la incapacidad de los intercambios
