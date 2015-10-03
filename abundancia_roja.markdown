@@ -257,21 +257,20 @@ successful Soviet industrial economy, despite its triumphs in the 1940s
 and ‘50s, was slowly stagnating amidst organizational incoherence and
 informational bottlenecks.
 
-Este es sin embargo un argumento contra el socialismo que tiene dos
-filos.  Si el mercado actua como una computadora, ¿por qué no
-reemplazarlo por una?  Si la planificación centralizada sufria de un
-problema de calculo, ¿por que no resolverla con maquinas de calculo
-reales?  Este fue precisamente el argumento del oponente de Hayek, el
-economista Oskar Lange, que refiriendose en retrospectiva al debate
-sobre el "calculo socialista", remarcaba: "hoy mi tarea hubiera sido
-mucho mas simple.  Mi respuesta a Hayek hubiera sido: ¿cual es el
-problema?  Pongamos las ecuaciones simultaneas en una computadora
-electronica y obtendremos la solucion en menos de un segundo"
-[@lange-1967].  Este era el proyecto de las ciberneticas de Abundancia
-roja, un proyecto motivado por la realización de que la aparentemente
-exitosa economía industrial sovietica, pese a sus triunfos en los '40 y
-'50, se estaba estancando en medio de la incoherencia organizativa y los
-cuellos de botella informacionales.
+Este es, sin embargo, un argumento de doble contra el socialismo.  Si el
+mercado actúa como una computadora, ¿por qué no reemplazarlo por una?
+Si la planificación centralizada sufría de un problema de calculo, ¿por
+que no resolverla con maquinas de calculo reales?  Este fue precisamente
+el argumento del oponente de Hayek, el economista Oskar Lange, que
+refiriéndose en retrospectiva al debate sobre el "calculo socialista",
+remarcaba: "hoy mi tarea hubiera sido mucho mas simple.  Mi respuesta a
+Hayek hubiera sido: ¿cual es el problema?  Pongamos las ecuaciones
+simultaneas en una computadora electrónica y obtendremos la solución en
+menos de un segundo" [@lange-1967].  Este era el proyecto de las
+cibernéticas de Abundancia roja, un proyecto motivado por la realización
+de que la aparentemente exitosa economía industrial soviética, pese a
+sus triunfos en los '40 y '50, se estaba estancando en medio de la
+incoherencia organizativa y los cuellos de botella informaciones.
 
 Their effort depended on a conceptual tool, the input-output table,
 whose development is associated with two Russian mathematicians: the
@@ -329,7 +328,7 @@ infraestructura informatica moderna capaz de procesar los millones de
 calculos requeridos por Gosplan, la Mesa Estatal de Planificación que
 supervisaba los planes quinquenales económicos.  Luego de una decada de
 experimentación, su intento colapsó, frustrado por el lamentable estado
-de la industria informática sovietica --que al estar dos decadas
+de la industria informática soviética --que al estar dos decadas
 atrasada con respecto a los EEUU, se perdió la revolución de la
 computadora personal y no desarrollo un equivalente a Internet.  Por lo
 tanto era totalmente inadecuado para lo que se proponia lograr.  Ademas
@@ -382,7 +381,7 @@ el Proyecto Cybersyn fue exterminado por el golpe pinochetista de 1973.
 La falla de la URSS por adaptarse al mundo del software y las redes
 contribuyó a su derrota economica y militar ante EEUU.  Su
 desintegracion, en los que, como demostraba Alec Nove [-@nove-1983], los
-cuellos de botella informacionales y la falsicación de reportes jugaron
+cuellos de botella informaciones y la falsicación de reportes jugaron
 un rol preponderante, pareció reinvindicar a los economistas austriacos.
 Las alabanzas de Hayek a la catalaxia del mercado se volvieron centrales
 al "pensamiento colectivo neoliberal" [@mirowski-2009] que lidero la
@@ -635,9 +634,9 @@ computacional predicha por la Ley de Moore.  Sugerir que la
 planificación economica de alto nivel se realice en una "maquina de
 escritorio" resulta poco sincero.  De acuerdo con una comunicación
 electrónica de Benjamin Peters, en 1969 (la epoca de _Abundancia Roja_)
-el "caballo de tiro indisputable" de la economía informatica sovietica
+el "caballo de tiro indisputable" de la economía informatica soviética
 era la BESM-6 ("_bolshaya electronicheskaya schetnaya mashina_",
-literalmente "gran maquina calculadora electronica"), que podría operar
+literalmente "gran maquina calculadora electrónica"), que podría operar
 a una velocidad de 800.000 flops u "operaciones flotantes por segundo",
 es decir, a 8 megaflops, o 10^6^ flops.  En 2013, no obstante, las
 supercomputadoras utilizadas en el modelado climatico, testeo de
