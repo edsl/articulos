@@ -188,27 +188,27 @@ for considering a more mid-range proposition, namely that capitalism is
   knowledges about consumption needs and production conditions that no
   central reporting method could compile and evaluate.
 
-Las filosofas digitales sugieren que el universo podria ser una
-simulacion por computadoras programada por extraterrestres.  Sin
-involucrarse en esta posicion, hay motivos para considerar una
-proposicion intermedia, es decir que el capitalismo es una computadora.
-Esta es la contienda implicita en una de las mas serias respuestas
+Las filosofas digitales sugieren que el universo podría ser una
+simulación por computadoras programada por extraterrestres.  Sin
+involucrarse en esta posición, hay motivos para considerar una
+proposición intermedia, es decir que el capitalismo es una computadora.
+Esta es la contienda implícita en una de las mas serias respuestas
 intelectuales al pensamiento comunista, "el problema del calculo
 socialista", formulado por economistas de la escuela de Austria como
 Ludwig von Mises [-@mises-1935] y Frederick Hayes [-@hayes-1945].
-Escribiendo en el periodo definido por el exito de la revolucion rusa,
+Escribiendo en el periodo definido por el éxito de la revolución rusa,
 estos economistas atacaron las premisas y la factibilidad de la
-economica centralmente planificada.  Todos los sistemas sociales,
-reconocian, necesitan una forma de planificacion de recursos.  El
+economía centralmente planificada.  Todos los sistemas sociales,
+reconocían, necesitan una forma de planificación de recursos.  El
 mercado, sin embargo, funciona como un plan distribuido, espontaneo,
 emergente y no-coercitivo --lo que Hayek llamo la "catalaxia"
-[-@hayek-1976].  Los precios proveen una señal sinoptica y abstracta
-sobre condiciones y necesidades cambiantes y heterogeneas a los que la
-inversion empresarial responde.  Una economia comandada, en contraste,
-debe ser a la vez despotica e impractica, porque el calculo de una
-distribucion optima de recursos escasos depende de innumerables
+[-@hayek-1976].  Los precios proveen una señal sinóptica y abstracta
+sobre condiciones y necesidades cambiantes y heterogéneas a los que la
+inversión empresarial responde.  Una economía comandada, en contraste,
+debe ser a la vez despótica e impractica, porque el calculo de una
+distribución optima de recursos escasos depende de innumerables
 conocimientos locales sobre las necesidades de consumo y las condiciones
-de produccion que ningun metodo central de reporte podria compilar y
+de producción que ningún método central de reporte podría compilar y
 evaluar.
 
 The Austrian economists thus offered an update of Adam Smith’s
@@ -238,7 +238,7 @@ he proposed was that the market acted as an automatic calculating
 engine: a computer.
 
 Aunque se referia a las telecomunicaciones y la ingenieria durante el
-ultimo año de la Segunda Guerra Mundial, Hayek bien podria haberse
+ultimo año de la Segunda Guerra Mundial, Hayek bien podría haberse
 referido a las gigantes _mainframes_ del Proyecto Manhattan, porque lo
 que estaba proponiendo es que el mercado actua como un motor de calculo
 automatico: una computadora.
@@ -260,7 +260,7 @@ informational bottlenecks.
 
 Este es sin embargo un argumento contra el socialismo que tiene dos
 filos.  Si el mercado actua como una computadora, ¿por qué no
-reemplazarlo por una?  Si la planificacion centralizada sufria de un
+reemplazarlo por una?  Si la planificación centralizada sufria de un
 problema de calculo, ¿por que no resolverla con maquinas de calculo
 reales?  Este fue precisamente el argumento del oponente de Hayek, el
 economista Oskar Lange, que refiriendose en retrospectiva al debate
@@ -270,7 +270,7 @@ problema?  Pongamos las ecuaciones simultaneas en una computadora
 electronica y obtendremos la solucion en menos de un segundo"
 [@lange-1967].  Este era el proyecto de las ciberneticas de Abundancia
 roja, un proyecto motivado por la realización de que la aparentemente
-exitosa economia industrial sovietica, pese a sus triunfos en los '40 y
+exitosa economía industrial sovietica, pese a sus triunfos en los '40 y
 '50, se estaba estancando en medio de la incoherencia organizativa y los
 cuellos de botella informacionales.
 
@@ -297,7 +297,7 @@ Kantorovich, protagonista de _Abundancia roja_.  Las tablas de
 entrada-salida --que recientemente se han descubierto parte del
 fundamento intelectual del algoritmo PageRank de Google
 [@franceschet-2010]-- trazan la compleja interdependencia de una
-economia moderna al mostrar como las salidas de una industria (por
+economía moderna al mostrar como las salidas de una industria (por
 ejemplo el acero o el algodón) proveen las entradas para otras
 (automoviles o ropa), de forma que puede estimarse el cambio en la
 demanda resultante de un cambio en la producción de bienes.  En los '60
@@ -305,7 +305,7 @@ estas tablas eran un instrumento aceptado por las organizaciones
 industriales de gran escala: el trabajo de Leontief tuvo un rol en la
 logistica del masivo bombardeo a Alemania por parte de las fuerzas
 aereas estadounidenses.  No obstante, se creia que la complejidad de una
-economia nacional completa impedia su aplicacion a tal nivel.
+economía nacional completa impedia su aplicacion a tal nivel.
 
 
 Soviet computer scientists set out to surmount this problem. As early as
@@ -322,7 +322,7 @@ industry – which, being some two
 
 Los cientificos informaticos sovieticos se propusieron resolver este
 problema.  Ya en los '30, Kantorovich habia mejorada las tablas de
-entrada-salida con el metodo matematica de programación lineal, que
+entrada-salida con el método matematica de programación lineal, que
 estimaba la mejor, u "optimizaba", combinación de técnicas de producción
 necesarias para un objetivo.  Los ciberneticos de los '60 intentaron
 implementar ese descubrimiento a escala masiva, estableciendo una
@@ -334,7 +334,7 @@ de la industria informática sovietica --que al estar dos decadas
 atrasada con respecto a los EEUU, se perdió la revolución de la
 computadora personal y no desarrollo un equivalente a Internet.  Por lo
 tanto era totalmente inadecuado para lo que se proponia lograr.  Ademas
-tenia la oposición de la _nomenklatura_, que veia en la planificacion
+tenia la oposición de la _nomenklatura_, que veia en la planificación
 informatica una amenaza a su poder burocratico y ayudo en el abandono
 del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
 
@@ -404,7 +404,7 @@ engage deeply with the potentialities of contemporary computing.
 La presion combinada del desastre practico de la URSS y el argumento
 teorico de la escuela de Austria ejerció una fuerza enorme dentro de lo
 que quedaba de la izquierda, presionándola para reducir y redefinir el
-limite de sus aspiraciones radicales a, como mucho, una economia de
+limite de sus aspiraciones radicales a, como mucho, una economía de
 empresas colectivamente apropiadas, coordinadas por señales de precios.
 Las muchas variantes de tal "socialismo de mercado" han provocado el
 rechazo de los marxistas que se resisten al intercambio de mercancias.
@@ -432,14 +432,14 @@ En la actualidad y despues de la crisis, decir que los mercados son
 maquinas infalibles de informacion puede sonar menos creible que un
 cuarto de siglo atras.  El parasitario robo energetico que subyace a las
 transmisiones de señales de precios (es decir la explotacion en el
-momento de la produccion), la incapacidad de los intercambios
+momento de la producción), la incapacidad de los intercambios
 individuales de mercancias para registrar las consecuencias colectivas
 (las llamadas "externalidades") y la recursividad de un sistema
 crematistico que se vuelve sobre si mismo en la especulacion financiera
 destacan cada vez mas en el medio de la implosion economica y ecologica
 del capital global.  Pero la identificacion de estas fallas no excusa a
 los comunistas de especificar como otro sistema de distribución de
-recursos podria funcionar, sin caer en la "servidumbre" de la
+recursos podría funcionar, sin caer en la "servidumbre" de la
 subyugacion estatista que predijo Hayek [-@hayek-1994].
 
 Labour Algorithms
@@ -459,7 +459,7 @@ Cottrell & Dieterich, 2010). However, because little of the Bremen
 group’s work is translated, the focus here will be on the New Socialism
 of Cockshott and Cottrell.
 
-A pesar de la caida del socialismo real, la idea de la planificacion
+A pesar de la caida del socialismo real, la idea de la planificación
 central computarizada continuo siendo desarrollada por pequeños grupos
 de teoricos, que han avanzado su alcance conceptual mas alla de lo que
 habian intentando los ciberneticos sovieticos.  Dos escuelas han sido de
@@ -487,13 +487,13 @@ secure surplus value.
 
 
 La marca distintiva del proyecto del Nuevo Socialismo es el rigor
-marxista clasico.  De esta forma, la planificacion por supercomputadoras
+marxista clasico.  De esta forma, la planificación por supercomputadoras
 del siglo XXI sigue al pie de la letra la logica de la Critica al
 Programa de Gotha [@marx-1970] de finales del siglo XIX, que sugeria que
 en el primer estadio del comunismo, antes que las condiciones de
 abundancia permitan el "a cada cual segun su necesidad", la remuneracion
 seria determinada por la cantidad de horas socialmente necesarias
-requeridas para la produccion de bienes y servicios.  En el espacio de
+requeridas para la producción de bienes y servicios.  En el espacio de
 trabajo capitalista, los trabajadores son pagados por la reproduccion de
 su capacidad de trabajo y no por el trabajo realmente extraido de ellos.
 Esto es lo que permite al capitalismo asegurarse la plusvalia.
@@ -522,13 +522,13 @@ democratic decisions on overall social goals.
 la eliminacion del medio general de intercambio que, a traves de una
 serie de metamorfosis desde y hacia la forma mercancia, crea el valor
 auto-expandible que es el capital.  En su Nuevo Socialismo, el trabajo
-seria remunerado en certificados de trabajo.  Una hora de trabajo podria
+seria remunerado en certificados de trabajo.  Una hora de trabajo podría
 ser intercambiada por aquellos bienes que requieran la misma cantidad de
 tiempo social promedio para ser producidos.  Los certificados quedarian
 extintos en el acto, no son capaces de circular ni ser utilizados para
 especular.  Como los trabajadores son retribuidos con el valor social
 completo, no habria ganancias ni capitalistas para dirigir la
-distribucion de los recursos.  De todas formas los trabajadores pagarian
+distribución de los recursos.  De todas formas los trabajadores pagarian
 un impuesto que establezca un pozo de recursos en tiempo productivo,
 disponible para las inversiones sociales hechas por mesas de
 planificación cuyos mandatos serían establecidos por decisiones
@@ -561,7 +561,7 @@ capacidades de la tecnologia informatica.  Tal sistema requeriria la
 enumeracion del tiempo de trabajo utilizado, tanto directa como
 indirectamente, en la creacion de bienes y servicios, para evaluar la
 cantidad de certificados necesarios y tambien para habilitar la
-planificacion economica.  La tabla de entrada-salida reaparece, poniendo
+planificación economica.  La tabla de entrada-salida reaparece, poniendo
 especial atencion en el tiempo de trabajo, tanto como una entrada
 necesaria para la producción de bienes como una salida que requiere a su
 vez las entradas del entrenamiento y la educacion.  No obstante, aqui
@@ -569,7 +569,7 @@ los Nuevos Socialistas deben confrontar una objecion básica.  Desde la
 caida de la URSS se ha aceptado convencionalmente que la escala del
 procesamiento de información que intentaron los ciberneticos sovieticos
 fue simplemente demasiado grande.  En los '80, Nove [-nove-1983] sugeria
-que tal esfuerzo, involucrando la produccion de unos doce millones de
+que tal esfuerzo, involucrando la producción de unos doce millones de
 items discretos, demandaria una complejidad de calculos de
 entrada-salida imposible aun con computadoras.  Esto fue repetido en las
 discusiones recientes sobre _Abundancia roja_, donde los críticos de la
@@ -591,7 +591,7 @@ de la ciencia informatica que tratan con la abreviación de los pasos
 discretos necesarios para completar una ecuacion.  Tal analisis,
 sugieren, demuestra que las objeciones de los oponentes estan basadas en
 metodos "patologicamente ineficientes" [@cockshott-2012].  La estructura
-de entrada-salida de la economia es, dicen,
+de entrada-salida de la economía es, dicen,
 
 ‘sparse’—that is to say, only a small fraction of the goods are directly
 used to produce any other good. Not everything is an input for
@@ -631,14 +631,14 @@ says, ‘giving the Soviets a bit generously 10^7 flops in 1969, we can
 find (10^18 - 10^7 = 10^11) . . . a 100,000,000,000 fold increase’ by
 today.
 
-El tiempo podria reducirse masivamente por la velocidad de procesamiento
+El tiempo podría reducirse masivamente por la velocidad de procesamiento
 computacional predicha por la Ley de Moore.  Sugerir que la
 planificación economica de alto nivel se realice en una "maquina de
 escritorio" resulta poco sincero.  De acuerdo con una comunicación
 electrónica de Benjamin Peters, en 1969 (la epoca de _Abundancia Roja_)
-el "caballo de tiro indisputable" de la economia informatica sovietica
+el "caballo de tiro indisputable" de la economía informatica sovietica
 era la BESM-6 ("_bolshaya electronicheskaya schetnaya mashina_",
-literalmente "gran maquina calculadora electronica"), que podria operar
+literalmente "gran maquina calculadora electronica"), que podría operar
 a una velocidad de 800.000 flops u "operaciones flotantes por segundo",
 es decir, a 8 megaflops, o 10^6^ flops.  En 2013, no obstante, las
 supercomputadoras utilizadas en el modelado climatico, testeo de
