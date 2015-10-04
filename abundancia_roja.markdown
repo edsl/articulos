@@ -317,33 +317,33 @@ infrastructure to rapidly carry out the millions of calculations
 required by Gosplan, the State Board for Planning that oversaw economic
 five year plans. After a decade of experimentation, their attempt
 collapsed, frustrated by the pitiful state of the Soviet computer
-industry – which, being some two
+industry – which, being some two decades behind that of the US, missed
+the personal computer revolution and did not develop an equivalent to
+the Internet. It was thus utterly inadequate to the task set for it. All
+this, alongside political opposition from a nomenklatura that, seeing in
+the new scientific planning method a threat to its bureaucratic power,
+compelled abandonment of the project (Castells, 2000; Gerovitch, 2008;
+Peters, 2012).
 
-Los cientificos informaticos sovieticos se propusieron resolver este
-problema.  Ya en los '30, Kantorovich habia mejorada las tablas de
-entrada-salida con el método matematica de programación lineal, que
+Los científicos informáticos soviéticos se propusieron resolver este
+problema.  Ya en los '30, Kantorovich había mejorado las tablas de
+entrada-salida con el método matemático de programación lineal, que
 estimaba la mejor, u "optimizaba", combinación de técnicas de producción
-necesarias para un objetivo.  Los ciberneticos de los '60 intentaron
+necesarias para un objetivo.  Los cibernéticos de los '60 intentaron
 implementar ese descubrimiento a escala masiva, estableciendo una
-infraestructura informatica moderna capaz de procesar los millones de
-calculos requeridos por Gosplan, la Mesa Estatal de Planificación que
-supervisaba los planes quinquenales económicos.  Luego de una decada de
+infraestructura informática moderna capaz de procesar los millones de
+cálculos requeridos por Gosplan, la Mesa Estatal de Planificación que
+supervisaba los planes quinquenales económicos.  Luego de una década de
 experimentación, su intento colapsó, frustrado por el lamentable estado
-de la industria informática soviética --que al estar dos decadas
+de la industria informática soviética --que al estar dos décadas
 atrasada con respecto a los EEUU, se perdió la revolución de la
 computadora personal y no desarrollo un equivalente a Internet.  Por lo
-tanto era totalmente inadecuado para lo que se proponia lograr.  Ademas
-tenia la oposición de la _nomenklatura_, que veia en la planificación
-informatica una amenaza a su poder burocratico y ayudo en el abandono
+tanto era totalmente inadecuado para lo que se proponía lograr.  Ademas
+tenia la oposición de la _nomenklatura_, que veía en la planificación
+informática una amenaza a su poder burocrático y contribuyó al  abandono
 del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
 
-decades behind that of the US, missed the personal computer revolution
-and did not develop an equivalent to the Internet. It was thus utterly
-inadequate to the task set for it. All this, alongside political
-opposition from a nomenklatura that, seeing in the new scientific
-planning method a threat to its bureaucratic power, compelled
-abandonment of the project (Castells, 2000; Gerovitch, 2008; Peters,
-2012).  This was not the only twentieth century project of ‘cybernetic
+  This was not the only twentieth century project of ‘cybernetic
 revolutionaries’; as remarkable was the attempt by Salvador Allende’s
 Chilean regime to introduce a more decentralized versión of electronic
 planning, ‘Project Cybersyn’ (Medina, 2005). Led by the Canadian
@@ -377,7 +377,7 @@ contra la microgestión estatal y estimulos para discusiones
 multilaterales sobre la planificación.  Este fue un intento de
 ingeniería sociotecnica para el socialismo democrático que hoy en dia
 parece mas atractivo que las maniobras post-estalinistas de los
-planificadores sovieticos.  Pero se encontró con un destino mas brutal:
+planificadores soviéticos.  Pero se encontró con un destino mas brutal:
 el Proyecto Cybersyn fue exterminado por el golpe pinochetista de 1973.
 La falla de la URSS por adaptarse al mundo del software y las redes
 contribuyó a su derrota economica y militar ante EEUU.  Su
@@ -461,9 +461,9 @@ of Cockshott and Cottrell.
 A pesar de la caida del socialismo real, la idea de la planificación
 central computarizada continuo siendo desarrollada por pequeños grupos
 de teoricos, que han avanzado su alcance conceptual mas alla de lo que
-habian intentando los ciberneticos sovieticos.  Dos escuelas han sido de
-fundamental importancia:  el "Nuevo Socialismo" de los cientificos
-informaticos escoseses Paul Cockshott y Alan Cottrell
+habian intentando los cibernéticos soviéticos.  Dos escuelas han sido de
+fundamental importancia:  el "Nuevo Socialismo" de los científicos
+informáticos escoseses Paul Cockshott y Alan Cottrell
 [-@cockshott-cottrell] y la "Escuela de Bremen" alemana, incluyendo a
 Peter Arno [-@arno-2002] y Heinz Dieterich [-@dieterich-2006], el ultimo
 de los cuales es un militante del "Socialismo del Siglo XXI" al estilo
@@ -556,7 +556,7 @@ the equations would take ‘roughly a thousand years’ (Shalizi, 2012).
 
 El tiempo de trabajo provee "la unidad objetiva de valor" del Nuevo
 Socialismo [@cockshot-cottrell-2003].  En este punto son invocadas las
-capacidades de la tecnologia informatica.  Tal sistema requeriria la
+capacidades de la tecnologia informática.  Tal sistema requeriria la
 enumeracion del tiempo de trabajo utilizado, tanto directa como
 indirectamente, en la creacion de bienes y servicios, para evaluar la
 cantidad de certificados necesarios y tambien para habilitar la
@@ -566,10 +566,10 @@ necesaria para la producción de bienes como una salida que requiere a su
 vez las entradas del entrenamiento y la educacion.  No obstante, aqui
 los Nuevos Socialistas deben confrontar una objecion básica.  Desde la
 caida de la URSS se ha aceptado convencionalmente que la escala del
-procesamiento de información que intentaron los ciberneticos sovieticos
+procesamiento de información que intentaron los cibernéticos soviéticos
 fue simplemente demasiado grande.  En los '80, Nove [-nove-1983] sugeria
 que tal esfuerzo, involucrando la producción de unos doce millones de
-items discretos, demandaria una complejidad de calculos de
+items discretos, demandaria una complejidad de cálculos de
 entrada-salida imposible aun con computadoras.  Esto fue repetido en las
 discusiones recientes sobre _Abundancia roja_, donde los críticos de la
 planificación central sugerian que aun con la "maquina de escritorio"
@@ -586,7 +586,7 @@ economy is, they point out,
 
 La respuesta de Cockshott y Cottrell involucra más herramientas, tanto
 conceptuales como tecnicas.  Los avances teoreticos son tomados de ramas
-de la ciencia informatica que tratan con la abreviación de los pasos
+de la ciencia informática que tratan con la abreviación de los pasos
 discretos necesarios para completar una ecuacion.  Tal analisis,
 sugieren, demuestra que las objeciones de los oponentes estan basadas en
 metodos "patologicamente ineficientes" [@cockshott-2012].  La estructura
@@ -635,20 +635,20 @@ computacional predicha por la Ley de Moore.  Sugerir que la
 planificación economica de alto nivel se realice en una "maquina de
 escritorio" resulta poco sincero.  De acuerdo con una comunicación
 electrónica de Benjamin Peters, en 1969 (la epoca de _Abundancia Roja_)
-el "caballo de tiro indisputable" de la economía informatica soviética
+el "caballo de tiro indisputable" de la economía informática soviética
 era la BESM-6 ("_bolshaya electronicheskaya schetnaya mashina_",
 literalmente "gran maquina calculadora electrónica"), que podría operar
 a una velocidad de 800.000 flops u "operaciones flotantes por segundo",
 es decir, a 8 megaflops, o 10^6^ flops.  En 2013, no obstante, las
 supercomputadoras utilizadas en el modelado climatico, testeo de
-materiales y calculos astronomicos generalmente sobrepasan los 10
+materiales y cálculos astronomicos generalmente sobrepasan los 10
 cuadrillones de flops o diez "teraflops".  La mayor al momento de
 escribir este articulo es la Titan de Cray, en el _Oak Ridge National
 Laboratory_, alcanzando unos 17,6 petaflops, es decir 10^15^ flops
 [@wikipedia-2013].  Las computadoras con una capacidad de 1 "exaflop", o
 10^18^ flops, han sido predichas para el 2019 en China [@dorrier-2012].
 Por lo tanto, como dice Peters [-@peters-2013], "otorgandole a los
-sovieticos unos generosos 10^7^ flops en 1969, podemos encontrar que
+soviéticos unos generosos 10^7^ flops en 1969, podemos encontrar que
 10^18^ - 10^7^ = 10^11^ ... es decir un incremento de 100.000.000.000 de
 veces".
 
