@@ -257,20 +257,21 @@ successful Soviet industrial economy, despite its triumphs in the 1940s
 and ‘50s, was slowly stagnating amidst organizational incoherence and
 informational bottlenecks.
 
-Este es, sin embargo, un argumento de doble contra el socialismo.  Si el
-mercado actúa como una computadora, ¿por qué no reemplazarlo por una?
-Si la planificación centralizada sufría de un problema de calculo, ¿por
-que no resolverla con maquinas de calculo reales?  Este fue precisamente
-el argumento del oponente de Hayek, el economista Oskar Lange, que
-refiriéndose en retrospectiva al debate sobre el "calculo socialista",
-remarcaba: "hoy mi tarea hubiera sido mucho mas simple.  Mi respuesta a
-Hayek hubiera sido: ¿cual es el problema?  Pongamos las ecuaciones
-simultaneas en una computadora electrónica y obtendremos la solución en
-menos de un segundo" [@lange-1967].  Este era el proyecto de las
-cibernéticas de Abundancia roja, un proyecto motivado por la realización
-de que la aparentemente exitosa economía industrial soviética, pese a
-sus triunfos en los '40 y '50, se estaba estancando en medio de la
-incoherencia organizativa y los cuellos de botella informaciones.
+Este es, sin embargo, un argumento de doble hoja contra el socialismo.
+Si el mercado actúa como una computadora, ¿por qué no reemplazarlo por
+una?  Si la planificación centralizada sufría de un problema de calculo,
+¿por que no resolverla con maquinas de calculo reales?  Este fue
+precisamente el argumento del oponente de Hayek, el economista Oskar
+Lange, que refiriéndose en retrospectiva al debate sobre el "calculo
+socialista", remarcaba: "hoy mi tarea hubiera sido mucho mas simple.  Mi
+respuesta a Hayek hubiera sido: ¿cual es el problema?  Pongamos las
+ecuaciones simultaneas en una computadora electrónica y obtendremos la
+solución en menos de un segundo" [@lange-1967].  Este era el proyecto de
+las cibernéticas de Abundancia roja, un proyecto motivado por la
+realización de que la aparentemente exitosa economía industrial
+soviética, pese a sus triunfos en los '40 y '50, se estaba estancando en
+medio de la incoherencia organizativa y los cuellos de botella
+informaciones.
 
 Their effort depended on a conceptual tool, the input-output table,
 whose development is associated with two Russian mathematicians: the
@@ -289,7 +290,7 @@ complexity of an entire national economy was believed to preclude their
 application at such a level.
 
 Su esfuerzo dependió de una herramienta conceptual, la tabla de
-entrada-salida, cuyo desarrollo está asociado a dos matematicos rusos:
+entrada-salida, cuyo desarrollo está asociado a dos matemáticos rusos:
 el emigrado Wassily Leontief, que trabajo en EEUU y el sovietico
 Kantorovich, protagonista de _Abundancia roja_.  Las tablas de
 entrada-salida --que recientemente se han descubierto parte del
@@ -297,13 +298,13 @@ fundamento intelectual del algoritmo PageRank de Google
 [@franceschet-2010]-- trazan la compleja interdependencia de una
 economía moderna al mostrar como las salidas de una industria (por
 ejemplo el acero o el algodón) proveen las entradas para otras
-(automoviles o ropa), de forma que puede estimarse el cambio en la
+(automóviles o ropa), de forma que puede estimarse el cambio en la
 demanda resultante de un cambio en la producción de bienes.  En los '60
 estas tablas eran un instrumento aceptado por las organizaciones
-industriales de gran escala: el trabajo de Leontief tuvo un rol en la
-logistica del masivo bombardeo a Alemania por parte de las fuerzas
-aereas estadounidenses.  No obstante, se creia que la complejidad de una
-economía nacional completa impedia su aplicacion a tal nivel.
+industriales de gran escala: el trabajo de Leontief incidió la logística
+del bombardeo masivo a Alemania por parte de las fuerzas aéreas
+estadounidenses.  No obstante, se creía que la complejidad de una
+economía nacional completa impedía su aplicación a tal nivel.
 
 
 Soviet computer scientists set out to surmount this problem. As early as
