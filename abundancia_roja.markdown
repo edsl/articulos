@@ -343,7 +343,7 @@ tenia la oposición de la _nomenklatura_, que veía en la planificación
 informática una amenaza a su poder burocrático y contribuyó al  abandono
 del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
 
-  This was not the only twentieth century project of ‘cybernetic
+This was not the only twentieth century project of ‘cybernetic
 revolutionaries’; as remarkable was the attempt by Salvador Allende’s
 Chilean regime to introduce a more decentralized versión of electronic
 planning, ‘Project Cybersyn’ (Medina, 2005). Led by the Canadian
@@ -351,39 +351,39 @@ cybernetician Stafford Beer, this was conceived as a system of
 communication and control that would enable the socialist regime to
 collect economic data, and relay it to government decision makers, even
 while embedding within its technology safeguards against state
-  micro-management and encouragement for many-sided discussions of
-  planning decisions. This was an attempt at socio-technical engineering
-  of democratic socialism that today perhaps seems more attractive than
-  the post-Stalinist manoeuvres of the Soviet computer planners. But it
-  met an even more brutal fate; Project Cybersyn was extinguished in the
-  Pinochet coup of 1973.  In the end the failure of the USSR to adapt to
-  a world of software and networks contributed to its economic/military
-  defeat by the United States. Its disintegration, in which, as Alec
-  Nove (1983) demonstrated, information bottlenecks and reporting
-  falsifications played a major role, seemed to vindicate the Austrian
-  economists.  Hayek’s praise of market catallaxy thus became central to
-  the ‘neoliberal thought collective’ (Mirowski, 2009) that led the
-  subsequent victory march of global capitalism.
+micro-management and encouragement for many-sided discussions of
+planning decisions. This was an attempt at socio-technical engineering
+of democratic socialism that today perhaps seems more attractive than
+the post-Stalinist manoeuvres of the Soviet computer planners. But it
+met an even more brutal fate; Project Cybersyn was extinguished in the
+Pinochet coup of 1973.  In the end the failure of the USSR to adapt to a
+world of software and networks contributed to its economic/military
+defeat by the United States. Its disintegration, in which, as Alec Nove
+(1983) demonstrated, information bottlenecks and reporting
+falsifications played a major role, seemed to vindicate the Austrian
+economists.  Hayek’s praise of market catallaxy thus became central to
+the ‘neoliberal thought collective’ (Mirowski, 2009) that led the
+subsequent victory march of global capitalism.
 
-Este no fue el unico proyecto de "cibernetica revolucionaria" del siglo
-XXI.  Igual de remarcable fue el intento del gobierno de Salvador
-Allende en Chile por introducir una versión decentralizada de
+Este no fue el único proyecto sobre "cibernética revolucionaria" del
+siglo XXI.  Igual de remarcable fue el intento del gobierno de Salvador
+Allende en Chile por introducir una versión descentralizada de
 planificación electrónica, el "Proyecto Cybersyn" [@medina-2005].
 Liderado por el cibernético canadiense Stafford Beer, fue concebido como
-un sistema de comunicación y control que habilitaria al gobierno
+un sistema de comunicación y control que habilitaría al gobierno
 socialista a recolectar información económica y presentarla a los
-decisores politicos, aun cuando incluia en su tecnologia salvaguardas
-contra la microgestión estatal y estimulos para discusiones
-multilaterales sobre la planificación.  Este fue un intento de
-ingeniería sociotecnica para el socialismo democrático que hoy en dia
+quienes tomaban las decisiones políticas, aun cuando incluía en su
+tecnología salvaguardas contra la microgestión estatal y estímulos para
+discusiones multilaterales sobre la planificación.  Este fue un intento
+de ingeniería sociotecnica para el socialismo democrático que hoy en día
 parece mas atractivo que las maniobras post-estalinistas de los
 planificadores soviéticos.  Pero se encontró con un destino mas brutal:
 el Proyecto Cybersyn fue exterminado por el golpe pinochetista de 1973.
 La falla de la URSS por adaptarse al mundo del software y las redes
-contribuyó a su derrota economica y militar ante EEUU.  Su
-desintegracion, en los que, como demostraba Alec Nove [-@nove-1983], los
-cuellos de botella informaciones y la falsicación de reportes jugaron
-un rol preponderante, pareció reinvindicar a los economistas austriacos.
+contribuyó a su derrota económica y militar ante EEUU.  Su
+desintegración, donde, como demostraba Alec Nove [-@nove-1983], los
+cuellos de botella de información y la falsificación de reportes jugaron
+un rol preponderante, pareció reivindicar a los economistas austriacos.
 Las alabanzas de Hayek a la catalaxia del mercado se volvieron centrales
 al "pensamiento colectivo neoliberal" [@mirowski-2009] que lidero la
 marcha victoriosa del capitalismo global.
@@ -435,7 +435,7 @@ momento de la producción), la incapacidad de los intercambios
 individuales de mercancias para registrar las consecuencias colectivas
 (las llamadas "externalidades") y la recursividad de un sistema
 crematistico que se vuelve sobre si mismo en la especulacion financiera
-destacan cada vez mas en el medio de la implosion economica y ecologica
+destacan cada vez mas en el medio de la implosion económica y ecologica
 del capital global.  Pero la identificacion de estas fallas no excusa a
 los comunistas de especificar como otro sistema de distribución de
 recursos podría funcionar, sin caer en la "servidumbre" de la
@@ -556,11 +556,11 @@ the equations would take ‘roughly a thousand years’ (Shalizi, 2012).
 
 El tiempo de trabajo provee "la unidad objetiva de valor" del Nuevo
 Socialismo [@cockshot-cottrell-2003].  En este punto son invocadas las
-capacidades de la tecnologia informática.  Tal sistema requeriria la
+capacidades de la tecnología informática.  Tal sistema requeriria la
 enumeracion del tiempo de trabajo utilizado, tanto directa como
 indirectamente, en la creacion de bienes y servicios, para evaluar la
 cantidad de certificados necesarios y tambien para habilitar la
-planificación economica.  La tabla de entrada-salida reaparece, poniendo
+planificación económica.  La tabla de entrada-salida reaparece, poniendo
 especial atencion en el tiempo de trabajo, tanto como una entrada
 necesaria para la producción de bienes como una salida que requiere a su
 vez las entradas del entrenamiento y la educacion.  No obstante, aqui
@@ -632,7 +632,7 @@ today.
 
 El tiempo podría reducirse masivamente por la velocidad de procesamiento
 computacional predicha por la Ley de Moore.  Sugerir que la
-planificación economica de alto nivel se realice en una "maquina de
+planificación económica de alto nivel se realice en una "maquina de
 escritorio" resulta poco sincero.  De acuerdo con una comunicación
 electrónica de Benjamin Peters, en 1969 (la epoca de _Abundancia Roja_)
 el "caballo de tiro indisputable" de la economía informática soviética
