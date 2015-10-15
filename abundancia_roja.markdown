@@ -74,7 +74,7 @@ merits and demerits of hacktivism, digital disobedience, electronic
 fabrics of struggle, tweets in the street and Facebook revolutions, but
 of digital communism. This is a topic that has already been touched on
 by the wave of rethinking life after capitalism triggered by the 1989
-implosion of the USSR, in proposals for ‘participatory economics’
+implosión of the USSR, in proposals for ‘participatory economics’
 (Albert & Hahnel, 1991), a ‘new socialism’ (Cockshott & Cottrell, 1993),
 ‘twenty first century socialism’ (Dieterich, 2006), or forms of
 ‘commonwealth’(Hardt & Negri, 2009). Unlike some of these sources,
@@ -205,7 +205,7 @@ no-coercitivo --lo que Hayek llamo la "catalaxia" [-@hayek-1976].  Los
 precios proveen una señal sinóptica y abstracta sobre condiciones y
 necesidades cambiantes y heterogéneas a los que la inversión empresarial
 responde.  Una economía comandada, en contraste, debe ser a la vez
-despótica e impractica, porque el calculo de una distribución optima de
+despótica e impráctica, porque el calculo de una distribución optima de
 recursos escasos depende de innumerables conocimientos locales sobre las
 necesidades de consumo y las condiciones de producción que ningún método
 central de reporte podría compilar y evaluar.
@@ -339,9 +339,13 @@ de la industria informática soviética --que al estar dos décadas
 atrasada con respecto a los EEUU, se perdió la revolución de la
 computadora personal y no desarrollo un equivalente a Internet.  Por lo
 tanto era totalmente inadecuado para lo que se proponía lograr.  Ademas
-tenia la oposición de la _nomenklatura_, que veía en la planificación
-informática una amenaza a su poder burocrático y contribuyó al  abandono
-del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
+tenia la oposición de la _nomenklatura[^ndt-nomenklatura]_, que veía en
+la planificación informática una amenaza a su poder burocrático y
+contribuyó al  abandono del proyecto [@castells-2000; @gerovitch-2008;
+peters-2012].
+
+[^ndt-nomenklatura]: Lista o clase de personas selectas que conformaban
+ el alto mando de la burocracia sovietica. _(Nota de traducción)_
 
 This was not the only twentieth century project of ‘cybernetic
 revolutionaries’; as remarkable was the attempt by Salvador Allende’s
@@ -375,7 +379,7 @@ socialista a recolectar información económica y presentarla a los
 quienes tomaban las decisiones políticas, aun cuando incluía en su
 tecnología salvaguardas contra la microgestión estatal y estímulos para
 discusiones multilaterales sobre la planificación.  Este fue un intento
-de ingeniería sociotecnica para el socialismo democrático que hoy en día
+de ingeniería sociotécnica para el socialismo democrático que hoy en día
 parece mas atractivo que las maniobras post-estalinistas de los
 planificadores soviéticos.  Pero se encontró con un destino mas brutal:
 el Proyecto Cybersyn fue exterminado por el golpe pinochetista de 1973.
@@ -400,17 +404,17 @@ Austrian economists and market socialists, they may address issues of
 technological innovation or public data availability, yet do not seem to
 engage deeply with the potentialities of contemporary computing.
 
-La presion combinada del desastre practico de la URSS y el argumento
-teorico de la escuela de Austria ejerció una fuerza enorme dentro de lo
+La presión combinada del desastre practico de la URSS y el argumento
+teórico de la escuela de Austria ejerció una fuerza enorme dentro de lo
 que quedaba de la izquierda, presionándola para reducir y redefinir el
 limite de sus aspiraciones radicales a, como mucho, una economía de
 empresas colectivamente apropiadas, coordinadas por señales de precios.
 Las muchas variantes de tal "socialismo de mercado" han provocado el
-rechazo de los marxistas que se resisten al intercambio de mercancias.
+rechazo de los marxistas que se resisten al intercambio de mercancías.
 Tal vez porque le otorgan al mercado las mismas funciones de
 procesamiento automático de información que los economistas austriacos y
 los socialistas de mercado, pueden tocar temas como la innovación
-tecnológica o la disponibilidad de datos publicos, pero no parecen
+tecnológica o la disponibilidad de datos públicos, pero no parecen
 involucrarse profundamente con las potencialidades de la computación
 moderna.
 
@@ -422,24 +426,28 @@ commodity exchanges to register collective consequences (the so-called
 ‘externalities’); and the recursivity of a chrematistic system that
 loops back on itself in financial speculation, have all become more
 salient in the midst of global capital’s economic and ecological
-implosion. But identifying such flaws does not excuse communists from
+implosión. But identifying such flaws does not excuse communists from
 the requirement to specify how another system of resource allocation –
 one avoiding the ‘serfdom’ of the statist subjugation Hayek (1944)
 predicted – might work.
 
-En la actualidad y despues de la crisis, decir que los mercados son
-maquinas infalibles de información puede sonar menos creible que un
-cuarto de siglo atras.  El parasitario robo energetico que subyace a las
-transmisiones de señales de precios (es decir la explotacion en el
+En la actualidad y después de la crisis, decir que los mercados son
+maquinas infalibles de información puede sonar menos creíble que un
+cuarto de siglo atrás.  El parasitario robo energético que subyace a las
+transmisiones de señales de precios (es decir la explotación en el
 momento de la producción), la incapacidad de los intercambios
-individuales de mercancias para registrar las consecuencias colectivas
+individuales de mercancías para registrar las consecuencias colectivas
 (las llamadas "externalidades") y la recursividad de un sistema
-crematistico que se vuelve sobre si mismo en la especulacion financiera
-destacan cada vez mas en el medio de la implosion económica y ecologica
-del capital global.  Pero la identificacion de estas fallas no excusa a
-los comunistas de especificar como otro sistema de distribución de
-recursos podría funcionar, sin caer en la "servidumbre" de la
-subyugacion estatista que predijo Hayek [-@hayek-1994].
+crematístico[^ndt-crematístico] que se vuelve sobre si mismo en la
+especulación financiera destacan cada vez mas en el medio de la
+implosión económica y ecológica del capital global.  Pero la
+identificación de estas fallas no excusa a los comunistas de especificar
+como otro sistema de distribución de recursos podría funcionar, sin caer
+en la "servidumbre" de la subyugación estatista que predijo Hayek
+[-@hayek-1994].
+
+[^ndt-crematístico]: Conocimientos y estudios referidos a la producción
+  y la distribución de la riqueza. _(Nota de traducción)_
 
 Labour Algorithms
 
@@ -458,18 +466,18 @@ Cottrell & Dieterich, 2010). However, because little of the Bremen
 group’s work is translated, the focus here will be on the New Socialism
 of Cockshott and Cottrell.
 
-A pesar de la caida del socialismo real, la idea de la planificación
+A pesar de la caída del socialismo real, la idea de la planificación
 central computarizada continuo siendo desarrollada por pequeños grupos
-de teoricos, que han avanzado su alcance conceptual mas alla de lo que
-habian intentando los cibernéticos soviéticos.  Dos escuelas han sido de
+de teóricos, que han avanzado su alcance conceptual mas allá de lo que
+habían intentando los cibernéticos soviéticos.  Dos escuelas han sido de
 fundamental importancia:  el "Nuevo Socialismo" de los científicos
-informáticos escoseses Paul Cockshott y Alan Cottrell
+informáticos escoceses Paul Cockshott y Alan Cottrell
 [-@cockshott-cottrell] y la "Escuela de Bremen" alemana, incluyendo a
 Peter Arno [-@arno-2002] y Heinz Dieterich [-@dieterich-2006], el ultimo
 de los cuales es un militante del "Socialismo del Siglo XXI" al estilo
 venezolano.  Estas tendencias han convergido recientemente
 [@cockshott-cottrell-dieterich-2010].  Sin embargo, como muy pocas obras
-de la Escuela de Bremen han sido traducidas, el foco aqui estara puesto
+de la Escuela de Bremen han sido traducidas, el foco aquí estará puesto
 sobre el Nuevo Socialismo de Cockshott y Cottrell.
 
 The distinguishing mark of the New Socialist project is its classic
@@ -486,24 +494,20 @@ secure surplus value.
 
 
 La marca distintiva del proyecto del Nuevo Socialismo es el rigor
-marxista clasico.  De esta forma, la planificación por supercomputadoras
-del siglo XXI sigue al pie de la letra la logica de la Critica al
-Programa de Gotha [@marx-1970] de finales del siglo XIX, que sugeria que
+marxista clásico.  De esta forma, la planificación por supercomputadoras
+del siglo XXI sigue al pie de la letra la lógica de la Critica al
+Programa de Gotha [@marx-1970] de finales del siglo XIX, que sugería que
 en el primer estadio del comunismo, antes que las condiciones de
-abundancia permitan el "a cada cual segun su necesidad", la remuneracion
+abundancia permitan el "a cada cual según su necesidad", la remuneración
 seria determinada por la cantidad de horas socialmente necesarias
 requeridas para la producción de bienes y servicios.  En el espacio de
-trabajo capitalista, los trabajadores son pagados por la reproduccion de
-su capacidad de trabajo y no por el trabajo realmente extraido de ellos.
-Esto es lo que permite al capitalismo asegurarse la plusvalia.
+trabajo capitalista, los trabajadores son pagados por la reproducción de
+su capacidad de trabajo y no por el trabajo realmente extraído de ellos.
+Esto es lo que permite al capitalismo asegurarse la plusvalía.
 
 
 The elimination of this state of affairs, Cockshott and Cottrell
 contend, requires nothing less than the abolition of money—that is,
-
-La eliminación de este estado de hechos, dicen Cockshott y Cottrell,
-requiere nada menos que la abolicion del dinero --es decir,
-
 the elimination of the fungible general medium of exchange that, through
 a series of metamorphoses of money in and out of the commodity form,
 creates the self-expanding value that is capital. In their new
@@ -518,16 +522,18 @@ establish a pool of labour-time resources available for social
 investments made by planning boards whose mandate would be set by
 democratic decisions on overall social goals.
 
-la eliminacion del medio general de intercambio que, a traves de una
-serie de metamorfosis desde y hacia la forma mercancia, crea el valor
+La eliminación de este estado de hechos, dicen Cockshott y Cottrell,
+requiere nada menos que la abolición del dinero --es decir, la
+eliminación del medio general de intercambio que, a través de una serie
+de metamorfosis desde y hacia la forma mercancía, crea el valor
 auto-expandible que es el capital.  En su Nuevo Socialismo, el trabajo
 seria remunerado en certificados de trabajo.  Una hora de trabajo podría
 ser intercambiada por aquellos bienes que requieran la misma cantidad de
-tiempo social promedio para ser producidos.  Los certificados quedarian
+tiempo social promedio para ser producidos.  Los certificados quedarían
 extintos en el acto, no son capaces de circular ni ser utilizados para
 especular.  Como los trabajadores son retribuidos con el valor social
-completo, no habria ganancias ni capitalistas para dirigir la
-distribución de los recursos.  De todas formas los trabajadores pagarian
+completo, no habría ganancias ni capitalistas para dirigir la
+distribución de los recursos.  De todas formas los trabajadores pagarían
 un impuesto que establezca un pozo de recursos en tiempo productivo,
 disponible para las inversiones sociales hechas por mesas de
 planificación cuyos mandatos serían establecidos por decisiones
@@ -548,7 +554,7 @@ Since the fall of the USSR it has been conventionally accepted that the
 scale of information processing attempted by its cyberneticians was
 simply too large to be feasible. Writing in the 1980s, Nove (1983)
 suggested that such an effort, involving the production of some twelve
-million discrete items, would demand a complexity input-output
+million discrete ítem, would demand a complexity input-output
 calculation impossible even with computers. This claim was repeated in
 recent discussions of Red Plenty, with critics of central planning
 suggesting that, even using a contemporary ‘desktop machine’, solving
@@ -556,24 +562,24 @@ the equations would take ‘roughly a thousand years’ (Shalizi, 2012).
 
 El tiempo de trabajo provee "la unidad objetiva de valor" del Nuevo
 Socialismo [@cockshot-cottrell-2003].  En este punto son invocadas las
-capacidades de la tecnología informática.  Tal sistema requeriria la
-enumeracion del tiempo de trabajo utilizado, tanto directa como
-indirectamente, en la creacion de bienes y servicios, para evaluar la
-cantidad de certificados necesarios y tambien para habilitar la
+capacidades de la tecnología informática.  Tal sistema requeriría la
+enumeración del tiempo de trabajo utilizado, tanto directa como
+indirectamente, en la creación de bienes y servicios, para evaluar la
+cantidad de certificados necesarios y también para habilitar la
 planificación económica.  La tabla de entrada-salida reaparece, poniendo
-especial atencion en el tiempo de trabajo, tanto como una entrada
+especial atención en el tiempo de trabajo, tanto como una entrada
 necesaria para la producción de bienes como una salida que requiere a su
-vez las entradas del entrenamiento y la educacion.  No obstante, aqui
-los Nuevos Socialistas deben confrontar una objecion básica.  Desde la
-caida de la URSS se ha aceptado convencionalmente que la escala del
+vez las entradas del entrenamiento y la educación.  No obstante, aquí
+los Nuevos Socialistas deben confrontar una objeción básica.  Desde la
+caída de la URSS se ha aceptado convencionalmente que la escala del
 procesamiento de información que intentaron los cibernéticos soviéticos
-fue simplemente demasiado grande.  En los '80, Nove [-nove-1983] sugeria
+fue simplemente demasiado grande.  En los '80, Nove [-nove-1983] sugería
 que tal esfuerzo, involucrando la producción de unos doce millones de
-items discretos, demandaria una complejidad de cálculos de
-entrada-salida imposible aun con computadoras.  Esto fue repetido en las
-discusiones recientes sobre _Abundancia roja_, donde los críticos de la
-planificación central sugerian que aun con la "maquina de escritorio"
-actual, resolver las ecuaciones tomaria "algo asi como mil años"
+ítem discretos, demandaría una complejidad de cálculos de entrada-salida
+imposible aun con computadoras.  Esto fue repetido en las discusiones
+recientes sobre _Abundancia roja_, donde los críticos de la
+planificación central sugerían que aun con la "maquina de escritorio"
+actual, resolver las ecuaciones tomaría "algo así como mil años"
 [@shalizi-2012].
 
 Cockshott and Cottrell’s answer involves new tools, both conceptual and
@@ -585,11 +591,11 @@ opponents’ objections are based on ‘pathologically inefficient’ methods
 economy is, they point out,
 
 La respuesta de Cockshott y Cottrell involucra más herramientas, tanto
-conceptuales como tecnicas.  Los avances teoreticos son tomados de ramas
+conceptuales como técnicas.  Los avances teoreticos son tomados de ramas
 de la ciencia informática que tratan con la abreviación de los pasos
-discretos necesarios para completar una ecuacion.  Tal analisis,
-sugieren, demuestra que las objeciones de los oponentes estan basadas en
-metodos "patologicamente ineficientes" [@cockshott-2012].  La estructura
+discretos necesarios para completar una ecuación.  Tal análisis,
+sugieren, demuestra que las objeciones de los oponentes están basadas en
+métodos "patológicamente ineficientes" [@cockshott-2012].  La estructura
 de entrada-salida de la economía es, dicen,
 
 ‘sparse’—that is to say, only a small fraction of the goods are directly
@@ -740,12 +746,12 @@ digital and cybernetic technologies for managing production,
 distribution and sales in as swift and efficient a manner as possible’
 (Haiven & Stonemouth, 2009: np). This shift is spurred by the emergence
 of an ‘Internet of Things’, relating digital information to real world
-physical items through a network of sensor-instrumented products, users
+physical ítem through a network of sensor-instrumented products, users
 and locations. Enabled by the spread of sophisticated 4G Wireless
 networks, data storage-ondemand services via the ‘cloud’ from firms like
 Amazon, and, especially, by the latest internet protocol IPV6’s
 enlargement in addressability, which provides unique digital identifiers
-for a ‘truly humongous 340 billion billion billion billion’ items, such
+for a ‘truly humongous 340 billion billion billion billion’ ítem, such
   device to device communication by now probably exceed in data volume
   the person-to-person traffic of the Internet (Economist, 2012; np). As
   Benjamin Bratton (2013) observes, such addressability, combined with
