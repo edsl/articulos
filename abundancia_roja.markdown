@@ -600,15 +600,15 @@ de entrada-salida de la economía es, dicen,
 
 ‘sparse’—that is to say, only a small fraction of the goods are directly
 used to produce any other good. Not everything is an input for
-everything else: yogurt is not used to produce steel. The majority of
+everything else: yogur is not used to produce steel. The majority of
 the equations invoked to suggest insuperable complexity are therefore
 gratuitous. An algorithm can be designed to short-cut through
 input-output tables, ignoring blank entries, iteratively repeating the
 process until it arrives at a result of an acceptable order of accuracy.
 
-"dispersa" --es decir, solo una minima fracción de los bienes son
+"dispersa" --es decir, solo una mínima fracción de los bienes son
 utilizados directamente para producir cualquier otro bien.  No todo es
-una entrada para todo el resto:  el yogurt no es utilizado para producir
+una entrada para todo el resto:  el yogur no es utilizado para producir
 acero.  La mayor parte de las ecuaciones que se invocan para sugerir
 complejidades insuperables son por lo tanto gratuitas.  Es posible
 diseñar un algoritmo para encontrar atajos en las tablas de
@@ -640,20 +640,20 @@ El tiempo podría reducirse masivamente por la velocidad de procesamiento
 computacional predicha por la Ley de Moore.  Sugerir que la
 planificación económica de alto nivel se realice en una "maquina de
 escritorio" resulta poco sincero.  De acuerdo con una comunicación
-electrónica de Benjamin Peters, en 1969 (la epoca de _Abundancia Roja_)
+electrónica de Benjamin Peters, en 1969 (la época de _Abundancia Roja_)
 el "caballo de tiro indisputable" de la economía informática soviética
 era la BESM-6 ("_bolshaya electronicheskaya schetnaya mashina_",
 literalmente "gran maquina calculadora electrónica"), que podría operar
 a una velocidad de 800.000 flops u "operaciones flotantes por segundo",
 es decir, a 8 megaflops, o 10^6^ flops.  En 2013, no obstante, las
-supercomputadoras utilizadas en el modelado climatico, testeo de
-materiales y cálculos astronomicos generalmente sobrepasan los 10
+supercomputadoras utilizadas en el modelado climático, testeo de
+materiales y cálculos astronómicos generalmente sobrepasan los 10
 cuadrillones de flops o diez "teraflops".  La mayor al momento de
 escribir este articulo es la Titan de Cray, en el _Oak Ridge National
 Laboratory_, alcanzando unos 17,6 petaflops, es decir 10^15^ flops
 [@wikipedia-2013].  Las computadoras con una capacidad de 1 "exaflop", o
 10^18^ flops, han sido predichas para el 2019 en China [@dorrier-2012].
-Por lo tanto, como dice Peters [-@peters-2013], "otorgandole a los
+Por lo tanto, como dice Peters [-@peters-2013], "otorgándole a los
 soviéticos unos generosos 10^7^ flops en 1969, podemos encontrar que
 10^18^ - 10^7^ = 10^11^ ... es decir un incremento de 100.000.000.000 de
 veces".
@@ -676,7 +676,7 @@ computers
 Con estas capacidades, se vuelve plausible la sugerencia de Cockshott y
 Cottrell donde los requerimientos computacionales de la planificación
 económica de gran escala pueden ser manejados por instalaciones
-comparables a las de las estaciones metereológicas actuales.  El
+comparables a las de las estaciones meteorológicas actuales.  El
 "problema de cálculo", no obstante, no solo involucra el procesamiento
 de los datos sino también su disponibilidad.  La crítica de Hayek no
 pasa solo por la velocidad imposible con la que los planificadores
@@ -710,27 +710,29 @@ by a computer system second in capacity only to that of the Pentagon.
 Barcode scanners and point of sale computer systems identify each item
 
 en cada unidad productiva, que usando paquetes de programación estándar
-procesarían los datos de la producción local y los enviarían por "telex"
-a una instalación de planificación central, que cada 20 minutos
-respondería por señales de radio con los datos ajustados
-estadísticamente, para ser reutilizados en el nivel local.  Este
-escenario recuerda mucho al destartalado tecno-futurismo que nos muestra
-Terry Gilliam en _Brazil_.  Para actualizar a los Nuevos Socialistas
-deberíamos referirnos más bien a la iconoclasta visión de Fredric
-Jameson sobre _Wal-Mart_ como "la forma del futuro utópico avecinándose
-entre la niebla" [-@jameson-2009].  El punto es que si por un momento
-ignoramos la explotación de trabajadoras y proveedoras, _Wal-Mart_ es
-una entidad cuyos colosales poderes organizativos modelan los procesos
-planificativos necesarios para elevar los estándares globales de vida.
-Como Jameson reconoce y otros autores documentan en detalle
-[@lichtenstein-2006], este poder descansa sobre las computadores, las
-redes y la información.  Para mediados de los 2000, los centros de datos
-de _Wal-Mart_ procesaban activamente más de 680 millones de productos
-distintos por semana y más de 20 millones de transacciones de venta por
-día, todo esto facilitado por un sistema computacional solo seguido en
-capacidad por el del Pentágono.  Los escáneres de código de barras y las
-computadoras en los puntos de venta identifican cada ítem
-
+procesarían los datos de la producción local y los enviarían por
+"teletipo"[^ndt-Teletipo] a una instalación de planificación central,
+que cada 20 minutos respondería por señales de radio con los datos
+ajustados estadísticamente, para ser reutilizados en el nivel local.
+Este escenario recuerda mucho al destartalado tecno-futurismo que nos
+muestra Terry Gilliam en _Brazil_.  Para actualizar a los Nuevos
+Socialistas deberíamos referirnos más bien a la iconoclasta visión de
+Fredric Jameson sobre _Wal-Mart_ como "la forma del futuro utópico
+avecinándose entre la niebla" [-@jameson-2009].  El punto es que si por
+un momento ignoramos la explotación de trabajadoras y proveedoras,
+_Wal-Mart_ es una entidad cuyos colosales poderes organizativos modelan
+los procesos planificativos necesarios para elevar los estándares
+globales de vida.  Como Jameson reconoce y otros autores documentan en
+detalle [@lichtenstein-2006], este poder descansa sobre las
+computadores, las redes y la información.  Para mediados de los 2000,
+los centros de datos de _Wal-Mart_ procesaban activamente más de 680
+millones de productos distintos por semana y más de 20 millones de
+transacciones de venta por día, todo esto facilitado por un sistema
+computacional solo seguido en capacidad por el del Pentágono.  Los
+escáneres de código de barras y las computadoras en los puntos de venta
+identifican cada ítem
+[^ndf-Teletipo]: Red similar a la telefónica, utilizada para la
+  transmisión de datos mecanográficos. _(Nota de traducción)_
 
 sold, and store this information. Satellite telecommunications link
 directly from stores to the central computer system, and from that
