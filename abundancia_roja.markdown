@@ -741,6 +741,17 @@ company’s early adoption of Universal Product Codes had led to a ‘higher
 stage’ requirement for Radio Frequency Identification (RFID) tags in all
 products to enable tracking of commodities, workers and consumers within
 and beyond its global supply chain.  Wal-Mart is significant because it
+
+vendido y almacenan su información.  Los comunicaciones satelitales
+vinculan a las tiendas con el sistema central y esta a su vez con las
+computadoras de los proveedores, posibilitando el re-abastecimiento
+automático.  La adopción temprana de los códigos universales de producto
+llevaron a un "estadío más alto" requiriendo que todos los productos
+lleven etiquetas de Identificación por Radio Frecuencia (RFID) para
+permitir el seguimiento de mercancías, trabajadoras y consumidoras
+dentro y más allá de la cadena de suministro global. Wal-Mart resulta
+importante porque
+
 stands ‘at the front-edge of a seismic shift in the corporate
 imaginary’. It is a shift that links the notion of a ‘logistics
 revolution’ with ‘just-in-time-production’, and ‘harnesses emerging
@@ -748,12 +759,35 @@ digital and cybernetic technologies for managing production,
 distribution and sales in as swift and efficient a manner as possible’
 (Haiven & Stonemouth, 2009: np). This shift is spurred by the emergence
 of an ‘Internet of Things’, relating digital information to real world
-physical ítem through a network of sensor-instrumented products, users
+
+se encuentra "en la vanguardia de un cambio[^shift] sísmico en el
+imaginario corporativo".  Es un cambio que vincula la noción de
+"revolución de la logística" con la "producción justo a tiempo" y
+"aprovecha las tecnología digitales y cibernéticas emergentes para la
+gestión de la producción, distribución y ventas de la forma más veloz y
+eficiente" [@haiven-stonemouth-2009].  Este cambio es estimulado por la
+emergencia de la "Internet de las cosas", que relaciona la información
+digital con las cosas físicas del mundo real
+
+[^shift]: _Shift_ en el original, como en cambio de paradigma (Nota de
+la traducción.)
+
+physical items through a network of sensor-instrumented products, users
 and locations. Enabled by the spread of sophisticated 4G Wireless
 networks, data storage-ondemand services via the ‘cloud’ from firms like
 Amazon, and, especially, by the latest internet protocol IPV6’s
 enlargement in addressability, which provides unique digital identifiers
-for a ‘truly humongous 340 billion billion billion billion’ ítem, such
+for a ‘truly humongous 340 billion billion billion billion’ items, such
+
+a través de una red de productos, usuarios y ubicaciones instrumentados
+por sensores.  Es habilitada por la difusión de redes inalámbricas 4G,
+almacenamiento de datos bajo demanda en "la nube" de empresas como
+Amazon.  Y especialmente, es habilitada por el moderno protocolo de
+Internet llamado IPv6, que aumenta la cantidad de direcciones
+disponibles proveyendo identificadores digitales únicos para una
+cantidad de cosas "verdaderamente gigantesca, en el orden de los 340
+miles de miles de miles de miles de millones".  Esta
+
   device to device communication by now probably exceed in data volume
   the person-to-person traffic of the Internet (Economist, 2012; np). As
   Benjamin Bratton (2013) observes, such addressability, combined with
@@ -761,6 +795,17 @@ for a ‘truly humongous 340 billion billion billion billion’ ítem, such
   virtually limitless capacity for the identification of not just of
   things and people, but also of their most elementary components and
   their relationships.  Thus the trajectory of both information
+
+comunicación de dispositivo a dispositivo probablemente exceda el
+volumen de datos del tráfico entre personas en Internet
+[@economist-2012].  Como observa Benjamin Bratton [-@bratton-2013], con
+tal capacidad de direccionamiento, combinada con la codificación digital
+comprimisa a niveles sub-microscópicos, habilita una capacidad
+virtualmente infinita para la identificación no solo de cosas y de
+personas, sino también de los más elementales componentes de sus
+relaciones.  Por lo tanto la trayectoria tanto de la velocidad del
+procesamiento de información
+
   processing speeds and data gathering capacities points to the
   suppression of the ‘socialist calculation problem.’ However, to speak
   of planning in such panoptic contexts is to inevitably invoke fears of
@@ -771,14 +816,15 @@ for a ‘truly humongous 340 billion billion billion billion’ ítem, such
   participatory modes, we need to look to different communist
   traditions.
 
-vendido y almacenan su información.  Los comunicaciones satelitales
-vinculan a las tiendas con el sistema central y esta a su vez con las
-computadoras de los proveedores, posibilitando el re-abastecimiento
-automático.  La adopción temprana de los códigos universales de producto
-llevaron a un "estadío más alto" requiriendo que todos los productos
-lleven etiquetas de Identificación por Radio Frecuencia (RFID) para
-permitir el seguimiento de mercancías, trabajadoras y consumidoras
-dentro y más allá de la cadena de suministro global.
+como de la capacidad de recolección de datos apunta a la supresión del
+"problema de cálculo socialista".  Sin embargo, hablar de planificación
+en contextos panopticistas significa invocar inevitablemente el miedo al
+control estatal omniciente.  Los Nuevos Socialistas provienen de un
+linaje marxista-leninista de vanguardia, con una perspectiva "jacobina"
+auto-asumida [@cockshott-cottrell-dieterich-2011].  Para empezar a
+considerar cómo la planificación cibernética podría desarrollarse en
+modos más transparentes y participativos, tenemos que enfocarnos en
+tradiciones comunistas diferentes.
 
 Communist Agents Historically, the anti-statist tendency in Marxism has
 been largely carried in a very different ‘worker council’ tradition,
