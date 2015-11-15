@@ -5,6 +5,9 @@ title: "M - C - LOL: Circuitos de valor en la economía de los lulz"
 license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
+M-C-LOL
+=======
+
 > _"M - C - LOL: Circuits of value in the Lulz economy"_[^1] por
 > Dmytri Kleiner. Traducción por fauno, correcciones por mep, midraed
 > y sísifo, enero de 2015.
