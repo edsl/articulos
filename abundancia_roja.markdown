@@ -826,7 +826,11 @@ considerar cómo la planificación cibernética podría desarrollarse en
 modos más transparentes y participativos, tenemos que enfocarnos en
 tradiciones comunistas diferentes.
 
-Communist Agents Historically, the anti-statist tendency in Marxism has
+Communist Agents
+
+## Agentes comunistas
+
+Historically, the anti-statist tendency in Marxism has
 been largely carried in a very different ‘worker council’ tradition,
 that, against the powers of party and state has insisted on the role of
 workplace assemblies as the loci of decision-making, organization and
@@ -835,6 +839,19 @@ Councils and the Economics of a Self-Managed Society,’ written in 1957
 but republished in 1972, immediately after the Soviet crushing of
 Hungary’s Workers Councils, Cornelius Castoriadis noted the frequent
 failure of this tradition to address the economic problems of a ‘totally
+
+Históricamente, la tendencia marxista anti-estatista se ha dado
+mayormente bajo la tradición de los "consejos obreros", que contra los
+poderes del Partido y del Estado han insistido que el rol de las
+asambleas en el lugar de trabajo como espacio para la toma de
+decisiones, la organización y el poder.  En el ensayo (antediluviano
+para los estándares digitales) _Los consejos obreros y la economía de la
+sociedad autogestionada_, que fue escrito en 1957 pero re-publicado en
+1972 inmediatamente después del aplastamiento soviético de los consejos
+obreros húngaros, Cornelius Castoriadis señalaba la frecuente
+incapacidad de esta tradición de abordar los problemas económicas de una
+"sociedad totalmente auto-gestionada".  La pregunta, decía, debía
+
 self-managed society.’ The question, he wrote, had to be situated
 ‘firmly in the era of the computer, of the knowledge explosion, of
 wireless and television, of input-output matrices’, abandoning
@@ -844,6 +861,18 @@ comparisons rather meaningless’ (Castoriadis, 1972: np).  Like the
 planners of Red Plenty, Castoriadis imagines an economic plan determined
 with input-output tables and optimizing equations governing overall
 resource allocation (e.g. the balance between investment and
+
+situarse "firmemente en la era de la computadora, de la explosión del
+conocimiento, de la onda de radio y la televisión, de las matrices de
+entrada-salida", abandonando "las utopías socialistas o anarquistas de
+años atrás" porque "las infraestructuras tecnológicas [...] son tan
+inconmensurablemente distintas que cualquier comparación resulta
+insignificante" [@castoriadis-1972].  Como los planificadores de
+Abundancia roja, Castoriadis imagina un plan económico determinado por
+tablas de entrada-salida y ecuaciones de optimización que gobiernen la
+distribución de recursos (por ejemplo el balance entre inversión y
+
+
 consumption), but with implementation in the hands of local councils.
 His crucial point, however, is that there should be several plans
 available for collective selection. This would be the mission of ‘the
@@ -852,6 +881,17 @@ using ‘a computer’ whose ‘memory’ would ‘store the technical
 coefficients and the initial productive capacity of each sector’
 (Castoriadis, 1972: np). This central workshop would be supported by
 others studying the regional implications of specific plans,
+
+consumo), pero cuya implementación se encuentre en manos de los consejos
+locales.  El punto más importante, sin embargo, es que debería haber
+varios planes disponibles para la elección colectiva.  Esta sería la
+misión de la "fábrica de planificación", una "empresa específica
+altamente mecanizada y automatizada" usando "una computadora" cuya
+"memoria" podría "almacenar los coeficientes técnicos y la capacidad
+productiva inicial de cada sector" [@castoriadis-1972].  Esta fábrica
+central estaría soportada por otras estudiando las implicaciones
+regionales de planes específicos,
+
 technological innovations, and algorithmic improvements. The ‘plan
 factory’ would not determine what social targets should be adopted;
 merely generate options, assess consequences, and, after a plan has been
@@ -862,6 +902,20 @@ is always more than one plan.  This early concept of cybernetic
 self-management is a precursor of a more recent envisioning of
 post-capitalism, Michael Albert and Robin Hahnel’s (1991) ‘Participatory
 Economics’ or ‘Parecon’. This too emerges from a ‘workers council’
+
+las innovaciones tecnológicas y las mejoras algorítmicas.  La "fábrica
+de planificación" no determinaría cuáles objetivos sociales deberían
+adoptarse sino que solo generaría opciones, analizaría consecuencia
+y después de que uno de sus planes haya sido democráticamente
+seleccionado, lo actualice y revise según sea necesario.  Castoriadis
+estaría de acuerdo con Raymond Williams [-@williams-1983] cuando
+observaba que no hay nada intrínsecamente autoritario sobre la
+planificación, siempre y cuando exista más de un plan.  Esta concepción
+temprana de la auto-gestión cibernética es precursora de una visión
+post-capitalista más reciente, la "economía participativa" o "parecon"
+de Michael Albert y Robin Hahnel [-@albert-hahnel-1991].  La economía
+participativa también emerge de la tradición de los consejos obreros, 
+
 tradition, though from an anarchist, rather than Marxist line of
 thought. Their work is famous for its model of ‘decentralized
 participatory planning’ (Albert, 2003: 122), alternative to both market
@@ -871,6 +925,19 @@ just worker but consumer councils, too. Resource allocation is
 determined by these organizations’ bids for different levels of
 production and consumption, which over a series of rounds of negotiation
 are progressively reconciled by Iteration Facilitation Boards. At
+
+aunque de una línea de pensamiento anarquista antes que marxista.  Su
+obra es famosa por el modelo de "planificación participativa
+decentralizada" [@albert-2003] como alternativa tanto a los mecanismos
+del mercado como a la planificación centralizada.  Los consejos son, de
+nuevo, las unidades societarias básicas para la decisión democrática,
+pero en la Parecon se incluyen los consejos de consumidoras junto con
+los de obreras.  La distribución de recursos está determinada por la
+puja entre estas organizaciones por diferentes niveles de producción
+y consumo, que luego de una serie de rondas de negociación son
+reconciliadas progresivamente por las Mesas de Facilitación de
+Iteraciones.  En
+
 successive stages of the planning process, worker and consumer councils
 are encouraged by the IFBs to revise their proposals in knowledge of
 each other’s inputs, until enough convergence is produced to put a few
@@ -879,6 +946,17 @@ controversy. One of the most frequent objections is that it exemplifies
 the problem Oscar Wilde identified when he remarked that ‘socialism is a
 good idea but it takes too many evenings’ – i.e. it seems to require
 endless meetings. Hahnel (2008: np) suggests both that increased social
+
+las etapas sucesivas del proceso de planificación, los consejos obreros
+y de consumo son alentados por las MFI a revisar sus propuestas con
+conocimiento de las posiciones mutuas, hasta que exista una convergencia
+tal que se pueden someter varios planes posibles a votación.  La parecon
+ha sido tema de considerable controversia.  Una de las objeciones más
+frecuentes es que ejemplifica el problema que Oscar Wilde identificaba
+al remarcar que "el socialismo es una buena idea pero toma demasiadas
+tardes", es decir que parece requerir reuniones infinitas.  Hahnel
+[-@hahnel-2008] sugiere que el incremento de la interactividad social 
+
 interactivity is a positive feature of Parecon, and that its complexity
 would not necessarily be greater than that of many routine requirements
 of capitalist everyday life – shopping, taxes, finances, etc. But it
@@ -891,6 +969,19 @@ measurement of labour and consumption, off-the shelf software for
 proposal preparations, and just-time-inventory systems for production
 (Albert, 2003: 133).
 
+es una característica positiva de la parecon, a la vez que su
+complejidad no debería ser necesariamente mayor que muchos de los
+requisitos rutinarios de la vida diaria bajo el capitalismo  --hacer las
+compras, pagar los impuestos, llevar finanzas, etc.  Pero pareciera que
+conducir los ciclos iterativos y multi-nivel de planificación a una
+velocidad suficiente como para lograr algo podría demandar una
+infraestructura de red muy sofisticada y un alto nivel de participación
+mediada por la tecnología, es decir bancos de datos extensivos accedidos
+por consejos y personas individuales, tarjetas electrónicas para la
+medición del trabajo y el consumo, software para la preparación de
+propuestas y sistemas de inventario justo-a-tiempo para la producción
+[@albert-2003].
+
 In fact Parecon seems to call for a digital development that postdates
 its proposal: social media. A society of participatory, informed,
 democratic and timely collective planning would require fast, varied and
@@ -900,6 +991,18 @@ established, revisions and amendments generated, and so on. It would, in
 short, demand that Facebook, Twitter, Tumblr, Flickrr and other Web 2.0
 platforms not only themselves become operations self-managed by their
 workers (including their unpaid prosumer contributors), but also become
+
+De hecho la parecon parece reclamar un desarrollo digital posterior a su
+propuesta:  los _social media_.  Una sociedad donde la planificación
+colectiva sea participativa, informada, democrática y oportuna
+requeriría plataformas comunicativas rápidas, variadas e interactivas
+donde las propuestas pudieran circular, ser respondidas breve
+o extensivamente, identificando tendencias, estableciendo reputaciones,
+generando revisiones y amendas, etc.  Demandaría de hecho que Facebook,
+Twitter, Tumblr, Flickr y otras plataformas de la web 2.0 no solo se
+conviertan en operaciones auto-gestionadas por sus trabajadoras
+(incluyendo a las prosumidoras no pagas), sino también
+
 fora for planning: Gosplan with ‘tweets’ and ‘likes’. We also have to
 think of these organs transformed in directions pioneered by experiments
 in alternative social networks, such as Diaspora, Crabgrass, Lorea,
@@ -910,6 +1013,27 @@ freed of profit incentives and centralized control and taking more
      or as platforms of ‘collective individuation’; not, perhaps social
      media as much as ‘council media’.  Yet perhaps the idea of everyone
      watching mobile screens lest they miss, not a Facebook poke, but
+
+en foros para la planificación, en _Gosplán_[^gosplan] con "tweets"
+y "likes".  Además debemos pensar en estos órganos transformados hacia
+direcciones ya experimentadas por las redes sociales alternativas como
+Diaspora, Crabgrass o Lorea y liberados del ánimo de lucro y el control
+centralizado, tomando formas "distribuidas" y "federadas"
+[@cabello-2013; @sevignani-2013].  Convirtiéndose, como proponen Hu
+y Halpin [-@hu-halpin-2013], en redes cuyo formato mismo prioricen los
+proyectos grupales sobre las identidades individuales, o como
+plataformas de "individuación colectiva".  No tanto _social media_ sino
+más bien _council media_[^council].  Aun así la idea de que todo el
+mundo se encuentre observando la pantalla de su celular a riesgo de
+perder, no ya un mensaje de Facebook, sino
+
+
+[^gosplan]: Comité Estatal de Planificación de la URSS (nota de la
+traducción.)
+
+[^council]: _Council_ significa consejo en inglés (nota de la
+traducción.
+
      voting the seventh iteration of the participatory plan, duplicates
      unattractive features of everyday life in high-tech capitalism. So
      we might speculate further, and suggest that what decentralized
@@ -918,6 +1042,17 @@ freed of profit incentives and centralized control and taking more
      complex programmed entities capable of acting ‘with a certain
      degree of autonomy… on behalf of a user (or another program)’
      (Wikipedia, 2013b: np). Such agents manifest ‘goaldirection,
+
+la votación de la enésima iteración del plan participativo duplica las
+características no atractivas de la vida diaria bajo el capitalismo de
+alta tecnología.  Entonces debemos especular más allá y sugerir que lo
+que la planificación decentralizada realmente necesita no son los
+_council media_ sino los agentes comunistas, los agentes comunistas de
+software.  Los agentes de software son entidades complejas programadas
+capaces de actuar "con un cierto grado de autonomía [...] en nombre una
+usuaria (u otro programa)" [@wikipedia-2013b].  Tales agentes
+manifiestan "orientación a objetivos, selección, priorización
+
      selection, prioritization and initiation of tasks’; they can
      activate themselves, assess and react to context, exhibit aspects
      of artificial intelligence, such as learning, and can communicate
@@ -928,6 +1063,18 @@ freed of profit incentives and centralized control and taking more
      2002: 7207). The ability of such entities to create ‘perfect
            competition’ in electronic markets makes them a favorite of
            Austrian School-influenced economists (Mirowski, 2002). As
+
+e iniciación de tareas".  Pueden activarse a sí mismas, analizar
+y reaccionar al contexto, exhibir aspectos de inteligencia artificial,
+como el aprendizaje y pueden comunicarse y coopera con otras agentes
+[@wikipedia-2013].  Comercialmente, las "agentes de puja" por software
+son capaces de superar consistentemente a agentes humanas tanto que "las
+humanas están al borde de perder su estatus como la única especie
+económica del planeta" [@kephart-2002].  La habilidad de tales entidades
+de crear una "competencia perfecta" en los mercados electrónicos las ha
+convertido en las favoritas de los economistas influenciados por la
+escuela de Austria [@mirowski-2002].  En tanto
+
            preprogrammed buyers and sellers capable of processing vast
            amounts of market data, software agents have transformed
            electronic commerce because of their ability to quickly
@@ -937,6 +1084,18 @@ freed of profit incentives and centralized control and taking more
            excel is in the financial sector, where high frequency
            trading is entirely dependent on software ‘bots’ capable of
            responding to arbitrage possibilities in milliseconds.  One
+
+compradoras y vendedoras pre-programadas capaces de procesar grandes
+cantidades de datos de mercado, las agentes de software han transformado
+el comercio electrónico por su habilidad para buscar rápidamente en
+Internet, identificar las mejores ofertas, agregar la información para
+sus usuarias o, de hecho, realizar compras autónomamente.  Sin embargo,
+el espacio en el que tales agentes son excelentes es en el sector
+financiera, donde la compraventa de alta frecuencia depende enteramente
+de "bots" de software capaces de responder a posibilidades de arbitraje
+en cuestión de milisegundos.  No podemos evitar preguntarnos qué pasaría
+si 
+
            can’t help but ask, however, what if software agents could
            manifest a different politics? Noting that Multi-Agent System
            models can be thought of as a means to answer problems of
@@ -947,6 +1106,17 @@ freed of profit incentives and centralized control and taking more
            ‘the goals and constraints faced by agents can be
            pre-specified by the designer of the model’ (Greenwood, 2007:
            9). It is possible to design agents with macro-level
+
+las agentes de software pudieran manifestar una política diferente.
+Tomando en cuenta que los modelos multi-agente pueden pensarse como un
+medio para responder problemas de distribución de recursos, Don
+Greenwood [-@greenwood-2007] sugiere que podrían orientarse a resolver
+el "problema de cálculo socialista".  En tanto herramientas de
+planificación, los sistemas multi-agente tienen la ventaja sobre los
+mercados reales de que "los objetivos y restricciones están
+pre-especificados por quien diseña del modelo" [@greenwood-2007].  Es
+posible diseñar agentes con objetivos macro
+
            objectives that involve more than just the maximization of
            individual self-interest; two ‘welfare’ principles that
            economists have experimented with incorporating are equality
@@ -956,6 +1126,15 @@ freed of profit incentives and centralized control and taking more
            media, but partially delegated to a series of communist
            software agents, who absorb the attentional demands of the
            process, running at the pace of high-speed trading
+
+que involucren más que la sola maximización del interés individual.  La
+igualdad y la sostenibilidad ambiental son dos principios "de bienestar"
+que las economistas han experimentado con incorporar.  Tal vez debamos
+concebir los ciclos de decisión de la planificación democrática como no
+solo sujetos a debate y deliberación en los _social media_ sino también
+parcialmente delegados a una serie de agentes de software comunistas,
+que absorban las demandas atencionales del proceso, corriendo al paso de
+
            algorithms, scuttling through data rich networks, making
            recommendations to human participants (‘if you liked the
            geo-engineering plus nanotechnology but no-nukes five year
@@ -966,6 +1145,17 @@ freed of profit incentives and centralized control and taking more
            lower quintile… and no rise in labour hours necessary for a
            cup of coffee’).  In the age of autonomous machines, this may
            be what a workers’ council would look like.
+
+los algoritmos de alta compraventa, barrenando a través de redes ricas
+en datos, haciendo recomendaciones a las participantes humanas ("si te
+gustó la geo-ingeniería más la nano-tecnología pero el plan quinquenal
+no nuclear, también te podría gustar..."), comunicándose y cooperando
+entre sí en diferentes niveles, pre-programadas para umbrales
+y configuraciones de decisión específicas ("mantener las emisiones de
+CO2 por debajo de las 300 partes por millón, incrementar los ingresos en
+el quintil inferior... y no aumentar la cantidad de horas de trabajo
+necesarias para que podamos tomar café").  En la era de las máquinas
+autónomas, así podrían verse los consejos obreros.
 
 Automata, Copies and Replicators Yet, is planning necessary at all?
 Centralized, neo-socialist planning schemes and decentralized, networked
