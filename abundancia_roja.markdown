@@ -1157,7 +1157,11 @@ el quintil inferior... y no aumentar la cantidad de horas de trabajo
 necesarias para que podamos tomar café").  En la era de las máquinas
 autónomas, así podrían verse los consejos obreros.
 
-Automata, Copies and Replicators Yet, is planning necessary at all?
+Automata, Copies and Replicators
+
+# Autómatas, copias y replicadoras
+
+Yet, is planning necessary at all?
 Centralized, neo-socialist planning schemes and decentralized, networked
 councilist versions both see computers as calculative instruments, a
 means to measure, particularly to measure work: their aim is to abolish
@@ -1178,6 +1182,32 @@ adjudicate what level of needs satisfaction should be considered
 ‘enough’, or what combination of growth and redistribution is adequate
 to attain it: this surely would be the issue facing the collective
 planners of the future. It will, however, identify three cybernetic
+
+Aun así, ¿es necesaria la planificación?  Los esquemas de planificación
+neo-socialistas centralizados tanto como sus contrapartes consejistas
+decentralizadas toman las computadoras como instrumentos de cálculo y de
+medición, particularmente en la medición del trabajo.  Su objetivo es
+abolir la explotación capitalista retornándole a las trabajadoras el
+valor completo de su tiempo de trabajo.  Sin embargo existe otra línea
+del futurismo comunista que entiende a las computadoras no tanto como
+instrumentos de planificación sino como máquinas de abundancia.
+Podríamos decir que existen dos formas de ganarle a la catalaxia
+capitalista de Hayek.  La primera es superarla en capacidad de cálculo.
+La segunda es demolerla: la escasez es reemplazada por plenitud,
+terminando con la necesidad de los precios o la planificación.  Para las
+marxistas, la "abundancia" cierra la transición desde la fase "baja" del
+comunismo, que todavía debe resolver los problemas de la escasez, a una
+fase más alta bajo el principio "de cada quien según su capacidad,
+a cada quien según su necesidad".  Una metáfora popular para las
+condiciones tecnológicas necesarias para este último momento es el
+"replicador" de _Star Trek_, que automáticamente y con energía infinita
+provee a las necesidades humanas [@fraise-2011].  Este ensayo no intenta
+adjudicar qué nivel de satisfacción de necesidades debería ser
+considerado "suficiente" o qué combinación de crecimiento
+y redistribución es adecuada para alcanzarlo.  Este seguramente será el
+problema de las planificadoras colectivas del futuro.  Sin embargo,
+identificamos tres tendencias cibernéticas
+
 tendencies that point towards the ‘higher’ phase of communism:
 automation, copying and peer-to-peer production.  Automation has been
 the most central to the communist imagination. Its classic statement is
@@ -1203,142 +1233,182 @@ for waged labour, blow up the entire system. The founder of cybernetics,
   train, that are now replacing workers not just in manufacturing but in
   distribution, circulation and service processes such as warehousing,
   call centres and even elder care (Markoff, 2012: np). Erik
-  Brynjolfsson and Andrew McAfee (2011: 9), economists at the
-  Massachusetts Institute of Technology, have sounded an alarm that the
-  ‘pace and scale of this encroachment into human skills’ is now
-  reaching a new level with ‘profound economic implications.’ These
-  concerns are being echoed by mainstream economists (Krugman, 2012).
-  Within capital, automation threatens workers with unemployment or
-  production speed-up. If, however, there were no dominant structural
-  tendency for increases in productivity to lead to unemployment or
-  greater output without reduction in labour time, automation could
-  systematically yield to less time spent in formal workplaces. In a
-  communist framework that protected access to the use value of goods
-  and services, robotization creates the prospect of a passage from the
-  realm of necessity to freedom. It reintroduces the goal – closed down
-  both within the Stakhanovite Soviet experiment and in the wage-raising
-  trades unionism of the West – of liberating time from work, with all
-  this allows both in terms of human selfdevelopment and communal
-  engagement.  Juliet Schor’s (1991) estimate, that if American workers
-  had taken gains won from productivity increases since the 1950s, not
-  in wages but in time off, they would by 2000 have been working a
-  twenty hour week. It indicates the scale of possible change. Proposals
-  for a ‘basic income’ have recently figured in left politics. There are
-    certainly criticisms to be made of these insofar as they are
-    advanced as a reformist strategy, with the risk of becoming merely a
-    rationalized welfare provision supporting neoliberal precarity. But
-    it would be hard to envision a meaningful communist future that did
-    not institute such measures to acknowledge the reductions in
-    socially necessary labour time made possible by advances in science
-    and technology, destroying Hayek’s calculation problem by
-    progressively subtracting from it the capitalist ur-commodity,
-    labour power.  If robots undermine the centrality of the wage
-    relation, the Internet presents a parallel possibility, priceless
-    goods. Mainstream economists have long recognized the anomalous
-    features of nonrivalrous informational goods, which can be endlessly
-    copied at almost zero cost, all but instantaneously circulated, and
-    shared without detracting from their use value. As intellectual and
-    cultural production have become increasingly digitized, these
-    tendencies to make the Internet ‘a place of plenty’ (Siefkes, 2012:
-    np) have become increasingly problematic for the price system.
-    Capital has struggled to maintain the commodity form in cyberspace,
-    either by attempts to enforce intellectual property, or by treating
-    informational flows as advertising accelerators for other
-    commodities. Nonetheless, the drift to software decommodification
-    has proven ineradicable, and been intensified by the capacities to
-    conduct this circulation outside of centrally controlled servers,
-    through peer-to-peer networks. Piracy, which now accounts for the
-    majority of digital music, games, film and other software
-    distributed in Asia, Africa, Latin America and Eastern Europe
-    (Karaganis et al., 2011) is the clandestine and criminalized
-    manifestation of this tendency; and the free and open source
-    software movement its organized expression.  The latter has been the
-    focus of interest on the libertarian left since the inauguration of
-    the Free Software Foundation (by Richard Stallman in 1984), which
-    released code under a General Public License (GPL), guaranteeing
-    users the freedom to repurpose, study, customize, redistribute, and
-    change it. As Jacob Rigi (2012) observes, the so-called ‘copyleft’
-    clause in the GPL, which requires that any program using GPL code is
-    itself issued under GPL, is a ‘dialectical negation’ of copyright,
-    because it simultaneously preserves and abolishes property in
-    software, formulating ‘an allinclusive global property right’. This
-    development was elaborated by Linus Torvalds’ organization in the
-    early 1990s of the online voluntary collective cooperative method
-    for open-source software production. As Rigi (2012) says, the
-      combination of GPL license and Linux-style open source collective
-      programming ‘represents the gist of the P2P [peer-to-peer] mode of
-      production’; he sees in this an instantiation of Marx’s ‘higher
-      communism’, acknowledging the collective nature of scientific
-      knowledge, and rejecting any scarcitybased demand for ‘equivalence
-      between contribution to social production and share of social
-      product’.  Open source software has attained considerable
-      practical success (Weber, 2004), while P2P production has
-      developed in various directions, with its political inflection
-      ranging from libertarian capitalism, to liberal views of the new
-      ‘wealth of networks’ (Benkler, 2006) as supplementary to and
-      compatible with markets, to specifically communist versions, such
-      as the Oekonux project (Meretz,
+
+que apuntan hacia esta fase "alta" del comunismo: la automatización, la
+copia y la producción de pares.  La automatización ha sido la más
+central para la imaginación comunista.  Su postulado clásico es el ahora
+famoso "Fragmento sobre las máquinas" de los Grundrisse, donde al
+observar la fábrica industrial de su tiempo, Marx [-@marx-1973, pp.
+690-711] predice que la tendencia del capital hacia la mecanización de
+la producción y la eliminación consecuente del trabajo asalariado hará
+explotar el sistema.  El fundador de la cibernética, Norbert Weiner
+[-@weiner-1950] vio que su mayor consecuencia sería la eliminación
+computarizada del trabajo.  Esta tesis digital sobre el "fin del
+trabajo" ha sido desarrollada muy francamente por pensadoras como Andre
+Gorz [-@gorz-1985] y Jeremy Rifkin [-@rifkin-1995].  Sin embargo,
+a fines del siglo XX el capital había notoriamente evitado este
+escenario.  Lejos de automatizar completamente el trabajo, había salido
+a buscar tanto las reservas globales de trabajo barato como había
+seguido una "marcha de los sectores" que impulsó un frente móvil de
+comodificación del trabajo a través de la agricultura, la industria
+y los servicios.[^?]  Desde el 2000, no obstante, el debate sobre la
+automatización se ha renovado.  La reducción continua de los costos
+computacionales, las mejoras en las tecnologías visuales y táctiles, las
+inversiones militares de las guerras post-11S en drones y vehículos
+autónomos y las demandas salariales de las trabajadoras en China, India
+y otras fuentes de trabajo barato ha disparado una "nueva ola de
+robots... mucho más adeptos que aquellos utilizados comunmente por las
+automotrices y otras fábricas pesadas", más flexibles y fáciles de
+entrenar, reemplazando trabajadoras no solo en la manufactura sino
+también en los procesos de distribución, circulación y servicios, como
+el almacenamiento, los _call-centers_ e incluso el cuidado de las
+ancianas [@markoff-2012].  Erik
+
+
+[^?]: No se entiende un carajo esto.
+
+Brynjolfsson and Andrew McAfee (2011: 9), economists at the
+Massachusetts Institute of Technology, have sounded an alarm that the
+‘pace and scale of this encroachment into human skills’ is now
+reaching a new level with ‘profound economic implications.’ These
+concerns are being echoed by mainstream economists (Krugman, 2012).
+Within capital, automation threatens workers with unemployment or
+production speed-up. If, however, there were no dominant structural
+tendency for increases in productivity to lead to unemployment or
+greater output without reduction in labour time, automation could
+systematically yield to less time spent in formal workplaces. In
+a communist framework that protected access to the use value of goods
+and services, robotization creates the prospect of a passage from the
+realm of necessity to freedom. It reintroduces the goal – closed down
+both within the Stakhanovite Soviet experiment and in the wage-raising
+trades unionism of the West – of liberating time from work, with all
+this allows both in terms of human selfdevelopment and communal
+engagement.  Juliet Schor’s (1991) estimate, that if American workers
+had taken gains won from productivity increases since the 1950s, not
+in wages but in time off, they would by 2000 have been working
+a twenty hour week. It indicates the scale of possible change.
+
+
+Brynjolfsson y Andrew McAfee [-@brynjolfsson-mcafee], economistas del
+MIT, han dado la alarma sobre "el ritmo y la escala de esta usurpación
+de las capacidades humanas" está alcanzando un nuevo nivel con
+"profundas implicaciones económicas".  Estas preocupaciones se están
+haciendo eco entre los economistas _mainstream_ [@klugman-2012].  
+
+Proposals for a ‘basic income’ have recently figured in left politics.
+There are certainly criticisms to be made of these insofar as they are
+advanced as a reformist strategy, with the risk of becoming merely
+a rationalized welfare provision supporting neoliberal precarity. But
+it would be hard to envision a meaningful communist future that did
+not institute such measures to acknowledge the reductions in socially
+necessary labour time made possible by advances in science and
+technology, destroying Hayek’s calculation problem by progressively
+subtracting from it the capitalist ur-commodity, labour power.  If
+robots undermine the centrality of the wage relation, the Internet
+presents a parallel possibility, priceless goods. Mainstream
+economists have long recognized the anomalous features of nonrivalrous
+informational goods, which can be endlessly copied at almost zero
+cost, all but instantaneously circulated, and shared without
+detracting from their use value. As intellectual and cultural
+production have become increasingly digitized, these tendencies to
+make the Internet ‘a place of plenty’ (Siefkes, 2012: np) have become
+increasingly problematic for the price system. Capital has struggled
+to maintain the commodity form in cyberspace, either by attempts to
+enforce intellectual property, or by treating informational flows as
+advertising accelerators for other commodities. Nonetheless, the drift
+to software decommodification has proven ineradicable, and been
+intensified by the capacities to conduct this circulation outside of
+centrally controlled servers, through peer-to-peer networks. Piracy,
+which now accounts for the majority of digital music, games, film and
+other software distributed in Asia, Africa, Latin America and Eastern
+Europe (Karaganis et al., 2011) is the clandestine and criminalized
+manifestation of this tendency; and the free and open source software
+movement its organized expression.  The latter has been the focus of
+interest on the libertarian left since the inauguration of the Free
+Software Foundation (by Richard Stallman in 1984), which released code
+under a General Public License (GPL), guaranteeing users the freedom
+to repurpose, study, customize, redistribute, and change it. As Jacob
+Rigi (2012) observes, the so-called ‘copyleft’ clause in the GPL,
+which requires that any program using GPL code is itself issued under
+GPL, is a ‘dialectical negation’ of copyright, because it
+simultaneously preserves and abolishes property in software,
+formulating ‘an allinclusive global property right’. This development
+was elaborated by Linus Torvalds’ organization in the early 1990s of
+the online voluntary collective cooperative method for open-source
+software production. As Rigi (2012) says, the combination of GPL
+license and Linux-style open source collective programming ‘represents
+the gist of the P2P [peer-to-peer] mode of production’; he sees in
+this an instantiation of Marx’s ‘higher communism’, acknowledging the
+collective nature of scientific knowledge, and rejecting any
+scarcitybased demand for ‘equivalence between contribution to social
+production and share of social product’.  Open source software has
+attained considerable practical success (Weber, 2004), while P2P
+production has developed in various directions, with its political
+inflection ranging from libertarian capitalism, to liberal views of
+the new ‘wealth of networks’ (Benkler, 2006) as supplementary to and
+compatible with markets, to specifically communist versions, such as
+the Oekonux project (Meretz,
 2012), with the ecumenical Foundation for P2P Alternatives (Bauwens,
 2012) working across the entire spectrum.  However, even if one regards
-      open source and P2P as a germinal of a new mode of production,
-      difficulties in cultivating this seed have become apparent. One
-      such difficulty is the relative ease with which capital has
-      incorporated this seed as a contribution to downstream
-      commodification processes: indeed, the whole tendency of Web 2.0
-      could be said to be the containment of ‘new’ P2P production and
-      circulation methods firmly within the shell of capitalist ‘old’
-      commodity forms. The other issue has been what Graham Seaman
-      (2002) terms the ‘washing machine problem’ – the gulf between
-      virtual and material production, cornucopian software and
-      industrial production, which seems to restrict P2P practices,
-      however progressive, to a small subset of total economic activity.
-      Over the last decade, however, this gap has been narrowed by the
-      rapid development of forms of computer controlled microfabrication
-      devices: additive 3D printing is the most famous, but there are a
-      variety of others, including subtractive micro-mills and other
-      miniaturized and digitized engineering devices that put industrial
-      capacities within the grasp of ‘hack labs’, households and small
-      communities. These have provided the basis for an emerging ‘maker’
-      movement, which links these digital manufacturing units to the
-      networked circulation of design, suggesting to some that the ‘P2P
-      mode of production can be extended to most branches of material
-      production’ (Rigi, 2012). These technologies are also associated
-      with the proliferation of robots and small-scale automata; indeed,
-      the holy grail of the ‘maker’ movement is the self-replicating
-      replicator, the perfect von Neumann machine. Extrapolation from
-      these tendencies places the ‘fabbers’ and ‘replicators’ of sci-fi
-      imagination much closer to realization than seemed possible even
-      quite recently.  Even the most market-oriented of ‘makers’ don’t
-      hesitate to point out that such developments appear to return the
-      means of production back to popular hands (Doctorow, 2009;
-      Anderson, 2012). But as the example of open source suggests, there
-      is no intrinsic communizing logic in the maker movement, which
-      could as easily result in a proliferation of
-      micro-entrepreneurship as in a micro-industrial commons. In his
-      critique of liberal P2P enthusiasts, Tony Smith observes that full
-      development of commons-based peer production is ‘incompatible with
-      the property and production relations of capital’ (2012: 178); as
-      long as these relations persist those involved in volunteer peer
-      production will continue to be explicated in the wage work on
-      which they depend, their creations will be appropriated by capital
-      as ‘free gifts’, and the wider development of such projects
-      starved of resources.  However, in a world where investments were
-      determined without systemically favouring the commodification of
-      knowledge, and without the possibility of combining common goods
-      with proprietary knowledge, the ‘immense emancipatory promise’ of
-      peer-to-peer production could be fulfilled (Smith, 2012: 179). As
-      Smith remarks, capital contains within itself a tendency to
-      develop technologies ‘that allow certain types of use-values to be
-      distributed in unlimited numbers to individuals at marginal costs
-      approaching zero’ (2006, 341): ‘In any form of socialism worthy of
-      the name, the costs of the infrastructure and social labour
-      required to produce products such as these would be socialized and
-      the products would be directly distributed as free public goods to
-      any and all who wanted them’. Although Smith is sceptical that
-      this tendency could, ‘in the foreseeable future’ become prevalent
-      throughout the economy, he concedes that if it did, the Soviet
-      experience, ‘plagued by scarcity issues’, would be ‘completely
-      irrelevant to the socialist project’ (2006: 241-2).
+open source and P2P as a germinal of a new mode of production,
+difficulties in cultivating this seed have become apparent. One
+such difficulty is the relative ease with which capital has
+incorporated this seed as a contribution to downstream
+commodification processes: indeed, the whole tendency of Web 2.0
+could be said to be the containment of ‘new’ P2P production and
+circulation methods firmly within the shell of capitalist ‘old’
+commodity forms. The other issue has been what Graham Seaman
+(2002) terms the ‘washing machine problem’ – the gulf between
+virtual and material production, cornucopian software and
+industrial production, which seems to restrict P2P practices,
+however progressive, to a small subset of total economic activity.
+Over the last decade, however, this gap has been narrowed by the
+rapid development of forms of computer controlled microfabrication
+devices: additive 3D printing is the most famous, but there are a
+variety of others, including subtractive micro-mills and other
+miniaturized and digitized engineering devices that put industrial
+capacities within the grasp of ‘hack labs’, households and small
+communities. These have provided the basis for an emerging ‘maker’
+movement, which links these digital manufacturing units to the
+networked circulation of design, suggesting to some that the ‘P2P
+mode of production can be extended to most branches of material
+production’ (Rigi, 2012). These technologies are also associated
+with the proliferation of robots and small-scale automata; indeed,
+the holy grail of the ‘maker’ movement is the self-replicating
+replicator, the perfect von Neumann machine. Extrapolation from
+these tendencies places the ‘fabbers’ and ‘replicators’ of sci-fi
+imagination much closer to realization than seemed possible even
+quite recently.  Even the most market-oriented of ‘makers’ don’t
+hesitate to point out that such developments appear to return the
+means of production back to popular hands (Doctorow, 2009;
+Anderson, 2012). But as the example of open source suggests, there
+is no intrinsic communizing logic in the maker movement, which
+could as easily result in a proliferation of
+micro-entrepreneurship as in a micro-industrial commons. In his
+critique of liberal P2P enthusiasts, Tony Smith observes that full
+development of commons-based peer production is ‘incompatible with
+the property and production relations of capital’ (2012: 178); as
+long as these relations persist those involved in volunteer peer
+production will continue to be explicated in the wage work on
+which they depend, their creations will be appropriated by capital
+as ‘free gifts’, and the wider development of such projects
+starved of resources.  However, in a world where investments were
+determined without systemically favouring the commodification of
+knowledge, and without the possibility of combining common goods
+with proprietary knowledge, the ‘immense emancipatory promise’ of
+peer-to-peer production could be fulfilled (Smith, 2012: 179). As
+Smith remarks, capital contains within itself a tendency to
+develop technologies ‘that allow certain types of use-values to be
+distributed in unlimited numbers to individuals at marginal costs
+approaching zero’ (2006, 341): ‘In any form of socialism worthy of
+the name, the costs of the infrastructure and social labour
+required to produce products such as these would be socialized and
+the products would be directly distributed as free public goods to
+any and all who wanted them’. Although Smith is sceptical that
+this tendency could, ‘in the foreseeable future’ become prevalent
+throughout the economy, he concedes that if it did, the Soviet
+experience, ‘plagued by scarcity issues’, would be ‘completely
+irrelevant to the socialist project’ (2006: 241-2).
 
 Anthropocene Knowledge Infrastructures An abundant communist society of
 high automation, free software, and in-home replicators might, however,
