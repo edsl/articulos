@@ -1257,7 +1257,7 @@ computacionales, las mejoras en las tecnologías visuales y táctiles, las
 inversiones militares de las guerras post-11S en drones y vehículos
 autónomos y las demandas salariales de las trabajadoras en China, India
 y otras fuentes de trabajo barato ha disparado una "nueva ola de
-robots... mucho más adeptos que aquellos utilizados comunmente por las
+robots... mucho más adeptas que aquellas utilizadas comunmente por las
 automotrices y otras fábricas pesadas", más flexibles y fáciles de
 entrenar, reemplazando trabajadoras no solo en la manufactura sino
 también en los procesos de distribución, circulación y servicios, como
@@ -1293,7 +1293,23 @@ Brynjolfsson y Andrew McAfee [-@brynjolfsson-mcafee], economistas del
 MIT, han dado la alarma sobre "el ritmo y la escala de esta usurpación
 de las capacidades humanas" está alcanzando un nuevo nivel con
 "profundas implicaciones económicas".  Estas preocupaciones se están
-haciendo eco entre los economistas _mainstream_ [@klugman-2012].  
+haciendo eco entre los economistas _mainstream_ [@klugman-2012].  Dentro
+del capital, la automatización amenaza a las trabajadoras con desempleo
+y aceleración de la producción.  Si, sin embargo, no hubiese una
+tendencia estructural dominante hacia el incremento en la productividad
+que lleve al desempleo o no se reduzca en el tiempo de trabajo, la
+automatización podría cada vez más el tiempo requerido por los espacios
+de trabajo.  En un marco comunista que proteja el acceso al valor de uso
+de bienes y servicios, la robotización crea el prospecto del salto del
+reino de la necesidad al de la libertad.  Reintroduce el objetivo,
+bloqueado tanto por el experimento soviético stajanovita y por el
+gremialismo occidental abocado a la lucha salarial, de liberar el tiempo
+del trabajo, con todo lo que esto incluye en términos de auto-desarrollo
+humano y compromiso comunal.  Juliet Schor [-@schor-1991] estima que si
+las trabajadoras estadounidenses hubieran utilizado sus victorias sobre
+los incrementos en la producción en tiempo libre en lugar de salarios
+más altos, para los 2000 hubieran tenido una semana laboral de 20 horas.
+Esto indica la escala del cambio posible.
 
 Proposals for a ‘basic income’ have recently figured in left politics.
 There are certainly criticisms to be made of these insofar as they are
@@ -1316,6 +1332,32 @@ increasingly problematic for the price system. Capital has struggled
 to maintain the commodity form in cyberspace, either by attempts to
 enforce intellectual property, or by treating informational flows as
 advertising accelerators for other commodities. Nonetheless, the drift
+
+La "renta básica" ha figurado entre las últimas propuestas de la
+izquierda.  Ciertamente hay críticas para hacer a esto ya que son
+propuestas como estrategias reformistas, con el riesgo de convertirse en
+un mero servicio social racionalizado para apoyar la precariedad
+neoliberal.  Pero sería difícil imaginar un futuro comunista pleno que
+no instituya medidas similares para reconocer las reducciones en el
+tiempo socialmente necesario, hechas posible por los avances en la
+ciencia y la tecnología y que destruyen el problema de cálculo de Hayek
+al sustraer progresivamente la mercancía original capitalista que es la
+fuerza de trabajo.  Mientras las robots socavan la centralidad de la
+relación asalariada, la Internet presenta una posibilidad paralela que
+son los bienes sin precio.  Los economistas _mainstream_ han reconocido
+desde hace tiempo las características anómalas de los bienes
+informacionales no rivales, que pueden ser copiados infinitamente con
+costo nulo, circulados instantáneamente y compartidos sin detrimento de
+su valor de uso.  Mientras más se digitalizan las producciones
+intelectuales y culturales, las tendencias que convierten la Internet
+"un espacio de abundancia" [@siefkes-2012] se han vuelto cada vez más
+problemáticas para el sistema de precios.  El capital ha luchado por
+mantener la forma mercancía en el ciberespacio, tanto en sus intentos
+por imponer la propiedad intelectual, como por tomar los flujos
+informacionales como aceleradores publicitarios para otras mercancías.
+Sin embargo, la corriente
+
+
 to software decommodification has proven ineradicable, and been
 intensified by the capacities to conduct this circulation outside of
 centrally controlled servers, through peer-to-peer networks. Piracy,
@@ -1332,6 +1374,29 @@ Rigi (2012) observes, the so-called ‘copyleft’ clause in the GPL,
 which requires that any program using GPL code is itself issued under
 GPL, is a ‘dialectical negation’ of copyright, because it
 simultaneously preserves and abolishes property in software,
+
+hacia la _decomodificación_[^??] ha probado ser inerradicable e incluso
+se ha intensificado por la capacidad de conducir su circulación por
+fuera de servidores centralmente controlados, a través de redes de
+pares.  La piratería, que abarca la mayoría de la música, juegos,
+películas y software digitales distribuidos en Asia, África, América
+Latina y Europa del Este [@karaganis-2011] es la manifestación
+clandestina y criminalizada de esta tendencia.  El movimiento del
+Software Libre es su expresión organizada.  Este último ha sido el foco
+de la izquierda libertaria desde la inauguración de la _Free Software
+Foundation_ por Richard Stallman en 1984, que publica código bajo la
+_General Public License_ (GPL) garantizando a las usuarias la libertad
+de reutilizarlo, estudiarlo, modificarlo, redistribuirlo y cambiarlo.
+Como observa Jacob Rigi [-@rigi-2012] la así llamada "cláusula
+_copyleft_" de la GPL, que requiere que cualquier programa que use
+código GPL sea también GPL, es una "negación dialéctica" del
+_copyright_, porque al mismo tiempo que preserva la propiedad sobre el
+software la está aboliendo,
+
+
+[^??]: no se como traducirlo, no seria desmercantilización
+
+
 formulating ‘an allinclusive global property right’. This development
 was elaborated by Linus Torvalds’ organization in the early 1990s of
 the online voluntary collective cooperative method for open-source
@@ -1352,6 +1417,29 @@ the Oekonux project (Meretz,
 2012) working across the entire spectrum.  However, even if one regards
 open source and P2P as a germinal of a new mode of production,
 difficulties in cultivating this seed have become apparent. One
+
+formulando "un derecho de propiedad global que incluye a todas".  Este
+desarrollo fue elaborado por la organización que hace Linus Torvalds a
+principios de los '90 como un método en línea, voluntario, colectivo y
+cooperativo para la producción de software libre.  Como dice Rigi
+[-@rigi-2012], la combinación de la licencia GPL con la programación
+colectiva al estilo de Linux "representa la base del modo de producción
+de pares".  Rigi ve en esto una instanciación del "alto comunismo" de
+Marx que reconoce la naturaleza colectiva del conocimiento científico y
+rechazando cualquier demanda basada en la escasez por la "equivalencia
+entre la contribución a la producción social y la participación en el
+producto social".  El Software Libre ha alcanzado un éxito práctico
+considerable [@weber-2004] mientras que la producción de pares se ha
+desarrollo en varias direcciones, con posiciones políticas que van desde
+el libertarianismo capitalista a posturas liberales sobre la nueva
+"riqueza de las redes" [@benkler-2006] como suplementarias a y
+compatibles con los mercados.  Pero también hay posturas específicamente
+comunistas como las del proyecto _Oekonux_ [@meretz-2012].  Incluso la
+ecuménica _Foundation for P2P Alternatives_ [@bauwens-2012] abarca todo
+el espectro político.  Sin embargo, aun cuando se considere al software
+libre y la producción de pares como un modo de producción germinal, las
+dificultades para cultivar esta semilla se han vuelto aparentes.  Una
+
 such difficulty is the relative ease with which capital has
 incorporated this seed as a contribution to downstream
 commodification processes: indeed, the whole tendency of Web 2.0
@@ -1367,6 +1455,24 @@ rapid development of forms of computer controlled microfabrication
 devices: additive 3D printing is the most famous, but there are a
 variety of others, including subtractive micro-mills and other
 miniaturized and digitized engineering devices that put industrial
+
+de estas dificultades es la facilidad relativa con la que el capital ha
+incorporado esta semilla como una contribución a los procesos de de
+formación de mercancía posteriores.  En efecto, puede decirse que la Web
+2.0 ha actuado como contenedora de la "nueva" producción de pares y sus
+métodos de circulación, manteniéndolos dentro de la cáscara de las
+"viejas" formas mercancía capitalistas.  El otro problema ha sido lo que
+Graham Seaman [-@seaman-2002] denomina "el problema del lavarropas", es
+decir la distancia entre la producción virtual y la material, el
+software cornucópico y la producción industrial, que parece restringir
+las prácticas de pares, aun progresivas, a un pequeño subconjunto de la
+actividad económica total.  Durante la última década, no obstante, esta
+brecha se ha reducido por el rápido desarrollo de formas de
+micro-fabricación controlada por computadora, de las que la impresión
+tridimensional aditiva es la más famosa.  Pero existen otras, incluyendo
+las micro-fresadoras sustractivas y otros dispositivos de ingeniería
+miniaturizados y digitalizados que ponen la capacidad industrial
+
 capacities within the grasp of ‘hack labs’, households and small
 communities. These have provided the basis for an emerging ‘maker’
 movement, which links these digital manufacturing units to the
@@ -1384,6 +1490,25 @@ means of production back to popular hands (Doctorow, 2009;
 Anderson, 2012). But as the example of open source suggests, there
 is no intrinsic communizing logic in the maker movement, which
 could as easily result in a proliferation of
+
+dentro del alcance de "hacklabs", hogares y comunidades pequeñas.  Esto
+ha provisto las bases para la emergencia de un movimiento _maker_ que
+vincula estas unidades de manufactura digital con la circulación en red
+del diseño, sugiriendo a algunas que "el modo de producción de pares
+puede extenderse a la mayor parte de las ramas de la producción
+material" [@rigi-2012].  Estas tecnologías también están asociadas a la
+proliferación de robots y autómatas de pequeña escala.  De hecho el
+cáliz sagrado del movimiento _maker_ es la replicadora auto-replicante,
+la máquina de von Neumann perfecta.  La extrapolación de estas
+tendencias pone a las "fabbers" y "replicadoras" de la imaginación de la
+ciencia ficción mucho más cerca de realizarse de lo que hasta ahora
+parecía posible.  Hasta las _makers_ más orientadas al mercado no dejan
+de reconocer que estos desarrollos parecen retornar los medios de
+producción a las manos populares [@doctorow-2009; @anderson-2012].  Pero
+como sugiere el ejemplo del Software Libre, no existe una lógica
+comunizante intrínseca al movimiento _maker_, lo que podría muy
+fácilmente resultar tanto en una proliferación 
+
 micro-entrepreneurship as in a micro-industrial commons. In his
 critique of liberal P2P enthusiasts, Tony Smith observes that full
 development of commons-based peer production is ‘incompatible with
@@ -1410,6 +1535,34 @@ throughout the economy, he concedes that if it did, the Soviet
 experience, ‘plagued by scarcity issues’, would be ‘completely
 irrelevant to the socialist project’ (2006: 241-2).
 
+de micro-emprendorismo como en un común micro-industrial.  En su crítica
+a las entusiastas liberales de la producción de pares, Tony Smith
+observa que el desarrollo pleno de la producción de pares basada en los
+comunes es "incompatible con las relaciones capitalistas de propiedad y
+producción" [@smith-2012].  Mientras estas relaciones persistan aquellas
+involucradas en la producción de pares voluntaria continuarán siendo
+explicadas en los términos de la relación salarial de la que dependen.
+Sus creaciones continuarán siendo apropiadas por el capital como
+"regalos libres" y el desarrollo más amplio de estos proyectos
+continuará estando famélico de recursos.  Sin embargo, en un mundo donde
+las inversiones se determinen sin favorecer sistemáticamente la
+formación de mercancía del conocimiento y sin la posibilidad de combinar
+los bienes comunes con el conocimiento privativo, la "inmensa promesa
+emancipatoria" de la producción de pares podría realizarse
+[@smith-2012].  Como señala Smith, el capital contiene dentro de sí una
+tendencia a desarrollar tecnologías "que permiten a ciertos tipos de
+valores de uso ser distribuidos en cantidades ilimitadas a individuos
+con costos marginales cercanos a cero" [@smith-2006]. "En cualquier forma de socialismo digno de su nombre, los costos de la
+infraestructura y el trabajo socialmente necesario para producir
+productos como estos será socializado y los productos serán
+distribuidos directamente como bienes públicos gratuitos para cualquiera
+que los quiera." Aunque Smith es escéptico sobre que esta tendencia
+prevalezca "en el futuro cercano" a través de toda la economía, concede
+que si así lo hiciera, la experiencia soviética "plagada por las
+dificultades de la escasez" se volvería "completamente irrelevante para
+el proyecto socialista" [@smith-2006].
+
+ 
 Anthropocene Knowledge Infrastructures An abundant communist society of
 high automation, free software, and in-home replicators might, however,
 as Fraise (2011) suggests, need planning more than ever – not to
