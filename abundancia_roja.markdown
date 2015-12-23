@@ -1563,7 +1563,11 @@ dificultades de la escasez" se volvería "completamente irrelevante para
 el proyecto socialista" [@smith-2006].
 
  
-Anthropocene Knowledge Infrastructures An abundant communist society of
+Anthropocene Knowledge Infrastructures
+
+# Infraestructuras de conocimiento en el Antropoceno
+
+An abundant communist society of
 high automation, free software, and in-home replicators might, however,
 as Fraise (2011) suggests, need planning more than ever – not to
 overcome scarcity but to address the problems of plenty, which
@@ -1582,6 +1586,28 @@ economic systems, including the discontinuation of certain industries,
 such as industrial fishing and destructive logging, the reshaping of
 transportation methods, ‘a revolution in the energy-system’ and the
 drive for a ‘solar communism’ (Lowy, 2009: np).  Such transformations
+
+Sin embargo Fraise [-@fraise-2011] sugiere que una sociedad comunista
+de la abundancia con alta automatización, software libre y replicadoras
+domésticas necesitará más planificación que nunca antes.  No para
+superar la escasez sino para resolver los problemas de la abundancia,
+que hoy en día amenazan las condiciones de la vida misma.  El cambio
+climático global y un conjunto de problemas ecológicos intervinculados
+son un desafío para todas las posturas que hemos discutido.  La
+bio-crisis llama a la planificación, o al cálculo, pero un cálculo de
+acuerdo a métricas que midan límites, umbrales y grados de la
+supervivencia de las especies, humanas o no.  Al discutir los
+imperativos de una planificación eco-socialista, Michael Lowy
+[-@lowy-2009] señala que requeriría una dirección social mucho más
+comprensiva que el mero "control obrero" o incluso la reconciliación
+negociada entre los intereses de las trabajadoras y las consumidoras que
+sugieren abordajes como los de Parecon.  Antes bien, implica una
+reconstrucción profunda de los sistemas económicos, incluyendo la
+abolición de ciertas industrias, como la pesca industrializada o la tala
+indiscriminada, la reformulación de los métodos de transporte, "una
+revolución en el sistema energético" y un impulso hacia el "comunismo
+solar" [@lowy-2009].  Tales transformaciones
+
 would involve cybernetics along two major axes, as both contributors to
 the current bio-crisis and as potential means for its resolution. On the
 first of these axes, the ecological costs of nominally ‘clean’ digital
@@ -1597,6 +1623,25 @@ new system of metabolic regulation that aims for both red and green
 plenty.  However, cybernetic systems are also a potential part of any
 resolution of the bio-crisis – or, indeed, of even fully recognizing it.
 Paul Edward’s (2010) A Vast Machine analyzes the global system of
+
+incluirían a la cibernética en dos ejes mayores, ambos contribuyendo a
+la bio-crisis actual y a la vez como medios potenciales para su
+resolución.  En el primero de estos ejes, los costos ecológicos de las
+tecnologías digitales nominalmente "limpias" se han vuelto cada vez más
+aparentes:  los requisitos en energía eléctrica de los centros de datos
+de la computación en la nube, la demanda de agua limpia y minerales de
+la manufactura de microchips y la prodigiosa cantidad de basura
+electrónica tóxica resultante.  Convertir a todas las casas en
+mini-fábricas _fablab_ solo aceleraría la muerte por calentamiento
+planetaria.  Contrariamente a todas las nociones idealistas de los
+mundos virtuales, la cibernética es parte inextricable del mismo sistema
+industrial cuyas operaciones deben ser puestas bajo escrutinio en un
+nuevo sistema de regulación metabólica que apunte a una abundancia tanto
+roja como verde.  Sin embargo, los sistemas cibernéticos son también una
+parte potencial de cualquier resolución de la bio-crisis.  A Vast
+Machine [Una máquina vasta] de Paul Edward [-@edward-2010] analiza el
+sistema global
+
 climatological measurement and projection – the apparatus of weather
 stations, satellites, sensors, digitally archived records and massive
 computer simulations, which, like the Internet itself, originated in US
@@ -1610,27 +1655,31 @@ and data models, combining and adjusting measurements from multiple
 sources.  By revealing the contingency of conditions for species
 survival, and the possibility for their anthropogenic change, such
 ‘knowledge infrastructures’ of people, artifacts, and institutions
-(Edwards, 2010:
-17) – not just for climate measurement, but also for the monitoring of
-    ocean acidification, deforestation, species loss, fresh water
-    availability – reveal the blind spot of Hayek’s catallaxy in which
-    the very grounds for human existence figure as an arbitrary
-    ‘externality’.  So-called ‘green capital’ attempts to subordinate
-    such bio-data to price signals. It is easy to point to the fallacy
-    of pricing non-linear and catastrophic events: what is the proper
-    tag for the last tiger, or the carbon emission that triggers
-    uncontrollable methane release?  But bio-data and bio-simulations
-    also now have to be included in any concept of communist collective
-    planning. Insofar as that project aims at a realm of freedom that
-    escapes the necessity of toil, the common goods it creates will have
-    to be generated with cleaner energy, and the free knowledge it
-    circulates have metabolic regulation as a priority. Issues of the
-    proper remuneration of labor time require integration into
-    ecological calculations. No bio-deal that does not recognize the
-    aspirations of millions of planetary proletarians to escape
-    inequality and immiseration will succeed, yet labour metrics
-    themselves need to be rethought as part of a broader calculation of
-    the energy expenditures compatible with collective survival.
+(Edwards, 2010: 17) – not just for climate measurement, but also for the
+monitoring of ocean acidification, deforestation, species loss, fresh
+water availability – reveal the blind spot of Hayek’s catallaxy in which
+the very grounds for human existence figure as an arbitrary
+
+de medición y proyección climatológica, es decir el aparato de
+estaciones meteorológicas, satélites, sensores, registros digitales y
+simulaciones por computadora masivas que se originaron, como la
+Internet, durante la planificación estadounidense de la Guerra Fría
+
+‘externality’.  So-called ‘green capital’ attempts to subordinate such
+bio-data to price signals. It is easy to point to the fallacy of pricing
+non-linear and catastrophic events: what is the proper tag for the last
+tiger, or the carbon emission that triggers uncontrollable methane
+release?  But bio-data and bio-simulations also now have to be included
+in any concept of communist collective planning. Insofar as that project
+aims at a realm of freedom that escapes the necessity of toil, the
+common goods it creates will have to be generated with cleaner energy,
+and the free knowledge it circulates have metabolic regulation as a
+priority. Issues of the proper remuneration of labor time require
+integration into ecological calculations. No bio-deal that does not
+recognize the aspirations of millions of planetary proletarians to
+escape inequality and immiseration will succeed, yet labour metrics
+themselves need to be rethought as part of a broader calculation of the
+energy expenditures compatible with collective survival.
 
 Conclusion: For K-ommunism?  Marx (1964), in his famous, or notorious,
 comparison of the ‘worst of architects’ and the ‘best of bees’, saw the
