@@ -1664,6 +1664,23 @@ de medición y proyección climatológica, es decir el aparato de
 estaciones meteorológicas, satélites, sensores, registros digitales y
 simulaciones por computadora masivas que se originaron, como la
 Internet, durante la planificación estadounidense de la Guerra Fría
+sobre el que descansa nuestro entendimiento del calentamiento global.
+Esta infraestructura genera información tan vasta en cantidad y en
+diversidad de plataformas, calidades y formas que solo puede ser
+comprendida a través del análisis computacional.  El conocimiento sobre
+el cambio climático depende de modelos computacionales:  simulaciones
+sobre el clima, modelos de re-análisis, que recrean la historia
+climática a partir de datos históricos y los modelos de datos que
+combinan y ajustan mediciones de distintas fuentes.  Al revelar la
+contingencia de las condiciones para la supervivencia de las especies y
+la posibilidad de su cambio antropogénico estas "infraestructuras de
+conocimiento" sobre gente, artefactos e instituciones [@edwards-2010] 
+que no solo miden el clima sino que también monitorean la acidificación
+de los oceános, la deforestación, pérdida de especies o la
+disponibilidad de agua, también se revela el punto ciego de la catalaxia
+de Hayek, donde las bases mismas de la existencia humana figuran como un
+"externalidad" arbitraria.  El así llamado "capital verde" intenta
+subordinar
 
 ‘externality’.  So-called ‘green capital’ attempts to subordinate such
 bio-data to price signals. It is easy to point to the fallacy of pricing
@@ -1681,7 +1698,28 @@ escape inequality and immiseration will succeed, yet labour metrics
 themselves need to be rethought as part of a broader calculation of the
 energy expenditures compatible with collective survival.
 
-Conclusion: For K-ommunism?  Marx (1964), in his famous, or notorious,
+tales bio-datos a las señales de precios.  Resulta fácil señalar la
+falacia en ponerle precio a eventos no-lineales y catastróficos.  ¿Cuál
+es el precio apropiado para el último tigre o el nivel de emisiones de
+carbono que dispara la liberación incontrolable de metano?  Pero los
+bio-datos y las bio-simulaciones tienen que estar incluidas en cualquier
+noción de planificación colectiva comunista.  Mientras este proyecto
+apunte a un reino de la libertad que escape de la necesidad del trabajo,
+los bienes comunes que cree deberán serlo con energías más limpias y el
+conocimiento libre que circule debe priorizar la regulación metabólica.
+Los problemas de la remuneración apropiada por el tiempo de trabajo
+deben integrarse a los cálculos ecológicos.  Ninguna bio-salida que no
+reconozca las aspiraciones de millones de proletarias planetarias de
+escapar la desigualdad y la miseria tendrá éxito.  Pero también las
+mediciones laborales mismas deben ser repensadas como parte de un
+cálculo más amplio de uso de energía compatible con la supervivencia
+colectiva.
+
+Conclusion: For K-ommunism?
+
+# Conclusión: ¿Por el K-omunismo?
+
+Marx (1964), in his famous, or notorious,
 comparison of the ‘worst of architects’ and the ‘best of bees’, saw the
 former distinguished by an ability to ‘erect in imagination’ the
 structure he will create.  Today, with our improved knowledge of bee
@@ -1698,6 +1736,27 @@ cybernetic communism, itself one of these options, would, we have seen,
 involve some of the following elements: use of the most advanced
 super-computing to algorithmically calculate labour time and resource
 requirements, at global, regional and local levels, of multiple possible
+
+En la famosa, o notoria, comparación entre "el peor de los arquitectos"
+y "la mejor de las abejas", Marx [-@marx-1964] veía al primero
+distinguirse por su habilidad por "erigir en la imaginación" la
+estructura a crear.  Hoy en día, con nuestro conocimiento sobre las
+comunidades de abejas, esta distinción hiede a antropocentrismo.  Aun
+entre abejas, castores y otros primates, la especie humana manifiestan
+una capacidad de planificación hipertrófica.  La experiencia soviética
+de la que las cibernéticas caracterizadas en Abundancia roja formaban
+parte fue solo una instanciación estrecha, históricamente específica y
+trágica de esta capacidad, cuyo autoritarismo ocluye el punto más
+crucial del concepto marxista de planificación. Es decir, su propósito
+es ser un medio de elección comunal con una variedad de trayectorias
+entre las cuales podría seguir el devenir colectivo en tanto especie
+humana [@dyer-witheford-2004].  Un nuevo comunismo cibernético, en sí
+una de estas opciones, involucraría algunos de los elementos siguientes:
+el uso de las super-computadoras más avanzadas para calcular
+algorítmicamente el tiempo de trabajo y los recursos necesarios en
+niveles globales, regionales y locales de entre múltiples caminos
+posibles de desarrollo humano;  la selección de entre estos caminos
+
 paths of human development; selection from these paths by layered
 democratic discussion conducted across assemblies that include
 socialized digital networks and swarms of software agents; light-speed
@@ -1712,6 +1771,22 @@ interchange with the planetary environment.  This would indeed be a
 communism heir to Lenin’s ‘soviets plus electricity’, with its roots in
 red futurism, constructivism, tektology and cybernetics, together with
 the left-science fiction imaginaries of authors such as Iain M. Banks,
+
+por una discusión democrática en capas, conducida a través de asambleas
+que incluyan redes digitales socializadas y enjambres de agentes de
+software;  actualización a velocidad de la luz y revisión constante de
+los planes seleccionados por flujos de _big data_ tomados de la
+producción y el consumo;  el pasaje de cada vez más bienes y servicios
+al reino de lo libre o la producción directa de valores de uso una vez
+que la automatización y los comunes _copyleft_ de pares se establezca;
+la información del proceso completo por parámetros establecidos a través
+de simulaciones, sensores y sistemas satelitales que midan y monitoreen
+el intercambio metabólico de la especie con el ambiente planetario. Este
+sería un comunismo heredero de los "soviets más electricidad" de Lenin,
+con raíces en el futurismo rojo, el constructivismo, la tectología y la
+cibernética, unidas a los imaginarios de ciencia ficción de izquierda de
+autores como Iain M. Banks,
+
 Ken McLeod and Chris Moriarty. It would be a social matrix encouraging
 increasingly sophisticated forms of artificial intelligence as allies of
 human emancipation. For those who fear the march of the machine it holds
@@ -1733,6 +1808,29 @@ breakdowns and conflicts; a post-capitalist mode of production emerging
 in a context of massive mid-twenty-first century crisis, assembling
 itself from a hundred years of non-linear computerized communist history
 to create the platforms of a future red plenty.
+
+Ken McLeod y Chris Moriarty.  Sería una matriz social llevando a cada
+vez más sofisticadas formas de inteligencia artificial a convertirse en
+aliadas de la emancipación humana.  Para aquellas que temen la marcha de
+las máquinas hay este consuelo:  cualquier singularidad que emerja de
+estas redes no será la de entidades programadas para la expansión
+ilimitada del lucro y la defensa militar de la propiedad, sino para el
+bienestar humano y la protección ecológica.  Un comunismo tal está en
+consonancia con una política aceleracionista de izquierda que, en lugar
+de anarco-primitivismos, localismos defensivos y nostalgia fordista,
+"puja hacia un futuro más moderno, una modernidad alternativa que el
+neoliberalismo es inherentemente incapaz de generar"
+[@williams-srnicek-2013].  Si necesita un nombre, puede tomarse el
+prefijo K- con el que algunas designan las empresas kibernéticas y
+llamárselo "komunismo".  El espacio de posibilidad para tal comunismo
+existe ahora entre las líneas convergentes del colapso de la
+civilización y la consolidación capitalista.  En este pasadizo
+estrechándose no surgirá de ninguna lógica teleológica sino pieza por
+pieza a través de innumerables conflictos y rupturas sociales, como un
+modo de producción post-capitalista emergiendo en el contexto de la
+crisis masiva del siglo XXI, ensamblándose a sí mismo desde un
+centenario de historia comunista de computación no-lineal, para crear
+las plataformas de una futura abundancia roja.
 
 References Albert, M. (2003) Parecon: Life After Capitalism. New York:
 Verso.  Albert, M. & Hahnel, R. (1991) Looking Forward: Participatory
