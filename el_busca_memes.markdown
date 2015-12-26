@@ -36,7 +36,19 @@ world—a silicon mentality of sorts—has emerged in its wake. The old
 language has been rendered useless; our pre-Internet vocabulary, we are
 told, needs an upgrade.
 
-Afortunadamente silicon Valley, esa fuente que no se seca de conceptos de pacotilla y paradigmas dudosos --de wiki-todo a i-algo, de e-nada a cualquier-cosa-abierta-- esta lista para ayudar.  Como un buen cura, está siempre disponible para consolarnos con la promesa de un futuro mejor, un plan más brillante, un vocabulario más pulcro.  Esto no niega que muchos de los últimos dispositivos y _apps_ no son fantásticos.  Pero fijarse solo en la innovación tecnológica significa perderse de las formas más sutiles --y con más consecuencias-- en las que un grupito de tecnoemprendedores ha asaltado nuestro lenguaje y con él, nuestra razón.  En la última decada, Silicon Valley ha disparado su propia ola de innovación lingüística, una ola tan masiva que al romper ha hecho emerger una nueva forma de analizar y describir el mundo --una suerte de mentalidad de silicona.  El viejo lenguaje se ha vuelto inútil;  nuestro vocabulario pre-Internet, nos dicen, necesita una actualización.
+Afortunadamente _Sillicon Valley_, esa fuente que no se seca de conceptos de
+pacotilla y paradigmas dudosos --de wiki-todo a i-algo, de e-nada a
+cualquier-cosa-abierta-- esta lista para ayudar.  Como un buen cura, está
+siempre disponible para consolarnos con la promesa de un futuro mejor, un plan
+más brillante, un vocabulario más pulcro.  Esto no niega que muchos de los
+últimos dispositivos y _apps_ no son fantásticos.  Pero fijarse solo en la
+innovación tecnológica significa perderse de las formas más sutiles --y con más
+consecuencias-- en las que un grupito de tecnoemprendedores ha asaltado nuestro
+lenguaje y con él, nuestra razón.  En la última decada, Silicon Valley ha
+disparado su propia ola de innovación lingüística, una ola tan masiva que al
+romper ha hecho emerger una nueva forma de analizar y describir el mundo --una
+suerte de mentalidad de silicona.  El viejo lenguaje se ha vuelto inútil;
+nuestro vocabulario pre-Internet, nos dicen, necesita una actualización.
 
 Silicon Valley has always had a thing for priests; Steve Jobs was the
 cranky pope it deserved. Today, having mastered the art of four-hour
@@ -47,7 +59,15 @@ eventually be robbed of a meaningful language to discuss technology was
 entirely predictable. That the conceptual imperialism of Silicon Valley
 would also pollute the rest of our vocabulary wasn’t.
 
-Silicon Valley siempre ha tenido algo por los curas.  Steve Jobs fue el irritable Papa que necesitaba.  Hoy en día, habiendo dominado el arte de la semana laboral de cuatro horas y los almuerzos sin gluten en cafeterías al aire libre, nuestros ministros digitales están empezando a predicar sobre asuntos que sobrepasan el mundo de los drones, las impresoras 3D y los cepillos de dientes inteligentes.  Que eventualmente fueramos robadas de un lenguaje con significado para discutir sobre tecnología era predecible.  Que el imperialismo conceptual de Silicon Valley terminaría contaminando el resto de nuestro vocabulario no lo era.
+Silicon Valley siempre ha tenido algo por los curas.  Steve Jobs fue el
+irritable Papa que necesitaba.  Hoy en día, habiendo dominado el arte de la
+semana laboral de cuatro horas y los almuerzos sin gluten en cafeterías al aire
+libre, nuestros ministros digitales están empezando a predicar sobre asuntos
+que sobrepasan el mundo de los drones, las impresoras 3D y los cepillos de
+dientes inteligentes.  Que eventualmente fueramos robadas de un lenguaje con
+significado para discutir sobre tecnología era predecible.  Que el imperialismo
+conceptual de Silicon Valley terminaría contaminando el resto de nuestro
+vocabulario no lo era.
 
 The enduring emptiness of our technology debates has one main cause, and
 his name is Tim O’Reilly. The founder and CEO of O’Reilly Media, a
@@ -65,7 +85,21 @@ Republican strategist who rebranded “global warming” as “climate change”
 and turned “estate tax” into “death tax,” Silicon Valley has found its
 own Frank Luntz in Tim O’Reilly.
 
-La duradera vacuidad de nuestros debates sobre la tecnología tiene una causa principal y su nombre es Tim O'Reilly.  Fundador y CEO de O'Reilly Media, editor aparentemente omnipotente de libros de tecnología y organizador incansable de conferencias de moda, O'Reilly es uno de los pensadores más influyentes de Silicon Valley.  Areas enteras del pensamiento --desde la informatica a la teoria de administracion y la administracion publica-- ya se han rendido a su palabrademodafilia[^buzzwordophilia], pero O'Reilly sigue avanzando.  Durante los ultimos quince años nos ha entregado gemas de la precision analitica como "open source" \[codigo abierto\], "web 2.0", "gobierno como plataforma" y "arquitectura de participacion".  O'Reilly no solo acuña sus expresiones favoritas, las promueve con celo religioso y envidiable perseverancia.  Mientras Washington se vanagloria de tener a Frank Luntz, el estrategista republicano que cambio "calentamiento global" por "cambio climatico" y convirtio "impuesto a la propiedad" por "impuesto de muerte", Silicon Valley ha encontrado su propio Frank Luntz en Tim O'Reilly.
+La duradera vacuidad de nuestros debates sobre la tecnología tiene una causa
+principal y su nombre es Tim O'Reilly.  Fundador y CEO de O'Reilly Media,
+editor aparentemente omnipotente de libros de tecnología y organizador
+incansable de conferencias de moda, O'Reilly es uno de los pensadores más
+influyentes de Silicon Valley.  Areas enteras del pensamiento --desde la
+informatica a la teoria de administracion y la administracion publica-- ya se
+han rendido a su palabrademodafilia[^buzzwordophilia], pero O'Reilly sigue
+avanzando.  Durante los ultimos quince años nos ha entregado gemas de la
+precision analitica como "open source" \[codigo abierto\], "web 2.0", "gobierno
+como plataforma" y "arquitectura de participacion".  O'Reilly no solo acuña sus
+expresiones favoritas, las promueve con celo religioso y envidiable
+perseverancia.  Mientras Washington se vanagloria de tener a Frank Luntz, el
+estrategista republicano que cambio "calentamiento global" por "cambio
+climatico" y convirtio "impuesto a la propiedad" por "impuesto de muerte",
+Silicon Valley ha encontrado su propio Frank Luntz en Tim O'Reilly.
 
 
 [^buzzwordophilia]: _Buzzwordophilia_ en el original (Nota de la traduccion.)
@@ -90,7 +124,17 @@ celebrates in his public advocacy—through a[venture
 fund](http://oatv.com/), which, like most things O’Reilly, also bears
 his name.
 
-Trazar las huellas intelectuales de O'Reilly no es una tarea facil, en parte porque es muy vasta.  A traves de sus libros, blogs y conferencias ha amamantado a una generacion entera de pensadores sobre la tecnologia, desde Clay Shirky a Cory Doctorow.  Es un bloguero muy prolifico y un usuario compulsivo de Twitter con mas de 1,6 millones de seguidores y tiene gusto por escribir ensayos sobre el cambio tecnologico.  Su ensayo sobre la "web 2.0" elucido una filosofia basica sobre Internet de una forma accesible tanto a academicos como a capitalistas de riesgo y cuenta mas de seis mil referencias en _Google Scholar.  Nada mal para un autor no academico.  Tambien invierte en _startups_ --las mismas que celebra en su actividad publica-- a traves de un fondo de riesgo que, como todas las cosas de O'Reilly, lleva su propio nombre.
+Trazar las huellas intelectuales de O'Reilly no es una tarea facil, en parte
+porque es muy vasta.  A traves de sus libros, blogs y conferencias ha
+amamantado a una generacion entera de pensadores sobre la tecnologia, desde
+Clay Shirky a Cory Doctorow.  Es un bloguero muy prolifico y un usuario
+compulsivo de Twitter con mas de 1,6 millones de seguidores y tiene gusto por
+escribir ensayos sobre el cambio tecnologico.  Su ensayo sobre la "web 2.0"
+elucido una filosofia basica sobre Internet de una forma accesible tanto a
+academicos como a capitalistas de riesgo y cuenta mas de seis mil referencias
+en _Google Scholar.  Nada mal para un autor no academico.  Tambien invierte en
+_startups_ --las mismas que celebra en su actividad publica-- a traves de un
+fondo de riesgo que, como todas las cosas de O'Reilly, lleva su propio nombre.
 
 A stylish and smooth-talking self-promoter with a philosophical take on
 everything, O’Reilly is the Bernard-Henri Lévy of Route 101, the
@@ -120,7 +164,23 @@ the science fiction writer Frank Herbert, the author of the *Dune*
 series, in which he waxes lyrical about Martin Heidegger and Karl
 Jaspers.
 
-Como estilizado y suave auto-promotor con una vision filosofica sobre todo, O'Reilly es el Bernard-Henri Levy de la Ruta 101 y el filosofo de la corte favorito de las elites de TED.  Su impresionante estatura intelectual en el Valley probablemente pueda ser atribuida al simple hecho de que esta mejor leido que el tecnoemprendedor promedio.  Sus constantes referencias a los educados hombres del pasado --desde Arquiloco, el fabulista griego a Ezra Pound-- lo hacen resaltar sobre todos esos desertores universitarios de Silicon Valley que no distinguen a Plotino de Plinio.  Una vez recibio una beca del _National Endowment for the Arts_ para traducir fabulas griegas  --"Socrates es [una de] mis compañias constantes"-- y tiene el aire de un hombre listo para pelearse con las Grandes Preguntas del Universo (su titulo de Harvard en los clasicos le viene muy bien.)  Aunque haya dicho en _Wired_ que "no me importa una mierda que las novelas literarias desaparezcan" porque "son un interes elitista", O'Reilly rapidamente reconoce que las novelas han formado profundamente su vida.  Incluso en 1981 el joven O'Reilly escribia una respetable biografia del escritor de ciencia ficcion Frank Herbert, autor de la serie _Dune_, en la que habla de Martin Heidegger y Karl Jaspers.
+Como estilizado y suave auto-promotor con una vision filosofica sobre todo,
+O'Reilly es el Bernard-Henri Levy de la Ruta 101 y el filosofo de la corte
+favorito de las elites de TED.  Su impresionante estatura intelectual en el
+Valley probablemente pueda ser atribuida al simple hecho de que esta mejor
+leido que el tecnoemprendedor promedio.  Sus constantes referencias a los
+educados hombres del pasado --desde Arquiloco, el fabulista griego a Ezra
+Pound-- lo hacen resaltar sobre todos esos desertores universitarios de Silicon
+Valley que no distinguen a Plotino de Plinio.  Una vez recibio una beca del
+_National Endowment for the Arts_ para traducir fabulas griegas  --"Socrates es
+[una de] mis compañias constantes"-- y tiene el aire de un hombre listo para
+pelearse con las Grandes Preguntas del Universo (su titulo de Harvard en los
+clasicos le viene muy bien.)  Aunque haya dicho en _Wired_ que "no me importa
+una mierda que las novelas literarias desaparezcan" porque "son un interes
+elitista", O'Reilly rapidamente reconoce que las novelas han formado
+profundamente su vida.  Incluso en 1981 el joven O'Reilly escribia una
+respetable biografia del escritor de ciencia ficcion Frank Herbert, autor de la
+serie _Dune_, en la que habla de Martin Heidegger y Karl Jaspers.
 
 Alas, O’Reilly and the dead Germans parted ways long ago. These days,
 he’s busy changing the world; any list of unelected technocrats who are
@@ -137,13 +197,27 @@ also active in discussions about the [future of health
 care](http://oreilly.com/tim/healthcare/), having strong views on what
 “health 2.0” should be like.
 
-No obstante O'Reilly y los alemanes muertos se han separado hace ya tiempo.  En estos días está ocupado cambiando el mundo.  Cualquier lista de tecnócratas inelectos que estén dándole forma al futuro de la política norteamericana debería tener su nombre en el primer lugar.  Con una presencia a la Zelig en ambos lados del Atlántico, O'Reilly se codea con oficiales gubernamentales de Washington y Londres, dándoles consejo sobre la Próxima Gran Cosa.  [El pensamiento de O'Reilly sobre el "Gobierno 2.0"](http://oreilly.com/tim/gov2/) ha influenciado a muchos burócratas de la administración Obama, particularmente aquellos cuya tarea es la promoción del ideal amorfo del "gobierno abierto", algo no tan fácil de hacer dentro de un gobierno inclinado a judicializar a soplonas y enviar _dones_ hacia "no-te-podemos-decir-exactamente-dónde".  O'Reilly también está activo en discusiones sobre el [futuro de la salud](http://oreilly.com/tim/healthcare/), con fuertes visiones sobre cómo debería ser la "Salud 2.0".
+No obstante O'Reilly y los alemanes muertos se han separado hace ya tiempo.  En
+estos días está ocupado cambiando el mundo.  Cualquier lista de tecnócratas
+inelectos que estén dándole forma al futuro de la política norteamericana
+debería tener su nombre en el primer lugar.  Con una presencia a la Zelig en
+ambos lados del Atlántico, O'Reilly se codea con oficiales gubernamentales de
+Washington y Londres, dándoles consejo sobre la Próxima Gran Cosa.  [El
+pensamiento de O'Reilly sobre el "Gobierno 2.0"](http://oreilly.com/tim/gov2/)
+ha influenciado a muchos burócratas de la administración Obama, particularmente
+aquellos cuya tarea es la promoción del ideal amorfo del "gobierno abierto",
+algo no tan fácil de hacer dentro de un gobierno inclinado a judicializar a
+soplonas y enviar _dones_ hacia "no-te-podemos-decir-exactamente-dónde".
+O'Reilly también está activo en discusiones sobre el [futuro de la
+salud](http://oreilly.com/tim/healthcare/), con fuertes visiones sobre cómo
+debería ser la "Salud 2.0".
 
 > A stylish and smooth-talking self-promoter, Tim O’Reilly is the
 > Bernard-Henri Lévy of Route 101, the favorite court philosopher of the
 > TED elites.
 
-> Como auto-promotor con estilo y labia, Tim O'Reilly es el Bernard-Henri Lévy de _Route 101_, el filósofo de la corte favorito de las élites TED.
+> Como auto-promotor con estilo y labia, Tim O'Reilly es el Bernard-Henri Lévy
+> de _Route 101_, el filósofo de la corte favorito de las élites TED.
 
 None of this is necessarily bad. On first impression, O’Reilly seems
 like a much-needed voice of reason—even of civic spirit—in the shallow
@@ -172,7 +246,26 @@ is all about. [Its website even boasts](http://oreilly.com/) of its
 “long history of advocacy, meme-making, and evangelism.” Who says that
 spiritual gurus can’t have their own venture funds?
 
-Nada de esto es necesariamente malo.  A primera vista, O'Reilly parece ser una muy necesaria voz de la razón --incluso de espíritu cívico-- en el paraíso-gueto superficial e implacable que es _Sillicon Valley_.  Comparado a expertos de la tecnología ultra-libertarian como Peter Thiel y Kevin Kelly, O'Reilly podría pasar por un liberal de corazón.  Incluso ha apoyado públicamente a Obama y apoyado muchas de sus reformas clave.  Ha llamado a las programadoras jóvenes --las remeras de la galera _Sillicon Valley_-- a trabajar en "cosas que importen", aunque preferentemente en el sector privado.  Ha escrito favorablemente sobre el trabajo de oficiales locales poco conocidos que están transformando las ciudades estadounidenses.  O'Reilly alguna vez dijo que la visión de su compañía es "cambiar el mundo mediante la difusión del conocimiento de los innovadores" mientras que en su credo personal se trata de "crear más valor del que capturas".  (Y ciertamente ha capturado un montón:  su imperio editorial, otrora dedicado al humilde negocio de los manuales técnicos, ahora vale unos $ 100 millones de dólares.)  Ayudar a personas con ideas similares encontrarse entre sí, afilar su mensaje, formar un movimiento social y cambiar el mundo:  esto es de lo que se trata el imperio de O'Reilly.  Su sitio web incluso alardea de su "larga historia de militancia, creación de memes y evangelismo".  ¿Quién dice que los gurúes espirituales no pueden tener su propio capital de riesgo?
+Nada de esto es necesariamente malo.  A primera vista, O'Reilly parece ser una
+muy necesaria voz de la razón --incluso de espíritu cívico-- en el
+paraíso-gueto superficial e implacable que es _Sillicon Valley_.  Comparado a
+expertos de la tecnología ultra-libertarian como Peter Thiel y Kevin Kelly,
+O'Reilly podría pasar por un progresista de corazón.  Incluso ha apoyado
+públicamente a Obama y apoyado muchas de sus reformas clave.  Ha llamado a las
+programadoras jóvenes --las remeras de la galera _Sillicon Valley_-- a trabajar
+en "cosas que importen", aunque preferentemente en el sector privado.  Ha
+escrito favorablemente sobre el trabajo de oficiales locales poco conocidos que
+están transformando las ciudades estadounidenses.  O'Reilly alguna vez dijo que
+la visión de su compañía es "cambiar el mundo mediante la difusión del
+conocimiento de los innovadores" mientras que en su credo personal se trata de
+"crear más valor del que capturas".  (Y ciertamente ha capturado un montón:  su
+imperio editorial, otrora dedicado al humilde negocio de los manuales técnicos,
+ahora vale unos $ 100 millones de dólares.)  Ayudar a personas con ideas
+similares encontrarse entre sí, afilar su mensaje, formar un movimiento social
+y cambiar el mundo:  esto es de lo que se trata el imperio de O'Reilly.  Su
+sitio web incluso alardea de su "larga historia de militancia, creación de
+memes y evangelismo".  ¿Quién dice que los gurúes espirituales no pueden tener
+su propio capital de riesgo?
 
 
 O’Reilly’s personal journey was not atypical for Silicon Valley. In a
@@ -195,7 +288,20 @@ questions of freedom primarily through the lens of economic competition,
 to focus on the producer and the entrepreneur at the expense of everyone
 else, shaped O’Reilly’s thinking about technology.
 
-La trayectoria personal de O'Reilly no fue atípica para _Sillicon Valley_.  En un ensayo del 2004 sobre sus libros favoritos (publicado en _Tim O'Reilly para principiantes_), confesaba que de joven tenía "esperanzas de escribir libros profundos que cambiarían el mundo".  O'Reilly
+La trayectoria personal de O'Reilly no fue atípica para _Sillicon Valley_.  En
+un ensayo del 2004 sobre sus libros favoritos (publicado en _Tim O'Reilly para
+principiantes_), confesaba que de joven tenía "esperanzas de escribir libros
+profundos que cambiarían el mundo".  O'Reilly agrega que gracias a un libro de
+ciencia ficción documentando las luchas de una joven contra una plutocracia
+corporativa (Rissa Kerguelen de F. M. Busby) abandonó esos sueños tempranos de
+escritura revolucionaria para entrar en el "negocio fundamentalmente trivial de
+la escritura técnica".  El libro mostraba el emprendedorismo como una "fuerza
+subversiva", que convenció a O'Reilly que "en un mundo dominado por las grandes
+compañías, son las pequeñas las que mantienen viva la libertad, donde la
+economía es al menos uno de los campos de batalla".  Esta tendencia a ver los
+problemas de la libertad a través de la lente de la competencia económica,
+poniendo el foco en el productor y el emprendedor a expensas de todas las
+demás, configura el pensamiento de O'Reilly sobre la tecnología.
 
 [![b22\_fisher1\_joe2.0\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher1_joe2.png)](http://www.marksfisher.com/)However,
 it’s not his politics that makes O’Reilly the most dangerous man in
@@ -225,6 +331,31 @@ government, and market fundamentalism that we associate with Randian
 characters. For Silicon Valley and its idols, innovation is the new
 selfishness.
 
+Sin embargo, no es la política lo que vuelve a O'Reilly el hombre más peligroso
+de todo _Sillicon Valley_, quesiendo un enclave del pensamiento randiano,
+rebosa de casos más locos.  La maestría de O'Reilly para las relaciones
+públicas, por otro lado, no tiene rival y avergonzaría a muchos de los _spin
+doctors_ más importantes de Washington.  Nadie ha hecho más por volver los
+debates más importantes sobre la tecnología --debates que solían ser sobre
+derechos, ética y política-- en celebraciones kumbaya sobre el espíritu
+emprendedorista, mientras que el lenguaje económico se convertía en la única
+forma razonable de hablar sobre el tema.  Como descubrió O'Reilly hace mucho
+tiempo, el dinero está en las epistemes.  Los tonos randianos del pensamiento
+de O'Reilly son difíciles de evitar, aun cuando ostente sus credenciales
+progresistas.  "Existe una forma en que la esencia de la marca O'Reilly es en
+última instancia una historia sobre la hacker como una heroína, la chica que
+está jugando con tecnología porque le encanta, pero que un día cae en una
+situación donde es llamada a salir y cambiar el mundo", escribía en 2012.  Pero
+no solo se trata de la hacker como una heroína que O'Reilly no se cansa de
+celebrar.  Su verdadera heroína es la hacker-devenida-emprendedora, alguien que
+supera los innumerables obstáculos erigidos por corporaciones gigantes y
+burócratas perezosos, para cumpir con el Sueño Americano 2.0:  empezar una
+compañía, desbaratar una industria, acuñar una _buzzword_.  Escondido detrás de
+toda este desbaratamiento de brillantina está el mismo viejo pregón
+individualista, gobierno mínimo y fundamentalismo de mercado que asociamos con
+los personajes randianos.  Para _Sillicon Valley_ y sus ídolos, la innovación
+es el nuevo egoísmo.
+
 <span class="dropcap">O</span>’Reilly got his start in business in 1978
 when he launched a consulting firm that specialized in technical
 writing. Six years later, it began retaining rights to some of the
@@ -237,6 +368,17 @@ Internet portal to feature paid banner advertising (“[the first
 commercial website](http://oreilly.com/gnn/)” as O’Reilly describes it
 today)—to AOL.
 
+O'Reilly se inició en el negocio en el '78 al lanzar una consultora que se
+especializaba en escritura técnica.  Seis años después, empezó a retener los
+derechos de algunos de los manuales que estaba produciendo para sus clientes
+individuales y gradualmente se abrió camino hacia la edición _mainstream_.
+Para mediados de los '90, O'Reilly había alcanzado un éxito moderado en
+_Sillicon Valley_.  Le iba bien, habiendo encontrado un _best-seller_ en _The
+Whole Internet User's Guide and Catalog_ [La guía completa del usuario de
+Internet y catálogo] y vendido el _Global Network Navigator_ --posiblemente el
+primer portal de Internet con publicidad paga ("el primer sitio web comercial"
+como lo describe O'Reilly)-- a AOL.
+
 It was the growing popularity of “open source software” that turned
 O’Reilly into a national (and, at least in geek circles, international)
 figure. “Open source software” was also the first major rebranding
@@ -245,6 +387,15 @@ trademark discursive interventions: hosting a summit to define the
 concept, penning provocative essays to refine it, producing a host of
 books and events to popularize it, and cultivating a network of thinkers
 to proselytize it.
+
+Fue la popularidad creciente del "software de código abierto" lo que lo
+convirtió en una figura nacional (y al menos en los círculos _geek_, también
+internacional).  El "software de código abierto" fue también el primer gran
+ejercicio de cambio de marca llevado a cabo por el Equipo O'Reilly.  Es donde
+puso a prueba todas sus intervenciones discursivas que son su marca:  alojando
+un encuentro para definir el concepto, escribiendo ensayos provocativos para
+refinarlo, produciendo libros y eventos para popularizarlo y cultivando una red
+de pensadores para hacerle proselitismo.
 
 [![b22\_fisher2\_internetgod\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher2_internetgod_308.png)](http://www.marksfisher.com/)Software
 that ensured the aforementioned four rights was dubbed “free software.”
@@ -269,6 +420,28 @@ version (if there was one) to the public—but even this seemed
 revolutionary compared to what one could do with most proprietary
 software sold at the time.
 
+El software que aseguraba los cuatro derechos antes mencionados se llamaba
+"software libre".  Era "libre" por su asociación a la "libertad" antes que a la
+"cerveza libre".  No había una oposición teórica a cobrar dinero por construir
+o mantener ese software.  Para proveer cobertura legal, Stallman inventó una
+licencia muy ingeniosa que usaba las leyes de _copyright_ para suspender sus
+provisiones más draconianas --un truco legal que es conocido como _copyleft_.
+La GPL (acrónimo de "General Public License" [Licencia Pública General]) se ha
+convertido en la más famosa y utilizada de estas licencias _copyleft_.  Es
+fácil olvidarse esto hoy en día, pero no había algo conocido como software de
+código abierto antes de 1998.  La coherencia contemporánea aparente del
+concepto es producto de la manipulación astuta y el _marketing_.  El software
+de código abierto nació de la escisión ideológica entre dos grupos que, al
+menos antes de 1998, habían estado tradicionalmente juntos.  En una esquina
+estaba el grupo de _geeks_ apasionadas y con principios lideradas por Richard
+Stallman de la _Free Software Foundation_, preocupadas por asegurar que las
+usuarias tengan derechos con respecto a sus programas de computadoras.  Esos
+derechos no eran muchos --las usuarias deben ser capaces de usar el programa
+con cualquier propósito, estudiarlo, re-distribuir copias y publicar sus
+propias versiones modificadas si las hubiese-- pero aun esto parecía
+revolucionario en comparación a lo que se podía hacer con el software privativo
+de ese momento.
+
 From its very beginning in the early 1980s, Stallman’s movement aimed to
 produce a free software alternative to proprietary operating systems
 like Unix and Microsoft Windows and proprietary software like Microsoft
@@ -279,6 +452,15 @@ goal](http://www.gnu.org/philosophy/free-software-for-freedom.html), as
 he put it in his 1998 essay “Why ‘Free Software’ is Better Than ‘Open
 Source,’” was to ask “people to think about things they might rather
 ignore.”
+
+Desde sus mismos comienzos en los '80, el movimiento de Stallman apuntaba a
+producir alternativas de software libre a sistemas operativos privativos como
+Unix y Microsoft Windows así como software privativo como Microsoft Office.  El
+software de Stallman podría no haber sido el mejor, pero algún sacrificio en la
+eficiencia técnica era un precio digno de pagar por la emancipación.  Alguna
+incomodidad era incluso deseable, porque el objetivo de Stallman, como decía en
+su ensayo de 1998 "Por qué el software libre es mejor que el código abierto",
+era pedir que "la gente piense sobre cosas que de otra forma ignoraría".
 
 > As O’Reilly discovered a long time ago, memes are for losers; the real
 > money is in epistemes.
@@ -293,26 +475,56 @@ keep shut. Had his efforts succeeded, we might already be living in a
 world where the intricacies of software used for high-frequency trading
 or biometric identification presented no major mysteries.
 
-Stallman is highly idiosyncratic, to put it mildly, and there are many
-geeks who don’t share his agenda. Plenty of developers contributed to
-“free software” projects for reasons that had nothing to do with
-politics. Some, like Linus Torvalds, the Finnish creator of the
-much-celebrated Linux operating system, did so for fun; some because
-they wanted to build more convenient software; some because they wanted
-to learn new and much-demanded skills.
+Lo que apuntalaba el proyecto de Stallman era una crítica profunda al rol de
+las regulaciones de patentes que se habían convertido en retenes para la
+innovación y la creatividad.  Tal vez sin darse cuenta, Stallman argumentaba
+prescientemente sobre por qué el código, y más ampliamente la infraestructura
+tecnológica, debía estar sometido al escrutinio público.  Buscaba abrir las
+cajas negras tecnológicas que las corporaciones conspiraban por mantener
+cerradas.  Si sus esfuerzos hubieran sido exitosos, podríamos estar viviendo en
+un mundo donde las complejidades del software utilizado en la bolsa o la
+identificación biométrica no presentaran mayores misterios.
 
-Once the corporate world began expressing interest in free software,
-many nonpolitical geeks sensed a lucrative business opportunity. As
-technology entrepreneur [Michael Tiemann put it in
+Stallman is highly idiosyncratic, to put it mildly, and there are many geeks
+who don’t share his agenda. Plenty of developers contributed to “free software”
+projects for reasons that had nothing to do with politics. Some, like Linus
+Torvalds, the Finnish creator of the much-celebrated Linux operating system,
+did so for fun; some because they wanted to build more convenient software;
+some because they wanted to learn new and much-demanded skills.
+
+Stallman es bastante idiosincrático, para decirlo levemente, y muchas geeks no
+comparten su agenda.  Muchas desarrolladoras contribuyen a proyectos de
+software libre por razones que no tienen nada que ver con la política.
+Algunas, como Linus Torvalds, el creador finlandés del celebrado sistema
+operativo Linux, lo hacían por diversión.  Otras porque querían construir
+software más conveniente.  Y otras porque querían aprender habilidades nuevas y
+en demanda.
+
+Once the corporate world began expressing interest in free software, many
+nonpolitical geeks sensed a lucrative business opportunity. As technology
+entrepreneur [Michael Tiemann put it in
 1999](http://oreilly.com/openbook/opensources/book/tiemans.html), while
-Stallman’s manifesto “read like a socialist polemic . . . I saw
-something different. I saw a business plan in disguise.” Stallman’s
-rights-talk, however, risked alienating the corporate types. Stallman
-didn’t care about offending the suits, as his goal was to convince
-ordinary users to choose free software on ethical grounds, not to sell
-it to business types as a cheaper or more efficient alternative to
-proprietary software. After all, he was trying to launch a radical
-social movement, not a complacent business association.
+     Stallman’s manifesto “read like a socialist polemic . . . I saw something
+     different. I saw a business plan in disguise.” Stallman’s rights-talk,
+     however, risked alienating the corporate types. Stallman didn’t care about
+     offending the suits, as his goal was to convince ordinary users to choose
+     free software on ethical grounds, not to sell it to business types as a
+     cheaper or more efficient alternative to proprietary software. After all,
+     he was trying to launch a radical social movement, not a complacent
+     business association.
+
+Una vez que el mundo corporativo empezó a expresar interés por el software
+libre, muchas geeks no políticas presintieron una oportunidad de negocios
+lucrativa.  Como decía el emprendedor tecnológico Michael Tiemann en 1999,
+mientras que el manifiesto de Stallman "se leía como una polémica socialista...
+vi algo diferente.  Vi un plan de negocios disfrazado."  La militancia por los
+derechos que hacía Stallman, sin embargo, ponía en riesgo el interés de la
+gente corporativa.  A Stallman no le importaba ofender a la gente de traje,
+porque su objetivo era convencer a las usuarias ordinarias para que elijan el
+software libre por motivos éticos y no venderlo a los negociantes como una
+alternativa más barata o eficiente al software privativo.  Después de todo,
+estaba intentando lanzar un movimiento social radical, no una asociación de
+negocios complaciente.
 
 By early 1998 several business-minded members of the free software
 community were ready to split from Stallman, so they masterminded a
@@ -327,6 +539,21 @@ summit](http://oreilly.com/oreilly/press/freeware.html), where a number
 of handpicked loyalists—Silicon democracy in action!—voted for “open
 source” as their preferred label. Stallman was not invited.
 
+Para principios del '98 varios miembros de la comunidad del software libre con
+mente de negocios estaban listos para separarse de Stallman, por lo que
+planearon un golpe, formando su propio espacio de activismo --la _Open Source
+Iniciative_ [Iniciativa por el Código Abierto]--, trayendo a O'Reilly para
+ayudarles en el cambio de marca.  El tiempo era el correcto.  _Netscape_
+acababa de rendirse ante Microsoft en las guerras entre navegadores y había
+prometido que las próximas versiones de _Netscape Communicator_[^?] serían
+gratuitas, a la vez que su código estaría disponible públicamente.  Algunos
+meses después, O'Reilly organizaba un muy publicitado encuentro, donde algunos
+de los lealistas escogidos --¡democracia de silicona en acción!-- votaron por
+_open source_ [código abierto] como la marca preferida.  Stallman no estuvo
+invitado.
+
+[^?]: No es netscape navigator?
+
 The label “open source” may have been new, but the ideas behind it had
 been in the air for some time. In 1997, even before the coup, Eric
 Raymond—a close associate of O’Reilly, a passionate libertarian, and the
@@ -338,6 +565,17 @@ make software. (In 1999, O’Reilly turned it into a successful book.)
 Emphasizing its highly distributed nature, Raymond captured the essence
 of open source software in a big-paradigm kind of way that could
 spellbind McKinsey consultants and leftist academics alike.
+
+La marca _open source_ puede haber sido nueva, pero las ideas detrás de ella
+habían circulado antes.  En 1997, aun antes del golpe, Eric Raymond --un
+asociado cercano de O'Reilly, _libertarian_ apasionado y fundador del grupo con
+nombre auto-explicativo _Geeks with Guns_ [Geeks con armas]-- daba una charla
+muy intelectual llamada _La catedral y el bazar_, que preveía la emergencia una
+forma nueva y radicalmente colaborativa de producir software.  (En 1999,
+O'Reilly lo convirtió en un exitoso libro.)  Poniendo énfasis en su naturaleza
+altamente distribuida, Raymond capturó la esencia del software de código
+abierto en forma de un gran paradigma que podía atraer tanto a consultores de
+McKinsey como a académicas de izquierda.
 
 [![b22\_fisher3\_bssurvayer\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher3_bssurvayer_308.png)](http://www.marksfisher.com/)Even
 before the coup, O’Reilly occupied an ambiguous—and commercially
@@ -358,6 +596,26 @@ worry—and for good reason, as it turned out—that the tech industry was
 about to collapse.In those early days, the messaging around open source
 occasionally bordered on propaganda. [As Raymond himself put it in
 1999](http://oreilly.com/openbook/opensources/book/raymond2.html), “what
+
+Aun antes del golpe, O'Reilly ocupaba un lugar ambiguo y comercialmente
+esencial en la comunidad del software libre.  Por un lado, publicaba manuales
+que ayudaban a entrenar a las nuevas conversas a la causa.  Por otro, esos
+manuales eran caros.  También eran de excelente calidad, lo que, como se
+quejaba Stallman, desalentaban a la comunidad de producir alternativas más
+baratas.  En última instancia, sin embargo, el desacuerdo entre Stallman y
+O'Reilly --siendo que este último se convertiría muy pronto en el animador más
+visible del paradigma del código abierto-- probablemente haya tenido que ver
+con sus muy diferentes roles y aspiraciones.  Stallman como reformista social
+podía esperar décadas hasta que sus argumentos éticos en favor del software
+libre prevaliesen en el debate público.  O'Reilly el hombre de negocios
+inteligente tenía un tiempo más corto:  la adopción rápida del software de
+código abierto por la comunidad empresarial garantizada una demanda estable por
+los libros y eventosde O'Reilly, especialmente en un momento donde algunos
+analistas empezaban a preocuparse --y con buenas razones, como resultaría más
+tarde-- porque la industria tecnológica esté al borde del colapso.  En aquellos
+días, la mensajería acerca del código abierto bordeaba ocasionalmente con la
+propaganda.  Como decía Raymond en 1999
+
 we needed to mount was in effect a *marketing campaign*,” one that
 “would require marketing techniques (spin, image-building, and
 re-branding) to make it work.” This budding movement prided itself on
@@ -376,6 +634,13 @@ do we actually encourage and spark innovation,” he [announced a decade
 later](http://news.cnet.com/8301-13505_3-10264471-16.html). While free
 software was meant to force developers to lose sleep over ethical
 dilemmas, open source software was meant to end their insomnia.
+
+"lo que necesitábamos montar era efectivamente una campaña de marketing" que
+"requeriría poner en juego técnicas de marketing (_spin_, construcción de
+imagen y cambio de marca) para funcionar".  Este movimiento en ciernes se
+enorgullecía en no querer hablar sobre los objetivos que perseguía.  A
+excepción de la mejora en la eficiencia y la reducción de costos, todo lo demás
+estaba bastante indefinido.
 
 The coup succeeded. Stallman’s project was marginalized. But O’Reilly
 and his acolytes didn’t win with better arguments; they won with better
