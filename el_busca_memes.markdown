@@ -654,6 +654,12 @@ producing a singular vision of the Internet to justify his ideas about
 the supremacy of the open source paradigm, O’Reilly is close to pulling
 a similar trick on how we talk about government reform.
 
+El golpe tuvo exito. El proyecto de Stallman fue marginalizado. Pero O'Reilly
+y sus discípulos no ganaron por tener mejores argumentos; ganaron por tener mejores
+relaciones publicas. Para hacer su narrativa sobre _open source_  creible
+a un publico con una creciente fascinacion por internet, O'Reilly produjo 
+
+
 <span class="dropcap">T</span>o understand how O’Reilly’s idea of the
 Internet helped legitimize the open source paradigm, it’s important to
 remember that much of Stallman’s efforts centered on software licenses.
