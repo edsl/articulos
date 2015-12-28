@@ -639,8 +639,20 @@ dilemmas, open source software was meant to end their insomnia.
 "requeriría poner en juego técnicas de marketing (_spin_, construcción de
 imagen y cambio de marca) para funcionar".  Este movimiento en ciernes se
 enorgullecía en no querer hablar sobre los objetivos que perseguía.  A
-excepción de la mejora en la eficiencia y la reducción de costos, todo lo demás
-estaba bastante indefinido.
+excepción de la mejora en la eficiencia y la reducción de costos, todo
+lo demás estaba bastante indefinido.  En cambio, puso todo el énfasis en
+cómo estaba persiguiendo esos fines, es decir de forma totalmente
+decentralizada, utilizando plataformas de Internet, con poca
+coordinación central.  En contraste con el software libre, el código
+abierto no tenía un componente moral obvio.  Según Raymond, "el código
+abierto no es un problema particularmente moral o legal, porque [...]
+conduce a mejores resultados en cuestión de ingeniería y términos
+económicos".  O'Reilly concurría.  "No creo que sea un problema
+religioso.  Se trata más bien de cómo estimular y encender la
+innovación", anunció una década más tarde.  Mientras que el software
+libre estaba orientado a que las desarrolladoras pierdan el sueño con
+problemas éticos, el software de código abierto vino a terminar con su
+insomnio.
 
 The coup succeeded. Stallman’s project was marginalized. But O’Reilly
 and his acolytes didn’t win with better arguments; they won with better
@@ -654,11 +666,18 @@ producing a singular vision of the Internet to justify his ideas about
 the supremacy of the open source paradigm, O’Reilly is close to pulling
 a similar trick on how we talk about government reform.
 
-El golpe tuvo exito. El proyecto de Stallman fue marginalizado. Pero O'Reilly
-y sus discípulos no ganaron por tener mejores argumentos; ganaron por tener mejores
-relaciones publicas. Para hacer su narrativa sobre _open source_  creible
-a un publico con una creciente fascinacion por internet, O'Reilly produjo 
-
+El golpe tuvo éxito y el proyecto de Stallman fue marginalizado.  Pero
+O'Reilly y sus acólitos no ganaron por tener mejores argumentos. Ganaron
+porque tenían mejores relaciones públicas.  Para lograr que su narrativa
+sobre el software de código abierto sea creíble para un público con una
+creciente fascinación con Internet, O'Reilly produjo una historia de
+esta altamente particularizada que luego tomó vida por sí misma.  En
+pocos años, esa narrativa se volvió la forma estándar de hablar sobre la
+historia de Internet, dándole el tipo de coherencia intelectual que
+nunca tuvo realmente.  Una década después de producir esta singular
+visión sobre la Internet para justificar sus ideas sobre la supremacía
+del paradigma de código abierto, O'Reilly está cerca de lograr un truco
+similar sobre cómo hablamos de la reforma gubernamental.
 
 <span class="dropcap">T</span>o understand how O’Reilly’s idea of the
 Internet helped legitimize the open source paradigm, it’s important to
@@ -673,6 +692,18 @@ O’Reilly urged in an[interview with
 *InfoWorld*](http://www.infoworld.com/d/developer-world/tim-oreilly-software-licenses-dont-work-261)
 in 2003.
 
+Para comprender cómo la idea de Internet que O'Reilly usó para legitimar
+el paradigma de código abierto, es importante recordar que muchos de los
+esfuerzos de Stallman se dirigieron a las licencias de software.  La
+apuesta de O'Reilly fue que mientras el software migraba de los
+escritorios a los servidores --lo que luego llamaríamos "la nube" en
+otra muestra de runrunfilia-- las licencias dejarían de importar.  Ya
+que no hay un intercambio de código cuando usamos _Google_ o _Amazon_,
+resulta contraproductivo obsesionarse por las licencias.  "Dejemos de
+pensar en las licencias por un rato.  Dejemos de pensar que eso es lo
+principal en la importancia del código abierto", urgía O'Reilly en una
+entrevista para _InfoWorld_ del 2003.
+
 So what did matter about open source? Not “freedom”—at least not in
 Stallman’s sense of the word. O’Reilly cared for only one type of
 freedom: the freedom of developers to distribute software on whatever
@@ -684,6 +715,18 @@ Stallman](http://www.linuxdevcenter.com/pub/a/linux/2001/08/15/oreilly_response.
 is that which protects “my choice as a creator to give, or not to give,
 the fruits of my work to you, as a ‘user’ of that work, and for you, as
 a user, to accept or reject the terms I place on that gift.”
+
+¿Pero entonces qué era lo que importaba del código abierto?  No la
+"libertad" --al menos no en el sentido que le daba Stallman.  A O'Reilly
+solo le importaba un tipo de libertad: la libertad de las
+desarrolladoras de distribuir software en los términos que quisieran.
+Esta era la libertad del productor, el emprendedor randiano, que debe
+ser dejado en tranquilo para innovar, sin ser perturbado por las leyes
+ni la ética.  La libertad más importante, como dijo O'Reilly en un
+intercambio con Stallman, es aquella que protege "mi libertad en tanto
+creado para darte, o no darte, los frutos de mi trabajo a vos la
+"usuaria" de ese trabajo, y de vos como usuaria, de aceptar o rechazar
+los términos en los que cedo mi regalo".
 
 This stood in stark contrast to Stallman’s plan of curtailing—by appeals
 to ethics and, one day, perhaps, law—the freedom of developers in order
@@ -700,6 +743,22 @@ position is that people should be free to find out what works for them,”
 works” for developers might eventually hurt everyone else—which was
 essentially Stallman’s argument—did not bother O’Reilly. For all his
 economistic outlook, he was not one to talk externalities.
+
+Esto estaba en hondo contraste con el plan de Stallman para recortar --a
+través de la ética y algún día por las leyes-- la libertad de las
+desarrolladoras para promover la libertad de las usuarias.  O'Reilly se
+opuso a este programa:  "Apoyo completamente el derecho de Richard
+[Stallman] o de cualquier autora individual de disponibilizar su trabajo
+bajo los términos de la GPL; pongo el freno cuando dicen que otras que
+no lo hacen están equivocadas".  Lo correcto, para él, es dejar en paz a
+las desarrolladoras.  "Estoy dispuesto a aceptar cualquier argumento que
+diga que hay ventajas y desventajas sobre cualquier método de
+licenciamiento. [...]  Mi posición moral es que la gente debe ser libre
+de encontrar la que más le convenga", escribió en 2001.  Ese "lo que más
+le convenga" para las desarrolladoras podría eventualmente lastimar a
+todas las demás --lo esencial en el argumento de Stallman-- no molestaba
+a O'Reilly.  En su postura economicista, no tenían interés las
+externalidades.
 
 [![b22\_fisher4\_crush\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher4_crush_308.png)](http://www.marksfisher.com/)That
 such an argument could be mounted reveals just how much political
@@ -722,6 +781,32 @@ even if its goal was to promote a greater uptake of open source
 software, must be opposed, since it would taint the reputation of open
 source as technologically and economically superior to proprietary
 software. Occasionally this stance led to paradoxes, as, for example,
+
+Que tal debate pueda ser montado revela cuánto del bagaje político se ha
+infiltrado en los debates sobre políticas públicas una vez que el
+"software de código abierto" reemplazó al "software libre" como el
+término elegido.  Los gobiernos son empujados constantemente a hacer
+cosas que a alguien en el sector privado no le gustaría, ¿por qué la
+industria del software debería ser especial?  La promoción de la
+responsabilidad pública o la mejora de la seguridad de la red podrían
+desbaratar el modelo de negocios de alguien, ¿pero qué importa?  Una vez
+que el término "código abierto" entró en nuestro vocabulario, pudimos
+re-interpretar el cálculo completo de las políticas públicas en términos
+muy diferentes.  De esta forma, en lugar de discutir sobre el interés
+público, estamos discutiendo sobre los intereses de desarrolladoras de
+software individuales, mientras que proclamamos que esta es una
+discusión sobre "innovación" y "progreso" y no sobre "responsabilidad" o
+"seguridad".  Según esta interpretación randiana del código abierto, el
+objetivo de las regulaciones y el activismo público debería ser que
+absolutamente nada --ni la ley ni las consideraciones morales-- detengan
+la marcha de la revolución del código abierto.  Cualquier intento de
+mover el asunto sobre los frutos del trabajo de las desarrolladoras a la
+regulación pública debe ser rechazad, aun si su objetivo es promover una
+mayor adopción del software de código abierto, ya que mancillaría la
+reputación del código abierto como tecnológica y económicamente superior
+al software privativo.  Ocasionalmente esto lleva a paradojas, por
+ejemplo
+
 during a [heated 2002
 debate](http://www.thebaffler.com/salvos/%20http://news.slashdot.org/story/02/08/16/1621244/tim-oreilly-bashes-open-source-efforts-in-govt)
 on whether governments should be required to ditch Microsoft and switch
@@ -732,6 +817,8 @@ victory for open source achieved through deprivation of the user’s right
 to choose would indeed be a betrayal of the principles that free
 software and open source have stood for,” O’Reilly wrote in a [widely
 discussed blog post](http://www.oreillynet.com/pub/wlg/1840).
+
+durante un intenso debate en el 2002 sobre si los estados
 
 To weaken Stallman’s position, O’Reilly had to show that the free
 software movement was fighting a pointless, stupid war: the advent of
