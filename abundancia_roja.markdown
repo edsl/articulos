@@ -56,7 +56,7 @@ ciudad científica siberiana de Akademgorodok, Abundancia roja tuvo éxito
 en la improbable misión de convertir la planificación cibernética en un
 libro atrapante.  Pero el interés que atrajo por parte de economistas,
 informáticas y activistas políticas no fue solo por la narrativa
-científica y la intriga política.  También le debió mucho al momento en
+científica y la intriga política.  También le debió Mucho al momento en
 que se publico.  Al aparecer en el medio de la austeridad y el
 desempleo, con el mercado global todavía al borde del colapso,
 Abundancia roja puede interpretarse de distintas formas: a) como un
@@ -267,7 +267,7 @@ una?  Si la planificación centralizada sufría de un problema de calculo,
 ¿por que no resolverla con maquinas de calculo reales?  Este fue
 precisamente el argumento del oponente de Hayek, el economista Oskar
 Lange, que refiriéndose en retrospectiva al debate sobre el "calculo
-socialista", remarcaba: "hoy mi tarea hubiera sido mucho mas simple.  Mi
+socialista", remarcaba: "hoy mi tarea hubiera sido Mucho mas simple.  Mi
 respuesta a Hayek hubiera sido: ¿cual es el problema?  Pongamos las
 ecuaciones simultaneas en una computadora electrónica y obtendremos la
 solución en menos de un segundo" [@lange-1967].  Este era el proyecto de
@@ -412,7 +412,7 @@ engage deeply with the potentialities of contemporary computing.
 La presión combinada del desastre practico de la URSS y el argumento
 teórico de la escuela de Austria ejerció una fuerza enorme dentro de lo
 que quedaba de la izquierda, presionándola para reducir y redefinir el
-limite de sus aspiraciones radicales a, como mucho, una economía de
+limite de sus aspiraciones radicales a, como Mucho, una economía de
 empresas colectivamente apropiadas, coordinadas por señales de precios.
 Las muchas variantes de tal "socialismo de mercado" han provocado el
 rechazo de los marxistas que se resisten al intercambio de mercancías.
@@ -724,7 +724,7 @@ de programación estándar procesarían los datos de la producción local y
 los enviarían por "teletipo"[^ndt-Teletipo] a una instalación de
 planificación central, que cada 20 minutos respondería por señales de
 radio con los datos ajustados estadísticamente, para ser reutilizados en
-el nivel local. Este escenario recuerda mucho al destartalado
+el nivel local. Este escenario recuerda Mucho al destartalado
 tecno-futurismo que nos muestra Terry Gilliam en _Brazil_.  Para
 actualizar a los Nuevos Socialistas deberíamos referirnos más bien a la
 iconoclasta visión de Fredric Jameson sobre _Wal-Mart_ como "la forma
@@ -1253,19 +1253,20 @@ implications.’ These concerns are being echoed by mainstream economists
 Desde el 2000, no obstante, el debate sobre la automatización se ha
 renovado.  La reducción continua de los costos computacionales, las
 mejoras en las tecnologías visuales y táctiles, las inversiones
-militares de las guerras post-11S en drones y vehículos autónomos y las
-demandas salariales de las trabajadoras en China, India y otras fuentes
-de trabajo barato ha disparado una "nueva ola de robots... mucho más
-adeptas que aquellas utilizadas comunmente por las automotrices y otras
-fábricas pesadas", más flexibles y fáciles de entrenar, reemplazando
-trabajadoras no solo en la manufactura sino también en los procesos de
-distribución, circulación y servicios, como el almacenamiento, los
-_call-centers_ e incluso el cuidado de las ancianas [@markoff-2012].
-Erik Brynjolfsson y Andrew McAfee [-@brynjolfsson-mcafee], economistas
-del MIT, han dado la alarma sobre "el ritmo y la escala de esta
-usurpación de las capacidades humanas" está alcanzando un nuevo nivel
-con "profundas implicaciones económicas".  Estas preocupaciones se están
-haciendo eco entre los economistas _mainstream_ [@klugman-2012].
+militares en drones  y vehículos autónomos para las guerras posteriores
+al 11/9, demandas salariales de las trabajadoras en China, India y otras
+fuentes de trabajo barato ha disparado una "nueva ola de robots... Mucho
+más adeptas que aquellas utilizadas comúnmente por las automotrices y
+otras fábricas pesadas", más flexibles y fáciles de entrenar,
+reemplazando trabajadoras no solo en la manufactura sino también en los
+procesos de distribución, circulación y servicios, como el
+almacenamiento, los _call-centers_ e incluso el cuidado de personas
+ancianas [@markoff-2012].  Erik Brynjolfsson y Andrew McAfee
+[-@brynjolfsson-mcafee], economistas del MIT, han dado la alarma sobre
+"el ritmo y la escala de esta usurpación de las capacidades humanas"
+está alcanzando un nuevo nivel con "profundas implicaciones económicas".
+Estas preocupaciones se están haciendo eco entre los economistas
+_mainstream_ [@klugman-2012].
 
 Within capital, automation threatens workers with unemployment or
 production speed-up. If, however, there were no dominant structural
@@ -1481,7 +1482,7 @@ tecnologías también están asociadas a la proliferación de robots y
 autómatas de pequeña escala.  De hecho el cáliz sagrado del movimiento
 _maker_ es la replicadora auto-replicante, la máquina de von Neumann
 perfecta.  La extrapolación de estas tendencias pone a las "fabbers" y
-"replicadoras" de la imaginación de la ciencia ficción mucho más cerca
+"replicadoras" de la imaginación de la ciencia ficción Mucho más cerca
 de realizarse de lo que hasta ahora parecía posible.
 
 
@@ -1589,7 +1590,7 @@ bio-crisis llama a la planificación, o al cálculo, pero un cálculo de
 acuerdo a métricas que midan límites, umbrales y grados de la
 supervivencia de las especies, humanas o no.  Al discutir los
 imperativos de una planificación eco-socialista, Michael Lowy
-[-@lowy-2009] señala que requeriría una dirección social mucho más
+[-@lowy-2009] señala que requeriría una dirección social Mucho más
 comprensiva que el mero "control obrero" o incluso la reconciliación
 negociada entre los intereses de las trabajadoras y las consumidoras que
 sugieren abordajes como los de Parecon.  Antes bien, implica una
