@@ -8,7 +8,7 @@ alternatives; long-running debates about politics, rights, and freedoms have
 been recast in the seemingly natural language of economics, innovation, and
 efficiency. Complexity, as it turns out, is not particularly viral.
 
-Mientras las brillantes más mentes de Silicon Valley "desbaratan"[^disrupt]
+Mientras las mentes más brillantes de Silicon Valley "desbaratan"[^disrupt]
 cualquier industria demasiado débil para pararlas, algo raro está ocurriendo
 con nuestro lenguaje.  Las viejas, confiables palabras ya no significan lo que
 otrora;  a menudo no significan nada en absoluto.  Nuestro lenguaje, como todo
@@ -164,7 +164,7 @@ the science fiction writer Frank Herbert, the author of the *Dune*
 series, in which he waxes lyrical about Martin Heidegger and Karl
 Jaspers.
 
-Como estilizado y suave auto-promotor con una vision filosofica sobre todo,
+Un estilizado y suave auto-promotor con una vision filosofica sobre todo,
 O'Reilly es el Bernard-Henri Levy de la Ruta 101 y el filosofo de la corte
 favorito de las elites de TED.  Su impresionante estatura intelectual en el
 Valley probablemente pueda ser atribuida al simple hecho de que esta mejor
@@ -216,7 +216,7 @@ debería ser la "Salud 2.0".
 > Bernard-Henri Lévy of Route 101, the favorite court philosopher of the
 > TED elites.
 
-> Como auto-promotor con estilo y labia, Tim O'Reilly es el Bernard-Henri Lévy
+> Un auto-promotor con estilo y labia, Tim O'Reilly es el Bernard-Henri Lévy
 > de _Route 101_, el filósofo de la corte favorito de las élites TED.
 
 None of this is necessarily bad. On first impression, O’Reilly seems
@@ -332,7 +332,7 @@ characters. For Silicon Valley and its idols, innovation is the new
 selfishness.
 
 Sin embargo, no es la política lo que vuelve a O'Reilly el hombre más peligroso
-de todo _Sillicon Valley_, quesiendo un enclave del pensamiento randiano,
+de todo _Sillicon Valley_, un pujante enclave del pensamiento randiano,
 rebosa de casos más locos.  La maestría de O'Reilly para las relaciones
 públicas, por otro lado, no tiene rival y avergonzaría a muchos de los _spin
 doctors_ más importantes de Washington.  Nadie ha hecho más por volver los
@@ -818,7 +818,14 @@ to choose would indeed be a betrayal of the principles that free
 software and open source have stood for,” O’Reilly wrote in a [widely
 discussed blog post](http://www.oreillynet.com/pub/wlg/1840).
 
-durante un intenso debate en el 2002 sobre si los estados
+durante un intenso debate en el 2002 sobre si los gobiernos deberian
+estar obligados a abandonar Microsoft y migrar a software de codigo abierto.
+O'Reilly manifestó su vehemente oposición a tal propuesta. "nadie deberia
+ser forzado a elegir software de codigo abierto, como nadie deberia estar 
+forzado a elegir software privativo. Cualquier victoria para el movimiento 
+open source lograda privando a los usuarios de su derecho de elegir, seria
+una traición a los principios donde se plantan el software libre y el codigo
+abierto.
 
 To weaken Stallman’s position, O’Reilly had to show that the free
 software movement was fighting a pointless, stupid war: the advent of
@@ -831,6 +838,19 @@ the means to enable the one and only end that mattered to free software
 advocates: freedom. A different set of technological practices—e.g., the
 move from desktop-run software to the cloud—could have easily
 accommodated a different means of ensuring that freedom.
+
+Para debilitar la position de Stallman, O'Reilly tuvo que mostrar que
+el movimiento del software libre estaba luchando una guerra inútil y estupida: 
+el advenimiento de Internet hiso a la obsesion por las licencias de Stallman obsoleta.
+Habia una buena cantidad de manipulación semántica en juego. Para Stallman,
+las licencias nunca fueron un fin por si mismas; importaban solo por como 
+codificaban un numero de practicas que derivaban de sus vision de una buena vida
+mediada por tecnología. En otras palabras, las licencias solo eran el medio para
+permitir el unico y verdadero que les importaba a los defensores del software
+libre: libertad. Una coleccion diferente de practicas tecnologicas ( por ejemplo, 
+remplazar el software que corre en ordenadores por software que corre en la nube)
+podrian haber facilmente acomodado  un diferente medio para garantizar esa libertad.
+
 
 In fact, Stallman’s philosophy, however rudimentary, had all the right
 conceptual tools to let us think about the desirability of moving
@@ -851,6 +871,17 @@ broader moral issues that would have remained central to the debates had
 Sure, there were exceptions—like the highly political and legalistic
 community that worked on Debian, yet another operating system—but they
 were the exceptions that proved the rule.
+
+De hecho, la filosofia de Stallman, en tanto que rudimental, tenia todas 
+las herramientas conceptuales adecuadas para permitirnos pensar sobre
+la conveniencia de mover todo a la nube. El consiguiente asalto a 
+la privacidad, la centralizacion de los datos en las manos de solo
+un par de compañias, la crecente accesibilidad de datos sobre los usuarios
+para las agencias de orden publico que no se preocupan si quiera
+de conseguir una orden de allanamiento: todas esas consecuencias  de
+la computacion en la nube podrian haber sido predecidas y analizadas, 
+incluso si pelear contra esas consecuencia hubiera requerido de herramientas
+diferentes a las licencias. 
 
 To maximize the appeal and legitimacy of this new paradigm, O’Reilly had
 to establish that open source both predated free software and was well
