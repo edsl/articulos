@@ -224,7 +224,7 @@ movement. (Hayek, 1945: 527)
 
 Por lo tanto los economistas austríacos ofrecían una versión actualizada
 de la "mano invisible" del capital de Adam Smith, ahora reconvertida en
-un sistema de información cuasi cibernético: 
+un sistema de información cuasi cibernético:
 
 > Es más que metafórico describir el sistema de precios como una especie
 > de maquinaria para registrar el cambio, o como un sistema de
@@ -700,7 +700,7 @@ system to the computers of suppliers, to allow automatic reordering. The
 company’s early adoption of Universal Product Codes had led to a ‘higher
 stage’ requirement for Radio Frequency Identification (RFID) tags in all
 products to enable tracking of commodities, workers and consumers within
-and beyond its global supply chain. 
+and beyond its global supply chain.
 
 
 
@@ -772,7 +772,7 @@ data volume the person-to-person traffic of the Internet (Economist,
 combined with digital coding compressed to the sub-microscopic level,
 opens up a virtually limitless capacity for the identification of not
 just of things and people, but also of their most elementary components
-and their relationships. 
+and their relationships.
 
 
 Wal-Mart resulta importante porque se encuentra "en la vanguardia de un
@@ -797,7 +797,7 @@ Benjamin Bratton [-@bratton-2013], con tal capacidad de
 direccionamiento, combinada con la codificación digital comprimisa a
 niveles sub-microscópicos, habilita una capacidad virtualmente infinita
 para la identificación no solo de cosas y de personas, sino también de
-los más elementales componentes de sus relaciones. 
+los más elementales componentes de sus relaciones.
 
 [^shift]: _Shift_ en el original, como en cambio de paradigma (Nota de
 la traducción.)
@@ -898,7 +898,7 @@ haya sido democráticamente seleccionado, lo actualice y revise según sea
 necesario.  Castoriadis estaría de acuerdo con Raymond Williams
 [-@williams-1983] cuando observaba que no hay nada intrínsecamente
 autoritario sobre la planificación, siempre y cuando exista más de un
-plan. 
+plan.
 
 This early concept of cybernetic self-management is a precursor of a
 more recent envisioning of post-capitalism, Michael Albert and Robin
@@ -1063,7 +1063,7 @@ search the Internet, identify best offers, aggregate this information
 for users, or, indeed, make purchases autonomously. However, the arena
 in which such agents truly excel is in the financial sector, where high
 frequency trading is entirely dependent on software ‘bots’ capable of
-responding to arbitrage possibilities in milliseconds. 
+responding to arbitrage possibilities in milliseconds.
 
 Comercialmente, las "agentes de puja" por software son capaces de
 superar consistentemente a agentes humanas tanto que "las humanas están
@@ -1093,7 +1093,7 @@ the model’ (Greenwood, 2007: 9). It is possible to design agents with
 macro-level objectives that involve more than just the maximization of
 individual self-interest; two ‘welfare’ principles that economists have
 experimented with incorporating are equality and environmental
-protection sustainability. 
+protection sustainability.
 
 No podemos evitar preguntarnos qué pasaría si las agentes de software
 pudieran manifestar una política diferente. Tomando en cuenta que los
@@ -1170,31 +1170,31 @@ however, identify three cybernetic tendencies that point towards the
 production.
 
 Aun así, ¿es necesaria la planificación?  Los esquemas de planificación
-neo-socialistas centralizados tanto como sus contrapartes consejistas
-decentralizadas toman las computadoras como instrumentos de cálculo y de
-medición, particularmente en la medición del trabajo.  Su objetivo es
-abolir la explotación capitalista retornándole a las trabajadoras el
-valor completo de su tiempo de trabajo.  Sin embargo existe otra línea
-del futurismo comunista que entiende a las computadoras no tanto como
-instrumentos de planificación sino como máquinas de abundancia.
-Podríamos decir que existen dos formas de ganarle a la catalaxia
-capitalista de Hayek.  La primera es superarla en capacidad de cálculo.
-La segunda es demolerla: la escasez es reemplazada por plenitud,
-terminando con la necesidad de los precios o la planificación.  Para las
-marxistas, la "abundancia" cierra la transición desde la fase "baja" del
-comunismo, que todavía debe resolver los problemas de la escasez, a una
-fase más alta bajo el principio "de cada quien según su capacidad, a
-cada quien según su necesidad".  Una metáfora popular para las
-condiciones tecnológicas necesarias para este último momento es el
-"replicador" de _Star Trek_, que automáticamente y con energía infinita
-provee a las necesidades humanas [@fraise-2011].  Este ensayo no intenta
-adjudicar qué nivel de satisfacción de necesidades debería ser
-considerado "suficiente" o qué combinación de crecimiento y
-redistribución es adecuada para alcanzarlo.  Este seguramente será el
-problema de las planificadoras colectivas del futuro.  Sin embargo,
-identificamos tres tendencias cibernéticas que apuntan hacia esta fase
-"alta" del comunismo: la automatización, la copia y la producción de
-pares. 
+neo-socialistas centralizados tanto como sus contrapartes los
+consejistas descentralizadas toman las computadoras como instrumentos de
+cálculo y de medición, particularmente en la medición del trabajo.  Su
+objetivo es abolir la explotación capitalista retornándole a las
+trabajadoras el valor completo de su tiempo de trabajo.  Sin embargo
+existe otra línea del futurismo comunista que entiende a las
+computadoras no tanto como instrumentos de planificación sino como
+máquinas de abundancia.  Podríamos decir que existen dos formas de
+ganarle a la catalaxia capitalista de Hayek. La primera es superarla en
+capacidad de cálculo.  La segunda es demolerla: la escasez es
+reemplazada por plenitud, terminando con la necesidad de los precios o
+la planificación.  Para las marxistas, la "abundancia" cierra la
+transición desde la fase "baja" del comunismo, que todavía debe resolver
+los problemas de la escasez, a una fase más elevada bajo el principio
+"de cada quien según su capacidad, a cada quien según su necesidad".
+Una metáfora popular para las condiciones tecnológicas necesarias para
+este último momento es el "replicador" de _Star Trek_, que
+automáticamente y con energía infinita provee a las necesidades humanas
+[@fraise-2011]. Este ensayo no intenta adjudicar qué nivel de
+satisfacción de necesidades debería ser considerado "suficiente" o qué
+combinación de crecimiento y redistribución es adecuada para alcanzarlo.
+Este seguramente será el problema de las planificadoras colectivas del
+futuro.  Sin embargo, identificamos tres tendencias cibernéticas que
+apuntan hacia esta fase "alta" del comunismo: la automatización, la
+copia y la producción de pares.
 
 
 Automation has been the most central to the communist imagination. Its
@@ -1212,7 +1212,7 @@ cheap labour, and followed a ‘march through the sectors’ that pushes a
 moving front of labour commodification through agriculture, industry and
 services.
 
-La automatización ha sido la más central para la imaginación comunista.
+La automatización ha sido lo más central para el imaginario comunista.
 Su postulado clásico es el ahora famoso "Fragmento sobre las máquinas"
 de los Grundrisse, donde al observar la fábrica industrial de su tiempo,
 Marx [-@marx-1973, pp. 690-711] predice que la tendencia del capital
@@ -1220,16 +1220,18 @@ hacia la mecanización de la producción y la eliminación consecuente del
 trabajo asalariado hará explotar el sistema.  El fundador de la
 cibernética, Norbert Weiner [-@weiner-1950] vio que su mayor
 consecuencia sería la eliminación computarizada del trabajo.  Esta tesis
-digital sobre el "fin del trabajo" ha sido desarrollada muy francamente
+digital sobre el "fin del trabajo" ha sido desarrollada de manera muy clara
 por pensadoras como Andre Gorz [-@gorz-1985] y Jeremy Rifkin
 [-@rifkin-1995].  Sin embargo, a fines del siglo XX el capital había
-notoriamente evitado este escenario.  Lejos de automatizar completamente
-el trabajo, había salido a buscar tanto las reservas globales de trabajo
-barato como había seguido una "marcha de los sectores" que impulsó un
-frente móvil de comodificación del trabajo a través de la agricultura,
-la industria y los servicios.[^?]
+evitado notoriamente este escenario.  Lejos de automatizar por completo
+el trabajo, sale  buscar tanto las reservas globales de trabajo
+barato,  seguido una "marcha de los sectores" que impulse un
+frente móvil de conmodificacion[^ndt-conmodificacion] del trabajo a través de la agricultura,
+la industria y los servicios.
 
-[^?]: No se entiende un carajo esto.
+[^ndt-conmodificacion]: _Transformacion de biene, servicios, ideas y
+  otros conceptos en marcancia.(Nota de traducción)_
+
 
 Since 2000, however, the automation debate has been renewed. Continuing
 reductions in computing costs, improvements in vision and touch
@@ -1289,7 +1291,7 @@ del salto del reino de la necesidad al de la libertad.  Reintroduce el
 objetivo, bloqueado tanto por el experimento soviético stajanovita y por
 el gremialismo occidental abocado a la lucha salarial, de liberar el
 tiempo del trabajo, con todo lo que esto incluye en términos de
-auto-desarrollo humano y compromiso comunal. 
+auto-desarrollo humano y compromiso comunal.
 
 Juliet Schor’s (1991) estimate, that if American workers had taken gains
 won from productivity increases since the 1950s, not in wages but in
@@ -1339,7 +1341,7 @@ peer-to-peer networks. Piracy, which now accounts for the majority of
 digital music, games, film and other software distributed in Asia,
 Africa, Latin America and Eastern Europe (Karaganis et al., 2011) is the
 clandestine and criminalized manifestation of this tendency; and the
-free and open source software movement its organized expression. 
+free and open source software movement its organized expression.
 
 Mientras las robots socavan la centralidad de la relación asalariada, la
 Internet presenta una posibilidad paralela que son los bienes sin
@@ -1551,7 +1553,7 @@ que si así lo hiciera, la experiencia soviética "plagada por las
 dificultades de la escasez" se volvería "completamente irrelevante para
 el proyecto socialista" [@smith-2006].
 
- 
+
 Anthropocene Knowledge Infrastructures
 
 Infraestructuras de conocimiento en el Antropoceno
@@ -1595,7 +1597,7 @@ reconstrucción profunda de los sistemas económicos, incluyendo la
 abolición de ciertas industrias, como la pesca industrializada o la tala
 indiscriminada, la reformulación de los métodos de transporte, "una
 revolución en el sistema energético" y un impulso hacia el "comunismo
-solar" [@lowy-2009]. 
+solar" [@lowy-2009].
 
 
 Such transformations would involve cybernetics along two major axes, as
@@ -1610,7 +1612,7 @@ will only speed-up planetary heat death. Contrary to all idealistic
 notions of virtual worlds, cybernetics are themselves inextricably part
 of the very industrial system whose operations have to be placed under
 scrutiny in a new system of metabolic regulation that aims for both red
-and green plenty. 
+and green plenty.
 
 Tales transformaciones incluirían a la cibernética en dos ejes mayores,
 ambos contribuyendo a la bio-crisis actual y a la vez como medios
@@ -1625,7 +1627,7 @@ calentamiento planetaria.  Contrariamente a todas las nociones
 idealistas de los mundos virtuales, la cibernética es parte inextricable
 del mismo sistema industrial cuyas operaciones deben ser puestas bajo
 escrutinio en un nuevo sistema de regulación metabólica que apunte a una
-abundancia tanto roja como verde. 
+abundancia tanto roja como verde.
 
 
 However, cybernetic systems are also a potential part of any resolution
@@ -1658,7 +1660,7 @@ computacional.  El conocimiento sobre el cambio climático depende de
 modelos computacionales:  simulaciones sobre el clima, modelos de
 re-análisis, que recrean la historia climática a partir de datos
 históricos y los modelos de datos que combinan y ajustan mediciones de
-distintas fuentes. 
+distintas fuentes.
 
 By revealing the contingency of conditions for species
 survival, and the possibility for their anthropogenic change, such
@@ -1724,7 +1726,7 @@ part, was only a narrow, historically specific and tragic instantiation
 of this capability, whose authoritarianism occludes the most crucial
 point in the Marxist concept of planning, namely that it is intended as
 a means of communal election of which, of a variety of trajectories,
-collective human ‘species-becoming’ might follow (Dyer-Witheford, 2004). 
+collective human ‘species-becoming’ might follow (Dyer-Witheford, 2004).
 
 En la famosa, o notoria, comparación entre "el peor de los arquitectos"
 y "la mejor de las abejas", Marx [-@marx-1964] veía al primero
@@ -1739,7 +1741,7 @@ trágica de esta capacidad, cuyo autoritarismo ocluye el punto más
 crucial del concepto marxista de planificación. Es decir, su propósito
 es ser un medio de elección comunal con una variedad de trayectorias
 entre las cuales podría seguir el devenir colectivo en tanto especie
-humana [@dyer-witheford-2004]. 
+humana [@dyer-witheford-2004].
 
 A new cybernetic communism, itself one of these options, would, we have
 seen, involve some of the following elements: use of the most advanced
@@ -1755,7 +1757,7 @@ production as use values once automation, copy-left, peer-to-peer
 commons and other forms of micro-replication take hold; the informing of
 the entire process by parameters set from the simulations, sensors and
 satellite systems measuring and monitoring the species metabolic
-interchange with the planetary environment. 
+interchange with the planetary environment.
 
 Un nuevo comunismo cibernético, en sí una de estas opciones,
 involucraría algunos de los elementos siguientes: el uso de las
@@ -1833,7 +1835,7 @@ References
 Bibliografía
 ============
 
-Albert, M. (2003) Parecon: Life After Capitalism. New York: Verso. 
+Albert, M. (2003) Parecon: Life After Capitalism. New York: Verso.
 
 Albert, M. & Hahnel, R. (1991) Looking Forward: Participatory Economics for the Twenty First Century. Boston: South End Press.
 
@@ -1843,15 +1845,15 @@ Bauwens, M. (2005) ‘The Political Economy of Peer Production’, CTheory, Janu
 
 Benkler, Y. (2006) The Wealth of Networks. New York: Yale University Press.
 
-Brynjolsson, E, & McAfee, A. (2011) Race Against the Machine. Lexington, MA: Digital Frontier. 
+Brynjolsson, E, & McAfee, A. (2011) Race Against the Machine. Lexington, MA: Digital Frontier.
 
-Cabello, F. et al. (2013) ‘Towards a Free Federated Social Web: Lorea Takes the Networks’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives.  Amsterdam: Institute of Network Cultures. 
+Cabello, F. et al. (2013) ‘Towards a Free Federated Social Web: Lorea Takes the Networks’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives.  Amsterdam: Institute of Network Cultures.
 
 Castells, M. (2000) End of Millennium.  Oxford: Oxford University Press.
 
 Castoriadis, C. (1972) ‘Workers' Councils and the Economics of a Self-Managed Society’: http://www.marxists.org/archive/castoriadis/1972/workerscouncils.htm
 
-Cockshott, P. & Cottrell A. (1993) Towards a New Socialism.  London: Spokesman Books. 
+Cockshott, P. & Cottrell A. (1993) Towards a New Socialism.  London: Spokesman Books.
 
 Cockshott, P., & Zachariah, D. (2012) Arguments For Socialism, June 2: www.lulu.com
 
@@ -1859,7 +1861,7 @@ Cockshott, P., Cottrell, A., Dieterich, H. (2010) ‘Transition to 21st Century 
 
 Dean, J. (2012) The Communist Horizon. London: Verso.
 
-Dieterich, H. (2006) Der Sozialismus des 21. Jahrhunderts – Wirtschaft, Gesellschaft und Demokratie nach dem globalen Kapitalismus. Berlin: Homilius. 
+Dieterich, H. (2006) Der Sozialismus des 21. Jahrhunderts – Wirtschaft, Gesellschaft und Demokratie nach dem globalen Kapitalismus. Berlin: Homilius.
 
 Doctorow, C. (2009) Makers. New York: Tor.
 
@@ -1875,9 +1877,9 @@ Franceschet, M. (2010) ‘PageRank: Standing on the Shoulders of Giants’, Corn
 
 Gerovitch, S. (2008) ‘InerNyet: Why the Soviet Union Did Not Build a Nationwide Computer Network’, History and Technology 24 (4): 335-350.
 
-Gorz, A. (1985) Paths to Paradise: On the Liberation from Work.  London: Pluto Press. 
+Gorz, A. (1985) Paths to Paradise: On the Liberation from Work.  London: Pluto Press.
 
-Greenwood, D. (2007) ‘From Market to Non-Market: An Autonomous Agent Approach to Central Planning’, Knowledge Engineering Review 22 (4): 349-360. 
+Greenwood, D. (2007) ‘From Market to Non-Market: An Autonomous Agent Approach to Central Planning’, Knowledge Engineering Review 22 (4): 349-360.
 
 Hahnel, R. (2008) ‘Robin Hahnel Answers Various Criticisms of Participatory Economics’, ZNet, November 19: http://www.zcommunications.org/robin-hahnel-answers-variouscriticisms-of-participatory-economics-by-robin-hahnel
 
@@ -1893,15 +1895,15 @@ Hayek, F. (1976) Law, Legislation and Liberty v. 2: The Mirage of Social Justice
 
 Hayek, F. (1945) ‘The Use of Knowledge in Society’, American Economic Review 35 (4): 519-530.
 
-Hayek, F. (1944) The Road to Serfdom. Chicago: University of Chicago. 
+Hayek, F. (1944) The Road to Serfdom. Chicago: University of Chicago.
 
 Hui, Y. & Halpin, H. (2013) ‘Collective Individuation: The Future of the Social Web’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives. Amsterdam: Institute of Network Cultures.
 
-Jameson, F. (2009) Valences of the Dialectic. London: Verso. 
+Jameson, F. (2009) Valences of the Dialectic. London: Verso.
 
 Karaganis, J. (ed.) (2011) Media Piracy in Emerging Economies. New York: Social Science Research Council.
 
-Kephart, J. (2002) ‘Software Agents and the Route to the Information Economy’, Proceedings of the National Academy of Sciences of the United States of America, vol. 99, no. Suppl 3, May 14:7207-7213. 
+Kephart, J. (2002) ‘Software Agents and the Route to the Information Economy’, Proceedings of the National Academy of Sciences of the United States of America, vol. 99, no. Suppl 3, May 14:7207-7213.
 
 Krugman, P. (2012) ‘Robots and Robber Barons’, New York Times (December 6): http://www.nytimes.com/2012/12/10/opinion/krugman-robotsand-robber-barons.html?_r=0
 
@@ -1915,7 +1917,7 @@ Lowy, M. (2006) ‘Ecosocialism and Democratic Planning’, in L.  Panitch & C. 
 
 Marx, K. (1964) Economic and Philosophic Manuscripts of 1844. New York: International Publishers.
 
-Marx, K. (1970) Critique of the Gotha Program. Moscow: Progress Publishers.  Marx, K. (1973) Grundrisse. Harmondsworth: Penguin. 
+Marx, K. (1970) Critique of the Gotha Program. Moscow: Progress Publishers.  Marx, K. (1973) Grundrisse. Harmondsworth: Penguin.
 
 Marx, K. (1977) Capital Vol. 1. New York: Vintage Books.
 
@@ -1925,17 +1927,17 @@ Mirowski, P. (2002) Machine Dreams: Economics Becomes a Cyborg Science. Cambridg
 
 Mirowski, P. (ed.) (2009) The Road from Mont Pelerin: The Making of the Neoliberal Thought Collective. Cambridge, MA: Harvard University Press.
 
-Nove, A. (1983) The Economics of Feasible Socialism. London: Allen & Unwin. 
+Nove, A. (1983) The Economics of Feasible Socialism. London: Allen & Unwin.
 
 Peters, A. (2001) Computer Sozialismus: Gespräche mit Konrad Zuse.  Berlin: Verlag.
 
-Peters, B. (2012) ‘Normalizing Soviet Cybernetics’, Information & Culture 47(2) 145-175. 
+Peters, B. (2012) ‘Normalizing Soviet Cybernetics’, Information & Culture 47(2) 145-175.
 
-Rifkin, J. (1995) The End of Work. New York: Putnam. 
+Rifkin, J. (1995) The End of Work. New York: Putnam.
 
 Rigi, J. (2012) ‘Peer-to-Peer Production as the Alternative to Capitalism: A New Communist Horizon’, Journal of Peer Production 1: http://peerproduction.net/issues/issue-1/invited-comments/anew-communist-horizon/
 
-Schor, J. (1991) The Overworked American: The Unexpected Decline of Leisure. New York: Basic Books. 
+Schor, J. (1991) The Overworked American: The Unexpected Decline of Leisure. New York: Basic Books.
 
 Seaman, G. (2002) ‘The Two Economies or Why the Washing Machine Question is the Wrong Question’: http://second.oekonuxconference.org/documentation/texts/Seaman.html
 
@@ -1947,15 +1949,15 @@ Siefkes, C. (2012) ‘Beyond Digital Plenty: Building Blocks for Physical Peer P
 
 Smith, T. (2012) ‘Is Socialism Relevant in the ‘Networked Information Age’? A Critical Assessment of The Wealth of Networks’, in A. Anton & R. Schmitt (eds), Taking Socialism Seriously. Lanham: Lexington.  Smith, T. (2006) Globalisation: A Systematic Marxian Account.  Boston: Brill.
 
-Stallman, R. (2004) Free Software, Free Society. Thissur, India: Altermedia. 
+Stallman, R. (2004) Free Software, Free Society. Thissur, India: Altermedia.
 
-Thorburn, E. (2013) ‘Minoritarian Assemblages: Embodied and Machinic Agencies in the New Cycles of Struggle’, Journal of Communication and Critical/Cultural Studies, forthcoming. 
+Thorburn, E. (2013) ‘Minoritarian Assemblages: Embodied and Machinic Agencies in the New Cycles of Struggle’, Journal of Communication and Critical/Cultural Studies, forthcoming.
 
-von Mises, L. (1935) ‘Calculation in the Socialist Commonwealth’, in F.A. Hayek (ed.), Collectivist Economic Planning. London: Routledge. 
+von Mises, L. (1935) ‘Calculation in the Socialist Commonwealth’, in F.A. Hayek (ed.), Collectivist Economic Planning. London: Routledge.
 
 Weber, S. (2004) The Success of Open Source. Cambridge, MA: Harvard University Press.
 
-Wiener, N. (1950) Human Use of Human Beings: Cybernetics and Society. Boston: Houghton Mifflin. 
+Wiener, N. (1950) Human Use of Human Beings: Cybernetics and Society. Boston: Houghton Mifflin.
 
 Wikipedia. (2013a) ‘TOP 500’: http://en.wikipedia.org/wiki/TOP500 Wikipedia.
 
