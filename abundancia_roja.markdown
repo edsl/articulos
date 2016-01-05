@@ -1220,14 +1220,14 @@ hacia la mecanización de la producción y la eliminación consecuente del
 trabajo asalariado hará explotar el sistema.  El fundador de la
 cibernética, Norbert Weiner [-@weiner-1950] vio que su mayor
 consecuencia sería la eliminación computarizada del trabajo.  Esta tesis
-digital sobre el "fin del trabajo" ha sido desarrollada de manera muy clara
-por pensadoras como Andre Gorz [-@gorz-1985] y Jeremy Rifkin
+digital sobre el "fin del trabajo" ha sido desarrollada de manera muy
+clara por pensadoras como Andre Gorz [-@gorz-1985] y Jeremy Rifkin
 [-@rifkin-1995].  Sin embargo, a fines del siglo XX el capital había
 evitado notoriamente este escenario.  Lejos de automatizar por completo
-el trabajo, sale  buscar tanto las reservas globales de trabajo
-barato,  seguido una "marcha de los sectores" que impulse un
-frente móvil de conmodificacion[^ndt-conmodificacion] del trabajo a través de la agricultura,
-la industria y los servicios.
+el trabajo, sale  buscar tanto las reservas globales de trabajo barato,
+seguido una "marcha de los sectores" que impulse un frente móvil de
+conmodificacion[^ndt-conmodificacion] del trabajo a través de la
+agricultura, la industria y los servicios.
 
 [^ndt-conmodificacion]: _Transformacion de biene, servicios, ideas y
   otros conceptos en marcancia.(Nota de traducción)_
