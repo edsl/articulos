@@ -1285,14 +1285,15 @@ Dentro del capital, la automatización amenaza a las trabajadoras con
 desempleo y aceleración de la producción.  Si, sin embargo, no hubiese
 una tendencia estructural dominante hacia el incremento en la
 productividad que lleve al desempleo o no se reduzca en el tiempo de
-trabajo, la automatización podría cada vez más el tiempo requerido por
-los espacios de trabajo.  En un marco comunista que proteja el acceso al
-valor de uso de bienes y servicios, la robotización crea el prospecto
-del salto del reino de la necesidad al de la libertad.  Reintroduce el
-objetivo, bloqueado tanto por el experimento soviético stajanovita y por
-el gremialismo occidental abocado a la lucha salarial, de liberar el
-tiempo del trabajo, con todo lo que esto incluye en términos de
-auto-desarrollo humano y compromiso comunal.
+trabajo, la automatización podría disminuir cada vez más el tiempo
+requerido por los espacios de trabajo formales.  En un marco comunista
+que proteja el acceso al valor de uso de bienes y servicios, la
+robotización crea el prospecto del salto del reino de la necesidad al de
+la libertad.  Reintroduce el objetivo, bloqueado tanto por el
+experimento soviético stajanovita y por el gremialismo occidental
+abocado a la lucha salarial, de liberar el tiempo del trabajo, con todo
+lo que esto incluye en términos de auto-desarrollo humano y compromiso
+comunal.
 
 Juliet Schor’s (1991) estimate, that if American workers had taken gains
 won from productivity increases since the 1950s, not in wages but in
@@ -1351,9 +1352,9 @@ las características anómalas de los bienes informacionales no rivales,
 que pueden ser copiados infinitamente con costo nulo, circulados
 instantáneamente y compartidos sin detrimento de su valor de uso.
 Mientras más se digitalizan las producciones intelectuales y culturales,
-las tendencias que convierten la Internet "un espacio de abundancia"
+las tendencias que convierten la Internet en "un espacio de abundancia"
 [@siefkes-2012] se han vuelto cada vez más problemáticas para el sistema
-de precios.  El capital ha luchado por mantener la forma mercancía en el
+de precios.  El capital ha luchado por mantener la forma de mercancía en el
 ciberespacio, tanto en sus intentos por imponer la propiedad
 intelectual, como por tomar los flujos informacionales como aceleradores
 publicitarios para otras mercancías. Sin embargo, la corriente hacia la
