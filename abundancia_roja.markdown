@@ -1395,9 +1395,9 @@ inauguración de la _Free Software Foundation_ por Richard Stallman en
 1984, que publica código bajo la _General Public License_ (GPL)
 garantizando a las usuarias la libertad de reutilizarlo, estudiarlo,
 modificarlo, redistribuirlo y cambiarlo. Como observa Jacob Rigi
-[-@rigi-2012] la así llamada "cláusula _copyleft_" de la GPL, que
-requiere que cualquier programa que use código GPL sea también GPL, es
-una "negación dialéctica" del _copyright_, porque al mismo tiempo que
+[-@rigi-2012] la llamada "cláusula _copyleft_" de la GPL, que requiere
+que cualquier programa que use código GPL sea también GPL, es una
+"negación dialéctica" del _copyright_, porque al mismo tiempo que
 preserva la propiedad sobre el software la está aboliendo, formulando
 "un derecho de propiedad global que incluye a todas".  Este desarrollo
 fue elaborado por la organización que hace Linus Torvalds a principios
@@ -1406,7 +1406,7 @@ para la producción de software libre.  Como dice Rigi [-@rigi-2012], la
 combinación de la licencia GPL con la programación colectiva al estilo
 de Linux "representa la base del modo de producción de pares".  Rigi ve
 en esto una instanciación del "alto comunismo" de Marx que reconoce la
-naturaleza colectiva del conocimiento científico y rechazando cualquier
+naturaleza colectiva del conocimiento científico y rechaza cualquier
 demanda basada en la escasez por la "equivalencia entre la contribución
 a la producción social y la participación en el producto social".
 
@@ -1434,23 +1434,23 @@ El Software Libre ha alcanzado un éxito práctico considerable
 [@weber-2004] mientras que la producción de pares se ha desarrollo en
 varias direcciones, con posiciones políticas que van desde el
 libertarianismo capitalista a posturas liberales sobre la nueva "riqueza
-de las redes" [@benkler-2006] como suplementarias a y compatibles con
-los mercados.  Pero también hay posturas específicamente comunistas como
-las del proyecto _Oekonux_ [@meretz-2012].  Incluso la ecuménica
-_Foundation for P2P Alternatives_ [@bauwens-2012] abarca todo el
-espectro político.  Sin embargo, aun cuando se considere al software
-libre y la producción de pares como un modo de producción germinal, las
-dificultades para cultivar esta semilla se han vuelto aparentes.  Una de
-estas dificultades es la facilidad relativa con la que el capital ha
-incorporado esta semilla como una contribución a los procesos de de
-formación de mercancía posteriores.  En efecto, puede decirse que la Web
-2.0 ha actuado como contenedora de la "nueva" producción de pares y sus
-métodos de circulación, manteniéndolos dentro de la cáscara de las
-"viejas" formas mercancía capitalistas.  El otro problema ha sido lo que
-Graham Seaman [-@seaman-2002] denomina "el problema del lavarropas", es
-decir la distancia entre la producción virtual y la material, el
-software cornucópico y la producción industrial, que parece restringir
-las prácticas de pares, aun progresivas, a un pequeño subconjunto de la
+de las redes" [@benkler-2006] como suplementarias y compatibles con los
+mercados.  Pero también hay posturas específicamente comunistas como las
+del proyecto _Oekonux_ [@meretz-2012].  Incluso la ecuménica _Foundation
+for P2P Alternatives_ [@bauwens-2012] abarca todo el espectro político.
+Sin embargo, aun cuando se considere al software libre y la producción
+de pares como un modo de producción germinal, las dificultades para
+cultivar esta semilla se han vuelto visibles. Una de estas dificultades
+es la facilidad relativa con la que el capital ha incorporado esta
+semilla como una contribución a los procesos de formación de mercancías
+posteriores.  En efecto, puede decirse que la Web 2.0 ha actuado como
+contenedora de la "nueva" producción de pares y sus métodos de
+circulación, manteniéndolos dentro de la cáscara de las "viejas" formas
+de mercancía capitalistas.  El otro problema ha sido lo que Graham
+Seaman [-@seaman-2002] denomina "el problema del lavarropas", es decir
+la distancia entre la producción virtual y la material, el software
+cornucópico y la producción industrial, que parece restringir las
+prácticas de pares, aun progresivas, a un pequeño subconjunto de la
 actividad económica total.
 
 Over the last decade, however, this gap has been narrowed by the rapid
@@ -1473,20 +1473,25 @@ seemed possible even quite recently.
 Durante la última década, no obstante, esta brecha se ha reducido por el
 rápido desarrollo de formas de micro-fabricación controlada por
 computadora, de las que la impresión tridimensional aditiva es la más
-famosa.  Pero existen otras, incluyendo las micro-fresadoras
-sustractivas y otros dispositivos de ingeniería miniaturizados y
-digitalizados que ponen la capacidad industrial dentro del alcance de
-"hacklabs", hogares y comunidades pequeñas.  Esto ha provisto las bases
-para la emergencia de un movimiento _maker_ que vincula estas unidades
-de manufactura digital con la circulación en red del diseño, sugiriendo
-a algunas que "el modo de producción de pares puede extenderse a la
-mayor parte de las ramas de la producción material" [@rigi-2012].  Estas
-tecnologías también están asociadas a la proliferación de robots y
-autómatas de pequeña escala.  De hecho el cáliz sagrado del movimiento
-_maker_ es la replicadora auto-replicante, la máquina de von Neumann
-perfecta.  La extrapolación de estas tendencias pone a las "fabbers" y
-"replicadoras" de la imaginación de la ciencia ficción Mucho más cerca
-de realizarse de lo que hasta ahora parecía posible.
+famosa. Pero existen otras, incluyendo las micro-fresadoras sustractivas
+y otros dispositivos de ingeniería miniaturizados y digitalizados que
+ponen la capacidad industrial dentro del alcance de
+"hacklabs"[^ndt-Hacklab], hogares y comunidades pequeñas.  Esto ha
+provisto las bases para la emergencia de un movimiento _maker_ que
+vincula estas unidades de manufactura digital con la circulación en red
+del diseño, sugiriendo a algunas que "el modo de producción de pares
+puede extenderse a la mayor parte de las ramas de la producción
+material" [@rigi-2012].  Estas tecnologías también están asociadas a la
+proliferación de robots y autómatas de pequeña escala.  De hecho el
+cáliz sagrado del movimiento _maker_ es la replicadora auto-replicante,
+la máquina de von Neumann perfecta. La extrapolación de estas tendencias
+pone a las "fabbers" y "replicadoras" de la imaginación de la ciencia
+ficción Mucho más cerca de realizarse de lo que hasta ahora parecía
+posible.
+
+[^ndt-Hacklab]: Lugar donde se al alcance de aficionados y estudiantes
+  de diferentes niveles la infraestructura y ambiente necesarios para
+  desarrollar sus proyectos tecnológicos. _(Nota de traducción)_
 
 
 Even the most market-oriented of ‘makers’ don’t hesitate to point out
