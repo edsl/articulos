@@ -1354,20 +1354,22 @@ instantáneamente y compartidos sin detrimento de su valor de uso.
 Mientras más se digitalizan las producciones intelectuales y culturales,
 las tendencias que convierten la Internet en "un espacio de abundancia"
 [@siefkes-2012] se han vuelto cada vez más problemáticas para el sistema
-de precios.  El capital ha luchado por mantener la forma de mercancía en el
-ciberespacio, tanto en sus intentos por imponer la propiedad
+de precios.  El capital ha luchado por mantener la forma de mercancía en
+el ciberespacio, tanto en sus intentos por imponer la propiedad
 intelectual, como por tomar los flujos informacionales como aceleradores
 publicitarios para otras mercancías. Sin embargo, la corriente hacia la
-_decomodificación_[^??] ha probado ser inerradicable e incluso se ha
-intensificado por la capacidad de conducir su circulación por fuera de
-servidores centralmente controlados, a través de redes de pares.  La
-piratería, que abarca la mayoría de la música, juegos, películas y
-software digitales distribuidos en Asia, África, América Latina y Europa
-del Este [@karaganis-2011] es la manifestación clandestina y
-criminalizada de esta tendencia. El movimiento del Software Libre es su
-expresión organizada.
+_decomodificación_[^ndt-decomodificación] ha probado ser inerradicable e
+incluso se ha intensificado por la capacidad de conducir su circulación
+por fuera de servidores centralmente controlados, a través de redes de
+pares.  La piratería, que abarca la mayoría de la música, juegos,
+películas y software digitales distribuidos en Asia, África, América
+Latina y Europa del Este [@karaganis-2011] es la manifestación
+clandestina y criminalizada de esta tendencia. El movimiento del
+Software Libre es su expresión organizada.
 
-[^??]: no se como traducirlo, no seria desmercantilización
+[^ndt-decomodificación]: Del ingles _decommodification_, debe
+  interpretarse como la intención de transformar un bien, servicio o
+  idea en algo inmune al mercado.  _(Nota de traduccion)_
 
 The latter has been the focus of interest on the libertarian left since
 the inauguration of the Free Software Foundation (by Richard Stallman in
