@@ -1519,7 +1519,7 @@ micro-industrial.  En su crítica a las entusiastas liberales de la
 producción de pares, Tony Smith observa que el desarrollo pleno de la
 producción de pares basada en los comunes es "incompatible con las
 relaciones capitalistas de propiedad y producción" [@smith-2012].
-Mientras estas relaciones persistan aquellas involucradas en la
+Mientras estas relaciones persistan, aquellas involucradas en la
 producción de pares voluntaria continuarán siendo explicadas en los
 términos de la relación salarial de la que dependen. Sus creaciones
 continuarán siendo apropiadas por el capital como "regalos libres" y el
@@ -1547,14 +1547,14 @@ project’ (2006: 241-2).
 Sin embargo, en un mundo donde las inversiones se determinen sin
 favorecer sistemáticamente la formación de mercancía del conocimiento y
 sin la posibilidad de combinar los bienes comunes con el conocimiento
-privativo, la "inmensa promesa emancipatoria" de la producción de pares
+privativo, la "inmensa promesa emancipadora" de la producción de pares
 podría realizarse [@smith-2012].  Como señala Smith, el capital contiene
 dentro de sí una tendencia a desarrollar tecnologías "que permiten a
 ciertos tipos de valores de uso ser distribuidos en cantidades
 ilimitadas a individuos con costos marginales cercanos a cero"
 [@smith-2006]. "En cualquier forma de socialismo digno de su nombre, los
 costos de la infraestructura y el trabajo socialmente necesario para
-producir productos como estos será socializado y los productos serán
+producir productos como estos serán socializados y los productos serán
 distribuidos directamente como bienes públicos gratuitos para cualquiera
 que los quiera." Aunque Smith es escéptico sobre que esta tendencia
 prevalezca "en el futuro cercano" a través de toda la economía, concede
