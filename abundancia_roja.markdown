@@ -1601,7 +1601,7 @@ imperativos de una planificación eco-socialista, Michael Lowy
 [-@lowy-2009] señala que requeriría una dirección social Mucho más
 comprensiva que el mero "control obrero" o incluso la reconciliación
 negociada entre los intereses de las trabajadoras y las consumidoras que
-sugieren abordajes como los de Parecon.  Antes bien, implica una
+sugieren abordajes como los de Parecon.  Más bien, implica una
 reconstrucción profunda de los sistemas económicos, incluyendo la
 abolición de ciertas industrias, como la pesca industrializada o la tala
 indiscriminada, la reformulación de los métodos de transporte, "una
