@@ -1632,8 +1632,8 @@ los centros de datos de la computación en la nube, la demanda de agua
 limpia y minerales de la manufactura de microchips y la prodigiosa
 cantidad de basura electrónica tóxica resultante.  Convertir a todas las
 casas en mini-fábricas _fablab_ solo aceleraría la muerte por
-calentamiento planetaria.  Contrariamente a todas las nociones
-idealistas de los mundos virtuales, la cibernética es parte inextricable
+calentamiento planetario.  Contrariamente a todas las nociones
+idealistas de los mundos virtuales, la cibernética es parte inevitable
 del mismo sistema industrial cuyas operaciones deben ser puestas bajo
 escrutinio en un nuevo sistema de regulación metabólica que apunte a una
 abundancia tanto roja como verde.
@@ -1664,9 +1664,9 @@ por computadora masivas que se originaron, como la Internet, durante la
 planificación estadounidense de la Guerra Fría sobre el que descansa
 nuestro entendimiento del calentamiento global. Esta infraestructura
 genera información tan vasta en cantidad y en diversidad de plataformas,
-calidades y formas que solo puede ser comprendida a través del análisis
+calidad y formas que solo puede ser comprendida a través del análisis
 computacional.  El conocimiento sobre el cambio climático depende de
-modelos computacionales:  simulaciones sobre el clima, modelos de
+modelos computacionales: simulaciones sobre el clima, modelos de
 re-análisis, que recrean la historia climática a partir de datos
 históricos y los modelos de datos que combinan y ajustan mediciones de
 distintas fuentes.
@@ -1698,7 +1698,7 @@ Al revelar la contingencia de las condiciones para la supervivencia de
 las especies y la posibilidad de su cambio antropogénico estas
 "infraestructuras de conocimiento" sobre gente, artefactos e
 instituciones [@edwards-2010] que no solo miden el clima sino que
-también monitorean la acidificación de los oceános, la deforestación,
+también monitorean la acidificación de los océanos, la deforestación,
 pérdida de especies o la disponibilidad de agua, también se revela el
 punto ciego de la catalaxia de Hayek, donde las bases mismas de la
 existencia humana figuran como un "externalidad" arbitraria.  El así
@@ -1715,7 +1715,7 @@ conocimiento libre que circule debe priorizar la regulación metabólica.
 Los problemas de la remuneración apropiada por el tiempo de trabajo
 deben integrarse a los cálculos ecológicos.  Ninguna bio-salida que no
 reconozca las aspiraciones de millones de proletarias planetarias de
-escapar la desigualdad y la miseria tendrá éxito.  Pero también las
+escapar de la desigualdad y de la miseria tendrá éxito.  Pero también las
 mediciones laborales mismas deben ser repensadas como parte de un
 cálculo más amplio de uso de energía compatible con la supervivencia
 colectiva.
