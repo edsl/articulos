@@ -1771,9 +1771,9 @@ interchange with the planetary environment.
 Un nuevo comunismo cibernético, en sí una de estas opciones,
 involucraría algunos de los elementos siguientes: el uso de las
 super-computadoras más avanzadas para calcular algorítmicamente el
-tiempo de trabajo y los recursos necesarios en niveles globales,
+tiempo de trabajo y los recursos necesarios a niveles globales,
 regionales y locales de entre múltiples caminos posibles de desarrollo
-humano;  la selección de entre estos caminos por una discusión
+humano;  la selección entre estos caminos mediante una discusión
 democrática en capas, conducida a través de asambleas que incluyan redes
 digitales socializadas y enjambres de agentes de software;
 actualización a velocidad de la luz y revisión constante de los planes
@@ -1812,7 +1812,7 @@ assembling itself from a hundred years of non-linear computerized
 communist history to create the platforms of a future red plenty.
 
 
-Este sería un comunismo heredero de los "soviets más electricidad" de
+Este sería un comunismo heredero de los "soviets mas electricidad" de
 Lenin, con raíces en el futurismo rojo, el constructivismo, la
 tectología y la cibernética, unidas a los imaginarios de ciencia ficción
 de izquierda de autores como Iain M. Banks, Ken McLeod y Chris Moriarty.
