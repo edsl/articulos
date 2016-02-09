@@ -105,7 +105,7 @@ proposición intermedia, es decir que el capitalismo es una computadora.
 Esta es la contienda implícita en una de las más serias respuestas
 intelectuales al pensamiento comunista, "el problema del cálculo
 socialista", formulado por economistas de la escuela de Austria como
-Ludwig von Mises [-@mises-1935] y Frederick Hayes [-@hayes-1945].
+Ludwig von Mises [-@mises-1935] y Frederick Hayek [-@hayek-1945].
 Escribiendo en el período definido por el éxito de la revolución rusa,
 estos economistas atacaron las premisas y la factibilidad de la economía
 centralmente planificada.  Todos los sistemas sociales, reconocían,
@@ -195,7 +195,7 @@ el abandono del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
 Este no fue el único proyecto sobre "cibernética revolucionaria" del
 siglo XXI.  Igual de remarcable fue el intento del gobierno de Salvador
 Allende en Chile por introducir una versión descentralizada de
-planificación electrónica, el Proyecto _Cybersyn_ [@medina-2005].
+planificación electrónica, el Proyecto _Cybersyn_ [@medina-2011].
 Liderado por el cibernético canadiense Stafford Beer, fue concebido como
 un sistema de comunicación y control que habilitaría al gobierno
 socialista a recolectar información económica y presentarla a quienes
@@ -244,7 +244,7 @@ implosión económica y ecológica del capital global.  Pero la
 identificación de estas fallas no excusa a las comunistas de especificar
 cómo otro sistema de distribución de recursos podría funcionar, sin caer
 en la "servidumbre" de la subyugación estatista que predijo Hayek
-[-@hayek-1994].
+[-@hayek-1944].
 
 [^ndt-crematístico]: Conocimientos y estudios referidos a la producción
   y la distribución de la riqueza. _(Nota de traducción)_
@@ -259,7 +259,7 @@ de teóricas, que han avanzado su alcance conceptual mas allá de lo que
 habían intentando las cibernéticas soviéticas.  Dos escuelas han sido de
 fundamental importancia:  el "Nuevo Socialismo" de los científicos
 informáticos escoceses Paul Cockshott y Alan Cottrell
-[-@cockshott-cottrell] y la "Escuela de Bremen" alemana, incluyendo
+[-@cockshott-cottrell-1993] y la "Escuela de Bremen" alemana, incluyendo
 a Peter Arno [-@arno-2002] y Heinz Dieterich [-@dieterich-2006], el
 último de los cuales es un militante del "Socialismo del Siglo XXI" al
 estilo venezolano.  Estas tendencias han convergido recientemente
@@ -297,7 +297,7 @@ planificación cuyos mandatos serían establecidos por decisiones
 democráticas sobre objetivos sociales generales.
 
 El tiempo de trabajo provee "la unidad objetiva de valor" del Nuevo
-Socialismo [@cockshot-cottrell-2003].  En este punto son invocadas las
+Socialismo [@cockshott-cottrell-1993].  En este punto son invocadas las
 capacidades de la tecnología informática.  Tal sistema requeriría la
 enumeración del tiempo de trabajo utilizado, tanto directa como
 indirectamente, en la creación de bienes y servicios, para evaluar la
@@ -323,16 +323,16 @@ conceptuales como técnicas.  Los avances teoréticos son tomados de ramas
 de la ciencia informática que tratan con la abreviación de los pasos
 discretos necesarios para completar una ecuación.  Tal análisis,
 sugieren, demuestra que las objeciones de las oponentes están basadas en
-métodos "patológicamente ineficientes" [@cockshott-2012].  La estructura
-de entrada-salida de la economía es, dicen, "dispersa" --es decir, solo
-una mínima fracción de los bienes son utilizados directamente para
-producir cualquier otro bien.  No todo es una entrada para todo el
-resto:  el yogur no es utilizado para producir acero.  La mayor parte de
-las ecuaciones que se invocan para sugerir complejidades insuperables
-son por lo tanto gratuitas.  Es posible diseñar un algoritmo para
-encontrar atajos en las tablas de entrada-salida, ignorando las entradas
-en blanco, repitiendo el proceso iterativamente hasta que se alcanza un
-resultado con un orden de precisión aceptable.
+métodos "patológicamente ineficientes" [@cockshott-zachariah-2012].  La
+estructura de entrada-salida de la economía es, dicen, "dispersa" --es
+decir, solo una mínima fracción de los bienes son utilizados
+directamente para producir cualquier otro bien.  No todo es una entrada
+para todo el resto:  el yogur no es utilizado para producir acero.  La
+mayor parte de las ecuaciones que se invocan para sugerir complejidades
+insuperables son por lo tanto gratuitas.  Es posible diseñar un
+algoritmo para encontrar atajos en las tablas de entrada-salida,
+ignorando las entradas en blanco, repitiendo el proceso iterativamente
+hasta que se alcanza un resultado con un orden de precisión aceptable.
 
 El tiempo podría reducirse masivamente por la velocidad de procesamiento
 computacional predicha por la Ley de Moore.  Sugerir que la
@@ -349,9 +349,9 @@ materiales y cálculos astronómicos generalmente sobrepasan los 10
 cuadrillones de flops o diez "teraflops".  La mayor al momento de
 escribir este articulo es la Titán de Cray, en el _Oak Ridge National
 Laboratory_, alcanzando unos 17,6 petaflops, es decir 10^15^ flops
-[@wikipedia-2013].  Las computadoras con una capacidad de 1 "exaflop",
+[@wikipedia-2013a].  Las computadoras con una capacidad de 1 "exaflop",
 o 10^18^ flops, han sido predichas para el 2019 en China
-[@dorrier-2012]. Por lo tanto, como dice Peters [-@peters-2013],
+[@dorrier-2012]. Por lo tanto, como dice Peters [-@peters-2012],
 "otorgándole a las soviéticas unos generosos 10^7^ flops en 1969,
 podemos encontrar que 10^18^ - 10^7^ = 10^11^ ... es decir un incremento
 de 100.000.000.000 de veces".
@@ -410,7 +410,7 @@ cambio[^shift] sísmico en el imaginario corporativo".  Es un cambio que
 vincula la noción de "revolución de la logística" con la "producción
 justo a tiempo" y "aprovecha las tecnologías digitales y cibernéticas
 emergentes para la gestión de la producción, distribución y ventas de la
-forma más veloz y eficiente" [@haiven-stonemouth-2009].  Este cambio es
+forma más veloz y eficiente" [@haiven-stoneman-2009].  Este cambio es
 estimulado por la emergencia de la "Internet de las cosas", que
 relaciona la información digital con las cosas físicas del mundo real
 a través de una red de productos, usuarias y ubicaciones instrumentadas
@@ -422,7 +422,7 @@ disponibles proveyendo identificadores digitales únicos para una
 cantidad de cosas "verdaderamente gigantesca, en el orden de los 340
 miles de miles de miles de miles de millones".  Esta comunicación de
 dispositivo a dispositivo probablemente exceda el volumen de datos del
-tráfico entre personas en Internet [@economist-2012].  Como observa
+tráfico entre personas en Internet [@economist-2010].  Como observa
 Benjamin Bratton [-@bratton-2013], con tal capacidad de
 direccionamiento, combinada con la codificación digital comprimida
 a niveles sub-microscópicos, habilita una capacidad virtualmente
@@ -439,7 +439,7 @@ planificación en contextos panopticistas significa invocar
 inevitablemente el miedo al control estatal omniciente.  Las Nuevas
 Socialistas provienen de un linaje marxista-leninista de vanguardia, con
 una perspectiva "jacobina" auto-asumida
-[@cockshott-cottrell-dieterich-2011].  Para empezar a considerar cómo la
+[@cockshott-cottrell-dieterich-2010].  Para empezar a considerar cómo la
 planificación cibernética podría desarrollarse en modos más
 transparentes y participativos, tenemos que enfocarnos en tradiciones
 comunistas diferentes.
@@ -541,8 +541,8 @@ experimentadas por las redes sociales alternativas como
 [_Crabgrass_](https://crabgrass.riseup.net/)
 o [_Lorea_](https://lorea.org/) y liberados del ánimo de lucro y el
 control centralizado, tomando formas "distribuidas" y "federadas"
-[@cabello-2013; @sevignani-2013]. Convirtiéndose, como proponen Hu
-y Halpin [-@hu-halpin-2013], en redes cuyo formato mismo priorice los
+[@cabello-2013; @sevignani-2013]. Convirtiéndose, como proponen Hui
+y Halpin [-@hui-halpin-2013], en redes cuyo formato mismo priorice los
 proyectos grupales sobre las identidades individuales, o como
 plataformas de "individuación colectiva".  No tanto _social media_ sino
 más bien _council media_[^council].
@@ -564,7 +564,7 @@ manifiestan "orientación a objetivos, selección, priorización
 e iniciación de tareas".  Pueden activarse a sí mismas, analizar
 y reaccionar al contexto, exhibir aspectos de inteligencia artificial,
 como el aprendizaje y pueden comunicarse y cooperar con otras agentes
-[@wikipedia-2013].
+[@wikipedia-2013a].
 
 Comercialmente, las "agentes de puja" por software son capaces de
 superar consistentemente a agentes humanas tanto que "las humanas están
@@ -649,7 +649,7 @@ de los Grundrisse, donde al observar la fábrica industrial de su tiempo,
 Marx [-@marx-1973, pp. 690-711] predice que la tendencia del capital
 hacia la mecanización de la producción y la eliminación consecuente del
 trabajo asalariado hará explotar el sistema.  El fundador de la
-cibernética, Norbert Weiner [-@weiner-1950] vio que su mayor
+cibernética, Norbert Wiener [-@wiener-1950] vio que su mayor
 consecuencia sería la eliminación computarizada del trabajo.  Esta tesis
 digital sobre el "fin del trabajo" ha sido desarrollada de manera muy
 clara por pensadoras como Andre Gorz [-@gorz-1985] y Jeremy Rifkin
@@ -675,11 +675,11 @@ de entrenar, reemplazando trabajadoras no solo en la manufactura sino
 también en los procesos de distribución, circulación y servicios, como
 el almacenamiento, los _call centers_ e incluso el cuidado de personas
 ancianas [@markoff-2012].  Erik Brynjolfsson y Andrew McAfee
-[-@brynjolfsson-mcafee], economistas del MIT, han dado la alarma sobre
-"el ritmo y la escala de esta usurpación de las capacidades humanas" que
-está alcanzando un nuevo nivel con "profundas implicaciones económicas".
-Estas preocupaciones se están haciendo eco entre los economistas
-_mainstream_ [@klugman-2012].
+[-@brynjolfsson-mcafee-2011], economistas del MIT, han dado la alarma
+sobre "el ritmo y la escala de esta usurpación de las capacidades
+humanas" que está alcanzando un nuevo nivel con "profundas implicaciones
+económicas". Estas preocupaciones se están haciendo eco entre los
+economistas _mainstream_ [@krugman-2012].
 
 Dentro del capital, la automatización amenaza a las trabajadoras con
 desempleo y aceleración de la producción.  Si, sin embargo, no hubiese
@@ -763,7 +763,7 @@ sobre la nueva "riqueza de las redes" [@benkler-2006] como
 suplementarias y compatibles con los mercados.  Pero también hay
 posturas específicamente comunistas como las del proyecto _Oekonux_
 [@meretz-2012].  Incluso la ecuménica _Foundation for P2P Alternatives_
-[@bauwens-2012] abarca todo el espectro político.  Sin embargo, aun
+[@bauwens-2005] abarca todo el espectro político.  Sin embargo, aun
 cuando se considere al software libre y la producción de pares como un
 modo de producción germinal, las dificultades para cultivar esta semilla
 se han vuelto visibles.  Una de estas dificultades es la facilidad
@@ -848,7 +848,7 @@ desafío para todas las posturas que hemos discutido.  La bio-crisis
 llama a la planificación, o al cálculo, pero un cálculo de acuerdo
 a métricas que midan límites, umbrales y grados de la supervivencia de
 las especies, humanas o no.  Al discutir los imperativos de una
-planificación eco-socialista, Michael Lowy [-@lowy-2009] señala que
+planificación eco-socialista, Michael Lowy [-@lowy-2006] señala que
 requeriría una dirección social mucho más comprensiva que el mero
 "control obrero" o incluso la reconciliación negociada entre los
 intereses de las trabajadoras y las consumidoras que sugieren abordajes
@@ -856,7 +856,7 @@ como los de _Parecon_.  Más bien, implica una reconstrucción profunda de
 los sistemas económicos, incluyendo la abolición de ciertas industrias,
 como la pesca industrializada o la tala indiscriminada, la reformulación
 de los métodos de transporte, "una revolución en el sistema energético"
-y un impulso hacia el "comunismo solar" [@lowy-2009].
+y un impulso hacia el "comunismo solar" [@lowy-2006].
 
 Tales transformaciones pondrían a la cibernética sobre dos ejes mayores,
 ambos contribuyendo a la bio-crisis actual y a la vez como medios
@@ -876,7 +876,7 @@ abundancia tanto roja como verde.
 
 Sin embargo, los sistemas cibernéticos son también una parte potencial
 de cualquier resolución de la bio-crisis.  A Vast Machine \[Una máquina
-vasta\] de Paul Edward [-@edward-2010] analiza el sistema global de
+vasta\] de Paul Edwards [-@edwards-2010] analiza el sistema global de
 medición y proyección climatológica, es decir el aparato de estaciones
 meteorológicas, satélites, sensores, registros digitales y simulaciones
 por computadora masivas que se originaron, como la Internet, durante la
@@ -980,136 +980,4 @@ centenario de historia comunista de computación no-lineal, para crear
 las plataformas de una futura abundancia roja.
 
 Bibliografía
-============
-
-Albert, M. (2003) Parecon: Life After Capitalism. New York: Verso.
-
-Albert, M. & Hahnel, R. (1991) Looking Forward: Participatory Economics for the Twenty First Century. Boston: South End Press.
-
-Anderson, C. (2012) Makers: The New Industrial Revolution.  Toronto: Signal.
-
-Bauwens, M. (2005) ‘The Political Economy of Peer Production’, CTheory, January 12: http://www.ctheory.net/articles.aspx?id=499
-
-Benkler, Y. (2006) The Wealth of Networks. New York: Yale University Press.
-
-Brynjolsson, E, & McAfee, A. (2011) Race Against the Machine. Lexington, MA: Digital Frontier.
-
-Cabello, F. et al. (2013) ‘Towards a Free Federated Social Web: Lorea Takes the Networks’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives.  Amsterdam: Institute of Network Cultures.
-
-Castells, M. (2000) End of Millennium.  Oxford: Oxford University Press.
-
-Castoriadis, C. (1972) ‘Workers' Councils and the Economics of a Self-Managed Society’: http://www.marxists.org/archive/castoriadis/1972/workerscouncils.htm
-
-Cockshott, P. & Cottrell A. (1993) Towards a New Socialism.  London: Spokesman Books.
-
-Cockshott, P., & Zachariah, D. (2012) Arguments For Socialism, June 2: www.lulu.com
-
-Cockshott, P., Cottrell, A., Dieterich, H. (2010) ‘Transition to 21st Century Socialism in the European Union’: http://reality.gn.apc.org/econ/Berlinpaper.pdf
-
-Dean, J. (2012) The Communist Horizon. London: Verso.
-
-Dieterich, H. (2006) Der Sozialismus des 21. Jahrhunderts – Wirtschaft, Gesellschaft und Demokratie nach dem globalen Kapitalismus. Berlin: Homilius.
-
-Doctorow, C. (2009) Makers. New York: Tor.
-
-Dorrier, J. (2012) ‘The Race to a Billion Billion Operations Per Second: An Exaflop by 2018?’, SingularityHUB, January 11: http://singularityhub.com/2012/11/01/the-race-to-a-billionbillion-operations-per-second-an-exaflop-by-2018/
-
-Dyer-Witheford, N. (2004) ‘1844/2004/2044: The Return of Species-Being’, Historical Materialism. 13(4): 3-25.
-
-Economist (2012). ‘Welcome to the thingternet: Things, rather than people, are about to become the biggest users of the internet.’ The Economist, November 21: http://www.economist.com/news/21566428-things-rather-peopleare-about-become-biggest-users-internet-welcome.
-
-Edwards, P. (2010) A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming. Cambridge, MA: MIT Press.
-
-Franceschet, M. (2010) ‘PageRank: Standing on the Shoulders of Giants’, Cornell University Library, February 15: http://arxiv.org/abs/1002.2858
-
-Gerovitch, S. (2008) ‘InerNyet: Why the Soviet Union Did Not Build a Nationwide Computer Network’, History and Technology 24 (4): 335-350.
-
-Gorz, A. (1985) Paths to Paradise: On the Liberation from Work.  London: Pluto Press.
-
-Greenwood, D. (2007) ‘From Market to Non-Market: An Autonomous Agent Approach to Central Planning’, Knowledge Engineering Review 22 (4): 349-360.
-
-Hahnel, R. (2008) ‘Robin Hahnel Answers Various Criticisms of Participatory Economics’, ZNet, November 19: http://www.zcommunications.org/robin-hahnel-answers-variouscriticisms-of-participatory-economics-by-robin-hahnel
-
-Haiven, M. & Stoneman, S. (2009) ‘Wal-Mart: The Panopticon of Time’, Globalization Working Papers, Institute on Globalization and the Human Condition: McMaster University, April: http://www.academia.edu/1474872/WalMart_The_panopticon_of_time
-
-Hardt, M. & Negri, A. (2009) Commonwealth. Cambridge, MA: Harvard University
-
-Press.  Harvey, D. (2010) ‘Organizing for the Anti-Capitalist Transition: Talk Given at the World Social Forum 2010, Porto Alegre’, Reading Marx's Capital with David Harvey, http://davidharvey.org/2009/12/organizing-for-the-anti-capitalisttransition/
-
-Hayek, F. (ed.) (1935) Collectivist Economic Planning. London: Routledge.
-
-Hayek, F. (1976) Law, Legislation and Liberty v. 2: The Mirage of Social Justice. Chicago: University of Chicago Press.
-
-Hayek, F. (1945) ‘The Use of Knowledge in Society’, American Economic Review 35 (4): 519-530.
-
-Hayek, F. (1944) The Road to Serfdom. Chicago: University of Chicago.
-
-Hui, Y. & Halpin, H. (2013) ‘Collective Individuation: The Future of the Social Web’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives. Amsterdam: Institute of Network Cultures.
-
-Jameson, F. (2009) Valences of the Dialectic. London: Verso.
-
-Karaganis, J. (ed.) (2011) Media Piracy in Emerging Economies. New York: Social Science Research Council.
-
-Kephart, J. (2002) ‘Software Agents and the Route to the Information Economy’, Proceedings of the National Academy of Sciences of the United States of America, vol. 99, no. Suppl 3, May 14:7207-7213.
-
-Krugman, P. (2012) ‘Robots and Robber Barons’, New York Times (December 6): http://www.nytimes.com/2012/12/10/opinion/krugman-robotsand-robber-barons.html?_r=0
-
-Lange, O. (1967) ‘The Computer and the Market’, in C. H.  Feinstein (ed.), Socialism, Capitalism and Economic Growth: Essays Presented to Maurice Dobb. Cambridge: Cambridge University Press.
-
-Lichtenstein, N. (ed.) (2006) Wal-Mart: The Face of Twenty-First Century Capitalism. New York: New Press.
-
-Lovink, G. & Rasch, M. (eds) (2013) Unlike Us Reader: Social Media Monopolies and Their Alternatives. Amsterdam: Institute of Network Cultures.
-
-Lowy, M. (2006) ‘Ecosocialism and Democratic Planning’, in L.  Panitch & C. Leys (eds), Socialist Register 2007. London: Merlin.
-
-Marx, K. (1964) Economic and Philosophic Manuscripts of 1844. New York: International Publishers.
-
-Marx, K. (1970) Critique of the Gotha Program. Moscow: Progress Publishers.  Marx, K. (1973) Grundrisse. Harmondsworth: Penguin.
-
-Marx, K. (1977) Capital Vol. 1. New York: Vintage Books.
-
-Medina, E. (2011) Cybernetic Revolutionaries: Technology and Politics in Allende's Chile. Cambridge, MA: MIT Press.
-
-Mirowski, P. (2002) Machine Dreams: Economics Becomes a Cyborg Science. Cambridge: Cambridge University Press.
-
-Mirowski, P. (ed.) (2009) The Road from Mont Pelerin: The Making of the Neoliberal Thought Collective. Cambridge, MA: Harvard University Press.
-
-Nove, A. (1983) The Economics of Feasible Socialism. London: Allen & Unwin.
-
-Peters, A. (2001) Computer Sozialismus: Gespräche mit Konrad Zuse.  Berlin: Verlag.
-
-Peters, B. (2012) ‘Normalizing Soviet Cybernetics’, Information & Culture 47(2) 145-175.
-
-Rifkin, J. (1995) The End of Work. New York: Putnam.
-
-Rigi, J. (2012) ‘Peer-to-Peer Production as the Alternative to Capitalism: A New Communist Horizon’, Journal of Peer Production 1: http://peerproduction.net/issues/issue-1/invited-comments/anew-communist-horizon/
-
-Schor, J. (1991) The Overworked American: The Unexpected Decline of Leisure. New York: Basic Books.
-
-Seaman, G. (2002) ‘The Two Economies or Why the Washing Machine Question is the Wrong Question’: http://second.oekonuxconference.org/documentation/texts/Seaman.html
-
-Sevignani, S. (2013) ‘Facebook vs. Diaspora: A Critical Study’, in G. Lovink & M. Rasch (eds), Unlike Us Reader: Social Media Monopolies and Their Alternatives. Amsterdam: Institute of Network Cultures.
-
-Shalizi, C. (2012) ‘In Soviet Union, Optimization Problem Solves You’, Crooked Timber (May 30): http://crookedtimber.org/2012/05/30/in-soviet-unionoptimization-problem-solves-you/
-
-Siefkes, C. (2012) ‘Beyond Digital Plenty: Building Blocks for Physical Peer Production’, Journal of Peer Production 1: http://peerproduction.net/issues/issue-1/invitedcomments/beyond-digital-plenty/
-
-Smith, T. (2012) ‘Is Socialism Relevant in the ‘Networked Information Age’? A Critical Assessment of The Wealth of Networks’, in A. Anton & R. Schmitt (eds), Taking Socialism Seriously. Lanham: Lexington.  Smith, T. (2006) Globalisation: A Systematic Marxian Account.  Boston: Brill.
-
-Stallman, R. (2004) Free Software, Free Society. Thissur, India: Altermedia.
-
-Thorburn, E. (2013) ‘Minoritarian Assemblages: Embodied and Machinic Agencies in the New Cycles of Struggle’, Journal of Communication and Critical/Cultural Studies, forthcoming.
-
-von Mises, L. (1935) ‘Calculation in the Socialist Commonwealth’, in F.A. Hayek (ed.), Collectivist Economic Planning. London: Routledge.
-
-Weber, S. (2004) The Success of Open Source. Cambridge, MA: Harvard University Press.
-
-Wiener, N. (1950) Human Use of Human Beings: Cybernetics and Society. Boston: Houghton Mifflin.
-
-Wikipedia. (2013a) ‘TOP 500’: http://en.wikipedia.org/wiki/TOP500 Wikipedia.
-
-(2013b) ‘Software agents’: http://en.wikipedia.org/wiki/Software_agent
-
-Williams, A. & Srnicek, N. (2013) ‘#ACCELERATE MANIFESTO for an Accelerationist Politics’ (14 May): http://criticallegalthinking.com/2013/05/14/acceleratemanifesto-for-an-accelerationist-politics
-
-Williams, R. (1983) Towards 2000. London: Chatto & Windus.
+------------
