@@ -11,7 +11,7 @@ Piratería y Software Libre
 
 > Este artículo es la traducción al castellano de "Piracy and Free
 > Software". El artículo original en inglés puede encontrarse en
-> http://mako.cc/copyrighteous/20101011-00. Traducción por Nicolás
+> <http://mako.cc/copyrighteous/20101011-00>. Traducción por Nicolás
 > Reynolds, septiembre, 2010. Este artículo y el original están
 > licenciados bajo Creative Commons Atribución-CompartirIgual 3.0.
 > [@cc-by-sa-ar]
