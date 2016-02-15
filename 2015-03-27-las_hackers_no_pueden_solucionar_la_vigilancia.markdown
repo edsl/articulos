@@ -4,17 +4,18 @@ title: "Las hackers no pueden solucionar la vigilancia"
 author: "Dmytri Kleiner"
 license: http://endefensadelsl.org/ppl_deed_es.html
 old-slug: las_hackers_no_pueden_resolver_la_vigilancia.html
+category: [ "En Defensa del Software Libre #3" ]
 ---
 
-Las hackers no pueden solucionar la vigilancia
-==============================================
+Las hackers no pueden solucionar la vigilancia --- Dmytri Kleiner
+=================================================================
 
-> Traducción de _Hackers can't solve surveillance_[^surveillance] por
-> minitrue, fauno y max. Liberado bajo la Licencia de Producción de
-> Pares[^ppl]
+> Traducción de _Hackers can't solve
+> surveillance_[^vigilancia-surveillance] por minitrue, fauno y max.
+> Liberado bajo la Licencia de Producción de Pares[^vigilancia-ppl]
 
-[^surveillance]: <http://www.dmytri.info/hackers-cant-solve-surveillance/>
-[^ppl]: <http://endefensadelsl.org/ppl_deed_es.html>
+[^vigilancia-surveillance]: <http://www.dmytri.info/hackers-cant-solve-surveillance/>
+[^vigilancia-ppl]: <http://endefensadelsl.org/ppl_deed_es.html>
 
 Médecins Sans Frontières (MSF), también conocidas como Médicos Sin
 Fronteras, es una organización que salva vidas en regiones en guerra o
@@ -96,13 +97,13 @@ agencias de inteligencia locales y extranjeras.
 Ha sido difícil luchar contra esta dura realidad, especialmente para una
 comunidad hacker que vio a Internet como un nuevo reino, como John Perry
 Barlow escribió en la Declaracion de la Independencia del
-Cyberespacio:[^ciberespacio] "Estamos creando un mundo donde cualquiera,
-en cualquier lugar pueda expresar sus creencias, sin importar cuan
-singulares, sin miedo a ser coaccionada al silencio o comformidad". Su
-colega, John Gilmore, proclamaba "La red interpreta la censura como un
-error y la evade."
+Cyberespacio:[^vigilancia-ciberespacio] "Estamos creando un mundo donde
+cualquiera, en cualquier lugar pueda expresar sus creencias, sin
+importar cuan singulares, sin miedo a ser coaccionada al silencio
+o comformidad". Su colega, John Gilmore, proclamaba "La red interpreta
+la censura como un error y la evade."
 
-[^ciberespacio]: <https://es.wikisource.org/wiki/Declaraci%C3%B3n_de_independencia_del_ciberespacio>
+[^vigilancia-ciberespacio]: <https://es.wikisource.org/wiki/Declaraci%C3%B3n_de_independencia_del_ciberespacio>
 
 Esas dos citas, nacidas en el apogeo de la _net.culture_ de los '90,
 contrastan áridamente con lo que Adam Curtis describe en su documental
@@ -110,20 +111,22 @@ de la BBC _All Watched Over By Machines of Loving Grace_:
 
 > La promesa original de la Ideología Californiana fue que las
 > computadoras nos liberarían de todas las arcaicas formas de control
-> político y que nos volveríamos héroes randianos,[^rand] en control de
-> nuestro propio destino. Sin embargo hoy en día sentimos lo opuesto,
-> que somos componentes indefensos en un sistema global, un sistema
-> controlado por una lógica rígida que no podemos desafiar o cambiar.
+> político y que nos volveríamos héroes randianos,[^vigilancia-rand] en
+> control de nuestro propio destino. Sin embargo hoy en día sentimos lo
+> opuesto, que somos componentes indefensos en un sistema global, un
+> sistema controlado por una lógica rígida que no podemos desafiar
+> o cambiar.
 
-[^rand]: Por Ayn Rand. Nota de la Traducción.
+[^vigilancia-rand]: Por Ayn Rand. (Nota de la Traducción).
 
 Extrañamente, el film no da crédito a Richard Barbrook y Andy Cameron
 quienes acuñaron el término "Ideología Californiana" en su influyente
 texto de 1995 que estuvo entre los primeros en identificar la ideología
-ultraliberal[^libertarian] endémica en la cultura de Sillicon Valley.
+ultraliberal[^vigilancia-libertarian] endémica en la cultura de Sillicon
+Valley.
 
-[^libertarian]: Traducimos _libertarian_ por ultraliberal. Nota de la
-traducción.
+[^vigilancia-libertarian]: Traducimos _libertarian_ por ultraliberal.
+(Nota de la traducción.)
 
 La visión de un ciberespacio libre e incensurable de Barlow, Gilmore y
 otras era incompatible con la necesidad del Capital, por ende los
@@ -160,7 +163,7 @@ dirá que estamos comiendo demasiado rápido, esto [...] pone la
 responsabilidad de la reforma en el individuo."
 
 Karl Marx da un argumento similar en el 18 Brumario de Luis
-Bonaparte[^brumario]:
+Bonaparte[^vigilancia-brumario]:
 
 > El proletariado [...] renuncia a la tarea de revolucionar el viejo
 > mundo con sus propias armas colectivas y por el contrario, busca dar
@@ -168,7 +171,7 @@ Bonaparte[^brumario]:
 > privada, dentro de los angostos límites de su propia condición de
 > clase y en consecuencia, falla inevitablemente.
 
-[^brumario]: <https://www.marxists.org/espanol/m-e/1850s/brumaire/brum1.htm>
+[^vigilancia-brumario]: <https://www.marxists.org/espanol/m-e/1850s/brumaire/brum1.htm>
 
 El solucionismo subestima los costos sociales y asume que los problemas
 sociales pueden ser resueltos por individuos e intereses privados y
@@ -178,7 +181,7 @@ considerar las capacidades o fortunas individuales. Este tipo de cosas
 solo pueden ser provistas socialmente, como un bien público.
 
 Muchas hackers siempre lo supieron. En un excelente ensayo del _Journal
-of Peer Production_[^hl-and-hs] Maxigas cita a Simon Yiull:
+of Peer Production_[^vigilancia-hl-and-hs] Maxigas cita a Simon Yiull:
 
 > Los primeros hacklabs se desarrollaron en Europa, comúnmente en la
 > tradición de los centros sociales okupas y los _medialabs_
@@ -186,7 +189,7 @@ of Peer Production_[^hl-and-hs] Maxigas cita a Simon Yiull:
 > autonomistas y en España, Alemania y Holanda con los movimientos
 > okupas anarquistas.
 
-[^hl-and-hs]: <https://github.com/edsl/articulos/blob/traduccion/hacklabs-y-hackerspaces/hacklabs-y-hackerspaces.markdown>
+[^vigilancia-hl-and-hs]: <https://github.com/edsl/articulos/blob/traduccion/hacklabs-y-hackerspaces/hacklabs-y-hackerspaces.markdown>
 
 Los primeros hacklabs no veían su rol limitado al solucionismo. Aunque
 las hackers siempre ayudaron a la gente a entender cómo funcionan las
@@ -202,15 +205,15 @@ de comunicación podía ser de ayuda para estos movimientos.
 
 Sin embargo, como Maxigas argumenta "los hackerspaces no están embebidos
 y no están concientemente comprometidos hacia un proyecto o idea
-abiertamente políticos".[^hackerspace] En cambio, los hackerspaces a
-menudo se concentran en el empoderamiento tecnológico, que es
-ciertamente beneficioso e importante, pero como los centros de salud
-comunitarios que enseñan practicas de mantenimiento de la salud son
-beneficiosas, tampoco pueden solucionar problemas sociales mayores.
+abiertamente políticos".[^vigilancia-hackerspace] En cambio, los
+hackerspaces a menudo se concentran en el empoderamiento tecnológico,
+que es ciertamente beneficioso e importante, pero como los centros de
+salud comunitarios que enseñan practicas de mantenimiento de la salud
+son beneficiosas, tampoco pueden solucionar problemas sociales mayores.
 Estos proyectos de "enseñar a pescar" no pueden por su cuenta solucionar
 problemas sociales como la privacidad o la salud.
 
-[^hackerspace]: El artículo al que se hace referencia distingue entre
+[^vigilancia-hackerspace]: El artículo al que se hace referencia distingue entre
 Hacklabs y Hackerspaces. Nota de la traducción.
 
 Las hackers necesitamos entender que no hay un modelo de negocio para
@@ -218,3 +221,4 @@ las comunicaciones masivas seguras. Para llegar a una sociedad donde
 podamos esperar privacidad necesitamos más hackers y hackerspaces que
 abracen los desafíos políticos de construir una sociedad más
 igualitaria.
+

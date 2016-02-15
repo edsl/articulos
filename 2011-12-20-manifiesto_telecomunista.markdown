@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "El Manifiesto Telecomunista"
-author: "Dmitry Kleiner"
+author: "Dmytri Kleiner"
 cover: "images/cover_manifiesto_telecomunista.png"
 old-slug: telekommunist_manifesto.html
 license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
-El Manifiesto Telecomunista
-===========================
+El Manifiesto Telecomunista --- Dmytri Kleiner
+==============================================
 
-> El Manifiesto Telecomunista se compone de textos extendidos y
-> re-trabajados por Dmytri Kleiner, a partir de trabajos de Joanne
+> El Manifiesto Telecomunista se compone de textos extendidos
+> y re-trabajados por Dmytri Kleiner, a partir de trabajos de Joanne
 > Richardson, Brian Wyrick y Dmytri Kleiner, 2004-2008.
 >
 > Esta publicación se encuentra bajo la [Licencia de Producción de
@@ -19,10 +19,8 @@ El Manifiesto Telecomunista
 > uso comercial hecho por colectivos y trabajadores independientes que
 > trabajen en el dominio común.
 >
-> Traducido al castellano por Nicolás Reynolds
-> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
-> (mauricio@pasquierjuan.com.ar).  Correcciones por Andrea Granate y
-> Facundo Acevedo.
+> Traducido al castellano por fauno y mpj.  Correcciones por Andrea
+> Granate y KaZe.
 
 
 Licencia de Producción de Pares
@@ -1083,14 +1081,14 @@ apareciendo. La computación en la nube, provista por grandes
 corporaciones como _Google_ y _Amazon_, donde los clientes no son
 propietarios de la infraestructura física que utilizan, profundiza la
 centralización de la infraestructura de la Internet.  Adicionalmente,
-legislaciones como el "Paquete de Reformas de Telecomunicaciones"[^22]
-presentadas al Parlamento Europeo, buscan posibilitar que los
-proveedores de servicios (grandes conglomerados de telecomunicaciones)
-puedan decidir a cuáles sitios web pueden acceder sus usuarios. El
-capital nos está mostrando su visión del futuro de Internet y el futuro
-es muy parecido a _CompuServe_: monolítico, centralizado, mediado,
-controlable y explotable y naturalmente, operado por unas pocas grandes
-corporaciones.
+legislaciones como el "Paquete de Reformas de
+Telecomunicaciones"[^telecomunista-22] presentadas al Parlamento Europeo,
+buscan posibilitar que los proveedores de servicios (grandes
+conglomerados de telecomunicaciones) puedan decidir a cuáles sitios web
+pueden acceder sus usuarios. El capital nos está mostrando su visión del
+futuro de Internet y el futuro es muy parecido a _CompuServe_:
+monolítico, centralizado, mediado, controlable y explotable
+y naturalmente, operado por unas pocas grandes corporaciones.
 
 Casi todos los servicios de Internet más utilizados pueden ser
 reemplazados por alternativas de pares. _Google_ puede reemplazarse por
@@ -1461,7 +1459,7 @@ _Derivado de la Sección 2 del Manifiesto del Partido Comunista; Marx y
 Engels, 1948_ [@manifesto-1848].
 
 _Revisado utilizando el texto del Manifiesto Comunista en castellano._
-[^100]
+[^telecomunista-100]
 
 Ya dejamos dicho que el primer paso de la revolución obrera será ~~la
 exaltación del proletariado al Poder,~~ **el desarrollo de una red de
@@ -1622,16 +1620,16 @@ por fuera del dominio común.
 ## El _copyright_ es un sistema de censura y explotación
 
 La existencia de los "derechos de copia" es previa a las nociones sobre
-el derecho del autor a la propiedad del siglo XVIII.[^26] Desde el siglo
-XVI al XVII las licencias reales otorgaron derechos exclusivos a ciertos
-editores para la impresión de textos particulares. En 1557, un monopolio
-exclusivo sobre la impresión fue dado a través del _Royal Charter_ al
-gremio londinense de los imprenteros, la _Stationers' Company_, porque
-aseguraba el control de la Corona sobre los libros que se publicaban o
-se censuraban. Los primeros derechos de copia fueron los derechos de los
-editores a imprimir copias, emergiendo de las necesidades ideológicas de
-las monarquías absolutistas de controlar el conocimiento y censurar el
-disenso.
+el derecho del autor a la propiedad del siglo XVIII.[^telecomunista-26]
+Desde el siglo XVI al XVII las licencias reales otorgaron derechos
+exclusivos a ciertos editores para la impresión de textos particulares.
+En 1557, un monopolio exclusivo sobre la impresión fue dado a través del
+_Royal Charter_ al gremio londinense de los imprenteros, la _Stationers'
+Company_, porque aseguraba el control de la Corona sobre los libros que
+se publicaban o se censuraban. Los primeros derechos de copia fueron los
+derechos de los editores a imprimir copias, emergiendo de las
+necesidades ideológicas de las monarquías absolutistas de controlar el
+conocimiento y censurar el disenso.
 
 Después de que el Acta de Licenciamiento hubiera expirado en 1694, el
 monopolio de la _Stationers' Company_ se vio amenazado por los libreros
@@ -1875,17 +1873,18 @@ para hacer poemas con recortes de diario y los fotomontajes de Höch,
 Hausmann y Heartfield.  Dadá también desafió la idea del artista como un
 genio solitario y del arte como una esfera separada, trabajando
 colectivamente para producir no sólo objetos y textos artísticos, sino
-también hoaxes[^NdT2] mediáticos, intervenciones en encuentros políticos
-y manifestaciones callejeras. Su ataque a los valores artísticos fue una
-revuelta contra los fundamentos capitalistas que los habían creado.
+también hoaxes[^telecomunista-NdT2] mediáticos, intervenciones en
+encuentros políticos y manifestaciones callejeras. Su ataque a los
+valores artísticos fue una revuelta contra los fundamentos capitalistas
+que los habían creado.
 
 Las ideas del dadaísmo fueron desarrolladas sistemáticamente en una
 teoría por la Internacional Situacionista (IS).  La IS reconoció que la
-práctica del _détournement_[^NdT3], es decir poner obras, películas,
-publicidades y cómics existentes en un desvío (_detour_) o recodificar
-sus significados predominantes, estaba en deuda con las prácticas
-dadaístas, pero con una diferencia.  Vieron a Dadá como una crítica
-negativa de las imágenes dominantes (una que dependía del fácil
+práctica del _détournement_[^telecomunista-NdT3], es decir poner obras,
+películas, publicidades y cómics existentes en un desvío (_detour_)
+o recodificar sus significados predominantes, estaba en deuda con las
+prácticas dadaístas, pero con una diferencia.  Vieron a Dadá como una
+crítica negativa de las imágenes dominantes (una que dependía del fácil
 reconocimiento de la imagen negada) y definieron el _detournement_ como
 una reutilización positiva de fragmentos existentes, simplemente como
 elementos en la producción de una nueva obra.  El _detournement_ no era
@@ -2136,7 +2135,7 @@ Situationniste_, que existió desde los '50 tardíos hasta principios de
 los '70, era publicado con la siguiente declaración de _copyright_:
 "Todos los textos publicados en _Internationale Situationniste_ pueden
 ser reproducidos libremente, traducidos o adaptados, incluso sin
-indicación de origen".[^34]
+indicación de origen".[^telecomunista-34]
 
 Incluso antes de esto, en un libro de canciones que Woody Guthrie
 distribuyó en los '30 para los escuchas que querían saber las palabras
@@ -2198,7 +2197,7 @@ Las licencias _copyleft_ garantizan libertad de la propiedad intelectual
 al requerir que la reutilización y redistribución de la información esté
 gobernada por las "cuatro libertades" definidas por la Fundación del
 Software Libre (FSF).  Estas son las libertades de usar, estudiar,
-modificar y redistribuir.[^36]  Puesto en contexto histórico, el
+modificar y redistribuir.[^telecomunista-36]  Puesto en contexto histórico, el
 _copyleft_ descansa en algún lugar entre el _copyright_ y el
 anti-_copyright_.  El gesto de los escritores al poner en
 anti-_copyright_ sus obras era hecho con un espíritu de generosidad,
@@ -3055,11 +3054,12 @@ de riesgo y el _copyfarleft_ son sólo uno de los medios de la lucha de
 clases, no objetivos ideales por sí mismos.  Su intención es ser medios
 de organizar la producción con el objetivo de construir la capacidad
 económica necesaria para entrar en el conflicto de clase y transformar
-el sistema capitalista.  En palabras de los Trabajadores Industriales del
-Mundo "no sólo por la lucha diaria contra los capitalistas, sino para
-sostener la producción una vez que el capitalismo haya sido destronado.
-Al organizarnos industrialmente estamos formando la estructura de la
-nueva sociedad dentro de cáscara de la vieja" [@iww-sf].
+el sistema capitalista.  En palabras de los Trabajadores Industriales
+del Mundo "no sólo por la lucha diaria contra los capitalistas, sino
+para sostener la producción una vez que el capitalismo haya sido
+destronado. Al organizarnos industrialmente estamos formando la
+estructura de la nueva sociedad dentro de cáscara de la vieja"
+[@iww-sf].
 
 El capitalismo, un modo de producción donde el trabajador gana sólo su
 subsistencia mientras que los propietarios retienen el resto del
@@ -3082,42 +3082,45 @@ colectivos, retenemos la riqueza que creamos y por lo tanto la
 posibilidad de una sociedad nueva se pone a nuestro alcance.
 
 
-[^100]: Manifiesto del Partido Comunista (1848).
+[^telecomunista-100]: Manifiesto del Partido Comunista (1848).
 <http://www.marxists.org/espanol/m-e/1840s/48-manif.htm>
 
-[^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado por
-Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre
-de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras europeas
-de 2002. Su objetivo es unificar el mercado de telecomunicaciones
-europeo para los 27 miembros.
+[^telecomunista-22]: El 'Paquete de Reformas de Telecomunicadoras' fue
+presentado por Viviane Reding al Parlamento Europeo en Estrasburgo el 13
+de noviembre de 2007. Apunta a cambiar las Reglas de las
+Telecomunicadoras europeas de 2002. Su objetivo es unificar el mercado
+de telecomunicaciones europeo para los 27 miembros.
 <http://europa.eu/rapid/press-release_IP-07-1677_es.htm>
 
-[^26]: Información sobre la historia del _copyright_ ha sido recopilada
-mediante una extensa y diversa investigación. Muchos recursos primarias
-pueden encontrarse en el archivo digital _Primary Sources on_ Copyright
-_(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
-Humanidades del Reino Unido. <http://www.copyrighthistory.com/>
+[^telecomunista-26]: Información sobre la historia del _copyright_ ha
+sido recopilada mediante una extensa y diversa investigación. Muchos
+recursos primarias pueden encontrarse en el archivo digital _Primary
+Sources on_ Copyright _(1450-1900)_ iniciado por el Consejo de
+Investigación en Artes y Humanidades del Reino Unido.
+<http://www.copyrighthistory.com/>
 
-[^34]: El archivo de la Internacional Situacionista y el periódico
-_Internationale Situationniste_ pueden leerse en el sitio <Situationist
-International Online_: <http://www.cddc.vt.edu/sionline/index.html>
+[^telecomunista-34]: El archivo de la Internacional Situacionista y el
+periódico _Internationale Situationniste_ pueden leerse en el sitio
+<Situationist International Online_:
+<http://www.cddc.vt.edu/sionline/index.html>
 
-[^36]: [Free Software Foundation](http://fsf.org). <http://fsf.org>
+[^telecomunista-36]: Free Software Foundation <http://fsf.org>
 
-[^NdT2]: Un hoax, noticia falsa o bulo, es un intento de hacer
+[^telecomunista-NdT2]: Un hoax, noticia falsa o bulo, es un intento de hacer
 creer a un grupo de personas que algo falso es real.  En castellano el
 término se popularizó principalmente al referirse a engaños masivos por
 medios electrónicos (especialmente Internet).
 <https://es.wikipedia.org/wiki/Bulo> (Nota de la traducción.)
 
-[^NdT3]: _Détournement_ es un concepto surgido dentro del movimiento
-situacionista que habla sobre la posibilidad artística y política de
-tomar algún objeto creado por el capitalismo o el sistema político
-hegemónico y distorsionar su significado y uso original para producir un
-efecto crítico.  Una palabra parecida en español es tergiversación.
-<https://es.wikipedia.org/wiki/Detournement> (Nota de la traducción.)
+[^telecomunista-NdT3]: _Détournement_ es un concepto surgido dentro del
+movimiento situacionista que habla sobre la posibilidad artística
+y política de tomar algún objeto creado por el capitalismo o el sistema
+político hegemónico y distorsionar su significado y uso original para
+producir un efecto crítico.  Una palabra parecida en español es
+tergiversación. <https://es.wikipedia.org/wiki/Detournement> (Nota de la
+traducción.)
 
 
-## Bibliografía
+# Bibliografía
 
 

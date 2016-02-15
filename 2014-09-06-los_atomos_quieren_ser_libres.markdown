@@ -4,15 +4,15 @@ author: "Johan Söderberg"
 layout: post
 license: http://endefensadelsl.org/ppl_deed_es.html
 cover: "images/cover_endefensadelsl_nr2.png"
+category: [ "En Defensa del Software Libre #2" ]
 ---
 
-¡Los átomos también quieren ser libres!
-=======================================
+¡Los átomos también quieren ser libres! --- Johan Söderberg
+===========================================================
 
-> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org), Natalia
-> Boquet (picado.fino@gmail.com) y Mauricio Pasquier Juan (mauricio@pasquierjuan.com.ar).
-> Liberado bajo la [Licencia de Producción de
-> Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del autor.
+> Traducido por fauno, nat y mpj. Liberado bajo la [Licencia de
+> Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html) con
+> permiso del autor.
 
 Introducción
 ------------
@@ -20,60 +20,62 @@ Introducción
 Casi tan pronto como la impresora 3D apta para el público general se
 convirtió en un producto ampliamente disponible al público, surgió el
 primer conflicto sobre la propiedad
-intelectual[^ndt1-propiedad-intelectual] de los objetos tridimensionales
-imprimibles.  En febrero del 2011, _Thingiverse_[^thingiverse], un
-repositorio de archivos de este tipo de objetos, propiedad de los
-fabricantes de impresoras 3D _Makerbog Industries_, recibió su primera
-carta de cese y desistimiento (_cease & desist_[^ndt2-cease-desist]).
-El diseñador que la envió, Ulrich Schwanitz, hizo un reclamo de
-propiedad sobre un objeto que había sido subido a Thingiverse.  El
-objeto en cuestión era un modelo de un "Triángulo de Penrose".  Se trata
-de una muy conocida ilusión óptica donde los lados del triángulo
-terminan en lugares incorrectos.  El objeto no puede existir sino como
-una representación bidimensional en papel.  Schwanitz había diseñado un
-objeto tridimensional que, al ser observado desde el ángulo correcto, se
-asemejaba a un Triángulo de Penrose.  Un usuario de Thingiverse le había
-hecho ingeniería inversa a partir de una foto.  Temiendo responsabilidad
-secundaria bajo la _Digital Millenium Copyright Act_, Makerbot
-Industries decidió eliminar el archivo, aunque la situación legal era
-altamente incierta.  La representación bidimensional original del
-Triángulo de Penrose se encuentra en el dominio público y no resulta
-claro si Schwanitz reclamó derechos sobre el archivo de diseño, es decir
-sobre el código de software, sobre los planos de la estructura del
-objeto o sobre la foto con la imagen del Triángulo de Penrose.  Después
-de las protestas públicas, Schwanitz renunció a los cargos y liberó el
-diseño [@rideout-2012].  Sin embargo, este primer encuentro ha sido
-seguido por reclamos corporativos más estridentes y poderosos.  Resulta
-interesante que el primer reclamo de copyright sobre objetos
-tridimensionales imprimibles haya concernido a una forma que, en
-términos lógicos, no puede existir en el espacio físico sino como una
-ilusión óptica.
+intelectual[^atomos-ndt1-propiedad-intelectual] de los objetos
+tridimensionales imprimibles.  En febrero del 2011,
+_Thingiverse_[^atomos-thingiverse], un repositorio de archivos de este
+tipo de objetos, propiedad de los fabricantes de impresoras 3D _Makerbog
+Industries_, recibió su primera carta de cese y desistimiento (_cease
+& desist_[^atomos-ndt2-cease-desist]). El diseñador que la envió, Ulrich
+Schwanitz, hizo un reclamo de propiedad sobre un objeto que había sido
+subido a Thingiverse.  El objeto en cuestión era un modelo de un
+"Triángulo de Penrose".  Se trata de una muy conocida ilusión óptica
+donde los lados del triángulo terminan en lugares incorrectos.  El
+objeto no puede existir sino como una representación bidimensional en
+papel.  Schwanitz había diseñado un objeto tridimensional que, al ser
+observado desde el ángulo correcto, se asemejaba a un Triángulo de
+Penrose.  Un usuario de Thingiverse le había hecho ingeniería inversa
+a partir de una foto.  Temiendo responsabilidad secundaria bajo la
+_Digital Millenium Copyright Act_, Makerbot Industries decidió eliminar
+el archivo, aunque la situación legal era altamente incierta.  La
+representación bidimensional original del Triángulo de Penrose se
+encuentra en el dominio público y no resulta claro si Schwanitz reclamó
+derechos sobre el archivo de diseño, es decir sobre el código de
+software, sobre los planos de la estructura del objeto o sobre la foto
+con la imagen del Triángulo de Penrose.  Después de las protestas
+públicas, Schwanitz renunció a los cargos y liberó el diseño
+[@rideout-2012].  Sin embargo, este primer encuentro ha sido seguido por
+reclamos corporativos más estridentes y poderosos.  Resulta interesante
+que el primer reclamo de copyright sobre objetos tridimensionales
+imprimibles haya concernido a una forma que, en términos lógicos, no
+puede existir en el espacio físico sino como una ilusión óptica.
 
-[^thingiverse]: Una traducción fiel podría ser "cosoverso". _(Nota de traducción)_
+[^atomos-thingiverse]: Una traducción fiel podría ser "cosoverso". (Nota
+de la traducción.)
 
-[^ndt1-propiedad-intelectual]:
-  El autor no cree que haya una distinción entre propiedad y propiedad
-  intelectual.  Ver ¡Hackers GNUníos!. _(Nota de traducción)_
+[^atomos-ndt1-propiedad-intelectual]: El autor no cree que haya una
+distinción entre propiedad y propiedad intelectual.  Ver _¡Hackers
+GNUníos!_ <https://endefensadelsl.org/hackers_gnunios.html>. (Nota de la
+traducción.)
 
-[^ndt2-cease-desist]:
-  Documento legal utilizado para obligar a que se termine con cierta
-  conducta. Mayoritariamente se usa como coacción para eliminar obras
-  publicadas en Internet. _(Nota de traducción)_
+[^atomos-ndt2-cease-desist]: Documento legal utilizado para obligar
+a que se termine con cierta conducta. Mayoritariamente se usa como
+coacción para eliminar obras publicadas en Internet. (Nota de la
+traducción.)
 
 Ya un año antes de la debacle de Penrose, muchos hobbistas de la
 comunidad que estaba construyendo impresoras tridimensionales
-libres[^libres] ya habían expresado sus dudas sobre el rol de
+libres[^atomos-libres] ya habían expresado sus dudas sobre el rol de
 Thingiverse.  En respuesta a estas dudas, uno de los fundadores del
 servicio de compartición de archivos sueco _The Pirate Bay_ lanzó un
-nuevo sitio web llamado "The Product Bay"[^tpb].  Se anunció que este
-repositorio estaría enteramente dedicado a la libertad de la
+nuevo sitio web llamado "The Product Bay"[^atomos-tpb].  Se anunció que
+este repositorio estaría enteramente dedicado a la libertad de la
 información.  En conjunto con esta iniciativa, jóvenes seguidores del
 Partido Pirata de Suecia visitaron ferias de muebles y diseño con la
-idea de llevar el mensaje a vendedores de IKEA[^ikea] y diseñadores
-profesionales: sus días estaban contados, así como los de los
-intermediarios de las industrias de la música y el cine.  Esta amenaza,
-o promesa, llega directo al corazón de los fundamentos detrás del
-desarrollo de la impresora tridimensional libre.  La tecnología fue
+idea de llevar el mensaje a vendedores de IKEA[^atomos-ikea]
+y diseñadores profesionales: sus días estaban contados, así como los de
+los intermediarios de las industrias de la música y el cine.  Esta
+amenaza, o promesa, llega directo al corazón de los fundamentos detrás
+del desarrollo de la impresora tridimensional libre.  La tecnología fue
 desarrollada por un grupo de hobbistas y hackers con el objetivo
 explícito de expandir el conflicto de la propiedad intelectual sobre
 bienes tangibles, físicos. [@bowyer-2004] Un indicio de esto es un
@@ -86,15 +88,15 @@ impresora tridimensional, los archivos de diseño pueden ser generados
 (es decir, escaneados) directamente desde los objetos físicos
 existentes.
 
-[^libres]: Siguiendo el espíritu del software libre, libres por libertad
-           de uso, modificación y distribución de los planos y el
-           diseño. _(Nota de traducción)_
+[^atomos-libres]: Siguiendo el espíritu del software libre, libres por
+libertad de uso, modificación y distribución de los planos y el diseño.
+(Nota de la traducción.)
 
-[^tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
-        Pirata(s). _(Nota de traducción)_
+[^atomos-tpb]: La Bahía de los Productos, en lugar de La Bahía (de los)
+Pirata(s). (Nota de la traducción.)
 
-[^ikea]: IKEA se dedica a la venta de muebles baratos listos para armar.
-         _(Nota de traducción)_
+[^atomos-ikea]: IKEA se dedica a la venta de muebles baratos listos para
+armar. (Nota de la traducción.)
 
 La proposición de que el escaneo y la impresión tridimensionales harán a
 los bienes físicos tan copiables como el código de software está abierta
@@ -165,9 +167,9 @@ máquinas, es decir, del código fuente.  En correspondencia con esta
 expansión del régimen de propiedad, surgió la resistencia al mismo. Fue
 En ese momento que Richard Stallman inventó el concepto de Software
 Libre y creó una licencia que lo acompañara.  La Licencia Pública
-General[^gpl] explotaba los derechos contractuales otorgados al autor de
-una obra bajo copyright, para especificar las condiciones bajo las que
-su obra podía ser usada.  Las condiciones impuestas por la GPL
+General[^atomos-gpl] explotaba los derechos contractuales otorgados al
+autor de una obra bajo copyright, para especificar las condiciones bajo
+las que su obra podía ser usada.  Las condiciones impuestas por la GPL
 aseguraban el acceso público a una obra al "excluir a los excluidores".
 El armamento retórico contra la propiedad intelectual fue desarrollado
 durante la misma década.  Stewart Brand, el editor del _Whole Earth
@@ -182,8 +184,8 @@ propiedad intelectual:
 > ser cara porque puede ser inmensamente valiosa para el receptor.
 > [@brand-1987, pp. 202]
 
-[^gpl]: GPL por sus siglas en inglés (General Public License).
-        _(Nota de traducción)_
+[^atomos-gpl]: GPL por sus siglas en inglés (General Public License).
+(Nota de la traducción.)
 
 Brand identificó correctamente dos tendencias en conflicto y las situó
 en una economía de la información.  A continuación contrastó la unicidad
@@ -411,46 +413,46 @@ la militancia por los comunes informacionales no es a la vez un ataque
 al libre mercado.
 
 El sesgo del objeto-frontera debe ser respetado por todo el público
-_geek_[^geek] bajo pena de quedar marginalizado.  Esto incluye a los
-críticos de la propiedad intelectual, típicamente identificados como
-"izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la _Free
-Software Foundation_, insiste en no usar el término "propiedad
+_geek_[^atomos-geek] bajo pena de quedar marginalizado.  Esto incluye
+a los críticos de la propiedad intelectual, típicamente identificados
+como "izquierdistas".  Por ejemplo, Richard Stallman, el fundador de la
+_Free Software Foundation_, insiste en no usar el término "propiedad
 intelectual".  Argumenta que este término causa confusión al juntar un
 rango de legislaciones diferentes bajo un término abarcativo
 [@stallman-2006].  Este deseo de separar la propiedad privada de la
 crítica de la propiedad intelectual es también sugerida por la frase,
 pegadiza e icónica, de la Free Software Foundation: _"libre como la
-libre expresión, no como la cerveza libre"_[^freebeer].  Al enmarcar el
-problema de esta forma, el caso de los comunes informacionales puede ser
-retratado como una defensa de las libertades civiles, en lugar de ser
-visto como un ataque a la propiedad privada y, por lo tanto, como una
-lucha por la redistribución económica.[^1] Nadie puede negar que esta
-forma de presentar el problema tiene ventajas tácticas.  Tal vez,
-incluso el caso por los comunes informacionales se vuelve más eficiente
-como crítica a la propiedad privada y al libre mercado al no exponerse
-como tal.  A la vez, esto sugiere el arraigo de la crítica a la
-propiedad intelectual en una visión del mundo liberal, enmarcada en el
-sentido común, ampliamente definida y sistematizada en la disciplina
-económica.
+libre expresión, no como la cerveza libre"_[^atomos-freebeer].  Al
+enmarcar el problema de esta forma, el caso de los comunes
+informacionales puede ser retratado como una defensa de las libertades
+civiles, en lugar de ser visto como un ataque a la propiedad privada y,
+por lo tanto, como una lucha por la redistribución económica.[^atomos-1]
+Nadie puede negar que esta forma de presentar el problema tiene ventajas
+tácticas.  Tal vez, incluso el caso por los comunes informacionales se
+vuelve más eficiente como crítica a la propiedad privada y al libre
+mercado al no exponerse como tal.  A la vez, esto sugiere el arraigo de
+la crítica a la propiedad intelectual en una visión del mundo liberal,
+enmarcada en el sentido común, ampliamente definida y sistematizada en
+la disciplina económica.
 
-[^geek]: Geek es un término que se usa para referirse a la persona
-         fascinada por la tecnología y la informática. _(Nota de traducción)_
+[^atomos-geek]: Geek es un término que se usa para referirse a la
+persona fascinada por la tecnología y la informática. (Nota de la
+traducción.)
 
-[^freebeer]: "Free as in free speech, not free as in free beer" es la
-             frase original. En inglés, _free_ puede usarse tanto para
-             hablar de libertad como de gratuidad, de ahí la aclaración.
-             _(Nota de traducción)_
+[^atomos-freebeer]: "Free as in free speech, not free as in free beer"
+es la frase original. En inglés, _free_ puede usarse tanto para hablar
+de libertad como de gratuidad, de ahí la aclaración. (Nota de la
+traducción.)
 
-[^1]: Este argumento ha sido llevado un paso más allá por los críticos
-      _liberales libertarios_ de la propiedad intelectual.  En lugar de
-      hablar sobre "propiedad intelectual", promueven el término
-      derogativo "monopolio intelectual".  El caso contra los derechos
-      de propiedad puede entonces reciclarse como un ataque a las
-      regulaciones estatales y a las distorsiones del mercado
-      [@boldrin-levine-2008].  Esta línea argumentativa es apuntalada
-      por la vieja falacia libertaria de que la propiedad privada y los
-      mercados pueden existir independientemente del Estado y sus
-      poderes legales.
+[^atomos-1]: Este argumento ha sido llevado un paso más allá por los
+críticos _liberales libertarios_ de la propiedad intelectual.  En lugar
+de hablar sobre "propiedad intelectual", promueven el término derogativo
+"monopolio intelectual".  El caso contra los derechos de propiedad puede
+entonces reciclarse como un ataque a las regulaciones estatales y a las
+distorsiones del mercado [@boldrin-levine-2008].  Esta línea
+argumentativa es apuntalada por la vieja falacia libertaria de que la
+propiedad privada y los mercados pueden existir independientemente del
+Estado y sus poderes legales.
 
 
 La abundancia: la anomalía en las ciencias económicas (neo)clásicas
@@ -538,18 +540,19 @@ se la juzga de la misma forma que a cualquier otra industria o sector
 obsoletos: debe perecer.  Esta conclusión es subrayada al volver a
 conectar de tanto en tanto con la teoría económica.  En el caso de
 Yochai Benkler, la conexión está incluso escrita en el título de su
-libro principal: La riqueza de las redes[^wealth] [-@benkler-2006].  Es
-una hermosa jugada retórica.  En un mundo donde la ciencia económica ha
-dado forma a gran parte del discurso oficial y la auto-comprensión
-humana, esta auto-contradicción dentro de la misma cosmovisión se
-convierte en una poderosa palanca para hacer llegar la crítica contra el
-status quo.  Con la misma seguridad con que los economistas establecen
-la omnipresencia de la escasez y las inevitables leyes del mercado, los
-críticos de la propiedad intelectual afirman la naturaleza no rival de
-los recursos informacionales y su excepción de esas mismas leyes.
+libro principal: La riqueza de las redes[^atomos-wealth]
+[-@benkler-2006]. Es una hermosa jugada retórica.  En un mundo donde la
+ciencia económica ha dado forma a gran parte del discurso oficial y la
+auto-comprensión humana, esta auto-contradicción dentro de la misma
+cosmovisión se convierte en una poderosa palanca para hacer llegar la
+crítica contra el status quo.  Con la misma seguridad con que los
+economistas establecen la omnipresencia de la escasez y las inevitables
+leyes del mercado, los críticos de la propiedad intelectual afirman la
+naturaleza no rival de los recursos informacionales y su excepción de
+esas mismas leyes.
 
-[^wealth]: En referencia a _La riqueza de las naciones_ de Adam Smith.
-           _(Nota de traducción)_
+[^atomos-wealth]: En referencia a _La riqueza de las naciones_ de Adam
+Smith. (Nota de la traducción.)
 
 
 La economía política de la información
@@ -579,16 +582,16 @@ es una afirmación de hecho sobre la existencia positiva de la escasez en
 el mundo físico, tomada de la disciplina económica.  La alternativa es
 un acercamiento histórica y sociológicamente informado, de acuerdo al
 cual la escasez (tanto de bienes tangibles como intangibles)
-siempre-ya[^always-already] está inscrita en las relaciones sociales
-prevalecientes.  Es aquí que un análisis robusto de la propiedad
-intelectual debe comenzar.  Mi afirmación podría sonar contraintuitiva.
-La escasez en el mundo físico es una característica de la vida moderna,
-experimentada en todos lados como falta y deseo insatisfecho.  La
-certeza sobre tales experiencias debe suspenderse en favor de un punto
-de vista que relaciona la escasez con el todo social del sistema
-industrial de mercado.  El antropólogo Marshal Sahlins, basándose en sus
-estudios sobre sociedades arcaicas, hablaba desde este punto de vista
-privilegiado cuando hizo las siguientes observaciones:
+siempre-ya[^atomos-always-already] está inscrita en las relaciones
+sociales prevalecientes.  Es aquí que un análisis robusto de la
+propiedad intelectual debe comenzar.  Mi afirmación podría sonar
+contraintuitiva. La escasez en el mundo físico es una característica de
+la vida moderna, experimentada en todos lados como falta y deseo
+insatisfecho.  La certeza sobre tales experiencias debe suspenderse en
+favor de un punto de vista que relaciona la escasez con el todo social
+del sistema industrial de mercado.  El antropólogo Marshal Sahlins,
+basándose en sus estudios sobre sociedades arcaicas, hablaba desde este
+punto de vista privilegiado cuando hizo las siguientes observaciones:
 
 > El sistema industrial-mercantil instituye la escasez de una manera sin
 > paralelo precedentes y en un grado sin aproximación en ningún otro
@@ -598,10 +601,9 @@ privilegiado cuando hizo las siguientes observaciones:
 > materiales material se convierte en el punto inicial explícito y
 > calculable de toda la actividad económica. [@sahlins-1972, pp. 4]
 
-[^always-already]:
-  Always-already en el original. Ver el artículo en Wikipedia:
-  [https://en.wikipedia.org/wiki/Always_already](https://en.wikipedia.org/wiki/Always_already).
-  _(Nota de traducción)_
+[^atomos-always-already]: _Always-already_ en el original. Ver el
+artículo en Wikipedia: <https://en.wikipedia.org/wiki/Always_already>.
+(Nota de la traducción.)
 
 Muchos historiadores han demostrado cómo se ha llegado a esta situación,
 comenzando por el movimiento de cercamiento en los siglos XV y XVI en
@@ -661,22 +663,22 @@ estudio consiste en el cambio tecnológico y en la destrucción creativa.
 La convergencia de hardware y software es un caso en cuestión.  Esta
 tendencia se estaba abriendo paso mucho antes que la aparición de las
 impresoras tridimensionales hogareñas forzara el tema.  Un caso son los
-circuitos programables en campo[^FPGA], ampliamente utilizados en la
-industria computacional desde hace más de una década.  Los circuitos son
-manufacturados de forma tal que el diseño final puede ser reprogramado
-más tarde, como si se tratara de código de software.  No es necesario
-decir que le debemos la existencia de los circuitos programables en
-campo a algo más que a la innata trayectoria del progreso científico y
-tecnológico.  El testimonio de un líder industrial en los '90,
-anticipando el incremento en el uso de estos circuitos, ilustra este
-punto sucintamente:
+circuitos programables en campo[^atomos-FPGA], ampliamente utilizados en
+la industria computacional desde hace más de una década.  Los circuitos
+son manufacturados de forma tal que el diseño final puede ser
+reprogramado más tarde, como si se tratara de código de software.  No es
+necesario decir que le debemos la existencia de los circuitos
+programables en campo a algo más que a la innata trayectoria del
+progreso científico y tecnológico.  El testimonio de un líder industrial
+en los '90, anticipando el incremento en el uso de estos circuitos,
+ilustra este punto sucintamente:
 
 > Nuestra ventaja es que podemos utilizar capacidades de programación
 > fácilmente disponibles para hacer lo que antes requería diseñadores de
 > chips caros y díficiles de reclutar. [@gibson-1999, pp. 38]
 
-[^FPGA]: Un tipo de circuitos (FPGA) que se pueden programar fuera de la
-         fábrica, o sea "en el campo". _(Nota de traducción)_
+[^atomos-FPGA]: Un tipo de circuitos (FPGA) que se pueden programar
+fuera de la fábrica, o sea "en el campo". (Nota de la traducción.)
 
 Tanto la definición de información abstracta y matemática estipulada por
 Claude Shannon, que más tarde respaldó las muchas afirmaciones sobre el
@@ -780,37 +782,37 @@ lados, es la privatización de los servicios públicos.  Sin embargo, la
 proyección de la propiedad intelectual sobre los objetos físicos puede
 añadirse a la lista.  Esto apunta a un futuro donde los aspectos más
 controversiales de la propiedad intelectual, es decir, los sistemas de
-gestión de derechos digitales[^DRM], la vigilancia de los clientes en
-tiempo real y los intrincados sistemas de diferenciación de precios han
-pasado sobre la anterior barrera entre lo virtual y lo físico. En otras
-palabras, la proyección ha transformado la propiedad privada tal como la
-conocemos.  Los dos tipos de propiedad convergen en lo que he dado en
-llamar "propiedad aumentada".  La defensa de que esta proyección es
-lógicamente imposible, dejaría muchas lagunas y no aplica correctamente
-a los objetos realmente existentes, es de poca importancia.  El
-triángulo de Penrose no puede existir en términos lógicos, pero la
-ilusión de uno es suficiente para los propósitos de leyes y mercados. La
-propiedad aumentada implica que la granularidad de las mercancías puede
-hacerse infinitamente pequeña.  Son infinitas las formas de diseccionar
-la información y proveerla en según el pago.  La tosca manera en que los
-bienes y servicios son cobrados hoy, dentro de algunos años se verá como
-una larga e interminable lista de fracasos del mercado.  La tecnología
-mantiene su promesa de cerrar las fallas del mercado, una y otra vez.
-Parafraseando el meme anti-fundacionalista y constructivista, los
-mercados van "hasta el fondo". Como antes sucediera con el régimen de la
-propiedad privada, este nuevo orden solo puede continuar existiendo si
-las transgresiones en su contra son sancionadas por el Estado.  Mientras
-se despliega el conflicto sobre la propiedad aumentada, la piratería se
-generalizará en cada rincón de la sociedad.  Y en todos lados
-escucharemos el grito de guerra: ¡los átomos también quieren ser libres!
+gestión de derechos digitales[^atomos-DRM], la vigilancia de los
+clientes en tiempo real y los intrincados sistemas de diferenciación de
+precios han pasado sobre la anterior barrera entre lo virtual y lo
+físico. En otras palabras, la proyección ha transformado la propiedad
+privada tal como la conocemos.  Los dos tipos de propiedad convergen en
+lo que he dado en llamar "propiedad aumentada".  La defensa de que esta
+proyección es lógicamente imposible, dejaría muchas lagunas y no aplica
+correctamente a los objetos realmente existentes, es de poca
+importancia.  El triángulo de Penrose no puede existir en términos
+lógicos, pero la ilusión de uno es suficiente para los propósitos de
+leyes y mercados. La propiedad aumentada implica que la granularidad de
+las mercancías puede hacerse infinitamente pequeña.  Son infinitas las
+formas de diseccionar la información y proveerla en según el pago.  La
+tosca manera en que los bienes y servicios son cobrados hoy, dentro de
+algunos años se verá como una larga e interminable lista de fracasos del
+mercado.  La tecnología mantiene su promesa de cerrar las fallas del
+mercado, una y otra vez. Parafraseando el meme anti-fundacionalista
+y constructivista, los mercados van "hasta el fondo". Como antes
+sucediera con el régimen de la propiedad privada, este nuevo orden solo
+puede continuar existiendo si las transgresiones en su contra son
+sancionadas por el Estado.  Mientras se despliega el conflicto sobre la
+propiedad aumentada, la piratería se generalizará en cada rincón de la
+sociedad.  Y en todos lados escucharemos el grito de guerra: ¡los átomos
+también quieren ser libres!
 
-[^DRM]:
-  Del inglés Digital Rights Management. Creemos que un nombre más
-  descriptivo es Gestión Digital de Restricciones. Ver el ensayo de
-  Richard Stallman:
-  [http://www.gnu.org/philosophy/can-you-trust.es.html](http://www.gnu.org/philosophy/can-you-trust.es.html).
-  _(Nota de traducción)_
+[^atomos-DRM]: Del inglés Digital Rights Management. Creemos que un
+nombre más descriptivo es Gestión Digital de Restricciones. Ver el
+ensayo de Richard Stallman:
+<http://www.gnu.org/philosophy/can-you-trust.es.html>. (Nota de la
+traducción.)
 
 
-## Bibliografía
+# Bibliografía
 

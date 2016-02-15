@@ -4,16 +4,16 @@ title: "Más allá de la abundancia digital: Bloques para la construcción de la
 author: Christian Siefkes
 license: http://endefensadelsl.org/ppl_deed_es.html
 cover: "images/cover_endefensadelsl_nr2.png"
+category: [ "En Defensa del Software Libre #2" ]
 ---
 
-Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física
-================================================================================================
+Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física --- Christian Siefkes
+======================================================================================================================
 
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/beyond-digital-plenty/)
-> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> (fauno@endefensadelsl.org) y Tes (tes@riseup.net), liberado para la
-> [Licencia de Producción de
+> y liberado en el Dominio Público.  Traducido por fauno y tes, liberado
+> para la [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 Resumen
@@ -153,17 +153,17 @@ de producción.  El límite actual de 1.7 ha. globales por persona pueden
 sobrepasarse por algunos y por períodos limitados de tiempo, pero no por
 todos y para siempre.  Tales limitaciones deben ser respetadas, pero las
 limitaciones, como apunta Stefan Meretz en el segundo patrón de su "Diez
-patrones desarrollados por el proyecto Oekonux"[^oekonux], no son lo
-mismo que escasez.  La escasez significa que *no hay suficiente* de
-algo, por lo que depende, en primer lugar, de cuánto de un bien es
+patrones desarrollados por el proyecto Oekonux"[^abundancia-oekonux], no
+son lo mismo que escasez.  La escasez significa que *no hay suficiente*
+de algo, por lo que depende, en primer lugar, de cuánto de un bien es
 necesitado (y por quién) y en segundo, en cuánto de un bien es producido
 (y por quién).  La escasez es por lo tanto un fenómeno social, nunca uno
 natural.
 
-[^oekonux]:
-  Disponible en el primer número del Journal of Peer Production. Ver
-  [http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project](http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project).
-  _(Nota de traducción)_
+[^abundancia-oekonux]: Disponible en el primer número del Journal of
+Peer Production. Ver
+<http://peerproduction.net/issues/issue-1/debate-societal-transformation/ten-patterns-developed-by-the-oekonux-project>
+(Nota de la traducción.)
 
 Arriba he distinguido entre dos conceptos de la abundancia --el
 desperdicio sin límites contra "obtener lo que necesito, cuando lo
@@ -304,21 +304,21 @@ Ya que la cooperación en los proyectos de pares es voluntaria, nadie es
 forzado a hacerse cargo de tareas específicas.  La forma en que se
 distribuyen tareas en tales proyectos es usualmente llamada
 _estigmérgica_ [@heylighen-2007].  Los participantes dejan pistas sobre
-las tareas que comenzaron y cosas que quisieran ver, animando a otros a
-hacerse cargo.  Los reportes de _bugs_[^bug] en los proyectos de
-software y los "vínculos rojos" que apuntan a artículos faltantes en la
-Wikipedia son ejemplos de tales pistas.  Estas pistas proveen
-orientación a los novatos y a los participantes que terminaron otras
-tareas y están buscando alguna nueva.  Mientras más participantes se
-preocupen por una tarea, más visibles serán las pistas que apunten a
-ella, incrementando la posibilidad de que alguien comience a trabajar en
-ella.  ¿Puede la producción de pares lograr lo que el capitalismo no
+las tareas que comenzaron y cosas que quisieran ver, animando a otros
+a hacerse cargo.  Los reportes de _bugs_[^abundancia-bug] en los
+proyectos de software y los "vínculos rojos" que apuntan a artículos
+faltantes en la Wikipedia son ejemplos de tales pistas.  Estas pistas
+proveen orientación a los novatos y a los participantes que terminaron
+otras tareas y están buscando alguna nueva.  Mientras más participantes
+se preocupen por una tarea, más visibles serán las pistas que apunten
+a ella, incrementando la posibilidad de que alguien comience a trabajar
+en ella.  ¿Puede la producción de pares lograr lo que el capitalismo no
 puede: producir abundancia en el sentido de "lo que necesites, cuando lo
 necesites" para todos, y no sólo en áreas específicas (por ejemplo,
 software) y no sólo para algunos, sino en todas las áreas y para todos?
 
-[^bug]: Los bugs son comportamientos imprevistos en el software,
-  generalmente producto de errores de programación.
+[^abundancia-bug]: Los bugs son comportamientos imprevistos en el
+software, generalmente producto de errores de programación.
 
 Para hacerlo posible, la producción de pares necesita crecer más allá
 del mundo inmaterial hacia el material, produciendo no sólo información
@@ -390,10 +390,10 @@ ch. 46] llegó a la misma conclusión:
 > existentes simultáneamente tomadas juntas pueden ser propietarias de
 > la tierra.  Sólo son sus poseedores, sus usufructuarios y deben
 > dejarla a las generaciones siguientes en mejores condiciones, como si
-> fueran *boni patres familias*[^boni_patres_familias].
+> fueran *boni patres familias*[^abundancia-boni_patres_familias].
 
-[^boni_patres_familias]:
-  Buenos padres de familia. _(Nota de traducción)_
+[^abundancia-boni_patres_familias]: Buenos padres de familia. (Nota de
+la traducción.)
 
 Tratar los recursos naturales como comunes significa que nadie puede
 reclamar derechos exclusivos sobre ellos y deben ser preservados
@@ -476,17 +476,17 @@ un común en Sudamérica [@deangelis-2010].
 Los _hackerspaces_ (ver [hackerspaces.org](http://hackerspaces.org)) son
 otro ejemplo de lugares de encuentro autoorganizados donde las personas
 los usan para desarrollar software libre, crear contenidos libres,
-aprender y compartir conocimiento o solo relajarse y
-divertirse.[^hackerspace]  La mayoría de los hackerspaces se financian
-con las contribuciones de sus miembros, aunque por lo general cualquiera
-es bienvenido, aun cuando no pague.
+aprender y compartir conocimiento o solo relajarse
+y divertirse.[^abundancia-hackerspace]  La mayoría de los hackerspaces
+se financian con las contribuciones de sus miembros, aunque por lo
+general cualquiera es bienvenido, aun cuando no pague.
 
-[^hackerspace]:
-  Esta descripción se acerca más a la de _hacklab_ que a la de
-  _hackerspace_, ver "Hacklabs and hackerspaces", en
-  [http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)
-  y "Hackeando los espacios", en
-  [http://endefensadelsl.org/hackeando_los_espacios.html](http://endefensadelsl.org/hackeando_los_espacios.html). _(Nota de traducción)_
+[^abundancia-hackerspace]: Esta descripción se acerca más a la de
+_hacklab_ que a la de _hackerspace_, ver "Hacklabs and hackerspaces", en
+<https://endefensadelsl.org/hacklabs-y-hackerspaces.html> y "Hackeando
+los espacios", en
+<http://endefensadelsl.org/hackeando_los_espacios.html>. (Nota de la
+traducción.)
 
 Los _Fab Labs_ se organizan en líneas similares, pero su objetivo es la
 producción física.  En la actualidad, existen más de 60 Fab Labs en
@@ -494,8 +494,8 @@ todos los continentes.  Hospedan maquinaria productiva diversa que puede
 ser utilizada por las personas en su vecindario para producir
 localmente.  Usualmente se trata de fresadoras y cortadoras láser
 controladas por computadora (CNCs) utilizadas para la "manufactura
-sustractiva", es decir darle forma a una pieza de material (madera o
-metal) removiendo las partes innecesarias fresando o cortando.  Muchos
+sustractiva", es decir darle forma a una pieza de material (madera
+o metal) removiendo las partes innecesarias fresando o cortando.  Muchos
 Labs poseen también "fabbers" (impresoras 3D) que además pueden
 manufacturar cosas "imprimiendo" múltiples capas de, por ejemplo,
 plástico, una sobre la otra.
@@ -561,20 +561,18 @@ Podría parecer que alguna forma de institución gubernamental es
 necesaria para prevenir y sancionar tal comportamiento.  Pero la
 práctica de los proyectos de pares muestra una forma diferente de tratar
 con la mala conducta (percibida por la comunidad): los participantes
-reaccionan "_flameando_[^flame] y aislando" [@lehmann-2004].  La gente
-criticará y amonestará públicamente al que se comporte mal --al
+reaccionan "_flameando_[^abundancia-flame] y aislando" [@lehmann-2004].
+La gente criticará y amonestará públicamente al que se comporte mal --al
 principio amistosamente, pero tornándose cada vez más agresiva, asuzando
 las "llamas" si la crítica es ignorada.  Si estas advertencias no son
-efectivas, la gente lo "aislará", ignorándolo completamente y
-rehusándose a cooperar con él.  En casos extremos, la persona aislada es
-oficialmente echada del proyecto.
+efectivas, la gente lo "aislará", ignorándolo completamente
+y rehusándose a cooperar con él.  En casos extremos, la persona aislada
+es oficialmente echada del proyecto.
 
-[^flame]:
-  Del argot de Internet _flame war_, dirigir un mensaje deliberadamente
-  hostil, en este caso crítico de las (malas) acciones de otros.  Ver
-  _Flame_ en Wikipedia:
-  [http://es.wikipedia.org/wiki/Flame](http://es.wikipedia.org/wiki/Flame).
-  _(Nota de traducción)_
+[^abundancia-flame]: Del argot de Internet _flame war_, dirigir un
+mensaje deliberadamente hostil, en este caso crítico de las (malas)
+acciones de otros.  Ver _Flame_ en Wikipedia:
+<http://es.wikipedia.org/wiki/Flame>. (Nota de la traducción.)
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción de

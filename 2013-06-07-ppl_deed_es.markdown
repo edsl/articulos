@@ -1,11 +1,11 @@
 ---
-title: "Licencia de Producción de Pares (Versión legible por humanos)"
+title: "Licencia de Producción de Pares (Versión legible por humanas)"
 author: "En Defensa del Software Libre"
 layout: post
 cover: "images/cover_manifiesto_telecomunista.png"
 ---
 
-Licencia de Producción de Pares (Versión legible por humanos)
+Licencia de Producción de Pares (Versión legible por humanas)
 =============================================================
 
 > Esto es un resumen legible por humanos del [texto legal (la licencia

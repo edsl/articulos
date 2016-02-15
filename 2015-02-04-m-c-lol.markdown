@@ -3,30 +3,31 @@ layout: post
 author: "Dmytri Kleiner"
 title: "M - C - LOL: Circuitos de valor en la economía de los lulz"
 license: http://endefensadelsl.org/ppl_deed_es.html
+category: [ "En Defensa del Software Libre #3" ]
 ---
 
-M-C-LOL
-=======
+M - C - LOL: Circuitos de valor en la economía de los lulz --- Dmytri Kleiner
+=============================================================================
 
-> _"M - C - LOL: Circuits of value in the Lulz economy"_[^1] por
+> _"M - C - LOL: Circuits of value in the Lulz economy"_[^lol-1] por
 > Dmytri Kleiner. Traducción por fauno, correcciones por mep, midraed
 > y sísifo, enero de 2015.
 
 Ni el software libre ni el financiamiento colectivo [multitudinario]
 nos salvarán del capitalismo.  No podemos derrocar al capitalismo
-trabajando por los _lulz_[^lulz]. Lo que necesitamos es crear nuevos
+trabajando por los _lulz_[^lol-lulz]. Lo que necesitamos es crear nuevos
 circuitos de valor que nos permitan construir los nuevos medios de
-supervivencia en el planeta. Sólo en ese momento podremos librarnos
-del capitalismo.
+supervivencia en el planeta. Sólo en ese momento podremos librarnos del
+capitalismo.
 
-[^lulz]: Por el simple placer de hacerlo, por las risas (Nota de la
+[^lol-lulz]: Por el simple placer de hacerlo, por las risas. (Nota de la
 Traducción.)
 
 En los estadíos de la producción capitalista, el Capitalista acude al
 mercado dos veces.  La primera vez como comprador y la segunda como
 vendedor.
 
-Marx lo describió como M - C - M'
+Marx lo describió como M - C - M'.
 
 En el primer estadío el capitalista compra bienes y tiempo de trabajo.
 En el segundo, los bienes y el trabajo adquirido son puestos a
@@ -133,4 +134,5 @@ utilizarla en la reproducción de este ciclo, una y otra vez.
 Mientras nuestro trabajo solo obtenga _lulz_ a cambio, el capitalismo
 seguirá riendo último.
 
-[^1]: [http://www.dmytri.info/m-c-lol/](http://www.dmytri.info/m-c-lol/)
+[^lol-1]: <http://www.dmytri.info/m-c-lol/>
+

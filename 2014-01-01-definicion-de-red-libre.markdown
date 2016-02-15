@@ -4,8 +4,8 @@ author: "The Free Network Foundation"
 layout: post
 ---
 
-Definición de una red libre
-===========================
+Definición de una red libre --- The Free Network Foundation
+===========================================================
 
 > La siguiente es la [Definición de una red libre, versión
 > 2](https://commons.thefnf.org/index.php?title=Free_network_definition&oldid=2292)
@@ -14,9 +14,7 @@ Definición de una red libre
 > Desde su traducción, la FNF ha publicado una [versión reducida de este
 > documento](https://commons.thefnf.org/index.php/Free_network_definition)
 >
-> Esta traducción fue realizada por Nicolás Reynolds
-> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
-> (mpj@endefensadelsl.org).
+> Esta traducción fue realizada por fauno y mpj.
 
 La dialéctica fundamental de nuestra lucha es esta: ¿seremos
 esclavizados por nuestra tecnología, o liberados por ella?
@@ -106,3 +104,4 @@ que enmascare el ser corpóreo - los individuos pueden tener muchas
 identidades tales, y cambiar entre ellas a voluntad. Un claro
 delineamiento entre actores anónimos, pseudónimos y _ónimos_ nos
 permitiría a todos evaluar mejor la confiabilidad de otros en la red.
+

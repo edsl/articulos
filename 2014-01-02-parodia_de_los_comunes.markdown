@@ -4,10 +4,11 @@ author: Vasilis Kostakis y Stelios Stavroulakis
 layout: post
 license: http://endefensadelsl.org/ppl_deed_es.html
 cover: "images/cover_endefensadelsl_nr2.png"
+category: [ "En Defensa del Software Libre #2" ]
 ---
 
-La parodia de los Comunes
-=========================
+La parodia de los Comunes --- Vasilis Kostakis y Stelios Stavroulakis
+=====================================================================
 
 > Publicado originalmente en [tripleC
 > 11](http://www.triple-c.at/index.php/tripleC/article/view/484)
@@ -17,15 +18,14 @@ La parodia de los Comunes
 > Tecnológica de Tallinn como también de la _P2P Foundation_.  Stelios
 > Stavroulakis es un científico informático e ingeniero de software
 > interesado en los sistemas informáticos distribuidos, enfocado
-> particularmente en el software libre y los estándares abiertos y
-> generalmente consciente de las problemáticas sociales y ambientales.
+> particularmente en el software libre y los estándares abiertos
+> y generalmente consciente de las problemáticas sociales y ambientales.
 > Es colaborador del _P2P Lab_.
 >
-> Esta traducción fue realizada por Nicolás Reynolds
-> (fauno@endefensadelsl.org) y Mauricio Pasquier Juan
-> (mauricio@pasquierjuan.com.ar) y se publica bajo la [Licencia de Producción
-> de Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de
-> los autores.
+> Esta traducción fue realizada por fauno y mpj y se publica bajo la
+> [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html) bajo permiso de los
+> autores.
 
 Abstract
 --------
@@ -204,12 +204,13 @@ encuentra desprotegido y tiene posibilidad de intervención limitada
 [@kempf-austein-2004].  La "adicción" del cliente a asignar tareas, que
 le conciernen a él/ella en primer lugar, a la supuesta conveniencia que
 el servidor ofrece, es un fenómeno observado en las redes sociales
-centralizadas y privativas y en los modelos SaaS[^SaaS].  Esto
-ejemplifica la tendencia de la población usuaria a neutralizarse y
-disociarse de problemas importantes para su futuro en y fuera de línea.
+centralizadas y privativas y en los modelos SaaS[^parodia-SaaS].  Esto
+ejemplifica la tendencia de la población usuaria a neutralizarse
+y disociarse de problemas importantes para su futuro en y fuera de
+línea.
 
-[^SaaS]: Acrónimo de "Software as a Service" \[Software como Servicio\],
-         por ejemplo Facebook. _(Nota de traducción)_
+[^parodia-SaaS]: Acrónimo de "Software as a Service" \[Software como
+Servicio\], por ejemplo Facebook. (Nota de la traducción.)
 
 Aun más, en este marco contradictorio observamos cambios sutiles no sólo
 en el diseño institucional concerniente a la Internet sino también en la
@@ -321,42 +322,41 @@ componente de libertad y su calidad se vuelve cuestionable, ya que la
 distribución de los cambios en el código depende de la posición personal
 de un emprendedor que los puede empaquetar bajo términos restrictivos.
 Es decir, el programador o el emprendedor pueden cambiar de una licencia
-permisiva a un Acuerdo de Licenciamiento para Usuario Final[^ndt-eula].
-Además, la producción cambia hacia los términos en los que el software
-no libre, propietario, es producido.  Por lo tanto la comunidad de
-software experimenta una mayor presión y los derechos del usuario final
-son eventualmente reducidos.  En otras palabras, las licencias
-permisivas de software libre pueden llevar a una "tragedia", o mejor
-dicho, a una "parodia de los Comunes" por la promesa supuestamente
-emancipatoria del software libre.  En tal escenario la maximización de
-la libertad individual contra las necesidades sociales tendría
-consecuencias totales aun peores que la aplicación de regulaciones que
-maximicen la libertad social en su lugar.  Podría decirse que el código
-abunda, en tanto bien informacional con costos marginales tendientes a
-cero; sin embargo necesita mejoras y mantenimiento, es decir, horas de
-trabajo.  Por lo tanto, al invertir horas de trabajo libres en un
-proyecto sin salida, las licencias permisivas pueden provocar una
-parodia de los Comunes, al desacelerar en general el ritmo de adopción
-del software libre.  En contraste, las licencias copyleft (como la
-Licencia Pública General, GPL) garantizan a los usuarios finales las
-libertades de usar, estudiar, compartir (copiar) y modificar el
-software.  El copyleft es un método de producción social tanto como un
-proceso de compartición de conocimiento, que hace libre a un programa o
-cualquier trabajo y requiere que todas las modificaciones y versiones
-extendidas también lo sean [@gnu-2012].  Entonces las licencias copyleft
-definen las relaciones entre los miembros de las comunidades de software
-y en ese sentido crean ecologías por fuera o más bien en los
-intersticios del mercado capitalista.  Para que no haya malentendidos,
-necesitamos clarificar el significado de "software libre".  Lo "libre"
-en el software libre, a diferencia de lo "libre" en trabajo libre, no
-significa gratis.  El software libre se define por cuatro libertades que
-el usuario tiene para usar, estudiar, compartir copias y compartir
-versiones modificadas del software.
+permisiva a un Acuerdo de Licenciamiento para Usuario
+Final[^parodia-ndt-eula]. Además, la producción cambia hacia los
+términos en los que el software no libre, propietario, es producido. Por
+lo tanto la comunidad de software experimenta una mayor presión y los
+derechos del usuario final son eventualmente reducidos.  En otras
+palabras, las licencias permisivas de software libre pueden llevar a una
+"tragedia", o mejor dicho, a una "parodia de los Comunes" por la promesa
+supuestamente emancipatoria del software libre.  En tal escenario la
+maximización de la libertad individual contra las necesidades sociales
+tendría consecuencias totales aun peores que la aplicación de
+regulaciones que maximicen la libertad social en su lugar.  Podría
+decirse que el código abunda, en tanto bien informacional con costos
+marginales tendientes a cero; sin embargo necesita mejoras
+y mantenimiento, es decir, horas de trabajo.  Por lo tanto, al invertir
+horas de trabajo libres en un proyecto sin salida, las licencias
+permisivas pueden provocar una parodia de los Comunes, al desacelerar en
+general el ritmo de adopción del software libre.  En contraste, las
+licencias copyleft (como la Licencia Pública General, GPL) garantizan
+a los usuarios finales las libertades de usar, estudiar, compartir
+(copiar) y modificar el software.  El copyleft es un método de
+producción social tanto como un proceso de compartición de conocimiento,
+que hace libre a un programa o cualquier trabajo y requiere que todas
+las modificaciones y versiones extendidas también lo sean [@gnu-2012].
+Entonces las licencias copyleft definen las relaciones entre los
+miembros de las comunidades de software y en ese sentido crean ecologías
+por fuera o más bien en los intersticios del mercado capitalista.  Para
+que no haya malentendidos, necesitamos clarificar el significado de
+"software libre".  Lo "libre" en el software libre, a diferencia de lo
+"libre" en trabajo libre, no significa gratis.  El software libre se
+define por cuatro libertades que el usuario tiene para usar, estudiar,
+compartir copias y compartir versiones modificadas del software.
 
-[^ndt-eula]:
-  EULA en inglés, son las licencias de software privativo que incluyen
-  las condiciones bajo las cuales _no_ se puede compartir y modificar el
-  software. _(Nota de traducción)_
+[^parodia-ndt-eula]: EULA en inglés, son las licencias de software
+privativo que incluyen las condiciones bajo las cuales _no_ se puede
+compartir y modificar el software. (Nota de la traducción.)
 
 Definiendo la Parodia de los Comunes
 ------------------------------------
@@ -431,10 +431,10 @@ que dañaron tanto el sector industrial como el agrícola en los últimos
 
 La segunda característica es la externalización, de acuerdo a la cual
 --y a pesar de las intenciones y planes de los miembros-- el proyecto se
-convierte en una forma de economía de agregación o
-_crowdsourcing_[^ndt-crowdsourcing].  En este escenario el valor de uso
-producido por los pares sirve a ciertos intereses lucrativos sin
-importar que los pares productores estén al tanto.  Los
+convierte en una forma de economía de agregación
+o _crowdsourcing_[^parodia-ndt-crowdsourcing].  En este escenario el
+valor de uso producido por los pares sirve a ciertos intereses
+lucrativos sin importar que los pares productores estén al tanto.  Los
 dueños/administradores de la red/plataforma, es decir los "netarquistas"
 como Facebook o Google pueden considerarse los capitalistas de la web,
 que renuncian a su dependencia de la acumulación de información a través
@@ -459,10 +459,9 @@ usuarios debe ser devuelta a sus dueños legítimos así como la libertad
 de acceder y modificar los protocolos y diagramas que estructuran su
 participación.
 
-[^ndt-crowdsourcing]:
-  Tercerización o externalización de masas, una forma de trasladar la
-  fuerza de trabajo hacia colectivos de voluntarios y apropiarse del
-  valor producido. _(Nota de traducción)_
+[^parodia-ndt-crowdsourcing]: Tercerización o externalización de masas,
+una forma de trasladar la fuerza de trabajo hacia colectivos de
+voluntarios y apropiarse del valor producido. (Nota de la traducción.)
 
 Entonces, el trabajo gratuito es voluntario.  En los proyectos de
 producción de pares, el trabajador cognitivo es dueño del artefacto
@@ -507,25 +506,25 @@ contexto socioeconómico en proceso que está aflorando y discutir cómo
 afecta el funcionamiento de la economía real.
 
 Mientras que el evento disparador de su explosión fue la falla de las
-hipotecas basura[^subprime], muchas opiniones se han alzado sobre las
-causas de la burbuja financiera del 2008.  Alguna de naturaleza
-tecnoeconómica [@perez-2009a; @perez-2009b] y otras [@sowell-2010;
-@krugman-2009; @krugman-2012; @stiglitz-2010] que se enfocan en los
-síntomas antes que en las características contradictorias inherentes al
-sistema capitalista.  De acuerdo con Karl Marx [-@marx-1992;
--@marx-1993], el patrón general del sistema capitalista, que vuelve
-inevitables las crisis económicas, es creado por la acción combinada de
-dos leyes de la integración capitalista.  La primera ley concierne a la
-tendencia de la cuota de ganancias a decrecer mientras que la segunda
-describe la necesidad de una creciente concentración y acumulación de
-capital.  Estas dos leyes se contradicen mutuamente llevando a un
-sistema que colapsa y entra en crisis: el Capital no puede ser invertido
-cuando la tasa en descenso de la cuota de ganancias es más rápida que la
-creciente tasa de acumulación de capital.  En el análisis de Marx, el
-capitalismo está inherentemente construido sobre una lógica sisífea que
-alcanza siempre un callejón sin salida, donde la política de escape a
-menudo constituye la destrucción parcial del capital total.  Por un
-período determinado, el capitalismo --un proceso de "creatividad
+hipotecas basura[^parodia-subprime], muchas opiniones se han alzado
+sobre las causas de la burbuja financiera del 2008.  Alguna de
+naturaleza tecnoeconómica [@perez-2009a; @perez-2009b] y otras
+[@sowell-2010; @krugman-2009; @krugman-2012; @stiglitz-2010] que se
+enfocan en los síntomas antes que en las características contradictorias
+inherentes al sistema capitalista.  De acuerdo con Karl Marx
+[-@marx-1992; -@marx-1993], el patrón general del sistema capitalista,
+que vuelve inevitables las crisis económicas, es creado por la acción
+combinada de dos leyes de la integración capitalista.  La primera ley
+concierne a la tendencia de la cuota de ganancias a decrecer mientras
+que la segunda describe la necesidad de una creciente concentración
+y acumulación de capital.  Estas dos leyes se contradicen mutuamente
+llevando a un sistema que colapsa y entra en crisis: el Capital no puede
+ser invertido cuando la tasa en descenso de la cuota de ganancias es más
+rápida que la creciente tasa de acumulación de capital.  En el análisis
+de Marx, el capitalismo está inherentemente construido sobre una lógica
+sisífea que alcanza siempre un callejón sin salida, donde la política de
+escape a menudo constituye la destrucción parcial del capital total. Por
+un período determinado, el capitalismo --un proceso de "creatividad
 destructiva" según Schumpeter [-@schumpeter-1975; -@schumpeter-1982],
 que comparte muchos puntos de vista con Marx en el análisis de la
 dinámica capitalista-- puede parecer sostenible, al introducir productos
@@ -534,13 +533,12 @@ y servicios innovadores.  Desde una perspectiva diferente, Williamson
 cada compañía dejará de desarrollarse cuando sus costos organizacionales
 superan los costos organizacionales de una compañía menor.
 
-[^subprime]:
-  Un crédito _subprime_ o hipoteca basura es una modalidad crediticia
-  del mercado financiero de Estados Unidos que se caracteriza por tener
-  un nivel de riesgo de impago superior a la media del resto de
-  créditos. Ver Wikipedia:
-  [https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime](https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime).
-  _(Nota de traducción)_
+[^parodia-subprime]: Un crédito _subprime_ o hipoteca basura es una
+modalidad crediticia del mercado financiero de Estados Unidos que se
+caracteriza por tener un nivel de riesgo de impago superior a la media
+del resto de créditos. Ver Wikipedia:
+<https://es.wikipedia.org/wiki/Cr%C3%A9dito_subprime>. (Nota de la
+traducción.)
 
 La transformación parcial del capital estancado en el capital de
 préstamo es utilizada como una válvula de presión para superar este
@@ -693,14 +691,14 @@ P2P no sean dominantes, su dependencia de un medioambiente económico
 amigable resulta imperativo.
 
 Un ejemplo reciente donde los Comunes pueden ser mercantilizados es el
-caso del archivo digital de la ERT.  La ERT[^ndt-ert] era la cadena de
-radio y televisión estatal griega.  Fue un componente del sector público
-y era financiada a través de un impuesto obligatorio implementado en la
-factura de la empresa de electricidad pública (DEI) durante décadas.  En
-diciembre del 2007, se anunció el lanzamiento de un esfuerzo por
-digitalizar los viejos archivos de la ERT, cuyos resultados serían
-vistos por primera vez unos meses más tarde.  Aunque inicialmente este
-proyecto fue considerado un paso importante hacia la disponibilidad
+caso del archivo digital de la ERT.  La ERT[^parodia-ndt-ert] era la
+cadena de radio y televisión estatal griega.  Fue un componente del
+sector público y era financiada a través de un impuesto obligatorio
+implementado en la factura de la empresa de electricidad pública (DEI)
+durante décadas.  En diciembre del 2007, se anunció el lanzamiento de un
+esfuerzo por digitalizar los viejos archivos de la ERT, cuyos resultados
+serían vistos por primera vez unos meses más tarde.  Aunque inicialmente
+este proyecto fue considerado un paso importante hacia la disponibilidad
 pública de una riqueza cultural única, la forma en que se decidió
 distribuirla se encontró con la oposición de varias comunidades
 orientadas a los comunes y de ciudadanos.  Según los opositores, detrás
@@ -709,24 +707,23 @@ digital permanecía bajo la propiedad exclusiva de la ERT.  Se escogieron
 formatos patentados de archivos de video, texto e imagen para
 implementar la digitalización a la vez que la descarga y el uso
 posterior del material quedaban prohibidos.  Aún peor, por la disolución
-reciente de la ERT como consecuencia de la crisis griega[^ert] esta
-colección cultural nacional, creada y financiada por ciudadanos griegos,
-puede volver a ser propiedad privada.  Ya durante la ausencia estival de
-la red pública griega, estaciones privadas transmitieron partes del
-archivo.  El caso de la ERT resalta el concepto tradicional de la
-propiedad estatal sobre los bienes públicos: el Estado administra un
-recurso en nombre de los ciudadanos sobre el que ellos no tienen
+reciente de la ERT como consecuencia de la crisis griega[^parodia-ert]
+esta colección cultural nacional, creada y financiada por ciudadanos
+griegos, puede volver a ser propiedad privada.  Ya durante la ausencia
+estival de la red pública griega, estaciones privadas transmitieron
+partes del archivo.  El caso de la ERT resalta el concepto tradicional
+de la propiedad estatal sobre los bienes públicos: el Estado administra
+un recurso en nombre de los ciudadanos sobre el que ellos no tienen
 autoridad.  Y en tiempos turbulentos la explotación de los Comunes, como
 parte de las políticas de la "doctrina del shock" [@klein-2008], toma
 lugar más fácilmente, contribuyendo al y catalizando el proceso de la
 acumulación de capital.
 
-[^ndt-ert]:
-  Ellinikí Radiofonía Tileórasi o Radiotelevisión helénica.  _(Nota de
-  traducción)_
+[^parodia-ndt-ert]: _Ellinikí Radiofonía Tileórasi_ o Radiotelevisión
+helénica. (Nota de la traducción.)
 
-[^ert]: Al momento de escribir esto (agosto de 2013) el destino de la
-        ERT todavía es desconocido.
+[^parodia-ert]: Al momento de escribir esto (agosto de 2013) el destino
+de la ERT todavía es desconocido.
 
 Un tratamiento efectivo es probablemente el uso de medios que garanticen
 el crecimiento fluido de las comunidades.  Estructuralmente hablando,
@@ -797,25 +794,24 @@ amigables a los Comunes, compuestas ellas mismas de comuneros, que
 también controlan su gobernanza y propiedad.  Tales empresas estarán
 legalmente estructuradas para que sea su obligación apoyar la
 circulación de los Comunes".  El desarrollo de las Licencias de
-Producción de Pares[^ppl], introducidas por Kleiner [-@kleiner-2010]
-como licencia de tipo _copyfarleft_[^NdT4] puede formar parte de este
-debate.  Estas licencias pueden estar orientadas hacia una forma de
-propiedad plural, que incluiría "la propiedad del hacedor (es decir una
-revisión de la propiedad del trabajador en la era del P2P) combinada con
-la propiedad del usuario, es decir el reconocimiento de que las redes de
-usuarios co-crean valor; y eventualmente una devolución a los
-financistas éticos que apoyan la empresa" [@bauwens-kostakis-nd].  De
-esta forma la creación de ganancias está permitida, pero la maximización
-de ganancias no sería la fuerza motriz del desarrollo económico.
+Producción de Pares[^parodia-ppl], introducidas por Kleiner
+[-@kleiner-2010] como licencia de tipo _copyfarleft_[^parodia-NdT4]
+puede formar parte de este debate.  Estas licencias pueden estar
+orientadas hacia una forma de propiedad plural, que incluiría "la
+propiedad del hacedor (es decir una revisión de la propiedad del
+trabajador en la era del P2P) combinada con la propiedad del usuario, es
+decir el reconocimiento de que las redes de usuarios co-crean valor;
+y eventualmente una devolución a los financistas éticos que apoyan la
+empresa" [@bauwens-kostakis-nd]. De esta forma la creación de ganancias
+está permitida, pero la maximización de ganancias no sería la fuerza
+motriz del desarrollo económico.
 
-[^ppl]:
-  Ver la licencia de Producción de Pares:
-  [http://endefensadelsl.org/ppl_deed_es.html](http://endefensadelsl.org/ppl_deed_es.html).
-  _(Nota de traducción)_
+[^parodia-ppl]: Ver la Licencia de Producción de Pares:
+<http://endefensadelsl.org/ppl_deed_es.html> (Nota de la traducción.)
 
-[^NdT4]: Extremaizquierda de copia, juego de palabras con izquierda de
-         copia (copyleft), a su vez un juego de palabras sobre derecho
-         de copia (copyright). _(Nota de traducción)_
+[^parodia-NdT4]: Extremaizquierda de copia, juego de palabras con
+izquierda de copia (_copyleft_), a su vez un juego de palabras sobre
+derecho de copia (_copyright_). (Nota de la traducción.)
 
 Contra la acumulación de capital, que lleva a la parodia de los Comunes,
 la lucha política de las comunidades debe incluir la creación de una
@@ -856,5 +852,5 @@ principios.  La apertura de un camino hacia tal perspectiva depende de
 que la mayoría decida tomar el control creativo de su futuro.
 
 
-## Bibliografía
+# Bibliografía
 

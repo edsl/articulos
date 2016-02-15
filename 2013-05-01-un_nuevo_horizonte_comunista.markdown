@@ -4,17 +4,17 @@ title: "La producción de pares como alternativa al capitalismo: un nuevo horizo
 author: Jakob Rigi
 license: http://endefensadelsl.org/ppl_deed_es.html
 cover: "images/cover_endefensadelsl_nr2.png"
+category: [ "En Defensa del Software Libre #2" ]
 ---
 
-La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista
-====================================================================================
+La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista --- Jakob Rigi
+===================================================================================================
 
 > Jakob Rigi trabaja en la Universidad de Europa Central de Budapest.
 > Este artículo fue publicado originalmente en el [Journal of Peer
 > Production](http://peerproduction.net/issues/issue-1/invited-comments/a-new-communist-horizon/)
-> y liberado en el Dominio Público.  Traducido por Nicolás Reynolds
-> (fauno@endefensadelsl.org) y Tes (tes@riseup.net) y liberado bajo la
-> [Licencia de Producción de
+> y liberado en el Dominio Público.  Traducido por fauno y tes
+> y liberado bajo la [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html)
 
 La crisis actual del capitalismo ha provocado protestas, revueltas y
@@ -356,8 +356,8 @@ argumentación más larga de lo que el espacio disponible permite).
 
 En resumen, las fuerzas productivas del PTI combinadas con la forma de
 cooperación descentralizada de red, la ausencia del trabajo asalariado,
-la contribución voluntaria y la forma común[^ndt1-forma-comun] de los
-productos constituyen las características principales del modo de
+la contribución voluntaria y la forma común[^horizonte-ndt1-forma-comun]
+de los productos constituyen las características principales del modo de
 producción P2P.  Aunque el modo de producción de pares es todavía un
 fenómeno emergente, su lógica es claramente diferente de la del
 capitalismo y ha sido creada como respuesta a los requerimientos de las
@@ -371,8 +371,8 @@ trabajadores cognitivos se haya rebelado contra las relaciones
 capitalistas de producción al lanzar el P2P.  Como argumenta Söderberg
 [-@soderberg-2008] esta es una forma de lucha de clases.
 
-[^ndt1-forma-comun]:
-  En contraposición a la forma mercancía. _(Nota de traducción)_
+[^horizonte-ndt1-forma-comun]: En contraposición a la forma mercancía.
+(Nota de la traducción.)
 
 
 La relación del modo de producción de pares con el capitalismo
@@ -435,25 +435,26 @@ material.
 
 En la actualidad el modo social de producción (de pares) se ha extendido
 más allá del software, cubriendo otras esferas de la producción de
-símbolos y signos.[^p2pf]  Bauwens [-@bauwens-2011] muestra que el P2P
-está ganando terreno en el diseño y la manufactura.  Adrian Bowyer
-[-@bowyer-2006] y sus colaboradores lanzaron un proyecto abierto para la
-producción de una impresora tridimensional en el 2005 que ahora se
-reproduce a sí misma.  En efecto, el modo de producción de pares puede
-extenderse a la mayoría de las ramas de la producción material.  La
+símbolos y signos.[^horizonte-p2pf]  Bauwens [-@bauwens-2011] muestra
+que el P2P está ganando terreno en el diseño y la manufactura.  Adrian
+Bowyer [-@bowyer-2006] y sus colaboradores lanzaron un proyecto abierto
+para la producción de una impresora tridimensional en el 2005 que ahora
+se reproduce a sí misma.  En efecto, el modo de producción de pares
+puede extenderse a la mayoría de las ramas de la producción material. La
 automatización será el pilar de esta transformación, aunque la
 automatización no es una pre-condición necesaria del P2P material.  En
 una producción totalmente automatizada, el factor cognitivo de la
 producción de pares (investigación y desarrollo, diseño y software)
 pondrá la producción material bajo el dominio del P2P.  La
-automatización capitalista lleva a la pérdida de puestos de trabajo y a
-la degradación del trabajo. La automatización no necesitará tener estos
-impactos en la formación social de pares. El empleo no tiene sentido y
-la automatización ofrece tiempo libre a la humanidad.  Este tiempo puede
-ser dedicado a la producción colectiva de conocimiento, educación y
-salud.
+automatización capitalista lleva a la pérdida de puestos de trabajo
+y a la degradación del trabajo. La automatización no necesitará tener
+estos impactos en la formación social de pares. El empleo no tiene
+sentido y la automatización ofrece tiempo libre a la humanidad.  Este
+tiempo puede ser dedicado a la producción colectiva de conocimiento,
+educación y salud.
 
-[^p2pf]:  Ver por ejemplo, el sitio de la P2P Foundation <http://p2pfoundation.net>
+[^horizonte-p2pf]:  Ver por ejemplo, el sitio de la P2P Foundation
+<http://p2pfoundation.net>
 
 Como los recursos materiales estratégicos son limitados y están
 desperdigados desigualmente por el globo, una distribución global justa
@@ -632,6 +633,6 @@ apropiación de los medios de producción más importantes y su
 reorganización bajo el sistema de cooperación de pares?
 
 
-## Bibliografía
+# Bibliografía
 
 

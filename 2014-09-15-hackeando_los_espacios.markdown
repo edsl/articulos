@@ -1,11 +1,12 @@
 ---
 title: "Hackeando los espacios"
-author: Johannes Grenzfurthner, Frank Apunkt Schneide.
+author: Johannes Grenzfurthner y Frank Apunkt Schneide
 layout: post
+category: [ "En Defensa del Software Libre #3" ]
 ---
 
-Hackeando los espacios
-======================
+Hackeando los espacios --- Johannes Grenzfurthner y Frank Apunkt Schneide
+=========================================================================
 
 > Johannes Grenzfurthner y Frank Apunkt Schneide son miembros de
 > [monochrom](http://www.monochrom.at/english/), un grupo de arte,
@@ -16,11 +17,10 @@ Hackeando los espacios
 > Fue traducido por
 > [Barbanegra](http://hackerspaces.org/wiki/User:Barbanegra) en
 > [hackerspaces.org](http://hackerspaces.org/wiki/Reescribiendo_el_Hacking_de_los_Espacios),
-> de donde derivó esta versión traducida por Mauricio Pasquier Juan
-> (mauricio@pasquierjuan.com.ar).
+> de donde derivó esta versión traducida por mpj.
 
-Una proclama crítica, de lo que fue, es y será un hackerspace (o
-hacklab, para el caso)
+_Una proclama crítica, de lo que fue, es y será un hackerspace (o
+hacklab, para el caso)_
 
 Hackerspaces 1 // Historia
 --------------------------
@@ -101,14 +101,15 @@ Representan un camino integrador que se niega a aceptar un estilo de
 vida formado mediante tal estructura. Esto significa que pueden llegar a
 formas de trabajo cooperativo y no-represivo, por ejemplo, en problemas
 técnicos que pueden resultar en soluciones nuevas e innovadoras. Y allí
-es exactamente dónde la 'vida equivocada' de Adorno[^adorno] podría
-colarse. El sistema capitalista es una entidad altamente adaptable por
-lo que no sorprende que espacios y modos de vida alternativos proveyeran
-ideas interesantes que pudieran ser ordeñadas y comercializadas.
+es exactamente dónde la 'vida equivocada' de Adorno[^hackeando-adorno]
+podría colarse. El sistema capitalista es una entidad altamente
+adaptable por lo que no sorprende que espacios y modos de vida
+alternativos proveyeran ideas interesantes que pudieran ser ordeñadas
+y comercializadas.
 
-[^adorno]: Los autores se refieren a la conocida frase de Theodor W.
-  Adorno "la vida equivocada no se puede vivir correctamente", escrita
-  en _Minima Moralia, §18_. _(Nota de traducción)_
+[^hackeando-adorno]: Los autores se refieren a la conocida frase de
+Theodor W. Adorno "la vida equivocada no se puede vivir correctamente",
+escrita en _Minima Moralia, §18_. (Nota de la traducción.)
 
 Ciertas características estructurales producto de este movimiento
 'indie' fueron repentinamente muy aclamadas, aplicadas y reproducidas en
@@ -286,4 +287,5 @@ Agradecimiento a Jens Ohlig por los comentarios y consejos. Gracias a
 Melinda Richka por la severidad gramática[^barbanegra-agradece].
 
 [^barbanegra-agradece]: ☠♥☠. Agradecimiento a los hermanos de QuilmesLUG
-por tanta buena onda. _Barbanegra (Nota de traducción)_
+por tanta buena onda. _Barbanegra. (Nota de la traducción.)
+

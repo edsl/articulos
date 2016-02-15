@@ -5,13 +5,14 @@ author: "Eben Moglen"
 cover: "images/cover_endefensadelsl_nr1.png"
 old-slug: why_political_liberty.html
 license: https://creativecommons.org/licenses/by-sa/3.0/us/
+category: [ "En Defensa del Software Libre #1", "En Defensa del Software Libre #X" ]
 ---
 
-Por qué la libertad política depende de la libertad del software más que nunca
-==============================================================================
+Por qué la libertad política depende de la libertad del software más que nunca --- Eben Moglen
+==============================================================================================
 
-> Un discurso de Eben Moglen en la conferencia FOSDEM 2011, Bruselas, 5
-> de Febrero, 2011
+> Un discurso de Eben Moglen en la conferencia FOSDEM 2011, Bruselas,
+> 5 de Febrero, 2011.
 > 
 > [Why Political Liberty Depends on Software Freedom More Than
 > Ever](http://www.softwarefreedom.org/events/2011/fosdem/moglen-fosdem-keynote.html)
@@ -19,8 +20,7 @@ Por qué la libertad política depende de la libertad del software más que nunc
 > Atribución-CompartirIgual 3.0 Estados Unidos de
 > Norteamérica](http://creativecommons.org/licenses/by-sa/3.0/us/).
 > 
-> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org). Correcciones por
-> Martin Javier Fernández y Mauricio Pasquier Juan.
+> Traducido por fauno. Correcciones por Martin Javier Fernández y mpj.
 
 Gracias, buenos días. Es un gran placer estar aquí. Quiero agradecer a
 los organizadores por el milagro que es FOSDEM. Ustedes saben que
@@ -510,3 +510,4 @@ si no los ayudamos, van a resultar lastimados. Nos enfrentamos a los
 desafíos, este es uno. Tenemos que hacerlo. Muchas gracias.
 
 _Aplausos_
+

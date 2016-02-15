@@ -5,21 +5,23 @@ author: "Eben Moglen"
 cover: "images/cover_endefensadelsl_nr0.png"
 old-slug: freedom_in_the_cloud.html
 license: https://creativecommons.org/licenses/by-sa/3.0/us/
+category: [ "En Defensa del Software Libre #0", "En Defensa del Software Libre #X" ]
 ---
 
-Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube
-===========================================================================================================
+Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube --- Eben Moglen
+===========================================================================================================================
 
-> Discurso de [Eben Moglen][0] en una reunión de la rama neoyorquina de
-> la [Internet Society][1] el 5 de Febrero de 2010. La grabación del
-> evento se encuentra disponible en [http://ur1.ca/lch5][2].
+> Discurso de [Eben Moglen][nube-0] en una reunión de la rama
+> neoyorquina de la [Internet Society][nube-1] el 5 de Febrero de 2010.
+> La grabación del evento se encuentra disponible en
+> [http://ur1.ca/lch5][nube-2].
 > 
-> Esta es una traducción de su transcripción por Nicolás Reynolds,
-> revisada y corregida por Leonardo G. De Luca, septiembre, 2010.
-> Original disponible en [http://ur1.ca/uups][3].
+> Esta es una traducción de su transcripción por fauno, revisada
+> y corregida por Leonardo G. De Luca, septiembre, 2010. Original
+> disponible en [http://ur1.ca/uups][nube-3].
 > 
 > El original y esta traducción se distribuyen bajo licencia [Creative
-> Commons Atribución-CompartirIgual 3.0 de Estados Unidos][4].
+> Commons Atribución-CompartirIgual 3.0 de Estados Unidos][nube-4].
 > Originalmente, la desgrabación se licenció bajo CC-BY-NC-ND 2.0.
 
 Es un placer estar aquí. Me encantaría pensar que la razón por la que
@@ -142,9 +144,9 @@ poder y montones de datos.
 Ahora, una cosa más ocurrió alrededor de ese momento. No ocurrió en las
 computadoras de Microsoft Windows aunque sí ocurrió en los servidores de
 Microsoft Windows y también en SOs más sensibles como Unix y BSD entre
-otros. Es decir, los servidores mantenían registros[^2]. Es una cosa muy
-buena de hacer. Las computadoras deben mantener registros. Fue una
-decisión muy sabia la de mantener registros, cuando se crea software
+otros. Es decir, los servidores mantenían registros[^nube-2]. Es una
+cosa muy buena de hacer. Las computadoras deben mantener registros. Fue
+una decisión muy sabia la de mantener registros, cuando se crea software
 para sistemas operativos. Ayuda en la inspección, hace realizables los
 rendimientos, hace posible estudiar las operaciones de las computadoras
 en el mundo real. Es una muy buena idea.
@@ -494,7 +496,7 @@ La conveniencia dicta que necesitás alojamiento web gratuito y
 chirimbolos PHP como recompensa a dejarte espiar todo el tiempo porque
 los servidores web son terriblemente difíciles de correr. ¿Quién podría
 tener un servidor web propio y mantener los registros? Sería brutal.
-Bueno, lo sería si fuera IIS[^1]. Era una autorrealización, estaba
+Bueno, lo sería si fuera IIS[^nube-1]. Era una autorrealización, estaba
 pensado para que así fuera.  Estaba diseñado para decir "vos sos un
 cliente, yo soy un servidor, yo inventé Windows 7. Me voy a quedar los
 registros, muchas gracias." Así era la industria. Nosotros construimos
@@ -748,14 +750,14 @@ Así que muchas gracias. Ahora acepto preguntas.
 
 
 
-[^1]: Internet Information Server, servidor web que viene con Microsoft Windows
+[^nube-1]: _Internet Information Server_, servidor web que viene con Microsoft Windows
 
-[^2]: _logs_.
+[^nube-2]: _logs_.
 
-[0]: http://ur1.ca/1jyl4 "Eben Moglen"
-[1]: http://www.isoc-ny.org/ "Internet Society New York"
-[2]: http://ur1.ca/lch5 "Grabación de Libertad en la Nube"
-[3]: http://ur1.ca/uups "Desgrabación"
-[4]: http://creativecommons.org/licenses/by-sa/3.0/us/legalcode "CC-BY-SA 3.0 US"
+[nube-0]: http://ur1.ca/1jyl4 "Eben Moglen"
+[nube-1]: http://www.isoc-ny.org/ "Internet Society New York"
+[nube-2]: http://ur1.ca/lch5 "Grabación de Libertad en la Nube"
+[nube-3]: http://ur1.ca/uups "Desgrabación"
+[nube-4]: http://creativecommons.org/licenses/by-sa/3.0/us/legalcode "CC-BY-SA 3.0 US"
 
 [distro]: Distribución de GNU/Linux.

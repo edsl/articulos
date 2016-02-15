@@ -5,10 +5,12 @@ author: "Maxigas"
 cover: "images/cover_endefensadelsl_nr0.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
 original_url: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+category: [ "En Defensa del Software Libre #3" ]
 ---
 
 
-# Hacklabs y hackerspaces: rastreando dos genealogías
+Hacklabs y hackerspaces: rastreando dos genealogías --- Maxigas
+===============================================================
 
 > Traducción de ["Hacklabs and Hackerspaces - Tracing two
 > genealogies"](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)
@@ -529,23 +531,24 @@ confidencialidad y de compañías _startup_.
 La historia de los movimientos hacker en Europa no ha sido tan bien
 documentada. Una instancia importante es el _Chaos Computer Club_
 fundado en 1981 por Wau Holland y otras integrantes del grupo editorial
-del diario de una Zona Autónoma Temporal[^taz] en un edificio de Kommune
-I, una famosa okupación autónoma [@anon-2008]. El Chaos Computer Club
-salió a la luz en 1984. Las hackers pertenecientes al club se habían
-transferido 134.000 marcos alemanes a través del sistema nacional de
-videotex, llamado _Bildschirmtext_ o BTX. La Oficina Postal tenía un
-monopolio de facto en el mercado con este producto obsoleto y aseguraba
-mantener una red segura inclusive después de haber sido notificados
-sobre el exploit[^exploit]. El dinero fue devuelto al día siguiente en
-frente de la prensa. Esto dio comienzo a la tumultuosa relación del Club
-con el gobierno alemán, que dura hasta estos días.
+del diario de una Zona Autónoma Temporal[^hacklabs-taz] en un edificio
+de Kommune I, una famosa okupación autónoma [@anon-2008]. El Chaos
+Computer Club salió a la luz en 1984. Las hackers pertenecientes al club
+se habían transferido 134.000 marcos alemanes a través del sistema
+nacional de videotex, llamado _Bildschirmtext_ o BTX. La Oficina Postal
+tenía un monopolio de facto en el mercado con este producto obsoleto
+y aseguraba mantener una red segura inclusive después de haber sido
+notificados sobre el exploit[^hacklabs-exploit]. El dinero fue devuelto
+al día siguiente en frente de la prensa. Esto dio comienzo a la
+tumultuosa relación del Club con el gobierno alemán, que dura hasta
+estos días.
 
-[^taz]: En referencia a las Zonas Autónomas Temporales de Hakim Bey. Ver
-<http://utopia.partidopirata.com.ar/zona_autonoma_temporal.html> (Nota
+[^hacklabs-taz]: En referencia a las Zonas Autónomas Temporales de Hakim Bey. Ver
+<http://utopia.partidopirata.com.ar/zona_autonoma_temporal.html>. (Nota
 de la traducción.)
 
-[^exploit]: En el argot hacker, vulnerabilidad o falla explotable (Nota
-de la traducción.)
+[^hacklabs-exploit]: En el argot hacker, vulnerabilidad o falla
+explotable. (Nota de la traducción.)
 
 En su estudio sobre la cultura hacker Gabriella Coleman y Alex Golub
 plantean que hasta el momento esta subcultura manifiesta una versión del
@@ -643,14 +646,14 @@ anterioridad que aparecen como un movimiento político más consistente.
 Varias fuentes [@anon-2008] señalan una serie de charlas en 2007 y 2008
 que inspiraron y continúan inspirando la fundación de nuevos
 hackerspaces, sin embargo, la proliferación parece haber comenzado
-antes. En 2007 Farr organizó un proyecto llamado "_Hackers on a
-Plane_"[^plane], que llevó hackers de los EEUU al "Chaos Communication
-Congress" e incluía un tour por los hackerspaces del área. Ohlig y
-Weiler del hackerspace _C4_ en Cologne dieron una charla innovadora en
-la conferencia, llamada *Construyendo un Hackerspace*
+antes. En 2007 Farr organizó un proyecto llamado "_Hackers on
+a Plane_"[^hacklabs-plane], que llevó hackers de los EEUU al "Chaos
+Communication Congress" e incluía un tour por los hackerspaces del área.
+Ohlig y Weiler del hackerspace _C4_ en Cologne dieron una charla
+innovadora en la conferencia, llamada *Construyendo un Hackerspace*
 [@ohlig-weiler-2007]. La conferencia definía los patrones de diseño de
-un hackerspace, los cuales están escritos en forma de un catecismo y
-proveen soluciones a los problemas más comunes que surgen durante la
+un hackerspace, los cuales están escritos en forma de un catecismo
+y proveen soluciones a los problemas más comunes que surgen durante la
 organización de un hackerspace. Más importante aún, ha canonizado el
 concepto de hackerspace e impuesto la idea de armar nuevos alrededor del
 mundo en la agenda del movimiento hacker. Cuando la delegación
@@ -670,8 +673,8 @@ movimiento de hackerspaces, llevando el eslogan "¡Construye! ¡Une!
 inicio de los 500 hackerspaces registrados muestra una tendencia de
 crecimiento desde 2008 (ver Figura 2).
 
-[^plane]: "Hackers en un avión", probablemente por una película de
-acción hollywoodense (Nota de la traducción.)
+[^hacklabs-plane]: "Hackers en un avión", probablemente por una película
+de acción hollywoodense. (Nota de la traducción.)
 
 Notablemente, la mayoría de estos desarrollos se centraron en las
 características formales de los hackerspaces, por ejemplo cómo manejar
@@ -1024,6 +1027,5 @@ Licencia: CC
 BY-NC.](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
 
 
-Referencias
------------
+# Bibliografía
 

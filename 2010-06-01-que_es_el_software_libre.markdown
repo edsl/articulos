@@ -3,15 +3,17 @@ layout: post
 author: "Lucy Watts"
 title: "Richard Stallman: Qué es el Software Libre"
 cover: "images/cover_endefensadelsl_nr0.png"
+category: [ "En Defensa del Software Libre #0", "En Defensa del Software Libre #X" ]
+license: https://creativecommons.org/licenses/by-sa/3.0/
 ---
 
-Richard Stallman: Qué es el Software Libre
-==========================================
+Richard Stallman: Qué es el Software Libre --- Lucy Watts
+=========================================================
 
 > Las ilustraciones de Lucy Watts se encuentran bajo la licencia
 > Creative Commons Atribución-CompartirIgual 3.0 [@cc-by-sa] y fueron
 > publicadas originalmente en
-> [https://commons.wikimedia.org/wiki/User:Lucy_Watts](https://commons.wikimedia.org/wiki/User:Lucy_Watts)
+> <https://commons.wikimedia.org/wiki/User:Lucy_Watts>
 
 ![RICHARD STALLMAN, fundador de la Fundación por el Software Libre (FSF)
 ¿Qué es un software libre?  Hay 4 libertades esenciales. Libertad 0 es

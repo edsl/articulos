@@ -4,16 +4,16 @@ author: "Michel Bauwens"
 title: "Tesis sobre el trabajo digital"
 license: http://creativecommons.org/licenses/by-sa/3.0/
 cover: "images/cover_endefensadelsl_nr2.png"
+category: [ "En Defensa del Software Libre #2" ]
 ---
 
-Tesis sobre el trabajo digital
-==============================
+Tesis sobre el trabajo digital --- Michel Bauwens
+=================================================
 
 > Este artículo fue publicado en el [wiki de la P2P
 > Foundation](http://p2pfoundation.net/Theses_on_Digital_Labor_in_an_Emerging_P2P_Economy).
 > 
-> Traducido por Nicolás Reynolds (fauno@endefensadelsl.org) y Mauricio
-> Pasquier Juan (mauricio@pasquierjuan.com.ar)
+> Traducido por fauno y mpj.
 
 
 El par-a-par es la ideología de la nueva clase trabajadora cognitiva. La
@@ -70,9 +70,9 @@ permite la más amplia participación e ingreso, involucramiento
 apasionado y distribución universal de sus beneficios (condicionados por
 el acceso a la red), atrae la participación e involucramiento del
 capital a través de la actividad de los capitalistas
-redárquicos[^netarchic].
+redárquicos[^trabajo-netarchic].
 
-[^netarchic]:
+[^trabajo-netarchic]:
   _Netarchical_ en el original.  Según la P2P Foundation, el
   capitalismo redárquico es un nuevo segmento de la clase capitalista
   que no depende del control de los medios de producción ni de la
@@ -194,10 +194,9 @@ escala "material" global. Las filés son entidades transnacionales, que
 fomentan las comunidades, que crean una nueva capa de cooperación
 material post-capitalista.
 
-[^file]:
-  Griego antiguo para _tribu_, para su resignificación moderna, ver
-  _Filé_ en Indianopedia: [http://lasindias.net/indianopedia/File](http://lasindias.net/indianopedia/File).
-  _(Nota de traducción)_
+[^file]: Griego antiguo para _tribu_, para su resignificación moderna,
+ver _Filé_ en Indianopedia: <http://lasindias.net/indianopedia/File>
+(Nota de la traducción.)
 
 El trabajo gratuito sólo es problemático bajo condiciones de precariedad
 y captura de capital (redárquico) no-recíproco. Bajo condiciones de
@@ -226,3 +225,4 @@ actualidad. La tarea de los movimientos del trabajo cognitivo y de otros
 tipos es crear una nueva hegemonía y una nueva alianza basada en los
 comunes para el cambio social, que desafíe la dominación del capital, su
 forma-mercancía y la destrucción biosférica que le es inherente.
+
