@@ -3,15 +3,17 @@ layout: post
 title: "Plataformas para la abundancia roja"
 author: "Nick Dyer-Witheford"
 license: http://endefensadelsl.org/ppl_deed_es.html
+category: [ "En Defensa del Software Libre #3" ]
 ---
 
-Plataformas para la abundancia roja
-===================================
+Plataformas para la abundancia roja --- Nick Dyer-Witheford
+===========================================================
 
 > Publicado originalmente en [Culture Machine Vol.
 > 14](http://www.culturemachine.net/index.php/cm/issue/view/25) (2013)
-> como _"Red Plenty Platforms"_.  Publicado bajo la Licencia de
-> Producción de Pares con permiso del autor.
+> como _"Red Plenty Platforms"_.  Traducción por fauno y corregido por
+> minitrue y KaZe. Publicado bajo la Licencia de Producción de Pares con
+> permiso del autor.
 
 Introducción: Abundancia roja
 -----------------------------
@@ -185,12 +187,14 @@ de la industria informática soviética --que al estar dos décadas
 atrasada con respecto a los EEUU, se perdió la revolución de la
 computadora personal y no desarrolló un equivalente a Internet.  Por lo
 tanto era totalmente inadecuado para lo que se proponía lograr.  Además
-tenía la oposición de la _nomenklatura[^ndt-nomenklatura]_, que veía en
-la planificación informática una amenaza a su poder burocrático y apuró
-el abandono del proyecto [@castells-2000; @gerovitch-2008; peters-2012].
+tenía la oposición de la _nomenklatura[^plenty-ndt-nomenklatura]_, que
+veía en la planificación informática una amenaza a su poder burocrático
+y apuró el abandono del proyecto [@castells-2000; @gerovitch-2008;
+peters-2012].
 
-[^ndt-nomenklatura]: Lista o clase de personas selectas que conformaban
- el alto mando de la burocracia sovietica. _(Nota de traducción)_
+[^plenty-ndt-nomenklatura]: Lista o clase de personas selectas que
+conformaban el alto mando de la burocracia sovietica. (Nota de la
+traducción.)
 
 Este no fue el único proyecto sobre "cibernética revolucionaria" del
 siglo XXI.  Igual de remarcable fue el intento del gobierno de Salvador
@@ -238,16 +242,16 @@ transmisiones de señales de precios (es decir la explotación en el
 momento de la producción), la incapacidad de los intercambios
 individuales de mercancías para registrar las consecuencias colectivas
 (las llamadas "externalidades") y la recursividad de un sistema
-crematístico[^ndt-crematístico] que se vuelve sobre sí mismo en la
-especulación financiera destacan cada vez mas en el medio de la
+crematístico[^plenty-ndt-crematístico] que se vuelve sobre sí mismo en
+la especulación financiera destacan cada vez mas en el medio de la
 implosión económica y ecológica del capital global.  Pero la
 identificación de estas fallas no excusa a las comunistas de especificar
 cómo otro sistema de distribución de recursos podría funcionar, sin caer
 en la "servidumbre" de la subyugación estatista que predijo Hayek
 [-@hayek-1944].
 
-[^ndt-crematístico]: Conocimientos y estudios referidos a la producción
-  y la distribución de la riqueza. _(Nota de traducción)_
+[^plenty-ndt-crematístico]: Conocimientos y estudios referidos a la
+producción y la distribución de la riqueza. (Nota de la traducción.)
 
 
 Algoritmos laborales
@@ -373,8 +377,8 @@ de infraestructura de red disponibles en la Inglaterra del momento,
 sugieren un sistema de coordinación compuesto por unas pocas
 computadoras personales en cada unidad productiva, que usando paquetes
 de programación estándar procesarían los datos de la producción local
-y los enviarían por "teletipo"[^ndt-Teletipo] a una instalación de
-planificación central, que cada 20 minutos respondería por señales de
+y los enviarían por "teletipo"[^plenty-ndt-Teletipo] a una instalación
+de planificación central, que cada 20 minutos respondería por señales de
 radio con los datos ajustados estadísticamente, para ser reutilizados en
 el nivel local. Este escenario recuerda mucho al destartalado
 tecno-futurismo que nos muestra Terry Gilliam en _Brazil_.  Para
@@ -402,24 +406,24 @@ Frecuencia (RFID) para permitir el seguimiento de mercancías,
 trabajadoras y consumidoras dentro y más allá de la cadena de suministro
 global.
 
-[^ndf-Teletipo]: Red similar a la telefónica, utilizada para la
-  transmisión de datos mecanográficos. _(Nota de traducción)_
+[^plenty-ndt-Teletipo]: Red similar a la telefónica, utilizada para la
+transmisión de datos mecanográficos. (Nota de la traducción.)
 
 Wal-Mart resulta importante porque se encuentra "en la vanguardia de un
-cambio[^shift] sísmico en el imaginario corporativo".  Es un cambio que
-vincula la noción de "revolución de la logística" con la "producción
-justo a tiempo" y "aprovecha las tecnologías digitales y cibernéticas
-emergentes para la gestión de la producción, distribución y ventas de la
-forma más veloz y eficiente" [@haiven-stoneman-2009].  Este cambio es
-estimulado por la emergencia de la "Internet de las cosas", que
-relaciona la información digital con las cosas físicas del mundo real
-a través de una red de productos, usuarias y ubicaciones instrumentadas
-por sensores.  Es habilitada por la difusión de redes inalámbricas 4G
-y almacenamiento de datos bajo demanda en "la nube" de empresas como
-Amazon.  Y especialmente, es habilitada por el moderno protocolo de
-Internet llamado IPv6, que aumenta la cantidad de direcciones
-disponibles proveyendo identificadores digitales únicos para una
-cantidad de cosas "verdaderamente gigantesca, en el orden de los 340
+cambio[^plenty-shift] sísmico en el imaginario corporativo".  Es un
+cambio que vincula la noción de "revolución de la logística" con la
+"producción justo a tiempo" y "aprovecha las tecnologías digitales
+y cibernéticas emergentes para la gestión de la producción, distribución
+y ventas de la forma más veloz y eficiente" [@haiven-stoneman-2009].
+Este cambio es estimulado por la emergencia de la "Internet de las
+cosas", que relaciona la información digital con las cosas físicas del
+mundo real a través de una red de productos, usuarias y ubicaciones
+instrumentadas por sensores.  Es habilitada por la difusión de redes
+inalámbricas 4G y almacenamiento de datos bajo demanda en "la nube" de
+empresas como Amazon.  Y especialmente, es habilitada por el moderno
+protocolo de Internet llamado IPv6, que aumenta la cantidad de
+direcciones disponibles proveyendo identificadores digitales únicos para
+una cantidad de cosas "verdaderamente gigantesca, en el orden de los 340
 miles de miles de miles de miles de millones".  Esta comunicación de
 dispositivo a dispositivo probablemente exceda el volumen de datos del
 tráfico entre personas en Internet [@economist-2010].  Como observa
@@ -429,8 +433,8 @@ a niveles sub-microscópicos, habilita una capacidad virtualmente
 infinita para la identificación no solo de cosas y de personas, sino
 también de los más elementales componentes de sus relaciones.
 
-[^shift]: _Shift_ en el original, como en cambio de paradigma (Nota de
-la traducción.)
+[^plenty-shift]: _Shift_ en el original, como en cambio de paradigma.
+(Nota de la traducción.)
 
 Por lo tanto la trayectoria tanto de la velocidad del procesamiento de
 información como de la capacidad de recolección de datos apunta a la
@@ -545,10 +549,10 @@ control centralizado, tomando formas "distribuidas" y "federadas"
 y Halpin [-@hui-halpin-2013], en redes cuyo formato mismo priorice los
 proyectos grupales sobre las identidades individuales, o como
 plataformas de "individuación colectiva".  No tanto _social media_ sino
-más bien _council media_[^council].
+más bien _council media_[^plenty-council].
 
-[^council]: _Council_ significa consejo en inglés (nota de la
-traducción.
+[^plenty-council]: _Council_ significa consejo en inglés (Nota de la
+traducción.)
 
 Aun así la idea de que todo el mundo se encuentre observando la pantalla
 de su celular a riesgo de perder, no ya un mensaje de _Facebook_, sino
@@ -657,11 +661,11 @@ clara por pensadoras como Andre Gorz [-@gorz-1985] y Jeremy Rifkin
 evitado notoriamente este escenario.  Lejos de automatizar por completo
 el trabajo, sale a buscar tanto las reservas globales de trabajo barato,
 seguido por una "marcha de los sectores" que impulse un frente móvil de
-_comodificación_[^ndt-comodificacion] del trabajo a través de la
+_comodificación_[^plenty-ndt-comodificacion] del trabajo a través de la
 agricultura, la industria y los servicios.
 
-[^ndt-comodificacion]: _Transformación de bienes, servicios, ideas
-y otros conceptos en mercancía. (Nota de traducción)_
+[^plenty-ndt-comodificacion]: Transformación de bienes, servicios, ideas
+y otros conceptos en mercancía. (Nota de la traducción.)
 
 Desde el 2000, no obstante, el debate sobre la automatización se ha
 renovado.  La reducción continua de los costos computacionales, las
@@ -722,18 +726,18 @@ de precios.  El capital ha luchado por mantener la forma mercancía en
 el ciberespacio, tanto en sus intentos por imponer la propiedad
 intelectual, como por tomar los flujos informacionales como aceleradores
 publicitarios para otras mercancías. Sin embargo, la corriente hacia la
-_decomodificación_[^ndt-decomodificación] ha probado ser inerradicable e
-incluso se ha intensificado por la capacidad de conducir su circulación
-por fuera de servidores centralmente controlados, a través de redes de
-pares.  La piratería, que abarca la mayoría de la música, juegos,
-películas y software digitales distribuidos en Asia, África, América
-Latina y Europa del Este [@karaganis-2011] es la manifestación
-clandestina y criminalizada de esta tendencia. El movimiento del
-Software Libre es su expresión organizada.
+_decomodificación_[^plenty-ndt-decomodificacion] ha probado ser
+inerradicable e incluso se ha intensificado por la capacidad de conducir
+su circulación por fuera de servidores centralmente controlados,
+a través de redes de pares.  La piratería, que abarca la mayoría de la
+música, juegos, películas y software digitales distribuidos en Asia,
+África, América Latina y Europa del Este [@karaganis-2011] es la
+manifestación clandestina y criminalizada de esta tendencia. El
+movimiento del Software Libre es su expresión organizada.
 
-[^ndt-decomodificación]: Del ingles _decommodification_, debe
-  interpretarse como la intención de transformar un bien, servicio
-  o idea en algo inmune a la _comodificación_.  _(Nota de traduccion)_
+[^plenty-ndt-decomodificacion]: Del ingles _decommodification_, debe
+interpretarse como la intención de transformar un bien, servicio o idea
+en algo inmune a la _comodificación_.  (Nota de la traduccion.)
 
 Este último ha sido el foco de la izquierda libertaria desde la
 inauguración de la _Free Software Foundation_ por Richard Stallman en
@@ -758,8 +762,8 @@ a la producción social y la participación en el producto social".
 El Software Libre ha alcanzado un éxito práctico considerable
 [@weber-2004] mientras que la producción de pares se ha desarrollado en
 varias direcciones, con posiciones políticas que van desde el
-_libertarianismo_[^ndt-libertarian] capitalista a posturas progresistas
-sobre la nueva "riqueza de las redes" [@benkler-2006] como
+_libertarianismo_[^plenty-ndt-libertarian] capitalista a posturas
+progresistas sobre la nueva "riqueza de las redes" [@benkler-2006] como
 suplementarias y compatibles con los mercados.  Pero también hay
 posturas específicamente comunistas como las del proyecto _Oekonux_
 [@meretz-2012].  Incluso la ecuménica _Foundation for P2P Alternatives_
@@ -778,7 +782,7 @@ virtual y la material, el software cornucópico y la producción
 industrial, que parece restringir las prácticas de pares, aun
 progresivas, a un pequeño subconjunto de la actividad económica total.
 
-[^ndt-libertarian]: Mantenemos el original _libertarian_ para no
+[^plenty-ndt-libertarian]: Mantenemos el original _libertarian_ para no
 confundir con libertarismo. (Nota de la traducción.)
 
 Durante la última década, no obstante, esta brecha se ha reducido por el
@@ -979,5 +983,5 @@ la crisis masiva del siglo XXI, ensamblándose a sí mismo desde un
 centenario de historia comunista de computación no-lineal, para crear
 las plataformas de una futura abundancia roja.
 
-Bibliografía
-------------
+# Bibliografía
+
