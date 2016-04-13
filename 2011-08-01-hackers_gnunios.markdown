@@ -66,20 +66,21 @@ eficiente de organizar la producción en el futuro [@gnunited-moglen99].
 El estudioso de los medios Richard Barbrook razonaba en forma similar
 cuando desbancaba el hype acerca de los 'mercados libres en el
 ciberespacio' creado en los '90. En su lugar presentó su propia visión
-de una economía anarquista del don de alta tecnología [^1]. El impulso
-a dar se genera automáticamente del hecho de que en Internet la gente
-tiene un interés propio en compartir información libremente antes que
-comercializarla en un mercado [@gnunited-barbrook02]. Podría decirse que
-el surgimiento de Napster y generaciones posteriores de tecnologías de
-compartición de archivos probaría que Barbrook estaba en lo cierto. Aun
-más iconoclasta en su adopción de la retórica socialista es el filósofo
-esloveno Slavoj Zizek. Parafraseó el apoyo de Lenin a la electricidad
-diciendo, en tono de burla, que 'el socialismo es igual a libre acceso
-a Internet más todo el poder a los Soviets' [@gnunited-zizek02]. Por lo
-menos unos pocos comunistas de la vieja escuela están tomando esta idea
-con seriedad. Creen que la tecnología informática ha provisto el vínculo
-faltante que al fin podría hacer de una economía planificada una
-alternativa viable a la economía de mercado [@gnunited-pollack98].
+de una economía anarquista del don de alta tecnología [^hackers-1]. El
+impulso a dar se genera automáticamente del hecho de que en Internet la
+gente tiene un interés propio en compartir información libremente antes
+que comercializarla en un mercado [@gnunited-barbrook02]. Podría decirse
+que el surgimiento de Napster y generaciones posteriores de tecnologías
+de compartición de archivos probaría que Barbrook estaba en lo cierto.
+Aun más iconoclasta en su adopción de la retórica socialista es el
+filósofo esloveno Slavoj Zizek. Parafraseó el apoyo de Lenin a la
+electricidad diciendo, en tono de burla, que 'el socialismo es igual
+a libre acceso a Internet más todo el poder a los Soviets'
+[@gnunited-zizek02]. Por lo menos unos pocos comunistas de la vieja
+escuela están tomando esta idea con seriedad. Creen que la tecnología
+informática ha provisto el vínculo faltante que al fin podría hacer de
+una economía planificada una alternativa viable a la economía de mercado
+[@gnunited-pollack98].
 
 Pero estas afirmaciones positivas del hacking y la tecnología
 informática probablemente sean opiniones minoritarias dentro de la
