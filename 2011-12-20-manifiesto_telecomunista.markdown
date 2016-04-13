@@ -5,6 +5,7 @@ author: "Dmytri Kleiner"
 cover: "images/cover_manifiesto_telecomunista.png"
 old-slug: telekommunist_manifesto.html
 license: http://endefensadelsl.org/ppl_deed_es.html
+category: [ "El Manifiesto Telecomunista" ]
 ---
 
 El Manifiesto Telecomunista --- Dmytri Kleiner
