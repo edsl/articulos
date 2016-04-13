@@ -190,7 +190,7 @@ tanto era totalmente inadecuado para lo que se proponía lograr.  Además
 tenía la oposición de la _nomenklatura[^plenty-ndt-nomenklatura]_, que
 veía en la planificación informática una amenaza a su poder burocrático
 y apuró el abandono del proyecto [@castells-2000; @gerovitch-2008;
-peters-2012].
+@peters-2012].
 
 [^plenty-ndt-nomenklatura]: Lista o clase de personas selectas que
 conformaban el alto mando de la burocracia sovietica. (Nota de la
