@@ -284,8 +284,8 @@ esquema nerd. Cambiemos a los nerds. Hagámoslos un mejor espacio. Para
 vos y para mí y para toda la raza humana.
 
 Agradecimiento a Jens Ohlig por los comentarios y consejos. Gracias a
-Melinda Richka por la severidad gramática[^barbanegra-agradece].
+Melinda Richka por la severidad gramática.
 
-[^barbanegra-agradece]: ☠♥☠. Agradecimiento a los hermanos de QuilmesLUG
-por tanta buena onda. _Barbanegra. (Nota de la traducción.)
+☠♥☠ Agradecimiento a los hermanos de QuilmesLUG por tanta buena onda.
+_Barbanegra_.
 
