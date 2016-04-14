@@ -38,4 +38,14 @@ tecnológica y el rol del software libre en la construcción de una
 tecnociencia que tenga imbuida nuestra política.
 
 Por último, las ilustraciones de Lucy Watts sobre RMS explicando qué es
-el software libre.
+el software libre y una posible alianza entre piratas y hackers por
+Mako.
+
+
+Créditos
+--------
+
+Participaron en esta edición fauno, mpj, leonardo y martín.
+
+Las tapas de esta edición fueron realizadas por librenauta y mep.  La
+ilustración de _Proyecto Armonía_ por bazza.

@@ -43,3 +43,12 @@ Por último, _Abundancia roja_ continua la línea de EDSL #2 y que
 iniciamos con el Manifiesto Telecomunista.  ¿Es posible construir un
 mundo de abundancia, liberándonos del trabajo a la vez?  En este
 artículo se analiza el rol de los algoritmos en los consejos obreros.
+
+
+Créditos
+--------
+
+Participaron en esta edición fauno, kaze, minitrue, maxpower, stf,
+maxigas, mpj, mep, midraed, sísifo, tes y barbanegra.
+
+Las tapas de esta edición fueron realizadas por librenauta y mep.
