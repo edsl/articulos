@@ -893,7 +893,7 @@ proyectos se alejaron de una relación con la tecnología preconfigurada y
 consumista. De distinta manera, sus intervenciones buscaron poner en
 cuestionamiento las leyes de copyright en existencia.
 
-![Figura 4: Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente, 2011, Buenos Aires. Foto por Dianeth Medina.](http://peerproduction.net/wp-content/uploads/2012/06/image1maxigas1.jpg)
+![Figura 4: Burnstation (Rama Cosentino platoniq). Festival de Arte Emergente, 2011, Buenos Aires. Foto por Dianeth Medina.](images/image1maxigas1.jpg)
 
 En líneas generales, las elecciones tecnológicas hechas por los dos
 tipos de espacios descritas anteriormente parecen estar condicionadas
@@ -970,7 +970,7 @@ poco progreso práctico en este asunto.
 ![Figura 5: Instalación "Piratepond" del Hackney Crack House en la
 exhibición _Temporary Autonomous Art_ en Londres, 2011, que incluye una
 _Burnstation_. La foto es de dominio
-público.](http://peerproduction.net/wp-content/uploads/2012/06/image2maxigas1.jpg)
+público.](images/image2maxigas1.jpg)
 
 Finalmente, me gustaría señalar el impacto político de estas
 constelaciones divergentes y preguntar hasta qué punto y en qué maneras
@@ -1024,7 +1024,7 @@ hay un mundo por ganar.
 ![Figura 6: La Burnstation del "Hungarian Autonomous Center for
 Knowledge", exibida en KOPIRÁJT, OSA Archivum, 2010. Foto por eapo.
 Licencia: CC
-BY-NC.](http://peerproduction.net/wp-content/uploads/2012/06/image3maxigas1.jpg)
+BY-NC.](images/image3maxigas1.jpg)
 
 
 # Bibliografía
