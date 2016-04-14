@@ -36,3 +36,6 @@ nuestro trabajo.
 _El software-martillo_ es una exploración sobre la neutralidad
 tecnológica y el rol del software libre en la construcción de una
 tecnociencia que tenga imbuida nuestra política.
+
+Por último, las ilustraciones de Lucy Watts sobre RMS explicando qué es
+el software libre.
