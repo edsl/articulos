@@ -49,6 +49,6 @@ Créditos
 --------
 
 Participaron en esta edición fauno, kaze, minitrue, maxpower, stf,
-maxigas, mpj, mep, midraed, sísifo, tes y barbanegra.
+maxigas, mpj, mep, midraed, sísifo, tes, ganesh y barbanegra.
 
 Las tapas de esta edición fueron realizadas por librenauta y mep.
