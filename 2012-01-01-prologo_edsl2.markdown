@@ -17,5 +17,5 @@ materiales (o inmateriales vs. materiales, no rivales vs. rivales, etc.)
 que es hegemónica en la cultura libre.
 
 Los artículos de esta edición continuan la discusión iniciada por el
-[Manifiesto Telecomunista](ManifiestoTelecomunista.html), también
-disponible en papel.
+[Manifiesto
+Telecomunista](https://endefensadelsl.org/manifiesto_telecomunista.html).
