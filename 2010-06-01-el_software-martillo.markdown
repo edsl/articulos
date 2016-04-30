@@ -22,10 +22,10 @@ comerciantes de software y, por lo tanto, dejaban de compartir sus
 creaciones en forma de código fuente de programas de computadora.
 
 La utilización de dispositivos legales en la forma de licencias libres
-que revierten los efectos del copyright –transformándolo en _copyleft_–
-ha permitido introducir en la lógica de producción de software una ética
-de cooperación cuyos alcances sociales a gran escala apenas empiezan
-a entreverse.
+que revierten los efectos del copyright --transformándolo en
+_copyleft_-- ha permitido introducir en la lógica de producción de
+software una ética de cooperación cuyos alcances sociales a gran escala
+apenas empiezan a entreverse.
 
 La adopción de Software Libre por parte de empresas, dependencias
 estatales e individuos para sus computadoras personales contradice los

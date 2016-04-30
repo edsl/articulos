@@ -48,8 +48,8 @@ libres. Por otro lado, líderes del movimiento del Software Libre,
 incluyendo a Stallman, nos han prevenido acerca de las políticas
 ’piratas’ anti-copyright [@stallman-pirate-party].  Líderes de la
 Cultura Libre, como Lawrence Lessig, han repetida y vociferadamente
-denunciado la piratería [@lessig-there-he-goes, lessig-news-flash,
-lessig-ascap], hasta tratado la sugerencia de una asociación con la
+denunciado la piratería [@lessig-there-he-goes; @lessig-news-flash;
+@lessig-ascap], hasta tratado la sugerencia de una asociación con la
 piratería como una afronta, y se han distanciado sistemáticamente de
 ella.
 
@@ -92,8 +92,8 @@ libres.
 Segundo, la piratería es fundamentalmente reaccionaria. Parte de su
 resonancia como un símbolo político viene del hecho de que la piratería
 representa una manera en que los consumidores de medios pueden luchar
-contra un grupo de compañías que los han atacado –con demandas
-judiciales, sistemas DRM, y demonización y propaganda– por compartir en
+contra un grupo de compañías que los han atacado --con demandas
+judiciales, sistemas DRM, y demonización y propaganda-- por compartir en
 formas que los consumidores piensan como naturales y socialmente
 positivas. Pero la piratería se enfoca en la reacción antes que en la
 importancia fundamental de compartir que la conduce. Como resultado,
