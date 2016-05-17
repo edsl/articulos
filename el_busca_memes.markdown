@@ -1294,6 +1294,22 @@ California. He fired a quarter of his staff, and things looked pretty
 dire.
 
 
+El "infoware" no se volvio popular, por ende O'Reilly giró hacia el 
+trabajo de Douglas Engelbart, el inventor idiosincrásico que nos dio
+el mouse y el hipertexto, para argumentar que Internet podria ayudar
+a la humanidad a aumentar su "inteligencia colectiva"y que, una vez
+mas el software opensource era crucial para lograr esto. Ahora en realidad
+tenia que ver con Amazon aprendiendo de sus clientes y Google aprendiendo
+de sus sitios en su índice. La idea de que Internet es tanto un repositorio
+como un incubador de "inteligencia colectiva" fue bastante atractiva para
+Silicon Valley, en particular por que intervinó en la retórica New Age 
+de los 70, pero el fallo putocom forzó momentaneamente a O'Reilly a
+suspender su filosofeo momentaneamente. Cuando la burbuja tecnológica
+exploto, la demanda por manuales y conferencias (La mayor parte del
+negocio de O'Reilly) se achicó, mientras que O'Reily tambien tuvo que 
+lidiar con desagradables litigaciones relacionadas con la sede central
+de sus oficinas en Sebastopol,California. Despidió a un cuarto de 
+su personal, y la situacion parecia bastante seria.
 
 [![b22\_fisher6\_godsofinternet\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher6_godsofinternet_308.png)](http://www.marksfisher.com/)Thus,
 a high-profile conference was born, aimed explicitly at helping VIPs in
@@ -1327,6 +1343,20 @@ post](http://www.oreillynet.com/pub/wlg/5466) announcing his very first
 Web 2.0 conference. “In contrast, Web 2.0 is our first ‘executive
 conference’—a conference aimed at business people, with the focus on the
 big picture.”
+
+[![b22\_fisher6\_godsofinternet\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher6_godsofinternet_308.png)](http://www.marksfisher.com/)De aqui,
+el nacimiento de una notoria conferencia, dirigida explicitamente
+a ayudar a VIPs del valle (Silicon Valley) a ver "la forma del futuro"
+a ser seguida por muchos otros.
+Pronto O'Reilly [expanded on the idea of Web
+2.0](http://gossgrove.com/sites/default/files/web2009_websquared-whitepaper.pdf)
+en una redacción que coautorió con otro escritor emprendedor John Battelle.
+O'Reilly  no pudo mejorar un concepto tan sexy como "inteligencia colectiva"
+asi que lo mantuvo como la caracteristica que define este nuevo fenomeno.
+Lo que diferencia a la Web 2.0 de la Web 1.0 segun O'Reilly, fue el
+simple hecho que aquellas firmas que no acogieron la Web 2.0 quebraron.
+Todas las compañias de Silicon Valley deberian escuchar a aquellas
+pocas que sobrevivieron.
 
 O’Reilly’s explanation of the crash is curious. First of all, some tech
 companies that did go under (Global Crossing comes to mind) couldn’t
