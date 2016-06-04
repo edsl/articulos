@@ -2,7 +2,7 @@
 layout: post
 title: "Hacklabs y Hackerspaces: rastreando dos genealogías"
 author: "Maxigas"
-cover: "images/cover_endefensadelsl_nr0.png"
+cover: images/covers/en-defensa-del-software-libre-3.png
 license: http://endefensadelsl.org/ppl_deed_es.html
 original_url: http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
 category: [ "En Defensa del Software Libre #3" ]

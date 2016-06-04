@@ -3,6 +3,7 @@ title: "Hackeando los espacios"
 author: Johannes Grenzfurthner y Frank Apunkt Schneide
 layout: post
 category: [ "En Defensa del Software Libre #3" ]
+cover: images/covers/en-defensa-del-software-libre-3.png
 ---
 
 Hackeando los espacios --- Johannes Grenzfurthner y Frank Apunkt Schneide

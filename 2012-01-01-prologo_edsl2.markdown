@@ -4,6 +4,7 @@ title: Prólogo
 category: [ "En Defensa del Software Libre #2" ]
 tag: prologo
 license: http://endefensadelsl.org/ppl_deed_es.html
+cover: images/covers/en-defensa-del-software-libre-2.png
 ---
 
 

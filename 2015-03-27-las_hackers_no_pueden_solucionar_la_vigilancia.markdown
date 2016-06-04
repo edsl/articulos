@@ -5,6 +5,7 @@ author: "Dmytri Kleiner"
 license: http://endefensadelsl.org/ppl_deed_es.html
 old-slug: las_hackers_no_pueden_resolver_la_vigilancia.html
 category: [ "En Defensa del Software Libre #3" ]
+cover: images/covers/en-defensa-del-software-libre-3.png
 ---
 
 Las hackers no pueden solucionar la vigilancia --- Dmytri Kleiner

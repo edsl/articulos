@@ -4,6 +4,7 @@ title: "Plataformas para la abundancia roja"
 author: "Nick Dyer-Witheford"
 license: http://endefensadelsl.org/ppl_deed_es.html
 category: [ "En Defensa del Software Libre #3" ]
+cover: images/covers/en-defensa-del-software-libre-3.png
 ---
 
 Plataformas para la abundancia roja --- Nick Dyer-Witheford
