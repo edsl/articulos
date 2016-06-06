@@ -1,4 +1,13 @@
-﻿COOPERATIVISMO DE PLATAFORMA
+﻿---
+layout: post
+title: "Plataformas cooperativistas"
+author: "Trebor Scholz"
+cover: "images/cover_endefensadelsl_nr0.png"
+license: http://endefensadelsl.org/ppl_deed_es.html
+category: [ "En Defensa del Software Libre #4" ]
+---
+
+COOPERATIVISMO DE PLATAFORMA
 
 Desafiando la economía colaborativa corporativa
 
@@ -53,124 +62,115 @@ Por Trebor Scholz
 
 
 
-Entre todos los problemas en el trabajo del siglo XXI -el auge de un
+Entre todos los problemas en el trabajo del siglo XXI --el auge de un
 sector de servicios con bajos salarios, la desigualdad económica, el
-desmoronamiento de los derechos de los trabajadores- el principal
-problema, en realidad, es que hay muy pocas alternativas realistas. Lo
+desmoronamiento de los derechos de las trabajadoras-- el principal
+problema, en realidad, es que hay muy pocas alternativas realistas.  Lo
 que ha faltado en el debate sobre el futuro del trabajo es un enfoque
-que ofrezca a la gente algo que pueda abrazar de todo corazón. De eso es
-lo que trata este estudio.
+que ofrezca a la gente algo que pueda abrazar de todo corazón.  De eso
+es lo que trata este estudio.
 
-
-
-
-
-En primer lugar, voy a reflexionar sobre las oportunidades, riesgos y
-consecuencias de la economía colaborativa. Utilizaré el caso de
-Amazon.com, que ha entrado con fuerza en determinada “economía
-colaborativa”. En segundo lugar, describiré el crecimiento de las
+En primer lugar, voy a reflexionar sobre las oportunidades, riesgos
+y consecuencias de la economía colaborativa.  Utilizaré el caso de
+Amazon.com, que ha entrado con fuerza en determinada "economía
+colaborativa".  En segundo lugar, describiré el crecimiento de las
 cooperativas de plataforma y ofreceré ejemplos de plataformas existentes
-y de plataformas cooperativas imaginarias. Lo que llamo cooperativismo
+y de plataformas cooperativas imaginarias.  Lo que llamo cooperativismo
 de plataforma consiste en modelos de propiedad democráticos para
-Internet. En tercer lugar, esbozaré diez principios para las plataformas
-de trabajo que están llevando la equidad laboral a las plataformas
-laborales. Concluiré con reflexiones sobre posibles pasos que hay que
-seguir para este cambio de paradigma en marcha.
+Internet.  En tercer lugar, esbozaré diez principios para las
+plataformas de trabajo que están llevando la equidad laboral a las
+plataformas laborales.  Concluiré con reflexiones sobre posibles pasos
+que hay que seguir para este cambio de paradigma en marcha.
 
-
-
-
-
-Las consecuencias de la economía colaborativa. La han llamado “economía
-de bolos” (gig economy[1]), economía entre pares, sharing economy. Ha
-llevado un tiempo reconocer que la economía colaborativa era en realidad
-una economía de servicios bajo demanda que se dispone a obtener
-beneficios económicos de servicios que antes eran privados. Es cierto
+Las consecuencias de la economía colaborativa. La han llamado "economía
+de changas" (gig economy[1]), economía entre pares, _sharing economy_.
+Ha llevado un tiempo reconocer que la economía colaborativa era en
+realidad una economía de servicios bajo demanda que se dispone a obtener
+beneficios económicos de servicios que antes eran privados.  Es cierto
 que entre esos trabajos existen oportunidades innegables para
-estudiantes o para trabajadores formados, y para quienes disponen de una
-segunda vivienda. Ahora es más fácil para los graduados universitarios
-encontrar algún trabajo montado los muebles o renovando la casa de
-alguien. Los consumidores, formados en una aguda apreciación de los
-bajos precios y de la “ubercomodidad”[2] por encima de todo, han dado la
-bienvenida a estos advenedizos. Pero, ¿debemos entender la economía
+estudiantes o para trabajadoras formadas y para quienes disponen de una
+segunda vivienda.  Ahora es más fácil para las graduadas universitarias
+encontrar algún trabajo montando los muebles o renovando la casa de
+alguien.  Las consumidoras, formadas en una aguda apreciación de los
+bajos precios y de la "ubercomodidad"[2] por encima de todo, han dado la
+bienvenida a estos advenedizos.  Pero, ¿debemos entender la economía
 colaborativa como una señal en el camino que apunta a un futuro mejor,
-más flexible, del trabajo? ¿Qué es lo que esta economía nos trae
+más flexible, del trabajo?  ¿Qué es lo que esta economía nos trae
 realmente?
 
 Bienvenido a las Aldeas Potemkin de la "economía colaborativa", en las
 que finalmente puedes vender la fruta de los árboles del jardín a tus
-vecinos, compartir un viaje en coche, alquilar una casa de árbol en el
+vecinas, compartir un viaje en coche, alquilar una casa de árbol en el
 bosque Redwood o visitar un KinkBnB[3]. Esa amigable comodidad supone,
-para muchos trabajadores, un salario bajo y una trampa precaria. Pero
-tú, por el contrario, puedes escuchar tu propia cuenta de Spotify en un
-taxi de Uber. Ya no tienes que sufrir lo que el economista George
+para muchas trabajadoras, un salario bajo y una trampa precaria.  Pero
+tú, por el contrario, puedes escuchar tu propia cuenta de _Spotify_ en
+un taxi de _Uber_.  Ya no tienes que sufrir lo que el economista George
 Akerlof[4] describió como un "mercado de limones"; estas nuevas
-plataformas están introduciendo nuevos pesos y contrapesos. Has sido
-promovido a una gerencia media, tienes derecho a despedir a tu
-conductor. Hay empresas que hasta han encontrado una manera de sacar
+plataformas están introduciendo nuevos pesos y contrapesos.  Has sido
+promovida a una gerencia media, tienes derecho a despedir a tu
+conductora.  Hay empresas que hasta han encontrado una manera de sacar
 valor financiero de tus interacciones con los objetos cotidianos,
 reclutándolos como informantes para un capitalismo de vigilancia.
 
-Compañías laborales tan amantes de lo cool y molón como Handy, Postmates
-y Uber celebran su momento Andy Warhol, sus quince mil millones de
-dólares de fama. Se deleitan por el hecho de haber puesto en marcha sus
+Compañías laborales tan amantes de lo _cool_ como _Handy_, _Postmates_
+y _Uber_ celebran su momento Andy Warhol, sus quince mil millones de
+dólares de fama.  Se deleitan por el hecho de haber puesto en marcha sus
 monopolios de plataforma en ausencia de una infraestructura física
-propia. Al igual que AOL y AT&T no crearon Internet, ni Mitt Romney[5]
-construyó su negocio por sí mismo[6], las empresas de la economía bajo
-demanda tampoco construyeron el suyo. Se están yendo con tu coche, tu
-apartamento, tu trabajo, tus emociones y, esto es importante, con tu
-tiempo. Son empresas de logística que requieren que los participantes
-paguen al intermediario. Nos vamos transformando en activos; se trata de
-la financiarización de la vida cotidiana 3.0.
+propia.  Al igual que _AOL_ y _AT&T_ no crearon Internet, ni Mitt
+Romney[5] construyó su negocio por sí mismo[6], las empresas de la
+economía bajo demanda tampoco construyeron el suyo.  Se están yendo con
+tu coche, tu departamento, tu trabajo, tus emociones y, esto es
+importante, con tu tiempo.  Son empresas de logística que requieren que
+las participantes paguen al intermediario.  Nos vamos transformando en
+activos; se trata de la financiarización de la vida cotidiana 3.0.
 
-En What’s Yours is Mine (Lo que es tuyo es mío), el investigador
+En _What's Yours is Mine_ [Lo que es tuyo es mío], el investigador
 canadiense Tom Slee lo resume así:
 
-Muchas personas bien intencionadas sufren de una fe fuera de lugar en
-las capacidades intrínsecas de Internet para promover la confianza y una
-comunidad igualitaria y así, sin saberlo, se van convirtiendo en
-cómplices de esta acumulación de fortuna privada, y de la construcción
-de nuevas y explotadoras formas de empleo[7].
+> Muchas personas bien intencionadas sufren de una fe fuera de lugar en
+> las capacidades intrínsecas de Internet para promover la confianza
+> y una comunidad igualitaria y así, sin saberlo, se van convirtiendo en
+> cómplices de esta acumulación de fortuna privada, y de la construcción
+> de nuevas y explotadoras formas de empleo[7].
 
-En la conferencia “Cooperativismo de plataforma”[8], John Duda, de
+En la conferencia "Cooperativismo de plataforma"[8], John Duda, de
 Democracia Colaborativa, declaró:
 
-La propiedad de las instituciones de las que dependemos para vivir, para
-comer, para trabajar, se está concentrando cada vez más. Sin la
-democratización de nuestra economía, sencillamente no tendremos el tipo
-de sociedad que queremos tener, o que aspiramos a tener. Simplemente no
-vamos a tener una democracia. ¡Internet, de hecho no está ayudando! Está
-alimentado por el pensamiento a corto plazo, por los beneficios
-empresariales; está dirigido por el capital de riesgo y está
-contribuyendo a la concentración de la riqueza en cada vez menos manos.
-Dondequiera que la economía tecnológica se extiende, la vivienda se
-convierte en totalmente inaccesible. Tenemos que revertir esa
-tendencia[9].
+> La propiedad de las instituciones de las que dependemos para vivir,
+> para comer, para trabajar, se está concentrando cada vez más.  Sin la
+> democratización de nuestra economía, sencillamente no tendremos el
+> tipo de sociedad que queremos tener, o que aspiramos a tener.
+> Simplemente no vamos a tener una democracia.  ¡Internet, de hecho no
+> está ayudando!  Está alimentada por el pensamiento a corto plazo, por
+> los beneficios empresariales; está dirigida por el capital de riesgo
+> y está contribuyendo a la concentración de la riqueza en cada vez
+> menos manos.  Dondequiera que la economía tecnológica se extiende, la
+> vivienda se convierte en totalmente inaccesible.  Tenemos que revertir
+> esa tendencia[9].
 
-Las ocupaciones que no pueden ser deslocalizadas -la persona que pasea a
-la mascota o la que limpia en casa- se están subsumiendo bajo lo que
-Sasha Lobo[10] y Martin Kenney llaman “capitalismo de plataforma”. Los
+Las ocupaciones que no pueden ser deslocalizadas --la persona que pasea
+a la mascota o la que limpia en casa-- se están subsumiendo bajo lo que
+Sasha Lobo[10] y Martin Kenney llaman "capitalismo de plataforma".  Las
 baby boomers están perdiendo sectores de la economía como el transporte,
 la comida y varios otros más ante la generación del milenio, que se
-precipita con ferocidad a controlar la demanda, la oferta, y el
-beneficio mediante la adición de una gruesa capa de hielo de negocios en
-las aplicaciones basadas en las interacciones entre usuarios. Están
+precipita con ferocidad a controlar la demanda, la oferta y el beneficio
+mediante la adición de una gruesa capa de hielo de negocios en las
+aplicaciones basadas en las interacciones entre usuarias.  Están
 ampliando el libre mercado desregulado a áreas de nuestras vidas que
 antes eran privadas.
 
 La "economía colaborativa" se presenta como un heraldo de la sociedad
 post-trabajo; el camino hacia el capitalismo ecológicamente sostenible
-en que Google va a vencer a la misma muerte y tú no tienes que
-preocuparte de nada en absoluto. Con el lema "lo que es mío es tuyo",
+en que _Google_ va a vencer a la misma muerte y tú no tienes que
+preocuparte de nada en absoluto.  Con el lema "lo que es mío es tuyo",
 este caballo de Troya de la economía colaborativa nos libera de las
 formas jurásicas de mano de obra mientras desencadena una máquina de
 represión sindical colosal; pasando por encima de las personas de mayor
-edad. El autor alemán Byung-Chul enmarca el momento actual como
-“sociedad del cansancio”[11]. Vivimos, escribe, en una sociedad
-orientada a los logros que es supuestamente libre, determinada por la
-llamada del "sí se puede". Inicialmente, eso crea una sensación de
-libertad, pero pronto se acompaña de ansiedad, autoexplotación y
-depresión.
+edad.  El autor alemán Byung-Chul enmarca el momento actual como
+"sociedad del cansancio"[11].  Vivimos, escribe, en una sociedad
+orientada a los logros que es supuestamente libre, determinada por el
+"sí se puede".  Inicialmente, eso crea una sensación de libertad, pero
+pronto se acompaña de ansiedad, auto-explotación y depresión.
 
 Es importante señalar que no podemos iniciar este debate sin antes
 reconocer que la "economía colaborativa" no es una especie de cubo
@@ -182,210 +182,200 @@ sus cadenas de suministro globales, comenzando por el hardware sin el
 que toda esta economía "ligera" se hundiría en el fondo del océano.
 
 No se pueden tomar en consideración todos los apreciados dispositivos de
-Apple sin antes recordarnos a nosotros mismos las condiciones de trabajo
+Apple sin antes recordarnos a nosotras mismas las condiciones de trabajo
 en lo que Andrew Ross llama "fábricas suicidas de Foxconn" en Shenzhen,
-China. O la extracción de raros minerales de la tierra en la República
+China.  O la extracción de raros minerales de la tierra en la República
 Democrática del Congo; es esencial seguir las cadenas de suministro que
-facilitan todos estos estilos de vida digitales, aparentemente limpios y
-glamurosos.
+facilitan todos estos estilos de vida digitales, aparentemente limpios
+y glamorosos.
 
 Hay una masa de cuerpos sin nombre, escondidos tras la pantalla,
 expuestos a vigilancia en el lugar de trabajo, una multitud desplumada,
-despojada de su salario, y que constituye un software propietario. Como
-el activista por el software libre Micky Metts advirtió: cuando se
+despojada de su salario y que constituye un software propietario.  Como
+el activista del software libre Micky Metts advirtió: cuando se
 construyen plataformas, no se puede construir la libertad sobre la
 esclavitud de otra persona"[12].
 
-
-
-
-
-Al responder a una crítica política de la economía bajo demanda, algunos
-estudiosos suponen que, bueno, los terribles resultados de capitalismo
+Al responder a una crítica política de la economía bajo demanda, algunas
+académicas suponen que, bueno, los terribles resultados del capitalismo
 sin restricciones se entienden bien; toda esa perorata no necesita ser
-afirmada otra vez. Pero tal vez, según McKenzie Wark: "Esto no es
-capitalismo, esto es algo peor". Sugirió que "el modo de producción en
+afirmada otra vez.  Pero tal vez, según McKenzie Wark: "Esto no es
+capitalismo, esto es algo peor".  Sugirió que "el modo de producción en
 el que parecemos estar entrando es uno que no es propiamente el
 capitalismo como se ha descrito clásicamente".[13]
 
-Esto no es simplemente una continuación del capitalismo predigital tal
+Esto no es simplemente una continuación del capitalismo pre-digital tal
 como lo conocemos, hay notables discontinuidades, un nuevo nivel de
 explotación y una concentración de riqueza para la que se acuñó el
-término “desplumar a la multitud”[14]. Desplumar a la multitud es una
+término "desplumar a la multitud"[14].  Desplumar a la multitud es una
 nueva forma de explotación, puesta en marcha por cuatro o cinco
 advenedizos, para disponer de una reserva mundial de millones de
-trabajadores en tiempo real.
+trabajadoras en tiempo real.
 
 La situación actual necesita ser discutida en el contexto de la
 intensificación de las formas de explotación en línea y también de
-antiguas economías de trabajo invisible y no remunerado. Por ejemplo si
-pensamos en la campaña de Silva Frederici, Selma James, y Mariarosa
-Dalla Costa sobre los “salarios de las tareas del hogar" y, en la década
+antiguas economías de trabajo invisible y no remunerado.  Por ejemplo si
+pensamos en la campaña de Silva Frederici, Selma James y Mariarosa
+Dalla Costa sobre los "salarios de las tareas del hogar" y, en la década
 de 1980, en la teórica de la cultura Donna Harraway discutiendo las
 maneras en que las tecnologías emergentes de la comunicación permiten
 que el "trabajo a domicilio" se difunda por toda la sociedad.
 
+
 La economía colaborativa se detiene
+-----------------------------------
 
 Dentro de veinte o treinta años, cuando nos enfrentemos posiblemente al
 final de las profesiones y más puestos de trabajo de la gente sean
-“uberizados", bien podemos despertar y preguntarnos por qué no
-protestamos con más fuerza contra aquellos cambios. A pesar de todas las
-exquisitas ventajas de la "economía colaborativa" hecha en casa, podemos
-terminar compartiendo las sobras, no la economía. Podemos sentir
-remordimientos por no haber buscado alternativas anteriormente. Como era
-de esperar, no podemos cambiar lo que no entendemos. Por eso pregunto,
-¿qué significa la "economía colaborativa"?
+"uberizados", bien podemos despertar y preguntarnos por qué no
+protestamos con más fuerza contra aquellos cambios.  A pesar de todas
+las exquisitas ventajas de la "economía colaborativa" hecha en casa,
+podemos terminar compartiendo las sobras, no la economía.  Podemos
+sentir remordimientos por no haber buscado alternativas anteriormente.
+Como era de esperar, no podemos cambiar lo que no entendemos.  Por eso
+pregunto, ¿qué significa la "economía colaborativa"?
 
-Todo Uber tiene su Unter[15]
+
+### Todo Uber tiene su Unter[15]
 
 La economía colaborativa indica una ofensiva a gran escala, global, en
 favor de "constructores de puentes digitales" que se insertan entre
 quienes ofrecen servicios y quienes están en busca de estos, encajando
-así los procesos extractivos en las interacciones sociales. La economía
+así los procesos extractivos en las interacciones sociales.  La economía
 bajo demanda indica que el trabajo digital no es un fenómeno de nicho.
-UpWork (anteriormente ODesk y Elance) afirma que tiene unos diez
-millones de trabajadores. Crowdwork, ocho millones. CrowdFlower, cinco
-millones. En 2015, 160.000 conductores se encuentran en la carretera
-para Uber, si nos fiamos de sus cifras[16]. Lyft informa de 50.000
-conductores. TaskRabbit declara que cuenta con 30.000 trabajadores[17].
+_UpWork_ (antes _ODesk_ y _Elance_) afirma que tiene unos diez millones
+de trabajadoras.  _Crowdwork_, ocho millones.  _CrowdFlower_, cinco
+millones.  En 2015, 160.000 de conductoras se encuentran en la carretera
+para _Uber_, si confiamos en sus cifras[16].  _Lyft_ informa 50.000
+conductoras.  _TaskRabbit_ declara contar con 30.000[17].
 
-En Alemania, sindicatos como ver.di concentran sus esfuerzos en la
-defensa de los derechos de los empleados, mientras que en Estados Unidos
+En Alemania, los sindicatos como _ver.di_ concentran sus esfuerzos en la
+defensa de los derechos de las empleadas, mientras que en Estados Unidos
 veo pocas posibilidades de un retorno de la semana de trabajo de 40
-horas para los que están en el sector eventual. La pregunta, entonces,
-es: ¿cómo podemos mejorar las condiciones de un tercio de la fuerza de
-trabajo que no está empleada de modo tradicional?
+horas para aquellas que están en el sector eventual.  La pregunta,
+entonces, es: ¿cómo podemos mejorar las condiciones de un tercio de la
+fuerza de trabajo que no está empleada de modo tradicional?
 
 Los modelos de negocio extractivos de hoy, basados en plataformas, hacen
 que algunos de los anteriores esquemas monetarios de Internet parezcan
-experimentos socialistas. Douglas Rushkoff, autor de Throwing Stones at
-the Google Bus (Tirando piedras al autobús de Google), señala que "en
-lugar de crear empresas verdaderamente distributivas solo estamos dando
-esteroides a la economía industrial, creando divisiones más extremas de
-riqueza y formas más extremas de explotación. Estamos generado todas
-estas nuevas tecnologías como Bitcoin o Blockchain, pero en realidad no
-nos estamos preguntando para qué estamos programando tales cosas”[18].
-Los beneficios del capitalismo de plataforma para los consumidores,
-propietarios y accionistas son evidentes; pero el valor añadido para los
-trabajadores vulnerables y el valor a largo plazo para los consumidores
-no están claros, en cualquier caso.
+experimentos socialistas.  Douglas Rushkoff, autor de _Throwing Stones
+at the Google Bus_ (Tirando piedras al autobús de Google), señala que
+"en lugar de crear empresas verdaderamente distributivas solo estamos
+dando esteroides a la economía industrial, creando divisiones más
+extremas de riqueza y formas más extremas de explotación.  Estamos
+generado todas estas nuevas tecnologías como _Bitcoin_ o _Blockchain_,
+pero en realidad no nos estamos preguntando para qué estamos programando
+tales cosas"[18].  Los beneficios del capitalismo de plataforma para las
+consumidoras, propietarios y accionistas son evidentes; pero el valor
+añadido para las trabajadoras vulnerables y el valor a largo plazo para
+las consumidoras no están claros, en cualquier caso.
 
 
+### Las nuevas dependencias y el nuevo dominio
 
+Se trata del cambio, por parte de la empleada, de tener su declaración
+de ingresos y una semana laboral de 40 horas, pasando por una
+trabajadora eventual, a la _freelance_ o contratista independiente, lo
+que también se conoce a veces como 1099[20] o trabajadora de
+"changas"[21].  En el proceso, las trabajadoras están perdiendo el
+salario mínimo, las horas extraordinarias y las protecciones que tenían
+a través de leyes contra la discriminación en el empleo.  Asimismo, los
+empleadores no tienen que contribuir al sistema de asistencia médica, ni
+al seguro de desempleo, ni al seguro contra accidentes, ni a los pagos
+de la seguridad social de sus trabajadoras.
 
-
-Las nuevas dependencias y el nuevo dominio
-
-
-
-Se trata del cambio, por parte del empleado, de tener su documento de
-impuestos W-2[19] y trabajar una semana laboral de 40 horas a un
-trabajador más eventual, al freelance o al contratista independiente, lo
-que también se conoce a veces como 1099[20] o trabajador de “bolos”[21].
-En el proceso, los trabajadores están perdiendo el salario mínimo, las
-horas extraordinarias y las protecciones que tenían a través de leyes
-contra la discriminación en el empleo. Asimismo, los empleadores no
-tienen que contribuir al sistema de asistencia médica, ni al seguro de
-desempleo, ni al seguro contra accidentes, ni a los pagos de la
-seguridad social de sus trabajadores.
-
-"Mientras que el empleo tradicional era como el matrimonio -escribe el
-jurista Frank Pasquale-, con las dos partes comprometiéndose a un
+"Mientras que el empleo tradicional era como el matrimonio --escribe el
+jurista Frank Pasquale--, con las dos partes comprometiéndose a un
 proyecto conjunto a más largo plazo, la mano de obra digitalizada busca
-una serie de ligues"[22]. Mitos sobre el empleo que se proyectan
-enérgicamente sugieren que trabajar como empleado significa que debes
+una serie de levantes"[22].  Mitos sobre el empleo que se proyectan
+enérgicamente sugieren que trabajar como empleada significa que debes
 renunciar a toda la flexibilidad y que trabajar por tu cuenta, de alguna
-manera, significa inherentemente que tu trabajo es flexible. Sin
-embargo, esta "flexibilidad innata" de los trabajadores independientes
-de bajos ingresos se debe poner en duda, debido a que los trabajadores
+manera, significa inherentemente que tu trabajo es flexible.  Sin
+embargo, esta "flexibilidad innata" de las trabajadoras independientes
+de bajos ingresos se debe poner en duda, debido a que las trabajadoras
 no existen en el vacío; también se tienen que adaptar a los horarios de
 sus jefes virtuales.
 
 Usando el lenguaje de la iniciativa empresarial, la flexibilidad, la
-autonomía, y la elección, la carga de los mayores riesgos de la vida: el
+autonomía y la elección, la carga de los mayores riesgos de la vida: el
 desempleo, la enfermedad y la vejez, se han puesto sobre los hombros de
-los trabajadores. ¡Hay propietarios de plataformas que se refieren a los
-trabajadores como “conejos”, “turcos” o proveedores! Me pregunto si Leah
-Busque, CEO de TaskRabbit[23], se sentiría insultada si la llamaran
-coneja. Ella es una jefa. El problema es que además de dueña de su mente
-lo es de la plataforma.
+las trabajadoras.  ¡Hay propietarios de plataformas que se refieren
+a las trabajadoras como "conejas", "turcas" o proveedoras!  Me pregunto
+si Leah Busque, CEO de _TaskRabbit_[23], se sentiría insultada si la
+llamaran coneja.  Ella es una jefa.  El problema es que además de dueña
+de su mente lo es de la plataforma.
 
-¿Quién va a estar dispuesto a ofrecer derechos a los empleados, al igual
-que a todos los trabajadores autónomos, los trabajadores temporales y de
-contrato? El senador Mark Warner, de Virginia[24], y sobre todo el
-economista de Princeton Alan Krueger, entre otros, han sugerido una
-tercera categoría de trabajadores que no es ni un contratista
-independiente, ni un empleado: el trabajador independiente[25]. Esta
-categoría de trabajador recibiría muchas de las protecciones que van con
-el empleo.
+¿Quién va a estar dispuesto a ofrecer derechos a las empleadas, al igual
+que a todas las trabajadoras autónomas, las trabajadoras temporales
+y por contrato?  El senador Mark Warner, de Virginia[24] y sobre todo
+el economista de Princeton Alan Krueger, entre otras, han sugerido una
+tercera categoría de trabajadoras que no es ni un contratista
+independiente, ni una empleada: la trabajadora independiente[25].  Esta
+categoría de trabajadora recibiría muchas de las protecciones que van
+con el empleo.
 
 Una respuesta diferente a la pérdida de poder de negociación por el lado
-de los trabajadores en una economía bajo demanda proviene del
+de las trabajadoras en una economía bajo demanda proviene del
 programador informático y escritor Steve Randy Waldman, quien sugirió
-que la clasificación de los contratistas independientes debe estar
-subordinada a los requisitos de que los trabajadores sean
-"multi-hogar"[26], es decir, que trabajen usando varias plataformas, y
-por lo tanto evitando las trampas de plataformas individuales,
-dominantes, como Uber. Waldman entiende multihoming como poder de
+que la clasificación de las contratistas independientes debe estar
+subordinada a los requisitos de que las trabajadoras sean
+"multi-hogar"[26], es decir, que trabajen usando varias plataformas
+y por lo tanto evitando las trampas de plataformas individuales,
+dominantes, como Uber.  Waldman entiende el _multi-homing_ como poder de
 negociación cuando se trata de mitigar el poder de los monopolios[27].
 
-La economía colaborativa es “reaganismo” por otros medios. Retrocediendo
-en el tiempo, mi argumentación es que hay conexión entre los efectos de
-la "economía colaborativa" y las deliberadas ondas de choque de
-austeridad que siguieron a la crisis financiera en 2008. Los tecnólogos
-multimillonarios saltaron de cabeza, cabalgando a lomos de los que
+La economía colaborativa es "reaganismo" por otros medios. Retrocediendo
+en el tiempo, mi argumentación es que hay una conexión entre los efectos
+de la "economía colaborativa" y las deliberadas ondas de choque de
+austeridad que siguieron a la crisis financiera en 2008.  Los tecnólogos
+multimillonarios saltaron de cabeza, cabalgando a lomos de las que
 buscan desesperadamente trabajo, no solo aumentando así la desigualdad,
 sino también la reestructuración de la economía de una manera que hace
-que esta nueva forma de trabajar, privados de todos los derechos
+que esta nueva forma de trabajar, privadas de todos los derechos
 laborales, sea vivible, sobrevivible o, como ellos dirían: "sostenible".
 
-La "economía colaborativa" surgió a partir de la estirpe de Reagan y
-Thatcher, que en la década de 1980 no solo acabaron con las huelgas de
-los mineros y los controladores de tráfico aéreo, sino que dañaron la
-creencia en la capacidad de los sindicatos de velar por los
-trabajadores, que debilitaron la creencia en la posibilidad de la
+La "economía colaborativa" surgió a partir de la estirpe de Reagan
+y Thatcher, que en la década de 1980 no solo acabaron con las huelgas de
+las mineras y las controladoras de tráfico aéreo, sino que dañaron la
+creencia en la capacidad de los sindicatos de velar por las
+trabajadoras, que debilitaron la creencia en la posibilidad de la
 solidaridad y crearon un marco en que la reestructuración del trabajo,
 los recortes en los cheques de asistencia social y la desconexión de la
 productividad respecto a los ingresos se hicieron más plausibles.
 
-Las exigencias de cualificación son cada vez más altas y la ansiedad y
-el miedo al desempleo y a la pobreza se han convertido en temas
-centrales para la vida muchos jóvenes de hoy. Todo esto ha conducido a
-un mundo en el que, para la generación del milenio, el fin del planeta
-parece más plausible que el fin del capitalismo, y sus carreras se
+Las exigencias de cualificación son cada vez más altas y la ansiedad
+y el miedo al desempleo y a la pobreza se han convertido en temas
+centrales para la vida muchas jóvenes de hoy.  Todo esto ha conducido
+a un mundo en el que, para la generación del milenio, el fin del planeta
+parece más plausible que el fin del capitalismo y sus carreras se
 parecen a vehículos autónomos que se dirigen hacia el Armagedón.
 
-Es La ley del silencio de Elia Kazan, en la que jornaleros digitales se
-levantan cada mañana solo para unirse a una subasta de sus propias
-actuaciones. Según la economista Juliet Schor, la economía colaborativa
+Es _La ley del silencio_ de Elia Kazan, en la que jornaleras digitales
+se levantan cada mañana solo para unirse a una subasta de sus propias
+actuaciones.  Según la economista Juliet Schor, la economía colaborativa
 ofrece cada vez más acceso al trabajo de bajo nivel para la clase media
 educada, que ahora puede conducir taxis y ensamblar muebles en casas de
-otra gente, mientras que al mismo tiempo desplaza a los trabajadores de
+otra gente, mientras que al mismo tiempo desplaza a las trabajadoras de
 bajos ingresos de estas ocupaciones[28].
 
-Uno de cada tres trabajadores de la fuerza laboral estadounidense es
-ahora un trabajador independiente, jornalero, temporero, o freelance. El
-jurado está todavía deliberando sobre si regresarán a un mundo con un
+Una de cada tres trabajadoras de la fuerza laboral estadounidense es
+ahora una trabajadora independiente, jornalera, temporera o _freelance_.
+El jurado está todavía deliberando sobre si regresarán a un mundo con un
 sueldo fijo, de una semana de trabajo de 40 horas y con algunas
 protecciones sociales.
 
 
-Generación de beneficios para unos pocos
-
-
-
-
+### Generación de beneficios para unos pocos
 
 El software que está impulsando la economía colaborativa está envuelto
-por un diseño de interfaz adictiva. En la pantalla, el icono del tamaño
-de una hormiga de un taxi acercándose a tu ubicación es tan seductor y
-peligroso como las sirenas que atraían a Ulises; es un diseño de escala.
-Por el lado empresarial, emprendedores e ingenieros de software han
-creado nuevos mercados. Pero, ¿es innovación o hay una fábrica detrás
-del patio de recreo? La innovación, ¿debe consistir solo en beneficios
-para unos pocos, dejando a su paso una mano de obra para la que
-predominan insuficientes protecciones sociales? ¿Es una innovación
+por un diseño de interfaz adictiva.  En la pantalla, el ícono del tamaño
+de una hormiga de un taxi acercándose a tu ubicación es tan seductor
+y peligroso como las sirenas que atraían a Ulises; es un diseño de
+escala. Por el lado empresarial, emprendedores e ingenieros de software
+han creado nuevos mercados. Pero, ¿es innovación o hay una fábrica
+detrás del patio de recreo? La innovación, ¿debe consistir solo en
+beneficios para unos pocos, dejando a su paso una mano de obra para la
+que predominan insuficientes protecciones sociales? ¿Es una innovación
 centrada en la extracción de valor y el crecimiento, o se trata de la
 circulación de este valor entre la gente?
 
@@ -561,7 +551,7 @@ la misión de crear rentabilidad para los accionistas. Es el deber
 fiduciario de tales empresas el de crear cada vez más valor para los
 accionistas, para crecer y servir a los propietarios de la plataforma.
 
-La “ubercomodidad”, la rapidez, el precio y el dominio general de Amazon
+La "ubercomodidad", la rapidez, el precio y el dominio general de Amazon
 hace que resulte difícil para nosotros no cerrar los ojos ante el hecho
 de que a la sombra de nuestra comodidad hay importantes costes sociales
 para los trabajadores. En uno de los almacenes de Amazon en Alemania,
@@ -663,7 +653,7 @@ social y sostenibilidad del medio ambiente, para cada vez más personas
 el capitalismo ya no está funcionando. Por lo tanto, vamos a pensar en
 cómo cambiar la propiedad y la gobernanza de Internet y en cómo la
 solidaridad se podría intensificar en el proceso. Mi colaborador Nathan
-Schneider se preguntó: "¿puede hacer “Silicon Alley”[54] las cosas de
+Schneider se preguntó: "¿puede hacer "Silicon Alley"[54] las cosas de
 manera más democrática que Silicon Valley?
 
 Ya sea que estés pensando en puestos de trabajo seguros, salario mínimo,
@@ -736,7 +726,7 @@ dirigido por los ciudadanos? La respuesta podría ser: todo lo anterior.
 
 Pero, para mí, el problema comienza cuando el cambio se busca
 principalmente en las salas de juntas de Silicon Valley. Tim O'Reilly
-convocó la conferencia “Next: Economy” en noviembre de 2015[62], por
+convocó la conferencia "Next: Economy" en noviembre de 2015[62], por
 ejemplo, que fue ampliamente dominada por líderes de negocios de Silicon
 Valley. Y como si la selección de conferenciantes (a pesar de dos o tres
 defensores de los trabajadores, predominantemente dirigentes de
@@ -839,7 +829,7 @@ ingresos.
 Las cooperativas han sido instrumentos importantes para la construcción
 de poder económico de grupos marginados. Karla Morales, de la
 cooperativa de cuidado de niños Beyond Care (Más allá del cuidado)
-describe sus sencillos beneficios: “En mi trabajo, ahora tengo derecho a
+describe sus sencillos beneficios: "En mi trabajo, ahora tengo derecho a
 la baja, a vacaciones y a derechos laborales"[66]. Los estados del sur
 de Estados Unidos, por ejemplo, tienen una larga historia de
 cooperativas agrícolas con autodeterminación económica y social
@@ -959,7 +949,7 @@ plataforma, quiero aclarar que esto no tiene que ver con una aurora
 boreal tecnológica; el cooperativismo de plataforma no tiene que ver con
 la obsesión occidental por los avances de la tecnología; es un modo de
 pensar. Evgeny Morozov y Siva Vaidhyanathan tienen toda la razón en su
-postura contra el "solucionismo tecnológico" y el “Internetcentrismo”.
+postura contra el "solucionismo tecnológico" y el "Internetcentrismo".
 
 Cooperativismo de plataforma es un término que describe cambios
 tecnológicos, culturales, políticos y sociales. El cooperativismo de
@@ -1104,7 +1094,7 @@ aplicaciones; lo que permitiría que las ciudades no solo jueguen un
 papel en la regulación de la economía bajo demanda, sino que pudieran
 ser activas a la hora de darle forma.
 
-Plataformas propiedad de los “produsers”
+Plataformas propiedad de los "produsers"
 
 
 
@@ -1233,7 +1223,7 @@ La'Zooz[82] es una red distribuida entre pares de transporte compartido.
 Así como desde Members Media querrían que piensen en ellos como el
 Netflix de los cineastas y aficionados, propiedad de esos produsers,
 La'Zooz se podría comparar con el Bittorrent de compartir coche.
-Cualquiera que conduzca por una ciudad puede ganar “cryptotokens”
+Cualquiera que conduzca por una ciudad puede ganar "cryptotokens"
 acogiendo compañeros de viaje. A diferencia del sistema descrito
 anteriormente, este es totalmente peer-to-peer, no hay un punto central,
 no hay sede central[83].
@@ -1360,7 +1350,7 @@ común piensa acerca de su relación con Internet.
    Estados Unidos Steven Hill, un autor residente en San Francisco, es
    una de las personas que hicieron esta propuesta en su último libro
    Raw Deal: How the ‘Uber Economy’ and Runaway Capitalism Are Screwing
-   American Workers. (Trato injusto. Cómo la "Ubereconomía” y el
+   American Workers. (Trato injusto. Cómo la "Ubereconomía" y el
    capitalismo desbocado están atornillando a los trabajadores de
    América[90]): a cada trabajador se le asignaría una cuenta de
    seguridad individual en la que todas las empresas que contratan a ese
@@ -1567,10 +1557,10 @@ Maqubela[109]:
 Cooperativas de plataforma para los comunes: Internet se ha asociado con
 los bienes comunes e intercambios no comerciales desde Hi-Tech Gift
 Economy, de Richard Barbrook; Wealth of Networks, de Yochai Benkler;
-Spiral Viral, de David Bollier; Venture Communism,” de Dmytri Kleiner
+Spiral Viral, de David Bollier; Venture Communism," de Dmytri Kleiner
 "[110], así como desde el trabajo de Michel Bauwens con la Fundación
-P2P. Hace más de diez años, Dmytri Kleiner acuñó el término “comunismo
-de riesgo” (Venture Communism) para describir la posibilidad de que
+P2P. Hace más de diez años, Dmytri Kleiner acuñó el término "comunismo
+de riesgo" (Venture Communism) para describir la posibilidad de que
 cooperativas federadas crearan plataformas de comunicación que pudieran
 superar a algunas de las plataformas centralizadas, capitalistas, muy
 controladas y que violan la privacidad, emergidas recientemente. Nos
@@ -1621,7 +1611,7 @@ problemática de la confianza.
 Blockchain es el protocolo subyacente a la moneda virtual Bitcoin. Pero
 los desarrollos más relevantes para las cooperativas de plataforma no
 son solo acerca del Bitcoin en sí; Blockchain tiene aplicaciones que van
-mucho más allá de dinero en efectivo y de la moneda. “Blockchain es un
+mucho más allá de dinero en efectivo y de la moneda. "Blockchain es un
 dragado distribuido que se ejecuta por debajo de la moneda Bitcoin",
 explica la investigadora irlandesa Rachel O'Dywer. La tecnología
 Blockchain puede constituir una base de datos pública que puede ser
@@ -1648,13 +1638,13 @@ en las cooperativas. Aquí, los estatutos, los miembros, las acciones y
 los registros de votación podrían ser almacenados de manera
 irrevocable[114].
 
-Por otro lado, "la tecnología Blockchain” se basa en la idea de retirar
+Por otro lado, "la tecnología Blockchain" se basa en la idea de retirar
 la confianza ya no solo a las instituciones centralizadas, como el
 estado, sino también a las instituciones sociales y poner en su lugar
 una arquitectura técnica. Algunas personas llaman a esto confianza en el
 código, pero con esta confianza también se presupone que ya no tenemos
 que confiar el uno en el otro. En su lugar, se nos pide confiar en algún
-tipo de algoritmo. Algunos incluso han llamado a esto “una forma de
+tipo de algoritmo. Algunos incluso han llamado a esto "una forma de
 regulación algorítmica", afirma O'Dwyer[115]. También existe la
 preocupación de que los mercados dotados de Blockchain podrían hacer que
 sea más fácil evitar el pago de impuestos, por ejemplo.
@@ -1922,14 +1912,14 @@ Institute (Florence). www.onlinecreation.info
 
 ________________
 
-[1] Hemos traducido gig por “bolos” en el sentido de los grupos
+[1] Hemos traducido gig por "bolos" en el sentido de los grupos
 musicales, para dar a entender la discontinuidad de esos puestos de
 trabajo (N. del T.)
 
 [2] Por el servicio Uber descrito más adelante. En varios lugares, el
 autor juega con el nombre de Uber (N. Del T.)
 
-[3]  Juego de palabras con AirBnB y la connotación de “kink” en inglés
+[3]  Juego de palabras con AirBnB y la connotación de "kink" en inglés
 como fantasía o tolerancia sexual. Plataforma existente en  kinkbnb.com
 (N. Del T.)
 
@@ -1937,8 +1927,8 @@ como fantasía o tolerancia sexual. Plataforma existente en  kinkbnb.com
 
 
 
-[4] George A. Akerlof, “The Market for ‘Lemons’: Quality Uncertainty and
-the Market Mechanism,” The Quarterly Journal of Economics 84, no. 3
+[4] George A. Akerlof, "The Market for ‘Lemons’: Quality Uncertainty and
+the Market Mechanism," The Quarterly Journal of Economics 84, no. 3
 (1970): 488–500, doi:10.2307/1879431.
 
 [5] Empresario y político estadounidense. (N. del T.)
@@ -1947,7 +1937,7 @@ the Market Mechanism,” The Quarterly Journal of Economics 84, no. 3
 
 
 
-[6] “Review & Outlook: ‘You Didn’t Build That’,” The Wall Street
+[6] "Review & Outlook: ‘You Didn’t Build That’," The Wall Street
 Journal, 19 de julio de 2012, www.wsj.com
 
 
@@ -1960,8 +1950,8 @@ Journal, 19 de julio de 2012, www.wsj.com
 
 [9] vimeo.com/149401422
 
-[10] Sascha Lobo, “Sascha Lobo: Sharing Economy wie bei Uber ist
-Plattform-Kapitalismus,” Spiegel Online, 9 de marzo de 2014,
+[10] Sascha Lobo, "Sascha Lobo: Sharing Economy wie bei Uber ist
+Plattform-Kapitalismus," Spiegel Online, 9 de marzo de 2014,
 www.spiegel.de
 
 [11] Byung-Chul Han, Müdigkeitsgesellschaft. Berlin: Matthes & Seitz
@@ -1970,7 +1960,7 @@ Barcelona: Herder, 2012.
 
 [12] livestream.com/internetsociety/platformcoop/videos/105663835
 
-[13] McKenzie Wark, “Digital Labor and the Anthropocene,” DIS Magazine,
+[13] McKenzie Wark, "Digital Labor and the Anthropocene," DIS Magazine,
 accedido el 24 de noviembre de 2015, dismagazine.com
 
 [14] De la expresión crowd fleecing en inglés. (N. del T.)
@@ -1980,7 +1970,7 @@ accedido el 24 de noviembre de 2015, dismagazine.com
 
 
 [15] Juego de palabras con el nombre de Unter, que en alemán significa
-“encima” y Uber, que significa “debajo”. (N. del T.)
+"encima" y Uber, que significa "debajo". (N. del T.)
 
 [16] Axel Bruns, Blogs, Wikipedia, Second Life, and Beyond: From
 Production to Produsage, New York: Peter Lang Publishing Inc., 2008.
@@ -2002,21 +1992,21 @@ Unidos.
 no es solo un concepto único, sino que describe un conjunto de derechos
 y son esos derechos fundamentales del trabajo los que están en riesgo.
 
-[22] Frank Pasquale, “Banana Republic.com” Jotwell: Cyber- law, 11 de
+[22] Frank Pasquale, "Banana Republic.com" Jotwell: Cyber- law, 11 de
 febrero de 2011, cyber.jotwell.com
 
 [23] Juego de palabras del autor en torno a la plataforma taskrabbit.com
-donde task significa “tarea” y rabbit “conejo”. (N. del T.)
+donde task significa "tarea" y rabbit "conejo". (N. del T.)
 
 
 
 
 
-[24]  “U.S. Senator Mark Warner on Why We Need a New Class of Worker
-(Q&A), Re/code,” accedido el 29 de noviembre de, 2015, recode.net
+[24]  "U.S. Senator Mark Warner on Why We Need a New Class of Worker
+(Q&A), Re/code," accedido el 29 de noviembre de, 2015, recode.net
 
-[25] Seth D. Harris and Alan B. Krueger, “A Proposal for Modernizing
-Labor Laws for Twenty-First-Century Work: The ‘Independent Worker,’” The
+[25] Seth D. Harris and Alan B. Krueger, "A Proposal for Modernizing
+Labor Laws for Twenty-First-Century Work: The ‘Independent Worker,’" The
 Hamilton Project, diciembre. www.hamiltonproject.org
 
 [26] De la expresión multihome, de origen informático. (N. del T.)
@@ -2025,13 +2015,13 @@ Hamilton Project, diciembre. www.hamiltonproject.org
 
 
 
-[27] Steve Waldman, “1099 as Antitrust,” interfluidity, accedido el 29
+[27] Steve Waldman, "1099 as Antitrust," interfluidity, accedido el 29
 de noviembre de 2015, www.interfluidity.com
 
 [28] livestream.com/internetsociety/platformcoop/videos/105162259
 
-[29] Frank Pasquale y Siva Vaidhyanathan, “Uber and the Lawlessness of
-‘Sharing Economy’ Corporates,” The Guardian, 28 de julio de 2015.
+[29] Frank Pasquale y Siva Vaidhyanathan, "Uber and the Lawlessness of
+‘Sharing Economy’ Corporates," The Guardian, 28 de julio de 2015.
 
 [30] Tom Slee. What’s Yours Is Mine. New York City: OR Books, 2015.
 
@@ -2041,29 +2031,29 @@ de noviembre de 2015, www.interfluidity.com
 
 
 
-[32] Pasquale, Frank, and Siva Vaidhyanathan. “Uber and the Lawlessness
-of ‘Sharing Economy’ Corporates.” The Guardian, 28 de julio de 2015.
+[32] Pasquale, Frank, and Siva Vaidhyanathan. "Uber and the Lawlessness
+of ‘Sharing Economy’ Corporates." The Guardian, 28 de julio de 2015.
 
-[33] Harris and Krueger, “A Proposal for Modernizing Labor Laws for
+[33] Harris and Krueger, "A Proposal for Modernizing Labor Laws for
 Twenty-First-Century Work: The ‘Independent Worker’.
 
 [34] En 2015, más de la mitad de los conductores de Uber no se quedan
 más de doce meses en la compañía. Para obtener más información, leer Raw
-Deal. How the “Uber Economy” and Runaway Capitalism Are Screwing
+Deal. How the "Uber Economy" and Runaway Capitalism Are Screwing
 American Workers de Steven Hill.
 
-[35] Mike Isaac y Natasha Singer, “California Says Uber Driver Is
-Employee, Not a Contractor,” The New York Times, 17 de junio de 2015.
+[35] Mike Isaac y Natasha Singer, "California Says Uber Driver Is
+Employee, Not a Contractor," The New York Times, 17 de junio de 2015.
 
-[36] “Judge Not At All Impressed By Class Action Lawsuit Claiming Yelp
-Reviewers Are Really Employees,” Accedido el 24 de noviembre de 2015,
+[36] "Judge Not At All Impressed By Class Action Lawsuit Claiming Yelp
+Reviewers Are Really Employees," Accedido el 24 de noviembre de 2015,
 www.techdirt.com
 
-[37] “Coalition of Start-Ups and Labor Call for Rethinking of Worker
-Policies,” The New York Times Blog, 9 de noviembre de 2015.
+[37] "Coalition of Start-Ups and Labor Call for Rethinking of Worker
+Policies," The New York Times Blog, 9 de noviembre de 2015.
 
-[38] “Taxi Regulations, E-Hail App Targeted By Montgomery County
-Council,” WAMU 88.5, 8 de junio de, 2015, wamu.org
+[38] "Taxi Regulations, E-Hail App Targeted By Montgomery County
+Council," WAMU 88.5, 8 de junio de, 2015, wamu.org
 
 [39] flex.amazon.com
 
@@ -2071,20 +2061,20 @@ Council,” WAMU 88.5, 8 de junio de, 2015, wamu.org
 multitudes (crowd), como el crowdfunding. A partir de ahí se acuñan
 términos como crowdsourcing, crowdworker, etc. (N. del T.)
 
-[41] Sam Schechner, “Two Uber Executives Indicted in France,” Wall
+[41] Sam Schechner, "Two Uber Executives Indicted in France," Wall
 Street Journal, 30 de junio de 2015, www.wsj.com
 
-[42] “Rio de Janeiro Becomes First City in Brazil to Ban Uber,” The
+[42] "Rio de Janeiro Becomes First City in Brazil to Ban Uber," The
 Guardian, septiembre de 2015.
 
-[43] “Amazon′s ′inactivity Protocols′ under Fire,” Deutsche Welle, 13 de
+[43] "Amazon′s ′inactivity Protocols′ under Fire," Deutsche Welle, 13 de
 marzo de 2015, www.dw.com
 
 [44] Ursula Huws, Labor in the Global Digital Economy: The Cybertariat
 Comes of Age. New York: Monthly Review Press, 2014.
 
-[45] Alison Griswold, “Supreme Court Decides Amazon Workers Don’t Need
-to Be Paid While Waiting for Mandatory Security Screenings,” Slate, 9 de
+[45] Alison Griswold, "Supreme Court Decides Amazon Workers Don’t Need
+to Be Paid While Waiting for Mandatory Security Screenings," Slate, 9 de
 diciembre de 2014, www.slate.com
 
 [46] Del inglés publicly traded companies. (N. del T.)
@@ -2093,23 +2083,23 @@ diciembre de 2014, www.slate.com
 
 
 
-[47] David Streitfeld, “A New Book Portrays Amazon as Bully, ”The New
+[47] David Streitfeld, "A New Book Portrays Amazon as Bully, "The New
 York Times Blog, 22 de octubre de 2013.
 
-[48] Jodi Kantor y David Streitfeld, “Inside Amazon: Wrestling Big Ideas
-in a Bruising Workplace,” The New York Times, 15 de agosto de 2015.
+[48] Jodi Kantor y David Streitfeld, "Inside Amazon: Wrestling Big Ideas
+in a Bruising Workplace," The New York Times, 15 de agosto de 2015.
 
 [49] carolinewoolard.com
 
-[50] John Duda en “Platform Cooperativism: The Internet, Ownership,
-Democracy,” vimeo.com/149401422
+[50] John Duda en "Platform Cooperativism: The Internet, Ownership,
+Democracy," vimeo.com/149401422
 
-[51] “Goodbye Middle Class: 51 Percent Of All American Work ers Make
-Less Than 30,000 Dollars A Year,” Washington’s Blog, 21 de octubre de
+[51] "Goodbye Middle Class: 51 Percent Of All American Work ers Make
+Less Than 30,000 Dollars A Year," Washington’s Blog, 21 de octubre de
 2015, www.washingtonsblog.com
 
-[52] Angela Johnson, “76% of Americans Are Living Pay-
-check-to-Paycheck,” CNNMoney, 24 de junio de 2013, money.cnn.com
+[52] Angela Johnson, "76% of Americans Are Living Pay-
+check-to-Paycheck," CNNMoney, 24 de junio de 2013, money.cnn.com
 
 [53] E. G. Nadeau, The Cooperative Solution: How the United States Can
 Tame Recessions, Reduce Inequality, and Protect the Environment.
@@ -2126,8 +2116,8 @@ Internet, nuevas tecnologías y comunicación en Manhattan, Nueva York.
 [55] Las estadísticas de este párrafo están tomadas de Owning Our
 Future: The Emerging Ownership Revolution, de Marjorie Kelly.
 
-[56] Dave Johnson, “Bernie Sanders Proposes To Boost Worker-Ownership Of
-Companies,” Common Dreams, 18 de agosto de 2015.
+[56] Dave Johnson, "Bernie Sanders Proposes To Boost Worker-Ownership Of
+Companies," Common Dreams, 18 de agosto de 2015.
 
 [57] E. G. Nadeau, The Cooperative Solution, 37.
 
@@ -2141,9 +2131,9 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [62] conferences.oreilly.com/nextcon/economy-us-2015/public/content/speakers
 
-[63] “Ver.di. Innovation Und Gute Arbeit - Digitale Arbeit,” Accedido el 5 de diciembre de 2015, innovation-gute-arbeit.verdi.de/themen/digitale-arbeit
+[63] "Ver.di. Innovation Und Gute Arbeit - Digitale Arbeit," Accedido el 5 de diciembre de 2015, innovation-gute-arbeit.verdi.de/themen/digitale-arbeit
 
-[64] Phil Gasper, “Are Workers’ Cooperatives the Alternative to Capitalism?,” ISR, 2014.
+[64] Phil Gasper, "Are Workers’ Cooperatives the Alternative to Capitalism?," ISR, 2014.
 
 [65] Ibid.
 
@@ -2163,9 +2153,9 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [73] seed.coop/p/V1RtF0JQe/more?wrap=true
 
-[74] “Socialism, American-Style,” The New York Times, accedido el 26 de julio de 2015.
+[74] "Socialism, American-Style," The New York Times, accedido el 26 de julio de 2015.
 
-[75] Nathan Schneider, “5 Ways to Take Back Tech,” The Nation, 27 de Mayo de 2015.
+[75] Nathan Schneider, "5 Ways to Take Back Tech," The Nation, 27 de Mayo de 2015.
 
 [76] Del término produsage, que propuso Axel Bruns en Blogs, Wikipedia, Second Life and Beyond: From Production to Produsage. New York: Peter Lang, 2008.
 
@@ -2185,7 +2175,7 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [84]        livestream.com/internetsociety/platformcoop/videos/104571608
 
-[85]        “Ver.di, Innovation Und Gute Arbeit - Digitale Arbeit.”
+[85]        "Ver.di, Innovation Und Gute Arbeit - Digitale Arbeit."
 
 [86]        goodworkcode.org
 
@@ -2193,39 +2183,39 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [88]        Multihoming es un término informático que hace referencia a un dispositivo conectado a varias redes. Aquí se toma en el sentido de un trabajador que no depende de una sola plataforma. (N. del T.)
 
-[89]        Frank Pasquale en “Making It Work - Platform Coop 2015: Platform Cooperativism Conference,” Internet Archive, Noviembre de 2015, archive.org. Véase también: Ramsi Woodcock, “Inconsistency in Antitrust,” SSRN, 3 de diciembre de 2013.
+[89]        Frank Pasquale en "Making It Work - Platform Coop 2015: Platform Cooperativism Conference," Internet Archive, Noviembre de 2015, archive.org. Véase también: Ramsi Woodcock, "Inconsistency in Antitrust," SSRN, 3 de diciembre de 2013.
 
 [90] Para entender la ironía del título hay que tener en cuenta que Raw Deal es una película de Arnold Swarzenegger, traducida al español como El ejecutor. (N. del T.)
 
 [91] Actualmente más de 60 millones de trabajadores del sector privado en Estados Unidos no tienen acceso a la baja por enfermedad.
 
-[92] Ellen Huet, “How Uber’s Shady Firing Policy Could Backfire On The Company,” Forbes, accedido el 4 de diciembre de 2015.
+[92] Ellen Huet, "How Uber’s Shady Firing Policy Could Backfire On The Company," Forbes, accedido el 4 de diciembre de 2015.
 
-[93]  Para un análisis de la situación de los trabajadores de Amazon Mechanical Turk, ver Lilly Irany, “Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk,” The South Atlantic Quarterly, enero de 2015.
+[93]  Para un análisis de la situación de los trabajadores de Amazon Mechanical Turk, ver Lilly Irany, "Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk," The South Atlantic Quarterly, enero de 2015.
 
 [94] traity.com
 
-[95] Galt. J. “Crypto Swartz Will Get You Paid for Your Great Content.” The CoinFront, 23 de junio de 2014. www.disruptek.info
+[95] Galt. J. "Crypto Swartz Will Get You Paid for Your Great Content." The CoinFront, 23 de junio de 2014. www.disruptek.info
 
 [96] Los "diarios de los trabajadores" de ODesk (ahora UpWork) documentan el flujo de trabajo de los trabajadores. Esto incluye fotografías recurrentes de los trabajadores con la cámara incorporada en el ordenador del trabajador y capturas de pantalla para medir el progreso del trabajo.
 
-[97] Tubaro, “Discussing Platform Cooperativism,” Data Big and Small, accedido el 9 de diciembre de 2015, databigandsmall.com
+[97] Tubaro, "Discussing Platform Cooperativism," Data Big and Small, accedido el 9 de diciembre de 2015, databigandsmall.com
 
 [98] Turkopticon es una extensión para el navegador web que permite a los trabajadores absoluta independencia para evaluar conjuntamente a los expedidores en Amazon Mechanical Turk: turkopticon ucsd.edu
 
 [99] wiki.wearedynamo.org
 
-[100] “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, accedido el 4 de noviembre de 2015, www.shareable.net
+[100] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable, accedido el 4 de noviembre de 2015, www.shareable.net
 
 [101] seed.coop
 
 [102] goteo.org
 
-[103] “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, Accedido el 4 de noviembre de 2015, www.shareable.net
+[103] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable, Accedido el 4 de noviembre de 2015, www.shareable.net
 
 [104] swarm.co
 
-[105] Nathaniel Popper, “Dream of New Kind of Credit Union Is Extinguished by Bureaucracy,” The New York Times. 24 de noviembre de 2015.
+[105] Nathaniel Popper, "Dream of New Kind of Credit Union Is Extinguished by Bureaucracy," The New York Times. 24 de noviembre de 2015.
 
 [106] slack.externalrevenue.us
 
@@ -2235,13 +2225,13 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [109] vimeo.com/149532379
 
-[110] “Venture Communism,” P2P Foundation, accedido el 11 de diciembre de 2015, p2pfoundation.net
+[110] "Venture Communism," P2P Foundation, accedido el 11 de diciembre de 2015, p2pfoundation.net
 
 [111] vimeo.com/149381439
 
-[112] “Commons-Based Reciprocity Licenses,” P2P Foundation, accedido el 8 de noviembre de 2015, p2pfoundation.net
+[112] "Commons-Based Reciprocity Licenses," P2P Foundation, accedido el 8 de noviembre de 2015, p2pfoundation.net
 
-[113] “The Great Chain of Being Sure about Things,” The Economist, 31 de octubre de 2015, www.economist.com.; Véase también la charla de Rachel O’Dwyer’s en el evento Platform Cooperativism event: livestream.com
+[113] "The Great Chain of Being Sure about Things," The Economist, 31 de octubre de 2015, www.economist.com.; Véase también la charla de Rachel O’Dwyer’s en el evento Platform Cooperativism event: livestream.com
 
 [114] La entidad sin ánimo de lucro Ethereum está ayudando a estas empresas.
 
@@ -2251,7 +2241,7 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [117] loomio.org
 
-[118] Para una discusión sobre la tecnología blockchain, véase: NathanSchneider, Trebor Scholz “The Internet Needs a New Economy”   The Next System Project, Noviembre 8, 2015, www.thenextsystem.org
+[118] Para una discusión sobre la tecnología blockchain, véase: NathanSchneider, Trebor Scholz "The Internet Needs a New Economy"   The Next System Project, Noviembre 8, 2015, www.thenextsystem.org
 
 
 
@@ -2265,15 +2255,15 @@ Companies,” Common Dreams, 18 de agosto de 2015.
 
 [122] Cameron Tonkinwise en su charla en Platform Cooperativism: The Internet, Ownership, Democracy, platformcoop.net
 
-[123] “Badges,” MozillaWiki, 22 de mayo de 2012, wiki.mozilla.org
+[123] "Badges," MozillaWiki, 22 de mayo de 2012, wiki.mozilla.org
 
 [124] murphyinstituteblog.org
 
 [125] codesign.mit.edu
 
-[126] “Stiegler on Daesh and ‘The Age of Disruption”, accedido el 29 de noviembre de 2015, www.samkinsley.com
+[126] "Stiegler on Daesh and ‘The Age of Disruption", accedido el 29 de noviembre de 2015, www.samkinsley.com
 
-[127] “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable
+[127] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable
 
-[128] “Making It Work—Platform Coop 2015: Platform Cooperativism Conference”.
+[128] "Making It Work—Platform Coop 2015: Platform Cooperativism Conference".
 
