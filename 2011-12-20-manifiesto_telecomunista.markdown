@@ -849,7 +849,7 @@ y editadas en el navegador sin tener que comprar software de edición
 HTML, las fotografías pueden ser cargadas y manipuladas en línea sin
 costosas aplicaciones de escritorio para manipulación de imágenes. Un
 video hecho en la cámara de un consumidor puede enviarse a un sitio de
-videos, subida, codificada e imbuida en una página HTML, publicada,
+videos, subida, codificada e incrustada en una página HTML, publicada,
 etiquetada y sindicalizada a través de la web sin dejar el navegador.
 En su artículo sobre la Web 2.0, Paul Graham diferencia los roles de la
 comunidad/usuario más específicamente. Esto incluye al profesional, al
@@ -866,9 +866,9 @@ La caracterización que hace Graham del "amateur" tiene una extraña
 semejanza a "_Si tuviera un circo_", de Dr. Seuss, donde el joven Morris
 McGurk dice al staff del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.  
-> Dicen, "¡Trabájanos! ¡Por favor hazlo!  
-> Trabajaremos y trabajaremos tantas sorpresas  
+> Mis obreros aman trabajar.
+> Dicen, "¡Trabájanos! ¡Por favor hazlo!
+> Trabajaremos y trabajaremos tantas sorpresas
 > ¡Que nunca verías la mitad aunque tuvieras cuarenta ojos!" [@seuss-1956]
 
 Y mientras el término "Web 2.0" puede no significar nada para Tim
@@ -967,7 +967,7 @@ acerca de la propiedad del contenido y la habilidad para monetizar su
 valor. Estas preguntas son rara vez hechas por el usuario. Son parte de
 la letra chica en los Términos de Servicio de _Facebook_, o en el
 "flickr.com" en la URL de tus fotos. La propiedad rara vez es un
-problema para la comunidad,y es un pequeño precio a pagar por el uso de
+problema para la comunidad, y es un pequeño precio a pagar por el uso de
 esas aplicaciones maravillosas. Ya que la mayoría de los usuarios no
 tienen acceso a medios alternativos para producir y publicar su propio
 contenido, son atraídos a sitios como _Facebook_ y _Flickr_.
@@ -1008,8 +1008,8 @@ menudo no más que una computadora y una conexión a Internet de
 consumidor final. Los sistemas P2P no requieren los centros de datos
 masivos de _YouTube_. Los sistemas distribuidos también tienden a ser
 más longevos.  _Usenet_ ha sido subsumida de alguna forma por _Google_,
-que es dueño del archivo de _Usenet_ más grande y del más usado cliente
-web, _Google Groups_. Sin embargo, gracias a la naturaleza distribuída
+que es dueño del archivo de _Usenet_ más grande y del cliente web más
+usado, _Google Groups_. Sin embargo, gracias a la naturaleza distribuída
 de _Usenet_, otros medios de acceso continuan existiendo en paralelo y
 mientras su rol como una plataforma _online_ ha perdido prominencia,
 muchos grupos de noticias permanecen en actividad. Por ejemplo, la
@@ -1268,8 +1268,8 @@ como inmateriales, entonces los productores que emplean estos activos en
 su producción pueden retener una mayor parte de su producto.
 
 La producción de pares es distinta de otros modos de producción. Los
-trabajadores que emplean independientemente un acervo común de activos
-productivos es un modo diferente, distinto de los enfoques capitalistas
+trabajadores emplean independientemente un acervo común de activos
+productivos un modo diferente, distinto de los enfoques capitalistas
 y colectivistas. El modo de producción capitalista es explotador por
 naturaleza; su lógica fundamental es capturar la plusvalía del trabajo
 al negar el acceso independiente a los medios de producción. Sin
@@ -1546,7 +1546,7 @@ general, según los casos.
     trabajo infantil en las fábricas bajo su forma actual.  Régimen
     combinado de la educación con la producción material, etc.~~
     **Establecimiento de redes de compartición de conocimiento y
-    capacidades y sistemas de apoyo para todos los miembros y provisión
+    capacidades, y sistemas de apoyo para todos los miembros, provisión
     de oportunidades para el desarrollo de habilidades de contribución y
     producción.**
 
@@ -1676,7 +1676,7 @@ de su trabajo en teoría, pero ya que lo que creaban eran ideas
 inmateriales y carecían de los medios tecnológicos para producir libros,
 debían vender sus derechos a terceros con el capital suficiente para
 explotarlos. En esencia, no era diferente de ninguna otra forma de
-trabajo. La explotación del autor está imbuida en el régimen de
+trabajo. La explotación del autor está embebida en el régimen de
 propiedad intelectual desde su concepción.
 
 Existen importantes diferencias entre las propiedades intelectual y
@@ -2344,7 +2344,7 @@ provienen de las compañías cuyo negocio principal es vender hardware, no
 software, como _Apple Computer_ o los enrutadores _Juniper_, donde ambos
 utilizan versiones propietarias de software derivado de proyectos BSD.
 Debe notarse que tanto _Apple_ como _Juniper_ hacen software propietario
-no para venderlo, sino para imbuirlo en su hardware costoso.  Este punto
+no para venderlo, sino para embeberlo en su hardware costoso.  Este punto
 se enfatiza con los esfuerzos de ambas compañías para evitar que los
 usuarios adquieran su software para utilizarlo en hardware más barato.
 Por ejemplo, considérense los ejemplos de _Apple_ para frustrar el
@@ -2354,7 +2354,7 @@ acciones legales contra las compañías que venden hardware que no es de
 _Apple_ cargado con copias legalmente adquiridas de su OS X
 [@keizer-sf].
 
-Ejemplos como estos demuestran el énfasis de la libertad imbuida en el
+Ejemplos como estos demuestran el énfasis de la libertad embebida en el
 _copyleft_.  Las acciones de _Apple_ no han amenazado a los proyectos de
 software libre basados en BSD de los que han tomado código.  De hecho,
 _Apple_ ha contribuido a estos proyectos.  No obstante, los términos de
@@ -2550,7 +2550,7 @@ _copyright_ fue de £84 [@kretschmer-2006].
 Mientras que los términos no comerciales podrían proveer una forma de
 integrar a los artistas que producen cultura libre a la de otra forma
 propietaria industria del entretenimiento, no la desafían ni abordan la
-explotación imbuida en ella.  Los términos no comerciales resultan muy
+explotación embebida en ella.  Los términos no comerciales resultan muy
 problemáticos para aquellos en la izquierda socialista que militan por
 la producción auto-organizada de los trabajadores, ya que estos términos
 también restringen la habilidad de estas empresas no capitalistas para
@@ -2644,7 +2644,7 @@ no siempre es posible cuando se toman en cuenta las consideraciones
 prácticas.  Construir formas alternativas de producir y compartir,
 "construir la sociedad nueva en la cáscara de la vieja", requiere que
 operemos dentro del sistema legal capitalista donde la lógica de captura
-y explotación está imbuida.  Aunque existe el espacio para gestos
+y explotación está embebida.  Aunque existe el espacio para gestos
 desafiantes, debemos ponernos a buscar las formas y estructuras
 requeridas para construir y expandir el común.  Resulta claro que
 restricciones como las del _copyleft_ y el _copyfarleft_ sirven para
