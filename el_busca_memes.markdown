@@ -1348,15 +1348,38 @@ big picture.”
 el nacimiento de una notoria conferencia, dirigida explicitamente
 a ayudar a VIPs del valle (Silicon Valley) a ver "la forma del futuro"
 a ser seguida por muchos otros.
-Pronto O'Reilly [expanded on the idea of Web
-2.0](http://gossgrove.com/sites/default/files/web2009_websquared-whitepaper.pdf)
-en una redacción que coautorió con otro escritor emprendedor John Battelle.
-O'Reilly  no pudo mejorar un concepto tan sexy como "inteligencia colectiva"
+Pronto O'Reilly [se expandio en la idea de internet](http://gossgrove.com
+/sites/default/files/web2009_websquared-whitepaper.pdf)
+en una redacción que coautorió con John Battelle otro escritor emprendedor.
+O'Reilly  no pudo mejorar un concepto tan sensual como "inteligencia colectiva"
 asi que lo mantuvo como la caracteristica que define este nuevo fenomeno.
 Lo que diferencia a la Web 2.0 de la Web 1.0 segun O'Reilly, fue el
 simple hecho que aquellas firmas que no acogieron la Web 2.0 quebraron.
 Todas las compañias de Silicon Valley deberian escuchar a aquellas
-pocas que sobrevivieron.
+pocas que sobrevivieron: tienen que encontrar la manera de emplear la 
+inteligencia colectiva y hacerla parte de su modelo de negocios. Tienen 
+que volverse verdaderos portadores del espiritu de la Web 2.0.
+Luego, en el 2004, O'Reilly y Dale Dougherty su compañero de negocios 
+se golpearon con la idea de "Web 2.0". ¿Que es lo que "2.0" significaba, 
+exactamente? Habia una ambición teórica con esta etiqueta - mas sobre esto
+despues - pero el principal objetivo era mostrar que el colapso del mercado
+en el 2001 no significo el fin de internet y que era el tiempo de dejar
+el colapso detras nuestro y comenzar a aprender de esos que sobrevivieron.
+Debido a la gran cantidad de capital retorico que se habia puesto
+en vincular la idea de la web con la de "open source", el fin de la web
+significaria tambien el fin de muchos otros conceptos. Tácticamente,
+"Web 2.0" podria ser mucho mas grande que "open source"; fue el tipo de 
+término abarcativo y bonito que podria permitirle a O'Reilly diversificarse
+y expandirse de temas y extremadamente tecnicos y aburridos a futurologia
+acelera pulsos. "Normalmente tenemos muchisimas charlas tecnicas enfocadas
+en como usar software nuevo, construyendo nuestras conferencias para los 
+hackers que estan inventando el futuro, y las personas que adoptaron al inicio
+estan llevando su trabajo al siguiente nivel" Esto escribio O'Reilly en su 
+[blog](http://www.oreillynet.com/pub/wlg/5466) anunciando su primer 
+conferencia Web 2.0. "En contraste, Web 2.0 es nuestra primer 'conferencia
+ejecutiva' una conferencia orientada a gente de negocios, enfocada en 
+el panorama general"
+
 
 O’Reilly’s explanation of the crash is curious. First of all, some tech
 companies that did go under (Global Crossing comes to mind) couldn’t
@@ -1368,6 +1391,24 @@ followed O’Reilly’s playbook and become a Web 2.0 company.) Furthermore,
 companies that didn’t follow the Web 2.0 mantra—like Barnes & Noble,
 which O’Reilly singled out as a company that, unlike Amazon, wasn’t
 learning from collective intelligence—didn’t go under at all.
+
+
+
+La explicacion del colapso de O'Reily es curiosa. Antes que nada, algunas
+de las compañias tecnologicas que se fueron en picada (se me ocurre Global
+Crossing) no pudieron emplear la inteligencia colectiva, por que estaban
+en el mercado de las telecomunicaciones. La mayoria de los fracasos memorables
+de las punto com(.com) - casos como Pets.com- se fueron en picada  por que
+estaban impulsados por  modelos de mercado estúpidos e inversores
+excesivamente eufóricos. ( Pets.com hubiera hecho una propuesta aun peor
+si hubiera seguido el manual estrategico de O'Reilly y se hubiera convertido
+en una Web 2.0) Ademas, compañias que no siguieron el mantra Web 2.0 - Como
+Barnes & Noble, que O'Reilly excluyo como una compañia que, a diferencia
+de Amazon, no estaba aprendiendo de la  inteligencia colectiva- no cayeron
+para nada en picada.
+
+
+
 
 By 2007, O’Reilly [readily
 admitted](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
@@ -1389,10 +1430,46 @@ buys into the 2.0 paradigm, O’Reilly is quietly dropping it. Last year
 his “Where 2.0” conference on geolocation was rebranded as just “Where.”
 The exceptional has become the new normal.
 
+
+Para el 2007 O'Reilly [admitio 
+sin problemas](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
+que "La Web 2.0 fue un nombre bastante choto para lo que estaba pasando."
+En el 2004, sin embargo, parecia muy serio, promoviendo este concepto
+por todos lados. La etiqueta pescó, como "open source" era ambigua y
+lo suficientemente amplia para permitir muchisimos usos alternativos e
+interpretaciones. Los compañeros de O'Reilly con quienes organizaba la 
+conferencia registraron debidamenten el termino "Web 2.0" pero estas
+novedades no fueron bien recibidas por sus compañeros de viaije 
+(Un esfuerzo similar para registrar "open source" por  "the Open Source 
+Initiative" no prospero). Una vez que "Web 2.0" se establecio cmo un termino
+de referencia cultural, O'Reilly podia aventurarse fuera de Silicon Valley
+y estbalecer su relevancia en otras industrias. Como el software open source
+le dio el nacimiento a las "politicas open source" y la "ciencia open source"
+tambien lo hiso la  "Web 2.0" expandiendo su imperio terminológico.
+O'Reilly eventualmente puso una etiqueta "2.0" atras de todo lo que se
+acomodara a su plan de negocios, organizando eventos como "Gov 2.0" y
+"Where 2.0".Hoy , como todos compran el paradigma 2.0, O'reilly esta 
+dejandolo silenciosamente. El año pasado su conferencia "Where 2.0" en 
+geolocalizacion se renombro solo "Where". La excepcion se volvio la norma.
+
+
+
+
 Sorting through the six thousand or so academic papers that cite
 O’Reilly’s essay on Web 2.0 is no easy feat. It seems that anyone who
 wanted to claim that a revolution was under way in their own field did
-so simply by invoking the idea of Web 2.0 in their work: [Development
+so simply by invoking the idea of Web 2.0 in their work:
+
+Clasificar entre las casi seis mil publicaciones academicas
+que citan el ensayo de  O'Reilly  sobre la Web 2.0 no es facil. Pareceria
+que cualquiera que quisiera declarar que una revolucion estaba en camino
+en su propia disciplina lo hacia simplemente invocando la idea de 
+la Web 2.0 en su propio trabajo.
+
+
+
+
+[Development
 2.0](https://scholar.sun.ac.za/handle/10019.1/4226), [Nursing
 2.0](http://nlnjournals.org/doi/pdf/10.1043/1536-5026-030.001.0048),
 [Humanities
@@ -1416,6 +1493,36 @@ so simply by invoking the idea of Web 2.0 in their work: [Development
 2.0](http://www.palgrave-journals.com/dddmp/journal/v9/n3/full/4350103a.html),
 [Wittgenstein
 2.0](http://books.google.com/books?hl=en&lr=&id=Y_mCcY7b_uUC&oi=fnd&pg=PA153&dq=Wittgenstein+2.0+&ots=FjMzz_ZuKT&sig=AQ0diiYu3gaweQw6lyej5TglyDM#v=onepage&q=Wittgenstein%202.0&f=false).
+
+
+
+[Desarrollo
+2.0](https://scholar.sun.ac.za/handle/10019.1/4226), [Enfermeria
+2.0](http://nlnjournals.org/doi/pdf/10.1043/1536-5026-030.001.0048),
+[Humanidades
+2.0](http://inderscience.metapress.com/index/R765271R63403430.pdf),
+[Protestas 2.0](http://mcs.sagepub.com/content/33/6/923.short), [Musica
+2.0](http://www.ingentaconnect.com/content/intellect/jmte/2008/00000001/F0020002/art00004),
+[Investigacion 2.0](http://usir.salford.ac.uk/id/eprint/14628), [Biblioteca
+2.0](http://www.tandfonline.com/doi/abs/10.1300/J115v26S01_02),
+[Desastres
+2.0](http://www.iscramlive.org/ISCRAM2009/papers/Contributions/130_Disasters2.0-Application%20of%20Web2.0%20technologies_Camarero2009.pdf),
+[Seguridad vial
+2.0](https://domino.fov.uni-mb.si/proceedings.nsf/0/76115a8601158a71c1257757003bd6d6/$FILE/20_Fink.pdf),
+[Identidad
+2.0](http://operi.us/pdftribute/pdfs/helmond_identity20_dmiconference.pdf),
+[Manejo del stress
+2.0](http://su.diva-portal.org/smash/record.jsf?pid=diva2:386481),
+[Arqueologia 2.0](http://dl.acm.org/citation.cfm?id=2161947), [Crimen
+2.0](http://champpenal.revues.org/7782), [Pornografia
+2.0](http://igitur-archive.library.uu.nl/student-theses/2010-0111-200145/UUindex.html),
+[Amor
+2.0](http://www.palgrave-journals.com/dddmp/journal/v9/n3/full/4350103a.html),
+[Wittgenstein
+2.0](http://books.google.com/books?hl=en&lr=&id=Y_mCcY7b_uUC&oi=fnd&pg=PA153&dq=Wittgenstein+2.0+&ots=FjMzz_ZuKT&sig=AQ0diiYu3gaweQw6lyej5TglyDM#v=onepage&q=Wittgenstein%202.0&f=false).
+
+
+
 What unites most of these papers is a shared background assumption that,
 thanks to the coming of Web 2.0, we are living through unique historical
 circumstances. Except that there was no coming of Web 2.0—it was just a
@@ -1423,7 +1530,20 @@ way to sell a technology conference to a public badly burned by the
 dotcom crash. Why anyone dealing with stress management or Wittgenstein
 would be moved by the logistics of conference organizing is a mystery.
 
+Lo que une a la mayoria de estas publicaciones es la suposición compartida 
+de fondo que gracias a la llegada de la Web 2.0, estamos viviendo circunstancias
+historicas unicas. Excepto que no hay ninguna llegada de la Web 2.0 - es 
+solo una forma de vender conferencias de tecnologia a un publico quemado
+seriamente por el colapso del punto com. Por que cualquiera que este lidiando
+con Manejo del stress o Wittgenstein estaria conmovido por la logistica de 
+organizar conferencias es un misterio.
+
+
+
 > O’Reilly stuck a 2.0 label on anything that suited his business plan.
+
+> O'Reilly puso una etiqueta "2.0" atras de todo lo que se
+acomodara a su plan de negocios.
 
 O’Reilly himself pioneered this 2.0-ification of public discourse,
 aggressively reinterpreting trends that had been happening for decades
@@ -1438,11 +1558,35 @@ learned something from Google and Amazon and found a way to harness
 Enterprise 2.0 company simply because it tracks what its customers are
 buying in real time.
 
+O'Reilly mismo es es pionero en esta 2.0-ficación del discurso publico,
+reinterpretango agresivamente tendencias que estuvieron sucediendo
+durante decadas  a través del prisma de la historia de Internet- un 
+movimiento que presento todas esas tendencias como solo una logica 
+consecuencia de la revolucion de la Web 2.0. Tomen[Las reflexiones de
+O'Reilly](http://radar.oreilly.com/2008/09/why-dell-dot-com-is-more-enterprise.html)
+en "Empresas 2.0" ¿Que es, exactamente? Bueno, es la misma empresa
+-Segun lo que tendriamos entendido, podrian vender widgets- pero
+aprendió algo de Google y Amazon y encontro una forma de emplear
+la "Inteligencia colectiva" Para O'Reilly, Walmart es la Empresa 2.0
+por excelencia simplemente por que monitorea que compran sus clientes
+en tiempo real.
+
+
+
 That this is a rather standard practice—known under the boring title of
 “just-in-time delivery”—predating both Google and Amazon didn’t register
 with O’Reilly. In a Web 2.0 world, all those older concepts didn’t
 matter or even exist; everything was driven by the forces of open source
 and the Internet. A revolution was in the making!
+
+
+Que esto sea una practica bastante estandard -conocida bajo el nombre
+aburrido de "delivery justo a tiempo"- antedatando a Google y Amazon
+"didn't register" con O'Reilly. En un mundo de Web 2.0, todos esos
+conceptos antiguos no importan o ni siquiera existen; todo fue impulsado
+por las fuerzas del open source y de internet. Una revolucion estaba en Camino!
+
+
 
 This was a typical consequence of relying on Web 2.0 as the guiding
 metaphor of the age: in the case of Enterprise 2.0, a trend that had
@@ -1452,6 +1596,17 @@ the logical parallels between the worlds of retail and search. This
 tendency to redescribe reality in terms of Internet culture, regardless
 of how spurious and tenuous the connection might be, is a fine example
 of what I call “Internet-centrism.”
+
+Esta era una consecuencia tipica de depender en Web 2.0 como la metafora
+referente de la edad:  una  tendencia que tiene poca conexion con Internet
+como Empresas 2.0 fue reinscripta en el marco de Internet, como si 
+adjuntandole la etiqueta 2.0 fuera lo unico necesario para establecer
+el paralelismo logico entre las palabras "venta"(retail) y busqueda.
+Esta tendencia a re describir la realidad en terminos de la cultura de internet
+sin importar cuan espurio y poco convincente sea el vinculo, es un buen
+ejemplo de lo que yo llamo "Internet-centrismo"
+
+
 
 And soon Web 2.0 became the preferred way to explain any changes that
 were happening in Silicon Valley and far beyond it. Most technology
@@ -1471,6 +1626,13 @@ us that the Web might teach us new ways to address these limits.” Web
 interpret what it wanted to tell us—in each and every context, be it
 financial markets or global warming. All those contexts belonged to the
 Internet now. Internet-centrism won.
+
+
+
+
+
+
+
 
 <span class="dropcap">I</span>n his 1976 book [*Crazy Talk, Stupid
 Talk*](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
