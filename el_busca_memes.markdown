@@ -1627,9 +1627,27 @@ interpret what it wanted to tell us—in each and every context, be it
 financial markets or global warming. All those contexts belonged to the
 Internet now. Internet-centrism won.
 
-
-
-
+La Web 2.0 se volvio pronto la manera preferida de explicar cualquier
+cambio que estuviera sucediendo tanto en Silicon Valley como mas alla.
+La mayoria de los analistas de tecnologia simplemente tomaron prestado
+la etiqueta Web 2.0 para explicar cualquier cosa que necesitara
+explicacion, tomando su utilidad y objetividad por sentado. "Open Source"
+nos dio "la Internet" "la Internet" nos dio "la Web 2.0", "la Web 2.0"
+nos dio "Enterprise 2.0": en esta version de la historia, Tim O'Reilly 
+es mas importante que la Union Europea. Todo lo que necesitaba
+repensarse y rehacerse: Empresas, Gobiernos, el Sistema de Salud,
+las Finanzas, la produccion fabril. Para O'Reilly, habia pocos problemas
+que no pudieran [resolverse con la Web 2.0](http://www.web2summit.com/web2008):
+"Nuestro mundo esta plagado de problemas... desde turbios mercados
+financieros hasta el calentamiento global, desde sistemas de salud
+deteriorados hasta intricadas guerras religiosas... muchos de nuestros
+sistemas mas complejos estan alcanzando sus limites. Nos sorprende
+que la Web nos enseñe nuevas maneras de abordar estos limites."
+La Web 2.0 fue una fuente de sabiduria didactica, y O'Reilly tenia
+las herramientas necesarias para interpretar que nos queria decir en
+todos los contextos, sean mercados financieros o calentamiento global.
+Todos estos contextos perteneces a Internet ahora. El Internet-centrismo 
+gano.
 
 
 
@@ -1649,6 +1667,23 @@ challenges a semantic environment, as it “establishes different purposes
 and assumptions from those we normally accept.” To argue, as some Nazis
 did, that the German soldiers ended up far more traumatized than their
 victims is crazy talk.
+
+<span class="dropcap"> E</span>n su libro de 1976 [*Charla Loca, Charla
+Estupida* ](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
+Neil Postman señalo cierto imperialismo lingüístico que impulsa
+charlas locas(Crazy talk). Para Postman, cada actividad -religion humana, la ley, 
+el matrimonio, el comercio- representa un distintivo "ambiente semantico"
+con su propio tono, propósito y estructura. La charla estupida (Stupid Talk) es 
+relativamente inofensiva; no presenta riesgo alguno hacia su ambiente
+semantico y no cruza hacia otros.  Dado que consiste mayoritariamente
+de falacias y opiniones "dadas por una persona falible sobre las observaciones
+de otra persona falible" puede ser facilmente corregida con hechos.
+Por ejemplo, decir que Tehran es la capital de Iraq es charla estupida.
+La Charla Loca, en contraste, desafia al ambiente semantico, dado que 
+"establece diferentes propósitos y conjeturas de aquellas que normalmente
+aceptariamos." Argumentar, como algunos Nazis lo hicieron, que los
+soldados Alemanes terminaron mucho mas traumatizados que sus victimas
+es Charla Loca.
 
 For Postman, one of the main tasks of language is to codify and preserve
 distinctions among different semantic environments. As he put it, “When
