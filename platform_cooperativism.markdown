@@ -91,7 +91,7 @@ que entre esos trabajos existen oportunidades innegables para
 estudiantes o para trabajadoras formadas y para quienes disponen de una
 segunda vivienda.  Ahora es más fácil para las graduadas universitarias
 encontrar algún trabajo montando los muebles o renovando la casa de
-alguien.  Las consumidoras, formadas en una aguda apreciación de los
+alguien.  Las consumidoras, formadas por una aguda apreciación de los
 bajos precios y de la "ubercomodidad"[2] por encima de todo, han dado la
 bienvenida a estos advenedizos.  Pero, ¿debemos entender la economía
 colaborativa como una señal en el camino que apunta a un futuro mejor,
@@ -145,7 +145,7 @@ Democracia Colaborativa, declaró:
 > los beneficios empresariales; está dirigida por el capital de riesgo
 > y está contribuyendo a la concentración de la riqueza en cada vez
 > menos manos.  Dondequiera que la economía tecnológica se extiende, la
-> vivienda se convierte en totalmente inaccesible.  Tenemos que revertir
+> vivienda se hace inalcanzable.  Tenemos que revertir
 > esa tendencia[9].
 
 Las ocupaciones que no pueden ser deslocalizadas --la persona que pasea
@@ -154,7 +154,7 @@ Sasha Lobo[10] y Martin Kenney llaman "capitalismo de plataforma".  Las
 baby boomers están perdiendo sectores de la economía como el transporte,
 la comida y varios otros más ante la generación del milenio, que se
 precipita con ferocidad a controlar la demanda, la oferta y el beneficio
-mediante la adición de una gruesa capa de hielo de negocios en las
+mediante la adición de una gruesa capa de negocios en las
 aplicaciones basadas en las interacciones entre usuarias.  Están
 ampliando el libre mercado desregulado a áreas de nuestras vidas que
 antes eran privadas.
