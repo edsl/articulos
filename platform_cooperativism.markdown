@@ -181,10 +181,10 @@ antes reconocer que dependen de vidas humanas explotadas a lo largo de
 sus cadenas de suministro globales, comenzando por el hardware sin el
 que toda esta economía "ligera" se hundiría en el fondo del océano.
 
-No se pueden tomar en consideración todos los apreciados dispositivos de
+No se pueden tomar en consideración los tan preciados dispositivos de
 Apple sin antes recordarnos a nosotras mismas las condiciones de trabajo
 en lo que Andrew Ross llama "fábricas suicidas de Foxconn" en Shenzhen,
-China.  O la extracción de raros minerales de la tierra en la República
+China.  O la extracción de minerales raros de la tierra en la República
 Democrática del Congo; es esencial seguir las cadenas de suministro que
 facilitan todos estos estilos de vida digitales, aparentemente limpios
 y glamorosos.
@@ -245,7 +245,7 @@ así los procesos extractivos en las interacciones sociales.  La economía
 bajo demanda indica que el trabajo digital no es un fenómeno de nicho.
 _UpWork_ (antes _ODesk_ y _Elance_) afirma que tiene unos diez millones
 de trabajadoras.  _Crowdwork_, ocho millones.  _CrowdFlower_, cinco
-millones.  En 2015, 160.000 de conductoras se encuentran en la carretera
+millones.  En 2015, 160.000 de conductoras se encontraban en la carretera
 para _Uber_, si confiamos en sus cifras[16].  _Lyft_ informa 50.000
 conductoras.  _TaskRabbit_ declara contar con 30.000[17].
 
@@ -266,7 +266,7 @@ extremas de riqueza y formas más extremas de explotación.  Estamos
 generado todas estas nuevas tecnologías como _Bitcoin_ o _Blockchain_,
 pero en realidad no nos estamos preguntando para qué estamos programando
 tales cosas"[18].  Los beneficios del capitalismo de plataforma para las
-consumidoras, propietarios y accionistas son evidentes; pero el valor
+consumidoras, propietarias y accionistas son evidentes; pero el valor
 añadido para las trabajadoras vulnerables y el valor a largo plazo para
 las consumidoras no están claros, en cualquier caso.
 
@@ -306,7 +306,7 @@ llamaran coneja.  Ella es una jefa.  El problema es que además de dueña
 de su mente lo es de la plataforma.
 
 ¿Quién va a estar dispuesto a ofrecer derechos a las empleadas, al igual
-que a todas las trabajadoras autónomas, las trabajadoras temporales
+que a todas las trabajadoras autónomas, a las trabajadoras temporales
 y por contrato?  El senador Mark Warner, de Virginia[24] y sobre todo
 el economista de Princeton Alan Krueger, entre otras, han sugerido una
 tercera categoría de trabajadoras que no es ni un contratista
@@ -314,7 +314,7 @@ independiente, ni una empleada: la trabajadora independiente[25].  Esta
 categoría de trabajadora recibiría muchas de las protecciones que van
 con el empleo.
 
-Una respuesta diferente a la pérdida de poder de negociación por el lado
+Una respuesta diferente a la pérdida de poder de negociación
 de las trabajadoras en una economía bajo demanda proviene del
 programador informático y escritor Steve Randy Waldman, quien sugirió
 que la clasificación de las contratistas independientes debe estar
@@ -365,12 +365,12 @@ sueldo fijo, de una semana de trabajo de 40 horas y con algunas
 protecciones sociales.
 
 
-### Generación de beneficios para unos pocos
+### Generación de beneficios para unas pocos
 
 El software que está impulsando la economía colaborativa está envuelto
-por un diseño de interfaz adictiva.  En la pantalla, el ícono del tamaño
-de una hormiga de un taxi acercándose a tu ubicación es tan seductor
-y peligroso como las sirenas que atraían a Ulises; es un diseño de
+por un diseño de interfaz adictiva.  En la pantalla, el ícono tamaño
+hormiga de un taxi acercándose a tu ubicación es tan seductor
+y peligroso como las sirenas que atraían a Ulises; es un diseño a
 escala. Por el lado empresarial, emprendedores e ingenieros de software
 han creado nuevos mercados. Pero, ¿es innovación o hay una fábrica
 detrás del patio de recreo? La innovación, ¿debe consistir solo en
@@ -436,7 +436,7 @@ independientes, en lugar de empleados; cuando se comprende que la
 situación de trabajador independiente anula la protección otorgada a los
 trabajadores por la Ley de Normas Equitativas de Trabajo[31], cuando
 Uber, Lyft, y Airbnb continúan llevando a cabo sus negocios en las
-ciudades que cerraron sus operaciones; entonces se entiende por qué el
+ciudades que prohibieron sus operaciones; entonces se entiende por qué el
 gobierno y/o los municipios tienen que actuar en contra de esta
 "invalidación de la ley federal"[32]. En 2015, un estudio de Princeton
 mostró que los conductores de Uber en 20 ciudades ganaban alrededor de
@@ -444,12 +444,12 @@ mostró que los conductores de Uber en 20 ciudades ganaban alrededor de
    reduce a entre 10 y 13 dólares la hora después de restar el coste de
    la gasolina, seguros, pagos por el coche y el mantenimiento del
    automóvil[33]. Los Ángeles aprobó un salario mínimo de 15 dólares la
-   hora, lo que pone a Uber en situación de violación de esa ley. Ahora,
+   hora, lo que pone a Uber en situación de violar esa ley. Ahora,
    cualquier persona con conocimientos básicos de la Ley de Normas
    Equitativas de Trabajo de 1938 diría que dichos pagos son ilegalmente
    bajos; que no cumplen con los estándares del salario mínimo.
 
-Teniendo en cuenta las significativas tasas de desgaste entre los
+Teniendo en cuenta las significativas tasas de desgaste de los
 trabajadores de Mechanical Turk y los conductores Uber (la mitad de los
 conductores de Uber no aguanta más de un año)[34], está claro que estos
 negocios, en su forma actual, no son sostenibles.
@@ -458,8 +458,9 @@ En Estados Unidos, no tratar correctamente a los trabajadores tiene un
 riesgo legal muy bajo para los propietarios de negocios. El Departamento
 de Trabajo de Estados Unidos, escaso de personal como está, es
 básicamente incapaz de perseguir a las empresas que violan la Ley
-Federal de Trabajo. E incluso en el caso poco probable de que se las
-pille, todo lo que esas empresas tienen que hacer es pagar a los
+Federal de Trabajo e incluso en el improbable caso de que sean
+descubiertas,
+todo lo que esas empresas tienen que hacer es pagar a los
 trabajadores lo que les deben.
 
 
@@ -473,10 +474,10 @@ también están presentando demandas para ser reconocidos como
 empleados[36]. En otoño de 2015, la ciudad de Seattle abrió la puerta a
 la sindicación de los conductores Uber. Y, casi al mismo tiempo, una
 coalición inusitada de startups y sindicatos publicaron un documento que
-resume las protecciones sociales para los trabajadores que son
+resume las protecciones sociales para las trabajadoras que son
 necesarias para que la economía digital prospere[37]. Pero que el
 Gobierno Federal tenga la voluntad política de introducir nuevas medidas
-de protección para los trabajadores es algo que está por verse.
+de protección para las trabajadoras es algo que está por verse.
 
 En los ámbitos local y estatal, hay en marcha algunos esfuerzos
 reguladores. En el condado de Montgomery, por ejemplo, la Asamblea
@@ -490,8 +491,7 @@ ciudad de Nueva York.
 
 Amazon se suma a la economía colaborativa
 
-Amazon.com, digamos que todavía escasamente por encima de la edad legal
-para beber, es una de las empresas más antiguas de esta economía
+Amazon.com, una compañia joven, es una de las empresas más antiguas de esta economía
 digital, y se está uniendo a la "economía colaborativa". La sección de
 libros de Amazon comenzó en 1994, pero hoy en día Amazon, no muy
 diferente de Uber, se ha convertido en modelo para un sinnúmero de otros
@@ -516,7 +516,7 @@ el trabajo a destajo tradicional de la industria del vestido, Mechanical
 Turk permite que un proyecto se divida en miles de fragmentos, que se
 asignan a los llamados crowdworkers[40]. Trabajadores novatos, a menudo
 bien formados, se están sacando entre dos y tres dólares por hora en
-este entorno. Al igual que los trabajadores migrantes o temporeros en la
+este entorno. Al igual que los trabajadores migrantes o temporales en la
 industria de la comida rápida, están trabajando largas horas, están mal
 pagados y mal tratados por sus jefes virtuales, y obtienen pocos o
 ningún beneficio.
