@@ -3,6 +3,7 @@ author: Lídia Pereyra y Rosie Gram
 title: Nota editorial
 category: [ "Sindicato del Trabajo Inmaterial #1" ]
 tag: prologo
+license: https://gnu.org/copyleft/gpl.html
 ---
 
 Welcome to the first issue of the Immaterial Labour Union Zine! And what
