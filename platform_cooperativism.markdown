@@ -7,129 +7,83 @@ license: http://endefensadelsl.org/ppl_deed_es.html
 category: [ "En Defensa del Software Libre #4" ]
 ---
 
-COOPERATIVISMO DE PLATAFORMA
 
-Desafiando la economía colaborativa corporativa
+> Adaptación de "Cooperativismo de plataforma", traducido al castellano
+> y publicado originalmente por [Dimmons](http://www.dimmons.net).
+> ["Platform Cooperativism"](missing) publicado en inglés por Fundación
+> Rosa Luxemburgo, oficina Nueva York.  Liberado bajo [Licencia de
+> Producción de Pares](http://endefensadelsl.org/ppl_deed_es.html) con
+> permiso del autor.
 
-Por Trebor Scholz
-
-
-Dimmons.net  - Investigación acción en producción procomún
-
-Internet Interdisciplinary Institute (IN3) - Universitat Oberta de Catalunya (UOC)
-
-Publicado por Dimmons - Investigación acción en producción procomún.
-Internet Interdisciplinary Institute (IN3) - Universitat Oberta de
-Catalunya (UOC)
-
-Editora: Mayo Fuster Morell
-
-Traducción al castellano: Victor Guillamon. Revisión de la traducción:
-Enric Senabre, Mayo Fuster Morell y endefensadelsl.org
-
-Dirección: Av. Carl Friedrich Gauss, 5 Parque Mediterráneo de la
-Tecnología 08860 Castelldefels (Barcelona)
-
-Correo electrónico: mfuster@uoc.edu
-
-
-             www.dimmons.net
-
-Editor de la versión en inglés: Fundación Rosa Luxemburg. Oficina de
-Nueva York.
-
-Licencia de Producción de Pares
-
-https://endefensadelsl.org/ppl_deed_es.html
-
-Trebor Scholz / Publicaciones Dimmons, Barcelona 2016
-
-
-
-
-
-Cooperativismo de plataforma
-
-Desafiando  la economía colaborativa corporativa
-
-
-
-
-
-Por Trebor Scholz
-
-
-
-
-
-Entre todos los problemas en el trabajo del siglo XXI --el auge de un
+Entre todos los problemas del trabajo del siglo XXI --el auge de un
 sector de servicios con bajos salarios, la desigualdad económica, el
-desmoronamiento de los derechos de las trabajadoras-- el principal
-problema, en realidad, es que hay muy pocas alternativas realistas.  Lo
-que ha faltado en el debate sobre el futuro del trabajo es un enfoque
-que ofrezca a la gente algo que pueda abrazar de todo corazón.  De eso
-es lo que trata este estudio.
+desmoronamiento de los derechos de las trabajadoras-- el principal es
+que hay muy pocas alternativas realistas.  Lo que ha faltado en el
+debate sobre el futuro del trabajo es un enfoque que ofrezca a la gente
+algo que pueda abrazar de todo corazón.  De eso es lo que trata este
+estudio.
 
-En primer lugar, voy a reflexionar sobre las oportunidades, riesgos
-y consecuencias de la economía colaborativa.  Utilizaré el caso de
-Amazon.com, que ha entrado con fuerza en determinada "economía
-colaborativa".  En segundo lugar, describiré el crecimiento de las
-cooperativas de plataforma y ofreceré ejemplos de plataformas existentes
-y de plataformas cooperativas imaginarias.  Lo que llamo cooperativismo
-de plataforma consiste en modelos de propiedad democráticos para
-Internet.  En tercer lugar, esbozaré diez principios para las
-plataformas de trabajo que están llevando la equidad laboral a las
-plataformas laborales.  Concluiré con reflexiones sobre posibles pasos
-que hay que seguir para este cambio de paradigma en marcha.
+En primer lugar, voy a reflexionar sobre las oportunidades, riesgos y
+consecuencias de la economía colaborativa.  Utilizaré el caso de
+Amazon.com, que ha entrado con fuerza en la "economía colaborativa".  En
+segundo lugar, describiré el crecimiento de las plataformas
+cooperativistas y ofreceré ejemplos de plataformas existentes y de
+plataformas imaginarias.  Lo que llamo _plataformas cooperativistas_
+consiste en modelos democráticos de propiedad para la Internet.  En
+tercer lugar, esbozaré diez principios para las plataformas de trabajo
+que están llevando la equidad laboral a las plataformas laborales.
+Concluiré con reflexiones sobre posibles pasos que hay que seguir para
+este movimiento en marcha.
 
-Las consecuencias de la economía colaborativa. La han llamado "economía
-de changas" (gig economy[1]), economía entre pares, _sharing economy_.
-Ha llevado un tiempo reconocer que la economía colaborativa era en
-realidad una economía de servicios bajo demanda que se dispone a obtener
-beneficios económicos de servicios que antes eran privados.  Es cierto
-que entre esos trabajos existen oportunidades innegables para
-estudiantes o para trabajadoras formadas y para quienes disponen de una
-segunda vivienda.  Ahora es más fácil para las graduadas universitarias
-encontrar algún trabajo montando los muebles o renovando la casa de
-alguien.  Las consumidoras, formadas por una aguda apreciación de los
-bajos precios y de la "ubercomodidad"[2] por encima de todo, han dado la
-bienvenida a estos advenedizos.  Pero, ¿debemos entender la economía
-colaborativa como una señal en el camino que apunta a un futuro mejor,
-más flexible, del trabajo?  ¿Qué es lo que esta economía nos trae
-realmente?
+_Las consecuencias de la economía colaborativa._ La han llamado
+"economía de changas" (gig economy[1]), la economía de pares, la
+_sharing economy_.  Ha llevado un tiempo reconocer que la _economía
+colaborativa_ era en realidad una _economía de servicios a demanda_ que
+se disponía monetizar servicios que antes eran privados.  Es cierto que
+entre esos trabajos existen oportunidades innegables para estudiantes o
+para trabajadoras formadas en búsqueda de algo estable y para quienes
+disponen de una segunda vivienda.  Ahora es más fácil para las graduadas
+universitarias encontrar algún trabajo montando los muebles o renovando
+la casa de alguien.  Las consumidoras, formadas por una aguda
+apreciación de los bajos precios y de la "uber-comodidad"[2] por encima
+de todo, han dado la bienvenida a estos advenedizos.  Pero, ¿debemos
+entender la economía colaborativa como un cartel en el camino que apunta
+a un futuro mejor, más flexible, del trabajo?  ¿Qué es lo que esta
+economía nos trae realmente?
 
-Bienvenido a las Aldeas Potemkin de la "economía colaborativa", en las
-que finalmente puedes vender la fruta de los árboles del jardín a tus
+Bienvenida a las Aldeas Potemkin de la "economía colaborativa", en las
+que finalmente puedes venderle las frutas que crecen en tu jardín a tus
 vecinas, compartir un viaje en coche, alquilar una casa de árbol en el
-bosque Redwood o visitar un KinkBnB[3]. Esa amigable comodidad supone,
-para muchas trabajadoras, un salario bajo y una trampa precaria.  Pero
-tú, por el contrario, puedes escuchar tu propia cuenta de _Spotify_ en
-un taxi de _Uber_.  Ya no tienes que sufrir lo que el economista George
-Akerlof[4] describió como un "mercado de limones"; estas nuevas
+bosque _Redwood_ o visitar un _KinkBnB_[3].  Esta amigable comodidad
+supone para muchas trabajadoras un salario bajo y una trampa precaria.
+Pero tú, por el contrario, puedes escuchar tu propia cuenta de _Spotify_
+en un taxi de _Uber_.  Ya no tienes que sufrir lo que el economista
+George Akerlof[4] denominó "mercado de limones"; estas nuevas
 plataformas están introduciendo nuevos pesos y contrapesos.  Has sido
-promovida a una gerencia media, tienes derecho a despedir a tu
+promovida a la gerencia media, tienes derecho a despedir a tu
 conductora.  Hay empresas que hasta han encontrado una manera de sacar
 valor financiero de tus interacciones con los objetos cotidianos,
-reclutándolos como informantes para un capitalismo de vigilancia.
+reclutándolos como informantes para el capitalismo de vigilancia.
 
-Compañías laborales tan amantes de lo _cool_ como _Handy_, _Postmates_
-y _Uber_ celebran su momento Andy Warhol, sus quince mil millones de
-dólares de fama.  Se deleitan por el hecho de haber puesto en marcha sus
-monopolios de plataforma en ausencia de una infraestructura física
+Compañías laborales tan amantes de lo _cool_ como _Handy_, _Postmates_ y
+_Uber_ celebran su momento warholiano, sus quince mil millones de
+dólares de fama.  Se deleitan en el hecho de haber puesto en marcha sus
+plataformas monopólicas en ausencia de una infraestructura física
 propia.  Al igual que _AOL_ y _AT&T_ no crearon Internet, ni Mitt
 Romney[5] construyó su negocio por sí mismo[6], las empresas de la
-economía bajo demanda tampoco construyeron el suyo.  Se están yendo con
-tu coche, tu departamento, tu trabajo, tus emociones y, esto es
-importante, con tu tiempo.  Son empresas de logística que requieren que
-las participantes paguen al intermediario.  Nos vamos transformando en
-activos; se trata de la financiarización de la vida cotidiana 3.0.
+economía a demanda tampoco construyeron su imperio.  Están poniendo a
+producir _tu_ coche, _tu_ departamento, _tu_ trabajo, _tus_ emociones y,
+más importante, _tu_ tiempo.  Son empresas de logística que requieren
+que las participantes paguen al intermediario.  Nos estamos
+transformando en activos; se trata de la financiarización de la vida
+cotidiana 3.0.
 
 En _What's Yours is Mine_ [Lo que es tuyo es mío], el investigador
 canadiense Tom Slee lo resume así:
 
-> Muchas personas bien intencionadas sufren de una fe fuera de lugar en
-> las capacidades intrínsecas de Internet para promover la confianza
-> y una comunidad igualitaria y así, sin saberlo, se van convirtiendo en
+> Muchas personas bien intencionadas sufren de una fé errónea en las
+> capacidades intrínsecas de Internet para promover la confianza y una
+> comunidad igualitaria y así, sin saberlo, se van convirtiendo en
 > cómplices de esta acumulación de fortuna privada, y de la construcción
 > de nuevas y explotadoras formas de empleo[7].
 
@@ -139,87 +93,87 @@ Democracia Colaborativa, declaró:
 > La propiedad de las instituciones de las que dependemos para vivir,
 > para comer, para trabajar, se está concentrando cada vez más.  Sin la
 > democratización de nuestra economía, sencillamente no tendremos el
-> tipo de sociedad que queremos tener, o que aspiramos a tener.
-> Simplemente no vamos a tener una democracia.  ¡Internet, de hecho no
-> está ayudando!  Está alimentada por el pensamiento a corto plazo, por
-> los beneficios empresariales; está dirigida por el capital de riesgo
-> y está contribuyendo a la concentración de la riqueza en cada vez
-> menos manos.  Dondequiera que la economía tecnológica se extiende, la
-> vivienda se hace inalcanzable.  Tenemos que revertir
-> esa tendencia[9].
+> tipo de sociedad que queremos tener, o que creemos tener.  Simplemente
+> no vamos a ser una democracia.  ¡De hecho, la Internet no está
+> ayudando!  Está alimentada por el pensamiento cortoplacista, por el
+> lucro empresarial; está dirigida por el capital de riesgo y está
+> contribuyendo a la concentración de la riqueza en cada vez menos
+> manos.  Dondequiera que la economía tecnológica se extiende, la
+> vivienda se vuelve totalmente impagable.  Tenemos que revertir esa
+> tendencia[9].
 
-Las ocupaciones que no pueden ser deslocalizadas --la persona que pasea
-a la mascota o la que limpia en casa-- se están subsumiendo bajo lo que
-Sasha Lobo[10] y Martin Kenney llaman "capitalismo de plataforma".  Las
-baby boomers están perdiendo sectores de la economía como el transporte,
-la comida y varios otros más ante la generación del milenio, que se
-precipita con ferocidad a controlar la demanda, la oferta y el beneficio
-mediante la adición de una gruesa capa de negocios en las
-aplicaciones basadas en las interacciones entre usuarias.  Están
-ampliando el libre mercado desregulado a áreas de nuestras vidas que
-antes eran privadas.
+Las ocupaciones que no pueden ser deslocalizadas --la paseadoras de
+mascotas o la que hace la limpieza doméstica-- se están subsumiendo bajo
+lo que Sasha Lobo[10] y Martin Kenney llaman "capitalismo de
+plataforma".  Las _baby boomers_ están perdiendo sectores de la economía
+como el transporte, la comida y varios otros más ante la generación del
+milenio, que se precipita con ferocidad a controlar la demanda, la
+oferta y el lucro al agregar una gruesa capa de negocio sobre las
+interacciones entre usuarias a través de aplicaciones.  Están ampliando
+el libre mercado desregulado sobre áreas de nuestras vidas que antes
+eran privadas.
 
 La "economía colaborativa" se presenta como un heraldo de la sociedad
 post-trabajo; el camino hacia el capitalismo ecológicamente sostenible
 en que _Google_ va a vencer a la misma muerte y tú no tienes que
-preocuparte de nada en absoluto.  Con el lema "lo que es mío es tuyo",
-este caballo de Troya de la economía colaborativa nos libera de las
-formas jurásicas de mano de obra mientras desencadena una máquina de
-represión sindical colosal; pasando por encima de las personas de mayor
-edad.  El autor alemán Byung-Chul enmarca el momento actual como
-"sociedad del cansancio"[11].  Vivimos, escribe, en una sociedad
+preocuparte por absolutamente nada.  Bajo el lema "lo que es mío es
+tuyo", el caballo de Troya de la economía colaborativa nos libera de las
+formas jurásicas del trabajo mientras desencadena una maquinaria colosal
+de represión sindical; pasando por encima de las personas de mayor edad
+en especial.  El autor alemán Byung-Chul Han enmarca el momento actual
+como "sociedad de fatiga"[11].  Vivimos, escribe, en una sociedad
 orientada a los logros que es supuestamente libre, determinada por el
-"sí se puede".  Inicialmente, eso crea una sensación de libertad, pero
-pronto se acompaña de ansiedad, auto-explotación y depresión.
+"sí se puede".  Al principio esto crea una sensación de libertad, pero
+que pronto viene acompañada de ansiedad, auto-explotación y depresión.
 
 Es importante señalar que no podemos iniciar este debate sin antes
 reconocer que la "economía colaborativa" no es una especie de cubo
-plastificado en el "espacio cibernético"; es solo otro reflejo del
-capitalismo y del atlas masivo de las prácticas de trabajo digitales. En
-consecuencia, no podemos hablar sobre las plataformas de trabajo sin
-antes reconocer que dependen de vidas humanas explotadas a lo largo de
-sus cadenas de suministro globales, comenzando por el hardware sin el
-que toda esta economía "ligera" se hundiría en el fondo del océano.
+plastificado en el "ciberespacio"; es solo otro reflejo del capitalismo
+y del atlas masivo de las prácticas del trabajo digital. En consecuencia
+no podemos tener una discusión sobre las plataformas de trabajo sin
+antes reconocer que dependen de la explotación de vidas humanas a lo
+largo y ancho de las cadenas globales de suministro, comenzando por el
+hardware sin el que toda esta economía "ligera" se hundiría en el fondo
+del océano.
 
-No se pueden tomar en consideración los tan preciados dispositivos de
-Apple sin antes recordarnos a nosotras mismas las condiciones de trabajo
-en lo que Andrew Ross llama "fábricas suicidas de Foxconn" en Shenzhen,
-China.  O la extracción de minerales raros de la tierra en la República
+No se pueden tomar en consideración los tan amados dispositivos de
+_Apple_ sin antes recordarnos a nosotras mismas las condiciones de
+trabajo en lo que Andrew Ross llama "fábricas suicidas de Foxconn" en
+Shenzhen, China.  O la extracción de minerales raros en la República
 Democrática del Congo; es esencial seguir las cadenas de suministro que
-facilitan todos estos estilos de vida digitales, aparentemente limpios
-y glamorosos.
+facilitan todos estos estilos de vida digitales, aparentemente limpios y
+glamorosos.
 
 Hay una masa de cuerpos sin nombre, escondidos tras la pantalla,
-expuestos a vigilancia en el lugar de trabajo, una multitud desplumada,
-despojada de su salario y que constituye un software propietario.  Como
-el activista del software libre Micky Metts advirtió: cuando se
-construyen plataformas, no se puede construir la libertad sobre la
-esclavitud de otra persona"[12].
+expuesta a vigilancia laboral, el desplume colectivo, robo de salarios y
+al software privativo.  Como el activista del software libre Micky Metts
+advertía: "cuando se construyen plataformas, no se puede construir la
+libertad sobre la esclavitud de otra persona"[12].
 
-Al responder a una crítica política de la economía bajo demanda, algunas
-académicas suponen que, bueno, los terribles resultados del capitalismo
-sin restricciones se entienden bien; toda esa perorata no necesita ser
-afirmada otra vez.  Pero tal vez, según McKenzie Wark: "Esto no es
+Al responder a una crítica política de la economía a demanda, algunas
+académicas postulan que los terribles resultados de un capitalismo sin
+restricciones están bien entendidos; toda esa perorata no necesita ser
+afirmada de vuelta.  Pero tal vez, como dijo McKenzie Wark: "Esto no es
 capitalismo, esto es algo peor".  Sugirió que "el modo de producción en
-el que parecemos estar entrando es uno que no es propiamente el
-capitalismo como se ha descrito clásicamente".[13]
+el que parecemos estar entrando no es tanto el capitalismo como ha sido
+descrito clásicamente".[13]
 
 Esto no es simplemente una continuación del capitalismo pre-digital tal
-como lo conocemos, hay notables discontinuidades, un nuevo nivel de
-explotación y una concentración de riqueza para la que se acuñó el
-término "desplumar a la multitud"[14].  Desplumar a la multitud es una
+como lo conocemos, sino que hay notables discontinuidades, un nuevo
+nivel de explotación y una concentración de riqueza para la que se acuñé
+el término "desplume de multitudes"[14].  Desplumar a la multitud es una
 nueva forma de explotación, puesta en marcha por cuatro o cinco
 advenedizos, para disponer de una reserva mundial de millones de
 trabajadoras en tiempo real.
 
 La situación actual necesita ser discutida en el contexto de la
 intensificación de las formas de explotación en línea y también de
-antiguas economías de trabajo invisible y no remunerado.  Por ejemplo si
-pensamos en la campaña de Silva Frederici, Selma James y Mariarosa
-Dalla Costa sobre los "salarios de las tareas del hogar" y, en la década
-de 1980, en la teórica de la cultura Donna Harraway discutiendo las
-maneras en que las tecnologías emergentes de la comunicación permiten
-que el "trabajo a domicilio" se difunda por toda la sociedad.
+antiguas economías de trabajo invisible y no remunerado.  Pensemos en la
+campaña "salario para el trabajo doméstico" de Silva Frederici, Selma
+James y Mariarosa Dalla Costa y en la década de 1980, en la teórica de
+la cultura Donna Haraway discutiendo las maneras en que las tecnologías
+de la comunicación emergentes permiten que el "trabajo domiciliario" se
+disemine por toda la sociedad.
 
 
 La economía colaborativa se detiene
