@@ -179,29 +179,29 @@ disemine por toda la sociedad.
 La economía colaborativa se detiene
 -----------------------------------
 
-Dentro de veinte o treinta años, cuando nos enfrentemos posiblemente al
-final de las profesiones y más puestos de trabajo de la gente sean
-"uberizados", bien podemos despertar y preguntarnos por qué no
-protestamos con más fuerza contra aquellos cambios.  A pesar de todas
-las exquisitas ventajas de la "economía colaborativa" hecha en casa,
-podemos terminar compartiendo las sobras, no la economía.  Podemos
-sentir remordimientos por no haber buscado alternativas anteriormente.
-Como era de esperar, no podemos cambiar lo que no entendemos.  Por eso
-pregunto, ¿qué significa la "economía colaborativa"?
+Dentro de veinte o treinta años, cuando posiblemente nos estemos
+enfrentando al final de las profesiones y aun más puestos de trabajo de
+la gente sean "uberizados", bien podríamos despertar y preguntarnos por
+qué no protestamos con más fuerza contra estos cambios.  A pesar de
+todas las exquisitas ventajas de la "economía colaborativa", podríamos
+terminar compartiendo las sobras, no la economía.  Podríamos sentir
+remordimientos por no haber buscado alternativas anteriormente.  Como es
+de esperar, no podemos cambiar lo que no entendemos.  Por eso pregunto,
+¿qué significa la "economía colaborativa"?
 
 
 ### Todo Uber tiene su Unter[15]
 
 La economía colaborativa indica una ofensiva a gran escala, global, en
 favor de "constructores de puentes digitales" que se insertan entre
-quienes ofrecen servicios y quienes están en busca de estos, encajando
-así los procesos extractivos en las interacciones sociales.  La economía
-bajo demanda indica que el trabajo digital no es un fenómeno de nicho.
-_UpWork_ (antes _ODesk_ y _Elance_) afirma que tiene unos diez millones
-de trabajadoras.  _Crowdwork_, ocho millones.  _CrowdFlower_, cinco
-millones.  En 2015, 160.000 de conductoras se encontraban en la carretera
-para _Uber_, si confiamos en sus cifras[16].  _Lyft_ informa 50.000
-conductoras.  _TaskRabbit_ declara contar con 30.000[17].
+quienes ofrecen servicios y quienes están en su búsqueda, encajando
+procesos extractivos en interacciones sociales.  La economía a demanda
+indica que el trabajo digital no es un fenómeno de nicho.  _UpWork_
+(antes _ODesk_ y _Elance_) afirma que tiene unos diez millones de
+trabajadoras.  _Crowdwork_, ocho millones.  _CrowdFlower_, cinco
+millones.  En 2015, 160.000 conductoras salen a las calles para _Uber_,
+si confiamos en sus cifras[16].  _Lyft_ informa 50.000 conductoras.
+_TaskRabbit_ declara contar con 30.000 trabajadoras[17].
 
 En Alemania, los sindicatos como _ver.di_ concentran sus esfuerzos en la
 defensa de los derechos de las empleadas, mientras que en Estados Unidos
@@ -211,82 +211,81 @@ entonces, es: ¿cómo podemos mejorar las condiciones de un tercio de la
 fuerza de trabajo que no está empleada de modo tradicional?
 
 Los modelos de negocio extractivos de hoy, basados en plataformas, hacen
-que algunos de los anteriores esquemas monetarios de Internet parezcan
-experimentos socialistas.  Douglas Rushkoff, autor de _Throwing Stones
-at the Google Bus_ (Tirando piedras al autobús de Google), señala que
-"en lugar de crear empresas verdaderamente distributivas solo estamos
-dando esteroides a la economía industrial, creando divisiones más
-extremas de riqueza y formas más extremas de explotación.  Estamos
-generado todas estas nuevas tecnologías como _Bitcoin_ o _Blockchain_,
-pero en realidad no nos estamos preguntando para qué estamos programando
-tales cosas"[18].  Los beneficios del capitalismo de plataforma para las
-consumidoras, propietarias y accionistas son evidentes; pero el valor
-añadido para las trabajadoras vulnerables y el valor a largo plazo para
-las consumidoras no están claros, en cualquier caso.
+que algunos de los esquemas monetarios más tempranos en la Internet
+parezcan experimentos socialistas.  Douglas Rushkoff, autor de _Throwing
+Stones at the Google Bus_ \[Tirando piedras al autobús de Google\],
+señala que "en lugar de crear empresas verdaderamente distributivas solo
+estamos dándole esteroides a la economía industrial, creando brechas de
+riqueza y formas de explotación cada vez más extremas.  Estamos
+generando todas estas nuevas tecnologías como el _Bitcoin_ o la
+_Blockchain_, pero en realidad no nos estamos preguntando para qué
+estamos programando estas cosas"[18].  Los beneficios del capitalismo de
+plataforma para las consumidoras, propietarias y accionistas son
+evidentes; pero el valor añadido para las trabajadoras vulnerables y el
+valor a largo plazo para las consumidoras no están claros en el mejor de
+los casos.
 
 
 ### Las nuevas dependencias y el nuevo dominio
 
-Se trata del cambio, por parte de la empleada, de tener su declaración
-de ingresos y una semana laboral de 40 horas, pasando por una
-trabajadora eventual, a la _freelance_ o contratista independiente, lo
-que también se conoce a veces como 1099[20] o trabajadora de
-"changas"[21].  En el proceso, las trabajadoras están perdiendo el
-salario mínimo, las horas extraordinarias y las protecciones que tenían
-a través de leyes contra la discriminación en el empleo.  Asimismo, los
-empleadores no tienen que contribuir al sistema de asistencia médica, ni
-al seguro de desempleo, ni al seguro contra accidentes, ni a los pagos
-de la seguridad social de sus trabajadoras.
+Se trata del cambio de la empleada, con resumen de sueldo y semana
+laboral de 40 horas, a una trabajadora más contingente, _freelance_ o
+contratista independiente, lo que también se conoce a veces como
+1099[20] o trabajadora de "changas"[21].  En el proceso, las
+trabajadoras están perdiendo el salario mínimo, las horas
+extraordinarias y las protecciones legales contra la discriminación en
+el empleo.  Asimismo, los empleadores no tienen que contribuir al
+sistema de asistencia médica, ni al seguro de desempleo, ni al seguro
+contra accidentes, ni a la jubilación de sus trabajadoras.
 
 "Mientras que el empleo tradicional era como el matrimonio --escribe el
 jurista Frank Pasquale--, con las dos partes comprometiéndose a un
-proyecto conjunto a más largo plazo, la mano de obra digitalizada busca
-una serie de levantes"[22].  Mitos sobre el empleo que se proyectan
-enérgicamente sugieren que trabajar como empleada significa que debes
-renunciar a toda la flexibilidad y que trabajar por tu cuenta, de alguna
-manera, significa inherentemente que tu trabajo es flexible.  Sin
-embargo, esta "flexibilidad innata" de las trabajadoras independientes
-de bajos ingresos se debe poner en duda, debido a que las trabajadoras
-no existen en el vacío; también se tienen que adaptar a los horarios de
-sus jefes virtuales.
+proyecto conjunto a más largo plazo, la mano de obra digitalizada está
+en busca una serie de levantes"[22].  Estos mitos sobre el empleo
+proyectados enérgicamente sugieren que trabajar como empleada significa
+que debes renunciar a toda la flexibilidad y que trabajar por tu cuenta,
+de alguna manera, significa inherentemente que tu trabajo es flexible.
+Sin embargo, esta "flexibilidad innata" de las trabajadoras
+independientes de bajos ingresos debe ponerse en duda, porque las
+trabajadoras no existen en el vacío; también se tienen que adaptar a los
+horarios de sus jefes virtuales.
 
 Usando el lenguaje de la iniciativa empresarial, la flexibilidad, la
 autonomía y la elección, la carga de los mayores riesgos de la vida: el
-desempleo, la enfermedad y la vejez, se han puesto sobre los hombros de
-las trabajadoras.  ¡Hay propietarios de plataformas que se refieren
-a las trabajadoras como "conejas", "turcas" o proveedoras!  Me pregunto
+desempleo, la enfermedad y la vejez, han sido puestos sobre los hombros
+de las trabajadoras.  ¡Hay propietarios de plataformas que se refieren a
+las trabajadoras como "conejas", "turcas" o "proveedoras"!  Me pregunto
 si Leah Busque, CEO de _TaskRabbit_[23], se sentiría insultada si la
-llamaran coneja.  Ella es una jefa.  El problema es que además de dueña
-de su mente lo es de la plataforma.
+llamaran coneja.  Ella es una jefa.  El problema es que es dueña de su
+mente y de la plataforma.
 
-¿Quién va a estar dispuesto a ofrecer derechos a las empleadas, al igual
-que a todas las trabajadoras autónomas, a las trabajadoras temporales
-y por contrato?  El senador Mark Warner, de Virginia[24] y sobre todo
-el economista de Princeton Alan Krueger, entre otras, han sugerido una
-tercera categoría de trabajadoras que no es ni un contratista
-independiente, ni una empleada: la trabajadora independiente[25].  Esta
-categoría de trabajadora recibiría muchas de las protecciones que van
-con el empleo.
+¿Quién va a estar dispuesto a ofrecer derechos laborales a todas las
+trabajadoras autónomas, a las temporales y por contrato?  El senador
+Mark Warner, de Virginia[24] y sobre todo el economista de Princeton
+Alan Krueger, entre otras, han sugerido una tercera categoría de
+trabajadoras que no es ni un contratista independiente, ni una empleada:
+la trabajadora independiente[25].  Esta categoría de trabajadora
+recibiría muchas de las protecciones laborales tradicionales.
 
-Una respuesta diferente a la pérdida de poder de negociación
-de las trabajadoras en una economía bajo demanda proviene del
-programador informático y escritor Steve Randy Waldman, quien sugirió
-que la clasificación de las contratistas independientes debe estar
-subordinada a los requisitos de que las trabajadoras sean
-"multi-hogar"[26], es decir, que trabajen usando varias plataformas
-y por lo tanto evitando las trampas de plataformas individuales,
-dominantes, como Uber.  Waldman entiende el _multi-homing_ como poder de
-negociación cuando se trata de mitigar el poder de los monopolios[27].
+Una respuesta diferente a la pérdida de poder de negociación de las
+trabajadoras en la economía a demanda proviene del programador
+informático y escritor Steve Randy Waldman, quien sugirió que la
+clasificación de las contratistas independientes debe estar subordinada
+a los requisitos de que las trabajadoras sean "multi-hogar"[26], es
+decir, que trabajen usando varias plataformas y por lo tanto evitando
+las trampas de plataformas individuales, dominantes, como _Uber_.
+Waldman entiende el _multi-homing_ como poder de negociación cuando se
+trata de mitigar el poder de los monopolios[27].
 
-La economía colaborativa es "reaganismo" por otros medios. Retrocediendo
-en el tiempo, mi argumentación es que hay una conexión entre los efectos
-de la "economía colaborativa" y las deliberadas ondas de choque de
-austeridad que siguieron a la crisis financiera en 2008.  Los tecnólogos
-multimillonarios saltaron de cabeza, cabalgando a lomos de las que
-buscan desesperadamente trabajo, no solo aumentando así la desigualdad,
-sino también la reestructuración de la economía de una manera que hace
-que esta nueva forma de trabajar, privadas de todos los derechos
-laborales, sea vivible, sobrevivible o, como ellos dirían: "sostenible".
+_La economía colaborativa es reaganismo por otros medios._
+Retrocediendo en el tiempo, mi argumentación es que hay una conexión
+entre los efectos de la "economía colaborativa" y los deliberados
+_shocks_ de austeridad que siguieron a la crisis financiera en 2008.
+Los tecnólogos multimillonarios saltaron de cabeza, cabalgando a lomos
+de las que buscan desesperadamente trabajo, no solo aumentando así la
+desigualdad, sino también reestructurando la economía de manera que esta
+nueva forma de trabajar, privadas de todos los derechos laborales, sea
+vivible, sobrevivible o, como ellos dirían: "sostenible".
 
 La "economía colaborativa" surgió a partir de la estirpe de Reagan
 y Thatcher, que en la década de 1980 no solo acabaron con las huelgas de
