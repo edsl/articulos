@@ -392,151 +392,133 @@ ley.  Ahora, cualquier persona con conocimientos básicos de la _Fair
 Labor Standards Act_ de 1938 diría que tales salarios son ilegalmente
 bajos; que no cumplen con los estándares del salario mínimo.
 
-Teniendo en cuenta las significativas tasas de desgaste de los
-trabajadores de Mechanical Turk y los conductores Uber (la mitad de los
-conductores de Uber no aguanta más de un año)[34], está claro que estos
+Si tomamos en cuenta las significativas tasas de desgaste de las
+trabajadoras de _Mechanical Turk_ y las conductoras de _Uber_ (la mitad
+de las cuales no aguanta más de un año)[34], está claro que estos
 negocios, en su forma actual, no son sostenibles.
 
-En Estados Unidos, no tratar correctamente a los trabajadores tiene un
-riesgo legal muy bajo para los propietarios de negocios. El Departamento
-de Trabajo de Estados Unidos, escaso de personal como está, es
-básicamente incapaz de perseguir a las empresas que violan la Ley
-Federal de Trabajo e incluso en el improbable caso de que sean
-descubiertas,
-todo lo que esas empresas tienen que hacer es pagar a los
-trabajadores lo que les deben.
+En Estados Unidos, no respetar los derechos de las trabajadoras tiene un
+riesgo legal muy bajo para los patrones.  El Departamento de Trabajo de
+Estados Unidos, estratégicamente escaso de personal, es básicamente
+incapaz de perseguir a las empresas que violan la Ley Federal de Trabajo
+e incluso en el improbable caso de que sean descubiertas, todo lo que
+tienen que hacer es pagar a las trabajadoras lo que les deben.
 
-
-
-
-
-Hay un poco de esperanza. En una sentencia reciente, un juez federal
-dictaminó que un conductor Uber era un empleado y no un trabajador
-independiente, por ejemplo[35]. Y los trabajadores LYFT e incluso Yelp
-también están presentando demandas para ser reconocidos como
-empleados[36]. En otoño de 2015, la ciudad de Seattle abrió la puerta a
-la sindicación de los conductores Uber. Y, casi al mismo tiempo, una
-coalición inusitada de startups y sindicatos publicaron un documento que
-resume las protecciones sociales para las trabajadoras que son
-necesarias para que la economía digital prospere[37]. Pero que el
+Queda algo de esperanza.  En una sentencia reciente, un juez federal
+dictaminó que una conductora _Uber_ era una empleada y no una
+trabajadora independiente[35].  Y las trabajadoras de _Lyft_ e incluso
+_Yelp_ también están presentando demandas para ser reconocidas como
+tales[36].  En otoño de 2015, la ciudad de Seattle abrió la puerta para
+la sindicalización de las conductoras de _Uber_.  Y casi al mismo
+tiempo, una inusitada coalición de _startups_ y sindicatos publicaron un
+documento que resume las protecciones sociales de las trabajadoras que
+son necesarias para que la economía digital prospere[37].  Pero que el
 Gobierno Federal tenga la voluntad política de introducir nuevas medidas
 de protección para las trabajadoras es algo que está por verse.
 
-En los ámbitos local y estatal, hay en marcha algunos esfuerzos
-reguladores. En el condado de Montgomery, por ejemplo, la Asamblea
-General de Maryland ha decidido regular en relación a Uber y a Lyft
-mediante la imposición de una tasa de 0,25 dólares por cada viaje con
-esas empresas. Los ingresos se utilizarán para ofrecer servicios de taxi
-más accesibles para las personas mayores que cumplan los requisitos y
-para los residentes con ingresos bajos[38]. El alcalde De Blasio está
-trabajando para frenar el tamaño de la flota de Uber en las calles de la
-ciudad de Nueva York.
-
-Amazon se suma a la economía colaborativa
-
-Amazon.com, una compañia joven, es una de las empresas más antiguas de esta economía
-digital, y se está uniendo a la "economía colaborativa". La sección de
-libros de Amazon comenzó en 1994, pero hoy en día Amazon, no muy
-diferente de Uber, se ha convertido en modelo para un sinnúmero de otros
-negocios. El genio cruel está fuera de la botella, la lógica de negocio
-de los sistemas de crowdsourcing como Amazon Mechanical Turk ahora está
-siendo adaptada por empresas como CrowdFlower, 99Designs y cientos de
-otras. Amazon se insertó en la economía compartiendo con empresas como
-Flex, un servicio de entrega basado en el crowdsourcing que utiliza a
-gente corriente, no a carteros profesionales, para la entrega de
-paquetes[39]. También inició HomeServices, que sitúa a la compañía en el
-centro cuando se solicita un electricista o fontanero, y
-HandMade-at-Amazon, que compite directamente con Etsy.
+A nivel local y provincial, se encuentran en marcha algunos esfuerzos
+reguladores.  En el condado de Montgomery, por ejemplo, la Asamblea
+General de Maryland ha decidido regular a _Uber_ y _Lyft_ con una tasa
+de \$0,25 USD por cada viaje.  Los ingresos se utilizarán para ofrecer
+servicios de transporte más accesible para las personas mayores que
+cumplan los requisitos y para las residentes con ingresos bajos[38].  El
+alcalde De Blasio está trabajando para frenar el tamaño de la flota de
+_Uber_ en las calles de la ciudad de Nueva York.
 
 
+## Amazon se suma a la economía colaborativa
 
+_Amazon.com_, aun debajo de la edad legal para beber, es una de las
+empresas más antiguas de esta economía digital y se está uniendo a la
+"economía colaborativa".  La sección de libros de _Amazon_ comenzó en
+1994 pero, como _Uber_, hoy en día se ha convertido en una plantilla
+para un sinnúmero de otros negocios.  El cruel genio está fuera de la
+botella, la lógica de negocio de los sistemas de _crowdsourcing_ como
+_Amazon Mechanical Turk_ está siendo adaptada por empresas como
+_CrowdFlower_, _99Designs_ y cientos de otras.  _Amazon_ se insertó en
+la economía colaborativa con empresas como _Flex_, un servicio de
+entrega basado en el _crowdsourcing_ que utiliza a gente corriente, no a
+las carteras habituales, para la entrega de paquetes[39].  También
+inició _HomeServices_, que sitúa a la compañía como intermediaria de
+electricistas o plomeras y _HandMade-at-Amazon_, que compite
+directamente con _Etsy_.
 
+Desde 2005, _Amazon_ gestiona una empresa de intermediación laboral en
+línea llamada _Amazon Mechanical Turk_, en la que las trabajadoras
+pueden ingresar y elegir entre largas listas de tareas.  Al igual que en
+el trabajo a destajo tradicional de la industria de la indumentaria,
+_Mechanical Turk_ permite que un proyecto se divida en miles de
+fragmentos, que se asignan a las llamadas _crowd workers_[40].  Estas
+trabajadoras novatas, a menudo bien formadas, están ganando entre \$2 y
+\$3 USD por hora en este entorno.  Al igual que las trabajadoras
+migrantes o temporales en la industria de la comida rápida, están
+trabajando largas horas, siendo mal pagadas y maltratadas por sus jefes
+virtuales y obtienen poco o ningún beneficio social.
 
-Desde 2005, Amazon gestiona una empresa de intermediación laboral en
-línea llamada Amazon Mechanical Turk, en la que los trabajadores pueden
-iniciar sesión y escoger entre largas listas de tareas. Al igual que en
-el trabajo a destajo tradicional de la industria del vestido, Mechanical
-Turk permite que un proyecto se divida en miles de fragmentos, que se
-asignan a los llamados crowdworkers[40]. Trabajadores novatos, a menudo
-bien formados, se están sacando entre dos y tres dólares por hora en
-este entorno. Al igual que los trabajadores migrantes o temporales en la
-industria de la comida rápida, están trabajando largas horas, están mal
-pagados y mal tratados por sus jefes virtuales, y obtienen pocos o
-ningún beneficio.
+Se podría pensar que en un país rico y democrático como Estados Unidos,
+las trabajadoras estarían protegidas legalmente contra tales abusos y
+que operaciones como las de _Uber_ serían desmanteladas de inmediato.
+Fuimos testigas de cómo unos funcionarios parisinos imputaban a dos
+ejecutivos de _Uber_[41] y de cómo ciudades como Río de Janeiro están
+prohibiendo a la empresa y haciendo cumplir esta legislación[42].  En
+Estados Unidos no se hace mucho contra esas empresas que desobedecen las
+leyes federales y los reglamentos municipales.
 
-
-
-
-
-Uno podría pensar que en un país rico y democrático como Estados Unidos,
-los trabajadores estarían protegidos legalmente contra tal abuso y que
-operaciones como las de Uber serían atajadas de inmediato. Hemos sabido
-de cómo en París unos funcionarios imputaban a dos ejecutivos de
-Uber[41] y de cómo ciudades como Río de Janeiro están prohibiendo la
-empresa y hacen cumplir la legislación[42]. En Estados Unidos no se hace
-mucho ante esas empresas que desobedecen las leyes federales y los
-reglamentos municipales.
-
-
-
-
-
-El robo de salarios, por ejemplo, es un hecho cotidiano en Amazon
-Mechanical Turk, que tolera explícitamente esta práctica. Los usuarios
+El robo de salarios, por ejemplo, es un hecho cotidiano en _Amazon
+Mechanical Turk_, que tolera explícitamente esta práctica.  Los usuarios
 solicitantes pueden rechazar un trabajo hecho correctamente y evitar el
-pago. El objetivo de la plataforma, su lógica sistémica, se expresa a
+pago.  El objetivo de la plataforma, su lógica sistémica, se expresa a
 través de su arquitectura y diseño, así como en sus condiciones de uso.
-El robo de salarios es una característica, no un error.
+El robo de salarios es una característica, no un _bug_.
 
-Amazon.com supone de hecho un buen ejemplo; es parte del monocultivo de
-grandes empresas, de capital abierto, que maximizan los beneficios con
-la misión de crear rentabilidad para los accionistas. Es el deber
+_Amazon.com_ supone de hecho un buen ejemplo; es parte del monocultivo
+de grandes empresas que cotizan en bolsa y que maximizan los beneficios
+con la misión de crear rentabilidad para sus accionistas.  Es el deber
 fiduciario de tales empresas el de crear cada vez más valor para los
 accionistas, para crecer y servir a los propietarios de la plataforma.
 
-La "ubercomodidad", la rapidez, el precio y el dominio general de Amazon
-hace que resulte difícil para nosotros no cerrar los ojos ante el hecho
-de que a la sombra de nuestra comodidad hay importantes costes sociales
-para los trabajadores. En uno de los almacenes de Amazon en Alemania,
-por ejemplo, la empresa monitorizó a los trabajadores de logística y los
-reprendió incluso por sus períodos más cortos de inactividad con los
-denominados informes de inactividad. Las tecnologías de vigilancia y los
-supervisores mantienen un registro hasta de las charlas de uno o dos
-minutos entre dos trabajadores, y de las ausencias más prolongadas en el
-baño[43]. Después de dos digresiones así, de pausas de entre uno y nueve
-minutos, los trabajadores pueden ser despedidos. Y, por supuesto, eso no
-solo está pasando en "centros de cumplimiento" de Amazon en Alemania. Es
-la lógica taylorista llevada a tal extremo que ni siquiera tiene sentido
-empresarial. Es una absoluta densificación del trabajo, tal como ha
-expuesto la investigadora del trabajo Ursula Huws[44]. Además, el
-Tribunal Supremo de Estados Unidos emitió un fallo que indica que no es
-necesario compensar el control de seguridad obligatorio de los
-trabajadores que salen de estos almacenes como horas extraordinarias, a
-pesar del hecho de que dichos trabajadores tienen que esperar en esa
-cola en cualquier lugar entre 30 y 40 minutos todos los días[45]. La
-legislación favorece a las empresas de capital abierto[46].
+La "uber-comodidad", la rapidez, el precio y el dominio en general de
+_Amazon_ hace que resulte difícil para nosotras hacer ojos ciegos ante
+el hecho de que a la sombra de nuestra comodidad hay importantes costes
+sociales para las trabajadoras.  En uno de los almacenes de _Amazon_ en
+Alemania, por ejemplo, la empresa monitorizó a las trabajadoras de
+logística y las reprendió incluso por sus períodos más cortos de
+inactividad con los denominados informes de inactividad.  Las
+tecnologías de vigilancia y los supervisores mantienen un registro
+incluyendo las charlas de uno o dos minutos entre dos trabajadoras y de
+las ausencias prolongadas en el baño[43].  Después de dos digresiones
+así, de pausas de entre uno y nueve minutos, las trabajadoras pueden ser
+despedidas.  Y por supuesto, esto no solo está pasando en "centros de
+cumplimiento" de _Amazon_ en Alemania.  Es la lógica taylorista llevada
+a tal extremo que ni siquiera tiene sentido empresarial.  Es una
+absoluta _densificación del trabajo_, tal como ha denominado la
+investigadora del trabajo Ursula Huws[44].  Además, el Tribunal Supremo
+de Estados Unidos emitió un fallo que indica que no es necesario
+compensar el control de seguridad obligatorio de las trabajadoras que
+salen de estos almacenes como horas extraordinarias, a pesar de que
+tienen que esperar en esa cola entre 30 y 40 minutos todos los días[45].
+La legislación favorece a las empresas que cotizan en bolsa[46].
 
-Pero la miseria no se limita a los trabajadores de almacén, a los
-crowdworkers, sino que igualmente afecta a los trabajadores de cuello
-blanco de Amazon. Podemos arrojar más luz sobre el espíritu de Jeff
-Bezos, CEO de Amazon, que le espetó a un grupo de editores, en un brutal
-enfrentamiento, que "Amazon debe acercarse a los editores de la forma en
-que un guepardo perseguiría a una gacela enfermiza"[47]. Es ese espíritu
-el que la compañía también lleva a sus trabajadores de cuello blanco, a
-sus contables, vendedores e ingenieros. Algo que fue revelado en el
-reportaje "Dentro de Amazon", del New York Times, que citó a un
-ejecutivo de la división de marketing de libros de Amazon que afirmaba
+Pero la miseria no se limita a las trabajadoras de almacén, a las _crowd
+workers_, sino que afecta igualmente a las trabajadoras de cuello blanco
+de _Amazon_.  Podemos arrojar más luz sobre el espíritu de Jeff Bezos,
+CEO de _Amazon_, que espetó brutalmente a un grupo de editores que
+"_Amazon_ debe acercarse a los editores de la forma en que un guepardo
+perseguiría a una gacela enfermiza"[47].  Es ese espíritu el que la
+compañía impone también a sus trabajadoras de cuello blanco, a sus
+contadoras, vendedoras e ingenieras.  Algo que fue revelado en el
+artículo "Dentro de Amazon", del _New York Times_, que citó a un
+ejecutivo del área de marketing de libros en _Amazon_ afirmando
 que "a casi todas las personas con las que he trabajado, las he visto
 llorar en su escritorio"[48].
 
-Amazon ha llegado a ser conocida por sus malas condiciones de trabajo,
-pero de ninguna manera es una excepción dentro de la economía
-colaborativa y más allá de esta. Nadie presta atención a los
-trabajadores, pero por cada trabajador maltratado, también hay más
-personas que están presionando para lograr un Internet centrado en la
-gente.
+_Amazon_ ha llegado a ser reconocida por sus malas condiciones de
+trabajo, pero de ninguna manera es una excepción dentro de la economía
+colaborativa y más allá.  Nadie defiende a las trabajadoras, pero por
+cada trabajadora maltratada, hay más personas que están luchando por
+lograr una Internet centrada en las personas.
 
-El crecimiento del sector eventual se estaba produciendo desde hace
+El crecimiento del sector eventual se está produciendo desde hace
 décadas, pero con la "economía colaborativa" tomó un impulso
 significativo en 2008, cuando muchas franjas de la población tuvieron
 que encontrar vías alternativas de ingresos.
@@ -544,153 +526,156 @@ que encontrar vías alternativas de ingresos.
 Y por eso, en la segunda parte de este estudio, me pregunto si tenemos
 que seguir dependiendo únicamente de infraestructuras digitales que
 están diseñadas para extraer provecho para un número muy reducido de
-propietarios de plataformas y accionistas. Es decir, ¿es realmente
-inconcebible escapar de empresas como Uber, Facebook y CrowdFlower?
+propietarios de plataformas y accionistas.  Es decir, ¿es realmente
+inconcebible escapar de empresas como _Uber_, _Facebook_ y
+_CrowdFlower_?
 
-¡Un Internet de la gente es posible! Una coalición de diseñadores,
-trabajadores, artistas, cooperativas, desarrolladores, sindicatos
-inventivos, de defensores de los trabajadores, puede cambiar las
-estructuras para que todos logren cosechar los frutos de su propio
-trabajo.
+¡Una Internet del pueblo es posible!  Una coalición de diseñadoras,
+trabajadoras, artistas, cooperativas, desarrolladoras, sindicatos con
+inventiva y defensoras de las trabajadoras puede cambiar las estructuras
+para que todas podamos cosechar los frutos de nuestro propio trabajo.
 
-Silicon Valley ama una buena disrupción, así que vamos a darle una. Lo
-que sigue es un llamamiento a colocar a las personas en el centro de las
-oficinas de empleo virtuales y a generar ganancias en beneficio social.
-Es un llamamiento a los ayuntamientos para considerar poner en marcha
-ellos mismos negocios como Airbnb. Históricamente, las ciudades
-norteamericanas acostumbraban a poseer y dirigir hoteles y hospitales, y
-algunas todavía lo hacen. Es tiempo de volver a esa historia.
+Silicon Valley ama una buena interrupción, así que vamos a darle una.
+Lo que sigue es un llamamiento a colocar a las personas en el centro de
+las oficinas de empleo virtuales y a convertir las ganancias en
+beneficio social.  Es un llamamiento a los ayuntamientos a poner en
+marcha negocios como Airbnb.  Históricamente, las ciudades
+estadounidenses acostumbraban a poseer y operar hoteles y hospitales, y
+algunas todavía lo hacen.  Es tiempo de revisitar esa historia.
 
-A mediados de la década de 1960, en Nueva York, fue el artista de Fluxus
-George Maciunas quien empezó a formar cooperativas de artistas motivados
-por su propia situación precaria. En la Ciudad de Nueva York de hoy en
-día, son artistas como Caroline Woolard quienes utilizan la lógica del
-arte para transformar su propia situación de vida y la de los demás[49].
+A mediados de la década de 1960, en Nueva York, fue el artista de
+_Fluxus_ George Maciunas quien empezó a formar cooperativas de artistas
+motivadas por su propia situación precaria.  En la Ciudad de Nueva York
+de hoy en día, son artistas como Caroline Woolard quienes utilizan la
+lógica del arte para transformar su propia situación de vida y la de las
+demás[49].
 
-Es posible escapar a Facebook, CrowdFlower y Google. Imperativos
-corporativos como el crecimiento y la maximización de los beneficios no
-son la única opción. Es muy difícil arreglar lo que no se posee. La
-lucha por la privacidad y la lucha por salarios más altos para los
-crowdworkers son importantes, pero modelos cooperativos de propiedad de
-Internet podrían resolver muchos de estos problemas.
-
-
-
-El ascenso de las cooperativas de plataforma
-
-Necesitamos construir una economía y un Internet que funcione para
-todos. ¿Cómo podemos aprender lecciones de la larga y emocionante
-historia de las cooperativas y llevarlas a la era digital?[50]
+Es posible escapar a _Facebook_, _CrowdFlower_ y _Google_.  Los
+imperativos corporativos como el crecimiento y la maximización de los
+beneficios no son la única opción.  Es muy difícil arreglar lo que no se
+posee.  La lucha por la privacidad y la lucha por salarios más altos para
+las _crowd workers_ son importantes, pero modelos cooperativos de propiedad
+de Internet podrían resolver muchos de estos problemas.
 
 
+## El ascenso del cooperativismo de plataforma
 
+> Necesitamos construir una economía y una Internet que funcione para
+> todas. ¿ Cómo podemos aprender lecciones de la larga y emocionante
+> historia de las cooperativas y traerlas a la era digital?[50]
 
+¿Por dónde deberíamos comenzar?  El 51% de las estadounidenses gana
+menos de \$30.000 USD[51] al año y el 76% no cuenta con ningún tipo de
+ahorro[52].
 
-¿Dónde debes/deberías tú/alguien comenzar/empezar? El 51 por ciento de
-los estadounidenses gana menos de 30,000 dólares[51] al año y el 76 por
-ciento no cuenta con ningún ahorro en absoluto[52].
+Entre el 2000 y el 2010, el ingreso promedio en los Estados Unidos se
+redujo un 7% cuando lo ajustamos a la inflación[53].  En términos de
+bienestar social y sostenibilidad del medio ambiente, para cada vez más
+personas el capitalismo ya no está funcionando.  Por lo tanto, tenemos
+que pensar en cómo cambiar las formas en que Internet es poseída y
+gobernada y en cómo la solidaridad podría fortalecerse en el proceso.
+Mi colaborador Nathan Schneider se preguntó: "¿Podría "Silicon
+Alley"[54] las cosas de forma más democrática que Silicon Valley?
 
-De 2000 a 2010, el ingreso promedio en los Estados Unidos se redujo un
-siete por ciento ajustado por la inflación[53]. En términos de bienestar
-social y sostenibilidad del medio ambiente, para cada vez más personas
-el capitalismo ya no está funcionando. Por lo tanto, vamos a pensar en
-cómo cambiar la propiedad y la gobernanza de Internet y en cómo la
-solidaridad se podría intensificar en el proceso. Mi colaborador Nathan
-Schneider se preguntó: "¿puede hacer "Silicon Alley"[54] las cosas de
-manera más democrática que Silicon Valley?
+% XXX: para mi la nota al pie de silicon alley no tiene sentido, tendría
+% más sentido para mi un juego de palabras entre Valley y Ally... le
+% escribiría al Trebor a ver qué quiso decir.
 
 Ya sea que estés pensando en puestos de trabajo seguros, salario mínimo,
-seguridad, cobertura médica o en fondos de pensiones, ninguno de estos
-problemas se puede abordar radicalmente sin la reorganización del
-trabajo, sin cambios estructurales. Ninguno de estos problemas se puede
-abordar de manera efectiva hasta que se revitalice la solidaridad, se
-cambie la propiedad y se introduzca la gobernabilidad democrática.
+seguridad, cobertura médica o en jubilación, ninguno de estos problemas
+puede abordarse radicalmente sin la reorganización del trabajo, sin
+cambios estructurales.  Ninguno de estos problemas puede abordarse de
+manera efectiva hasta que revitalicemos la solidaridad, cambiemos la
+propiedad y la gobernemos democráticamente.
 
-Las empresas de la "vieja escuela" suelen dar a los trabajadores tan
-poco como pueden. La desconfianza en la voluntad de los propietarios y
-accionistas de prestar atención a los trabajadores, la desconfianza en
-el viejo modelo, extractivo, la economía de la vigilancia, el monopolio,
-la proliferación de los lugares de trabajo sin fronteras, han llevado a
-muchas personas a vivir el espíritu de cooperativismo. ¿Cuáles son las
-perspectivas a largo plazo para las plataformas cooperativas? ¿No son
-las cooperativas un modelo caduco de organización del trabajo? Cualquier
-persona que haga esa afirmación debe considerar en primer lugar que, en
-todo el mundo, la economía solidaria es cada vez mayor; las cooperativas
-emplean a más personas que todas las multinacionales juntas[55]. El
-candidato presidencial demócrata, el senador estadounidense Bernie
-Sanders, de Vermont, promueve la propiedad del trabajador como una forma
-viable de progresar[56]. En Estados Unidos, 900.000 personas están
-empleadas por cooperativas[57].
+Las empresas de la "vieja escuela" suelen dar a las trabajadoras tan
+poco como puedan.  La desconfianza en la voluntad de los propietarios y
+accionistas de velar por los derechos de las trabajadoras, la
+desconfianza en el viejo modelo extractivo, en la economía de la
+vigilancia, el monopolio, la proliferación de los lugares de trabajo sin
+fronteras, ha llevado a muchas personas a revivir el espíritu de
+cooperativismo.  ¿Cuáles son las perspectivas a largo plazo para las
+plataformas cooperativas?  ¿No son las cooperativas un modelo caduco de
+organización del trabajo?  Cualquiera que haga esta afirmación debe
+considerar en primer lugar que en todo el mundo la economía solidaria
+está en crecimiento;  las cooperativas emplean más personas que todas
+las multinacionales juntas[55].  El candidato presidencial demócrata, el
+senador estadounidense Bernie Sanders, promueve la propiedad obrera como
+una forma viable de progresar[56].  En Estados Unidos, 900.000 personas
+son empleadas por cooperativas[57].
 
-En su libro Collective Courage, Jessica Gordon Nembhard describe la
+En su libro _Collective Courage_, Jessica Gordon Nembhard describe la
 experiencia negra en las cooperativas de Estados Unidos como una
 experiencia de activismo, basada en la experiencia de la lucha por los
-derechos humanos. La Unión Cooperativa de Consumo japonesa sirve al 31
-por ciento de los hogares de la nación y Mondragón, séptima mayor
-corporación industrial de España, es una red de cooperativas que en 2013
-empleaba a 74.061 personas. Emilia Romagna, un área en Italia que alentó
-a la propiedad de los empleados, las cooperativas de consumo y las
+derechos humanos.  La Unión Cooperativa de Consumo japonesa sirve al 31%
+de los hogares de la nación y Mondragón, séptima mayor corporación
+industrial de España, es una red de cooperativas que en 2013 empleaba a
+74.061 personas.  Emilia Romagna, un área en Italia que alentó a la
+propiedad de las empleadas, las cooperativas de consumo y las
 cooperativas agrícolas, tiene el desempleo más bajo que otras regiones
 de Italia[58].
 
-El 40 por ciento de la agricultura en Brasil y el 36 por ciento de los
-mercados al por menor en Dinamarca están constituidos por cooperativas,
-según Kelly. El 45 por ciento del PIB de Kenia y el 22 por ciento del
-PIB de Nueva Zelanda provienen de las cooperativas. A pesar de haber
-experimentado también contratiempos, sería difícil argumentar con éxito
-que el modelo cooperativo está acabado.
+El 40% de la agricultura en Brasil y el 36% de los mercados minoristas
+en Dinamarca están constituidos por cooperativas, según Kelly.  El 45%
+del PBI de Kenia y el 22% del PBI de Nueva Zelanda provienen de
+cooperativas.  A pesar de haber experimentado contratiempos, sería
+difícil argumentar con éxito que el modelo cooperativo está acabado.
 
 En el Reino Unido, por ejemplo, en la actualidad hay 200.000 personas
-que trabajan en más de 400 cooperativas de trabajo. En Berlín, los
-ciudadanos están formando actualmente cooperativas de servicios públicos
-para comprar y gestionar la red eléctrica de la ciudad[59]. En la ciudad
+que trabajan en más de 400 cooperativas de trabajo.  En Berlín, las
+ciudadanas están formando cooperativas de servicios públicos para
+comprar y gestionar la red eléctrica de la ciudad[59].  En la ciudad
 alemana de Schönau, otra de estas cooperativas de consumo gestiona tanto
 la red eléctrica como el suministro de gas para la ciudad.
 
-Para el año 2016, la concejala del Ayuntamiento de Nueva York Maria del
-Carmen Arroyo informa de que el Ayuntamiento ha aprobado una iniciativa
-de desarrollo de las cooperativas de trabajadores dotada con 2,1
-millones de dólares para la ciudad[60]. En 2015, la coalición de 24
-cooperativas autogestionadas de la ciudad de Nueva York estaba casi
-exclusivamente gestionada por mujeres. Los trabajadores de bajos
-salarios que se unieron a esas cooperativas vieron sus precios por hora
-aumentar de 10 a 25 dólares en los últimos dos años.
+Para el 2016, la concejala del Ayuntamiento de Nueva York María del
+Carmen Arroyo informa que la ciudad ha aprobado una iniciativa de
+desarrollo de las cooperativas de trabajadoras dotándola de \$ 2,1
+millones de dólares[60].  En 2015, la coalición de 24 cooperativas
+autogestionadas de la ciudad de Nueva York estaba casi exclusivamente
+gestionada por mujeres.  Las trabajadoras de bajos salarios que se
+unieron a esas cooperativas vieron sus salarios por hora aumentar de
+\$10 a \$25 USD en los últimos dos años.
 
 Sin lugar a dudas, los retos para todas las cooperativas son muy
-grandes. Basta pensar en la cadena Walmart, que es, después del
+grandes.  Basta pensar en la cadena _Walmart_, que es, después del
 Departamento de Defensa de los Estados Unidos y del Ejército de
 Liberación de China, la tercera organización más grande del mundo[61].
 Para las cooperativas, competir con estos gigantes no es ningún paseo
-por el parque. Pero aun así, en esta lucha por la imaginación del futuro
-del trabajo, ¿quién debe conducir a los agentes de cambio? ¿Es el dueño
-de la plataforma, el accionista, el CEO, el capital de riesgo, o nos
-centramos en el colectivo de los trabajadores junto con un movimiento
-dirigido por los ciudadanos? La respuesta podría ser: todo lo anterior.
+por el parque.  Pero aun así, en esta lucha por imaginar el futuro del
+trabajo, ¿quiénes deben ser las agentes de cambio?  ¿Es el dueño de la
+plataforma, el accionista, el CEO, el capital de riesgo, o debemos
+enfocarnos en el colectivo de trabajadoras junto con un movimiento de
+ciudadanas?  La respuesta podría ser: todo lo anterior.
 
-Pero, para mí, el problema comienza cuando el cambio se busca
-principalmente en las salas de juntas de Silicon Valley. Tim O'Reilly
-convocó la conferencia "Next: Economy" en noviembre de 2015[62], por
-ejemplo, que fue ampliamente dominada por líderes de negocios de Silicon
-Valley. Y como si la selección de conferenciantes (a pesar de dos o tres
-defensores de los trabajadores, predominantemente dirigentes de
-empresas) no dejara claro a quién se identificaba como agentes de
-cambio, la cuota de inscripción de 3.500 dólares lo aclaró de una vez
-por todas.
+% XXX: paseo por el parque es muy literal, lo podemos sustituir con...
+% "no es moco de pavo" :P
 
-El exsecretario de Trabajo Robert Reich señaló que, con el fin de
-"salvar el capitalismo", los trabajadores tienen que contar con un
-mínimo de protección social; de lo contrario habrá una rebelión. Robin
-Chase, cofundador de ZipCar, se hizo eco del sentimiento de Reich. Y,
-por supuesto, si se desea conservar la paz social, se tiene que dar algo
-a los trabajadores. Puedes apelar a los mejores entre los líderes
-corporativos, como Tim O'Reilly hace quizás, puedes confiar en su buena
-voluntad, pero la cuestión sigue siendo si estas apelaciones pueden
-cambiar la misión principal de esas empresas. Es cierto que los
-trabajadores necesitan protecciones sólidas y alguien que realmente se
-preocupe por su bienestar a largo plazo. Ser "realista" también
-significa evaluar de manera realista si los propietarios de la
-plataforma irán más allá de la entrega de pequeñas concesiones a los
-trabajadores. Ser realista significa aceptar los éxitos y los fracasos
+% "todo lo anterior" incluye a los capitalistas??? :O
+
+Para mí, el problema comienza cuando el cambio se busca principalmente
+en las salas de reunión de Silicon Valley.  Tim O'Reilly convocó la
+conferencia "Next: Economy" en noviembre de 2015[62], por ejemplo, que
+fue ampliamente dominada por los capitanes de Silicon Valley.  Y como si
+la selección de conferenciantes (a pesar de dos o tres defensoras de las
+trabajadoras, predominantemente gerentes de empresas) no dejara claro
+a quién se identificaba como agentes de cambio, la cuota de inscripción
+de \$3.500 USD lo aclaró de una vez por todas.
+
+El ex-Secretario de Trabajo Robert Reich señaló que, con el fin de
+"salvar el capitalismo", las trabajadoras tienen que contar con un
+mínimo de protección social; de lo contrario habrá una rebelión.  Robin
+Chase, co-fundadora de _ZipCar_, se hizo eco del sentimiento de Reich.
+Por supuesto, si se desea conservar la paz social, se tiene que dar algo
+a las trabajadoras.  Se puede apelar a lo mejos de los líderes
+corporativos, como quizás hace Tim O'Reilly, puedes confiar en su buena
+voluntad.  Pero la cuestión sigue siendo si estas apelaciones pueden
+cambiar la misión central de esas empresas.  Es cierto que las
+trabajadoras necesitan protecciones sólidas y alguien que realmente se
+preocupe por su bienestar a largo plazo.  Ser "realista" también
+significa evaluar de manera realista si los propietarios de las
+plataformas irán más allá de la entrega de pequeñas concesiones a las
+trabajadoras.  Ser realista significa aceptar los éxitos y los fracasos
 históricos de la "economía solidaria" extractiva y de la economía
 solidaria.
 
@@ -698,19 +683,19 @@ No se puede contrarrestar la desigualdad económica con la benevolencia
 de los propietarios; juntos tenemos que rediseñar la infraestructura
 situando la democracia en su núcleo.
 
-Como parte de este nuevo diseño, también vale la pena volver a examinar
-la historia de la construcción de estructuras para el cooperativismo y
-el mutualismo en Estados Unidos. Aquí, el comunalismo espiritual y los
-movimientos cooperativos juegan un papel central. Los menonitas
+Como parte de este nuevo diseño, vale la pena volver a examinar la
+historia de la construcción de estructuras para el cooperativismo y el
+mutualismo en Estados Unidos.  Aquí, el comunalismo espiritual y los
+movimientos cooperativos juegan un papel central.  Los menonitas
 alemanes, incluidos los amish, empezaron a emigrar a Estados Unidos ya
-en 1684. En el verano de 1825, Robert Owen abrió las puertas de la
-comunidad Nueva Armonía en Indiana. En la década de 1930, tanto La
+en 1684.  En el verano de 1825, Robert Owen abrió las puertas de la
+comunidad Nueva Armonía en Indiana.  En la década de 1930, tanto La
 Nación del Islam como el Movimiento Trabajador Católico establecieron
-cientos de proyectos comunales. En ese contexto, la enseñanza social
-católica de distributismo resulta influyente. Sugiere que las
-comunidades podrían compartir la propiedad y las herramientas. Tres
-décadas después, se fundó el hindú Kripalu Yoga Ashram y el centro
-budista Karmê-Choling. Las comunidades espirituales y cooperativas a
+cientos de proyectos comunales.  En ese contexto, la enseñanza social
+católica de distributismo resulta influyente.  Sugiere que las
+comunidades podrían compartir la propiedad y las herramientas.  Tres
+décadas después, se fundó el Kripalu Yoga Ashram Hindú y el centro
+budista Karmê-Choling.  Las comunidades y cooperativas espirituales a
 menudo han demostrado tener más perdurabilidad que las empresas
 cooperativas seculares.
 
