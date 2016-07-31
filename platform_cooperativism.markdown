@@ -284,123 +284,113 @@ _shocks_ de austeridad que siguieron a la crisis financiera en 2008.
 Los tecnólogos multimillonarios saltaron de cabeza, cabalgando a lomos
 de las que buscan desesperadamente trabajo, no solo aumentando así la
 desigualdad, sino también reestructurando la economía de manera que esta
-nueva forma de trabajar, privadas de todos los derechos laborales, sea
+nueva forma de trabajar, privada de todos los derechos laborales, sea
 vivible, sobrevivible o, como ellos dirían: "sostenible".
 
-La "economía colaborativa" surgió a partir de la estirpe de Reagan
-y Thatcher, que en la década de 1980 no solo acabaron con las huelgas de
-las mineras y las controladoras de tráfico aéreo, sino que dañaron la
-creencia en la capacidad de los sindicatos de velar por las
-trabajadoras, que debilitaron la creencia en la posibilidad de la
-solidaridad y crearon un marco en que la reestructuración del trabajo,
-los recortes en los cheques de asistencia social y la desconexión de la
-productividad respecto a los ingresos se hicieron más plausibles.
+La "economía colaborativa" surgió a partir de la estirpe de Reagan y
+Thatcher, que en los '80 no solo acabaron con las huelgas de las mineras
+y las controladoras de tráfico aéreo, sino que dañaron la creencia en la
+capacidad de los sindicatos de velar por las trabajadoras y en la
+posibilidad de la solidaridad, creando un marco en que la
+reestructuración del trabajo, los recortes al estado de bienestar y el
+desacople entre la productividad y los ingresos se volvieron plausibles.
 
-Las exigencias de cualificación son cada vez más altas y la ansiedad
-y el miedo al desempleo y a la pobreza se han convertido en temas
-centrales para la vida muchas jóvenes de hoy.  Todo esto ha conducido
-a un mundo en el que, para la generación del milenio, el fin del planeta
+Las exigencias de cualificación son cada vez más altas y la ansiedad y
+el miedo al desempleo y a la pobreza se han convertido en temas
+centrales en la vida de muchas jóvenes de hoy.  Todo esto ha conducido a
+un mundo en el que, para la generación del milenio, el fin del mundo
 parece más plausible que el fin del capitalismo y sus carreras se
 parecen a vehículos autónomos que se dirigen hacia el Armagedón.
 
-Es _La ley del silencio_ de Elia Kazan, en la que jornaleras digitales
-se levantan cada mañana solo para unirse a una subasta de sus propias
-actuaciones.  Según la economista Juliet Schor, la economía colaborativa
-ofrece cada vez más acceso al trabajo de bajo nivel para la clase media
-educada, que ahora puede conducir taxis y ensamblar muebles en casas de
-otra gente, mientras que al mismo tiempo desplaza a las trabajadoras de
-bajos ingresos de estas ocupaciones[28].
+Es _On the Waterfront_ \[Nido de ratas\] de Elia Kazan en anfetaminas.
+Las jornaleras digitales se levantan cada mañana solo para unirse a la
+subasta de sus propias changas.  Según la economista Juliet Schor, la
+economía colaborativa ofrece acceso al trabajo descualificado a la clase
+media educada, que ahora puede conducir taxis y ensamblar muebles en
+casas de otra gente, mientras que al mismo tiempo desplaza a las
+trabajadoras de bajos ingresos de estas ocupaciones.[28]
 
 Una de cada tres trabajadoras de la fuerza laboral estadounidense es
 ahora una trabajadora independiente, jornalera, temporera o _freelance_.
 El jurado está todavía deliberando sobre si regresarán a un mundo con un
-sueldo fijo, de una semana de trabajo de 40 horas y con algunas
+sueldo fijo, una semana de trabajo de 40 horas y con algunas
 protecciones sociales.
 
 
-### Generación de beneficios para unas pocos
+### Generación de beneficios para los pocos
 
 El software que está impulsando la economía colaborativa está envuelto
-por un diseño de interfaz adictiva.  En la pantalla, el ícono tamaño
-hormiga de un taxi acercándose a tu ubicación es tan seductor
-y peligroso como las sirenas que atraían a Ulises; es un diseño a
-escala. Por el lado empresarial, emprendedores e ingenieros de software
-han creado nuevos mercados. Pero, ¿es innovación o hay una fábrica
-detrás del patio de recreo? La innovación, ¿debe consistir solo en
-beneficios para unos pocos, dejando a su paso una mano de obra para la
-que predominan insuficientes protecciones sociales? ¿Es una innovación
-centrada en la extracción de valor y el crecimiento, o se trata de la
-circulación de este valor entre la gente?
+en una interfaz de diseño adictivo.  En la pantalla, el ícono de tamaño
+hormiga de un taxi acercándose a tu ubicación es tan seductor y
+peligroso como las sirenas que atraían a Ulises; es un diseño que
+escala.  Por el lado empresarial, los emprendedores e ingenieros de
+software han creado nuevos mercados.  Pero, ¿es esto pura innovación o
+hay una fábrica detrás del parque de juegos?  ¿La innovación debe
+consistir solo en beneficios para los pocos, dejando a su paso una mano
+de obra en la que predominan protecciones sociales insuficientes?  ¿Es
+la innovación centrada en la extracción de valor y el crecimiento, o se
+trata de la circulación de este valor entre la gente?
 
-La eficiencia, del mismo modo, no es una virtud cuando está sobre todo
-construida en torno a la extracción de valor para los accionistas y
-propietarios. Es en ese sentido de extraer valor a partir de las
-personas que empresas como Amazon, CrowdSpring y TaskRabbit no son ni
-eficaces ni innovadoras. El capitalismo de plataforma, hasta ahora, ha
-sido muy ineficaz para hacer frente a las necesidades de la comunidad.
-Lo que inicialmente parecía innovación, con el tiempo ha subido el
-volumen de la desigualdad de ingresos.
+La eficiencia, del mismo modo, no es una virtud cuando está construida
+en torno a la extracción de valor en beneficio de accionistas y
+propietarios.  Es este sentido, la extracción de valor a partir de las
+personas que realizan empresas laborales como _Amazon_, _CrowdSpring_ y
+_TaskRabbit_ no es ni eficaz ni innovadora.  El capitalismo de
+plataforma, hasta ahora, ha sido muy ineficaz para hacer frente a las
+necesidades comunes.  Lo que inicialmente parecía innovación ha subido
+el volumen de la desigualdad de ingresos.
 
-Con la creación de nuevos empleos en la economía 1099 o freelance, han
-comenzado a florecer empresas como Intuit debido a que su software ayuda
-a los freelances en la declaración de renta.
-
-
+Con la creación de nuevas ocupaciones en la economía 1099, empresas como
+_Intuit_ han comenzado a florecer ya que su software ayuda a los
+_freelancers_ en su declaración de impuestos.
 
 
+## La ilegalidad como método
 
-La ilegalidad como método
-
-
-
-
-
-En Estados Unidos, la ilegalidad es un método de la "economía
-colaborativa," no es un error, y el gobierno federal, al menos por
-ahora, no está interviniendo, dejando el asunto (y la única esperanza) a
-la municipalización de la regulación. La economía colaborativa también
-ha sido criticada por su "anulación de la ley federal"[29], la falta de
-dignidad para los trabajadores y la eliminación de los derechos de los
-trabajadores y los valores democráticos, como la rendición de cuentas y
-el consenso. Las empresas de la economía colaborativa no han pagado
-impuestos, han violado leyes federales. Su modus operandi sigue un
-patrón. En primer lugar, las empresas como Uber violan varias leyes -las
-leyes de lucha contra la discriminación, por ejemplo-, a continuación,
+En Estados Unidos la ilegalidad es un método y no un _bug_ de la
+"economía colaborativa" y el gobierno federal, no está interviniendo al
+menos hasta ahora, dejando el asunto (y única esperanza) a la
+municipalización de la regulación.  La economía colaborativa también ha
+sido criticada por la "anulación de la ley federal"[29], la falta de
+dignidad de las trabajadoras y la eliminación de los derechos laborales
+y valores democráticos, como la rendición de cuentas y el
+consentimiento.  Las empresas de la economía colaborativa no han pagado
+impuestos, violando leyes federales.  Su _modus operandi_ sigue un
+patrón.  En primer lugar, las empresas como _Uber_ violan varias leyes
+--las leyes contra la discriminación, por ejemplo-- y a continuación
 llaman la atención sobre una creciente y entusiasta base de
-consumidores, exigiendo cambios legales. Airbnb gastó más de ocho
-millones de dólares para ejercer presión en San Francisco cuando los
-residentes votaron sobre la regulación de sus operaciones. Uber gasta
-incluso más dinero en grupos de presión que la cadena Walmart. De manera
-significativa, tanto Uber como Airbnb están utilizando sus aplicaciones
-como plataformas políticas, que se pueden utilizar para activar a sus
-clientes para que se opongan a cualquier intento de regulación contra
-ellas.
+consumidoras, exigiendo cambios legales.  _Airbnb_ gastó más de 8
+millones de dólares para hacer _lobby_ en San Francisco cuando las
+residentes votaron regular sus operaciones.  _Uber_ gasta incluso más
+dinero en lobbistas que _Walmart_.  De manera significativa, tanto
+_Uber_ como _Airbnb_ están utilizando sus aplicaciones como plataformas
+políticas, que se utilizan para activar a sus clientas a que se opongan
+a cualquier intento de regulación contra ellos.
 
-Cuando te enteras de que los conductores de Uber en Los Ángeles están
-trabajando por debajo del salario mínimo; cuando se conoce que los
-trabajadores en CrowdFlower y Mechanical Turk ganan no más de dos a tres
-dólares por hora; cuando se comprende que gran parte (si no la mayoría)
-de los ingresos de Airbnb en la ciudad de Nueva York proviene de
-anfitriones que alquilan apartamentos enteros por menos de treinta
-días[30]; cuando te dicen que las nuevas empresas están navegando
+Cuando te enteras de que las conductoras de _Uber_ en Los Ángeles están
+trabajando por debajo del salario mínimo; cuando se conoce que las
+trabajadoras de _CrowdFlower_ y _Mechanical Turk_ no ganan más de dos a
+tres dólares por hora; cuando se comprende que gran parte (sino la
+mayoría) de los ingresos de _Airbnb_ en la ciudad de Nueva York proviene
+de anfitriones que alquilan apartamentos enteros por menos de treinta
+días[30]; cuando te dicen que las nuevas _startups_ están navegando
 alrededor de la definición de empleo de tal manera que las personas que
-están trabajando para ellas sean clasificadas como trabajadores
-independientes, en lugar de empleados; cuando se comprende que la
-situación de trabajador independiente anula la protección otorgada a los
-trabajadores por la Ley de Normas Equitativas de Trabajo[31], cuando
-Uber, Lyft, y Airbnb continúan llevando a cabo sus negocios en las
-ciudades que prohibieron sus operaciones; entonces se entiende por qué el
-gobierno y/o los municipios tienen que actuar en contra de esta
-"invalidación de la ley federal"[32]. En 2015, un estudio de Princeton
-mostró que los conductores de Uber en 20 ciudades ganaban alrededor de
-17.50 dólares la hora, lo cual, de acuerdo con los conductores, se
-   reduce a entre 10 y 13 dólares la hora después de restar el coste de
-   la gasolina, seguros, pagos por el coche y el mantenimiento del
-   automóvil[33]. Los Ángeles aprobó un salario mínimo de 15 dólares la
-   hora, lo que pone a Uber en situación de violar esa ley. Ahora,
-   cualquier persona con conocimientos básicos de la Ley de Normas
-   Equitativas de Trabajo de 1938 diría que dichos pagos son ilegalmente
-   bajos; que no cumplen con los estándares del salario mínimo.
+están trabajando para ellas sean clasificadas como trabajadoras
+independientes, en lugar de empleadas; cuando se comprende que la
+situación de trabajadora independiente anula la protección otorgada a
+las trabajadoras por la _Fair Labor Standards Act_[31]; cuando _Uber_,
+_Lyft_ y _Airbnb_ continúan haciendo negocios en las ciudades que
+prohibieron sus operaciones; entonces se entiende por qué el gobierno
+y/o los municipios tienen que actuar en contra de esta "nulificación de
+la ley federal".[32]  En 2015, un estudio de Princeton demostró que las
+conductoras de _Uber_ en 20 ciudades ganan alrededor de \$17.50 USD la
+hora, lo cual de acuerdo a las conductoras se reduce a entre \$10 y \$13
+USD la hora después de restar los costos de combustible, seguros, pagos
+por el vehículo y su mantenimiento[33].  Los Ángeles aprobó un salario
+mínimo de \$15 USD la hora, lo que pone a _Uber_ en violación de esa
+ley.  Ahora, cualquier persona con conocimientos básicos de la _Fair
+Labor Standards Act_ de 1938 diría que tales salarios son ilegalmente
+bajos; que no cumplen con los estándares del salario mínimo.
 
 Teniendo en cuenta las significativas tasas de desgaste de los
 trabajadores de Mechanical Turk y los conductores Uber (la mitad de los
