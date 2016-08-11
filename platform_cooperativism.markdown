@@ -699,608 +699,553 @@ budista Karmê-Choling.  Las comunidades y cooperativas espirituales a
 menudo han demostrado tener más perdurabilidad que las empresas
 cooperativas seculares.
 
-Desde la primera cooperativa moderna en Rochdale, Escocia, en 1844, no
-ha habido tiempo suficiente para hablar de las cooperativas de trabajo,
-argumentan los críticos, y en sus mentes la evidencia muestra que el
-modelo no funciona. Y en parte, tienen razón; la mayoría de las
-cooperativas propiedad de los trabajadores en Estados Unidos no tuvo
-éxito. Pero también vale la pena tener en cuenta, como el autor John
+Desde que en 1844 se fundara la primera cooperativa moderna en Rochdale,
+Escocia, ha habido tiempo suficiente para hablar de las cooperativas de
+trabajo, argumentan los críticos y en sus mentes la evidencia muestra
+que el modelo no funciona.  Y en parte tienen razón; la mayoría de las
+cooperativas bajo propiedad de los trabajadores no tuvo éxito en Estados
+Unidos.  Pero también vale la pena tener en cuenta, como el autor John
 Curl observa, que:
 
-La propia existencia de las cooperativas desafía a las corporaciones y
-el capitalismo; las corporaciones siempre han trabajado duro para
-debilitar, desacreditar y destruir [a las cooperativas] por medio de
-guerras de precios, de la promulgación de leyes que socavan su
-viabilidad, de etiquetarlas en los medios de comunicación como
-subversivas y fracasadas, y por el uso de varias otras estratagemas[63].
+> La propia existencia de las cooperativas desafía a las corporaciones y
+> el capitalismo; las corporaciones siempre han trabajado duro para
+> debilitar, desacreditar y destruir [a las cooperativas] por medio de
+> guerras de precios, de la promulgación de leyes que socavan su
+> viabilidad, de etiquetarlas en los medios de comunicación como
+> subversivas y fracasadas y por el uso de varias otras
+> estratagemas[63].
 
 También Rosa Luxemburgo fue cauta cuando se trataba de pensar en las
 cooperativas como alternativas totales al capitalismo.
 
-Los trabajadores que forman una cooperativa en el campo de la producción
-se enfrentan entonces a la necesidad contradictoria de gobernarse a sí
-mismos con el mayor absolutismo. Están obligados a adoptar hacia ellos
-mismos el papel de capitalista empresario, una contradicción que da
-cuenta de la falta de costumbre de las cooperativas de producción que, o
-bien se convierten en empresas capitalistas puras o, si los intereses de
-los trabajadores siguen predominando, finalmente se disuelven[64].
-
-
+> Las trabajadoras que forman una cooperativa en el campo de la
+> producción se enfrentan entonces a la necesidad contradictoria de
+> gobernarse a sí mismas con el mayor absolutismo.  Están obligadas a
+> adoptar hacia ellas mismas el papel de capitalista emprendedor, una
+> contradicción que da cuenta de la falta de costumbre de las
+> cooperativas de producción que, o bien se convierten en empresas
+> capitalistas puras o, si los intereses de las trabajadoras siguen
+> predominando, finalmente se disuelven[64].
 
 Se emplean todos los métodos que permiten a una empresa hacer frente a
-sus competidores en el mercado, escribió Luxemburgo[65].
+sus competidores en el mercado, escribía Luxemburgo[65].
 
 Existe, sin embargo, el efecto innegable e importante que las
-cooperativas tienen sobre los trabajadores en esos sistemas. Las
+cooperativas tienen sobre las trabajadoras en estos sistemas.  Las
 cooperativas existentes han demostrado ofrecer más puestos de trabajo
 estables y más protecciones sociales fiables que los modelos
-tradicionales de extracción. Sería poco útil ver las cooperativas como
+extractivistas tradicionales.  Sería poco útil ver las cooperativas como
 alternativas de color de rosa; funcionan dentro de un contexto
-capitalista en el que se ven obligadas a competir. Redes de cooperativas
-como Mondragón no pueden realmente desacoplarse de las cadenas de
-suministro explotadoras que mantienen en marcha el capitalismo.
+capitalista en el que se ven obligadas a competir.  Las redes de
+cooperativas como Mondragón no pueden realmente desacoplarse de las
+cadenas de suministro explotadoras que mantienen en marcha el
+capitalismo.
 
 Una objeción común a las cooperativas es que están tan ligadas a las
 presiones del mercado como cualquier otra empresa capitalista, que hace
-inevitable la autoexplotación. Con el tiempo, las cooperativas también
+inevitable la auto-explotación.  Con el tiempo, las cooperativas también
 pueden recurrir a la táctica de las prácticas no remuneradas y a
-voluntarios no recompensados. Las cooperativas están expuestas a la
-competencia despiadada del mercado, pero a la luz del 20 al 30 por
-ciento de beneficio que empresas como Uber están obteniendo, para las
+voluntarias no recompensadas.  Las cooperativas están expuestas a la
+competencia despiadada del mercado, pero a la luz del 20% al 30% de
+beneficio que empresas como _Uber_ están obteniendo, para las
 cooperativas de plataforma un enfoque sería ofrecer sus servicios a un
-precio inferior. Podrían tener un 10 por ciento de ganancia, que luego
-podría ser parcialmente traducido en beneficio social de los
-trabajadores. Las cooperativas también podrían florecer en nichos de
-mercado, teniendo como grupo objetivo a clientes/consumidores de bajos
-ingresos.
+precio inferior.  Podrían tener un 10% de ganancia, que luego podría ser
+parcialmente traducido en beneficios sociales para las trabajadoras.
+Las cooperativas también podrían florecer en mercados de nicho, teniendo
+como grupo objetivo a clientas/consumidoras de bajos ingresos.
 
 Las cooperativas han sido instrumentos importantes para la construcción
-de poder económico de grupos marginados. Karla Morales, de la
-cooperativa de cuidado de niños Beyond Care (Más allá del cuidado)
+de poder económico de grupos marginados.  Karla Morales, de la
+cooperativa de cuidado de niños _Beyond Care_ \[Más allá del cuidado\]
 describe sus sencillos beneficios: "En mi trabajo, ahora tengo derecho a
-la baja, a vacaciones y a derechos laborales"[66]. Los estados del sur
-de Estados Unidos, por ejemplo, tienen una larga historia de
-cooperativas agrícolas con autodeterminación económica y social
-construida por las comunidades afroamericanas. A veces, sin embargo, las
-cooperativas han reforzado las jerarquías de raza y género,
-reproduciendo, en lugar de cuestionarlas, las prácticas de la sociedad
-en general. Juliet Schor afirma que:
+días por enfermedad, a vacaciones y a derechos laborales varios"[66].
+Los estados del sur de Estados Unidos, por ejemplo, tienen una larga
+historia de cooperativas agrícolas con auto-determinación económica y
+social construida por las comunidades afro-americanas.  A veces, sin
+embargo, las cooperativas han reforzado las jerarquías de raza y género,
+reproduciendo, en lugar de cuestionar, las prácticas de la sociedad
+en general.  Juliet Schor afirma que:
 
-Si usted está interesado en la justicia social, entonces debe saber que
-en los espacios sin ánimo de lucro hay altos niveles de exclusión por
-raza, clase y género. Las personas actúan de maneras que refuerzan su
-propia posición de clase o su propia posición racial. Estos espacios son
-a menudo más problemáticos desde el punto de vista de raza, clase y
-género que muchos con ánimos de lucro. Así que, si usted quiere
-construir una plataforma que atraiga a las personas sin distinción de
-clase, raza y género, es necesario comenzar por el grupo de personas que
-desea atraer a su plataforma[67].
+> Si usted está interesada en la justicia social, entonces debe saber
+> que en los espacios sin ánimo de lucro hay altos niveles de exclusión
+> por raza, clase y género.  Las personas actúan de maneras que
+> refuerzan su propia posición de clase o su propia posición racial.
+> Estos espacios son a menudo más problemáticos desde el punto de vista
+> de raza, clase y género que muchos con ánimos de lucro.  Así que, si
+> usted quiere construir una plataforma que atraiga a las personas sin
+> distinción de clase, raza y género, es necesario comenzar por el grupo
+> de personas que desea atraer a su plataforma[67].
 
-Los escépticos se lamentan del hecho de que las cooperativas de crédito,
-en realidad, no han transformado la economía en su conjunto y de que las
-cooperativas de trabajo que son propiedad de los trabajadores no se han
-convertido en la avanzadilla del socialismo que prometían ser. Pero, de
+Los escépticos lamentan del hecho de que las cooperativas de crédito, en
+realidad, no han transformado la economía en su conjunto y de que las
+cooperativas de trabajo bajo propiedad de las trabajadoras no se han
+convertido en la vanguardia del socialismo que prometían ser.  Pero, de
 todas maneras, hay que tener en cuenta el indiscutible beneficio a largo
-plazo que dichas empresas ofrecen para los trabajadores; ¿y eso no
-cuenta para nada? Aquí, los trabajadores controlan su propio trabajo de
-una manera que contribuye a su propio bienestar. Las cooperativas, por
+plazo que dichas empresas ofrecen a las trabajadoras; ¿eso no cuenta
+para nada?  Aquí, las trabajadoras controlan su propio trabajo de una
+manera que contribuye a su propio bienestar.  Las cooperativas, por
 pequeñas que sean, pueden funcionar como contrastes éticos,
-autogestionados, que proporcionen un modelo para las empresas que no
-necesita depender de la explotación de sus trabajadores. Las
+auto-gestionados, que proporcionen un modelo para las empresas que no
+necesitan depender de la explotación de sus trabajadoras.  Las
 cooperativas pueden aportar creatividad no solo para el consumo de
-productos, sino también para la reorganización del trabajo.
+productos, sino también para la re-organización del trabajo.
 
 Recientemente se ha citado con frecuencia a Hannah Arendt, que observó
 que un perro callejero tiene más posibilidades de supervivencia cuando
-se le da un nombre. Así que, bienvenido al cooperativismo de plataforma.
+se le da un nombre.  Así que, bienvenidas al cooperativismo de
+plataforma.
 
-Juntos envejeceremos
+_Juntas envejeceremos  
+nos sostendremos  
+una a otra con fuerza y nos sostendremos una a otra con más fuerza  
+Nos sostendremos  
+mientras el país cambia;  
+nos sostendremos una a otra  
+mientras el mundo cambia._
 
-nos sostendremos
+\[Together we will grow old  
+we will hold  
+each other close and we will hold each other closer  
+We will hold each other  
+as the country changes;  
+we will hold each other  
+as the world changes\]
 
-el uno al otro con fuerza y nos sostendremos el uno al otro con más
-fuerza
-
-Nos sostendremos
-
-mientras el país cambia;
-
-nos sostendremos el uno al otro
-
-mientras el mundo cambia.
-
-
-
-
-
-(Together we will grow old
-
-we will hold
-
-each other close and we will hold each other closer
-
-We will hold each other
-
-as the country changes;
-
-we will hold each other
-
-as the world changes)
-
-
-
-
-
-Anónimo[68]
-
-
-
+-- Anónimo[68]
 
 
 El concepto de cooperativismo de plataforma consta de tres partes:
 
- ⇒ En primer lugar, se trata de clonar el corazón tecnológico de Uber,
- Task Rabbit, Airbnb o UpWork. Adopta la tecnología, pero quiere ponerla
- a trabajar con un modelo de propiedad diferente, adhiriéndola a los
- valores democráticos, con el fin de rasgar el sistema roto de la
- economía de consumo colaborativo/bajo demanda, que solo beneficia a
- unos pocos. Es en este sentido en que el cooperativismo de plataforma
- es un cambio estructural, un cambio de propiedad.
+* En primer lugar, se trata de clonar el corazón tecnológico de _Uber_,
+  _Task Rabbit_, _Airbnb_ o _UpWork_.  Se apropia de la tecnología, pero
+  quiere ponerla a trabajar con un modelo de propiedad diferente,
+  adhiriéndola a valores democráticos, con el fin de rasgar el sistema
+  roto de la economía de consumo colaborativo/bajo demanda, que solo
+  beneficia a unos pocos.  Es en este sentido en que el cooperativismo
+  de plataforma es un cambio estructural, un cambio de propiedad.
 
-⇒ En segundo lugar, el cooperativismo de plataforma consiste en la
-solidaridad, que es urgentemente necesaria en esta economía impulsada
-por una fuerza de trabajo distribuida, y veces anónima. Las plataformas
-pueden ser de propiedad de sindicatos ingeniosos, ciudades y otras
-formas diversas de cooperativa, y ser gestionados por estos. Todo ello,
-desde cooperativas que son fruto de múltiples alianzas y propiedad de
-los trabajadores hasta cooperativas de plataforma propiedad de los
-produsers[69].
+* En segundo lugar, el cooperativismo de plataforma consiste en la
+  solidaridad, que es urgentemente necesaria en esta economía impulsada
+  por una fuerza de trabajo distribuida y a veces anónima.  Las
+  plataformas pueden ser de propiedad de sindicatos ingeniosos, ciudades
+  y otras formas diversas de cooperativas y ser gestionados por estos.
+  Todo ello que abarque cooperativas de múltiples accionarias, bajo
+  propiedad de las trabajadoras o cooperativas de plataforma propiedad
+  de las _produsuarias_[69].
 
-⇒ Y en tercer lugar, el cooperativismo de plataforma está construido
-sobre la reformulación de conceptos como la innovación y la eficiencia
-con la vista puesta en beneficiar a todos, no solo absorbiendo
-beneficios para unos pocos. Propongo diez principios del cooperativismo
-de plataforma que son sensibles a los problemas críticos que enfrenta la
-economía digital en este momento. El capitalismo de plataforma es
-increíblemente ineficaz para cuidar de la gente.
+* Y en tercer lugar, el cooperativismo de plataforma está construido
+  sobre la reformulación de conceptos como la innovación y la eficiencia
+  con la vista puesta en beneficiar a todas, no solo absorbiendo
+  beneficios para unos pocos.  Propongo diez principios del
+  cooperativismo de plataforma que son sensibles a los problemas
+  críticos que enfrenta la economía digital en este momento.  El
+  capitalismo de plataforma es increíblemente ineficaz para cuidar de la
+  gente.
 
-El concepto de cooperativismo de plataforma, o al menos parte de él,
-cuesta de comunicar. La gente entiende lo de cooperación, pero la parte
-de "plataforma" se mantiene en el misterio. ¿Cómo se llaman esos lugares
-en que pasar el rato y generar valor al encender el teléfono? Una
-plataforma, en el contexto de este estudio, es un término usado para
-describir un ambiente en el cual los intermediarios extractivos o
-cooperativos ofrecen sus servicios o contenidos.
+El concepto de cooperativismo de plataforma, o al menos parte de él, es
+difícil de comunicar.  La gente entiende la parte de la cooperación,
+pero la parte de "plataforma" se mantiene en el misterio.  ¿Cómo se
+llaman esos lugares en que pasas el rato y generas valor desde tu
+teléfono?  Una plataforma, en el contexto de este estudio, es un término
+usado para describir un ambiente en el cual los intermediarios
+extractivos o cooperativos ofrecen sus servicios o contenidos.
 
 Desde el inicio, a la hora de explicar el concepto de cooperativismo de
-plataforma, quiero aclarar que esto no tiene que ver con una aurora
-boreal tecnológica; el cooperativismo de plataforma no tiene que ver con
-la obsesión occidental por los avances de la tecnología; es un modo de
-pensar. Evgeny Morozov y Siva Vaidhyanathan tienen toda la razón en su
-postura contra el "solucionismo tecnológico" y el "Internetcentrismo".
+plataforma, quiero aclarar que esto no es una aurora boreal tecnológica;
+el cooperativismo de plataforma no tiene que ver con la obsesión
+occidental por los avances de la tecnología; es un modo de pensar.
+Evgeny Morozov y Siva Vaidhyanathan tienen toda la razón en su postura
+contra el "solucionismo tecnológico" y el "Internetcentrismo".
 
-Cooperativismo de plataforma es un término que describe cambios
-tecnológicos, culturales, políticos y sociales. El cooperativismo de
-plataforma es una parcela deesperanza. No es una utopía concreta; es una
-economía emergente. Algunos de los modelos que ahora describiré ya
+El cooperativismo de plataforma es un término que describe cambios
+tecnológicos, culturales, políticos y sociales.  El cooperativismo de
+plataforma es una parcela de esperanza.  No es una utopía concreta; es
+una economía emergente.  Algunos de los modelos que ahora describiré ya
 existen desde hace dos o tres años, mientras que otros todavía son
-aplicaciones imaginarias. Algunos son prototipos, otros son
+aplicaciones imaginarias.  Algunos son prototipos, otros son
 experimentos; todos ellos introducen conjuntos alternativos de valores.
 
 A continuación, presentaré diversos tipos de cooperativas de plataforma
-y varios de sus principios. A eso seguirán reflexiones sobre los
+y varios de sus principios.  A eso seguirán reflexiones sobre los
 ecosistemas cooperativos, objeciones a ellos y sus desafíos.
 
 
-
-Hacia una tipología de las cooperativas de plataforma
+## Hacia una tipología de las cooperativas de plataforma
 
 Los primeros ejemplos de cooperativas de plataforma ya existen, pero aún
-están emergiendo. Citarlos aquí excluye, inevitablemente, otros
-proyectos importantes. No introducir casos concretos daría pie a la idea
-de que el cooperativismo de plataforma no es más que una serie de
+están emergiendo.  Citarlos aquí excluye inevitablemente a otros
+proyectos importantes.  No introducir casos concretos daría pie a la
+idea de que el cooperativismo de plataforma no es más que una serie de
 castillos en el aire.
 
-Intermediación laboral y mercados de propiedad cooperativa online
 
-Muy probablemente estés familiarizado o familiarizada con el modelo de
-la intermediación laboral en línea. Basta pensar en compañías como
-TaskRabbit, en las que se puede programar que alguien monte tus muebles
-de IKEA en veinte minutos. La aplicación en el smartphone sirve como
-intermediaria entre el usuario y el trabajador. Con cada transacción,
-TaskRabbit consigue una comisión de entre el 20 y el 30 por ciento.
+### Intermediación laboral y mercados de propiedad cooperativa online
+
+Muy probablemente estés familiarizada con el modelo de la intermediación
+laboral en línea.  Basta pensar en compañías como _Task Rabbit_, en las
+que puedes agendar que alguien monte tus muebles de _IKEA_ en veinte
+minutos.  La aplicación en tu celular sirve como intermediaria entre la
+usuaria y la trabajadora.  Con cada transacción, _Task Rabbit_ se lleva
+una comisión de entre el 20% y el 30%.
 
 
 
-La abogada del "consumo colaborativo" y dibujante Janelle Orsi nota un
-repunte decisivo en el interés en las cooperativas. Explica que decenas
-de startups de tecnología y negocios tradicionales, como floristerías o
-jardinerías, se han acercado a su Sustainable Economies Law Center[70]
-porque están interesadas en el "salto múltiple" (crowd leaping), la
-migración de su negocio al modelo de cooperativa.
+La abogada del "consumo colaborativo" e historietista Janelle Orsi nota
+un repunte decisivo en el interés por las cooperativas.  Explica que
+decenas de _startups_ de tecnología y negocios tradicionales, como
+floristerías o jardinerías, se han acercado a su _Sustainable Economies
+Law Center_[70] porque están interesadas en el "salto hacia las
+multitudes" (crowd leaping), la migración de su negocio al modelo de
+cooperativa.
 
-En San Francisco, Loconomics[71] es una cooperativa (en beta) propiedad
-de freelancers en la que los miembros-freelancers poseen acciones,
-reciben dividendos y tienen voz en el funcionamiento de la empresa. No
-hay subastas, no hay sobreprecios. Loconomics ofrece masajes y otros
-servicios solicitados localmente. La pertenencia a Loconomics cuesta
-29,95 dólares al mes. Los fundadores empezaron a poner a prueba la
+En San Francisco, _Loconomics_[71] es una cooperativa (en beta)
+propiedad de _freelancers_ en la que las miembras poseen acciones,
+reciben dividendos y tienen voz en el funcionamiento de la empresa.  No
+hay subastas, no hay sobreprecios.  _Loconomics_ ofrece masajes y otros
+servicios solicitados localmente.  La pertenencia a _Loconomics_ cuesta
+\$29,95 USD al mes.  Las fundadoras empezaron a poner a prueba la
 aplicación en el área de la Bahía de San Francisco en enero y febrero de
-2015, y comenzarán a aceptar usuarios de otras ciudades en marzo de
+2015, y comenzarán a aceptar usuarias de otras ciudades en marzo de
 2016.
 
-Ali Alkhatib, un estudiante de doctorado en Ciencias de la computación
-de Stanford, ha trabajado con los FUSE Labs de Microsoft en el diseño de
-una "plataforma entre pares generalizada y centrada en los trabajadores"
-que permita a los trabajadores poseer, operar y controlar el
-software[72]. El proyecto está todavía en sus primeras etapas.
+Ali Alkhatib, un doctorando en Ciencias de la Computación de _Stanford_,
+ha trabajado en los _FUSE Labs_ de _Microsoft_ en el diseño de una
+"plataforma de pares generalizada y centrada en las trabajadoras" que
+permita a las trabajadoras poseer, operar y controlar el software[72].
+El proyecto está todavía en sus primeras etapas.
 
-En Alemania, Fairmondo, que comenzó como un mercado en línea
-descentralizado propiedad de sus usuarios, es una cooperativa
-alternativa a Amazon y eBay. Con sus 2.000 miembros, aspira a
-convertirse con el tiempo en una verdadera alternativa a los grandes
-actores del comercio electrónico, mientras que al mismo tiempo se
-mantiene fiel a sus valores. El sitio también promueve un número menor
-de empresas de comercio justo y de origen ético. En el proceso de
-transferir su modelo de Alemania a otros países, aspiran a un mercado
-mundial en línea, descentralizado y que sea propiedad colectiva de todas
-las cooperativas locales.
+En Alemania, _Fairmondo_ comenzó como un mercado en línea decentralizado
+propiedad de sus usuarias --una alternativa cooperativa a _Amazon_ y
+_eBay_.  Con sus 2.000 miembros, aspira a convertirs en una verdadera
+alternativa a los grandes actores del comercio electrónico, mientras que
+al mismo tiempo se mantiene fiel a sus valores.  El sitio también
+promueve un número menor de empresas de comercio justo y de recursos
+éticos.  En el proceso de transferir su modelo de Alemania a otros
+países, aspira a un mercado mundial en línea, decentralizado y que sea
+propiedad colectiva de todas las cooperativas locales.
 
-Coopify[73] es una plataforma de trabajo con pago en efectivo construida
-por estudiantes que pronto servirá a trabajadores de bajos ingresos bajo
-demanda. Fue creado por el programa de MBA de CornellTech y financiada
-por la Fundación Robin Hood (Nueva York). Los trabajadores que usan
-Coopify se compondrán de neoyorkinos de bajos ingresos que están
-subempleados o en paro y que no tienen la calificación de crédito
+_Coopify_[73] es una plataforma de trabajo con pago en efectivo
+construida por estudiantes que pronto servirá a trabajadoras de bajos
+ingresos bajo demanda.  Fue creado por el programa de MBA de
+_CornellTech_ y financiada por la Fundación Robin Hood de Nueva York.
+Las trabajadoras que usan _Coopify_ serán neoyorquinas de bajos ingresos
+que están sub- o desempleadas y que no tienen la calificación de crédito
 suficiente o la documentación que les permitiría participar en los
-marketplaces en línea existentes. La plataforma, que tiene su propio
-sistema de referencia y soporte multilingüe, también ofrecerá apoyo a
-los trabajadores con los impuestos y permitirá pagarlos en efectivo. El
-Centro para la Vida Familiar (CFL), en Sunset Park, Nueva York, es una
-entidad de apoyo social que está probando actualmente Coopify. El CFL ha
-estado incubando cooperativas de trabajo como una forma de proporcionar
-salarios dignos y condiciones de trabajo dignas desde 2006 a los
-inmigrantes de bajos ingresos. El centro apoya a nueve cooperativas, una
-red cooperativa, y un total de 180 trabajadores-propietarios, en su
-mayoría mujeres latinas. Coopify ayudará a esas nueve cooperativas para
-competir mejor con Handy, Amazon Flex y similares.
+mercados de trabajo en línea existentes.  La plataforma, que tiene su
+propio sistema de referencias y soporte multilingüe, también ofrecerá
+apoyo a las trabajadoras con impuestos y permitirá pagarlos en efectivo.
+El _Center For Family Life_ (CFL), en Sunset Park, Nueva York, es una
+entidad de apoyo social que está probando actualmente _Coopify_.  El CFL
+ha estado incubando cooperativas de trabajo como una forma de
+proporcionar salarios dignos y condiciones de trabajo dignas desde 2006
+a las inmigrantes de bajos ingresos.  El centro apoya a 9 cooperativas,
+una red cooperativa y un total de 180 trabajadoras-propietarias, en su
+mayoría mujeres de origen latino.  _Coopify_ ayudará a esas 9
+cooperativas a competir mejor con _Handy_, _Amazon Flex_ y similares.
 
 
+### Cooperativas de plataforma de propiedad municipal
 
-
-
-
-
-
-
-Cooperativas de plataforma de propiedad municipal
-
-Después de hablar de productores culturales, vamos ahora a dar un gran
-salto y discutir la propiedad pública, que tiene un problema de imagen
-en Estados Unidos. El economista político y fundador de democracia
+Después de hablar de productoras culturales, vamos a dar un gran salto y
+discutir la propiedad pública, que tiene un problema de imagen en
+Estados Unidos.  El economista político y fundador de democracia
 colaborativa, Gar Alperovitz, escribe que hay más de 2.000 compañías de
 electricidad de propiedad pública que, junto con las cooperativas,
-suministran más del 25 por ciento de la electricidad del país[74].
-Alperovitz señala la larga historia de ciudades como Dallas, propietaria
-de varios hoteles y de municipios a lo largo de Estados Unidos que
-poseen hospitales y, al parecer, contrariamente a la opinión pública,
-ese modelo ha estado funcionando bastante bien.
+suministran más del 25% de la electricidad del país[74].  Alperovitz
+señala la larga historia de ciudades como Dallas, propietaria de varios
+hoteles y de municipios a lo largo de Estados Unidos que poseen
+hospitales y al parecer, contrariamente a la opinión pública, ese modelo
+ha estado funcionando bastante bien.
 
+% que es "fundador de democracia colaborativa"??
 
+Janelle Orsi ha detallado ideas acerca de la propiedad en la Internet.
+En correspondencia con mi propuesta para clonar y reconstruir las
+tecnologías de la economía colaborativa con valores democráticos, Orsi
+sugiere un software/empresa diseñado por la ciudad, similar a _Airbnb_,
+que podría servir como un mercado en línea bajo propiedad y gestión
+democrática de las personas que alquilan espacio a viajeras.  Uno de
+estos proyectos ya está en marcha en Seúl, Corea del Sur y se propone la
+creación de una Alianza de Ciudades para la Economía de Plataforma
+(CAPE, por sus siglas en inglés) con el fin de conseguir ciudades
+organizadas en torno a esta idea de plataforma.  Se llama _Munibnb_ y se
+podría crear como una colaboración entre un gran número de ciudades que
+pongan en común sus recursos para crear una plataforma de software de
+alquileres a corto plazo.  Esas ciudades podrían regular que los
+alquileres a corto plazo en sus municipios tuvieran que pasar por dicho
+portal.  Las tarifas podrían ir a parar principalmente a las anfitrionas
+o parcialmente al gobierno de la ciudad, que podría utilizarlas para dar
+servicio a personas mayores o para arreglar las calles, por ejemplo.
+Orsi se pregunta:
 
-Janelle Orsi ha detallado ideas acerca de la propiedad de Internet. En
-correspondencia con mi propuesta para clonar y reconstruir el
-intercambio de tecnologías de economía con valores democráticos en
-mente, Orsi sugiere un software/empresa diseñado por la ciudad, similar
-a Airbnb, que podría servir como un mercado en línea de propiedad y de
-gestión democrática por parte de las personas que alquilan espacio para
-los viajeros. Uno de estos proyectos ya está en marcha en Seúl (Corea
-del Sur), y se propone la creación de una Alianza de Ciudades para la
-Economía de Plataforma (CAPE, por sus siglas en inglés) con el fin de
-conseguir ciudades organizadas en torno a dicha idea de plataforma. Se
-llama Munibnb y se podría crear como una colaboración entre un gran
-número de ciudades que pusieran en común sus recursos para crear una
-plataforma de software de alquileres a corto plazo. Esas ciudades, a
-continuación podrían regular que los alquileres a corto plazo en sus
-municipios tuvieran que pasar por dicho portal. Las tarifas podrían ir a
-parar principalmente a los anfitriones o parcialmente al gobierno de la
-ciudad, que podría utilizarlas para dar servicio a personas mayores o
-para arreglar las calles, por ejemplo. Orsi se pregunta:
+> ¿Por qué millones de dólares de viajeras deben escaparse de nuestras
+> ciudades a manos de los ricos accionistas de las corporaciones, sobre
+> todo cuando no es difícil ejecutar esas operaciones a través de algo
+> así como _Munibnb_?[75]
 
-¿Por qué millones de dólares viajeros se deben escapar de nuestras
-ciudades a manos de los accionistas de las empresas ricas, sobre todo si
-no sería tan difícil ejecutar esas operaciones a través de algo así como
-Munibnb?[75]
-
-Otra aplicación, sugerida por Orsi, se llama Allbnb y supondría que los
-residentes recibieran un dividendo de los beneficios de tales
+Otra aplicación también sugerida por Orsi, se llama _Allbnb_ y supondría
+que las residentes recibieran un dividendo de los beneficios de tales
 plataformas de alquiler, algo comparable con el Fondo Permanente de
-Alaska, que paga a los residentes del estado unos pocos miles de dólares
+Alaska, que paga a las residentes del estado unos pocos miles de dólares
 cada año, un porcentaje de los beneficios que Alaska obtiene de la venta
-de petróleo. Definitivamente, parece factible implementar estas tres
+de petróleo.  Definitivamente, parece factible implementar estas tres
 aplicaciones; lo que permitiría que las ciudades no solo jueguen un
-papel en la regulación de la economía bajo demanda, sino que pudieran
-ser activas a la hora de darle forma.
+papel en la regulación de la economía a demanda, sino que pudieran ser
+activas a la hora de darle forma.
 
-Plataformas propiedad de los "produsers"
-
-
+% cual es la tercera?
 
 
+### Plataformas propiedad de las _produsuarias_
 
-Utilizo el término produser, que no es un error tipográfico, sino un
-acrónimo de usuario y productor.[76] Las plataformas que son propiedad
-de los produsers son una respuesta a las plataformas monopolistas como
-Facebook y Google, que atraen a los usuarios con la promesa del
-"servicio gratuito", mientras que monetarizan su contenido y sus datos.
+Utilizo el término _produsuaria_ como un neologismo que combina usuaria
+y productora.[76]  Las plataformas bajo propiedad de las _produsuarias_
+son una respuesta a las plataformas monopolistas como _Facebook_ y
+_Google_, que atraen a las usuarias con la promesa del "servicio
+gratuito", mientras que monetarizan su contenido y sus datos.
 
+¿Y si fuéramos dueñas de nuestra propia versión de _Facebook_, _Spotify_
+o _Netflix_?  ¿Y si las fotógrafas de _Shutterstock_ poseyeran la
+plataforma donde venden sus fotos?
 
+Sitios como _Member's Media_, _Stocksy_ y _Resonate_ son un paso en la
+dirección que responde esta pregunta.  Ofrecen a las _produsuarias_ la
+oportunidad de ser co-propietarias del sitio a través del que se están
+distribuyendo sus obras de arte.  Las plataformas bajo propiedad de las
+_produsuarias_ permiten a las artistas forjarse una carrera por medio de
+la co-propiedad de las plataformas en las que están vendiendo su
+trabajo.
 
+_Resonate_, con sede en Berlín[77], es un sistema cooperativo de
+_streaming_ de música propiedad de las personas que lo utilizan.  En
+_Resonate_, las usuarias reproducen una canción hasta que la poseen.  La
+primera vez que reproducen una canción, cuesta 0,002 centavos de dólar,
+la segunda vez, 0,004 centavos de dólar y en la cuarta o quinta
+reproducción se conectan a ella y finalmente, la poseen.
 
+% no se entiende nada esto ni en el original
 
-¿Y si fuéramos dueños de nuestra propia versión de Facebook, Spotify, o
-Netflix? ¿Y si los fotógrafos de Shutterstock.com poseyeran la
-plataforma donde se venden sus fotos?
+_Stocksy_[78] es una cooperativa de fotografía de stock bajo propiedad
+de sus artistas.  La cooperativa se basa en la idea de la distribución
+de beneficios y co-propiedad con las artistas que contribuyen con fotos
+al sitio.  Las artistas pueden solicitar el ingreso como miembros y
+cuando son aceptados licencian imágenes y reciben el 50% de comisión
+sobre las ventas, así como el reparto de beneficios al final del año.
+El objetivo de la cooperativa es la creación de carreras profesionales
+viables para sus miembros.  En 2014, sus ingresos habían llegado a \$3,7
+millones de dólares y desde su fundación han pagado varios millones de
+dólares de ganancias a sus artistas.
 
-Sitios como Member’s Media, Stocksy y Resonate son un paso en la
-dirección que permite responder a esta pregunta. Ofrecen a los produsers
-la oportunidad de ser copropietarios del sitio a través del cual se
-están distribuyendo sus obras de arte. Las plataformas de propiedad
-produser permiten a los artistas forjarse una carrera por medio de la
-copropiedad de las plataformas en las que están vendiendo su trabajo.
-
-Resonate, con sede en Berlín[77], es un sistema cooperativo de streaming
-de música propiedad de las personas que lo utilizan. En Resonate, los
-usuarios reproducen una canción hasta que la poseen. La primera vez que
-reproducen una canción, cuesta 0,002 centavos de dólar, la segunda vez,
-0,004 centavos de dólar y en la cuarta o quinta reproducción se conectan
-a ella y, finalmente, la tienen.
-
-Stocksy[78] es una cooperativa de archivo fotográfico propiedad de
-artistas. La cooperativa se basa en la idea de la distribución de
-beneficios y copropiedad con los artistas que contribuyen con fotos al
-sitio. Los artistas pueden solicitar el ingreso como miembros y cuando
-son aceptados licencian imágenes y reciben el 50% de comisión sobre las
-ventas, así como el reparto de beneficios al final del año. El objetivo
-de la cooperativa es la creación de carreras profesionales viables para
-sus miembros. En 2014, sus ingresos habían llegado a 3,7 millones de
-dólares y desde su fundación han pagado varios millones de dólares de
-superávit a sus artistas.
-
-Member’s Media[79] es una plataforma de medios de propiedad cooperativa
-que se dedica a los productores y aficionados al cine de ficción
-independiente. Las personas que lo utilizan y producen en este sitio
--sus produsers- poseen la mayoría de la plataforma junto con los
-fundadores y los inversores originales.
-
-
+_Member's Media_[79] es una plataforma de medios bajo propiedad
+cooperativa que se dedica a las productoras y aficionadas al cine de
+ficción independiente.  Las personas que lo utilizan y producen en este
+sitio --sus _produsuarias_-- poseen la mayoría de la plataforma junto
+con las fundadoras y las inversoras originales.
 
 
+### Plataformas de trabajo respaldadas por sindicatos
 
-Plataformas de trabajo respaldadas por sindicatos
+Hay varios ejemplos, de Denver a Newark, en que las taxistas y los
+sindicatos han comenzado a trabajar en conjunto, construyendo
+aplicaciones y organizando el sector del taxi.  Y si las empresas son
+inteligentes, darían la bienvenida a los sindicatos, ya que varios
+estudios muestran que las trabajadoras agremiadas representan una mejor
+tasa de permanencia y al menos la misma productividad.[80]
 
-Hay varios ejemplos, de Denver a Newark, en que los taxistas y los
-sindicatos han comenzado a trabajar juntos, construir aplicaciones y
-organizar el sector del taxi. Y si las empresas fueran inteligentes,
-darían la bienvenida a los sindicatos, ya que varios estudios muestran
-que los trabajadores sindicados representan una mejor tasa de
-permanencia y, por lo menos, la misma productividad.[80]
+En Newark, New Jersey, _Trans Union Care_ comenzó como un servicio de
+taxi sin ánimo de lucro con conductoras que asociadas a la _United
+Transportation Alliance_ de New Jersey y afiliadas al sindicato de
+comunicaciones _CWA Local 1039_.  Las conductoras se benefician de las
+muchas protecciones del sindicato, como una cooperativa de ahorro y
+crédito, cobertura sanitaria a inmigrantes y jubilaciones.  La compañía
+tiene previsto extenderse a Atlantic City, Elizabeth (New Jersey) y
+Hoboken.
+
+Ya en 2007, las taxistas se unieron a _Communications Workers of America
+local 7777_ y dos años más tarde se las arreglaron para dar inicio a
+_Union Taxi_, la primera cooperativa propiedad de las conductoras en
+Denver.  También reciben apoyo de la organización _1worker1vote.org_,
+que apoya a las cooperativas sindicalizadas ayudándoles a encontrar la
+manera de negociar los salarios, planes de beneficios y programas de
+formación.  Los costes de capital iniciales, a menudo un gran reto para
+las cooperativas, aquí son menos problemáticos porque las conductoras ya
+son dueñas del equipo.
+
+La _California App-Based Drivers Association_ (CADA)[81] es una
+organización sin ánimo de lucro que unifica a las conductoras de _Uber_,
+_Lyft_, _Sidecar_ y otras compañías basadas en aplicaciones.  Las
+conductoras de CADA no son empleadas y por lo tanto no pueden ser
+miembros de pleno derecho del sindicato.  Sin embargo, el _Teamsters
+Local 986_ de California puede ejercer presión para conseguir una
+regulación favorable a las conductoras.  Se aseguran que las conductoras
+que trabajan para empresas como _Lyft_ y _Uber_ hablen con una sola voz.
 
 
+### Las cooperativas desde dentro
 
-
-
-En Newark, New Jersey, Trans Unión Care comenzó como un servicio de taxi
-sin ánimo de lucro con conductores que formaban parte de la United
-Transportation Alliance de New Jersey y afiliados del sindicato de
-comunicaciones CWA Local 1039 (de New Jersey). Los conductores se
-benefician de muchas protecciones del sindicato, como una cooperativa de
-ahorro y crédito, cobertura sanitaria a inmigrantes y pensiones. La
-compañía tiene previsto extenderse a Atlantic City, Elizabeth (New
-Jersey) y Hoboken.
-
-Ya en 2007, los taxistas se unieron a los trabajadores de Communications
-Workers of America local 7777 (de Denver, Colorado) y dos años más tarde
-se las arreglaron para dar inicio a Union taxi, la primera cooperativa
-propiedad de los conductores en Denver. También reciben apoyo de la
-organización 1worker1vote.org, que apoya a las cooperativas
-sindicalizadas ayudándoles a encontrar la manera de negociar los
-salarios, planes de beneficios y programas de formación. Los costes de
-capital iniciales, a menudo un gran reto para las cooperativas, aquí son
-menos problemáticos porque los conductores ya son dueños del equipo.
-
-La California App-Based Drivers Association (CADA)[81] es una
-organización sin ánimo de lucro que unifica a los conductores de Uber,
-Lyft, Sidecar y otras compañías basadas en aplicaciones. Los conductores
-de la CADA no son empleados y por lo tanto no pueden ser miembros de
-pleno derecho del sindicato. Sin embargo, el Teamsters Local 986 de
-California puede ejercer presión para conseguir una regulación favorable
-a los conductores. Se aseguran de que los conductores que trabajan para
-empresas como Lyft y Uber hablen con una sola voz.
-
-Las cooperativas desde dentro
-
-Otra atractiva propuesta, aunque imaginaria, es la idea de las
-cooperativas de trabajo formadas el epicentro de la economía
-colaborativa. Los conductores de Uber podrían utilizar la
+Otra atractiva aunque imaginaria propuesta es la idea de las
+cooperativas de trabajo formadas en el estómago del monstruo de la
+economía colaborativa.  Las conductoras de _Uber_ podrían utilizar la
 infraestructura técnica de la empresa para establecer sus propias
-empresas. Esta absorción hostil por parte de los trabajadores podría ser
-imaginable como resultado de una demanda antimonopolio comparable a la
-que se llevó adelante contra Microsoft después de su lanzamiento de
-Internet Explorer.
+empresas.  Esta absorción hostil por parte de las trabajadoras podría ser
+imaginable como resultado de una demanda anti-monopolio comparable a la
+que se llevó adelante contra _Microsoft_ después del lanzamiento de
+_Internet Explorer_.
 
 
-
-
-
-
-
-
-
-La plataforma como protocolo
-
-
-
-
+### La plataforma como protocolo
 
 El trabajo del futuro quizás no será dictado por las plataformas
 centralizadas, ni siquiera por las que son operadas por cooperativas.
 Tal vez serán interacciones entre pares facilitadas por los protocolos
-que permiten la interacción de igual a igual. En Israel, por ejemplo,
-La'Zooz[82] es una red distribuida entre pares de transporte compartido.
-Así como desde Members Media querrían que piensen en ellos como el
-Netflix de los cineastas y aficionados, propiedad de esos produsers,
-La'Zooz se podría comparar con el Bittorrent de compartir coche.
-Cualquiera que conduzca por una ciudad puede ganar "cryptotokens"
-acogiendo compañeros de viaje. A diferencia del sistema descrito
-anteriormente, este es totalmente peer-to-peer, no hay un punto central,
-no hay sede central[83].
+P2P.  En Israel, por ejemplo, _La'Zooz_[82] es una red distribuida entre
+pares de transporte compartido.  Así como desde _Member's Media_
+querrían que piensen en ellas como el _Netflix_ de las cineastas y
+aficionadas, bajo propiedad de esas _produsuarias_, _La'Zooz_ se podría
+compararse con el _BitTorrent_ de compartir transporte.  Cualquiera que
+conduzca por una ciudad puede ganar _cryptotokens_ tomando compañeras de
+viaje.  A diferencia del sistema descrito anteriormente, este es
+totalmente P2P, no hay un punto central, no hay un cuartel general[83].
 
-Diez Principios para el cooperativismo de plataforma
+
+### Diez Principios para el cooperativismo de plataforma
 
 Una discusión técnica sobre los valores, normas y directrices para el
 cooperativismo de plataforma concierne, sin duda, a las que ya están en
-marcha. En primer lugar, por supuesto, debe estar la creación de un
-anhelo de soluciones cooperativas. Astra Taylor apoya la sabiduría de
-Elaine Browne, exlíder del Partido Panteras Negras: "Nunca organizarse
+marcha.  En primer lugar, por supuesto, debe estar la creación de un
+anhelo de soluciones cooperativas.  Astra Taylor apoya la sabiduría de
+Elaine Browne, ex-líder del Partido Panteras Negras: "Nunca organizarse
 ni movilizarse alrededor de principios abstractos"[84].  Por otra parte,
 una vez se ha empezado, los principios y valores asociados con el
 cooperativismo de plataforma se convierten en esenciales.
 
+Juliet Schor realizó doscientas entrevistas con trabajadoras de la
+economía colaborativa.  Su sugerencia es:
 
+> Asegúrese de que tendrá la propuesta de valor adecuada.  Lo que está
+> ofreciendo debe ser de valor económico para las personas que desea
+> atraer.  En los espacios sin ánimos de lucro, esto está ausente a
+> menudo.  El espacio lucrativo lo consigue mejor.
 
-Juliet Schor realizó doscientas entrevistas con trabajadores de la
-economía colaborativa. Su sugerencia es:
+Más allá de lo que afirma Schor, influenciada por el pensamiento de
+_ver.di_, el sindicato alemán de las trabajadoras de servicios,[85]
+propongo los siguientes principios para el cooperativismo de plataforma.
 
-Asegúrese de que tendrá la propuesta de valor adecuada. Lo que está
-ofreciendo debe ser de valor económico para las personas que desea
-atraer. En el espacio sin ánimo de lucro, a menudo está ausente. El
-espacio lucrativo lo está consiguiendo más a menudo.
-
-Más allá de lo que afirma Schor, influenciada por el pensamiento del
-servicio sindical alemán ver.di,[85] propongo los siguientes principios
-para el cooperativismo de plataforma.
-
-1) Propiedad: una de las principales narrativas de lo que se ha llamado
-   economía colaborativa trata sobre el rechazo de la propiedad. La
-   generación del milenio, nos dicen, no está interesada en las
+1) _Propiedad:_ una de las principales narrativas de lo que se ha
+   llamado economía colaborativa trata sobre el rechazo de la propiedad.
+   La generación del milenio, nos dicen, no está interesada en las
    posesiones físicas; lo único que quieren es tener acceso a "cosas".
-   No bajan música, la escuchan en streaming. No compran un coche; son
-   fans de compartirlo. Nuestra narrativa, por el contrario, trata de un
-   Internet centrado en las personas.
+   No bajan música, la escuchan en _streaming_.  No compran un auto; son
+   fans de compartirlo.  Nuestra narrativa, por el contrario, trata de
+   una Internet centrada en el pueblo.
 
-Internet fue diseñado como una red científica militar en 1969. Pero
-desde 1990 hasta 1994, la National Science Foundation planeó pasar la
-red a empresas privadas que actualmente poseen los cables y routers. En
-1995, la infraestructura de Internet con fondos públicos, NSFNET, fue
-entregada oficialmente al sector privado. Desde entonces, Internet nos
-ha traído mucho en casi todas las áreas, pero ha dejado la cuestión de
-la titularidad compartida intacta.
+   Internet fue diseñada como una red científica militar en 1969.  Pero
+   desde 1990 hasta 1994, la _National Science Foundation_ planeó pasar
+   la red a empresas privadas que pasarían a poseen los cables y
+   _routers_.  En 1995, la infraestructura de Internet con fondos
+   públicos, _NSFNET_, fue entregada oficialmente al sector privado.
+   Desde entonces, Internet nos ha traído mucho en casi todas las áreas,
+   pero ha dejado la cuestión de la titularidad compartida intacta.
 
-Esto no va de gatitos lindos en Reddit; esto va de la propiedad de
-Internet. Plataformas cooperativas de propiedad colectiva, propiedad de
-las personas que generan la mayor parte del valor en esas plataformas,
-podrían revitalizar esta historia de lo público en Internet. El
-cooperativismo de plataforma puede cambiar la manera en que la gente
-común piensa acerca de su relación con Internet.
+   No se trata de gatitos lindos en _Reddit_; sino de la propiedad de
+   Internet.  Las plataformas cooperativas de propiedad colectiva,
+   propiedad de las personas que generan la mayor parte del valor,
+   podrían revitalizar esta historia de lo público en Internet.  El
+   cooperativismo de plataforma puede cambiar la manera en que la gente
+   común piensa acerca de su relación con Internet.
 
-2) Pago decente y seguridad de renta: En 2015, sistemas de crowdsourcing
-   como el de los trabajadores novatos de Amazon Mechanical Turk -que
-   tienen una buena formación- se pagan con entre dos y tres dólares a
-   la hora, lo que es una vergüenza en un país tan rico como Estados
-   Unidos. Al igual que los trabajadores domésticos están aislados en
-   las casas de la gente, los trabajadores digitales siguen siendo
-   invisibles, aislados entre algoritmos. La Domestic Workers Alliance
-   empujó en dirección contraria. En la cumbre White House Worker’s
-   Voice (La voz de los trabajadores de la Casa Blanca) introdujeron el
-   Código del Buen Trabajo con una simple demanda: "Todo el mundo
-   necesita paga y prestaciones justas para ganarse la vida."[86]
+2) _Pago decente y seguridad de ingresos:_  En 2015, los sistemas de
+   _crowdsourcing_ como el de las trabajadoras novatas en _Amazon
+   Mechanical Turk_ --que tienen una buena formación-- se pagan entre
+   \$2 y \$3 USD a la hora, lo que es una vergüenza en un país tan rico
+   como Estados Unidos.  Al igual que las trabajadoras domésticas están
+   aisladas en las casas de sus empleadores, las trabajadoras digitales
+   son invisibles, aisladas en algoritmos.  La _Domestic Workers
+   Alliance_ se resistió.  En la cumbre _White House Worker's Voice_
+   introdujeron el Código del Buen Trabajo con una demanda muy simple:
+   "Todo el mundo necesita paga y prestaciones justas para ganarse la
+   vida."[86]
 
-3) Transparencia y portabilidad de datos: La transparencia no es solo
-   cuestión de transparencia operativa. El marketplace en línea de
-   propiedad cooperativa Fairmondo, por ejemplo, destaca que pone todo
-   el presupuesto de la cooperativa a disposición del público. Sin
-   embargo, la transparencia conviene también al tratamiento de los
-   datos, especialmente los datos sobre los clientes. Debe ser
+3) _Transparencia y portabilidad de datos:_  La transparencia no es solo
+   cuestión de transparencia operativa.  El mercado en línea bajo
+   propiedad cooperativa _Fairmondo_, por ejemplo, destaca que pone todo
+   el presupuesto de la cooperativa a disposición del público.  Sin
+   embargo, la transparencia también se trata del tratamiento de los
+   datos, especialmente los datos sobre las clientes.  Debe ser
    transparente qué datos se recopilan, la forma en que se recogen, cómo
    se utilizan y a quién se venden.
 
-4) Apreciación y reconocimiento: Un buen ambiente de trabajo debe ser
-   parte de esta discusión. Los trabajadores merecen el reconocimiento y
-   la apreciación de los propietarios y gestores. En ese contexto, la
-   capacidad de los trabajadores para comunicarse con los gestores de
-   plataformas o propietarios es de capital importancia. Cuando a los
-   trabajadores se les paga tarde, no son compensados a tiempo[87] o son
-   despedidos, deben tener el derecho efectivo a obtener una
+4) _Apreciación y reconocimiento:_  Un buen ambiente de trabajo debe ser
+   parte de esta discusión.  Las trabajadoras merecen el reconocimiento
+   y la apreciación de los propietarios y gestores.  En ese contexto, la
+   capacidad de las trabajadoras para comunicarse con los gestores de
+   plataformas o propietarios es de capital importancia.  Cuando a las
+   trabajadorls se les paga tarde, no son compensadas a tiempo[87] o son
+   despedidas, deben tener el derecho efectivo a obtener una
    explicación.
 
-5) Decisiones colectivas en el trabajo: las plataformas de trabajo deben
-   implicar a los trabajadores desde el momento de programación de la
-   plataforma y a lo largo de su uso. De esta manera, además, los
-   gestores aprenderán mucho más sobre el flujo de trabajo de los
-   usuarios. Como dijo Juliet Schor, "comenzar con la gente lo que se
-   quiere lograr y terminarlo con ella". A partir del día uno,
-   involucrar a las personas en lo que se desea para poblar la
-   plataforma.
+5) _Co-determinación del trabajo:_  Las plataformas de trabajo deben
+   implicar a las trabajadoras desde el momento de programación de la
+   plataforma y a lo largo de su uso.  De esta manera, además, los
+   gestores aprenderán mucho más sobre el flujo de trabajo de las
+   usuarias.  Como dijo Juliet Schor, "comenzar con la gente lo que se
+   quiere lograr y terminarlo con ella".  A partir del primer día,
+   involucrar a las personas con las que se desea poblar la plataforma.
 
-6) Un marco legal protector: Las cooperativas de plataforma requieren
-   ayuda legal porque son vistas como inusuales. Esta ayuda también es
+6) _Un marco legal protector:_  Las cooperativas de plataforma requieren
+   ayuda legal porque son vistas como inusuales.  Esta ayuda también es
    necesaria cuando se trata de defender a las cooperativas contra
-   acciones legales adversas. El triunfo de la empresa de accionistas se
-   ha logrado a través de su control del sistema político, del jurídico
-   y del económico. Las leyes de Estados Unidos subvencionan a las
-   corporaciones por encima del bienestar de todas las personas. Por
-   ejemplo, las cooperativas pueden necesitar regulación local para
+   acciones legales adversas.  El triunfo de la empresa de accionistas
+   se ha logrado a través de su control del sistema político, del
+   jurídico y del económico.  Las leyes de Estados Unidos subvencionan a
+   las corporaciones por encima del bienestar de todas las personas.
+   Por ejemplo, las cooperativas pueden necesitar regulación local para
    mantenerse en el juego, pero los reguladores federales pueden
-   intentar adelantarse. Los operadores tradicionales pueden tratar de
-   mantener a sus trabajadores alejados del multihoming[88] en la
-   plataforma de cooperativas. Los abogados pueden desafiarlos, o
-   presionar para una ley del estado que lo haga ilegal. Por último,
+   intentar detenerlo.  Los operadores tradicionales pueden tratar de
+   mantener a sus trabajadoras alejadas del _multi-homing_[88] en las
+   plataformas cooperativas.  Sus abogados pueden desafiarlos, o
+   presionar para una ley del estado que lo haga ilegal.  Por último,
    como Frank Pasquale ha observado, existe la extraña inconsistencia en
    la normativa de competencia basada en la diferencia entre los
-   monopolios y las cooperativas.[89] Mientras que los monopolios pueden
-   obtener vía libre en Estados Unidos si surgen "naturalmente"
-   (signifique esto lo que signifique), una federación de cooperativas
-   que trata de competir con una firma dominante podría ser responsable
-   ante la ley antimonopolio si trata de fijar los precios o incluso de
-   establecer normas de conducta. Si bien Estados Unidos acepta bastante
-   bien los monopolios si siguen vagamente las reglas del juego, es
-   bastante reacia cuando se trata de cárteles. Los poderes del gobierno
-   promueven el sistema de gobierno corporativo y la marginación de las
-   clases medias.
+   monopolios y las cooperativas.[89]  Mientras que los monopolios
+   pueden obtener vía libre en Estados Unidos si surgen "naturalmente"
+   (lo que sea que esto signifique), una federación de cooperativas que
+   trata de competir con una firma dominante podría ser responsable ante
+   la ley anti-monopolio si intenta fijar los precios o incluso de
+   establecer normas de conducta.  Si bien Estados Unidos acepta
+   bastante bien los monopolios si siguen vagamente las reglas del
+   juego, es bastante reacia cuando se trata de cárteles.  Los poderes
+   del gobierno promueven el sistema de gobierno corporativo y la
+   marginalización de las clases medias.
 
-7) Protección transferible de los trabajadores y prestaciones: Ambos,
-   contingentes, de la misma manera que los trabajadores de la economía
-   tradicional deben ser capaces de mantener protecciones y prestaciones
-   a través de cambios de escenarios de trabajo. Las protecciones
-   sociales no deben estar vinculadas a un lugar de trabajo en
-   particular. El gobierno francés está poniendo a prueba esta idea y en
-   Estados Unidos Steven Hill, un autor residente en San Francisco, es
-   una de las personas que hicieron esta propuesta en su último libro
-   Raw Deal: How the ‘Uber Economy’ and Runaway Capitalism Are Screwing
-   American Workers. (Trato injusto. Cómo la "Ubereconomía" y el
-   capitalismo desbocado están atornillando a los trabajadores de
-   América[90]): a cada trabajador se le asignaría una cuenta de
-   seguridad individual en la que todas las empresas que contratan a ese
-   trabajador pagarían una pequeña "cuota de red de seguridad",
-   prorrateando el número de horas que un trabajador es empleado en ese
-   negocio. Esos fondos se utilizarían para pagar la red de seguridad de
-   cada trabajador, dirigiendo los fondos a la infraestructura ya
-   establecida, como la Seguridad Social, Medicare, seguros contra
-   accidentes y la prestación por desempleo, y la atención sanitaria a
-   través del Obamacare. Además, este plan proporcionaría un mínimo de
-   cinco días de baja por enfermedad y vacaciones pagadas para cada
-   trabajador[91].
+7) _Portabilidad de la protección de las trabajadoras y prestaciones:_
+   Las trabajadoras tanto de la economía tradicional como la contingente
+   deberían ser capaces de llevarse los beneficios y protecciones con
+   ellas en escenarios laborales cambiantes.  Las protecciones sociales
+   no deben estar vinculadas a un espacio de trabajo en particular.  El
+   gobierno francés está poniendo a prueba esta idea y en Estados Unidos
+   Steven Hill, un autor residente en San Francisco, es una de las
+   personas que hicieron esta propuesta en su último libro _Raw Deal:
+   How the 'Uber Economy' and Runaway Capitalism Are Screwing American
+   Workers_.[90]  A cada trabajadora se le asignaría una cuenta de
+   seguridad individual en la que todas las empresas que la contraten
+   pagarían una pequeña tarifa de seguridad, prorrateando el número de
+   horas por las que se mantuvo empleada.  Esos fondos se utilizarían
+   para pagar la red de seguridad de cada trabajadora, dirigiendo los
+   fondos a la infraestructura ya establecida, como la salud pública y
+   seguros contra accidentes y de desempleo.  Además, este plan
+   proporcionaría un mínimo de cinco días de baja por enfermedad y
+   vacaciones pagas para cada trabajadora[91].
 
-Una consecuencia importante de esta propuesta es que, al poner a casi
-todos los trabajadores en condiciones comparables, se podrían reducir en
-gran medida los incentivos para que los empleadores recurran a los
-trabajadores eventuales como una forma de evitar el pago de prestaciones
-y ayudas al trabajador. Estos cambios pueden ser implementados a nivel
-local o estatal, los estadounidenses no tienen por qué esperar a un
-Congreso disfuncional para seguir adelante. Mucho dependerá de la "letra
-pequeña" de dicho programa, que podría convertirse fácilmente en solo
-una tapadera para más desregulación.
+   Una consecuencia importante de esta propuesta es que, al poner a casi
+   todas los trabajadoras en iguales condiciones, se podrían reducir en
+   gran medida los incentivos para que los empleadores recurran a los
+   trabajadoras eventuales como una forma de evitar el pago de
+   prestaciones y ayudas a la trabajadora.  Estos cambios pueden ser
+   implementados a nivel local o estatal, las estadounidenses no tienen
+   por qué esperar a un Congreso disfuncional para seguir adelante.
+   Mucho dependerá de la "letra pequeña" de dicho programa, que podría
+   convertirse fácilmente en solo una tapadera para más desregulación.
 
 8) Protección contra la conducta arbitraria: Uber es conocida por sus
    prácticas arbitrarias de disciplina y despido. Los conductores pueden
@@ -1324,7 +1269,7 @@ igual que con otros advenedizos en la economía colaborativa, esto hace
 que sea imposible que los trabajadores capitalicen su reputación. Cuando
 se cambian a otra plataforma, empiezan desde cero. En consecuencia, es
 esencial que los trabajadores establezcan sus propios sistemas
-descentralizados de reputación y de identidad. Proyectos como Traity[94]
+decentralizados de reputación y de identidad. Proyectos como Traity[94]
 y Crypto Swartz[95] están trabajando en esa dirección.
 
 9) Rechazo de la excesiva vigilancia en el lugar de trabajo: La excesiva
@@ -1493,7 +1438,7 @@ cooperativas federadas crearan plataformas de comunicación que pudieran
 superar a algunas de las plataformas centralizadas, capitalistas, muy
 controladas y que violan la privacidad, emergidas recientemente. Nos
 anima a investigar la forma en la que Internet, que se inició como una
-red descentralizada y cooperativa, se convirtió en centralizada y
+red decentralizada y cooperativa, se convirtió en centralizada y
 corporativa.[111]
 
 Las cooperativas de plataforma que se basan en los bienes comunes, se
@@ -1557,7 +1502,7 @@ derechos digitales.
 
 Pero esta tecnología también permite mercados de trabajo entre pares sin
 intermediarios. Es posible imaginar "organismos autónomos
-descentralizados" y empresas virtuales que sean básicamente conjuntos de
+decentralizados" y empresas virtuales que sean básicamente conjuntos de
 reglas para las operaciones ejecutadas entre pares. Claro, pero, ¿a
 quién acudir si algo va mal? La programación basada en Blockchain
 también se utiliza como "mecanismo de consenso" para
@@ -1629,7 +1574,7 @@ puedan proponer políticas, opciones de debate, proyectos y examinar las
 propuestas, votar y tomar decisiones[119].
 
 ConsenSys[120] es un estudio de producción que crea aplicaciones
-descentralizadas y diversas herramientas para desarrolladores y usuarios
+decentralizadas y diversas herramientas para desarrolladores y usuarios
 finales para los ecosistemas de Blockchain, centrándose principalmente
 en Ethereum.
 
