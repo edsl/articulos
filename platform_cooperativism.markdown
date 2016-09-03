@@ -36,7 +36,7 @@ Concluiré con reflexiones sobre posibles pasos que hay que seguir para
 este movimiento en marcha.
 
 _Las consecuencias de la economía colaborativa._ La han llamado
-"economía de changas" (gig economy[1]), la economía de pares, la
+"economía de changas" (gig economy), la economía de pares, la
 _sharing economy_.  Ha llevado un tiempo reconocer que la _economía
 colaborativa_ era en realidad una _economía de servicios a demanda_ que
 se disponía monetizar servicios que antes eran privados.  Es cierto que
@@ -45,7 +45,7 @@ para trabajadoras formadas en búsqueda de algo estable y para quienes
 disponen de una segunda vivienda.  Ahora es más fácil para las graduadas
 universitarias encontrar algún trabajo montando los muebles o renovando
 la casa de alguien.  Las consumidoras, formadas por una aguda
-apreciación de los bajos precios y de la "uber-comodidad"[2] por encima
+apreciación de los bajos precios y de la "uber-comodidad" por encima
 de todo, han dado la bienvenida a estos advenedizos.  Pero, ¿debemos
 entender la economía colaborativa como un cartel en el camino que apunta
 a un futuro mejor, más flexible, del trabajo?  ¿Qué es lo que esta
@@ -54,11 +54,11 @@ economía nos trae realmente?
 Bienvenida a las Aldeas Potemkin de la "economía colaborativa", en las
 que finalmente puedes venderle las frutas que crecen en tu jardín a tus
 vecinas, compartir un viaje en coche, alquilar una casa de árbol en el
-bosque _Redwood_ o visitar un _KinkBnB_[3].  Esta amigable comodidad
+bosque _Redwood_ o visitar un _KinkBnB_.  Esta amigable comodidad
 supone para muchas trabajadoras un salario bajo y una trampa precaria.
 Pero tú, por el contrario, puedes escuchar tu propia cuenta de _Spotify_
 en un taxi de _Uber_.  Ya no tienes que sufrir lo que el economista
-George Akerlof[4] denominó "mercado de limones"; estas nuevas
+George Akerlof[-@akerlof-1970] denominó "mercado de limones"; estas nuevas
 plataformas están introduciendo nuevos pesos y contrapesos.  Has sido
 promovida a la gerencia media, tienes derecho a despedir a tu
 conductora.  Hay empresas que hasta han encontrado una manera de sacar
@@ -70,7 +70,7 @@ _Uber_ celebran su momento warholiano, sus quince mil millones de
 dólares de fama.  Se deleitan en el hecho de haber puesto en marcha sus
 plataformas monopólicas en ausencia de una infraestructura física
 propia.  Al igual que _AOL_ y _AT&T_ no crearon Internet, ni Mitt
-Romney[5] construyó su negocio por sí mismo[6], las empresas de la
+Romney construyó su negocio por sí mismo[@wsj-2012], las empresas de la
 economía a demanda tampoco construyeron su imperio.  Están poniendo a
 producir _tu_ coche, _tu_ departamento, _tu_ trabajo, _tus_ emociones y,
 más importante, _tu_ tiempo.  Son empresas de logística que requieren
@@ -85,10 +85,12 @@ canadiense Tom Slee lo resume así:
 > capacidades intrínsecas de Internet para promover la confianza y una
 > comunidad igualitaria y así, sin saberlo, se van convirtiendo en
 > cómplices de esta acumulación de fortuna privada, y de la construcción
-> de nuevas y explotadoras formas de empleo[7].
+> de nuevas y explotadoras formas de empleo[@slee-2015].
 
-En la conferencia "Cooperativismo de plataforma"[8], John Duda, de
-Democracia Colaborativa, declaró:
+En la conferencia "Cooperativismo de plataforma"[^platform-1], John
+Duda, de Democracia Colaborativa, declaró:
+
+[^platform-1]: <http://platformcoop.net>
 
 > La propiedad de las instituciones de las que dependemos para vivir,
 > para comer, para trabajar, se está concentrando cada vez más.  Sin la
@@ -100,11 +102,13 @@ Democracia Colaborativa, declaró:
 > contribuyendo a la concentración de la riqueza en cada vez menos
 > manos.  Dondequiera que la economía tecnológica se extiende, la
 > vivienda se vuelve totalmente impagable.  Tenemos que revertir esa
-> tendencia[9].
+> tendencia[^platform-2].
+
+[^platform-2]: <https://vimeo.com/149401422>
 
 Las ocupaciones que no pueden ser deslocalizadas --la paseadoras de
 mascotas o la que hace la limpieza doméstica-- se están subsumiendo bajo
-lo que Sasha Lobo[10] y Martin Kenney llaman "capitalismo de
+lo que Sasha Lobo[-@lobo-2014] y Martin Kenney llaman "capitalismo de
 plataforma".  Las _baby boomers_ están perdiendo sectores de la economía
 como el transporte, la comida y varios otros más ante la generación del
 milenio, que se precipita con ferocidad a controlar la demanda, la
@@ -121,7 +125,7 @@ tuyo", el caballo de Troya de la economía colaborativa nos libera de las
 formas jurásicas del trabajo mientras desencadena una maquinaria colosal
 de represión sindical; pasando por encima de las personas de mayor edad
 en especial.  El autor alemán Byung-Chul Han enmarca el momento actual
-como "sociedad de fatiga"[11].  Vivimos, escribe, en una sociedad
+como "sociedad de fatiga"[@han-2010].  Vivimos, escribe, en una sociedad
 orientada a los logros que es supuestamente libre, determinada por el
 "sí se puede".  Al principio esto crea una sensación de libertad, pero
 que pronto viene acompañada de ansiedad, auto-explotación y depresión.
@@ -148,7 +152,10 @@ Hay una masa de cuerpos sin nombre, escondidos tras la pantalla,
 expuesta a vigilancia laboral, el desplume colectivo, robo de salarios y
 al software privativo.  Como el activista del software libre Micky Metts
 advertía: "cuando se construyen plataformas, no se puede construir la
-libertad sobre la esclavitud de otra persona"[12].
+libertad sobre la esclavitud de otra persona"[^platform-3].
+
+[^platform-3]:
+<http://livestream.com/internetsociety/platformcoop/videos/105663835>
 
 Al responder a una crítica política de la economía a demanda, algunas
 académicas postulan que los terribles resultados de un capitalismo sin
@@ -156,12 +163,12 @@ restricciones están bien entendidos; toda esa perorata no necesita ser
 afirmada de vuelta.  Pero tal vez, como dijo McKenzie Wark: "Esto no es
 capitalismo, esto es algo peor".  Sugirió que "el modo de producción en
 el que parecemos estar entrando no es tanto el capitalismo como ha sido
-descrito clásicamente".[13]
+descrito clásicamente" [@wark-2015].
 
 Esto no es simplemente una continuación del capitalismo pre-digital tal
 como lo conocemos, sino que hay notables discontinuidades, un nuevo
 nivel de explotación y una concentración de riqueza para la que se acuñé
-el término "desplume de multitudes"[14].  Desplumar a la multitud es una
+el término "desplume de multitudes".  Desplumar a la multitud es una
 nueva forma de explotación, puesta en marcha por cuatro o cinco
 advenedizos, para disponer de una reserva mundial de millones de
 trabajadoras en tiempo real.
@@ -190,7 +197,10 @@ de esperar, no podemos cambiar lo que no entendemos.  Por eso pregunto,
 ¿qué significa la "economía colaborativa"?
 
 
-### Todo Uber tiene su Unter[15]
+### Todo Uber tiene su Unter[^platform-ndt-1]
+
+[^platform-ndt-1]: Juego de palabras entre _unter_ y _uber_, en alemán
+"debajo" y "arriba" respectivamente.  _(Nota de la traducción.)_
 
 La economía colaborativa indica una ofensiva a gran escala, global, en
 favor de "constructores de puentes digitales" que se insertan entre
@@ -200,8 +210,12 @@ indica que el trabajo digital no es un fenómeno de nicho.  _UpWork_
 (antes _ODesk_ y _Elance_) afirma que tiene unos diez millones de
 trabajadoras.  _Crowdwork_, ocho millones.  _CrowdFlower_, cinco
 millones.  En 2015, 160.000 conductoras salen a las calles para _Uber_,
-si confiamos en sus cifras[16].  _Lyft_ informa 50.000 conductoras.
-_TaskRabbit_ declara contar con 30.000 trabajadoras[17].
+si confiamos en sus cifras[@bruns-2008].  _Lyft_ informa 50.000
+conductoras.  _TaskRabbit_ declara contar con 30.000
+trabajadoras[^platform-4].
+
+[^platform-4]:
+<http://www.nelp.org/content/uploads/Rights-On-Demand-Report.pdf>
 
 En Alemania, los sindicatos como _ver.di_ concentran sus esfuerzos en la
 defensa de los derechos de las empleadas, mientras que en Estados Unidos
@@ -219,12 +233,13 @@ estamos dándole esteroides a la economía industrial, creando brechas de
 riqueza y formas de explotación cada vez más extremas.  Estamos
 generando todas estas nuevas tecnologías como el _Bitcoin_ o la
 _Blockchain_, pero en realidad no nos estamos preguntando para qué
-estamos programando estas cosas"[18].  Los beneficios del capitalismo de
-plataforma para las consumidoras, propietarias y accionistas son
-evidentes; pero el valor añadido para las trabajadoras vulnerables y el
-valor a largo plazo para las consumidoras no están claros en el mejor de
-los casos.
+estamos programando estas cosas"[^platform-5].  Los beneficios del
+capitalismo de plataforma para las consumidoras, propietarias y
+accionistas son evidentes; pero el valor añadido para las trabajadoras
+vulnerables y el valor a largo plazo para las consumidoras no están
+claros en el mejor de los casos.
 
+[^platform-5]: <https://vimeo.com/149979122>
 
 ### Las nuevas dependencias y el nuevo dominio
 
@@ -1163,7 +1178,7 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    son invisibles, aisladas en algoritmos.  La _Domestic Workers
    Alliance_ se resistió.  En la cumbre _White House Worker's Voice_
    introdujeron el Código del Buen Trabajo con una demanda muy simple:
-   "Todo el mundo necesita paga y prestaciones justas para ganarse la
+   "Todo el mundo necesita pago y prestaciones justos para ganarse la
    vida."[86]
 
 3) _Transparencia y portabilidad de datos:_  La transparencia no es solo
@@ -1238,8 +1253,8 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    vacaciones pagas para cada trabajadora[91].
 
    Una consecuencia importante de esta propuesta es que, al poner a casi
-   todas los trabajadoras en iguales condiciones, se podrían reducir en
-   gran medida los incentivos para que los empleadores recurran a los
+   todas las trabajadoras en iguales condiciones, se podrían reducir en
+   gran medida los incentivos para que los empleadores recurran a las
    trabajadoras eventuales como una forma de evitar el pago de
    prestaciones y ayudas a la trabajadora.  Estos cambios pueden ser
    implementados a nivel local o estatal, las estadounidenses no tienen
@@ -1247,533 +1262,498 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    Mucho dependerá de la "letra pequeña" de dicho programa, que podría
    convertirse fácilmente en solo una tapadera para más desregulación.
 
-8) Protección contra la conducta arbitraria: Uber es conocida por sus
-   prácticas arbitrarias de disciplina y despido. Los conductores pueden
-   ser privados de ingresos sin una advertencia.[92] Las razones para el
-   despido de los conductores son a menudo poco claras, ya que la
-   empresa rechaza responder a las preguntas de los conductores que
-   exigen una explicación, un problema al que también se enfrentan otros
-   trabajadores en otras plataformas.[93] En Lyft, los conductores que
-   no reciben cinco estrellas pueden ser echados de la plataforma con
-   una patada. Los consumidores adquieren poderes de gestión sobre la
-   vida de los trabajadores, lo que implica una enorme responsabilidad.
+8) _Protección contra la conducta arbitraria:_ _Uber_ es conocida por
+   sus prácticas arbitrarias de disciplina y despido.  Las conductoras
+   pueden ser privadas de ingresos sin advertencia.[92]  Las razones
+   para el despido son a menudo poco claras, ya que la empresa rechaza
+   responder a las preguntas de las conductoras que exigen una
+   explicación, un problema al que también se enfrentan las trabajadoras
+   en otras plataformas.[93]  En _Lyft_, las conductoras que no reciben
+   cinco estrellas pueden ser echadas de una patada. Las consumidoras
+   adquieren poderes de gestión sobre la vida de las trabajadoras, lo
+   que implica una enorme responsabilidad.
 
-Y si eso no fuera suficiente, el sistema de reputación de Uber también
-culpa a los conductores ante pasajeros manazas que simplemente pulsan el
-botón equivocado al evaluar a un conductor, poniendo la subsistencia del
-conductor en peligro.
+   Y por si esto no fuera suficiente, el sistema de reputación de _Uber_
+   también culpa a las conductoras ante pasajeras de dedos gordos que
+   simplemente pulsan el botón equivocado al evaluar, poniendo la
+   subsistencia de la conductora en peligro.
 
-El sistema de reputación de trabajadores de Uber se encuentra alojado en
-la "nube", en los servidores centralizados, privados, de la empresa. Al
-igual que con otros advenedizos en la economía colaborativa, esto hace
-que sea imposible que los trabajadores capitalicen su reputación. Cuando
-se cambian a otra plataforma, empiezan desde cero. En consecuencia, es
-esencial que los trabajadores establezcan sus propios sistemas
-decentralizados de reputación y de identidad. Proyectos como Traity[94]
-y Crypto Swartz[95] están trabajando en esa dirección.
+   El sistema de reputación de las trabajadoras de _Uber_ se encuentra
+   alojado en la "nube", en los servidores centralizados, privados, de
+   la empresa.  Al igual que con otros advenedizos en la economía
+   colaborativa, esto hace que sea imposible que las trabajadoras
+   capitalicen su reputación.  Cuando se cambian a otra plataforma,
+   empiezan desde cero.  En consecuencia, es esencial que las
+   trabajadoras establezcan sus propios sistemas decentralizados de
+   reputación y de identidad.  Proyectos como _Traity_[94] y _Crypto
+   Swartz_[95] están trabajando en esa dirección.
 
-9) Rechazo de la excesiva vigilancia en el lugar de trabajo: La excesiva
-   vigilancia en el lugar de trabajo por medio de los diarios de los
-   trabajadores de oDesk (ahora, Upwork)[96] o las constantes revisiones
-   en TaskRabbit deben ser rechazadas.
+9) _Rechazo de la excesiva vigilancia en el lugar de trabajo:_ La
+   excesiva vigilancia en el lugar de trabajo por medio de los diarios
+   de las trabajadoras de _oDesk_ (ahora _Upwork_)[96] o las constantes
+   revisiones en _TaskRabbit_ deben ser rechazadas.
 
-¿Dónde está la dignidad del trabajo en este tipo de sistemas? ¿Le
-gustaría levantarse cada mañana solo para competir por el trabajo que
-tiene que hacer ese día? ¿Le gustaría ser evaluado cada cuatro horas por
-parte de personas que no conoce en absoluto? Tales prácticas de
-vigilancia dejan a los trabajadores sin demasiada dignidad.
+   ¿Dónde está la dignidad del trabajo en este tipo de sistemas?  ¿Te
+   gustaría levantarte cada mañana solo para competir por el trabajo que
+   tiene que hacer ese día?  ¿Te gustaría ser evaluada cada cuatro horas
+   por parte de personas que no te conocen en absoluto?  Tales prácticas
+   de vigilancia despojan a las trabajadoras de su dignidad.
 
-10) Derecho de los trabajadores a desconectar: Los trabajadores también
-    deben tener derecho a desconectar. El trabajo digital decente debe
-    tener límites claros, las cooperativas de plataforma deben dejar
-    tiempo para la relajación, el aprendizaje permanente y el trabajo
-    político voluntario.
+10) _Derecho de las trabajadoras a desconectarse:_ Las trabajadoras
+    también deben tener derecho a desconectarse.  El trabajo digital
+    decente debe tener límites claros, las cooperativas de plataforma
+    deben dejar tiempo para la relajación, el aprendizaje permanente y
+    el trabajo político voluntario.
 
 Es importante articular una visión así, guiada por estos nobles
-principios. Nos llevará un tiempo muy largo acercarnos a esta visión,
-que debe ser articulada. Nuestra incapacidad de imaginar una vida
+principios.  Nos llevará un tiempo muy largo acercarnos a esta visión,
+que debe ser articulada.  Nuestra incapacidad para imaginar una vida
 diferente, sin embargo, sería el triunfo final del capital.
 
 No será una sorpresa que diga que el cooperativismo de plataforma
-también se enfrenta a enormes retos, desde la autoorganización y gestión
-de los trabajadores a la tecnología, el diseño basado en la experiencia
-de usuario, la educación, la financiación a largo plazo, la escala, las
-escalas salariales, la competencia con los gigantes corporativos
-multinacionales y la conciencia pública. Otros desafíos incluyen la
-revisión de los miembros principales de la cooperativa, los seguros, la
-competencia con los gigantes multinacionales corporativos y, y esto es
-importante, la concienciación pública. Pensar a través de los obstáculos
-es realmente importante. La ingenuidad y el entusiasmo gesticulantes no
-son suficientes. Jodi Dean tiene razón cuando plantea que "a Goldman
-Sachs no le importa si crías pollos." Pero los dueños corporativos se
-interesarán si se enteran del crecimiento de las cooperativas de crianza
-de pollos, impulsadas por los mercados en línea, en toda América del
-Norte. Para hacer realidad un buen trabajo digital, la gente con cosas
-en común se ha de organizar y luchar por los derechos y la propiedad
+también se enfrenta a enormes retos, desde la auto-organización y
+gestión de las trabajadoras a la tecnología, el diseño basado en la
+experiencia de usuaria, la educación, la financiación a largo plazo, la
+escala y las escalas salariales.  Otros desafíos incluyen la
+pre-evaluación de las miembros principales de la cooperativa, los
+seguros, la competencia con los gigantes multinacionales corporativos y
+esto es importante, la concientización del público.  Pensar cómo superar
+los obstáculos es realmente importante.  La ingenuidad y gesticular con
+entusiasmo no son suficientes.  Jodi Dean tiene razón cuando plantea que
+"a _Goldman Sachs_ no le importa si criás pollos."  Pero los dueños
+corporativos se interesarán si se enteran del crecimiento de las
+cooperativas de crianza de pollos, impulsadas por los mercados en línea,
+en toda América.  Para hacer realidad un buen trabajo digital, la gente
+con cosas en común ha de organizarse y luchar por derechos y propiedad
 democráticos.
 
-Otro reto es el de la movilización de los trabajadores: los llamados
-trabajadores 1099 no se encuentran con sus colegas en el almuerzo, no se
-juntan en las salas del sindicato. En cambio están, en la mayoría de
-aspectos, aislados unos de otros. "Si estas personas tienen que ganar en
-propiedad y en poder de toma de decisiones, la mejora de sus redes
-sociales debe ser parte del proyecto," enfatiza la economista Paola
-Tubaro en respuesta a la idea del cooperativismo plataforma.[97]
+Otro reto es el de la movilización de las trabajadoras: las trabajadoras
+de ingresos múltiples no se encuentran con sus compañeras en el
+almuerzo, no se juntan en las salas del sindicato.  En cambio están, en
+la mayoría de aspectos, aisladas unas de otras.  "Si estas personas
+tienen que ganar en propiedad y en poder de toma de decisiones, la
+mejora de sus redes sociales debe ser parte del proyecto," enfatiza la
+economista Paola Tubaro en respuesta a la idea del cooperativismo
+plataforma.[97]  Ha habido algunos intentos de crear nuevas formas de
+solidaridad entre trabajadoras, incluyendo una intervención de diseño
+como _Turkopticon_,[98] un sistema de reputación de empleadores
+utilizado por las trabajadoras en la plataforma de _Amazon Mechanical
+Turk_.  También hay que tener en cuenta a _Dynamo_, una comunidad de
+_turcas_ basada en peticiones.[99]  Pero todo esto tiene poco que ver
+con la organización de las trabajadoras tradicionales y tampoco hace que
+la tarea de organizar cooperativas de plataforma sea mucho más fácil.
+El reto sigue siendo: ¿cómo organizar a las trabajadoras distribuidas,
+en primer lugar?
 
-Ha habido algunos intentos de crear nuevas formas de solidaridad entre
-trabajadores, incluyendo una intervención de diseño como
-Turkopticon,[98] un sistema de reputación de empleadores utilizado por
-los trabajadores en la plataforma de Amazon Mechanical Turk. También hay
-que tener en cuenta a Dynamo, una comunidad turca basada en
-peticiones.[99] Pero todo esto tiene poco que ver con la organización de
-los trabajadores tradicionales, y tampoco hace que la tarea de organizar
-cooperativas de plataforma sea mucho más fácil. El reto sigue siendo:
-¿cómo organizar a los trabajadores distribuidos, en primer lugar?
 
-El ecosistema cooperativo
+## El ecosistema cooperativo
 
 Las plataformas cooperativas no son islas, totalidades en sí mismas.
 Cada cooperativa es parte de un ecosistema. Escribe Neal Gorenflo:
 
-Parte de la magia de las nuevas empresas de tecnología es que hay una
-estructura organizacional bien entendida, un método de financiación, y
-un plan de desarrollo que los empresarios pueden utilizar. En otras
-palabras, hay una plantilla. Las cooperativas de plataforma también
-necesitan plantillas, pero unas que soporten una diversidad de modelos
-de organización. Lo que se necesita es un pequeño número de incubadoras
-en diferentes ciudades globales que trabajen juntas para dar a luz a la
-primera ola de las cooperativas de plataforma. El truco es conseguir
-levantar las primeras cooperativas de plataforma del suelo, y luego
-desarrollar un ecosistema global que anime a replicar los modelos que
-funcionen a través de industrias verticales y geografías.[100]
+> Parte de la magia de las nuevas _startups_ de tecnología es que hay
+> una estructura organizacional bien entendida, un método de
+> financiación y un plan de desarrollo que los empresarios pueden
+> utilizar.  En otras palabras, hay una plantilla.  Las cooperativas de
+> plataforma también necesitan plantillas, pero unas que soporten una
+> diversidad de modelos de organización.  Lo que se necesita es un
+> pequeño número de incubadoras en diferentes ciudades globales que
+> trabajen juntas para dar a luz a la primera ola de cooperativas de
+> plataforma.  El truco es conseguir levantar las primeras cooperativas
+> de plataforma para luego desarrollar un ecosistema global que anime a
+> replicar los modelos que funcionen a través de industrias y
+> geografías.[100]
 
 Las cooperativas de plataforma dependen de otras cooperativas, sistemas
-de financiación, ingenieros de software, abogados, trabajadores y
-diseñadores. Las alianzas entre cooperativas son esenciales. Tienen que
-estar basadas en normas, en el compromiso con los bienes comunes
+de financiamiento, ingenieras de software, abogadas, trabajadoras y
+diseñadoras.  Las alianzas entre cooperativas son esenciales.  Tienen
+que estar basadas en normas, en el compromiso con los bienes comunes
 abiertos, en estrategias compartidas, metas y valores: Un cambio de
 mentalidad que vaya de Ayn Rand a Robert Owen, con el apoyo de una
 plataforma política.
 
-Financiación: Las cooperativas de plataforma, y las cooperativas en
+_Financiamiento:_ Las cooperativas de plataforma y las cooperativas en
 general exigen un sistema de financiación diferente de las empresas
-tradicionales. Muchas de las vías tradicionales de financiación no están
-disponibles para las cooperativas de plataforma y los reguladores están
-ansiosos por protegerse contra los experimentos. ¿Cuáles son las
+tradicionales.  Muchas de las vías tradicionales de financiamiento no
+están disponibles para las cooperativas de plataforma y los reguladores
+están ansiosos por protegerse contra los experimentos.  ¿Cuáles son las
 opciones que amplían el poder financiero de la mayoría?
 
-Por un lado, los costes iniciales de capital, que a menudo presentan el
-mayor reto para las cooperativas, no son el mayor obstáculo en este
-caso. Al menos cuando se piensa en el transporte, puesto que los
-conductores ya son dueños de sus principales activos. En España,
-Mondragón, la mayor cooperativa industrial del mundo, funciona como un
-banco de desarrollo. En Alemania, los bancos también juegan un papel
-importante en el desarrollo de las pequeñas empresas, lo que constituye
-una gran parte de la economía de ese país.
+Por un lado, el capital inicial, que a menudo presentan el mayor reto
+para las cooperativas, no son el mayor obstáculo en este caso.  Al menos
+cuando se piensa en el transporte, puesto que las conductoras ya son
+dueños de sus principales activos.  En España, _Mondragón_, la mayor
+cooperativa industrial del mundo, funciona como un banco de desarrollo.
+En Alemania, los bancos también juegan un papel importante en el
+desarrollo de las pequeñas empresas, lo que constituye una gran parte de
+la economía de ese país.
 
-Proyectos como Seed.coop ayudan a cooperativas para conseguir
-despegar.[101] El impulso del crowdfunding puede tener éxito. Cabe
-destacar aquí el sitio de crowdfunding español Goteo, ya que solo
-permite que busquen financiación proyectos que sigan un conjunto de
-valores orientado al procomún.[102]
+Los proyectos como _Seed.coop_ ayudan a cooperativas a despegar.[101]
+El impulso del _crowdfunding_ puede tener éxito.  Cabe destacar aquí el
+sitio de _crowdfunding_ español _Goteo_, ya que solo permite que busquen
+financiamiento aquellos proyectos que sigan un conjunto de valores
+orientado al bien común.[102]
 
 En su artículo, "La propiedad es la nueva colaboración",[103] Nathan
 Schneider informa sobre el primer experimento del mundo en
-"criptoequidad", llamado Swarm.[104] Swarm es un sitio de crowdfunding,
-el pedal de arranque de Blockchain, si se quiere, que se basa en un
-"enjambre" de pequeños inversores, en lugar de los grandes inversores de
-capital riesgo. El sitio funciona en base a una criptomoneda, no en
-dólares, pero como parte de su primera campaña recaudó más de un millón
-de dólares.
+"cripto-equidad", llamado _Swarm_.[104]  _Swarm_ es un sitio de
+_crowdfunding_, el _Kickstarter_ de la _Blockchain_, si se quiere, que
+se basa en un "enjambre" de pequeñas inversoras, en lugar de los grandes
+inversores de capital de riesgo.  El sitio funciona en base a una
+criptomoneda, no en dólares, pero como parte de su primera campaña
+recaudó más de un millón de dólares.
 
-Pero los reguladores no facilitan las cosas. En 2011, Brewster Kahle,
-fundador de archive.org, intentó iniciar una cooperativa de crédito;
+Pero los reguladores no facilitan las cosas.  En 2011, Brewster Kahle,
+fundador de _archive.org_, intentó iniciar una cooperativa de crédito;
 pero se encontró con un aluvión de auditorías reglamentarias y la
-burocracia finalmente le llevó a abandonar.[105] Silicon Valley, que se
+burocracia finalmente le llevó a abandonar.[105]  Silicon Valley, que se
 basa en la especulación, devoluciones a corto plazo y abandonar el barco
 a través de ofertas públicas de venta, no es el modelo de financiación
 adecuado para las cooperativas, que crecen lentamente y están diseñadas
 para la sostenibilidad.
 
-La plataforma de filantropía External Revenue Service tiene como
+La plataforma de filantropía _External Revenue Service_[^ERS] tiene como
 objetivo ayudar a entidades sin ánimo de lucro para que no ocupen todo
-su tiempo intentando conseguir dinero. Con External Revenue Service, los
-usuarios se comprometen a aportar una determinada cantidad al mes, que
-se divide luego entre las organizaciones a las que donan. Max Dana, de
-External Revenue Service escribe[106]:
+su tiempo intentando conseguir dinero.  Con _External Revenue Service_,
+las usuarias se comprometen a aportar una determinada cantidad al mes,
+que se divide luego entre las organizaciones a las que donan.  Max Dana,
+de _External Revenue Service_ escribe[106]:
 
-Para obtener el compromiso de los demás, una persona debe primero
-establecer un compromiso sobre su propio ingreso anual y asignarlo a por
-lo menos otra persona. [...] El External Revenue Service no es propiedad
-de nadie. Es una red distribuida de donantes y usuarios que invierte en
-el mantenimiento y desarrollo del sistema.[107]
+[^ERS]: Juego de palabras con _Internal Revenue Service_, la agencia
+impositiva estadounidense. _(Nota de la traducción.)_
 
-En el Reino Unido, Robin Hood Minor Asset Management es un fondo de
-cobertura cooperativa que actúa de forma conservadora en el mercado de
-valores, simplemente funciona con un algoritmo de minería de datos que
-imita los movimientos de los principales inversores de Wall Street para
-invertir las ganancias en las cooperativas, por ejemplo. Se preguntan:
-"¿qué pasaría si el capital fuera P2P?"[108]
+> Para obtener el compromiso de las demás, una persona debe primero
+> establecer un compromiso sobre su propio ingreso anual y asignarlo a
+> por lo menos otra persona. [...] El _External Revenue Service_ no es
+> propiedad de nadie.  Es una red distribuida de donantes y usuarias que
+> invierte en el mantenimiento y desarrollo del sistema.[107]
 
-En Estados Unidos, Slow Money destaca como una organización no lucrativa
-nacional que cataliza la inversión en alimentos y, en particular, en
-granjas sostenibles. FairShares apoya a cooperativas agrícolas y The
-Workers Lab es la primera aceleradora de innovación con respaldo de un
-sindicato. El inversor institucional Kanyi Maqubela afirma que lo más
-importante para el movimiento cooperativo es la escalabilidad. En
-Collaborative Fund, Maqubela trata de ayudar a plataformas cooperativas
-para lograr escala, proporcionándoles liquidez suficiente para que
-puedan atraer a grandes fondos de capital. "Necesitamos todas las manos,
-incluidos los inversores, para crear un mundo más cooperativo", afirma
-Maqubela[109]:
+En el Reino Unido, _Robin Hood Minor Asset Management_ es un fondo de
+cobertura cooperativa que actúa de forma conservadora en bolsa.
+Simplemente funciona con un algoritmo de minería de datos que imita los
+movimientos de los principales inversores de _Wall Street_ con el fin de
+re-invertir las ganancias en las cooperativas, por ejemplo.  Su pregunta
+es, "¿qué pasaría si el capital fuera P2P?"[108]
 
-Cooperativas de plataforma para los comunes: Internet se ha asociado con
-los bienes comunes e intercambios no comerciales desde Hi-Tech Gift
-Economy, de Richard Barbrook; Wealth of Networks, de Yochai Benkler;
-Spiral Viral, de David Bollier; Venture Communism," de Dmytri Kleiner
-"[110], así como desde el trabajo de Michel Bauwens con la Fundación
-P2P. Hace más de diez años, Dmytri Kleiner acuñó el término "comunismo
-de riesgo" (Venture Communism) para describir la posibilidad de que
-cooperativas federadas crearan plataformas de comunicación que pudieran
-superar a algunas de las plataformas centralizadas, capitalistas, muy
-controladas y que violan la privacidad, emergidas recientemente. Nos
-anima a investigar la forma en la que Internet, que se inició como una
-red decentralizada y cooperativa, se convirtió en centralizada y
-corporativa.[111]
+En Estados Unidos, _Slow Money_ destaca como una organización nacional
+sin fines de lucro que cataliza la inversión en alimentos y granjas
+sostenibles.  _FairShares_ apoya a cooperativas agrícolas y _The Workers
+Lab_ es la primera aceleradora de innovación con respaldo de un
+sindicato.  El inversor institucional Kanyi Maqubela afirma que lo más
+importante para el movimiento cooperativo es la escalabilidad.  En
+_Collaborative Fund_, Maqubela trata de ayudar a plataformas
+cooperativas para lograr escala, proporcionándoles liquidez suficiente
+para que puedan atraer a grandes fondos de capital.  "Necesitamos todas
+las manos, incluidos los inversores, para crear un mundo más
+cooperativo", afirma Maqubela[109]:
 
-Las cooperativas de plataforma que se basan en los bienes comunes, se
-fundamentan en un diseño abierto y en licencias de hardware de código
-abierto para la impresión 3D, facilitando el ecosistema cooperativo.
-Michel Bauwens trabaja actualmente en una licencia de reciprocidad
-basada en bienes comunes[112] que puede, por ejemplo, permitir que las
-cooperativas compartan fragmentos de código como bienes comunes. El
+_Cooperativas de plataforma para los comunes:_ Internet ha sido asociada
+con los bienes comunes e intercambios no comerciales desde _Hi-Tech Gift
+Economy_ \[Economía del don de alta tecnología\] de Richard Barbrook,
+_Wealth of Networks_ \[La riqueza de las redes\] de Yochai Benkler,
+_Spiral Viral_ \[Espiral viral\] de David Bollier; _Venture Communism_
+\[Comunismo de riesgo\] de Dmytri Kleiner,[110] así como desde el
+trabajo de Michel Bauwens en la Fundación P2P.  Hace más de diez años,
+Dmytri Kleiner acuñó el término "comunismo de riesgo" para describir la
+posibilidad de que cooperativas federadas crearan plataformas de
+comunicación que pudieran superar a algunas de las plataformas
+centralizadas capitalistas, muy controladas y que violan la privacidad
+que han emergido recientemente.  Nos anima a investigar la forma en la
+que Internet, que se inició como una red decentralizada y cooperativa,
+se convirtió en centralizada y corporativa.[111]
+
+Las cooperativas de plataforma construyen sobre los bienes comunes,
+necesitan del diseño abierto y licencias de hardware libre para la
+impresión tridimensinal.  Facilitan el ecosistema cooperativo.  Michel
+Bauwens trabaja actualmente en una licencia reciprocitaria basada en
+bienes comunes[112] que puede, por ejemplo, permitir que las
+cooperativas compartan fragmentos de código como bienes comunes.  El
 código podría ser usado libremente por las cooperativas, mientras que
 otros tendrían que pagar por él.
 
-Software libre para cooperativas de plataforma: El trasfondo de las
-cooperativas de plataforma tiene que ser software libre. No solo se
-trata de que el código deba ser accesible a los trabajadores para que
+_Software libre para cooperativas de plataforma:_ La infraestructura de
+las cooperativas de plataforma tiene que ser software libre.  No solo se
+trata de que el código deba ser accesible a las trabajadoras para que
 puedan entender los parámetros y patrones que rigen su entorno de
 trabajo, sino que además el software debe ser desarrollado consultando
-con los trabajadores desde el primer día.
+con las trabajadoras desde el primer día.
 
 En el sector del transporte, por ejemplo, hablamos de al menos cuatro
-aplicaciones. Hay una aplicación para el pasajero y una para el
-conductor, y tienen que ser programadas para Android y para iPhone; y
-estas deben ser constantemente actualizadas, y han de poder ser
+aplicaciones.  Hay una aplicación para la pasajera y una para la
+conductora y tienen que ser programadas para _Android_ y para _iPhone_.
+Además, deben ser constantemente actualizadas y han de poder ser
 utilizadas a través de frecuentes cambios en los sistemas operativos.
-Eso también significa que la financiación para los desarrolladores debe
-ser permanente. Las cooperativas de plataforma no se pueden construir
-sobre la base de iniciativas co-financiadas mediante crowdfunding una
+Eso también significa que la financiación para las desarrolladoras debe
+ser permanente.  Las cooperativas de plataforma no se pueden construir
+sobre la base de iniciativas co-financiadas mediante _crowdfunding_ una
 única vez.
 
-Los desarrolladores de software libre podrían publicar los protocolos
-básicos y luego permitir que varios proyectos de código abierto
-independientes construyeran sus propios componentes de backend y
-frontend. Eso daría cabida a diversos sectores de servicios -desde
-crowdsourcing, migrantes indocumentados, limpiadores domésticos, hasta
-niñeras-.
+Las desarrolladores de software libre podrían publicar los protocolos
+básicos y luego permitir que varios proyectos de software libre
+independientes construyeran sus propios componentes de _backend_ y
+_frontend_.  Eso daría cabida a diversos sectores de servicios --desde
+crowdsourcing, migrantes indocumentadas, empleadas de limpieza
+domésticas, hasta niñeras.
 
-¿Tecnología Blockchain como algoritmo regulador?: A medida que las
-cooperativas empiezan a participar en los mercados de trabajo en línea,
-se vuelven más distribuidas, más internacionales. La confianza entre los
-miembros existentes en las organizaciones locales ya no se da por
-sentada. La tecnología Blockchain es una manera de abordar la
+_¿Tecnología_ Blockchain _como algoritmo regulador?:_  A medida que las
+cooperativas empiecen a participar en los mercados de trabajo en línea,
+se vuelven más distribuidas, más internacionales.  La confianza entre
+las miembros existentes en las organizaciones locales ya no se da por
+sentada.  La tecnología _Blockchain_ es una manera de abordar la
 problemática de la confianza.
 
-Blockchain es el protocolo subyacente a la moneda virtual Bitcoin. Pero
-los desarrollos más relevantes para las cooperativas de plataforma no
-son solo acerca del Bitcoin en sí; Blockchain tiene aplicaciones que van
-mucho más allá de dinero en efectivo y de la moneda. "Blockchain es un
-dragado distribuido que se ejecuta por debajo de la moneda Bitcoin",
-explica la investigadora irlandesa Rachel O'Dywer. La tecnología
-Blockchain puede constituir una base de datos pública que puede ser
-utilizada para todo tipo de transacciones que requieran confianza. Los
-gobiernos, por ejemplo, experimentan con la tecnología Blockchain para
-aplicaciones de voto. El Instituto de la Propiedad de Honduras ha pedido
-a Factom, una startup americana, que proporcione un prototipo de
-registro de la propiedad basado en Blockchain, por ejemplo.[113]
+_Blockchain_ es el protocolo subyacente a la moneda virtual _Bitcoin_.
+Pero los desarrollos más relevantes para las cooperativas de plataforma
+no son solo sobre el _Bitcoin_ en sí; La _Blockchain_ tiene aplicaciones
+que van mucho más allá de dinero en efectivo y de la moneda.  "La
+_Blockchain_ es un libro contable distribuido que se ejecuta por debajo
+de la moneda _Bitcoin_", explica la investigadora irlandesa Rachel
+O'Dywer.  La tecnología _Blockchain_ puede constituir una base de datos
+pública que puede ser utilizada para todo tipo de transacciones que
+requieran confianza.  Los gobiernos, por ejemplo, experimentan con la
+tecnología _Blockchain_ para aplicaciones de voto.  El Instituto de la
+Propiedad de Honduras ha pedido a _Factom_, una startup americana, que
+proporcione un prototipo de registro de la propiedad basado en
+_Blockchain_, por ejemplo.[113]
 
-O'Dwyer advierte que, si bien hay un montón de potencial positivo, en la
-actualidad la mayoría de las aplicaciones de la tecnología Blockchain
+O'Dwyer advierte que, si bien hay un potencial positivo, en la
+actualidad la mayoría de las aplicaciones de la tecnología _Blockchain_
 están más cerca del capitalismo de riesgo que del comunismo: un mejor
-intercambio entre los bancos privados y "mejores" formas de gestión de
-derechos digitales.
+intercambio entre los bancos privados y formas de gestión de derechos
+digitales "mejoradas".
 
 Pero esta tecnología también permite mercados de trabajo entre pares sin
-intermediarios. Es posible imaginar "organismos autónomos
+intermediarios.  Es posible imaginar "organismos autónomos
 decentralizados" y empresas virtuales que sean básicamente conjuntos de
-reglas para las operaciones ejecutadas entre pares. Claro, pero, ¿a
-quién acudir si algo va mal? La programación basada en Blockchain
+reglas para las operaciones ejecutadas entre pares.  Claro, pero, ¿a
+quién acudir si algo va mal?  La programación basada en la _Blockchain_
 también se utiliza como "mecanismo de consenso" para
 plataformas/herramientas que faciliten la toma democrática de decisiones
-en las cooperativas. Aquí, los estatutos, los miembros, las acciones y
-los registros de votación podrían ser almacenados de manera
+en las cooperativas.  En este sentido los estatutos, las miembros, las
+acciones y los registros de votación podrían ser almacenados de manera
 irrevocable[114].
 
-Por otro lado, "la tecnología Blockchain" se basa en la idea de retirar
+Por otro lado, "la tecnología _Blockchain_ se basa en la idea de retirar
 la confianza ya no solo a las instituciones centralizadas, como el
 estado, sino también a las instituciones sociales y poner en su lugar
-una arquitectura técnica. Algunas personas llaman a esto confianza en el
-código, pero con esta confianza también se presupone que ya no tenemos
-que confiar el uno en el otro. En su lugar, se nos pide confiar en algún
-tipo de algoritmo. Algunos incluso han llamado a esto "una forma de
-regulación algorítmica", afirma O'Dwyer[115]. También existe la
-preocupación de que los mercados dotados de Blockchain podrían hacer que
-sea más fácil evitar el pago de impuestos, por ejemplo.
+una arquitectura técnica.  Algunas personas llaman a esto _confianza en
+el código_, pero con esta confianza también se presupone que ya no
+tenemos que confiar en nosotras.  En su lugar, se nos pide confiar en
+algún tipo de algoritmo.  Algunas incluso han llamado a esto una forma
+de regulación algorítmica", afirma O'Dwyer[115].  También existe la
+preocupación de que los mercados basados en la _Blockchain_ podrían
+hacer que sea más fácil evitar el pago de impuestos, por ejemplo.
 
-Una fundación centrada en la creación del WordPress de las cooperativas
-de plataforma: En nuestra experiencia en la tarea de conectar a personas
-interesadas en las cooperativas e Internet, nos hemos dado cuenta de que
-desarrolladores de todo el país están trabajando en proyectos similares.
+_Una fundación centrada en la creación del_ WordPress _de las
+cooperativas de plataforma:_ En nuestra experiencia conectando a
+personas interesadas en las cooperativas y la Internet, nos hemos dado
+cuenta que desarrolladoras de todo el país están trabajando en proyectos
+similares.
 
-Diseñadores de sistemas con insuficiente financiación, en la costa
+Las diseñadoras de sistemas con insuficiente financiamiento, en la costa
 oeste, quieren construir un mercado de trabajo en línea, mientras que un
-proyecto de la costa este hace algo similar, pero ninguno de ellos
+proyecto de la costa este hace algo similar, pero ninguna de ellas
 considera unir fuerzas.
 
-Mi propuesta es que varios desarrolladores de todo el mundo trabajen
+Mi propuesta es que varias desarrolladoras de todo el mundo trabajen
 bajo los auspicios de una fundación que sea una cooperativa de
 plataforma y que sea capaz de recaudar fondos para el continuo
-desarrollo del kernel de este proyecto de software libre. Contrariamente
-a la propuesta de Jeremy Rifkin de una sociedad de coste marginal, aún
-es sumamente costoso programar y actualizar un marketplace en línea, y
-una fundación así podría ayudar.
+desarrollo del kernel de este proyecto de software libre.
+Contrariamente a la propuesta de Jeremy Rifkin de una sociedad de coste
+marginal, aún es sumamente costoso programar y actualizar constantemente
+un mercado de trabajo en línea.  Una fundación podría asistir este
+proceso.
 
-Gobernabilidad democrática: Las estructuras cooperativas instan a la
+_Gobernabilidad democrática:_  Las estructuras cooperativas instan a la
 toma de decisiones colectiva, a la resolución de conflictos, a la
 creación de consenso y a la gestión de las participaciones y de los
-fondos de manera transparente. Además, también está la gestión general
-de los trabajadores. Uno de los aspectos centrales en esta discusión es
-cómo se pueden evitar los abusos de poder. Una de las cuestiones
-esenciales es, básicamente, la gobernabilidad. ¿Cómo podría la
+fondos de manera transparente.  Además, también está la gestión general
+de las trabajadoras.  Uno de los aspectos centrales en esta discusión es
+cómo se pueden evitar los abusos de poder.  Una de las cuestiones
+esenciales es, básicamente, la gobernabilidad.  ¿Cómo podría la
 plataforma gobernarse a sí misma de una manera distribuida,
-verdaderamente democrática? En los últimos años han surgido herramientas
-convincentes basadas en la tecnología Blockchain, como Loomio, Backfeed,
-D-CENT y Consensys.
+verdaderamente democrática?  En los últimos años han surgido
+herramientas convincentes basadas en la tecnología _Blockchain_.
+Pensemos en _Loomio_, _Backfeed_, _D-CENT_ y _ConsenSys_.
 
-Loomio, también conocido como "el Facebook de la web ciudadana", es una
-cooperativa propiedad de trabajadores con base en Wellington, Nueva
-Zelanda, y en Nueva York[116], que produce software de código abierto,
-muy orientado por los valores de Occupy. Es una aplicación web que
-ofrece herramientas de comunicación y de votación que hacen que sea más
-fácil facilitar comunidades democráticas.[117] En España, 27.000
-ciudadanos se unieron a Loomio para conectar una red de colectivos a
-escala nacional para el rápido crecimiento del partido Podemos. En
-total, 100.000 personas en 93 países están utilizando ya Loomio.
+_Loomio_, también conocido como "el Facebook de la web ciudadana", es
+una cooperativa propiedad de sus trabajadoras con base en Wellington,
+Nueva Zelanda y en Nueva York[116], que produce software libre, muy
+orientado por los valores de _Occupy_.  Es una aplicación web que ofrece
+herramientas de comunicación y de votación que hacen que sea más fácil
+facilitar comunidades democráticas.[117]  En España, 27.000 ciudadanas
+se unieron a _Loomio_ para conectar una red de colectivos a escala
+nacional para el rápido crecimiento del partido Podemos.  En total,
+100.000 personas en 93 países están utilizando _Loomio_.
 
-Backfeed.cc es una organización colaborativa distribuida, basada en la
-tecnología Blockchain, que da apoyo a la coordinación en el seno de una
-red autoorganizada[118].
+_Backfeed.cc_ es una organización colaborativa distribuida, basada en la
+tecnología _Blockchain_, que da apoyo a la coordinación en el seno de
+una red autoorganizada[118].
 
-D-CENT nació del reciente trabajo de activismo en Cataluña, Islandia y
-Grecia. Están creando una serie de herramientas que se utilizarán para
+_D-CENT_ nació del reciente trabajo de activismo en Cataluña, Islandia y
+Grecia.  Están creando una serie de herramientas que se utilizarán para
 implementar rápidamente la democracia y otras plataformas de
-cooperación. Su objetivo es dar poder político a las personas para que
+cooperación.  Su objetivo es dar poder político a las personas para que
 puedan proponer políticas, opciones de debate, proyectos y examinar las
 propuestas, votar y tomar decisiones[119].
 
-ConsenSys[120] es un estudio de producción que crea aplicaciones
-decentralizadas y diversas herramientas para desarrolladores y usuarios
-finales para los ecosistemas de Blockchain, centrándose principalmente
-en Ethereum.
+_ConsenSys_[120] es un estudio de producción que crea aplicaciones
+decentralizadas y diversas herramientas para desarrolladoras y usuarias
+finales para los ecosistemas de _Blockchain_, centrándose principalmente
+en _Ethereum_.
 
-Diseños para una solidaridad usable: Con demasiada frecuencia, los
-técnicos menosprecian la importancia del diseño front-end. Eso es
-lamentable, porque en el nivel de diseño de experiencia de usuario, las
+_Diseñar para una solidaridad conveniente:_  Con demasiada frecuencia,
+las técnicas menosprecian la importancia del diseño de interfaz.  Eso es
+lamentable, porque en el nivel de diseño de experiencia de usuaria, las
 plataformas de software libre tienen que competir con la seducción que
-crea Uber en la pantalla del teléfono. O, al menos, los diseñadores
-tienen que decidir qué parte de la mentalidad del consumidor quieren
-integrar. Cameron Tonkinwise, director de Estudios de Diseño de la
-Universidad Carnegie Mellon, advierte de que:
+crea _Uber_ a través de la pantalla del teléfono.  O, al menos, las
+diseñadoras tienen que decidir qué parte de la mentalidad de la
+consumidora quieren integrar.  Cameron Tonkinwise, director de Estudios
+de Diseño de la Universidad Carnegie Mellon, advierte de que:
 
-Una gran cantidad de estas plataformas permiten interacciones entre las
-personas. Las decisiones políticas se están realizando a nivel de diseño
-de software, a nivel de diseño de la interfaz, y el tipo de personas que
-están tomando estas decisiones son los diseñadores y están muy mal
-preparados sobre las ramificaciones políticas de lo que están haciendo.
-La política está ocurriendo ahora a nivel de microinteracciones y es muy
-importante que los diseñadores comprendan la sociología y la
-antropología de lo que están haciendo[121].
+> Una gran cantidad de estas plataformas permiten interacciones entre
+> las personas.  Las decisiones políticas se están realizando a nivel de
+> diseño de software, a nivel de diseño de la interfaz y el tipo de
+> personas que están tomando estas decisiones son diseñadoras muy mal
+> preparadas sobre las ramificaciones políticas de lo que están
+> haciendo.  La política está ocurriendo ahora a nivel de
+> microinteracciones y es muy importante que las diseñadoras comprendan
+> la sociología y la antropología de lo que están haciendo[121].
 
 ¿Qué se puede diseñar para las cooperativas de plataforma para que sean
-diferentes? Cameron Tonkinwise exige un diseño que facilite
-"solidaridades usables", un diseño que haga los pequeños actos de
-solidaridad más fáciles y menos problemáticos[122]. Propone, por
-ejemplo, que el diseño debe literalmente provocar la solidaridad con un
-trabajador. Si puedo ver que la trabajadora A tiene tres hijos, cobra
-más que el trabajador B, y que está a punto de ser despedida por
-TaskRabbit o Uber, estoy frente a la decisión de si quiero o no
-apoyarla. Al tiempo que hace la solidaridad un poco más fácil, tal
+diferentes?  Cameron Tonkinwise llama a un diseño que facilite
+"solidaridades convenientes", un diseño que haga los pequeños actos de
+solidaridad más fáciles y menos problemáticos[122].  Propone, por
+ejemplo, que el diseño debe literalmente provocar la solidaridad con una
+trabajadora.  Si puedo ver que la trabajadora A tiene tres hijos, cobra
+más que el trabajador B y que está a punto de ser despedida por
+_TaskRabbit_ o _Uber_, estoy frente a la decisión de si quiero o no
+apoyarla.  Al tiempo que hace la solidaridad un poco más fácil, este
 enfoque también provoca problemas de privacidad obvios.
 
 Un buen diseño de las cooperativas de plataforma empieza por el
-desarrollo de una relación entre los diseñadores y sus clientes.
+desarrollo de una relación entre las diseñadoras y las usuarias.
 
-El diseño de experiencia de usuario en plataformas cooperativas
-representa una gran oportunidad. La interfaz de estas plataformas podría
-instruir a los usuarios acerca de las normas laborales justas de la
-cooperativa y contrastar esto con la carencia de protecciones sociales
-en la economía colaborativa. En otras palabras, este tipo de plataformas
-podría visualizar la injusticia de la economía bajo demanda establecida.
+El diseño de experiencia de usuaria en plataformas cooperativas
+representa una gran oportunidad.  La interfaz de estas plataformas
+podría instruir a las usuarias acerca de las normas laborales justas de
+la cooperativa y contrastar esto con la carencia de protecciones
+sociales en la economía colaborativa.  En otras palabras, este tipo de
+plataformas podría visibilizar la injusticia establecida por la economía
+bajo demanda.
 
-También sugiero el uso de la tecnología de distinciones de Mozilla[123]
-(Open Badges) para certificar que la plataforma en particular sigue los
-principios que he descrito anteriormente. No es muy diferente del café
-de comercio justo, que, con todos sus defectos, ha capturado a un
-segmento del mercado, y estas distinciones pueden certificar prácticas
-laborales éticas que se dan tras la pantalla
+También sugiero el uso de la tecnología de distinciones de _Mozilla_
+llamada _Open Badges_[123] para certificar que la plataforma en
+particular sigue los principios que he descrito anteriormente.  No es
+muy diferente del café de comercio justo, que con todos sus defectos, ha
+capturado a un segmento del mercado y estas distinciones pueden
+certificar prácticas laborales éticas que se dan tras la pantalla.
 
-Escala: Para construir una economía que sea socialmente justa y
+_Escala:_  Para construir una economía que sea socialmente justa y
 ecológicamente sostenible, la cooperativa debe ir más allá del
-imperativo de crecimiento. Las cooperativas no siempre tienen que
-crecer. Los negocios democráticamente controlados -como las cooperativas
-de trabajo-, podrían apuntar a lo pequeño, a los nichos de mercado
-locales sin tener que centrarse en ampliar su escala. Estos esfuerzos
-podrían comenzar en ciudades como París, Berlín, Río de Janeiro y otros
-municipios que han prohibido Uber. Si su prioridad es cuidar de sus
-trabajadores, a continuación, la ampliación no es un imperativo
-inmediato. A diferencia de un sinnúmero de startups, el objetivo no
+imperativo de crecimiento.  Las cooperativas no siempre tienen que
+crecer.  Los negocios democráticamente controlados --como las
+cooperativas de trabajo--, podrían apuntar a lo pequeño, a los nichos de
+mercado locales sin tener que centrarse en ampliar su escala.  Estos
+esfuerzos podrían comenzar en ciudades como París, Berlín, Río de
+Janeiro y otros municipios que han prohibido _Uber_.  Si la prioridad es
+cuidar de las trabajadoras, entonces el crecimiento no es un imperativo
+inmediato.  A diferencia de un sinnúmero de _startups_, el objetivo no
 consiste en abandonar el barco al lograr ser adquiridos, sino en
-construir negocios duraderos durante décadas.
+construir negocios que duren décadas.
 
-Formación y educación: Una de las razones por las que la española
-Mondragón es tan exitosa es que tiene una universidad cooperativa que
-alimenta directamente su red de negocios. Varias universidades
-establecieron centros dedicados a la preparación de los estudiantes para
-el trabajo cooperativo: la Universidad de Wisconsin (1962), el Estado de
-Kansas (1984), la Universidad Davis de California (1987) y el estado de
-Dakota del Norte (1994). En la ciudad de Nueva York, el Programa de
-Estudios del Trabajo en CUNY ofrece un curso de postgrado sobre las
-cooperativas de trabajo[124]. En Boston, en 2016, Sasha Costanza-Chock,
-del MIT, imparte un curso de diseño participativo basado en proyectos
-con cooperativas que son propiedad de los trabajadores[125]. Enseñar
-diseño cooperativo y valores es un enfoque, otro sería pensar y
-construir una universidad que esté fundada sobre los principios de
-cooperación, un Black Mountain College 2.0.
+_Formación y educación:_  Una de las razones por las que la española
+_Mondragón_ es tan exitosa es que tiene una universidad cooperativa que
+alimenta directamente su red de negocios.  Varias universidades
+estadounidenses establecieron centros dedicados a la preparación de las
+estudiantes para el trabajo cooperativo: la Universidad de Wisconsin
+(1962), el Estado de Kansas (1984), la Universidad Davis de California
+(1987) y el estado de Dakota del Norte (1994).  En la ciudad de Nueva
+York, el Programa de Estudios del Trabajo en _CUNY_ ofrece un curso de
+posgrado sobre las cooperativas de trabajo[124].  En Boston, en 2016,
+Sasha Costanza-Chock del MIT impartió un curso de diseño participativo
+basado en proyectos con cooperativas que son propiedad de las
+trabajadoras[125].  Enseñar diseño cooperativo y valores es un enfoque,
+otro sería pensar y construir una universidad que esté fundada sobre los
+principios de cooperación, un _Black Mountain College 2.0_.
 
 ¿Cómo podrían hoy las instituciones de aprendizaje alternativo preparar
-mejor a los jóvenes para el trabajo y la vida cooperativos? Una vez más,
-el trabajo de Janelle Orsi es esencial en este caso. En el libro del que
-es coautora, The Sharing Solution (La solución colaborativa), Orsi
-demuestra de una manera práctica, utilitaria, las distintas formas en
-las que compartir puede convertirse en parte de nuestra vida cotidiana:
-todo, desde compartir la vivienda, artículos para el hogar, espacio,
-tareas, cuidado de niños, transporte e incluso trabajar. The Sharing
-Solution establece las reglas prácticas básicas que podrían orientar a
-los estudiantes universitarios para un enfoque más cooperativo a la
-vida. Leedlo; es el Whole Earth Catalog del intercambio genuino.
+mejor a las jóvenes para el trabajo y la vida cooperativos?  Una vez
+más, el trabajo de Janelle Orsi es esencial en este caso.  En el libro
+del que es coautora, _The Sharing Solution_ \[La solución
+colaborativa\], Orsi demuestra de una manera práctica, utilitaria, las
+distintas formas en las que compartir puede convertirse en parte de
+nuestra vida cotidiana: todo, desde compartir la vivienda, artículos
+para el hogar, espacio, tareas, cuidado de niños, transporte e incluso
+trabajar.  _The Sharing Solution_ establece las reglas prácticas básicas
+que podrían orientar a las estudiantes universitarios a un enfoque más
+cooperativo sobre la vida.  Leelo; es el _Whole Earth Catalog_ del
+intercambio genuino.
 
 
+## Para toda la gente
 
-
-
-Para toda la gente
-
-
-
-
-
-Debemos inventar una nueva Web al servicio de un modelo macroeconómico
-viable, en lugar de desarrollar una economía de datos completamente
-ruinosa[126].
-
-Bernard Stiegler
-
-
-
-
+> Debemos inventar una nueva Web al servicio de un modelo macroeconómico
+> viable, en lugar de desarrollar una economía de datos completamente
+> ruinosa[126]. -- Bernard Stiegler 
 
 En este momento, el capitalismo de plataforma se está definiendo de
 arriba abajo con decisiones que se toman en Silicon Valley y que
-ejecutan algoritmos en una caja negra. Lo que necesitamos es un nuevo
+ejecutan algoritmos en una caja negra.  Lo que necesitamos es un nuevo
 relato sobre el intercambio, sobre la agregación, la apertura y la
 cooperación; uno en el que podamos creer.
 
 El movimiento cooperativo tiene que llegar a un acuerdo con las
-tecnologías del siglo XXI. Va a costar algún trabajo hacer que la noción
-de cooperativas en línea sea tan estadounidense como la de pastel de
-manzana. También va a implicar discusiones en diversos contextos
-nacionales y locales, de Perú, Alemania e Italia al Reino Unido, Corea
-del Sur y la India.
+tecnologías del siglo XXI.  Va a costar trabajo lograr que la noción de
+cooperativas en línea sea tan común como la del trabajo asalariado.
+También va a implicar discusiones en diversos contextos nacionales y
+locales, dese Perú, Alemania e Italia al Reino Unido, Corea del Sur y la
+India.
 
-La importancia del cooperativismo de plataforma no está en "matar
-plataformas Estrella de la Muerte"[127]. No viene de la destrucción de
-señores oscuros como Uber sino de sobrescribir en la mente de las
-personas, incorporando diferentes modelos de propiedad y después
-insertándolos de nuevo en la corriente principal. A finales de 1960 y
+La importancia del cooperativismo de plataforma no está en "destruir las
+plataformas Estrella de la Muerte"[127].  No se trata de la destrucción
+de señores oscuros como _Uber_ sino de sobrescribirlos en la mente de
+las personas, incorporando diferentes modelos de propiedad y después
+re-insertándolas en la corriente principal.  A finales de 1960 y
 principios de 1970, la contracultura formó comunidades utópicas; dejaron
-las ciudades para forzar a la existencia su idea del futuro y vivieron
-en las montañas. Con frecuencia, aquellos experimentos fracasaron. En
-términos de una parte integral de la cultura, el cooperativismo de
-plataforma puede llegar a ser un actor importante en la economía.
+las ciudades para forzar la existencia su idea del futuro viviendo en el
+campo.  Aquellos experimentos fracasaron con frecuencia.  En términos de
+una parte integral de la cultura, el cooperativismo de plataforma puede
+llegar a ser un actor importante en la economía.
 
 Para desarrollar con éxito cooperativas de plataforma, hay que poseer
-algo más que sabiduría práctica y un entusiasmo vertiginoso. Una postura
-anti-teórica, un rechazo de la autorreflexión crítica -como vimos con la
-contracultura americana-, se coinvertiría en un impedimento. Necesitamos
-estudiar los fracasos y los éxitos del pasado. Tenemos que identificar
-las áreas en las que las cooperativas de plataforma presentan más
-probabilidades de tener éxito. Tenemos que difundir la ideología de un
-mutualismo que se pueda sentir, de los ideales comunitarios y de la
-cooperación que hacen todo esto posible. El cooperativismo de plataforma
-puede dinamizar una economía de intercambio genuino, la economía
-solidaria. No va a poner remedio a los efectos corrosivos del
-capitalismo, sino que puede mostrar que el trabajo, para la experiencia
-humana, puede ser dignificante en lugar de desvalorizador.
+algo más que sabiduría práctica y un entusiasmo vertiginoso.  Una
+postura anti-teórica, un rechazo de la auto-reflexión crítica --como
+vimos con la contracultura americana--, se convertirá en un impedimento.
+Necesitamos estudiar los fracasos y los éxitos del pasado.  Tenemos que
+identificar las áreas en las que las cooperativas de plataforma
+presentan más probabilidades de tener éxito.  Tenemos que difundir la
+ideología de un mutualismo que se pueda sentir, de los ideales
+comunitarios y de la cooperación que hacen todo esto posible.  El
+cooperativismo de plataforma puede dinamizar una economía de intercambio
+genuino, la economía solidaria.  No va a poner remedio a los efectos
+corrosivos del capitalismo, sino que puede mostrar que el trabajo, para
+la experiencia humana, puede ser dignificante en lugar de
+desvalorizador.
 
 El cooperativismo de plataforma no tiene que ver con el próximo
-dispositivo; sino con la previsión de una vida que no esté centrada en
-una empresa de accionistas. Hacer realidad el cambio no siempre es un
-banquete, ni escribir un ensayo, ni convocar una conferencia; no es tan
-cómodo: el cooperativismo de plataforma también implica confrontación.
+dispositivo o "plataforma"; sino con la prefiguración de una vida que no
+esté centrada en una empresa de accionistas.  Hacer realidad el cambio
+no siempre es organizar un festín, ni escribir un ensayo, ni convocar
+una conferencia; no es tan cómodo: el cooperativismo de plataforma
+también implica confrontación.
 
 Fortalecer y construir cooperativas de plataforma es esencial para que
-las personas con ideas afines se organicen. Yochai Benkler animó a este
+las personas con ideas afines se organicen.  Yochai Benkler animó a este
 movimiento: "Si lo puedes imaginar, puede suceder, si lo haces a tiempo
 y capturas un mercado"[128].
 
-No podemos perder más tiempo. Los políticos y los propietarios de
+No podemos perder más tiempo.  Los políticos y los propietarios de
 plataformas han estado prometiendo protección social, acceso y
-privacidad; pero exigimos la propiedad. Es hora de darse cuenta de que
-nunca la van a entregar. Ellos no pueden. Pero nosotros debemos. A
-través de nuestro esfuerzo colectivo vamos a construir el poder político
-de un movimiento social que dará la vida a estas ideas.
-
-
-
-
-
-________________
-
-
-
-
-
-Dimmons
-
-
-
-
-
-Materiales relacionados
-
-Declaración y propuesta de nuevas políticas para la economía
-colaborativa procomún (2016) http://procomuns.net/es/politicas/
-
-Benkler, Y. (2015). La riqueza de las redes: Cómo la producción social
-transforma los mercados y la libertad. Icaria.
-
-Fuster Morell, M., Subirats, J., Berlinguer, M., Martinez, R & J.
-Salcedo (2015) Procomún digital y cultura libre: ¿Hacia un cambio de
-época?  Icaria. Ακαδημεια 154. Análisis contemporáneo Comunicación y
-nuevas tecnologías Política.
-http://www.icariaeditorial.com/autor_detallado.php?id=3323
-
-Fuster Morell, M. (2010). Governance of online creation communities.
-Provision of infrastructure for the building of digital commons. PhD
-Thesis. Social and Political Science Department. European University
-Institute (Florence). www.onlinecreation.info
+privacidad; pero exigimos la propiedad.  Es hora de darse cuenta de que
+nunca la van a entregar.  No pueden, pero nosotras debemos.  A través de
+nuestro esfuerzo colectivo vamos a construir el poder político de un
+movimiento social que dará la vida a estas ideas.
 
 
 
@@ -1783,74 +1763,13 @@ Institute (Florence). www.onlinecreation.info
 
 
 
-________________
-
-[1] Hemos traducido gig por "bolos" en el sentido de los grupos
-musicales, para dar a entender la discontinuidad de esos puestos de
-trabajo (N. del T.)
-
-[2] Por el servicio Uber descrito más adelante. En varios lugares, el
-autor juega con el nombre de Uber (N. Del T.)
-
-[3]  Juego de palabras con AirBnB y la connotación de "kink" en inglés
-como fantasía o tolerancia sexual. Plataforma existente en  kinkbnb.com
-(N. Del T.)
 
 
 
 
 
-[4] George A. Akerlof, "The Market for ‘Lemons’: Quality Uncertainty and
-the Market Mechanism," The Quarterly Journal of Economics 84, no. 3
-(1970): 488–500, doi:10.2307/1879431.
-
-[5] Empresario y político estadounidense. (N. del T.)
 
 
-
-
-
-[6] "Review & Outlook: ‘You Didn’t Build That’," The Wall Street
-Journal, 19 de julio de 2012, www.wsj.com
-
-
-
-
-
-[7] Tom Slee, What’s Yours Is Mine. New York City: OR Books, 2015.
-
-[8] platformcoop.net
-
-[9] vimeo.com/149401422
-
-[10] Sascha Lobo, "Sascha Lobo: Sharing Economy wie bei Uber ist
-Plattform-Kapitalismus," Spiegel Online, 9 de marzo de 2014,
-www.spiegel.de
-
-[11] Byung-Chul Han, Müdigkeitsgesellschaft. Berlin: Matthes & Seitz
-Berlin, 2010. Versión castellana en La sociedad del cansancio.
-Barcelona: Herder, 2012.
-
-[12] livestream.com/internetsociety/platformcoop/videos/105663835
-
-[13] McKenzie Wark, "Digital Labor and the Anthropocene," DIS Magazine,
-accedido el 24 de noviembre de 2015, dismagazine.com
-
-[14] De la expresión crowd fleecing en inglés. (N. del T.)
-
-
-
-
-
-[15] Juego de palabras con el nombre de Unter, que en alemán significa
-"encima" y Uber, que significa "debajo". (N. del T.)
-
-[16] Axel Bruns, Blogs, Wikipedia, Second Life, and Beyond: From
-Production to Produsage, New York: Peter Lang Publishing Inc., 2008.
-
-[17] www.nelp.org/content/uploads/Rights-On-Demand-Report.pdf
-
-[18] vimeo.com/149979122
 
 [19] El W2 es el formulario que un empresario debe enviar a un empleado
 y al Servicio de Impuestos Internos al final del año, en Estados Unidos.
