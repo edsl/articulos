@@ -24,8 +24,8 @@ algo que pueda abrazar de todo corazón.  De eso es lo que trata este
 estudio.
 
 En primer lugar, voy a reflexionar sobre las oportunidades, riesgos y
-consecuencias de la economía colaborativa.  Utilizaré el caso de
-Amazon.com, que ha entrado con fuerza en la "economía colaborativa".  En
+consecuencias de la _sharing economy_.  Utilizaré el caso de
+Amazon.com, que ha entrado con fuerza en la "_sharing economy_".  En
 segundo lugar, describiré el crecimiento de las plataformas
 cooperativistas y ofreceré ejemplos de plataformas existentes y de
 plataformas imaginarias.  Lo que llamo _plataformas cooperativistas_
@@ -35,23 +35,22 @@ que están llevando la equidad laboral a las plataformas laborales.
 Concluiré con reflexiones sobre posibles pasos que hay que seguir para
 este movimiento en marcha.
 
-_Las consecuencias de la economía colaborativa._ La han llamado
-"economía de changas" (gig economy), la economía de pares, la
-_sharing economy_.  Ha llevado un tiempo reconocer que la _economía
-colaborativa_ era en realidad una _economía de servicios a demanda_ que
-se disponía monetizar servicios que antes eran privados.  Es cierto que
-entre esos trabajos existen oportunidades innegables para estudiantes o
-para trabajadoras formadas en búsqueda de algo estable y para quienes
-disponen de una segunda vivienda.  Ahora es más fácil para las graduadas
-universitarias encontrar algún trabajo montando los muebles o renovando
-la casa de alguien.  Las consumidoras, formadas por una aguda
-apreciación de los bajos precios y de la "uber-comodidad" por encima
-de todo, han dado la bienvenida a estos advenedizos.  Pero, ¿debemos
-entender la economía colaborativa como un cartel en el camino que apunta
-a un futuro mejor, más flexible, del trabajo?  ¿Qué es lo que esta
-economía nos trae realmente?
+_Las consecuencias de la_ sharing economy. La han llamado "economía de
+changas" (gig economy), la economía de pares, la economía colaborativa.
+Ha llevado un tiempo reconocer que la _sharing economy_ era en realidad
+una _economía de servicios a demanda_ que se disponía monetizar
+servicios que antes eran privados.  Es cierto que entre esos trabajos
+existen oportunidades innegables para estudiantes o para trabajadoras
+formadas en búsqueda de algo estable y para quienes disponen de una
+segunda vivienda.  Ahora es más fácil para las graduadas universitarias
+encontrar algún trabajo montando los muebles o renovando la casa de
+alguien.  Las consumidoras, formadas por una aguda apreciación de los
+bajos precios y de la "uber-comodidad" por encima de todo, han dado la
+bienvenida a estos advenedizos.  Pero, ¿debemos entender la _sharing
+economy_ como un cartel en el camino que apunta a un futuro mejor, más
+flexible, del trabajo?  ¿Qué es lo que esta economía nos trae realmente?
 
-Bienvenida a las Aldeas Potemkin de la "economía colaborativa", en las
+Bienvenida a las Aldeas Potemkin de la _sharing economy_, en las
 que finalmente puedes venderle las frutas que crecen en tu jardín a tus
 vecinas, compartir un viaje en coche, alquilar una casa de árbol en el
 bosque _Redwood_ o visitar un _KinkBnB_.  Esta amigable comodidad
@@ -117,11 +116,11 @@ interacciones entre usuarias a través de aplicaciones.  Están ampliando
 el libre mercado desregulado sobre áreas de nuestras vidas que antes
 eran privadas.
 
-La "economía colaborativa" se presenta como un heraldo de la sociedad
+La _sharing economy_ se presenta como un heraldo de la sociedad
 post-trabajo; el camino hacia el capitalismo ecológicamente sostenible
 en que _Google_ va a vencer a la misma muerte y tú no tienes que
 preocuparte por absolutamente nada.  Bajo el lema "lo que es mío es
-tuyo", el caballo de Troya de la economía colaborativa nos libera de las
+tuyo", el caballo de Troya de la _sharing economy_ nos libera de las
 formas jurásicas del trabajo mientras desencadena una maquinaria colosal
 de represión sindical; pasando por encima de las personas de mayor edad
 en especial.  El autor alemán Byung-Chul Han enmarca el momento actual
@@ -131,7 +130,7 @@ orientada a los logros que es supuestamente libre, determinada por el
 que pronto viene acompañada de ansiedad, auto-explotación y depresión.
 
 Es importante señalar que no podemos iniciar este debate sin antes
-reconocer que la "economía colaborativa" no es una especie de cubo
+reconocer que la _sharing economy_ no es una especie de cubo
 plastificado en el "ciberespacio"; es solo otro reflejo del capitalismo
 y del atlas masivo de las prácticas del trabajo digital. En consecuencia
 no podemos tener una discusión sobre las plataformas de trabajo sin
@@ -183,18 +182,18 @@ de la comunicación emergentes permiten que el "trabajo domiciliario" se
 disemine por toda la sociedad.
 
 
-La economía colaborativa se detiene
------------------------------------
+La _sharing economy_ se detiene
+-------------------------------
 
 Dentro de veinte o treinta años, cuando posiblemente nos estemos
 enfrentando al final de las profesiones y aun más puestos de trabajo de
 la gente sean "uberizados", bien podríamos despertar y preguntarnos por
 qué no protestamos con más fuerza contra estos cambios.  A pesar de
-todas las exquisitas ventajas de la "economía colaborativa", podríamos
+todas las exquisitas ventajas de la _sharing economy_, podríamos
 terminar compartiendo las sobras, no la economía.  Podríamos sentir
 remordimientos por no haber buscado alternativas anteriormente.  Como es
 de esperar, no podemos cambiar lo que no entendemos.  Por eso pregunto,
-¿qué significa la "economía colaborativa"?
+¿qué significa la _sharing economy_?
 
 
 ### Todo Uber tiene su Unter[^platform-ndt-1]
@@ -202,7 +201,7 @@ de esperar, no podemos cambiar lo que no entendemos.  Por eso pregunto,
 [^platform-ndt-1]: Juego de palabras entre _unter_ y _uber_, en alemán
 "debajo" y "arriba" respectivamente.  _(Nota de la traducción.)_
 
-La economía colaborativa indica una ofensiva a gran escala, global, en
+La _sharing economy_ indica una ofensiva a gran escala, global, en
 favor de "constructores de puentes digitales" que se insertan entre
 quienes ofrecen servicios y quienes están en su búsqueda, encajando
 procesos extractivos en interacciones sociales.  La economía a demanda
@@ -304,19 +303,19 @@ trampas de plataformas individuales, dominantes, como _Uber_.  Waldman
 entiende el _multi-homing_ como poder de negociación cuando se trata de
 mitigar el poder de los monopolios[@waldman-2015].
 
-_La economía colaborativa es reaganismo por otros medios._
-Retrocediendo en el tiempo, mi argumentación es que hay una conexión
-entre los efectos de la "economía colaborativa" y los deliberados
-_shocks_ de austeridad que siguieron a la crisis financiera en 2008.
-Los tecnólogos multimillonarios saltaron de cabeza, cabalgando a lomos
-de las que buscan desesperadamente trabajo, no solo aumentando así la
-desigualdad, sino también reestructurando la economía de manera que esta
-nueva forma de trabajar, privada de todos los derechos laborales, sea
-vivible, sobrevivible o, como ellos dirían: "sostenible".
+_La _sharing economy_ es reaganismo por otros medios._ Retrocediendo en
+el tiempo, mi argumentación es que hay una conexión entre los efectos de
+la _sharing economy_ y los deliberados _shocks_ de austeridad que
+siguieron a la crisis financiera en 2008.  Los tecnólogos
+multimillonarios saltaron de cabeza, cabalgando a lomos de las que
+buscan desesperadamente trabajo, no solo aumentando así la desigualdad,
+sino también reestructurando la economía de manera que esta nueva forma
+de trabajar, privada de todos los derechos laborales, sea vivible,
+sobrevivible o, como ellos dirían: "sostenible".
 
-La "economía colaborativa" surgió a partir de la estirpe de Reagan y
-Thatcher, que en los '80 no solo acabaron con las huelgas de las mineras
-y las controladoras de tráfico aéreo, sino que dañaron la creencia en la
+La _sharing economy_ surgió a partir de la estirpe de Reagan y Thatcher,
+que en los '80 no solo acabaron con las huelgas de las mineras y las
+controladoras de tráfico aéreo, sino que dañaron la creencia en la
 capacidad de los sindicatos de velar por las trabajadoras y en la
 posibilidad de la solidaridad, creando un marco en que la
 reestructuración del trabajo, los recortes al estado de bienestar y el
@@ -332,7 +331,7 @@ parecen a vehículos autónomos que se dirigen hacia el Armagedón.
 Es _On the Waterfront_ \[Nido de ratas\] de Elia Kazan en anfetaminas.
 Las jornaleras digitales se levantan cada mañana solo para unirse a la
 subasta de sus propias changas.  Según la economista Juliet Schor, la
-economía colaborativa ofrece acceso al trabajo descualificado a la clase
+_sharing economy_ ofrece acceso al trabajo descualificado a la clase
 media educada, que ahora puede conducir taxis y ensamblar muebles en
 casas de otra gente, mientras que al mismo tiempo desplaza a las
 trabajadoras de bajos ingresos de estas ocupaciones[^platform-28].
@@ -349,7 +348,7 @@ protecciones sociales.
 
 ### Generación de beneficios para los pocos
 
-El software que está impulsando la economía colaborativa está envuelto
+El software que está impulsando la _sharing economy_ está envuelto
 en una interfaz de diseño adictivo.  En la pantalla, el ícono de tamaño
 hormiga de un taxi acercándose a tu ubicación es tan seductor y
 peligroso como las sirenas que atraían a Ulises; es un diseño que
@@ -378,25 +377,24 @@ _freelancers_ en su declaración de impuestos.
 ## La ilegalidad como método
 
 En Estados Unidos la ilegalidad es un método y no un _bug_ de la
-"economía colaborativa" y el gobierno federal, no está interviniendo al
-menos hasta ahora, dejando el asunto (y única esperanza) a la
-municipalización de la regulación.  La economía colaborativa también ha
-sido criticada por la "anulación de la ley
-federal"[@pasquale-vaidhyanathan-2015], la falta de dignidad de las
-trabajadoras y la eliminación de los derechos laborales y valores
-democráticos, como la rendición de cuentas y el consentimiento.  Las
-empresas de la economía colaborativa no han pagado impuestos, violando
-leyes federales.  Su _modus operandi_ sigue un patrón.  En primer lugar,
-las empresas como _Uber_ violan varias leyes --las leyes contra la
-discriminación, por ejemplo-- y a continuación llaman la atención sobre
-una creciente y entusiasta base de consumidoras, exigiendo cambios
-legales.  _Airbnb_ gastó más de 8 millones de dólares para hacer _lobby_
-en San Francisco cuando las residentes votaron regular sus operaciones.
-_Uber_ gasta incluso más dinero en lobbistas que _Walmart_.  De manera
-significativa, tanto _Uber_ como _Airbnb_ están utilizando sus
-aplicaciones como plataformas políticas, que se utilizan para activar a
-sus clientas a que se opongan a cualquier intento de regulación contra
-ellos.
+_sharing economy_ y el gobierno federal, no está interviniendo al menos
+hasta ahora, dejando el asunto (y única esperanza) a la municipalización
+de la regulación.  La _sharing economy_ también ha sido criticada por la
+"anulación de la ley federal"[@pasquale-vaidhyanathan-2015], la falta de
+dignidad de las trabajadoras y la eliminación de los derechos laborales
+y valores democráticos, como la rendición de cuentas y el
+consentimiento.  Las empresas de la _sharing economy_ no han pagado
+impuestos, violando leyes federales.  Su _modus operandi_ sigue un
+patrón.  En primer lugar, las empresas como _Uber_ violan varias leyes
+--las leyes contra la discriminación, por ejemplo-- y a continuación
+llaman la atención sobre una creciente y entusiasta base de
+consumidoras, exigiendo cambios legales.  _Airbnb_ gastó más de 8
+millones de dólares para hacer _lobby_ en San Francisco cuando las
+residentes votaron regular sus operaciones.  _Uber_ gasta incluso más
+dinero en lobbistas que _Walmart_.  De manera significativa, tanto
+_Uber_ como _Airbnb_ están utilizando sus aplicaciones como plataformas
+políticas, que se utilizan para activar a sus clientas a que se opongan
+a cualquier intento de regulación contra ellos.
 
 Cuando te enteras de que las conductoras de _Uber_ en Los Ángeles están
 trabajando por debajo del salario mínimo; cuando se conoce que las
@@ -464,22 +462,21 @@ bajos[@wamu-2015].  El alcalde De Blasio está trabajando para frenar el
 tamaño de la flota de _Uber_ en las calles de la ciudad de Nueva York.
 
 
-## Amazon se suma a la economía colaborativa
+## Amazon se suma a la _sharing economy_
 
 _Amazon.com_, aun debajo de la edad legal para beber, es una de las
 empresas más antiguas de esta economía digital y se está uniendo a la
-"economía colaborativa".  La sección de libros de _Amazon_ comenzó en
-1994 pero, como _Uber_, hoy en día se ha convertido en una plantilla
-para un sinnúmero de otros negocios.  El cruel genio está fuera de la
-botella, la lógica de negocio de los sistemas de _crowdsourcing_ como
-_Amazon Mechanical Turk_ está siendo adaptada por empresas como
-_CrowdFlower_, _99Designs_ y cientos de otras.  _Amazon_ se insertó en
-la economía colaborativa con empresas como _Flex_, un servicio de
-entrega basado en el _crowdsourcing_ que utiliza a gente corriente, no a
-las carteras habituales, para la entrega de paquetes.  También inició
-_HomeServices_, que sitúa a la compañía como intermediaria de
-electricistas o plomeras y _HandMade-at-Amazon_, que compite
-directamente con _Etsy_.
+_sharing economy_.  La sección de libros de _Amazon_ comenzó en 1994
+pero, como _Uber_, hoy en día se ha convertido en una plantilla para un
+sinnúmero de otros negocios.  El cruel genio está fuera de la botella,
+la lógica de negocio de los sistemas de _crowdsourcing_ como _Amazon
+Mechanical Turk_ está siendo adaptada por empresas como _CrowdFlower_,
+_99Designs_ y cientos de otras.  _Amazon_ se insertó en la _sharing
+economy_ con empresas como _Flex_, un servicio de entrega basado en el
+_crowdsourcing_ que utiliza a gente corriente, no a las carteras
+habituales, para la entrega de paquetes.  También inició _HomeServices_,
+que sitúa a la compañía como intermediaria de electricistas o plomeras y
+_HandMade-at-Amazon_, que compite directamente con _Etsy_.
 
 Desde 2005, _Amazon_ gestiona una empresa de intermediación laboral en
 línea llamada _Amazon Mechanical Turk_, en la que las trabajadoras
@@ -559,9 +556,9 @@ cada trabajadora maltratada, hay más personas que están luchando por
 lograr una Internet centrada en las personas.
 
 El crecimiento del sector eventual se está produciendo desde hace
-décadas, pero con la "economía colaborativa" tomó un impulso
-significativo en 2008, cuando muchas franjas de la población tuvieron
-que encontrar vías alternativas de ingresos.
+décadas, pero con la _sharing economy_ tomó un impulso significativo en
+2008, cuando muchas franjas de la población tuvieron que encontrar vías
+alternativas de ingresos.
 
 Y por eso, en la segunda parte de este estudio, me pregunto si tenemos
 que seguir dependiendo únicamente de infraestructuras digitales que
@@ -1033,7 +1030,7 @@ modelo ha estado funcionando bastante bien.
 
 Janelle Orsi ha detallado ideas acerca de la propiedad en la Internet.
 En correspondencia con mi propuesta para clonar y reconstruir las
-tecnologías de la economía colaborativa con valores democráticos, Orsi
+tecnologías de la _sharing economy_ con valores democráticos, Orsi
 sugiere un software/empresa diseñado por la ciudad, similar a _Airbnb_,
 que podría servir como un mercado en línea bajo propiedad y gestión
 democrática de las personas que alquilan espacio a viajeras.  Uno de
@@ -1168,7 +1165,7 @@ que trabajan para empresas como _Lyft_ y _Uber_ hablen con una sola voz.
 
 Otra atractiva aunque imaginaria propuesta es la idea de las
 cooperativas de trabajo formadas en el estómago del monstruo de la
-economía colaborativa.  Las conductoras de _Uber_ podrían utilizar la
+_sharing economy_.  Las conductoras de _Uber_ podrían utilizar la
 infraestructura técnica de la empresa para establecer sus propias
 empresas.  Esta absorción hostil por parte de las trabajadoras podría ser
 imaginable como resultado de una demanda anti-monopolio comparable a la
@@ -1216,7 +1213,7 @@ con el cooperativismo de plataforma se convierten en esenciales.
 <http://livestream.com/internetsociety/platformcoop/videos/104571608>
 
 Juliet Schor realizó doscientas entrevistas con trabajadoras de la
-economía colaborativa.  Su sugerencia es:
+_sharing economy_.  Su sugerencia es:
 
 > Asegúrese de que tendrá la propuesta de valor adecuada.  Lo que está
 > ofreciendo debe ser de valor económico para las personas que desea
@@ -1229,7 +1226,7 @@ _ver.di_, el sindicato alemán de las trabajadoras de servicios
 de plataforma.
 
 1) _Propiedad:_ una de las principales narrativas de lo que se ha
-   llamado economía colaborativa trata sobre el rechazo de la propiedad.
+   llamado _sharing economy_ trata sobre el rechazo de la propiedad.
    La generación del milenio, nos dicen, no está interesada en las
    posesiones físicas; lo único que quieren es tener acceso a "cosas".
    No bajan música, la escuchan en _streaming_.  No compran un auto; son
@@ -1805,7 +1802,7 @@ El diseño de experiencia de usuaria en plataformas cooperativas
 representa una gran oportunidad.  La interfaz de estas plataformas
 podría instruir a las usuarias acerca de las normas laborales justas de
 la cooperativa y contrastar esto con la carencia de protecciones
-sociales en la economía colaborativa.  En otras palabras, este tipo de
+sociales en la _sharing economy_.  En otras palabras, este tipo de
 plataformas podría visibilizar la injusticia establecida por la economía
 bajo demanda.
 
