@@ -246,21 +246,32 @@ claros en el mejor de los casos.
 Se trata del cambio de la empleada, con resumen de sueldo y semana
 laboral de 40 horas, a una trabajadora más contingente, _freelance_ o
 contratista independiente, lo que también se conoce a veces como
-1099[20] o trabajadora de "changas"[21].  En el proceso, las
-trabajadoras están perdiendo el salario mínimo, las horas
+1099[^platform-20] o trabajadora de "changas"[^platform-21].  En el
+proceso, las trabajadoras están perdiendo el salario mínimo, las horas
 extraordinarias y las protecciones legales contra la discriminación en
 el empleo.  Asimismo, los empleadores no tienen que contribuir al
 sistema de asistencia médica, ni al seguro de desempleo, ni al seguro
 contra accidentes, ni a la jubilación de sus trabajadoras.
 
+[^platform-20]: El formulario 1099 es un informe de los diversos tipos
+de ingresos que una trabajadora recibe en todo el año que no sean el
+salario que un empresario le haya pagado.  Las trabajadoras eventuales
+tienen que enviar estos formularios 1099 al _Internal Revenue Service_,
+la agencia impositiva de Estados Unidos.
+
+[^platform-21] Como toda estudiante de los primeros años de su MBA
+sabrá, el empleo no es solo un concepto único, sino que describe un
+conjunto de derechos y son esos derechos fundamentales del trabajo los
+que están en riesgo.
+
 "Mientras que el empleo tradicional era como el matrimonio --escribe el
 jurista Frank Pasquale--, con las dos partes comprometiéndose a un
 proyecto conjunto a más largo plazo, la mano de obra digitalizada está
-en busca una serie de levantes"[22].  Estos mitos sobre el empleo
-proyectados enérgicamente sugieren que trabajar como empleada significa
-que debes renunciar a toda la flexibilidad y que trabajar por tu cuenta,
-de alguna manera, significa inherentemente que tu trabajo es flexible.
-Sin embargo, esta "flexibilidad innata" de las trabajadoras
+en busca una serie de levantes"[@pasquale-2011].  Estos mitos sobre el
+empleo proyectados enérgicamente sugieren que trabajar como empleada
+significa que debes renunciar a toda la flexibilidad y que trabajar por
+tu cuenta, de alguna manera, significa inherentemente que tu trabajo es
+flexible.  Sin embargo, esta "flexibilidad innata" de las trabajadoras
 independientes de bajos ingresos debe ponerse en duda, porque las
 trabajadoras no existen en el vacío; también se tienen que adaptar a los
 horarios de sus jefes virtuales.
@@ -270,27 +281,28 @@ autonomía y la elección, la carga de los mayores riesgos de la vida: el
 desempleo, la enfermedad y la vejez, han sido puestos sobre los hombros
 de las trabajadoras.  ¡Hay propietarios de plataformas que se refieren a
 las trabajadoras como "conejas", "turcas" o "proveedoras"!  Me pregunto
-si Leah Busque, CEO de _TaskRabbit_[23], se sentiría insultada si la
+si Leah Busque, CEO de _TaskRabbit_, se sentiría insultada si la
 llamaran coneja.  Ella es una jefa.  El problema es que es dueña de su
 mente y de la plataforma.
 
 ¿Quién va a estar dispuesto a ofrecer derechos laborales a todas las
 trabajadoras autónomas, a las temporales y por contrato?  El senador
-Mark Warner, de Virginia[24] y sobre todo el economista de Princeton
-Alan Krueger, entre otras, han sugerido una tercera categoría de
-trabajadoras que no es ni un contratista independiente, ni una empleada:
-la trabajadora independiente[25].  Esta categoría de trabajadora
-recibiría muchas de las protecciones laborales tradicionales.
+Mark Warner, de Virginia[@warner-2015] y sobre todo el economista de
+Princeton Alan Krueger, entre otras, han sugerido una tercera categoría
+de trabajadoras que no es ni un contratista independiente, ni una
+empleada: la trabajadora independiente[@harris-krueger-sf].  Esta
+categoría de trabajadora recibiría muchas de las protecciones laborales
+tradicionales.
 
 Una respuesta diferente a la pérdida de poder de negociación de las
 trabajadoras en la economía a demanda proviene del programador
 informático y escritor Steve Randy Waldman, quien sugirió que la
 clasificación de las contratistas independientes debe estar subordinada
-a los requisitos de que las trabajadoras sean "multi-hogar"[26], es
-decir, que trabajen usando varias plataformas y por lo tanto evitando
-las trampas de plataformas individuales, dominantes, como _Uber_.
-Waldman entiende el _multi-homing_ como poder de negociación cuando se
-trata de mitigar el poder de los monopolios[27].
+a los requisitos de que las trabajadoras sean "multi-hogar", es decir,
+que trabajen usando varias plataformas y por lo tanto evitando las
+trampas de plataformas individuales, dominantes, como _Uber_.  Waldman
+entiende el _multi-homing_ como poder de negociación cuando se trata de
+mitigar el poder de los monopolios[@waldman-2015].
 
 _La economía colaborativa es reaganismo por otros medios._
 Retrocediendo en el tiempo, mi argumentación es que hay una conexión
@@ -323,7 +335,10 @@ subasta de sus propias changas.  Según la economista Juliet Schor, la
 economía colaborativa ofrece acceso al trabajo descualificado a la clase
 media educada, que ahora puede conducir taxis y ensamblar muebles en
 casas de otra gente, mientras que al mismo tiempo desplaza a las
-trabajadoras de bajos ingresos de estas ocupaciones.[28]
+trabajadoras de bajos ingresos de estas ocupaciones[^platform-28].
+
+[^platform-28]:
+<http://livestream.com/internetsociety/platformcoop/videos/105162259>
 
 Una de cada tres trabajadoras de la fuerza laboral estadounidense es
 ahora una trabajadora independiente, jornalera, temporera o _freelance_.
@@ -366,21 +381,22 @@ En Estados Unidos la ilegalidad es un método y no un _bug_ de la
 "economía colaborativa" y el gobierno federal, no está interviniendo al
 menos hasta ahora, dejando el asunto (y única esperanza) a la
 municipalización de la regulación.  La economía colaborativa también ha
-sido criticada por la "anulación de la ley federal"[29], la falta de
-dignidad de las trabajadoras y la eliminación de los derechos laborales
-y valores democráticos, como la rendición de cuentas y el
-consentimiento.  Las empresas de la economía colaborativa no han pagado
-impuestos, violando leyes federales.  Su _modus operandi_ sigue un
-patrón.  En primer lugar, las empresas como _Uber_ violan varias leyes
---las leyes contra la discriminación, por ejemplo-- y a continuación
-llaman la atención sobre una creciente y entusiasta base de
-consumidoras, exigiendo cambios legales.  _Airbnb_ gastó más de 8
-millones de dólares para hacer _lobby_ en San Francisco cuando las
-residentes votaron regular sus operaciones.  _Uber_ gasta incluso más
-dinero en lobbistas que _Walmart_.  De manera significativa, tanto
-_Uber_ como _Airbnb_ están utilizando sus aplicaciones como plataformas
-políticas, que se utilizan para activar a sus clientas a que se opongan
-a cualquier intento de regulación contra ellos.
+sido criticada por la "anulación de la ley
+federal"[@pasquale-vaidhyanathan-2015], la falta de dignidad de las
+trabajadoras y la eliminación de los derechos laborales y valores
+democráticos, como la rendición de cuentas y el consentimiento.  Las
+empresas de la economía colaborativa no han pagado impuestos, violando
+leyes federales.  Su _modus operandi_ sigue un patrón.  En primer lugar,
+las empresas como _Uber_ violan varias leyes --las leyes contra la
+discriminación, por ejemplo-- y a continuación llaman la atención sobre
+una creciente y entusiasta base de consumidoras, exigiendo cambios
+legales.  _Airbnb_ gastó más de 8 millones de dólares para hacer _lobby_
+en San Francisco cuando las residentes votaron regular sus operaciones.
+_Uber_ gasta incluso más dinero en lobbistas que _Walmart_.  De manera
+significativa, tanto _Uber_ como _Airbnb_ están utilizando sus
+aplicaciones como plataformas políticas, que se utilizan para activar a
+sus clientas a que se opongan a cualquier intento de regulación contra
+ellos.
 
 Cuando te enteras de que las conductoras de _Uber_ en Los Ángeles están
 trabajando por debajo del salario mínimo; cuando se conoce que las
@@ -388,20 +404,21 @@ trabajadoras de _CrowdFlower_ y _Mechanical Turk_ no ganan más de dos a
 tres dólares por hora; cuando se comprende que gran parte (sino la
 mayoría) de los ingresos de _Airbnb_ en la ciudad de Nueva York proviene
 de anfitriones que alquilan apartamentos enteros por menos de treinta
-días[30]; cuando te dicen que las nuevas _startups_ están navegando
-alrededor de la definición de empleo de tal manera que las personas que
-están trabajando para ellas sean clasificadas como trabajadoras
-independientes, en lugar de empleadas; cuando se comprende que la
-situación de trabajadora independiente anula la protección otorgada a
-las trabajadoras por la _Fair Labor Standards Act_[31]; cuando _Uber_,
-_Lyft_ y _Airbnb_ continúan haciendo negocios en las ciudades que
-prohibieron sus operaciones; entonces se entiende por qué el gobierno
-y/o los municipios tienen que actuar en contra de esta "nulificación de
-la ley federal".[32]  En 2015, un estudio de Princeton demostró que las
-conductoras de _Uber_ en 20 ciudades ganan alrededor de \$17.50 USD la
-hora, lo cual de acuerdo a las conductoras se reduce a entre \$10 y \$13
-USD la hora después de restar los costos de combustible, seguros, pagos
-por el vehículo y su mantenimiento[33].  Los Ángeles aprobó un salario
+días[@slee-2015]; cuando te dicen que las nuevas _startups_ están
+navegando alrededor de la definición de empleo de tal manera que las
+personas que están trabajando para ellas sean clasificadas como
+trabajadoras independientes, en lugar de empleadas; cuando se comprende
+que la situación de trabajadora independiente anula la protección
+otorgada a las trabajadoras por la _Fair Labor Standards Act_; cuando
+_Uber_, _Lyft_ y _Airbnb_ continúan haciendo negocios en las ciudades
+que prohibieron sus operaciones; entonces se entiende por qué el
+gobierno y/o los municipios tienen que actuar en contra de esta
+"nulificación de la ley federal"[@pasquale-vaidhyanathan-2015].  En
+2015, un estudio de Princeton demostró que las conductoras de _Uber_ en
+20 ciudades ganan alrededor de \$17.50 USD la hora, lo cual de acuerdo a
+las conductoras se reduce a entre \$10 y \$13 USD la hora después de
+restar los costos de combustible, seguros, pagos por el vehículo y su
+mantenimiento[@harris-krueger-sf-b].  Los Ángeles aprobó un salario
 mínimo de \$15 USD la hora, lo que pone a _Uber_ en violación de esa
 ley.  Ahora, cualquier persona con conocimientos básicos de la _Fair
 Labor Standards Act_ de 1938 diría que tales salarios son ilegalmente
@@ -409,8 +426,13 @@ bajos; que no cumplen con los estándares del salario mínimo.
 
 Si tomamos en cuenta las significativas tasas de desgaste de las
 trabajadoras de _Mechanical Turk_ y las conductoras de _Uber_ (la mitad
-de las cuales no aguanta más de un año)[34], está claro que estos
-negocios, en su forma actual, no son sostenibles.
+de las cuales no aguanta más de un año)[^platform-34], está claro que
+estos negocios, en su forma actual, no son sostenibles.
+
+[^platform-34]: En 2015, más de la mitad de las conductoras de _Uber_ no
+se quedan más de doce meses en la compañía.  Para obtener más
+información, leer _Raw Deal. How the "Uber Economy" and Runaway
+Capitalism Are Screwing American Workers_ de Steven Hill.
 
 En Estados Unidos, no respetar los derechos de las trabajadoras tiene un
 riesgo legal muy bajo para los patrones.  El Departamento de Trabajo de
@@ -421,24 +443,25 @@ tienen que hacer es pagar a las trabajadoras lo que les deben.
 
 Queda algo de esperanza.  En una sentencia reciente, un juez federal
 dictaminó que una conductora _Uber_ era una empleada y no una
-trabajadora independiente[35].  Y las trabajadoras de _Lyft_ e incluso
-_Yelp_ también están presentando demandas para ser reconocidas como
-tales[36].  En otoño de 2015, la ciudad de Seattle abrió la puerta para
-la sindicalización de las conductoras de _Uber_.  Y casi al mismo
-tiempo, una inusitada coalición de _startups_ y sindicatos publicaron un
-documento que resume las protecciones sociales de las trabajadoras que
-son necesarias para que la economía digital prospere[37].  Pero que el
-Gobierno Federal tenga la voluntad política de introducir nuevas medidas
-de protección para las trabajadoras es algo que está por verse.
+trabajadora independiente[@isaac-singer-2015].  Y las trabajadoras de
+_Lyft_ e incluso _Yelp_ también están presentando demandas para ser
+reconocidas como tales[@techdirt-2015].  En otoño de 2015, la ciudad de
+Seattle abrió la puerta para la sindicalización de las conductoras de
+_Uber_.  Y casi al mismo tiempo, una inusitada coalición de _startups_ y
+sindicatos publicaron un documento que resume las protecciones sociales
+de las trabajadoras que son necesarias para que la economía digital
+prospere[@nyt-2015].  Pero que el Gobierno Federal tenga la voluntad
+política de introducir nuevas medidas de protección para las
+trabajadoras es algo que está por verse.
 
 A nivel local y provincial, se encuentran en marcha algunos esfuerzos
 reguladores.  En el condado de Montgomery, por ejemplo, la Asamblea
 General de Maryland ha decidido regular a _Uber_ y _Lyft_ con una tasa
 de \$0,25 USD por cada viaje.  Los ingresos se utilizarán para ofrecer
 servicios de transporte más accesible para las personas mayores que
-cumplan los requisitos y para las residentes con ingresos bajos[38].  El
-alcalde De Blasio está trabajando para frenar el tamaño de la flota de
-_Uber_ en las calles de la ciudad de Nueva York.
+cumplan los requisitos y para las residentes con ingresos
+bajos[@wamu-2015].  El alcalde De Blasio está trabajando para frenar el
+tamaño de la flota de _Uber_ en las calles de la ciudad de Nueva York.
 
 
 ## Amazon se suma a la economía colaborativa
@@ -453,8 +476,8 @@ _Amazon Mechanical Turk_ está siendo adaptada por empresas como
 _CrowdFlower_, _99Designs_ y cientos de otras.  _Amazon_ se insertó en
 la economía colaborativa con empresas como _Flex_, un servicio de
 entrega basado en el _crowdsourcing_ que utiliza a gente corriente, no a
-las carteras habituales, para la entrega de paquetes[39].  También
-inició _HomeServices_, que sitúa a la compañía como intermediaria de
+las carteras habituales, para la entrega de paquetes.  También inició
+_HomeServices_, que sitúa a la compañía como intermediaria de
 electricistas o plomeras y _HandMade-at-Amazon_, que compite
 directamente con _Etsy_.
 
@@ -463,7 +486,7 @@ línea llamada _Amazon Mechanical Turk_, en la que las trabajadoras
 pueden ingresar y elegir entre largas listas de tareas.  Al igual que en
 el trabajo a destajo tradicional de la industria de la indumentaria,
 _Mechanical Turk_ permite que un proyecto se divida en miles de
-fragmentos, que se asignan a las llamadas _crowd workers_[40].  Estas
+fragmentos, que se asignan a las llamadas _crowd workers_.  Estas
 trabajadoras novatas, a menudo bien formadas, están ganando entre \$2 y
 \$3 USD por hora en este entorno.  Al igual que las trabajadoras
 migrantes o temporales en la industria de la comida rápida, están
@@ -474,10 +497,11 @@ Se podría pensar que en un país rico y democrático como Estados Unidos,
 las trabajadoras estarían protegidas legalmente contra tales abusos y
 que operaciones como las de _Uber_ serían desmanteladas de inmediato.
 Fuimos testigas de cómo unos funcionarios parisinos imputaban a dos
-ejecutivos de _Uber_[41] y de cómo ciudades como Río de Janeiro están
-prohibiendo a la empresa y haciendo cumplir esta legislación[42].  En
-Estados Unidos no se hace mucho contra esas empresas que desobedecen las
-leyes federales y los reglamentos municipales.
+ejecutivos de _Uber_[@schechner-2015] y de cómo ciudades como Río de
+Janeiro están prohibiendo a la empresa y haciendo cumplir esta
+legislación[@guardian-2015].  En Estados Unidos no se hace mucho contra
+esas empresas que desobedecen las leyes federales y los reglamentos
+municipales.
 
 El robo de salarios, por ejemplo, es un hecho cotidiano en _Amazon
 Mechanical Turk_, que tolera explícitamente esta práctica.  Los usuarios
@@ -501,31 +525,32 @@ logística y las reprendió incluso por sus períodos más cortos de
 inactividad con los denominados informes de inactividad.  Las
 tecnologías de vigilancia y los supervisores mantienen un registro
 incluyendo las charlas de uno o dos minutos entre dos trabajadoras y de
-las ausencias prolongadas en el baño[43].  Después de dos digresiones
-así, de pausas de entre uno y nueve minutos, las trabajadoras pueden ser
-despedidas.  Y por supuesto, esto no solo está pasando en "centros de
-cumplimiento" de _Amazon_ en Alemania.  Es la lógica taylorista llevada
-a tal extremo que ni siquiera tiene sentido empresarial.  Es una
-absoluta _densificación del trabajo_, tal como ha denominado la
-investigadora del trabajo Ursula Huws[44].  Además, el Tribunal Supremo
-de Estados Unidos emitió un fallo que indica que no es necesario
-compensar el control de seguridad obligatorio de las trabajadoras que
-salen de estos almacenes como horas extraordinarias, a pesar de que
-tienen que esperar en esa cola entre 30 y 40 minutos todos los días[45].
-La legislación favorece a las empresas que cotizan en bolsa[46].
+las ausencias prolongadas en el baño[@dw-2015].  Después de dos
+digresiones así, de pausas de entre uno y nueve minutos, las
+trabajadoras pueden ser despedidas.  Y por supuesto, esto no solo está
+pasando en "centros de cumplimiento" de _Amazon_ en Alemania.  Es la
+lógica taylorista llevada a tal extremo que ni siquiera tiene sentido
+empresarial.  Es una absoluta _densificación del trabajo_, tal como ha
+denominado la investigadora del trabajo Ursula Huws[-@huws-2014].
+Además, el Tribunal Supremo de Estados Unidos emitió un fallo que indica
+que no es necesario compensar el control de seguridad obligatorio de las
+trabajadoras que salen de estos almacenes como horas extraordinarias, a
+pesar de que tienen que esperar en esa cola entre 30 y 40 minutos todos
+los días[@griswold-2014].  La legislación favorece a las empresas que
+cotizan en bolsa.
 
 Pero la miseria no se limita a las trabajadoras de almacén, a las _crowd
 workers_, sino que afecta igualmente a las trabajadoras de cuello blanco
 de _Amazon_.  Podemos arrojar más luz sobre el espíritu de Jeff Bezos,
 CEO de _Amazon_, que espetó brutalmente a un grupo de editores que
 "_Amazon_ debe acercarse a los editores de la forma en que un guepardo
-perseguiría a una gacela enfermiza"[47].  Es ese espíritu el que la
-compañía impone también a sus trabajadoras de cuello blanco, a sus
-contadoras, vendedoras e ingenieras.  Algo que fue revelado en el
+perseguiría a una gacela enfermiza"[@streitfeld-2013].  Es ese espíritu
+el que la compañía impone también a sus trabajadoras de cuello blanco, a
+sus contadoras, vendedoras e ingenieras.  Algo que fue revelado en el
 artículo "Dentro de Amazon", del _New York Times_, que citó a un
-ejecutivo del área de marketing de libros en _Amazon_ afirmando
-que "a casi todas las personas con las que he trabajado, las he visto
-llorar en su escritorio"[48].
+ejecutivo del área de marketing de libros en _Amazon_ afirmando que "a
+casi todas las personas con las que he trabajado, las he visto llorar en
+su escritorio"[@kantor-streitfeld-2015].
 
 _Amazon_ ha llegado a ser reconocida por sus malas condiciones de
 trabajo, pero de ninguna manera es una excepción dentro de la economía
@@ -561,9 +586,11 @@ algunas todavía lo hacen.  Es tiempo de revisitar esa historia.
 A mediados de la década de 1960, en Nueva York, fue el artista de
 _Fluxus_ George Maciunas quien empezó a formar cooperativas de artistas
 motivadas por su propia situación precaria.  En la Ciudad de Nueva York
-de hoy en día, son artistas como Caroline Woolard quienes utilizan la
-lógica del arte para transformar su propia situación de vida y la de las
-demás[49].
+de hoy en día, son artistas como Caroline Woolard[^platform-49] quienes
+utilizan la lógica del arte para transformar su propia situación de vida
+y la de las demás.
+
+[^platform-49]: <http://carolinewoolard.com>
 
 Es posible escapar a _Facebook_, _CrowdFlower_ y _Google_.  Los
 imperativos corporativos como el crecimiento y la maximización de los
@@ -577,20 +604,20 @@ de Internet podrían resolver muchos de estos problemas.
 
 > Necesitamos construir una economía y una Internet que funcione para
 > todas. ¿ Cómo podemos aprender lecciones de la larga y emocionante
-> historia de las cooperativas y traerlas a la era digital?[50]
+> historia de las cooperativas y traerlas a la era digital?[@duda-sf]
 
 ¿Por dónde deberíamos comenzar?  El 51% de las estadounidenses gana
-menos de \$30.000 USD[51] al año y el 76% no cuenta con ningún tipo de
-ahorro[52].
+menos de \$30.000 USD[@washington-2015] al año y el 76% no cuenta con
+ningún tipo de ahorro[@johnson-2013].
 
 Entre el 2000 y el 2010, el ingreso promedio en los Estados Unidos se
-redujo un 7% cuando lo ajustamos a la inflación[53].  En términos de
-bienestar social y sostenibilidad del medio ambiente, para cada vez más
-personas el capitalismo ya no está funcionando.  Por lo tanto, tenemos
-que pensar en cómo cambiar las formas en que Internet es poseída y
-gobernada y en cómo la solidaridad podría fortalecerse en el proceso.
-Mi colaborador Nathan Schneider se preguntó: "¿Podría "Silicon
-Alley"[54] las cosas de forma más democrática que Silicon Valley?
+redujo un 7% cuando lo ajustamos a la inflación[@nadeau-2012].  En
+términos de bienestar social y sostenibilidad del medio ambiente, para
+cada vez más personas el capitalismo ya no está funcionando.  Por lo
+tanto, tenemos que pensar en cómo cambiar las formas en que Internet es
+poseída y gobernada y en cómo la solidaridad podría fortalecerse en el
+proceso.  Mi colaborador Nathan Schneider se preguntó: "¿Podría "Silicon
+Alley" las cosas de forma más democrática que Silicon Valley?
 
 % XXX: para mi la nota al pie de silicon alley no tiene sentido, tendría
 % más sentido para mi un juego de palabras entre Valley y Ally... le
@@ -614,10 +641,14 @@ plataformas cooperativas?  ¿No son las cooperativas un modelo caduco de
 organización del trabajo?  Cualquiera que haga esta afirmación debe
 considerar en primer lugar que en todo el mundo la economía solidaria
 está en crecimiento;  las cooperativas emplean más personas que todas
-las multinacionales juntas[55].  El candidato presidencial demócrata, el
-senador estadounidense Bernie Sanders, promueve la propiedad obrera como
-una forma viable de progresar[56].  En Estados Unidos, 900.000 personas
-son empleadas por cooperativas[57].
+las multinacionales juntas[^platform-55].  El candidato presidencial
+demócrata, el senador estadounidense Bernie Sanders, promueve la
+propiedad obrera como una forma viable de progresar[@johnson-2015].  En
+Estados Unidos, 900.000 personas son empleadas por
+cooperativas[@nadeau-sf].
+
+[^platform-55]: Las estadísticas de este párrafo están tomadas de _Owning
+Our Future: The Emerging Ownership Revolution_, de Marjorie Kelly.
 
 En su libro _Collective Courage_, Jessica Gordon Nembhard describe la
 experiencia negra en las cooperativas de Estados Unidos como una
@@ -628,7 +659,10 @@ industrial de España, es una red de cooperativas que en 2013 empleaba a
 74.061 personas.  Emilia Romagna, un área en Italia que alentó a la
 propiedad de las empleadas, las cooperativas de consumo y las
 cooperativas agrícolas, tiene el desempleo más bajo que otras regiones
-de Italia[58].
+de Italia[^platform-58].
+
+[^platform-58]:
+<http://dept.kent.edu/oeoc/oeoclibrary/emiliaromagnalong.htm>
 
 El 40% de la agricultura en Brasil y el 36% de los mercados minoristas
 en Dinamarca están constituidos por cooperativas, según Kelly.  El 45%
@@ -639,29 +673,35 @@ difícil argumentar con éxito que el modelo cooperativo está acabado.
 En el Reino Unido, por ejemplo, en la actualidad hay 200.000 personas
 que trabajan en más de 400 cooperativas de trabajo.  En Berlín, las
 ciudadanas están formando cooperativas de servicios públicos para
-comprar y gestionar la red eléctrica de la ciudad[59].  En la ciudad
-alemana de Schönau, otra de estas cooperativas de consumo gestiona tanto
-la red eléctrica como el suministro de gas para la ciudad.
+comprar y gestionar la red eléctrica de la ciudad[^platform-59].  En la
+ciudad alemana de Schönau, otra de estas cooperativas de consumo
+gestiona tanto la red eléctrica como el suministro de gas para la
+ciudad.
+
+[^platform-59]: <http://www.buerger-energie-berlin.de/das-ziel>
 
 Para el 2016, la concejala del Ayuntamiento de Nueva York María del
 Carmen Arroyo informa que la ciudad ha aprobado una iniciativa de
 desarrollo de las cooperativas de trabajadoras dotándola de \$ 2,1
-millones de dólares[60].  En 2015, la coalición de 24 cooperativas
-autogestionadas de la ciudad de Nueva York estaba casi exclusivamente
-gestionada por mujeres.  Las trabajadoras de bajos salarios que se
-unieron a esas cooperativas vieron sus salarios por hora aumentar de
-\$10 a \$25 USD en los últimos dos años.
+millones de dólares[^platform-60].  En 2015, la coalición de 24
+cooperativas autogestionadas de la ciudad de Nueva York estaba casi
+exclusivamente gestionada por mujeres.  Las trabajadoras de bajos
+salarios que se unieron a esas cooperativas vieron sus salarios por hora
+aumentar de \$10 a \$25 USD en los últimos dos años.
+
+[^platform-60]: <http://fpwa.org>
 
 Sin lugar a dudas, los retos para todas las cooperativas son muy
 grandes.  Basta pensar en la cadena _Walmart_, que es, después del
 Departamento de Defensa de los Estados Unidos y del Ejército de
-Liberación de China, la tercera organización más grande del mundo[61].
-Para las cooperativas, competir con estos gigantes no es ningún paseo
-por el parque.  Pero aun así, en esta lucha por imaginar el futuro del
-trabajo, ¿quiénes deben ser las agentes de cambio?  ¿Es el dueño de la
-plataforma, el accionista, el CEO, el capital de riesgo, o debemos
-enfocarnos en el colectivo de trabajadoras junto con un movimiento de
-ciudadanas?  La respuesta podría ser: todo lo anterior.
+Liberación de China, la tercera organización más grande del
+mundo[@schlademan-sf].  Para las cooperativas, competir con estos
+gigantes no es ningún paseo por el parque.  Pero aun así, en esta lucha
+por imaginar el futuro del trabajo, ¿quiénes deben ser las agentes de
+cambio?  ¿Es el dueño de la plataforma, el accionista, el CEO, el
+capital de riesgo, o debemos enfocarnos en el colectivo de trabajadoras
+junto con un movimiento de ciudadanas?  La respuesta podría ser: todo lo
+anterior.
 
 % XXX: paseo por el parque es muy literal, lo podemos sustituir con...
 % "no es moco de pavo" :P
@@ -670,12 +710,16 @@ ciudadanas?  La respuesta podría ser: todo lo anterior.
 
 Para mí, el problema comienza cuando el cambio se busca principalmente
 en las salas de reunión de Silicon Valley.  Tim O'Reilly convocó la
-conferencia "Next: Economy" en noviembre de 2015[62], por ejemplo, que
-fue ampliamente dominada por los capitanes de Silicon Valley.  Y como si
-la selección de conferenciantes (a pesar de dos o tres defensoras de las
-trabajadoras, predominantemente gerentes de empresas) no dejara claro
-a quién se identificaba como agentes de cambio, la cuota de inscripción
-de \$3.500 USD lo aclaró de una vez por todas.
+conferencia "Next: Economy" en noviembre de 2015[^platform-62], por
+ejemplo, que fue ampliamente dominada por los capitanes de Silicon
+Valley.  Y como si la selección de conferenciantes (a pesar de dos o
+tres defensoras de las trabajadoras, predominantemente gerentes de
+empresas) no dejara claro a quién se identificaba como agentes de
+cambio, la cuota de inscripción de \$3.500 USD lo aclaró de una vez por
+todas.
+
+[^platform-62]:
+<http://conferences.oreilly.com/nextcon/economy-us-2015/public/content/speakers>
 
 El ex-Secretario de Trabajo Robert Reich señaló que, con el fin de
 "salvar el capitalismo", las trabajadoras tienen que contar con un
@@ -728,7 +772,7 @@ Curl observa, que:
 > guerras de precios, de la promulgación de leyes que socavan su
 > viabilidad, de etiquetarlas en los medios de comunicación como
 > subversivas y fracasadas y por el uso de varias otras
-> estratagemas[63].
+> estratagemas[@verdi-2015].
 
 También Rosa Luxemburgo fue cauta cuando se trataba de pensar en las
 cooperativas como alternativas totales al capitalismo.
@@ -740,10 +784,10 @@ cooperativas como alternativas totales al capitalismo.
 > contradicción que da cuenta de la falta de costumbre de las
 > cooperativas de producción que, o bien se convierten en empresas
 > capitalistas puras o, si los intereses de las trabajadoras siguen
-> predominando, finalmente se disuelven[64].
+> predominando, finalmente se disuelven[@gasper-2014].
 
 Se emplean todos los métodos que permiten a una empresa hacer frente a
-sus competidores en el mercado, escribía Luxemburgo[65].
+sus competidores en el mercado, escribía Luxemburgo[@gasper-2014].
 
 Existe, sin embargo, el efecto innegable e importante que las
 cooperativas tienen sobre las trabajadoras en estos sistemas.  Las
@@ -773,13 +817,15 @@ Las cooperativas han sido instrumentos importantes para la construcción
 de poder económico de grupos marginados.  Karla Morales, de la
 cooperativa de cuidado de niños _Beyond Care_ \[Más allá del cuidado\]
 describe sus sencillos beneficios: "En mi trabajo, ahora tengo derecho a
-días por enfermedad, a vacaciones y a derechos laborales varios"[66].
-Los estados del sur de Estados Unidos, por ejemplo, tienen una larga
-historia de cooperativas agrícolas con auto-determinación económica y
-social construida por las comunidades afro-americanas.  A veces, sin
-embargo, las cooperativas han reforzado las jerarquías de raza y género,
-reproduciendo, en lugar de cuestionar, las prácticas de la sociedad
-en general.  Juliet Schor afirma que:
+días por enfermedad, a vacaciones y a derechos laborales
+varios"[^platform-66].  Los estados del sur de Estados Unidos, por
+ejemplo, tienen una larga historia de cooperativas agrícolas con
+auto-determinación económica y social construida por las comunidades
+afro-americanas.  A veces, sin embargo, las cooperativas han reforzado
+las jerarquías de raza y género, reproduciendo, en lugar de cuestionar,
+las prácticas de la sociedad en general.  Juliet Schor afirma que:
+
+[^platform-66]: <https://vimeo.com/149516216>
 
 > Si usted está interesada en la justicia social, entonces debe saber
 > que en los espacios sin ánimo de lucro hay altos niveles de exclusión
@@ -789,7 +835,9 @@ en general.  Juliet Schor afirma que:
 > de raza, clase y género que muchos con ánimos de lucro.  Así que, si
 > usted quiere construir una plataforma que atraiga a las personas sin
 > distinción de clase, raza y género, es necesario comenzar por el grupo
-> de personas que desea atraer a su plataforma[67].
+> de personas que desea atraer a su plataforma[^platform-67].
+
+[^platform-67]: <https://vimeo.com/149540417>
 
 Los escépticos lamentan del hecho de que las cooperativas de crédito, en
 realidad, no han transformado la economía en su conjunto y de que las
@@ -826,7 +874,7 @@ as the country changes;
 we will hold each other  
 as the world changes\]
 
--- Anónimo[68]
+-- Anónimo[@curl-reed-2012]
 
 
 El concepto de cooperativismo de plataforma consta de tres partes:
@@ -846,7 +894,7 @@ El concepto de cooperativismo de plataforma consta de tres partes:
   y otras formas diversas de cooperativas y ser gestionados por estos.
   Todo ello que abarque cooperativas de múltiples accionarias, bajo
   propiedad de las trabajadoras o cooperativas de plataforma propiedad
-  de las _produsuarias_[69].
+  de las _produsuarias_.
 
 * Y en tercer lugar, el cooperativismo de plataforma está construido
   sobre la reformulación de conceptos como la innovación y la eficiencia
@@ -909,12 +957,14 @@ La abogada del "consumo colaborativo" e historietista Janelle Orsi nota
 un repunte decisivo en el interés por las cooperativas.  Explica que
 decenas de _startups_ de tecnología y negocios tradicionales, como
 floristerías o jardinerías, se han acercado a su _Sustainable Economies
-Law Center_[70] porque están interesadas en el "salto hacia las
-multitudes" (crowd leaping), la migración de su negocio al modelo de
+Law Center_[^platform-70] porque están interesadas en el "salto hacia
+las multitudes" (crowd leaping), la migración de su negocio al modelo de
 cooperativa.
 
-En San Francisco, _Loconomics_[71] es una cooperativa (en beta)
-propiedad de _freelancers_ en la que las miembras poseen acciones,
+[^platform-70]: <http://www.theselc.org>
+
+En San Francisco, _Loconomics_[^platform-71] es una cooperativa (en
+beta) propiedad de _freelancers_ en la que las miembras poseen acciones,
 reciben dividendos y tienen voz en el funcionamiento de la empresa.  No
 hay subastas, no hay sobreprecios.  _Loconomics_ ofrece masajes y otros
 servicios solicitados localmente.  La pertenencia a _Loconomics_ cuesta
@@ -923,11 +973,17 @@ aplicación en el área de la Bahía de San Francisco en enero y febrero de
 2015, y comenzarán a aceptar usuarias de otras ciudades en marzo de
 2016.
 
+[^platform-71]: <http://loconomics.com>
+
 Ali Alkhatib, un doctorando en Ciencias de la Computación de _Stanford_,
 ha trabajado en los _FUSE Labs_ de _Microsoft_ en el diseño de una
 "plataforma de pares generalizada y centrada en las trabajadoras" que
-permita a las trabajadoras poseer, operar y controlar el software[72].
-El proyecto está todavía en sus primeras etapas.
+permita a las trabajadoras poseer, operar y controlar el
+software[^platform-72].  El proyecto está todavía en sus primeras
+etapas.
+
+[^platform-72]:
+<http://ali-alkhatib.com/media/presentations/PlatformCooperativism.pdf>
 
 En Alemania, _Fairmondo_ comenzó como un mercado en línea decentralizado
 propiedad de sus usuarias --una alternativa cooperativa a _Amazon_ y
@@ -939,9 +995,9 @@ promueve un número menor de empresas de comercio justo y de recursos
 países, aspira a un mercado mundial en línea, decentralizado y que sea
 propiedad colectiva de todas las cooperativas locales.
 
-_Coopify_[73] es una plataforma de trabajo con pago en efectivo
-construida por estudiantes que pronto servirá a trabajadoras de bajos
-ingresos bajo demanda.  Fue creado por el programa de MBA de
+_Coopify_[^platform-73] es una plataforma de trabajo con pago en
+efectivo construida por estudiantes que pronto servirá a trabajadoras de
+bajos ingresos bajo demanda.  Fue creado por el programa de MBA de
 _CornellTech_ y financiada por la Fundación Robin Hood de Nueva York.
 Las trabajadoras que usan _Coopify_ serán neoyorquinas de bajos ingresos
 que están sub- o desempleadas y que no tienen la calificación de crédito
@@ -958,6 +1014,7 @@ una red cooperativa y un total de 180 trabajadoras-propietarias, en su
 mayoría mujeres de origen latino.  _Coopify_ ayudará a esas 9
 cooperativas a competir mejor con _Handy_, _Amazon Flex_ y similares.
 
+[^platform-73]: <http://seed.coop/p/V1RtF0JQe/more?wrap=true>
 
 ### Cooperativas de plataforma de propiedad municipal
 
@@ -966,11 +1023,11 @@ discutir la propiedad pública, que tiene un problema de imagen en
 Estados Unidos.  El economista político y fundador de democracia
 colaborativa, Gar Alperovitz, escribe que hay más de 2.000 compañías de
 electricidad de propiedad pública que, junto con las cooperativas,
-suministran más del 25% de la electricidad del país[74].  Alperovitz
-señala la larga historia de ciudades como Dallas, propietaria de varios
-hoteles y de municipios a lo largo de Estados Unidos que poseen
-hospitales y al parecer, contrariamente a la opinión pública, ese modelo
-ha estado funcionando bastante bien.
+suministran más del 25% de la electricidad del país[@nyt-2015b].
+Alperovitz señala la larga historia de ciudades como Dallas, propietaria
+de varios hoteles y de municipios a lo largo de Estados Unidos que
+poseen hospitales y al parecer, contrariamente a la opinión pública, ese
+modelo ha estado funcionando bastante bien.
 
 % que es "fundador de democracia colaborativa"??
 
@@ -996,7 +1053,7 @@ Orsi se pregunta:
 > ¿Por qué millones de dólares de viajeras deben escaparse de nuestras
 > ciudades a manos de los ricos accionistas de las corporaciones, sobre
 > todo cuando no es difícil ejecutar esas operaciones a través de algo
-> así como _Munibnb_?[75]
+> así como _Munibnb_?[@schneider-2015]
 
 Otra aplicación también sugerida por Orsi, se llama _Allbnb_ y supondría
 que las residentes recibieran un dividendo de los beneficios de tales
@@ -1014,10 +1071,14 @@ activas a la hora de darle forma.
 ### Plataformas propiedad de las _produsuarias_
 
 Utilizo el término _produsuaria_ como un neologismo que combina usuaria
-y productora.[76]  Las plataformas bajo propiedad de las _produsuarias_
-son una respuesta a las plataformas monopolistas como _Facebook_ y
-_Google_, que atraen a las usuarias con la promesa del "servicio
-gratuito", mientras que monetarizan su contenido y sus datos.
+y productora.[^platform-76]  Las plataformas bajo propiedad de las
+_produsuarias_ son una respuesta a las plataformas monopolistas como
+_Facebook_ y _Google_, que atraen a las usuarias con la promesa del
+"servicio gratuito", mientras que monetarizan su contenido y sus datos.
+
+[^platform-76]: Del término _produsage_, que propuso Axel Bruns en
+_Blogs, Wikipedia, Second Life and Beyond: From Production to
+Produsage_.  New York: Peter Lang, 2008.
 
 ¿Y si fuéramos dueñas de nuestra propia versión de _Facebook_, _Spotify_
 o _Netflix_?  ¿Y si las fotógrafas de _Shutterstock_ poseyeran la
@@ -1031,32 +1092,38 @@ _produsuarias_ permiten a las artistas forjarse una carrera por medio de
 la co-propiedad de las plataformas en las que están vendiendo su
 trabajo.
 
-_Resonate_, con sede en Berlín[77], es un sistema cooperativo de
-_streaming_ de música propiedad de las personas que lo utilizan.  En
+_Resonate_, con sede en Berlín[^platform-77], es un sistema cooperativo
+de _streaming_ de música propiedad de las personas que lo utilizan.  En
 _Resonate_, las usuarias reproducen una canción hasta que la poseen.  La
 primera vez que reproducen una canción, cuesta 0,002 centavos de dólar,
 la segunda vez, 0,004 centavos de dólar y en la cuarta o quinta
 reproducción se conectan a ella y finalmente, la poseen.
 
+[^platform-77]: <http://resonate.io/2016>
+
 % no se entiende nada esto ni en el original
 
-_Stocksy_[78] es una cooperativa de fotografía de stock bajo propiedad
-de sus artistas.  La cooperativa se basa en la idea de la distribución
-de beneficios y co-propiedad con las artistas que contribuyen con fotos
-al sitio.  Las artistas pueden solicitar el ingreso como miembros y
-cuando son aceptados licencian imágenes y reciben el 50% de comisión
-sobre las ventas, así como el reparto de beneficios al final del año.
-El objetivo de la cooperativa es la creación de carreras profesionales
-viables para sus miembros.  En 2014, sus ingresos habían llegado a \$3,7
-millones de dólares y desde su fundación han pagado varios millones de
-dólares de ganancias a sus artistas.
+_Stocksy_[^platform-78] es una cooperativa de fotografía de stock bajo
+propiedad de sus artistas.  La cooperativa se basa en la idea de la
+distribución de beneficios y co-propiedad con las artistas que
+contribuyen con fotos al sitio.  Las artistas pueden solicitar el
+ingreso como miembros y cuando son aceptados licencian imágenes y
+reciben el 50% de comisión sobre las ventas, así como el reparto de
+beneficios al final del año.  El objetivo de la cooperativa es la
+creación de carreras profesionales viables para sus miembros.  En 2014,
+sus ingresos habían llegado a \$3,7 millones de dólares y desde su
+fundación han pagado varios millones de dólares de ganancias a sus
+artistas.
 
-_Member's Media_[79] es una plataforma de medios bajo propiedad
-cooperativa que se dedica a las productoras y aficionadas al cine de
-ficción independiente.  Las personas que lo utilizan y producen en este
-sitio --sus _produsuarias_-- poseen la mayoría de la plataforma junto
-con las fundadoras y las inversoras originales.
+[^platform-78]: <http://stocksy.com>
 
+_Member's Media_[^platform-79] es una plataforma de medios bajo
+propiedad cooperativa que se dedica a las productoras y aficionadas al
+cine de ficción independiente.  Las personas que lo utilizan y producen
+en este sitio --sus _produsuarias_-- poseen la mayoría de la plataforma
+junto con las fundadoras y las inversoras originales.
+
+[^platform-79]: <http://membersmedia.net>
 
 ### Plataformas de trabajo respaldadas por sindicatos
 
@@ -1065,7 +1132,7 @@ sindicatos han comenzado a trabajar en conjunto, construyendo
 aplicaciones y organizando el sector del taxi.  Y si las empresas son
 inteligentes, darían la bienvenida a los sindicatos, ya que varios
 estudios muestran que las trabajadoras agremiadas representan una mejor
-tasa de permanencia y al menos la misma productividad.[80]
+tasa de permanencia y al menos la misma productividad[@triplett-1983].
 
 En Newark, New Jersey, _Trans Union Care_ comenzó como un servicio de
 taxi sin ánimo de lucro con conductoras que asociadas a la _United
@@ -1086,15 +1153,16 @@ formación.  Los costes de capital iniciales, a menudo un gran reto para
 las cooperativas, aquí son menos problemáticos porque las conductoras ya
 son dueñas del equipo.
 
-La _California App-Based Drivers Association_ (CADA)[81] es una
-organización sin ánimo de lucro que unifica a las conductoras de _Uber_,
-_Lyft_, _Sidecar_ y otras compañías basadas en aplicaciones.  Las
-conductoras de CADA no son empleadas y por lo tanto no pueden ser
+La _California App-Based Drivers Association_ (CADA)[^platform-81] es
+una organización sin ánimo de lucro que unifica a las conductoras de
+_Uber_, _Lyft_, _Sidecar_ y otras compañías basadas en aplicaciones.
+Las conductoras de CADA no son empleadas y por lo tanto no pueden ser
 miembros de pleno derecho del sindicato.  Sin embargo, el _Teamsters
 Local 986_ de California puede ejercer presión para conseguir una
 regulación favorable a las conductoras.  Se aseguran que las conductoras
 que trabajan para empresas como _Lyft_ y _Uber_ hablen con una sola voz.
 
+[^platform-81]: <http://cadateamsters.org>
 
 ### Las cooperativas desde dentro
 
@@ -1113,15 +1181,25 @@ _Internet Explorer_.
 El trabajo del futuro quizás no será dictado por las plataformas
 centralizadas, ni siquiera por las que son operadas por cooperativas.
 Tal vez serán interacciones entre pares facilitadas por los protocolos
-P2P.  En Israel, por ejemplo, _La'Zooz_[82] es una red distribuida entre
-pares de transporte compartido.  Así como desde _Member's Media_
-querrían que piensen en ellas como el _Netflix_ de las cineastas y
-aficionadas, bajo propiedad de esas _produsuarias_, _La'Zooz_ se podría
-compararse con el _BitTorrent_ de compartir transporte.  Cualquiera que
-conduzca por una ciudad puede ganar _cryptotokens_ tomando compañeras de
-viaje.  A diferencia del sistema descrito anteriormente, este es
-totalmente P2P, no hay un punto central, no hay un cuartel general[83].
+P2P.  En Israel, por ejemplo, _La'Zooz_[^platform-82] es una red
+distribuida entre pares de transporte compartido.  Así como desde
+_Member's Media_ querrían que piensen en ellas como el _Netflix_ de las
+cineastas y aficionadas, bajo propiedad de esas _produsuarias_,
+_La'Zooz_ se podría compararse con el _BitTorrent_ de compartir
+transporte.  Cualquiera que conduzca por una ciudad puede ganar
+_cryptotokens_ tomando compañeras de viaje.  A diferencia del sistema
+descrito anteriormente, este es totalmente P2P, no hay un punto central,
+no hay un cuartel general[^platform-83].
 
+[^platform-82]: <http://lazooz.org>
+
+[^platform-83]: También en Israel, pero no como una plataforma
+cooperativa, _Google_ ha lanzado la aplicación _Waze_, que enlaza a las
+pasajeras que quieren llegar a sus lugares de trabajo con las
+conductoras que tienen que hacer un viaje similar.  A las conductoras se
+les paga en función de la distancia que conduzcan, pero el sistema está
+configurado de manera que las conductoras no pueden convertirlo en un
+negocio.
 
 ### Diez Principios para el cooperativismo de plataforma
 
@@ -1130,9 +1208,12 @@ cooperativismo de plataforma concierne, sin duda, a las que ya están en
 marcha.  En primer lugar, por supuesto, debe estar la creación de un
 anhelo de soluciones cooperativas.  Astra Taylor apoya la sabiduría de
 Elaine Browne, ex-líder del Partido Panteras Negras: "Nunca organizarse
-ni movilizarse alrededor de principios abstractos"[84].  Por otra parte,
-una vez se ha empezado, los principios y valores asociados con el
-cooperativismo de plataforma se convierten en esenciales.
+ni movilizarse alrededor de principios abstractos"[^platform-84].  Por
+otra parte, una vez se ha empezado, los principios y valores asociados
+con el cooperativismo de plataforma se convierten en esenciales.
+
+[^platform-84]:
+<http://livestream.com/internetsociety/platformcoop/videos/104571608>
 
 Juliet Schor realizó doscientas entrevistas con trabajadoras de la
 economía colaborativa.  Su sugerencia es:
@@ -1143,8 +1224,9 @@ economía colaborativa.  Su sugerencia es:
 > menudo.  El espacio lucrativo lo consigue mejor.
 
 Más allá de lo que afirma Schor, influenciada por el pensamiento de
-_ver.di_, el sindicato alemán de las trabajadoras de servicios,[85]
-propongo los siguientes principios para el cooperativismo de plataforma.
+_ver.di_, el sindicato alemán de las trabajadoras de servicios
+[@verdi-sf], propongo los siguientes principios para el cooperativismo
+de plataforma.
 
 1) _Propiedad:_ una de las principales narrativas de lo que se ha
    llamado economía colaborativa trata sobre el rechazo de la propiedad.
@@ -1179,7 +1261,9 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    Alliance_ se resistió.  En la cumbre _White House Worker's Voice_
    introdujeron el Código del Buen Trabajo con una demanda muy simple:
    "Todo el mundo necesita pago y prestaciones justos para ganarse la
-   vida."[86]
+   vida."[^platform-86]
+
+[^platform-86]: <http://goodworkcode.org>
 
 3) _Transparencia y portabilidad de datos:_  La transparencia no es solo
    cuestión de transparencia operativa.  El mercado en línea bajo
@@ -1195,9 +1279,12 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    y la apreciación de los propietarios y gestores.  En ese contexto, la
    capacidad de las trabajadoras para comunicarse con los gestores de
    plataformas o propietarios es de capital importancia.  Cuando a las
-   trabajadorls se les paga tarde, no son compensadas a tiempo[87] o son
-   despedidas, deben tener el derecho efectivo a obtener una
-   explicación.
+   trabajadorls se les paga tarde, no son compensadas a
+   tiempo[^platform-87] o son despedidas, deben tener el derecho
+   efectivo a obtener una explicación.
+
+[^platform-87]: Más del 70% de las trabajadoras independientes en
+Estados Unidos informan que con frecuencia se les paga con retraso.
 
 5) _Co-determinación del trabajo:_  Las plataformas de trabajo deben
    implicar a las trabajadoras desde el momento de programación de la
@@ -1217,21 +1304,24 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    Por ejemplo, las cooperativas pueden necesitar regulación local para
    mantenerse en el juego, pero los reguladores federales pueden
    intentar detenerlo.  Los operadores tradicionales pueden tratar de
-   mantener a sus trabajadoras alejadas del _multi-homing_[88] en las
-   plataformas cooperativas.  Sus abogados pueden desafiarlos, o
+   mantener a sus trabajadoras alejadas del _multi-homing_[^platform-88]
+   en las plataformas cooperativas.  Sus abogados pueden desafiarlos, o
    presionar para una ley del estado que lo haga ilegal.  Por último,
    como Frank Pasquale ha observado, existe la extraña inconsistencia en
    la normativa de competencia basada en la diferencia entre los
-   monopolios y las cooperativas.[89]  Mientras que los monopolios
-   pueden obtener vía libre en Estados Unidos si surgen "naturalmente"
-   (lo que sea que esto signifique), una federación de cooperativas que
-   trata de competir con una firma dominante podría ser responsable ante
-   la ley anti-monopolio si intenta fijar los precios o incluso de
-   establecer normas de conducta.  Si bien Estados Unidos acepta
-   bastante bien los monopolios si siguen vagamente las reglas del
-   juego, es bastante reacia cuando se trata de cárteles.  Los poderes
-   del gobierno promueven el sistema de gobierno corporativo y la
-   marginalización de las clases medias.
+   monopolios y las cooperativas[@pasquale-2013].  Mientras que los
+   monopolios pueden obtener vía libre en Estados Unidos si surgen
+   "naturalmente" (lo que sea que esto signifique), una federación de
+   cooperativas que trata de competir con una firma dominante podría ser
+   responsable ante la ley anti-monopolio si intenta fijar los precios o
+   incluso de establecer normas de conducta.  Si bien Estados Unidos
+   acepta bastante bien los monopolios si siguen vagamente las reglas
+   del juego, es bastante reacia cuando se trata de cárteles.  Los
+   poderes del gobierno promueven el sistema de gobierno corporativo y
+   la marginalización de las clases medias.
+
+[^platform-88]: _Multihoming_ hace referencia a un dispositivo conectado
+a varias redes en caso de que falle alguna. _(Nota de la traducción.)_
 
 7) _Portabilidad de la protección de las trabajadoras y prestaciones:_
    Las trabajadoras tanto de la economía tradicional como la contingente
@@ -1242,15 +1332,19 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    Steven Hill, un autor residente en San Francisco, es una de las
    personas que hicieron esta propuesta en su último libro _Raw Deal:
    How the 'Uber Economy' and Runaway Capitalism Are Screwing American
-   Workers_.[90]  A cada trabajadora se le asignaría una cuenta de
-   seguridad individual en la que todas las empresas que la contraten
-   pagarían una pequeña tarifa de seguridad, prorrateando el número de
-   horas por las que se mantuvo empleada.  Esos fondos se utilizarían
-   para pagar la red de seguridad de cada trabajadora, dirigiendo los
-   fondos a la infraestructura ya establecida, como la salud pública y
-   seguros contra accidentes y de desempleo.  Además, este plan
-   proporcionaría un mínimo de cinco días de baja por enfermedad y
-   vacaciones pagas para cada trabajadora[91].
+   Workers_.  A cada trabajadora se le asignaría una cuenta de seguridad
+   individual en la que todas las empresas que la contraten pagarían una
+   pequeña tarifa de seguridad, prorrateando el número de horas por las
+   que se mantuvo empleada.  Esos fondos se utilizarían para pagar la
+   red de seguridad de cada trabajadora, dirigiendo los fondos a la
+   infraestructura ya establecida, como la salud pública y seguros
+   contra accidentes y de desempleo.  Además, este plan proporcionaría
+   un mínimo de cinco días de baja por enfermedad y vacaciones pagas
+   para cada trabajadora[^platform-91].
+
+[^platform-91]: Actualmente más de 60 millones de trabajadoras del
+sector privado en Estados Unidos no tienen acceso a la baja por
+enfermedad.
 
    Una consecuencia importante de esta propuesta es que, al poner a casi
    todas las trabajadoras en iguales condiciones, se podrían reducir en
@@ -1264,14 +1358,20 @@ propongo los siguientes principios para el cooperativismo de plataforma.
 
 8) _Protección contra la conducta arbitraria:_ _Uber_ es conocida por
    sus prácticas arbitrarias de disciplina y despido.  Las conductoras
-   pueden ser privadas de ingresos sin advertencia.[92]  Las razones
-   para el despido son a menudo poco claras, ya que la empresa rechaza
-   responder a las preguntas de las conductoras que exigen una
+   pueden ser privadas de ingresos sin advertencia[@huet-2015].  Las
+   razones para el despido son a menudo poco claras, ya que la empresa
+   rechaza responder a las preguntas de las conductoras que exigen una
    explicación, un problema al que también se enfrentan las trabajadoras
-   en otras plataformas.[93]  En _Lyft_, las conductoras que no reciben
-   cinco estrellas pueden ser echadas de una patada. Las consumidoras
-   adquieren poderes de gestión sobre la vida de las trabajadoras, lo
-   que implica una enorme responsabilidad.
+   en otras plataformas[^platform-93].  En _Lyft_, las conductoras que
+   no reciben cinco estrellas pueden ser echadas de una patada. Las
+   consumidoras adquieren poderes de gestión sobre la vida de las
+   trabajadoras, lo que implica una enorme responsabilidad.
+
+[^platform-93]: Para un análisis de la situación de las trabajadoras de
+_Amazon Mechanical Turk_, ver Lilly Irany, _"Difference and Dependence
+among Digital Workers: The Case of Amazon Mechanical Turk"_ \[Diferencia
+y dependencia entre trabajadoras digitales, el caso de _Amazon
+Mechanical Turk_\], _The South Atlantic Quarterly_, enero de 2015.
 
    Y por si esto no fuera suficiente, el sistema de reputación de _Uber_
    también culpa a las conductoras ante pasajeras de dedos gordos que
@@ -1285,13 +1385,21 @@ propongo los siguientes principios para el cooperativismo de plataforma.
    capitalicen su reputación.  Cuando se cambian a otra plataforma,
    empiezan desde cero.  En consecuencia, es esencial que las
    trabajadoras establezcan sus propios sistemas decentralizados de
-   reputación y de identidad.  Proyectos como _Traity_[94] y _Crypto
-   Swartz_[95] están trabajando en esa dirección.
+   reputación y de identidad.  Proyectos como _Traity_[^platform-94] y
+   _Crypto Swartz_[@galt-2014] están trabajando en esa dirección.
+
+[^platform-94]: <http://traity.com>
 
 9) _Rechazo de la excesiva vigilancia en el lugar de trabajo:_ La
    excesiva vigilancia en el lugar de trabajo por medio de los diarios
-   de las trabajadoras de _oDesk_ (ahora _Upwork_)[96] o las constantes
-   revisiones en _TaskRabbit_ deben ser rechazadas.
+   de las trabajadoras de _oDesk_ (ahora _Upwork_)[^platform-96] o las
+   constantes revisiones en _TaskRabbit_ deben ser rechazadas.
+
+[^platform-96]: Los "diarios de las trabajadoras" de _oDesk_ (ahora
+_UpWork_) documentan el flujo de trabajo de las trabajadoras.  Esto
+incluye fotografías recurrentes de las trabajadoras con la cámara
+incorporada en el ordenador que utilizan y capturas de pantalla para
+medir el progreso del trabajo.
 
    ¿Dónde está la dignidad del trabajo en este tipo de sistemas?  ¿Te
    gustaría levantarte cada mañana solo para competir por el trabajo que
@@ -1334,16 +1442,23 @@ la mayoría de aspectos, aisladas unas de otras.  "Si estas personas
 tienen que ganar en propiedad y en poder de toma de decisiones, la
 mejora de sus redes sociales debe ser parte del proyecto," enfatiza la
 economista Paola Tubaro en respuesta a la idea del cooperativismo
-plataforma.[97]  Ha habido algunos intentos de crear nuevas formas de
-solidaridad entre trabajadoras, incluyendo una intervención de diseño
-como _Turkopticon_,[98] un sistema de reputación de empleadores
-utilizado por las trabajadoras en la plataforma de _Amazon Mechanical
-Turk_.  También hay que tener en cuenta a _Dynamo_, una comunidad de
-_turcas_ basada en peticiones.[99]  Pero todo esto tiene poco que ver
-con la organización de las trabajadoras tradicionales y tampoco hace que
-la tarea de organizar cooperativas de plataforma sea mucho más fácil.
-El reto sigue siendo: ¿cómo organizar a las trabajadoras distribuidas,
-en primer lugar?
+plataforma[@tubaro-2015].  Ha habido algunos intentos de crear nuevas
+formas de solidaridad entre trabajadoras, incluyendo una intervención de
+diseño como _Turkopticon_,[^platform-98] un sistema de reputación de
+empleadores utilizado por las trabajadoras en la plataforma de _Amazon
+Mechanical Turk_.  También hay que tener en cuenta a _Dynamo_, una
+comunidad de _turcas_ basada en peticiones[^platform-99].  Pero todo
+esto tiene poco que ver con la organización de las trabajadoras
+tradicionales y tampoco hace que la tarea de organizar cooperativas de
+plataforma sea mucho más fácil.  El reto sigue siendo: ¿cómo organizar a
+las trabajadoras distribuidas, en primer lugar?
+
+[^platform-98]: _Turkopticon_ es una extensión para el navegador web que
+permite a las trabajadoras absoluta independencia para evaluar
+conjuntamente a los expedidores en _Amazon Mechanical Turk_.
+<http://turkopticon.ucsd.edu>
+
+[^platform-99]: <http://wiki.wearedynamo.org>
 
 
 ## El ecosistema cooperativo
@@ -1362,7 +1477,7 @@ Cada cooperativa es parte de un ecosistema. Escribe Neal Gorenflo:
 > plataforma.  El truco es conseguir levantar las primeras cooperativas
 > de plataforma para luego desarrollar un ecosistema global que anime a
 > replicar los modelos que funcionen a través de industrias y
-> geografías.[100]
+> geografías[@shareable-2015].
 
 Las cooperativas de plataforma dependen de otras cooperativas, sistemas
 de financiamiento, ingenieras de software, abogadas, trabajadoras y
@@ -1388,52 +1503,66 @@ En Alemania, los bancos también juegan un papel importante en el
 desarrollo de las pequeñas empresas, lo que constituye una gran parte de
 la economía de ese país.
 
-Los proyectos como _Seed.coop_ ayudan a cooperativas a despegar.[101]
-El impulso del _crowdfunding_ puede tener éxito.  Cabe destacar aquí el
-sitio de _crowdfunding_ español _Goteo_, ya que solo permite que busquen
-financiamiento aquellos proyectos que sigan un conjunto de valores
-orientado al bien común.[102]
+Los proyectos como _Seed.coop_ ayudan a cooperativas a
+despegar[^platform-101].  El impulso del _crowdfunding_ puede tener
+éxito.  Cabe destacar aquí el sitio de _crowdfunding_ español _Goteo_,
+ya que solo permite que busquen financiamiento aquellos proyectos que
+sigan un conjunto de valores orientado al bien común[^102].
 
-En su artículo, "La propiedad es la nueva colaboración",[103] Nathan
-Schneider informa sobre el primer experimento del mundo en
-"cripto-equidad", llamado _Swarm_.[104]  _Swarm_ es un sitio de
-_crowdfunding_, el _Kickstarter_ de la _Blockchain_, si se quiere, que
-se basa en un "enjambre" de pequeñas inversoras, en lugar de los grandes
-inversores de capital de riesgo.  El sitio funciona en base a una
-criptomoneda, no en dólares, pero como parte de su primera campaña
-recaudó más de un millón de dólares.
+[^platform-101]: <http://seed.coop>
+
+[^platform-102]: <http://goteo.org>
+
+En su artículo, "La propiedad es la nueva
+colaboración"[@shareable-2015], Nathan Schneider informa sobre el primer
+experimento del mundo en "cripto-equidad", llamado
+_Swarm_[^platform-104].  _Swarm_ es un sitio de _crowdfunding_, el
+_Kickstarter_ de la _Blockchain_, si se quiere, que se basa en un
+"enjambre" de pequeñas inversoras, en lugar de los grandes inversores de
+capital de riesgo.  El sitio funciona en base a una criptomoneda, no en
+dólares, pero como parte de su primera campaña recaudó más de un millón
+de dólares.
+
+[^platform-104]: <http://swarm.co>
 
 Pero los reguladores no facilitan las cosas.  En 2011, Brewster Kahle,
 fundador de _archive.org_, intentó iniciar una cooperativa de crédito;
 pero se encontró con un aluvión de auditorías reglamentarias y la
-burocracia finalmente le llevó a abandonar.[105]  Silicon Valley, que se
-basa en la especulación, devoluciones a corto plazo y abandonar el barco
-a través de ofertas públicas de venta, no es el modelo de financiación
-adecuado para las cooperativas, que crecen lentamente y están diseñadas
-para la sostenibilidad.
+burocracia finalmente le llevó a abandonar[@popper-2015].  Silicon
+Valley, que se basa en la especulación, devoluciones a corto plazo y
+abandonar el barco a través de ofertas públicas de venta, no es el
+modelo de financiación adecuado para las cooperativas, que crecen
+lentamente y están diseñadas para la sostenibilidad.
 
 La plataforma de filantropía _External Revenue Service_[^ERS] tiene como
 objetivo ayudar a entidades sin ánimo de lucro para que no ocupen todo
 su tiempo intentando conseguir dinero.  Con _External Revenue Service_,
 las usuarias se comprometen a aportar una determinada cantidad al mes,
 que se divide luego entre las organizaciones a las que donan.  Max Dana,
-de _External Revenue Service_ escribe[106]:
+de _External Revenue Service_ escribe[^platform-106]:
 
 [^ERS]: Juego de palabras con _Internal Revenue Service_, la agencia
 impositiva estadounidense. _(Nota de la traducción.)_
+
+[^platform-106]: <http://slack.externalrevenue.us>
 
 > Para obtener el compromiso de las demás, una persona debe primero
 > establecer un compromiso sobre su propio ingreso anual y asignarlo a
 > por lo menos otra persona. [...] El _External Revenue Service_ no es
 > propiedad de nadie.  Es una red distribuida de donantes y usuarias que
-> invierte en el mantenimiento y desarrollo del sistema.[107]
+> invierte en el mantenimiento y desarrollo del sistema[^platform-107].
+
+[^platform-107]: La cita proviene de la charla de Max Dana en Platform
+Cooperativism en noviembre de 2015.
 
 En el Reino Unido, _Robin Hood Minor Asset Management_ es un fondo de
 cobertura cooperativa que actúa de forma conservadora en bolsa.
 Simplemente funciona con un algoritmo de minería de datos que imita los
 movimientos de los principales inversores de _Wall Street_ con el fin de
 re-invertir las ganancias en las cooperativas, por ejemplo.  Su pregunta
-es, "¿qué pasaría si el capital fuera P2P?"[108]
+es, "¿qué pasaría si el capital fuera P2P?"[^platform-108]
+
+[^platform-108]: <http://robinhoodcoop.org>
 
 En Estados Unidos, _Slow Money_ destaca como una organización nacional
 sin fines de lucro que cataliza la inversión en alimentos y granjas
@@ -1445,28 +1574,32 @@ _Collaborative Fund_, Maqubela trata de ayudar a plataformas
 cooperativas para lograr escala, proporcionándoles liquidez suficiente
 para que puedan atraer a grandes fondos de capital.  "Necesitamos todas
 las manos, incluidos los inversores, para crear un mundo más
-cooperativo", afirma Maqubela[109]:
+cooperativo", afirma Maqubela[^platform-109]:
+
+[^platform-109]: <https://vimeo.com/149532379>
 
 _Cooperativas de plataforma para los comunes:_ Internet ha sido asociada
 con los bienes comunes e intercambios no comerciales desde _Hi-Tech Gift
 Economy_ \[Economía del don de alta tecnología\] de Richard Barbrook,
 _Wealth of Networks_ \[La riqueza de las redes\] de Yochai Benkler,
 _Spiral Viral_ \[Espiral viral\] de David Bollier; _Venture Communism_
-\[Comunismo de riesgo\] de Dmytri Kleiner,[110] así como desde el
-trabajo de Michel Bauwens en la Fundación P2P.  Hace más de diez años,
-Dmytri Kleiner acuñó el término "comunismo de riesgo" para describir la
-posibilidad de que cooperativas federadas crearan plataformas de
-comunicación que pudieran superar a algunas de las plataformas
-centralizadas capitalistas, muy controladas y que violan la privacidad
-que han emergido recientemente.  Nos anima a investigar la forma en la
-que Internet, que se inició como una red decentralizada y cooperativa,
-se convirtió en centralizada y corporativa.[111]
+\[Comunismo de riesgo\] de Dmytri Kleiner[-@kleiner-2015], así como
+desde el trabajo de Michel Bauwens en la Fundación P2P.  Hace más de
+diez años, Dmytri Kleiner acuñó el término "comunismo de riesgo" para
+describir la posibilidad de que cooperativas federadas crearan
+plataformas de comunicación que pudieran superar a algunas de las
+plataformas centralizadas capitalistas, muy controladas y que violan la
+privacidad que han emergido recientemente.  Nos anima a investigar la
+forma en la que Internet, que se inició como una red decentralizada y
+cooperativa, se convirtió en centralizada y corporativa[^platform-111].
+
+[^platform-111]: <https://vimeo.com/149381439>
 
 Las cooperativas de plataforma construyen sobre los bienes comunes,
 necesitan del diseño abierto y licencias de hardware libre para la
 impresión tridimensinal.  Facilitan el ecosistema cooperativo.  Michel
 Bauwens trabaja actualmente en una licencia reciprocitaria basada en
-bienes comunes[112] que puede, por ejemplo, permitir que las
+bienes comunes[@p2pf-2015] que puede, por ejemplo, permitir que las
 cooperativas compartan fragmentos de código como bienes comunes.  El
 código podría ser usado libremente por las cooperativas, mientras que
 otros tendrían que pagar por él.
@@ -1514,7 +1647,12 @@ requieran confianza.  Los gobiernos, por ejemplo, experimentan con la
 tecnología _Blockchain_ para aplicaciones de voto.  El Instituto de la
 Propiedad de Honduras ha pedido a _Factom_, una startup americana, que
 proporcione un prototipo de registro de la propiedad basado en
-_Blockchain_, por ejemplo.[113]
+_Blockchain_, por ejemplo[@economist-2015] [^platform-6].
+
+[^platform-6]: Véase también la charla de Rachel O’Dwyer’s en el evento
+_Platform Cooperativism_: <http://livestream.com>
+
+% XXX buscar el link posta
 
 O'Dwyer advierte que, si bien hay un potencial positivo, en la
 actualidad la mayoría de las aplicaciones de la tecnología _Blockchain_
@@ -1531,7 +1669,10 @@ también se utiliza como "mecanismo de consenso" para
 plataformas/herramientas que faciliten la toma democrática de decisiones
 en las cooperativas.  En este sentido los estatutos, las miembros, las
 acciones y los registros de votación podrían ser almacenados de manera
-irrevocable[114].
+irrevocable[^platform-114].
+
+[^platform-114]: La entidad sin ánimo de lucro _Ethereum_ está ayudando
+a estas empresas.
 
 Por otro lado, "la tecnología _Blockchain_ se basa en la idea de retirar
 la confianza ya no solo a las instituciones centralizadas, como el
@@ -1540,9 +1681,12 @@ una arquitectura técnica.  Algunas personas llaman a esto _confianza en
 el código_, pero con esta confianza también se presupone que ya no
 tenemos que confiar en nosotras.  En su lugar, se nos pide confiar en
 algún tipo de algoritmo.  Algunas incluso han llamado a esto una forma
-de regulación algorítmica", afirma O'Dwyer[115].  También existe la
-preocupación de que los mercados basados en la _Blockchain_ podrían
-hacer que sea más fácil evitar el pago de impuestos, por ejemplo.
+de regulación algorítmica", afirma O'Dwyer[^platform-115].  También
+existe la preocupación de que los mercados basados en la _Blockchain_
+podrían hacer que sea más fácil evitar el pago de impuestos, por
+ejemplo.
+
+[^platform-115]: <https://vimeo.com/150040123>
 
 _Una fundación centrada en la creación del_ WordPress _de las
 cooperativas de plataforma:_ En nuestra experiencia conectando a
@@ -1576,31 +1720,47 @@ verdaderamente democrática?  En los últimos años han surgido
 herramientas convincentes basadas en la tecnología _Blockchain_.
 Pensemos en _Loomio_, _Backfeed_, _D-CENT_ y _ConsenSys_.
 
-_Loomio_, también conocido como "el Facebook de la web ciudadana", es
-una cooperativa propiedad de sus trabajadoras con base en Wellington,
-Nueva Zelanda y en Nueva York[116], que produce software libre, muy
-orientado por los valores de _Occupy_.  Es una aplicación web que ofrece
-herramientas de comunicación y de votación que hacen que sea más fácil
-facilitar comunidades democráticas.[117]  En España, 27.000 ciudadanas
-se unieron a _Loomio_ para conectar una red de colectivos a escala
-nacional para el rápido crecimiento del partido Podemos.  En total,
-100.000 personas en 93 países están utilizando _Loomio_.
+_Loomio_[^platform-117], también conocido como "el Facebook de la web
+ciudadana", es una cooperativa propiedad de sus trabajadoras con base en
+Wellington, Nueva Zelanda y en Nueva York[^platform-116], que produce
+software libre, muy orientado por los valores de _Occupy_.  Es una
+aplicación web que ofrece herramientas de comunicación y de votación que
+hacen que sea más fácil facilitar comunidades democráticas.  En España,
+27.000 ciudadanas se unieron a _Loomio_ para conectar una red de
+colectivos a escala nacional para el rápido crecimiento del partido
+Podemos.  En total, 100.000 personas en 93 países están utilizando
+_Loomio_.
+
+[^platform-116]: La sede central de la Fundación Wikimedia cambió el
+correo por _Loomio_, permitiendo decisiones colaborativas en un _staff_
+de 180 personas.
+
+[^platform-117]: <https://loomio.org>
 
 _Backfeed.cc_ es una organización colaborativa distribuida, basada en la
 tecnología _Blockchain_, que da apoyo a la coordinación en el seno de
-una red autoorganizada[118].
+una red autoorganizada[^platform-118].
+
+[^platform-118]: Para una discusión sobre la tecnología _blockchain_,
+véase: Nathan Schneider, Trebor Scholz _"The Internet Needs a New
+Economy"_ en _The Next System Project_, Noviembre 8, 2015,
+<http://www.thenextsystem.org>
 
 _D-CENT_ nació del reciente trabajo de activismo en Cataluña, Islandia y
 Grecia.  Están creando una serie de herramientas que se utilizarán para
 implementar rápidamente la democracia y otras plataformas de
 cooperación.  Su objetivo es dar poder político a las personas para que
 puedan proponer políticas, opciones de debate, proyectos y examinar las
-propuestas, votar y tomar decisiones[119].
+propuestas, votar y tomar decisiones[^platform-119].
 
-_ConsenSys_[120] es un estudio de producción que crea aplicaciones
-decentralizadas y diversas herramientas para desarrolladoras y usuarias
-finales para los ecosistemas de _Blockchain_, centrándose principalmente
-en _Ethereum_.
+[^platform-119]: <http://dcentproject.eu>
+
+_ConsenSys_[^platform-120] es un estudio de producción que crea
+aplicaciones decentralizadas y diversas herramientas para
+desarrolladoras y usuarias finales para los ecosistemas de _Blockchain_,
+centrándose principalmente en _Ethereum_.
+
+[^platform-120]: <http://consensys.net>
 
 _Diseñar para una solidaridad conveniente:_  Con demasiada frecuencia,
 las técnicas menosprecian la importancia del diseño de interfaz.  Eso es
@@ -1618,18 +1778,25 @@ de Diseño de la Universidad Carnegie Mellon, advierte de que:
 > preparadas sobre las ramificaciones políticas de lo que están
 > haciendo.  La política está ocurriendo ahora a nivel de
 > microinteracciones y es muy importante que las diseñadoras comprendan
-> la sociología y la antropología de lo que están haciendo[121].
+> la sociología y la antropología de lo que están
+> haciendo[^platform-121].
+
+[^platform-121]: <https://vimeo.com/149541466>
 
 ¿Qué se puede diseñar para las cooperativas de plataforma para que sean
 diferentes?  Cameron Tonkinwise llama a un diseño que facilite
 "solidaridades convenientes", un diseño que haga los pequeños actos de
-solidaridad más fáciles y menos problemáticos[122].  Propone, por
-ejemplo, que el diseño debe literalmente provocar la solidaridad con una
-trabajadora.  Si puedo ver que la trabajadora A tiene tres hijos, cobra
-más que el trabajador B y que está a punto de ser despedida por
+solidaridad más fáciles y menos problemáticos[^platform-122].  Propone,
+por ejemplo, que el diseño debe literalmente provocar la solidaridad con
+una trabajadora.  Si puedo ver que la trabajadora A tiene tres hijos,
+cobra más que el trabajador B y que está a punto de ser despedida por
 _TaskRabbit_ o _Uber_, estoy frente a la decisión de si quiero o no
 apoyarla.  Al tiempo que hace la solidaridad un poco más fácil, este
 enfoque también provoca problemas de privacidad obvios.
+
+[^platform-122]: Cameron Tonkinwise en su charla en _Platform
+Cooperativism: The Internet, Ownership, Democracy_,
+<http://platformcoop.net>
 
 Un buen diseño de las cooperativas de plataforma empieza por el
 desarrollo de una relación entre las diseñadoras y las usuarias.
@@ -1643,8 +1810,8 @@ plataformas podría visibilizar la injusticia establecida por la economía
 bajo demanda.
 
 También sugiero el uso de la tecnología de distinciones de _Mozilla_
-llamada _Open Badges_[123] para certificar que la plataforma en
-particular sigue los principios que he descrito anteriormente.  No es
+llamada _Open Badges_[@mozilla-2012] para certificar que la plataforma
+en particular sigue los principios que he descrito anteriormente.  No es
 muy diferente del café de comercio justo, que con todos sus defectos, ha
 capturado a un segmento del mercado y estas distinciones pueden
 certificar prácticas laborales éticas que se dan tras la pantalla.
@@ -1670,12 +1837,17 @@ estudiantes para el trabajo cooperativo: la Universidad de Wisconsin
 (1962), el Estado de Kansas (1984), la Universidad Davis de California
 (1987) y el estado de Dakota del Norte (1994).  En la ciudad de Nueva
 York, el Programa de Estudios del Trabajo en _CUNY_ ofrece un curso de
-posgrado sobre las cooperativas de trabajo[124].  En Boston, en 2016,
-Sasha Costanza-Chock del MIT impartió un curso de diseño participativo
-basado en proyectos con cooperativas que son propiedad de las
-trabajadoras[125].  Enseñar diseño cooperativo y valores es un enfoque,
-otro sería pensar y construir una universidad que esté fundada sobre los
-principios de cooperación, un _Black Mountain College 2.0_.
+posgrado sobre las cooperativas de trabajo[^platform-124].  En Boston,
+en 2016, Sasha Costanza-Chock del MIT impartió un curso de diseño
+participativo basado en proyectos con cooperativas que son propiedad de
+las trabajadoras[^platform-125].  Enseñar diseño cooperativo y valores
+es un enfoque, otro sería pensar y construir una universidad que esté
+fundada sobre los principios de cooperación, un _Black Mountain College
+2.0_.
+
+[^platform-124]: <http://murphyinstituteblog.org>
+
+[^platform-125]: <http://codesign.mit.edu>
 
 ¿Cómo podrían hoy las instituciones de aprendizaje alternativo preparar
 mejor a las jóvenes para el trabajo y la vida cooperativos?  Una vez
@@ -1695,7 +1867,7 @@ intercambio genuino.
 
 > Debemos inventar una nueva Web al servicio de un modelo macroeconómico
 > viable, en lugar de desarrollar una economía de datos completamente
-> ruinosa[126]. -- Bernard Stiegler 
+> ruinosa [@stiegler-2015].
 
 En este momento, el capitalismo de plataforma se está definiendo de
 arriba abajo con decisiones que se toman en Silicon Valley y que
@@ -1711,10 +1883,10 @@ locales, dese Perú, Alemania e Italia al Reino Unido, Corea del Sur y la
 India.
 
 La importancia del cooperativismo de plataforma no está en "destruir las
-plataformas Estrella de la Muerte"[127].  No se trata de la destrucción
-de señores oscuros como _Uber_ sino de sobrescribirlos en la mente de
-las personas, incorporando diferentes modelos de propiedad y después
-re-insertándolas en la corriente principal.  A finales de 1960 y
+plataformas Estrella de la Muerte"[@shareable-2015].  No se trata de la
+destrucción de señores oscuros como _Uber_ sino de sobrescribirlos en la
+mente de las personas, incorporando diferentes modelos de propiedad y
+después re-insertándolas en la corriente principal.  A finales de 1960 y
 principios de 1970, la contracultura formó comunidades utópicas; dejaron
 las ciudades para forzar la existencia su idea del futuro viviendo en el
 campo.  Aquellos experimentos fracasaron con frecuencia.  En términos de
@@ -1746,7 +1918,10 @@ también implica confrontación.
 Fortalecer y construir cooperativas de plataforma es esencial para que
 las personas con ideas afines se organicen.  Yochai Benkler animó a este
 movimiento: "Si lo puedes imaginar, puede suceder, si lo haces a tiempo
-y capturas un mercado"[128].
+y capturas un mercado"[^platform-128].
+
+[^platform-128]: "_Making It Work—Platform Coop 2015: Platform
+Cooperativism Conference"_.
 
 No podemos perder más tiempo.  Los políticos y los propietarios de
 plataformas han estado prometiendo protección social, acceso y
@@ -1755,307 +1930,6 @@ nunca la van a entregar.  No pueden, pero nosotras debemos.  A través de
 nuestro esfuerzo colectivo vamos a construir el poder político de un
 movimiento social que dará la vida a estas ideas.
 
+# Bibliografía
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[19] El W2 es el formulario que un empresario debe enviar a un empleado
-y al Servicio de Impuestos Internos al final del año, en Estados Unidos.
-
-[20] El formulario 1099 es un informe de los diversos tipos de ingresos
-que un trabajador recibe en todo el año que no sean el salario que un
-empresario le haya pagado. Los trabajadores eventuales tienen que enviar
-estos formularios 1099 al Servicio de Impuestos Internos de Estados
-Unidos.
-
-[21] Como todo estudiante de los primeros años de MBA sabrá, el empleo
-no es solo un concepto único, sino que describe un conjunto de derechos
-y son esos derechos fundamentales del trabajo los que están en riesgo.
-
-[22] Frank Pasquale, "Banana Republic.com" Jotwell: Cyber- law, 11 de
-febrero de 2011, cyber.jotwell.com
-
-[23] Juego de palabras del autor en torno a la plataforma taskrabbit.com
-donde task significa "tarea" y rabbit "conejo". (N. del T.)
-
-
-
-
-
-[24]  "U.S. Senator Mark Warner on Why We Need a New Class of Worker
-(Q&A), Re/code," accedido el 29 de noviembre de, 2015, recode.net
-
-[25] Seth D. Harris and Alan B. Krueger, "A Proposal for Modernizing
-Labor Laws for Twenty-First-Century Work: The ‘Independent Worker,’" The
-Hamilton Project, diciembre. www.hamiltonproject.org
-
-[26] De la expresión multihome, de origen informático. (N. del T.)
-
-
-
-
-
-[27] Steve Waldman, "1099 as Antitrust," interfluidity, accedido el 29
-de noviembre de 2015, www.interfluidity.com
-
-[28] livestream.com/internetsociety/platformcoop/videos/105162259
-
-[29] Frank Pasquale y Siva Vaidhyanathan, "Uber and the Lawlessness of
-‘Sharing Economy’ Corporates," The Guardian, 28 de julio de 2015.
-
-[30] Tom Slee. What’s Yours Is Mine. New York City: OR Books, 2015.
-
-[31] Fair Labor Standards Act, en Estados Unidos. (N. del T.)
-
-
-
-
-
-[32] Pasquale, Frank, and Siva Vaidhyanathan. "Uber and the Lawlessness
-of ‘Sharing Economy’ Corporates." The Guardian, 28 de julio de 2015.
-
-[33] Harris and Krueger, "A Proposal for Modernizing Labor Laws for
-Twenty-First-Century Work: The ‘Independent Worker’.
-
-[34] En 2015, más de la mitad de los conductores de Uber no se quedan
-más de doce meses en la compañía. Para obtener más información, leer Raw
-Deal. How the "Uber Economy" and Runaway Capitalism Are Screwing
-American Workers de Steven Hill.
-
-[35] Mike Isaac y Natasha Singer, "California Says Uber Driver Is
-Employee, Not a Contractor," The New York Times, 17 de junio de 2015.
-
-[36] "Judge Not At All Impressed By Class Action Lawsuit Claiming Yelp
-Reviewers Are Really Employees," Accedido el 24 de noviembre de 2015,
-www.techdirt.com
-
-[37] "Coalition of Start-Ups and Labor Call for Rethinking of Worker
-Policies," The New York Times Blog, 9 de noviembre de 2015.
-
-[38] "Taxi Regulations, E-Hail App Targeted By Montgomery County
-Council," WAMU 88.5, 8 de junio de, 2015, wamu.org
-
-[39] flex.amazon.com
-
-[40] Juego de palabras con el tipo de actividades online basadas en
-multitudes (crowd), como el crowdfunding. A partir de ahí se acuñan
-términos como crowdsourcing, crowdworker, etc. (N. del T.)
-
-[41] Sam Schechner, "Two Uber Executives Indicted in France," Wall
-Street Journal, 30 de junio de 2015, www.wsj.com
-
-[42] "Rio de Janeiro Becomes First City in Brazil to Ban Uber," The
-Guardian, septiembre de 2015.
-
-[43] "Amazon′s ′inactivity Protocols′ under Fire," Deutsche Welle, 13 de
-marzo de 2015, www.dw.com
-
-[44] Ursula Huws, Labor in the Global Digital Economy: The Cybertariat
-Comes of Age. New York: Monthly Review Press, 2014.
-
-[45] Alison Griswold, "Supreme Court Decides Amazon Workers Don’t Need
-to Be Paid While Waiting for Mandatory Security Screenings," Slate, 9 de
-diciembre de 2014, www.slate.com
-
-[46] Del inglés publicly traded companies. (N. del T.)
-
-
-
-
-
-[47] David Streitfeld, "A New Book Portrays Amazon as Bully, "The New
-York Times Blog, 22 de octubre de 2013.
-
-[48] Jodi Kantor y David Streitfeld, "Inside Amazon: Wrestling Big Ideas
-in a Bruising Workplace," The New York Times, 15 de agosto de 2015.
-
-[49] carolinewoolard.com
-
-[50] John Duda en "Platform Cooperativism: The Internet, Ownership,
-Democracy," vimeo.com/149401422
-
-[51] "Goodbye Middle Class: 51 Percent Of All American Work ers Make
-Less Than 30,000 Dollars A Year," Washington’s Blog, 21 de octubre de
-2015, www.washingtonsblog.com
-
-[52] Angela Johnson, "76% of Americans Are Living Pay-
-check-to-Paycheck," CNNMoney, 24 de junio de 2013, money.cnn.com
-
-[53] E. G. Nadeau, The Cooperative Solution: How the United States Can
-Tame Recessions, Reduce Inequality, and Protect the Environment.
-CreateSpace Independent Publishing Platform, 2012.
-
-[54] Silicon Alley es una zona con gran concentración de empresas de
-Internet, nuevas tecnologías y comunicación en Manhattan, Nueva York.
-(N. del T.)
-
-
-
-
-
-[55] Las estadísticas de este párrafo están tomadas de Owning Our
-Future: The Emerging Ownership Revolution, de Marjorie Kelly.
-
-[56] Dave Johnson, "Bernie Sanders Proposes To Boost Worker-Ownership Of
-Companies," Common Dreams, 18 de agosto de 2015.
-
-[57] E. G. Nadeau, The Cooperative Solution, 37.
-
-[58] dept.kent.edu/oeoc/oeoclibrary/emiliaromagnalong.htm
-
-[59] www.buerger-energie-berlin.de/das-ziel
-
-[60] fpwa.org
-
-[61] Daniel Schlademan of OurWalmart en Platform Cooperativism: The Internet, Ownership, Democracy.
-
-[62] conferences.oreilly.com/nextcon/economy-us-2015/public/content/speakers
-
-[63] "Ver.di. Innovation Und Gute Arbeit - Digitale Arbeit," Accedido el 5 de diciembre de 2015, innovation-gute-arbeit.verdi.de/themen/digitale-arbeit
-
-[64] Phil Gasper, "Are Workers’ Cooperatives the Alternative to Capitalism?," ISR, 2014.
-
-[65] Ibid.
-
-[66] vimeo.com/149516216
-
-[67] vimeo.com/149540417
-
-[68] John Curl e Ishmael Reed, For All the People: Uncovering the Hidden History of Cooperation, Cooperative Movements, and Communalism in America, Oakland, CA: PM Press, 2012, 378.
-
-[69] Más adelante, el autor explica el significado de ese término (N. del T.)
-
-[70] www.theselc.org
-
-[71] loconomics.com
-
-[72] ali-alkhatib.com/media/presentations/PlatformCooperativism.pdf
-
-[73] seed.coop/p/V1RtF0JQe/more?wrap=true
-
-[74] "Socialism, American-Style," The New York Times, accedido el 26 de julio de 2015.
-
-[75] Nathan Schneider, "5 Ways to Take Back Tech," The Nation, 27 de Mayo de 2015.
-
-[76] Del término produsage, que propuso Axel Bruns en Blogs, Wikipedia, Second Life and Beyond: From Production to Produsage. New York: Peter Lang, 2008.
-
-[77] resonate.io/2016
-
-[78] stocksy.com
-
-[79] membersmedia.net
-
-[80] Jack Triplett, The Measurement of Labor Cost, University Of Chicago Press, 1983, 101. Y para una discusión más reciente, en The Economist: economist.com
-
-[81] cadateamsters.org
-
-[82] lazooz.org
-
-[83] También en Israel, pero no como una plataforma cooperativa, Google ha lanzado la aplicación Waze, que enlaza a los pasajeros que quieren llegar a sus lugares de trabajo con los conductores que tienen que hacer un viaje similar. A los conductores se les paga en función de la distancia que conduzcan, pero el sistema está configurado de manera que los conductores no pueden convertirlo en un negocio.
-
-[84]        livestream.com/internetsociety/platformcoop/videos/104571608
-
-[85]        "Ver.di, Innovation Und Gute Arbeit - Digitale Arbeit."
-
-[86]        goodworkcode.org
-
-[87]        Más del 70 por ciento de los trabajadores independientes en Estados Unidos informan que con frecuencia se les paga con retraso.
-
-[88]        Multihoming es un término informático que hace referencia a un dispositivo conectado a varias redes. Aquí se toma en el sentido de un trabajador que no depende de una sola plataforma. (N. del T.)
-
-[89]        Frank Pasquale en "Making It Work - Platform Coop 2015: Platform Cooperativism Conference," Internet Archive, Noviembre de 2015, archive.org. Véase también: Ramsi Woodcock, "Inconsistency in Antitrust," SSRN, 3 de diciembre de 2013.
-
-[90] Para entender la ironía del título hay que tener en cuenta que Raw Deal es una película de Arnold Swarzenegger, traducida al español como El ejecutor. (N. del T.)
-
-[91] Actualmente más de 60 millones de trabajadores del sector privado en Estados Unidos no tienen acceso a la baja por enfermedad.
-
-[92] Ellen Huet, "How Uber’s Shady Firing Policy Could Backfire On The Company," Forbes, accedido el 4 de diciembre de 2015.
-
-[93]  Para un análisis de la situación de los trabajadores de Amazon Mechanical Turk, ver Lilly Irany, "Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk," The South Atlantic Quarterly, enero de 2015.
-
-[94] traity.com
-
-[95] Galt. J. "Crypto Swartz Will Get You Paid for Your Great Content." The CoinFront, 23 de junio de 2014. www.disruptek.info
-
-[96] Los "diarios de los trabajadores" de ODesk (ahora UpWork) documentan el flujo de trabajo de los trabajadores. Esto incluye fotografías recurrentes de los trabajadores con la cámara incorporada en el ordenador del trabajador y capturas de pantalla para medir el progreso del trabajo.
-
-[97] Tubaro, "Discussing Platform Cooperativism," Data Big and Small, accedido el 9 de diciembre de 2015, databigandsmall.com
-
-[98] Turkopticon es una extensión para el navegador web que permite a los trabajadores absoluta independencia para evaluar conjuntamente a los expedidores en Amazon Mechanical Turk: turkopticon ucsd.edu
-
-[99] wiki.wearedynamo.org
-
-[100] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable, accedido el 4 de noviembre de 2015, www.shareable.net
-
-[101] seed.coop
-
-[102] goteo.org
-
-[103] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable, Accedido el 4 de noviembre de 2015, www.shareable.net
-
-[104] swarm.co
-
-[105] Nathaniel Popper, "Dream of New Kind of Credit Union Is Extinguished by Bureaucracy," The New York Times. 24 de noviembre de 2015.
-
-[106] slack.externalrevenue.us
-
-[107] La cita proviene de la charla de Max Dana en Platform Cooperativism en noviembre de 2015.
-
-[108] robinhoodcoop.org
-
-[109] vimeo.com/149532379
-
-[110] "Venture Communism," P2P Foundation, accedido el 11 de diciembre de 2015, p2pfoundation.net
-
-[111] vimeo.com/149381439
-
-[112] "Commons-Based Reciprocity Licenses," P2P Foundation, accedido el 8 de noviembre de 2015, p2pfoundation.net
-
-[113] "The Great Chain of Being Sure about Things," The Economist, 31 de octubre de 2015, www.economist.com.; Véase también la charla de Rachel O’Dwyer’s en el evento Platform Cooperativism event: livestream.com
-
-[114] La entidad sin ánimo de lucro Ethereum está ayudando a estas empresas.
-
-[115] vimeo.com/150040123
-
-[116] La sede central de la Wikimedia Foundation cambió su email a Loomio, permitiendo decisiones colaborativas entre una plantilla de 180 personas.
-
-[117] loomio.org
-
-[118] Para una discusión sobre la tecnología blockchain, véase: NathanSchneider, Trebor Scholz "The Internet Needs a New Economy"   The Next System Project, Noviembre 8, 2015, www.thenextsystem.org
-
-
-
-
-
-[119] dcentproject.eu
-
-[120] consensys.net
-
-[121] vimeo.com/149541466
-
-[122] Cameron Tonkinwise en su charla en Platform Cooperativism: The Internet, Ownership, Democracy, platformcoop.net
-
-[123] "Badges," MozillaWiki, 22 de mayo de 2012, wiki.mozilla.org
-
-[124] murphyinstituteblog.org
-
-[125] codesign.mit.edu
-
-[126] "Stiegler on Daesh and ‘The Age of Disruption", accedido el 29 de noviembre de 2015, www.samkinsley.com
-
-[127] "How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy," Shareable
-
-[128] "Making It Work—Platform Coop 2015: Platform Cooperativism Conference".
 
