@@ -1306,16 +1306,16 @@ Estados Unidos informan que con frecuencia se les paga con retraso.
    presionar para una ley del estado que lo haga ilegal.  Por último,
    como Frank Pasquale ha observado, existe la extraña inconsistencia en
    la normativa de competencia basada en la diferencia entre los
-   monopolios y las cooperativas[@pasquale-2013].  Mientras que los
-   monopolios pueden obtener vía libre en Estados Unidos si surgen
-   "naturalmente" (lo que sea que esto signifique), una federación de
-   cooperativas que trata de competir con una firma dominante podría ser
-   responsable ante la ley anti-monopolio si intenta fijar los precios o
-   incluso de establecer normas de conducta.  Si bien Estados Unidos
-   acepta bastante bien los monopolios si siguen vagamente las reglas
-   del juego, es bastante reacia cuando se trata de cárteles.  Los
-   poderes del gobierno promueven el sistema de gobierno corporativo y
-   la marginalización de las clases medias.
+   monopolios y las cooperativas[@pasquale-2015;@woodcock-2013].
+   Mientras que los monopolios pueden obtener vía libre en Estados
+   Unidos si surgen "naturalmente" (lo que sea que esto signifique), una
+   federación de cooperativas que trata de competir con una firma
+   dominante podría ser responsable ante la ley anti-monopolio si
+   intenta fijar los precios o incluso de establecer normas de conducta.
+   Si bien Estados Unidos acepta bastante bien los monopolios si siguen
+   vagamente las reglas del juego, es bastante reacia cuando se trata de
+   cárteles.  Los poderes del gobierno promueven el sistema de gobierno
+   corporativo y la marginalización de las clases medias.
 
 [^platform-88]: _Multihoming_ hace referencia a un dispositivo conectado
 a varias redes en caso de que falle alguna. _(Nota de la traducción.)_
@@ -1580,7 +1580,7 @@ con los bienes comunes e intercambios no comerciales desde _Hi-Tech Gift
 Economy_ \[Economía del don de alta tecnología\] de Richard Barbrook,
 _Wealth of Networks_ \[La riqueza de las redes\] de Yochai Benkler,
 _Spiral Viral_ \[Espiral viral\] de David Bollier; _Venture Communism_
-\[Comunismo de riesgo\] de Dmytri Kleiner[-@kleiner-2015], así como
+\[Comunismo de riesgo\] de Dmytri Kleiner[@p2pf-2015a], así como
 desde el trabajo de Michel Bauwens en la Fundación P2P.  Hace más de
 diez años, Dmytri Kleiner acuñó el término "comunismo de riesgo" para
 describir la posibilidad de que cooperativas federadas crearan
@@ -1596,7 +1596,7 @@ Las cooperativas de plataforma construyen sobre los bienes comunes,
 necesitan del diseño abierto y licencias de hardware libre para la
 impresión tridimensinal.  Facilitan el ecosistema cooperativo.  Michel
 Bauwens trabaja actualmente en una licencia reciprocitaria basada en
-bienes comunes[@p2pf-2015] que puede, por ejemplo, permitir que las
+bienes comunes[@p2pf-2015b] que puede, por ejemplo, permitir que las
 cooperativas compartan fragmentos de código como bienes comunes.  El
 código podría ser usado libremente por las cooperativas, mientras que
 otros tendrían que pagar por él.
