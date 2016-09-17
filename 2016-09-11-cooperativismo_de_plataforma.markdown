@@ -30,16 +30,15 @@ algo que pueda abrazar de todo corazón.  De eso es lo que trata este
 estudio.
 
 En primer lugar, voy a reflexionar sobre las oportunidades, riesgos y
-consecuencias de la _sharing economy_.  Utilizaré el caso de
-Amazon.com, que ha entrado con fuerza en la "_sharing economy_".  En
-segundo lugar, describiré el crecimiento de las plataformas
-cooperativistas y ofreceré ejemplos de plataformas existentes y de
-plataformas imaginarias.  Lo que llamo _plataformas cooperativistas_
-consiste en modelos democráticos de propiedad para la Internet.  En
-tercer lugar, esbozaré diez principios para las plataformas de trabajo
-que están llevando la equidad laboral a las plataformas laborales.
-Concluiré con reflexiones sobre posibles pasos que hay que seguir para
-este movimiento en marcha.
+consecuencias de la _sharing economy_.  Utilizaré el caso de Amazon.com,
+que ha entrado con fuerza en la "_sharing economy_".  En segundo lugar,
+describiré el crecimiento de las cooperativas de plataforma y ofreceré
+ejemplos de plataformas existentes y de plataformas imaginarias.  Lo que
+llamo _cooperativas de plataforma_ consiste en modelos democráticos de
+propiedad para la Internet.  En tercer lugar, esbozaré diez principios
+para las plataformas de trabajo que están llevando la equidad laboral a
+las plataformas laborales.  Concluiré con reflexiones sobre posibles
+pasos que hay que seguir para este movimiento en marcha.
 
 _Las consecuencias de la_ sharing economy. La han llamado "economía de
 changas" (gig economy), la economía de pares, la economía colaborativa.
@@ -86,7 +85,7 @@ cotidiana 3.0.
 En _What's Yours is Mine_ [Lo que es tuyo es mío], el investigador
 canadiense Tom Slee lo resume así:
 
-> Muchas personas bien intencionadas sufren de una fé errónea en las
+> Muchas personas bien intencionadas sufren de una fe errónea en las
 > capacidades intrínsecas de Internet para promover la confianza y una
 > comunidad igualitaria y así, sin saberlo, se van convirtiendo en
 > cómplices de esta acumulación de fortuna privada, y de la construcción
@@ -157,7 +156,7 @@ glamorosos.
 Hay una masa de cuerpos sin nombre, escondidos tras la pantalla,
 expuesta a vigilancia laboral, el desplume colectivo, robo de salarios y
 al software privativo.  Como el activista del software libre Micky Metts
-advertía: "cuando se construyen plataformas, no se puede construir la
+advertía: "Cuando se construyen plataformas, no se puede construir la
 libertad sobre la esclavitud de otra persona"[^platform-3].
 
 [^platform-3]:
@@ -166,14 +165,14 @@ libertad sobre la esclavitud de otra persona"[^platform-3].
 Al responder a una crítica política de la economía a demanda, algunas
 académicas postulan que los terribles resultados de un capitalismo sin
 restricciones están bien entendidos; toda esa perorata no necesita ser
-afirmada de vuelta.  Pero tal vez, como dijo McKenzie Wark: "Esto no es
+afirmada de vuelta.  Pero tal vez, como dijo McKenzie Wark: "esto no es
 capitalismo, esto es algo peor".  Sugirió que "el modo de producción en
 el que parecemos estar entrando no es tanto el capitalismo como ha sido
 descrito clásicamente" [@wark-2015].
 
 Esto no es simplemente una continuación del capitalismo pre-digital tal
 como lo conocemos, sino que hay notables discontinuidades, un nuevo
-nivel de explotación y una concentración de riqueza para la que se acuñé
+nivel de explotación y una concentración de riqueza para la que se acuñó
 el término "desplume de multitudes".  Desplumar a la multitud es una
 nueva forma de explotación, puesta en marcha por cuatro o cinco
 advenedizos, para disponer de una reserva mundial de millones de
@@ -242,7 +241,7 @@ estamos programando estas cosas"[^platform-5].  Los beneficios del
 capitalismo de plataforma para las consumidoras, propietarias y
 accionistas son evidentes; pero el valor añadido para las trabajadoras
 vulnerables y el valor a largo plazo para las consumidoras no están
-claros en el mejor de los casos.
+claros, en el mejor de los casos.
 
 [^platform-5]: <https://vimeo.com/149979122>
 
@@ -272,8 +271,8 @@ que están en riesgo.
 "Mientras que el empleo tradicional era como el matrimonio --escribe el
 jurista Frank Pasquale--, con las dos partes comprometiéndose a un
 proyecto conjunto a más largo plazo, la mano de obra digitalizada está
-en busca una serie de levantes" [@pasquale-2011].  Estos mitos sobre el
-empleo proyectados enérgicamente sugieren que trabajar como empleada
+en busca de una serie de levantes" [@pasquale-2011].  Estos mitos sobre
+el empleo proyectados enérgicamente sugieren que trabajar como empleada
 significa que debes renunciar a toda la flexibilidad y que trabajar por
 tu cuenta, de alguna manera, significa inherentemente que tu trabajo es
 flexible.  Sin embargo, esta "flexibilidad innata" de las trabajadoras
@@ -352,7 +351,7 @@ sueldo fijo, una semana de trabajo de 40 horas y con algunas
 protecciones sociales.
 
 
-### Generación de beneficios para los pocos
+### Generación de beneficios para unos pocos
 
 El software que está impulsando la _sharing economy_ está envuelto
 en una interfaz de diseño adictivo.  En la pantalla, el ícono de tamaño
@@ -635,9 +634,9 @@ accionistas de velar por los derechos de las trabajadoras, la
 desconfianza en el viejo modelo extractivo, en la economía de la
 vigilancia, el monopolio, la proliferación de los lugares de trabajo sin
 fronteras, ha llevado a muchas personas a revivir el espíritu de
-cooperativismo.  ¿Cuáles son las perspectivas a largo plazo para las
-plataformas cooperativas?  ¿No son las cooperativas un modelo caduco de
-organización del trabajo?  Cualquiera que haga esta afirmación debe
+cooperativismo.  ¿Cuáles son las perspectivas a largo plazo para el
+cooperativismo de plataforma?  ¿No son las cooperativas un modelo caduco
+de organización del trabajo?  Cualquiera que haga esta afirmación debe
 considerar en primer lugar que en todo el mundo la economía solidaria
 está en crecimiento;  las cooperativas emplean más personas que todas
 las multinacionales juntas[^platform-55].  El candidato presidencial
@@ -799,8 +798,8 @@ inevitable la auto-explotación.  Con el tiempo, las cooperativas también
 pueden recurrir a la táctica de las prácticas no remuneradas y a
 voluntarias no recompensadas.  Las cooperativas están expuestas a la
 competencia despiadada del mercado, pero a la luz del 20% al 30% de
-beneficio que empresas como _Uber_ están obteniendo, para las
-cooperativas de plataforma un enfoque sería ofrecer sus servicios a un
+beneficio que empresas como _Uber_ están obteniendo, para el
+cooperativismo de plataforma un enfoque sería ofrecer sus servicios a un
 precio inferior.  Podrían tener un 10% de ganancia, que luego podría ser
 parcialmente traducido en beneficios sociales para las trabajadoras.
 Las cooperativas también podrían florecer en mercados de nicho, teniendo
@@ -886,8 +885,8 @@ El concepto de cooperativismo de plataforma consta de tres partes:
   plataformas pueden ser de propiedad de sindicatos ingeniosos, ciudades
   y otras formas diversas de cooperativas y ser gestionados por estos.
   Todo ello que abarque cooperativas de múltiples accionarias, bajo
-  propiedad de las trabajadoras o cooperativas de plataforma propiedad
-  de las _produsuarias_.
+  propiedad de las trabajadoras o las cooperativas de plataforma
+  propiedad de las _produsuarias_.
 
 * Y en tercer lugar, el cooperativismo de plataforma está construido
   sobre la reformulación de conceptos como la innovación y la eficiencia
@@ -914,22 +913,22 @@ Evgeny Morozov y Siva Vaidhyanathan tienen toda la razón en su postura
 contra el "solucionismo tecnológico" y el "Internetcentrismo".
 
 El cooperativismo de plataforma es un término que describe cambios
-tecnológicos, culturales, políticos y sociales.  El cooperativismo de
-plataforma es una parcela de esperanza.  No es una utopía concreta; es
-una economía emergente.  Algunos de los modelos que ahora describiré ya
-existen desde hace dos o tres años, mientras que otros todavía son
-aplicaciones imaginarias.  Algunos son prototipos, otros son
-experimentos; todos ellos introducen conjuntos alternativos de valores.
+tecnológicos, culturales, políticos y sociales.  Es una parcela de
+esperanza.  No es una utopía concreta; es una economía emergente.
+Algunos de los modelos que ahora describiré ya existen desde hace dos o
+tres años, mientras que otros todavía son aplicaciones imaginarias.
+Algunos son prototipos, otros son experimentos; todos ellos introducen
+conjuntos alternativos de valores.
 
-A continuación, presentaré diversos tipos de cooperativas de plataforma
-y varios de sus principios.  A eso seguirán reflexiones sobre los
-ecosistemas cooperativos, objeciones a ellos y sus desafíos.
+A continuación, presentaré diversos tipos de cooperativismo de
+plataforma y varios de sus principios.  A eso seguirán reflexiones sobre
+los ecosistemas cooperativos, objeciones a ellos y sus desafíos.
 
 
-## Hacia una tipología de las cooperativas de plataforma
+## Hacia una tipología del cooperativismo de plataforma
 
-Los primeros ejemplos de cooperativas de plataforma ya existen, pero aún
-están emergiendo.  Citarlos aquí excluye inevitablemente a otros
+Los primeros ejemplos de cooperativismo de plataforma ya existen, pero
+aún están emergiendo.  Citarlos aquí excluye inevitablemente a otros
 proyectos importantes.  No introducir casos concretos daría pie a la
 idea de que el cooperativismo de plataforma no es más que una serie de
 castillos en el aire.
@@ -1182,8 +1181,8 @@ no hay un cuartel general[^platform-83].
 
 [^platform-82]: <http://lazooz.org>
 
-[^platform-83]: También en Israel, pero no como una plataforma
-cooperativa, _Google_ ha lanzado la aplicación _Waze_, que enlaza a las
+[^platform-83]: También en Israel, pero no como una cooperativa de
+plataforma, _Google_ ha lanzado la aplicación _Waze_, que enlaza a las
 pasajeras que quieren llegar a sus lugares de trabajo con las
 conductoras que tienen que hacer un viaje similar.  A las conductoras se
 les paga en función de la distancia que conduzcan, pero el sistema está
@@ -1234,7 +1233,7 @@ de plataforma.
    pero ha dejado la cuestión de la titularidad compartida intacta.
 
    No se trata de gatitos lindos en _Reddit_; sino de la propiedad de
-   Internet.  Las plataformas cooperativas de propiedad colectiva,
+   Internet.  El cooperativismo de plataforma de propiedad colectiva,
    propiedad de las personas que generan la mayor parte del valor,
    podrían revitalizar esta historia de lo público en Internet.  El
    cooperativismo de plataforma puede cambiar la manera en que la gente
@@ -1294,7 +1293,7 @@ Estados Unidos informan que con frecuencia se les paga con retraso.
    mantenerse en el juego, pero los reguladores federales pueden
    intentar detenerlo.  Los operadores tradicionales pueden tratar de
    mantener a sus trabajadoras alejadas del _multi-homing_[^platform-88]
-   en las plataformas cooperativas.  Sus abogados pueden desafiarlos, o
+   en las cooperativas de plataforma.  Sus abogados pueden desafiarlos, o
    presionar para una ley del estado que lo haga ilegal.  Por último,
    como Frank Pasquale ha observado, existe la extraña inconsistencia en
    la normativa de competencia basada en la diferencia entre los
@@ -1398,8 +1397,8 @@ medir el progreso del trabajo.
 
 10) _Derecho de las trabajadoras a desconectarse:_ Las trabajadoras
     también deben tener derecho a desconectarse.  El trabajo digital
-    decente debe tener límites claros, las cooperativas de plataforma
-    deben dejar tiempo para la relajación, el aprendizaje permanente y
+    decente debe tener límites claros, el cooperativismo de plataforma
+    debe dejar tiempo para la relajación, el aprendizaje permanente y
     el trabajo político voluntario.
 
 Es importante articular una visión así, guiada por estos nobles
@@ -1430,7 +1429,7 @@ almuerzo, no se juntan en las salas del sindicato.  En cambio están, en
 la mayoría de aspectos, aisladas unas de otras.  "Si estas personas
 tienen que ganar en propiedad y en poder de toma de decisiones, la
 mejora de sus redes sociales debe ser parte del proyecto," enfatiza la
-economista Paola Tubaro en respuesta a la idea del cooperativismo
+economista Paola Tubaro en respuesta a la idea del cooperativismo de
 plataforma [@tubaro-2015].  Ha habido algunos intentos de crear nuevas
 formas de solidaridad entre trabajadoras, incluyendo una intervención de
 diseño como _Turkopticon_,[^platform-98] un sistema de reputación de
@@ -1438,9 +1437,9 @@ empleadores utilizado por las trabajadoras en la plataforma de _Amazon
 Mechanical Turk_.  También hay que tener en cuenta a _Dynamo_, una
 comunidad de _turcas_ basada en peticiones[^platform-99].  Pero todo
 esto tiene poco que ver con la organización de las trabajadoras
-tradicionales y tampoco hace que la tarea de organizar cooperativas de
-plataforma sea mucho más fácil.  El reto sigue siendo: ¿cómo organizar a
-las trabajadoras distribuidas, en primer lugar?
+tradicionales y tampoco hace que la tarea de organizar el cooperativismo
+de plataforma sea mucho más fácil.  El reto sigue siendo: ¿cómo
+organizar a las trabajadoras distribuidas, en primer lugar?
 
 [^platform-98]: _Turkopticon_ es una extensión para el navegador web que
 permite a las trabajadoras absoluta independencia para evaluar
@@ -1452,14 +1451,14 @@ conjuntamente a los expedidores en _Amazon Mechanical Turk_.
 
 ## El ecosistema cooperativo
 
-Las plataformas cooperativas no son islas, totalidades en sí mismas.
+Las cooperativas de plataforma no son islas, totalidades en sí mismas.
 Cada cooperativa es parte de un ecosistema. Escribe Neal Gorenflo:
 
 > Parte de la magia de las nuevas _startups_ de tecnología es que hay
 > una estructura organizacional bien entendida, un método de
 > financiación y un plan de desarrollo que los empresarios pueden
-> utilizar.  En otras palabras, hay una plantilla.  Las cooperativas de
-> plataforma también necesitan plantillas, pero unas que soporten una
+> utilizar.  En otras palabras, hay una plantilla.  El cooperativismo de
+> plataforma también necesita plantillas, pero unas que soporten una
 > diversidad de modelos de organización.  Lo que se necesita es un
 > pequeño número de incubadoras en diferentes ciudades globales que
 > trabajen juntas para dar a luz a la primera ola de cooperativas de
@@ -1558,8 +1557,8 @@ sostenibles.  _FairShares_ apoya a cooperativas agrícolas y _The Workers
 Lab_ es la primera aceleradora de innovación con respaldo de un
 sindicato.  El inversor institucional Kanyi Maqubela afirma que lo más
 importante para el movimiento cooperativo es la escalabilidad.  En
-_Collaborative Fund_, Maqubela trata de ayudar a plataformas
-cooperativas para lograr escala, proporcionándoles liquidez suficiente
+_Collaborative Fund_, Maqubela trata de ayudar a cooperativas de
+plataforma para lograr escala, proporcionándoles liquidez suficiente
 para que puedan atraer a grandes fondos de capital.  "Necesitamos todas
 las manos, incluidos los inversores, para crear un mundo más
 cooperativo", afirma Maqubela[^platform-109]:
@@ -1787,7 +1786,7 @@ Cooperativism: The Internet, Ownership, Democracy_,
 Un buen diseño de las cooperativas de plataforma empieza por el
 desarrollo de una relación entre las diseñadoras y las usuarias.
 
-El diseño de experiencia de usuaria en plataformas cooperativas
+El diseño de experiencia de usuaria en cooperativas de plataforma
 representa una gran oportunidad.  La interfaz de estas plataformas
 podría instruir a las usuarias acerca de las normas laborales justas de
 la cooperativa y contrastar esto con la carencia de protecciones
