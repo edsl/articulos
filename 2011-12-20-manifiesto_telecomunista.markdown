@@ -23,72 +23,7 @@ El Manifiesto Telecomunista --- Dmytri Kleiner
 > Traducido al castellano por fauno y mpj.  Correcciones por Andrea
 > Granate y KaZe.
 
-
-Licencia de Producción de Pares
-===============================
-
-Ud. es libre de
----------------
-
-* Compartir - copiar, distribuir, ejecutar y comunicar públicamente la
-  obra
-
-* Hacer obras derivadas
-
-Bajo las condiciones siguientes:
---------------------------------
-
- ![](images/by.png)
-
- **Atribución** -- Debe reconocer los créditos de la obra de la manera
- especificada por el autor o el licenciante (pero no de una manera que
- sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
-
- ![](images/sa.png)
-
- **Compartir bajo la Misma Licencia** -- Si altera o transforma esta
- obra, o genera una obra derivada, sólo puede distribuir la obra
- generada bajo una licencia idéntica a ésta.
-
- ![](images/nc.png)
-
- **No Capitalista** -- La explotación comercial de esta obra sólo
- está permitida a cooperativas, organizaciones y colectivos sin fines
- de lucro, a organizaciones de trabajadores autogestionados, y donde
- no existan relaciones de explotación.  Todo excedente o plusvalía
- obtenidos por el ejercicio de los derechos concedidos por esta Licencia
- sobre la Obra deben ser distribuidos por y entre los trabajadores.
-
-Entendiendo que
----------------
-
-* **Renuncia** - Alguna de estas condiciones puede no aplicarse si se
-  obtiene el permiso del titular de los derechos de autor.
-
-* **Dominio Público** - Cuando la obra o alguno de sus elementos se
-  halle en el dominio público según la ley vigente aplicable, esta
-  situación no quedará afectada por la licencia.
-
-* **Otros derechos** - Los derechos siguientes no quedan afectados por
-  la licencia de ninguna manera:
-
-    + Los derechos derivados de usos legítimos u otras limitaciones
-      reconocidas por ley no se ven afectados por lo anterior;
-
-    + Los derechos morales del autor;
-
-    + Derechos que pueden ostentar otras personas sobre la propia obra o
-      su uso, como por ejemplo derechos de imagen o de privacidad.
-
-* **Aviso** - Al reutilizar o distribuir la obra, tiene que dejar muy en
-  claro los términos de la licencia de esta obra.  La mejor forma de
-  hacerlo es enlazar a esta página.
-
-
-El Manifiesto Telecomunista
-===========================
-
-## Prefacio
+# Prefacio
 
 _Acuñé el término "Comunismo de Riesgo" en el 2011 para promover el
 ideal de la auto-organización productiva de los trabajadores como forma
@@ -148,7 +83,7 @@ trabajo en "Infocercamiento 2.0" y "Copyjustright, _Copyfarleft_", que
 también han sido usados aquí.
 
 
-## Introducción
+# Introducción
 
 En el prefacio a Contribución a la Crítica de la Economía Política, Marx
 argumenta que, "en un punto del estado de desarrollo, las fuerzas
@@ -226,7 +161,7 @@ activistas con motivaciones políticas, no para evangelizarlos a una
 posición fija, sino para contribuir a un continuo diálogo crítico.
 
 
-## El comunismo de pares contra el estado capitalista cliente-servidor
+# El comunismo de pares contra el estado capitalista cliente-servidor
 
 La sociedad se compone de relaciones sociales. Estas forman las
 estructuras que la constituyen. Las redes de computadoras, como los
@@ -262,7 +197,7 @@ para la auto-organización de los trabajadores inspirado por la topología
 de red de pares y los comunes pastoriles históricos.
 
 
-## Las condiciones de la clase trabajadora en la Internet
+# Las condiciones de la clase trabajadora en la Internet
 
 La única manera de cambiar la sociedad es producir y compartir de forma
 diferente.
@@ -702,7 +637,7 @@ cliente-servidor se han vuelto centrales y cada vez más median y
 controlan todas las relaciones.
 
 
-## Atrapados en la telaraña mundial
+# Atrapados en la telaraña mundial
 
 Las posibilidades revolucionarias de la Internet temprana descansaban
 particularmente sobre la capacidad de interactuar directamente entre
@@ -866,9 +801,9 @@ La caracterización que hace Graham del "amateur" tiene una extraña
 semejanza a "_Si tuviera un circo_", de Dr. Seuss, donde el joven Morris
 McGurk dice al staff del imaginario Circo McGurkus:
 
-> Mis obreros aman trabajar.
-> Dicen, "¡Trabájanos! ¡Por favor hazlo!
-> Trabajaremos y trabajaremos tantas sorpresas
+> Mis obreros aman trabajar.  
+> Dicen, "¡Trabájanos! ¡Por favor hazlo!  
+> Trabajaremos y trabajaremos tantas sorpresas  
 > ¡Que nunca verías la mitad aunque tuvieras cuarenta ojos!" [@seuss-1956]
 
 Y mientras el término "Web 2.0" puede no significar nada para Tim
@@ -1106,7 +1041,7 @@ Internet como la conocemos, sino también la oportunidad de rehacer la
 sociedad a la imagen del P2P.
 
 
-## La producción de pares y la pobreza de las redes
+# La producción de pares y la pobreza de las redes
 
 Una Internet más libre no puede existir dentro del actual sistema de
 financiamiento capitalista. Los argumentos a favor de la evidente
@@ -1301,7 +1236,7 @@ común es un sistema de asignación de activos materiales entre pares
 independientes, que imponga solamente una mínima carga de coordinación.
 El comunismo de riesgo es esta forma.
 
-## Comunismo de riesgo
+# Comunismo de riesgo
 
 El comunismo de riesgo provee una estructura para que los productores
 independientes compartan un patrimonio común de activos productivos,
@@ -1454,7 +1389,7 @@ la construcción de una sociedad sin clases, una sociedad de iguales.
 cadenas.  Tienen un mundo por ganar.
 
 
-## El manifiesto de la red telecomunista
+# El manifiesto de la red telecomunista
 
 _Derivado de la Sección 2 del Manifiesto del Partido Comunista; Marx y
 Engels, 1948_ [@manifesto-1848].
@@ -1567,7 +1502,7 @@ clase, sustituirá una asociación en que el libre desarrollo de cada uno
 condicione el libre desarrollo de todos.
 
 
-## Contribución a la Crítica de la Cultura Libre
+# Contribución a la Crítica de la Cultura Libre
 
 "Estamos en medio de una revolución de las formas en que el conocimiento
 y la cultura son creados, accedidos y transformados", establece la
@@ -1618,7 +1553,7 @@ el acceso libre a las organizaciones que mantienen sus propios activos
 por fuera del dominio común.
 
 
-## El _copyright_ es un sistema de censura y explotación
+# El _copyright_ es un sistema de censura y explotación
 
 La existencia de los "derechos de copia" es previa a las nociones sobre
 el derecho del autor a la propiedad del siglo XVIII.[^telecomunista-26]
@@ -1926,7 +1861,7 @@ cuando la gente común toma los medios de producción y distribución en
 sus propias manos.
 
 
-## Los anti-comunes creativos
+# Los anti-comunes creativos
 
 El surgimiento del Software Libre, la compartición de archivos y las
 formas artísticas basadas en el _sampleo_ y reutilización de otros
@@ -2161,7 +2096,7 @@ libre deben ponerse firmes en negar el derecho al control del productor
 y en negar el refuerzo de la distinción entre productor y consumidor.
 
 
-## Software Libre: El _copyright_ se come a sí mismo
+# Software Libre: El _copyright_ se come a sí mismo
 
 Si la información copiable se vuelve escasa sólo mediante la aplicación
 de la ley, también puede hacerse abundante por ley.  La práctica de
@@ -2416,7 +2351,7 @@ nueva dentro de la cáscara de la vieja", el ideal histórico de los
 Trabajadores Industriales del Mundo [@iww-sf].
 
 
-## La Cultura Libre necesita una Sociedad Libre: El _copyfarleft_
+# La Cultura Libre necesita una Sociedad Libre: El _copyfarleft_
 
 A pesar del rol beneficioso del _copyleft_ para formar un valioso stock
 común de software, se vuelve problemático cuando el modelo es forzado en
@@ -2657,7 +2592,7 @@ realizado su rol histórico y creen una sociedad sin clases, podremos
 crear una cultura realmente libre sin restricciones.
 
 
-## La licencia de producción de pares: un modelo para el _copyfarleft_
+# La licencia de producción de pares: un modelo para el _copyfarleft_
 
 La Licencia de Producción de Pares es un modelo de licencia
 _copyfarleft_, derivada de la licencia _Creative Commons_
@@ -2668,7 +2603,7 @@ Para la traducción al castellano se adaptó el texto de la licencia
 _Creative Commons_ "Atribución-NoComercial-CompartirIgual 3.0 Chile":
 <http://creativecommons.org/licenses/by-nc-sa/3.0/cl/>
 
-### Licencia de Producción de Pares
+## Licencia de Producción de Pares
 
 LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA
 _COPYFARLEFT_ PÚBLICA ("LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS
@@ -3040,7 +2975,7 @@ TÉRMINOS Y CONDICIONES.
     escrito entre el Licenciante y Usted.
 
 
-## El Comunismo de Riesgo y el _Copyfarleft_
+# El Comunismo de Riesgo y el _Copyfarleft_
 
 > "El Estado es una condición, una cierta relación entre seres humanos,
 > un modo de comportamiento humano; lo destruimos cuando contraemos
