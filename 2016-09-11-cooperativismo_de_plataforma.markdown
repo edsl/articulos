@@ -4,7 +4,6 @@ title: "Cooperativismo de plataforma"
 author: "Trebor Scholz"
 cover: "images/cover_endefensadelsl_nr0.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
-category: [ "En Defensa del Software Libre #4" ]
 ---
 
 
