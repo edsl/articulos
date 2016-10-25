@@ -1699,6 +1699,21 @@ to administrative “laws,” the same word captures many different social
 relations. “Open,” “networks,” and “information” function much like
 “law” in our own Internet discourse today.
 
+Para Postma, una de las principales funciones del lenguaje es codificar
+y preservar las distinciones entre los distintos ambientes semanticos.
+Como lo presenta, "Cuando el lenguaje se hace indiferenciable, la
+situacion humana se desintegra: la ciencia  deja de distinguirse de la
+religion, que se deja de distinguir del comercio, asi de las leyes, etc.
+Si cada una cumple la misma funcion, entonces ninguna de ellas cumple
+ninguna funcion. Cuando este proceso ocurre, la palabra apripiada es
+*contaminacion*-." Algunas palabras como "ley" -son particularmente
+suceptibles a las charlas locas, ya que significan diferentes cosas:
+desde las "leyes" cientificas, pasando por las "leyes" morales, hasta
+las "leyes" del mercado y las administrativas, la misma palabra caputa
+distintos relaciones sociales. "Abierto", "redes" e "informacion"
+funcionan de manera similar a la palabra "ley" en el contexto del
+discuros actual sobre Internet.
+
 Postman’s thinking on the inner workings of language was heavily
 influenced by the work of [Alfred
 Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski), a Polish
@@ -1717,6 +1732,25 @@ term we use with a relevant numerical in order to distinguish “science
 for the highly fluid and relational structure of our reality—or as he
 put it in his most famous aphorism, “the map is not the territory.”
 
+El pensamiento de Postman sobre el trabajo interno del lenguaje fue
+fuertemente influenciado por el trabajo de [Alfred
+Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski) un conde
+polaco recordado por su libro [*Ciencia y
+Sanidad*](http://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018)
+de 1933. Korzybski fue el fundador de un movimiento llamado semanticas
+generales.  Ha inspirado a varios peligrosos y extraños seguidores -el
+ciencilogo L. Ron Hubbard afirma haber sido un fan- tambien gano el
+apoyo de varios pensadores serios, desde cyberciudadanos como Anatol
+Rapoport hasta filosofos como Gaston Bachelard. Para Korzybski, el mundo
+tiene una estructura relacion que esta siempre fluyendo; como Heraclito,
+quien argumntaba que todo fluye, Korzybski creia que un objeto A en un
+tiempo x1 no es el mismo que el objeto A en un tiempo x2 (lo que en
+realidad recomendaba era identificar cada termino en uso con un numero
+de relevancia para poder distinguir la "ciencia de 1933" de la "ciencia
+de 2013"). Nuestro lenguaje podria no conseguir nunca la estructura tan
+fluida y relacional de nuestra realidad -o como él dijo en su mas famoso
+aforismo, "el mapa no es el territorio."
+
 Korzybski argued that we relate to our environments through the process
 of “abstracting,” whereby our neurological limitations always produce an
 incomplete and very selective summary of the world around us. There was
@@ -1727,6 +1761,18 @@ artificially induce what he called a “neurological delay” so that we
 could gain more awareness of what we were doing in response to verbal
 and nonverbal stimuli, understand what features of reality have been
 omitted, and react appropriately.
+
+Korzybski argumentó que nos relacionamos con nuestro ambiente mediante
+el proceso de la "abstraccion", donde nuestras limitaciones neurologicas
+siempre producen un incompleto y muy selectivo resumen del mundo que nos
+rodea. No habia nadaa perjudicial en este per-se -Korzybski simplemente
+queria concientizar a la gente de la naturaleza altamente selectiva de
+la abstraccion y darnos herramientas para detectarlas en las
+conversaciones diarias. Queria inducir artificialmente a lo que él
+llamaba una "demora neurologica" para conseguir mayor conciencia de como
+uno responde a un estimulo ya sea verbal o no verbal, comprender que
+caracteristicas de la realidad fueron omitidas, y reaccion en
+consecuencia.
 
 To that end, Korzybski developed a number of mental tools meant to
 reveal all the abstracting around us; he patented the most famous of
