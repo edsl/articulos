@@ -1782,6 +1782,14 @@ of making them aware of their inherent inability to say everything about
 a given subject and to promote what he called the “consciousness of
 abstraction.”
 
+Con ese fin, Korzybski desarrollo varias herramientas mentales con el
+fin de revelar todas las abstracciones que nos rodean;  él patento el
+mas famoso -el "diferencial estructural"- en la decada del 1920. Tambien
+alento a sus seguidores a empezar a usar el "etc." al finalizar sus
+oracionas como forma de llamarles la atencion de la inherente
+imposibilidad de decirlo todo sobre un tema determinado y promover lo
+que llamo la "conciencia de la abstraccion".
+
 There was way too much craziness and bad science in Korzybski’s theories
 for him to be treated as a serious thinker, but his basic question—as
 Postman put it, “What are the characteristics of language which lead
