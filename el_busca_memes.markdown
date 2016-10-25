@@ -132,7 +132,7 @@ compulsivo de Twitter con mas de 1,6 millones de seguidores y tiene gusto por
 escribir ensayos sobre el cambio tecnologico.  Su ensayo sobre la "web 2.0"
 elucido una filosofia basica sobre Internet de una forma accesible tanto a
 academicos como a capitalistas de riesgo y cuenta mas de seis mil referencias
-en _Google Scholar.  Nada mal para un autor no academico.  Tambien invierte en
+en _Google Scholar_.  Nada mal para un autor no academico.  Tambien invierte en
 _startups_ --las mismas que celebra en su actividad publica-- a traves de un
 fondo de riesgo que, como todas las cosas de O'Reilly, lleva su propio nombre.
 
@@ -821,8 +821,8 @@ discussed blog post](http://www.oreillynet.com/pub/wlg/1840).
 durante un intenso debate en el 2002 sobre si los gobiernos deberian
 estar obligados a abandonar Microsoft y migrar a software de codigo abierto.
 O'Reilly manifestó su vehemente oposición a tal propuesta. "nadie deberia
-ser forzado a elegir software de codigo abierto, como nadie deberia estar 
-forzado a elegir software privativo. Cualquier victoria para el movimiento 
+ser forzado a elegir software de codigo abierto, como nadie deberia estar
+forzado a elegir software privativo. Cualquier victoria para el movimiento
 open source lograda privando a los usuarios de su derecho de elegir, seria
 una traición a los principios donde se plantan el software libre y el codigo
 abierto.
@@ -840,14 +840,14 @@ move from desktop-run software to the cloud—could have easily
 accommodated a different means of ensuring that freedom.
 
 Para debilitar la position de Stallman, O'Reilly tuvo que mostrar que
-el movimiento del software libre estaba luchando una guerra inútil y estupida: 
+el movimiento del software libre estaba luchando una guerra inútil y estupida:
 el advenimiento de Internet hiso a la obsesion por las licencias de Stallman obsoleta.
 Habia una buena cantidad de manipulación semántica en juego. Para Stallman,
-las licencias nunca fueron un fin por si mismas; importaban solo por como 
+las licencias nunca fueron un fin por si mismas; importaban solo por como
 codificaban un numero de practicas que derivaban de sus vision de una buena vida
 mediada por tecnología. En otras palabras, las licencias solo eran el medio para
 permitir el unico y verdadero que les importaba a los defensores del software
-libre: libertad. Una coleccion diferente de practicas tecnologicas ( por ejemplo, 
+libre: libertad. Una coleccion diferente de practicas tecnologicas ( por ejemplo,
 remplazar el software que corre en ordenadores por software que corre en la nube)
 podrian haber facilmente acomodado  un diferente medio para garantizar esa libertad.
 
@@ -872,16 +872,16 @@ Sure, there were exceptions—like the highly political and legalistic
 community that worked on Debian, yet another operating system—but they
 were the exceptions that proved the rule.
 
-De hecho, la filosofia de Stallman, en tanto que rudimental, tenia todas 
+De hecho, la filosofia de Stallman, en tanto que rudimental, tenia todas
 las herramientas conceptuales adecuadas para permitirnos pensar sobre
-la conveniencia de mover todo a la nube. El consiguiente asalto a 
+la conveniencia de mover todo a la nube. El consiguiente asalto a
 la privacidad, la centralizacion de los datos en las manos de solo
 un par de compañias, la crecente accesibilidad de datos sobre los usuarios
 para las agencias de orden publico que no se preocupan si quiera
 de conseguir una orden de allanamiento: todas esas consecuencias  de
-la computacion en la nube podrian haber sido predecidas y analizadas, 
+la computacion en la nube podrian haber sido predecidas y analizadas,
 incluso si pelear contra esas consecuencia hubiera requerido de herramientas
-diferentes a las licencias. 
+diferentes a las licencias.
 
 To maximize the appeal and legitimacy of this new paradigm, O’Reilly had
 to establish that open source both predated free software and was well
@@ -890,9 +890,9 @@ future. The first objective he accomplished, in part, by exploiting the
 ambiguities of the term “open”; the second by framing debate about the
 Internet around its complex causal connections to open source software.
 
-Para maximizar el atractivo y la legitimidad de este nuevo paradigma, O'Reilly 
+Para maximizar el atractivo y la legitimidad de este nuevo paradigma, O'Reilly
 tuvo que establecer que el "open-source" antedataba al software libre y a su vez
-que estaba en camino a dominar el mundo - que tenia una historia rica y 
+que estaba en camino a dominar el mundo - que tenia una historia rica y
 un futuro rico. El primero objetivo lo logro, en parte, explotando
 las ambigüedades del termino "open"(abierto); la segunda encuadrando
 el debate sobre internet al rededor de su conexion compleja y casual con
@@ -940,14 +940,14 @@ tipo de termino multiproposito que le permite a uno parecer politico
 mientras se avanza en una agenda que nada tiene que ver con politica.
 [Como O'Reilly lo mostro en el 2010](http://radar.oreilly.com/2010/04/handicapping-internet-platform-wars.html),
 "el arte de promover "openness" (apertura) es evitar hacerlo una crusada
-moral, sino resaltar las ventajas competitivas de esta apertura." 
-Remplaza "openness" con cualquier otro termino capcioso -por ejemplo 
+moral, sino resaltar las ventajas competitivas de esta apertura."
+Remplaza "openness" con cualquier otro termino capcioso -por ejemplo
 "derechos humanos" - en esta oracion y se vuelve claro que esta
 misión por un "openness" fue politicamente ineficaz desde el comienzo.
 Y que, si a tu interlocutor no le importa nada las ventajas competitivas?
-El termino "open source" no fue inventado por O'Reilly. Christine Peterson, 
+El termino "open source" no fue inventado por O'Reilly. Christine Peterson,
 la cofundadora, del instituto Forseight (un think tank de nanotecnologia),
-lo acuño en una sesion de brainstorming enFebrero de 1998 convocada 
+lo acuño en una sesion de brainstorming enFebrero de 1998 convocada
 para reaccion a la liberacion del codigo fuente de Navigator el
 navegador web de Netscape. Pocas palabras en el lenguaje Ingles
 contienen tanta ambigüedad y sensualidad como "open". Despues de la
@@ -956,7 +956,7 @@ intervensión grandilocuente de O'Reilly -" 'Open' permite experimentacion,
 [El una vez anunció](http://www.forbes.com/2009/02/22/kindle-oreilly-ebooks-technology-breakthroughs_oreilly.html)
 En un ensayo -su encanto solo se intensifico. Sacando provecho
 de la ambigüedad del termino, O'reilly y sus colaboradores equipararon
-la "apertura" de open source con la "apertura" de los mercados, la 
+la "apertura" de open source con la "apertura" de los mercados, la
 libertad de expresion y los proyectos academicos. De este modo "apertura"
 (open) podria significar cualquier cosa, desde "apertura a intercambio
 intelectual" ([O’Reilly en
@@ -988,17 +988,17 @@ at the expense of everything else.
 
 
 Como era de esperar, la disponibilidad de codigo fuente para la
-examinacion universal se volvio pronto el unico estandar de comparacion 
+examinacion universal se volvio pronto el unico estandar de comparacion
 de "apertura". Lo que el codigo hacia era de muy poca importancia- el mercado
 sabe mas!- siempre y cuando cualquiera pudiera verificar "bugs"(errores).
-El nuevo paradigma fue presentado como algo que escapaba a la idiologia 
+El nuevo paradigma fue presentado como algo que escapaba a la idiologia
 y que podia atraer ejecutivos de corporaciones sin que la comunidad hacker
 perdiera el encanto.
-"Las impliaciones de la etiqueta "open source" es que intentamos 
+"Las impliaciones de la etiqueta "open source" es que intentamos
 convencer al mundo corporativo de adoptar nueestras formas por razones
 economicas, desinteresadas y no ideologicas" [Eric Raymond noted in
 1998](http://www.linuxjournal.com/article/2918). Lo que Raymon
-y O'Reilly no pudieron comprender, o que decidieron omitir, es que 
+y O'Reilly no pudieron comprender, o que decidieron omitir, es que
 su esfuerzo para presentar "open source" como algo no ideologico
 fue apoyado por una idiologia poderosa- Una ideologia que venera
 la innovacion y eficiencia a costa de todo lo demas.
@@ -1026,7 +1026,7 @@ different programs had something in common.”
 
 
 
-Tomo un monton de trabajo creativo lograr que este paradigma se quede. 
+Tomo un monton de trabajo creativo lograr que este paradigma se quede.
 Una tactica comun fue presentar al software como si tuviera una historia
 mucho mas larga, que incluso antedata 1998. Por consiguiente, poco despues
 de la historica reunion cumbre de O'Reilly, Raymon noto que " la reunion cumbre
@@ -1034,11 +1034,11 @@ fue organizada por O'Reilly & Asociados, una compañia que fue simbiotica
 con el movimiento Open Source por muchos años." Que el termino "open source"
 tenga solo unos pocos meses en el momento que Raymon escribio esto no importo
 demasiado. La historia era algo que brillantes RRPP podian arreglar facilmente.
-"Mientras pensamos en esto, dijimos, Dios!, es tambien una gran oportunidad 
-en cuanto a relaciones publicas- somos una compañia que aprendio a trabajar  
+"Mientras pensamos en esto, dijimos, Dios!, es tambien una gran oportunidad
+en cuanto a relaciones publicas- somos una compañia que aprendio a trabajar
 los lados RRPP de las cosas"
 [O’Reilly dijo en 1999](http://books.google.com/books?id=kIU1scm4w6QC&lpg=PA169&ots=XymvERLdeY&dq=%22So%20part%20of%20the%20agenda%20for%20the%20summit%20was%20hey%2C%20just%20to%20meet%20and%20find%20out%20what%20we%20had%20in%20common.%22&pg=PA169#v=onepage&q&f=false).
-"Parte de la agenda de este encuentro cumbre fue solo juntarnos y ver que 
+"Parte de la agenda de este encuentro cumbre fue solo juntarnos y ver que
 teniamos en comun. La segunda agenda fue sobre hacer una declaracion
 de algun tipo de que esto es un movimiento, que todos estos diferentes programas
 tienen algo en comun."
@@ -1071,8 +1071,8 @@ O’Reilly had to establish some causal relationship between the two—the
 details could be worked out later on.
 
 Conectando este nuevo movimiento a la historia de internet y
-su futuro, O'Reilly evitó la mayoria de estas preocupaciones. Uno 
-no tenia que elegir open source, por que la decision ya se habia 
+su futuro, O'Reilly evitó la mayoria de estas preocupaciones. Uno
+no tenia que elegir open source, por que la decision ya se habia
 tomado. Mientras todos creyeran que "open source" implicaba
 "internet" y que "internet" implicaba "open source", seria  muy
 dificil de resistirse al nuevo paradigma. Como O'Reilly -siempre el RRPP-
@@ -1145,10 +1145,10 @@ de licencias de software"[el dijo en el 2000](http://oreilly.com/tim/articles/pa
 "Van  a ver los hilos que atan no solo proyectos open source
 tradicionales, sino tambien projectos colaborativos de redes
 computacionales como "SETIAtHome", criticas de usuarios en Amazon.com,
-tecnologias como filtrado colaborativo, nuevas ideas sobre marketing 
+tecnologias como filtrado colaborativo, nuevas ideas sobre marketing
 como esas expuestas en "The Cluetrain Manifesto", weblogs, y como
 foros en internet pueden muever el mercado de acciones." En otras
-palabras, todo en Internet estaba conectado con todo lo demas, 
+palabras, todo en Internet estaba conectado con todo lo demas,
 via open source.
 
 
@@ -1172,16 +1172,16 @@ beast from openness as a guaranteed product of laws.
 De la forma en que O'Reilly lo vio, muchas de los principales
 desarrollos en la cultura de internet fueron motivados por
 lo que el llamo "conductas open source" incluso si estas conductas
-no estuvieran codificadas en licencias. Por ejemplo, el hecho de que 
+no estuvieran codificadas en licencias. Por ejemplo, el hecho de que
 uno podia ver el codigo fuente de una pagina web en el navegador, tiene
 poco que ver con software open source, pero era parte del mismo espiritu de
 "apertura"  que O'Reilly vio en trabajo en Internet. Ninguna moralizacion
 (ni hablar de legislacion) era necesaria; Internet ya vivia y respiraba
-open source. Lo que O'Reilly no dijo es que, por supuesto, no tenia 
+open source. Lo que O'Reilly no dijo es que, por supuesto, no tenia
 que ser asi para siempre. Ahora que las aplicaciones estan desplazando
 a los navegadores, la "apertura" que dabamos por sentada no esta mas-
 una contingencia que licencias y moral podrian haber prevenido
-facilmente.- la "apertura" como un accidente de las condiciones 
+facilmente.- la "apertura" como un accidente de las condiciones
 de mercado es una bestia muy diferente que la apertura como un producto
 garantizado por leyes.
 
@@ -1197,13 +1197,13 @@ into “Internet freedom,” so that what we are trying to preserve is the
 innovative potential of the platform, regardless of the effects on
 individual users.
 
-Una de las consecuencias principales de conecar internet con el mundo 
-open source fue establecer la prioridad de internet como el nuevo y 
+Una de las consecuencias principales de conecar internet con el mundo
+open source fue establecer la prioridad de internet como el nuevo y
 reinventado escritorio - como la mas grande, inlcuso la máxima plataforma
 para alojar servicios y aplicaciones de terceros. Acá es donde el ahora
 olvidado lenguaje de "libertad" reaparece, dado que era importante
-garantizar que los randianos y heroicos hackers-emprendedores de O'Reilly 
-pudieran deambular libremente. Pronto está "libertad para innovar" se 
+garantizar que los randianos y heroicos hackers-emprendedores de O'Reilly
+pudieran deambular libremente. Pronto está "libertad para innovar" se
 transformo en "libertad de internet" por lo que lo qu eestamos tratando
 de preservar es el potencial innovativo de la plataforma, sin importar
 el efecto en los usuarios individuales.
@@ -1261,18 +1261,18 @@ not all human progress.
 
 
 <span class="dropcap">A</span> finales de los '90, O’Reilly comenzo
-a celebrar “infoware” como la proxima[gran cosa](http://oreilly.com/catalog/opensources/book/tim.html) 
+a celebrar “infoware” como la proxima[gran cosa](http://oreilly.com/catalog/opensources/book/tim.html)
 despues de "hardware" y "software". Su premisa fue que las compañias
 de Internet como Yahoo y E-trade no estaban en el negocio del software
 si no que en el negocio de "infoware". Su funcionalidad era basante
-basica -Permiten a los clientes comprar o mirar algo en un mapa- por 
+basica -Permiten a los clientes comprar o mirar algo en un mapa- por
 lo que su propuesta de valor yace en en la informacion que entregan,
 no en las funciones del software que ejecutan. Todos esos sofisticados
 servicios de internet que hacen posible que exista "infoware" fueron
 pegados entre ellos con software open source. Mostrando que infoware
 era el futuro y que el software open source era su componente esencial,
 O'Reilly buscó reasegurar a aquellos que todavia no se habian sumado
-al movimiento  su rol pivotal en el futuro de la computacion, incluso 
+al movimiento  su rol pivotal en el futuro de la computacion, incluso
 de todo el progreso humano.
 
 
@@ -1294,7 +1294,7 @@ California. He fired a quarter of his staff, and things looked pretty
 dire.
 
 
-El "infoware" no se volvio popular, por ende O'Reilly giró hacia el 
+El "infoware" no se volvio popular, por ende O'Reilly giró hacia el
 trabajo de Douglas Engelbart, el inventor idiosincrásico que nos dio
 el mouse y el hipertexto, para argumentar que Internet podria ayudar
 a la humanidad a aumentar su "inteligencia colectiva"y que, una vez
@@ -1302,13 +1302,13 @@ mas el software opensource era crucial para lograr esto. Ahora en realidad
 tenia que ver con Amazon aprendiendo de sus clientes y Google aprendiendo
 de sus sitios en su índice. La idea de que Internet es tanto un repositorio
 como un incubador de "inteligencia colectiva" fue bastante atractiva para
-Silicon Valley, en particular por que intervinó en la retórica New Age 
+Silicon Valley, en particular por que intervinó en la retórica New Age
 de los 70, pero el fallo putocom forzó momentaneamente a O'Reilly a
 suspender su filosofeo momentaneamente. Cuando la burbuja tecnológica
 exploto, la demanda por manuales y conferencias (La mayor parte del
-negocio de O'Reilly) se achicó, mientras que O'Reily tambien tuvo que 
+negocio de O'Reilly) se achicó, mientras que O'Reily tambien tuvo que
 lidiar con desagradables litigaciones relacionadas con la sede central
-de sus oficinas en Sebastopol,California. Despidió a un cuarto de 
+de sus oficinas en Sebastopol,California. Despidió a un cuarto de
 su personal, y la situacion parecia bastante seria.
 
 [![b22\_fisher6\_godsofinternet\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher6_godsofinternet_308.png)](http://www.marksfisher.com/)Thus,
@@ -1356,11 +1356,11 @@ asi que lo mantuvo como la caracteristica que define este nuevo fenomeno.
 Lo que diferencia a la Web 2.0 de la Web 1.0 segun O'Reilly, fue el
 simple hecho que aquellas firmas que no acogieron la Web 2.0 quebraron.
 Todas las compañias de Silicon Valley deberian escuchar a aquellas
-pocas que sobrevivieron: tienen que encontrar la manera de emplear la 
-inteligencia colectiva y hacerla parte de su modelo de negocios. Tienen 
+pocas que sobrevivieron: tienen que encontrar la manera de emplear la
+inteligencia colectiva y hacerla parte de su modelo de negocios. Tienen
 que volverse verdaderos portadores del espiritu de la Web 2.0.
-Luego, en el 2004, O'Reilly y Dale Dougherty su compañero de negocios 
-se golpearon con la idea de "Web 2.0". ¿Que es lo que "2.0" significaba, 
+Luego, en el 2004, O'Reilly y Dale Dougherty su compañero de negocios
+se golpearon con la idea de "Web 2.0". ¿Que es lo que "2.0" significaba,
 exactamente? Habia una ambición teórica con esta etiqueta - mas sobre esto
 despues - pero el principal objetivo era mostrar que el colapso del mercado
 en el 2001 no significo el fin de internet y que era el tiempo de dejar
@@ -1368,16 +1368,16 @@ el colapso detras nuestro y comenzar a aprender de esos que sobrevivieron.
 Debido a la gran cantidad de capital retorico que se habia puesto
 en vincular la idea de la web con la de "open source", el fin de la web
 significaria tambien el fin de muchos otros conceptos. Tácticamente,
-"Web 2.0" podria ser mucho mas grande que "open source"; fue el tipo de 
+"Web 2.0" podria ser mucho mas grande que "open source"; fue el tipo de
 término abarcativo y bonito que podria permitirle a O'Reilly diversificarse
 y expandirse de temas y extremadamente tecnicos y aburridos a futurologia
 acelera pulsos. "Normalmente tenemos muchisimas charlas tecnicas enfocadas
-en como usar software nuevo, construyendo nuestras conferencias para los 
+en como usar software nuevo, construyendo nuestras conferencias para los
 hackers que estan inventando el futuro, y las personas que adoptaron al inicio
-estan llevando su trabajo al siguiente nivel" Esto escribio O'Reilly en su 
-[blog](http://www.oreillynet.com/pub/wlg/5466) anunciando su primer 
+estan llevando su trabajo al siguiente nivel" Esto escribio O'Reilly en su
+[blog](http://www.oreillynet.com/pub/wlg/5466) anunciando su primer
 conferencia Web 2.0. "En contraste, Web 2.0 es nuestra primer 'conferencia
-ejecutiva' una conferencia orientada a gente de negocios, enfocada en 
+ejecutiva' una conferencia orientada a gente de negocios, enfocada en
 el panorama general"
 
 
@@ -1431,16 +1431,16 @@ his “Where 2.0” conference on geolocation was rebranded as just “Where.”
 The exceptional has become the new normal.
 
 
-Para el 2007 O'Reilly [admitio 
+Para el 2007 O'Reilly [admitio
 sin problemas](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
 que "La Web 2.0 fue un nombre bastante choto para lo que estaba pasando."
 En el 2004, sin embargo, parecia muy serio, promoviendo este concepto
 por todos lados. La etiqueta pescó, como "open source" era ambigua y
 lo suficientemente amplia para permitir muchisimos usos alternativos e
-interpretaciones. Los compañeros de O'Reilly con quienes organizaba la 
+interpretaciones. Los compañeros de O'Reilly con quienes organizaba la
 conferencia registraron debidamenten el termino "Web 2.0" pero estas
-novedades no fueron bien recibidas por sus compañeros de viaije 
-(Un esfuerzo similar para registrar "open source" por  "the Open Source 
+novedades no fueron bien recibidas por sus compañeros de viaije
+(Un esfuerzo similar para registrar "open source" por  "the Open Source
 Initiative" no prospero). Una vez que "Web 2.0" se establecio cmo un termino
 de referencia cultural, O'Reilly podia aventurarse fuera de Silicon Valley
 y estbalecer su relevancia en otras industrias. Como el software open source
@@ -1448,8 +1448,8 @@ le dio el nacimiento a las "politicas open source" y la "ciencia open source"
 tambien lo hiso la  "Web 2.0" expandiendo su imperio terminológico.
 O'Reilly eventualmente puso una etiqueta "2.0" atras de todo lo que se
 acomodara a su plan de negocios, organizando eventos como "Gov 2.0" y
-"Where 2.0".Hoy , como todos compran el paradigma 2.0, O'reilly esta 
-dejandolo silenciosamente. El año pasado su conferencia "Where 2.0" en 
+"Where 2.0".Hoy , como todos compran el paradigma 2.0, O'reilly esta
+dejandolo silenciosamente. El año pasado su conferencia "Where 2.0" en
 geolocalizacion se renombro solo "Where". La excepcion se volvio la norma.
 
 
@@ -1463,7 +1463,7 @@ so simply by invoking the idea of Web 2.0 in their work:
 Clasificar entre las casi seis mil publicaciones academicas
 que citan el ensayo de  O'Reilly  sobre la Web 2.0 no es facil. Pareceria
 que cualquiera que quisiera declarar que una revolucion estaba en camino
-en su propia disciplina lo hacia simplemente invocando la idea de 
+en su propia disciplina lo hacia simplemente invocando la idea de
 la Web 2.0 en su propio trabajo.
 
 
@@ -1530,12 +1530,12 @@ way to sell a technology conference to a public badly burned by the
 dotcom crash. Why anyone dealing with stress management or Wittgenstein
 would be moved by the logistics of conference organizing is a mystery.
 
-Lo que une a la mayoria de estas publicaciones es la suposición compartida 
+Lo que une a la mayoria de estas publicaciones es la suposición compartida
 de fondo que gracias a la llegada de la Web 2.0, estamos viviendo circunstancias
-historicas unicas. Excepto que no hay ninguna llegada de la Web 2.0 - es 
+historicas unicas. Excepto que no hay ninguna llegada de la Web 2.0 - es
 solo una forma de vender conferencias de tecnologia a un publico quemado
 seriamente por el colapso del punto com. Por que cualquiera que este lidiando
-con Manejo del stress o Wittgenstein estaria conmovido por la logistica de 
+con Manejo del stress o Wittgenstein estaria conmovido por la logistica de
 organizar conferencias es un misterio.
 
 
@@ -1560,8 +1560,8 @@ buying in real time.
 
 O'Reilly mismo es es pionero en esta 2.0-ficación del discurso publico,
 reinterpretango agresivamente tendencias que estuvieron sucediendo
-durante decadas  a través del prisma de la historia de Internet- un 
-movimiento que presento todas esas tendencias como solo una logica 
+durante decadas  a través del prisma de la historia de Internet- un
+movimiento que presento todas esas tendencias como solo una logica
 consecuencia de la revolucion de la Web 2.0. Tomen[Las reflexiones de
 O'Reilly](http://radar.oreilly.com/2008/09/why-dell-dot-com-is-more-enterprise.html)
 en "Empresas 2.0" ¿Que es, exactamente? Bueno, es la misma empresa
@@ -1599,7 +1599,7 @@ of what I call “Internet-centrism.”
 
 Esta era una consecuencia tipica de depender en Web 2.0 como la metafora
 referente de la edad:  una  tendencia que tiene poca conexion con Internet
-como Empresas 2.0 fue reinscripta en el marco de Internet, como si 
+como Empresas 2.0 fue reinscripta en el marco de Internet, como si
 adjuntandole la etiqueta 2.0 fuera lo unico necesario para establecer
 el paralelismo logico entre las palabras "venta"(retail) y busqueda.
 Esta tendencia a re describir la realidad en terminos de la cultura de internet
@@ -1633,7 +1633,7 @@ La mayoria de los analistas de tecnologia simplemente tomaron prestado
 la etiqueta Web 2.0 para explicar cualquier cosa que necesitara
 explicacion, tomando su utilidad y objetividad por sentado. "Open Source"
 nos dio "la Internet" "la Internet" nos dio "la Web 2.0", "la Web 2.0"
-nos dio "Enterprise 2.0": en esta version de la historia, Tim O'Reilly 
+nos dio "Enterprise 2.0": en esta version de la historia, Tim O'Reilly
 es mas importante que la Union Europea. Todo lo que necesitaba
 repensarse y rehacerse: Empresas, Gobiernos, el Sistema de Salud,
 las Finanzas, la produccion fabril. Para O'Reilly, habia pocos problemas
@@ -1646,7 +1646,7 @@ que la Web nos enseñe nuevas maneras de abordar estos limites."
 La Web 2.0 fue una fuente de sabiduria didactica, y O'Reilly tenia
 las herramientas necesarias para interpretar que nos queria decir en
 todos los contextos, sean mercados financieros o calentamiento global.
-Todos estos contextos perteneces a Internet ahora. El Internet-centrismo 
+Todos estos contextos perteneces a Internet ahora. El Internet-centrismo
 gano.
 
 
@@ -1671,15 +1671,15 @@ victims is crazy talk.
 <span class="dropcap"> E</span>n su libro de 1976 [*Charla Loca, Charla
 Estupida* ](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
 Neil Postman señalo cierto imperialismo lingüístico que impulsa
-charlas locas(Crazy talk). Para Postman, cada actividad -religion humana, la ley, 
+charlas locas(Crazy talk). Para Postman, cada actividad -religion humana, la ley,
 el matrimonio, el comercio- representa un distintivo "ambiente semantico"
-con su propio tono, propósito y estructura. La charla estupida (Stupid Talk) es 
+con su propio tono, propósito y estructura. La charla estupida (Stupid Talk) es
 relativamente inofensiva; no presenta riesgo alguno hacia su ambiente
 semantico y no cruza hacia otros.  Dado que consiste mayoritariamente
 de falacias y opiniones "dadas por una persona falible sobre las observaciones
 de otra persona falible" puede ser facilmente corregida con hechos.
 Por ejemplo, decir que Tehran es la capital de Iraq es charla estupida.
-La Charla Loca, en contraste, desafia al ambiente semantico, dado que 
+La Charla Loca, en contraste, desafia al ambiente semantico, dado que
 "establece diferentes propósitos y conjeturas de aquellas que normalmente
 aceptariamos." Argumentar, como algunos Nazis lo hicieron, que los
 soldados Alemanes terminaron mucho mas traumatizados que sus victimas
