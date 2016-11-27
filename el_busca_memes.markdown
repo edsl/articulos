@@ -1796,6 +1796,12 @@ Postman put it, “What are the characteristics of language which lead
 people into making false evaluations of the world around them?”—still
 remains relevant today.
 
+Las teorías de Korzybski eran demasiado locas y basadas en mala ciencia
+como para haber sido tomado en serio como pensador, pero su pregunta
+básica --como dice Postman "¿cuáles son las características del lenguaje
+que lleva a la gente a realizar falsas evaluaciones del mundo que la
+rodea?"-- aun hoy es relevante.
+
 Tim O’Reilly is, perhaps, the most high-profile follower of Korzybski’s
 theories today. O’Reilly was introduced to Korzybski’s thought as a
 teenager while working with a strange man called George Simon in the
@@ -1814,6 +1820,24 @@ notebooks](http://www.amazon.com/Notebooks-1965-1973-George-Simon/dp/B0006XM7K2/
 by Simon after the latter died in an accident; even by the highly
 demanding standards of the 1970s, those notebooks look outright crazy.)
 
+Tim O'Reilly es tal vez el seguidor de más alto perfil de las teorías de
+Korzybski.  O'Reilly se introdujo en el pensamiento de Korzybski cuando
+en su adolescencia trabajó con un hombre muy extraño llamado George
+Simon, en medio de la contracultura californiana de los '70.  O'Reilly y
+Simon daban talleres en el _Esalen Institute_ --en ese entonces un
+hervidero del "movimiento del potencial humano" que buscaban desatar el
+potencial oculto de sus seguidoras y aumentar su felicidad.  Al unir la
+filosofía de Korzybski con el yoga integral de Sri Aurobindo, Simon tuvo
+una inmensa influencia en el joven O'Reilly.  La relectura que hizo
+Simon de la semántica general, [recordaba O'Reilly en el
+2004](http://oreilly.com/tim/articles/favebooks_0705.html), "me dio una
+base sobre la que observar a la gente y reconocer aquella que veía, que
+es el fundamento de mi filosofía personal al día de hoy".  (En el '76,
+un O'Reilly de 22 años editó y [publicó los
+cuadernos](http://www.amazon.com/Notebooks-1965-1973-George-Simon/dp/B0006XM7K2/)
+de Simon luego de que este muriera en un accidente;  aun para los
+estándares de los '70, esos cuadernos son llanamente delirantes.)
+
 O’Reilly openly acknowledges his debt to Korzybski, listing *Science and
 Sanity* among [his favorite
 books](http://oreilly.com/tim/articles/favebooks_0705.html) and even
@@ -1829,6 +1853,23 @@ If general semanticists aimed to reveal the underlying emptiness of many
 concepts that pollute the public debate, O’Reilly is applying some of
 Korzybski’s language insights to practice some pollution of his own.
 
+O'Reilly reconoce abiertamente su deuda con Korzybski, incluyendo
+_Ciencia y cordura_ entre [sus libros
+favoritos](http://oreilly.com/tim/articles/favebooks_0705.html) y
+mostrando [visualizaciones del diferencial
+estructural](http://www.youtube.com/watch?v=ir_7NJGhvsM) en sus
+presentaciones.  Sería un error pensar que sus intervenciones
+lingüísticas --desde "open source" a "web 2.0"-- son aleatorias o
+espontáneas.  Tienen una filosofía detrás: una filosofía del
+conocimiento y el lenguaje inspirado por Korzybski.  Sin embargo,
+O'Reilly emplea a Korzybski de la misma forma que la industria
+publicitaria emplea los últimos descubrimientos de la neurociencia:  el
+objetivo no es aumentar la conciencia, sino manipularla.  Si las
+semanticistas generales intentaban revelar la vacuidad subyacente a
+muchos conceptos que contaminan el debate público, O'Reilly aplica
+algunas de las ideas de Korzybski para practicar una contaminación por
+su cuenta.
+
 O’Reilly, of course, sees his role differently, claiming that all he
 wants is to make us aware of what earlier commentators may have
 overlooked. “A metaphor is just that: a way of framing the issues such
@@ -1838,6 +1879,17 @@ to a critic who accused him of linguistic incontinence. But Korzybski’s
 point, if fully absorbed, is that a metaphor is primarily a way of
 framing issues such that we *don’t* see something we might otherwise
 see.
+
+Por supuesto, O'Reilly percibe su rol de otra manera, diciendo que todo
+lo que quiere es hacernos concientes de aquello que otros comentaristas
+podrían haber pasado por alto.  "Una metáfora es solo eso: una forma de
+enmarcar los problemas de forma que las personas puedan ver algo que de
+otra forma se perderían",
+[respondió]((http://blogs.gartner.com/andrea_dimaio/2009/09/08/why-government-is-not-a-platform/)
+a una crítica que lo acusaba de incontinencia lingüística.  Pero el
+punto de Korzybski, si se lo absorbe plenamente, es que una metáfora es
+principalmente una forma de enmarcar problemas de manera que _no veamos_
+algo de otra forma veríamos.
 
 In public, O’Reilly modestly presents himself as someone who just
 happens to excel at detecting the “faint signals” of emerging trends. He
@@ -1853,6 +1905,21 @@ we do at O’Reilly is watch these folks, learn from them, and try to
 spread the word by writing down (or helping them write down) what
 they’ve learned and then publishing it in books or online.”
 
+En público, O'Reilly se presenta modestmente como alguien que
+casualmente sobresale en detectar las "débiles señales" de las
+tendencias emergentes.  Logra esto al monitorear un grupo de
+_über_-innovadores a los que llama "los _geeks alpha_".  "Estos _geeks
+alpha_ nos muestran a dónde quiere ir la tecnología.  Las empresas
+inteligentes siguen y apoyan su ingenio en lugar de suprimirlo",
+[escribe](http://www.oreillynet.com/pub/wlg/3123).  Su función es la de
+intermediar --ser quien se asegure que los _geeks alpha_ son escuchados
+por los [ejecutivos
+correctos](http://www.oreillynet.com/network/2002/04/09/future.html):
+"Los _geeks alpha_ a menudo se encuentran algunos años adelantados a su
+tiempo... lo que hacemos en O'Reilly es monitorearlos, aprender de ellos
+e intentar difundir la palabra escribiendo (o ayudándoles a escribir) lo
+que han aprendido, para luego publicarlo en libros o en la web.
+
 The name of his company’s blog—*O’Reilly Radar*—is meant to position him
 as an independent intellectual who is simply ahead of his peers in
 grasping the obvious. Some regular contributors to the *Radar* blog have
@@ -1867,6 +1934,22 @@ unrelated fields. As Web 2.0 becomes central to everything, O’Reilly—the
 world’s biggest exporter of crazy talk—is on a mission to provide the
 appropriate “context” to every field.
 
+El blog de su compañía, llamado _O'Reilly Radar_ está pensado para
+posicionarlo como un intelectual independiente que simplemente se
+encuentra a la vanguardia de sus pares para captar lo obvio.  Algunos
+contribuidores regulares a este blog tienen títulos como
+"[corresponsal](http://radar.oreilly.com/alexh)", dándole a esta
+operación un manto de objetividad y desinterés, con O'Reilly como un
+remo comentarista con el conocimiento suficiente para proveer algo de
+contexto a los ocupados ejecutivos de Silicon Valley.  Una cita de
+[Edwin Schlossberg](http://www.oreillynet.com/pub/wlg/2982) que le gusta
+mucho --"la habilidad de escribir es crear un contexto donde otras
+personas puedan pensar"-- es utilizada para explicar su disposición a
+involucrarse en campos disímiles entre sí.  Mientras la _Web 2.0_ se
+vuelve central a todo, O'Reilly --el mayor exportador de locuras del
+mundo-- se encuentra en una misión para proveer el "contexto" apropiado
+para cada campo.
+
 In a fascinating essay published in 2000, O’Reilly sheds some light on
 his modus operandi. The thinker who emerges there is very much at odds
 with the spirit of objectivity that O’Reilly seeks to cultivate in
@@ -1878,6 +1961,18 @@ effectively, and have the desired effect once they are transmitted.” In
 a move worthy of Frank Luntz, O’Reilly meme-engineers a nice
 euphemism—“meme-engineering”—to describe what has previously been known
 as “propaganda.”
+
+En un fascinante ensayo publicado en el 2000, O'Reilly nos ilumina sobre
+su _modus operandi_.  El pensador que emerge de este texto es muy
+distinto del espíritu de objetividad que busca cultivar en público.
+Este ensayo es de hecho una oda reveladora a lo que llama "[ingeniería
+memética](http://www.openp2p.com/lpt/a/495)":  "Así como la ingeniería
+genética nos permite modificar genes, la ingeniería memética nos permite
+organizar y dar forma a ideas para que puedan transmitirse más
+efectivamente y tener el efecto deseado cuando lo son."  En una movida
+digna de Frank Luntz, O'Reilly crea mediante ingeniería memética un buen
+eufemismo --"ingeniería memética"-- que describe lo que antes se conocía
+como "propaganda".
 
 The essay’s putative goal is to show how one can meme-engineer a new
 meaning for “peer-to-peer” technologies—traditionally associated with
@@ -1896,6 +1991,24 @@ movement’s goal was no longer to produce a completely free, independent,
 and fully functional operating system but to worship at the altar of the
 Internet gods.
 
+El objetivo putativo del ensayo es mostrar cómo se puede hacer
+ingeniería memética de un nuevo significado para las tecnologías P2P
+--tradicionalmente asociadas a la piratería-- y volverlas amigables y no
+amenazantes a la industria del entretenimiento.  Liderando con el
+ejemplo, O'Reilly invoca su éxito en renombrar "software libre" como
+"open source".  La llave del éxito, dice, está en "darle un giro
+completamente diferente a lo que anteriormente se consideraba el 'mismo
+espacio'".  Para lograrlo, O'Reilly y sus acólitos "cambiaron la lista
+canónica de proyectos que queríamos sostener como ejemplos del
+movimiento", al mismo tiempo que articulaban los objetivos más amplios a
+los que servían esos proyectos.  Continúa refritando una narrativa
+familiar: O'Reilly pone la Internet en el centro de todo, vinculando
+algunos proyectos de software libre como Apache o Perl con _startups_ y
+servicios exitosos.  Como resultado, el objetivo del movimiento ya no
+era la producción de un sistema operativo completamente libre,
+independiente y funcional sino la adoración en el altar de los dioses de
+Internet.
+
 Another apt example of O’Reilly’s meme-engineering is his attempt to
 establish a strong intellectual link between the development of Unix—a
 proprietary operating system that Stallman sought to replace with free
@@ -1913,6 +2026,23 @@ himself played an important role in the production of Unix manuals, his
 own contribution to the Internet and open source suddenly looks even
 more significant.)
 
+Otro ejemplo de ingeniería memética es su intento de establecer un
+vínculo intelectual fuerte entre el desarrollo de Unix --un sistema
+operativo privativo al que Stallman intentaba reemplazar con software
+libre-- y el desarrollo del _open source_ y la Internet.  Entonces, por
+ejemplo,
+[proclamó](http://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing)
+que Unix fue construido y mejorado bajo el espíritu del _open source_
+porque sus animadores académicos ya intercambiaban código entre ellos en
+los '70.  Que aquellos intercambios hayan sido parte normal de la
+despreocupada cultura académica y poco que ver con actitudes filosóficas
+con respecto al código no debilita el argumento;  de hecho, es
+recuperado como una ventaja, ya que el modelo del _open source_ puede
+presentarse como una extensión del método científico.  (Ya que O'Reilly
+jugó un papel importante en la producción de manuales de Unix, su propia
+contribución al desarrollo de Internet y el _open source_ adquiere un
+significado aun mayor.)
+
 But O’Reilly’s meme-engineering around Unix doesn’t just stop at the
 purely discursive level. In his [talks and
 writings](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
@@ -1928,6 +2058,21 @@ Internet. It is this philosophy, and the architecture based on it, that
 has allowed open source projects to be assembled into larger systems
 such as Linux, without explicit coordination between developers.”
 
+Pero la ingeniería memética sobre Unix no se detiene en el nivel
+puramente discursivo.  En sus [charlas y
+escrituras](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
+a menudo apunta a un libro altamente técnico editado en 1984 --_El
+ambiente de desarrollo Unix_-- como prueba de que, al menos en cuanto a
+la colaboración, Unix fue una especie de proto-Internet.  En efecto, [el
+artículo de Wikipedia sobre el
+libro](http://en.wikipedia.org/wiki/The_Unix_Programming_Environment)
+dice que "este libro es tal vez más valioso por su exposición de la
+filosofía Unix donde herramientas pequeñas colaboran entre sí con
+entradas y salidas estandarizadas.  Esta filosofía y la arquitectura en
+la que se basaba fue la que permitió a los proyectos _open source_ a
+ensamblarse en sistemas más grandes como Linux, sin una coordinación
+explícita entre desarrolladores".
+
 Could it be that O’Reilly is right in claiming that “open source” has a
 history that predates 1998? Well, Wikipedia won’t tell us much here: in
 a[recent Berkeley talk](http://www.youtube.com/watch?v=0D3_2iCldUA),
@@ -1937,6 +2082,17 @@ discourse: as a publisher, he can churn out whatever books he needs to
 promote his favorite memes—and, once those have been codified in book
 form, they can be easily admitted into Wikipedia, where they quickly
 morph into facts. What’s not to like about “collective intelligence”?
+
+¿Podría ser que O'Reilly tiene razón en proclamar que el _open source_
+tiene una historia previa a 1998?  Wikipedia no nos dice mucho.  En una
+[charla en Berkeley](http://www.youtube.com/watch?v=0D3_2iCldUA),
+O'Reilly admitió que fue el editor del artículo en Wikipedia sobre el
+libro.  O'Reilly se encuentra perfectamente posicionado para controlar
+nuestro discurso sobre la tecnología: como editor, puede sacar todos los
+libros necesarios para promover sus memes favoritos --y una vez que se
+encuentran codificados en forma de libro, pueden ser fácilmente
+admitidos en Wikipedia, donde rápidamente se convierten en hechos.  ¿Qué
+no podría gustarnos de la "inteligencia colectiva"?
 
 [![b22\_fisher7\_techspeak\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher7_techspeak_308.png)](http://www.marksfisher.com/)Or
 take O’Reilly’s meme-engineering efforts around cyberwarfare. In a
@@ -1975,6 +2131,43 @@ surprised if there is, in fact, something called “the industrial
 Internet” and that the primary goal of most activism around it is to
 defend the freedom of GE to “innovate” on it as it pleases?
 
+Tomemos los esfuerzos de ingeniería memética sobre la ciberguerra.  En
+un
+[artículo](http://radar.oreilly.com/2012/07/some-sideways-thinking-about-cyberwarfare.html)
+sobre el tema, discurre sobre cuán estrecha es la definición de la
+"ciberguerra" y sugiera expandirla para que incluya conflictos entre
+estados e individuos.  Ahora bien, ¿quién se beneficia de esta
+definición más amplia de la "ciberguerra"?  ¿Podrían ser aquellos que,
+como O'Reilly, no son capaces aun de captar una porción de la torta del
+presupuesto para ciberseguridad?  Si la ingeniería memética triunfa,
+podríamos terminar clasificando hechos que deberían tratarse como
+crímenes, espionaje o terrorismo bajo la etiqueta ambigua de la
+"guerra".  Tal reformulación sería desastrosa para las libertades
+civiles y la privacidad y solo exacerbarían la ya horrible persecución
+legal a hacktivistas.  Probablemente no falte mucho para que el imperio
+mediático O'Reilly incorpore un "corresponsal de ciberguerra".  Vistas a
+través del prisma de la ingeniería memética, las actividades de O'Reilly
+parecen aun más siniestras.  Los "correspondientes" del _Radar_ no
+trabajan sobre temas, sino sobre memes y epistemes, reformulando
+constantemente los problemas públicos de acuerdo a las plantillas
+profetizadas por O'Reilly.  Recientemente, por ejemplo, se ha interesado
+en el meme de la "[Internet
+industrial](http://radar.oreilly.com/tag/industrial-internet)",
+participando en eventos en conjunto con _General Electric_ y hablando
+sobre la empresa en el blog.  Una vez que el meme de la "Internet
+industrial" se hace público, solo la falta de imaginación previene a los
+escritores de O'Reilly a verlo en todos lados.  [Así describe uno de
+ellos](http://radar.oreilly.com/2012/12/the-industrial-internet-from-a-startup-perspective.html)
+una empresa que de otra forma no entraría dentro de los límites del
+meme: "Estoy seguro que su fundador no usaría las palabras 'Internet
+industrial' para describir lo que él y su equipo están haciendo y hablar
+de _3Scan_ de esta forma podría resultar forzado.  Pero pienso que son
+un ejemplar de muchos de los principios fundamentales de este meme y
+resulta interesante pensarlos desde este marco."  Cinco años después,
+¿te sorprendería que exista algo llamado "la Internet industrial" cuyo
+objetivo principal es defender la libertad de _General Electric_ de
+"innovar" como le plazca?
+
 In his 2007 bestseller *Words That Work*, the Republican operative Frank
 Luntz lists ten rules of effective communication: simplicity, brevity,
 credibility, consistency, novelty, sound, aspiration, visualization,
@@ -1985,6 +2178,17 @@ Thus, O’Reilly’s meme-engineering efforts usually result in “meme maps,”
 where the meme to be defined—whether it’s “open source” or “Web 2.0”—is
 put at the center, while other blob-like terms are drawn as connected to
 it.
+
+En el _bestseller_ del 2007 _Words That Work_ \[Palabras que funcionan\]
+el operador republicano Frank Luntz lista las diez reglas de la
+comunicación efectiva: simpleza, brevedad, credibilidad, consistencia,
+novedad, sonido, aspiración, visualización, cuestionamiento y contexto.
+Aunque O'Reilly utiliza muchas de ellas también tiene algunas propias.
+El uso astuto de la visualización, por ejemplo, le ayuda a crear su
+mensaje de forma que sea agudo y abierto.  Por lo tanto, la ingeniería
+memética que practica a menudo resulta en "mapas de memes", donde el
+meme a definirse --ya sea _open source_ como _web 2.0_-- es puesto en el
+centro, mientras que otros términos se colocan como conectados a él.
 
 The exact nature of these connections is rarely explained in full, but
 this is all for the better, as the reader might eventually interpret
@@ -2003,6 +2207,25 @@ didn’t. *Strata* is about defining the new field of data science.
 *Velocity* is about making clear that the applications of the web depend
 on people to keep them running, unlike past generations of software that
 were simply software artifacts.”
+
+La naturaleza exacta de estas conexiones raramente es explicada, lo que
+resulta aun mejor, porque el lector eventualmente las interpreta con su
+propia agenda en mente.  Es por esto que el nombre del meme tiene que
+ser lo más inclusive posible, porque nunca sabes quienes serán tus
+aliados.  "Una parte importante de la ingeniería memética es encontrar
+un nombre que cree una gran carpa bajo la que mucha gente quiera estar,
+un tren que lleve a mucha gente a donde quieren ir",
+[escribe](http://www.slideshare.net/timoreilly/language-is-a-map-pdf-with-notes).
+Una vez que el meme es concebido, el resto del imperio O'Reilly puede
+involucrarse y ayudar a convertirlo en realidad.  Sus conferencias, por
+ejemplo, juegan un rol crucial: "cuando observas nuestros eventos, en
+última instancia se trata de rescribir el mapa memético en cada uno de
+ellos.  La _web 2.0_ se trataba de distinguir las empresas que
+sobrevivieron la crisis de las _puntocom_ de aquellas que no.  Los
+estratos se tratan de definir el nuevo campo de la ciencia de datos.  La
+velocidad se trata de dejar en claro que las aplicaciones de la web
+dependen de gente manteniéndolas en pie, al contrario de generaciones
+pasadas de software que eran meros artefactos."
 
 There is considerable continuity across O’Reilly’s memes—over time, they
 tend to morph into one another. Thus, [as he puts
