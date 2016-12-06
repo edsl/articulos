@@ -2239,6 +2239,18 @@ organizing new events and investing in cool start-ups; it also, as those
 six thousand papers that cite Web 2.0 attest, leaves a huge imprint on
 our culture.
 
+Existe una considerable continuidad entre estos memes --a medida que
+pasa el tiempo, se mezclan unos con otros.  De esta forma, [como dice
+O'Reilly](http://oreilly.com/pub/wlg/3017), "_open source_ fue una gran
+reformulación del meme en su día, superando algunas de las limitaciones
+del software libre, aunque no fue el fin de la historia".  O'Reilly ha
+perdido interés en _open source_ y _web 2.0_, migrando hacia nuevos
+memes: "gobierno como plataforma" y "regulación algorítmica".  Solo
+podemos adivinar lo que vendrá.  Esta destreza no solo le ayuda a
+organizar nuevos eventos e invertir en _startups_, también, como
+atestiguan los seis mil _papers_ que citan la _web 2.0_, le permitan
+dejar una huella gigante en nuestra cultura.
+
 <span class="dropcap">A</span>ll the familiar pathologies of O’Reilly’s
 thinking are on full display in his quest to [meme-engineer his
 way](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
@@ -2246,6 +2258,14 @@ to “Government 2.0.” The free software scenario is repeating itself:
 deeply political reform efforts are no longer seen as “moral crusades,”
 but are reinvented as mere attempts at increasing efficiency and
 promoting innovation.
+
+Todas las patologías familiares de su pensamiento están puestas en juego
+en su búsqueda por [hacer ingeniería
+memética](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
+hacia el "gobierno 2.0".  El escenario del software libre se repite: los
+esfuerzos para las reformas profundamente políticas ya no se presentan
+como "cruzadas morales" sino que se re-inventan como meros intentos de
+incrementar la eficiencia y promover la innovación.
 
 Before O’Reilly went searching for a big-tent meme, there was little
 cohesion to the many disparate efforts to use technology to transform
@@ -2260,6 +2280,22 @@ were those who believed that increasing the availability and liquidity
 of government information would lead to new entrepreneurial projects and
 boost the economy.
 
+Antes de que O'Reilly comenzara la búsqueda de un meme-paraguas, había
+muy poca cohesión entre los muchos esfuerzos por utilizar tecnología
+para transformar el gobierno.  Algunos esperaban que la digitalización
+ayudara a reducir la burocracia y permitiera hacer los trámites
+tributarios en línea.  Otros esperaban la llegada de los consejos
+deliberantes electrónicos que permitieran a las ciudadanas deliberar
+sobre las políticas que les afectan.  Otro grupo esperaba que la
+digitalización volviera más transparentes y responsables a los
+gobiernos, al forzarlos a publicar algunos de los documentos obtenidos a
+través de la _Freedom of Information Act_[^foia].  Finalmente, hubo
+aquellos que pensaban que la disponibilidad y liquidez de la información
+estatal llevaría al surgimiento de proyectos emprendedores que promuevan
+la economía.
+
+[^foia]: TODO
+
 Many of these efforts started long before the web and had no obvious
 connection to Internet culture, let alone Web 2.0. Occasionally, these
 four efforts—aiming at greater efficiency, deliberation, transparency,
@@ -2270,6 +2306,16 @@ character; these folks were not particularly interested in the political
 nature of the regimes they were seeking to reform. Singapore—where
 anyone can file their paperwork in minutes—was their role model.
 
+Muchos de estos esfuerzos comenzaron mucho antes que la _web_ y no
+tenían una conexión obvia con la cultura de Internet y ni hablar de la
+_web 2.0_.  Ocasionalmente, estos cuatro esfuerzos --mayor eficiencia,
+deliberación, transparencia e innovación-- se superpusieron, pero han
+sido llevados por dos agendas distintas.  Por un lado, el grupo
+interesado en la eficiencia y la innovación realizó campañas de carácter
+económico, sin interesarse particularmente en la naturaleza política de
+los regímenes que buscaban reformar.  Singapur --donde cualquiera puede
+hacer trámites en minutos-- era su modelo a seguir.
+
 The other cohort, interested in deliberation and transparency, was
 primarily concerned with transferring power from governments to citizens
 and increasing the accountability of public institutions. They argued
@@ -2279,6 +2325,18 @@ cornerstone of various Right to Information campaigns. This second group
 wouldn’t accept authoritarian Singapore as a role model, since most of
 its e-innovations do very little to promote meaningful citizen
 participation in policy-making or increase accountability.
+
+El otro grupo, interesado en la deliberación y la transparencia, se
+preocupaba principalmente en la transferencia de poder desde los
+gobiernos a las ciudadanas y en el incremento de la responsabilidad de
+las instituciones públicas.  Argumentaban que las ciudadanas tiene el
+derecho a obtener información sobre cómo operan sus gobiernos.  Tales
+demandas explícitamente políticas se convirtieron en la piedra de toque
+de varias campañas por el derecho a la información.  Este segundo grupo
+no aceptaría a la autoritaria Singapur como modelo, ya que la mayoría de
+sus e-innovaciones hacen muy poco por promover una participación
+ciudadana significativa en la elaboración de políticas o el incremento
+de la responsabilidad.
 
 Most modern governments, not surprisingly, prefer the economic aspects
 of digitization reform to the political ones. Innovative schemes, like
