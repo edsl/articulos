@@ -1,3 +1,21 @@
+---
+layout: post
+title: "El buscamemes"
+author: "Evgeny Morozov"
+cover: "images/cover_endefensadelsl_nr4.png"
+license: http://endefensadelsl.org/ppl_deed_es.html
+---
+
+El buscamemes
+=============
+
+> Publicado como "[The Meme
+> Hustler](http://thebaffler.com/salvos/the-meme-hustler)" en _[The
+> Baffler #22](http://thebaffler.com/issues/no-22)_, 2013.  Traducción
+> liberada bajo la [Licencia de Producción de
+> Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del
+> autor.
+
 While the brightest minds of Silicon Valley are “disrupting” whatever industry
 is too crippled to fend off their advances, something odd is happening to our
 language. Old, trusted words no longer mean what they used to mean; often, they
