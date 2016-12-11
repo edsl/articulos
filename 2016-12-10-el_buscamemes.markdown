@@ -516,300 +516,162 @@ los principios donde se plantan el software libre y el _open source_",
 escribió en un [artículo ampliamente
 discutido](http://www.oreillynet.com/pub/wlg/1840).
 
-To weaken Stallman’s position, O’Reilly had to show that the free
-software movement was fighting a pointless, stupid war: the advent of
-the Internet made Stallman’s obsession with licenses obsolete. There was
-a fair amount of semantic manipulation at play here. For Stallman,
-licenses were never an end in themselves; they mattered only as much as
-they codified a set of practices deriving from his vision of a
-technologically mediated good life. Licenses, in other words, were just
-the means to enable the one and only end that mattered to free software
-advocates: freedom. A different set of technological practices—e.g., the
-move from desktop-run software to the cloud—could have easily
-accommodated a different means of ensuring that freedom.
+Para debilitar la posición de Stallman, O'Reilly tuvo que mostrar que el
+movimiento del software libre estaba luchando una guerra inútil y
+estúpida: el advenimiento de Internet volvió obsoleta su obsesión por
+las licencias.  Hubo una buena cantidad de manipulación semántica en
+juego.  Para Stallman, las licencias nunca fueron un fin por sí mismas;
+importaban solo en tanto codificaban un número de prácticas que
+derivaban de su visión de una buena vida mediada por la tecnología.  En
+otras palabras, las licencias solo eran el medio para permitir el único
+fin que les importaba a las defensoras del software libre: la libertad.
+Una colección diferente de prácticas tecnológicas (por ejemplo,
+remplazar el software que corre en computadoas por software que corre en
+la nube) podrían haber construido fácilmente unos medios diferentes de
+garantizar esa libertad.
 
-Para debilitar la position de Stallman, O'Reilly tuvo que mostrar que
-el movimiento del software libre estaba luchando una guerra inútil y estupida:
-el advenimiento de Internet hiso a la obsesion por las licencias de Stallman obsoleta.
-Habia una buena cantidad de manipulación semántica en juego. Para Stallman,
-las licencias nunca fueron un fin por si mismas; importaban solo por como
-codificaban un numero de practicas que derivaban de sus vision de una buena vida
-mediada por tecnología. En otras palabras, las licencias solo eran el medio para
-permitir el unico y verdadero que les importaba a los defensores del software
-libre: libertad. Una coleccion diferente de practicas tecnologicas ( por ejemplo,
-remplazar el software que corre en ordenadores por software que corre en la nube)
-podrian haber facilmente acomodado  un diferente medio para garantizar esa libertad.
+De hecho, la filosofía de Stallman, aunque rudimentaria, tenía todas las
+herramientas conceptuales adecuadas para permitirnos pensar sobre la
+conveniencia de mover todo a la nube.  El consiguiente asalto a la
+privacidad, la centralización de los datos en las manos de un par de
+compañías, la creciente accesibilidad de datos sobre las usuarias para
+las agencias de orden público (que no se preocupan si quiera de
+conseguir una orden de allanamiento): todas esas consecuencias de la
+computación en la nube podrían haber sido predichas y analizadas,
+incluso si pelear contra esas consecuencia hubiera requerido de
+herramientas diferentes a las licencias.[^nube]  El ingenio de O'Reilly
+sobre las relaciones públicas descansó en lograr que casi todo el mundo
+confundiese los medios con los fines del movimiento del software libre.
+Ya que las licencias eran obsoletas, argumentó, las desarrolladoras de
+software pueden descartar los fines del proyecto de Stallman --es decir,
+su foco en los derechos y libertades de las usuarias.  Muchas
+desarrolladoras efectivamente dejaron de pensar en las licencias y por
+ende dejaron de pensar en los problemas morales más amplios que hubieran
+sido centrales si el _open source_ no hubiera desplazado al software
+libre como el paradigma actual.  Seguramente hubo excepciones --como la
+comunidad altamente política y legalista que trabaja en _Debian_, otro
+sistema operativo-- pero fueron las que probaron la regla.
 
+[^nube]: De hecho lo fueron, ver por ejemplo "[Libertad en la nube,
+Libertad del Software, Privacidad y Seguridad para la Web 2.0 y
+Computación en la
+Nube](https://endefensadelsl.org/libertad_en_la_nube.html)" de Eben
+Moglen (nota de la traducción).
 
-In fact, Stallman’s philosophy, however rudimentary, had all the right
-conceptual tools to let us think about the desirability of moving
-everything to the cloud. The ensuing assault on privacy, the
-centralization of data in the hands of just a handful of companies, the
-growing accessibility of user data to law enforcement agencies who don’t
-even bother getting a warrant: all those consequences of cloud computing
-could have been predicted and analyzed, even if fighting those
-consequences would have required tools other than licenses. O’Reilly’s
-PR genius lay in having almost everyone confuse the means and the ends
-of the free software movement. Since licenses were obsolete, the
-argument went, software developers could pretty much disregard the ends
-of Stallman’s project (i.e., its focus on user rights and freedoms) as
-well. Many developers did stop thinking about licenses, and, having
-stopped thinking about licenses, they also stopped thinking about
-broader moral issues that would have remained central to the debates had
-“open source” not displaced “free software” as the paradigm du jour.
-Sure, there were exceptions—like the highly political and legalistic
-community that worked on Debian, yet another operating system—but they
-were the exceptions that proved the rule.
+Para maximizar el atractivo y la legitimidad de este nuevo paradigma,
+O'Reilly tuvo que establecer el _open source_ como antecesor del
+software libre y que a su vez estaba en camino de dominar el mundo --que
+tenía tanto una historia como un futuro ricos.  Logró el primer
+objetivo, en parte, explotando las ambigüedades del termino "open"
+(abierto); la segunda encuadrando el debate sobre Internet alrededor de
+su conexión compleja y causal con el software _open source_.
 
-De hecho, la filosofia de Stallman, en tanto que rudimental, tenia todas
-las herramientas conceptuales adecuadas para permitirnos pensar sobre
-la conveniencia de mover todo a la nube. El consiguiente asalto a
-la privacidad, la centralizacion de los datos en las manos de solo
-un par de compañias, la crecente accesibilidad de datos sobre los usuarios
-para las agencias de orden publico que no se preocupan si quiera
-de conseguir una orden de allanamiento: todas esas consecuencias  de
-la computacion en la nube podrian haber sido predecidas y analizadas,
-incluso si pelear contra esas consecuencia hubiera requerido de herramientas
-diferentes a las licencias.
-
-To maximize the appeal and legitimacy of this new paradigm, O’Reilly had
-to establish that open source both predated free software and was well
-on its way to conquering the world—that it had a rich history and a rich
-future. The first objective he accomplished, in part, by exploiting the
-ambiguities of the term “open”; the second by framing debate about the
-Internet around its complex causal connections to open source software.
-
-Para maximizar el atractivo y la legitimidad de este nuevo paradigma, O'Reilly
-tuvo que establecer que el "open-source" antedataba al software libre y a su vez
-que estaba en camino a dominar el mundo - que tenia una historia rica y
-un futuro rico. El primero objetivo lo logro, en parte, explotando
-las ambigüedades del termino "open"(abierto); la segunda encuadrando
-el debate sobre internet al rededor de su conexion compleja y casual con
-software open source.
-
-
-[![b22\_fisher5\_globalbrain\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher5_globalbrain_308.png)](http://www.marksfisher.com/)“Open”
-allowed O’Reilly to build the largest possible tent for the movement.
-The language of economics was less alienating than Stallman’s language
-of ethics; “openness” was the kind of multipurpose term that allowed one
-to look political while advancing an agenda that had very little to do
-with politics. [As O’Reilly put it in
+"Open" le permitió construir el paraguas más grande posible para el
+movimiento.  El lenguaje economicista fue menos alienador que el
+lenguaje ético de Stallman.  Esta "apertura" fue el tipo de término
+multipropósito que le permite parecer político mientras se avanza en una
+agenda que nada tiene que ver con política.  [Como O'Reilly mostró en el
 2010](http://radar.oreilly.com/2010/04/handicapping-internet-platform-wars.html),
-“the art of promoting openness is not to make it a moral crusade, but
-rather to highlight the competitive advantages of openness.” Replace
-“openness” with any other loaded term—say “human rights”—in this
-sentence, and it becomes clear that this quest for “openness” was
-politically toothless from the very outset. What, after all, if your
-interlocutor doesn’t give a damn about competitive advantages?The term
-“open source” was not invented by O’Reilly. Christine Peterson, the
-cofounder of Foresight Institute (a nanotechnology think tank), coined
-it in a February 1998 brainstorm session convened to react to Netscape’s
-release of Navigator’s source code. Few words in the English language
-pack as much ambiguity and sexiness as “open.” And after O’Reilly’s
-bombastic interventions—“Open allows experimentation. Open encourages
-competition. Open wins,” [he once
-proclaimed](http://www.forbes.com/2009/02/22/kindle-oreilly-ebooks-technology-breakthroughs_oreilly.html)
-in an essay—its luster has only intensified. Profiting from the term’s
-ambiguity, O’Reilly and his collaborators likened the “openness” of open
-source software to the “openness” of the academic enterprise, markets,
-and free speech. “Open” thus could mean virtually anything, from “open
-to intellectual exchange” ([O’Reilly in
-1999](http://web.archive.org/web/20000119094723/http://sunworld.com/sunworldonline/swol-01-1999/swol-01-regex-2.html):
-“Once you start thinking of computer source code as a human language,
-you see open source as a variety of ‘free speech’”) to “open to
-competition” ([O’Reilly in
-2000](http://www.oreillynet.com/pub/wlg/4179): “For me, ‘open source’ in
-the broader sense means any system in which open access to code lowers
-the barriers to entry into the market”).
-
-"Open" le permitio a O'Reilly construir el espacio o mas grande posible
-para el movimiento. El lenguaje de la economia fue menos alienador
-que el lenguaje de la etica de Stallman. Esta "apertura" fue el
-tipo de termino multiproposito que le permite a uno parecer politico
-mientras se avanza en una agenda que nada tiene que ver con politica.
-[Como O'Reilly lo mostro en el 2010](http://radar.oreilly.com/2010/04/handicapping-internet-platform-wars.html),
-"el arte de promover "openness" (apertura) es evitar hacerlo una crusada
-moral, sino resaltar las ventajas competitivas de esta apertura."
-Remplaza "openness" con cualquier otro termino capcioso -por ejemplo
-"derechos humanos" - en esta oracion y se vuelve claro que esta
-misión por un "openness" fue politicamente ineficaz desde el comienzo.
-Y que, si a tu interlocutor no le importa nada las ventajas competitivas?
-El termino "open source" no fue inventado por O'Reilly. Christine Peterson,
-la cofundadora, del instituto Forseight (un think tank de nanotecnologia),
-lo acuño en una sesion de brainstorming enFebrero de 1998 convocada
-para reaccion a la liberacion del codigo fuente de Navigator el
-navegador web de Netscape. Pocas palabras en el lenguaje Ingles
-contienen tanta ambigüedad y sensualidad como "open". Despues de la
-intervensión grandilocuente de O'Reilly -" 'Open' permite experimentacion,
-'open' fomenta la competencia. 'Open' gana,"
-[El una vez anunció](http://www.forbes.com/2009/02/22/kindle-oreilly-ebooks-technology-breakthroughs_oreilly.html)
-En un ensayo -su encanto solo se intensifico. Sacando provecho
-de la ambigüedad del termino, O'reilly y sus colaboradores equipararon
-la "apertura" de open source con la "apertura" de los mercados, la
-libertad de expresion y los proyectos academicos. De este modo "apertura"
-(open) podria significar cualquier cosa, desde "apertura a intercambio
-intelectual" ([O’Reilly en
- 1999](http://web.archive.org/web/20000119094723/http://sunworld.com/sunworldonline/swol-01-1999/swol-01-regex-2.html):
-"Una vez que comenzas a pensar en el codigo fuente de las computadoras
-como el lenguaje humano, vas a ver al open source como una variedad de
-la libertad de exprecion")
+"el arte de promover "apertura" es evitar volverlo una cruzada moral,
+sino resaltar las ventajas competitivas de esta apertura".  Reemplacemos
+"apertura" con cualquier otro término político --por ejemplo "derechos
+humanos"-- en esta oración y se vuelve claro que esta misión por una
+"apertura" fue políticamente ineficaz desde el comienzo.  ¿Y qué pasa si
+a tu interlocutora no le importan para nada las ventajas competitivas?
+El término _open source_ no fue inventado por O'Reilly.  Christine
+Peterson, la co-fundadora del _Foresight Instituto_ (un _think tank_ de
+nano-tecnología), lo acuñó en una sesión de _brainstorming_ en febrero
+de 1998 que había sido convocada como reacción a la liberación del
+código fuente del navegador web de _Netscape_, _Navigator_.  Pocas
+palabras en el inglés contienen tanta ambigüedad y sensualidad como
+"open".  Después de la intervención grandilocuente de O'Reilly --"'open'
+permite experimentacion, 'open' fomenta la competencia, 'open' gana,"
+[anunciaba](http://www.forbes.com/2009/02/22/kindle-oreilly-ebooks-technology-breakthroughs_oreilly.html)--
+su encanto solo se intensificó.  Sacando provecho de la ambigüedad del
+término, O'Reilly y sus colaboradores equipararon la "apertura" del
+_open source_ con la "apertura" de los mercados, la libertad de
+expresión y los proyectos académicos.  De este modo "open" podría
+significar cualquier cosa, desde "apertura a intercambio intelectual"
 ([O’Reilly en
-2000](http://www.oreillynet.com/pub/wlg/4179): "Para mi, 'open source'
-en el sentido mas amplio significa cualquier sistema donde el acceso abierto
-a programar disminuye las barreras para entre en el mercado").
+1999](http://web.archive.org/web/20000119094723/http://sunworld.com/sunworldonline/swol-01-1999/swol-01-regex-2.html):
+"Una vez que empezás a pensar en el código fuente de las computadoras
+como si fuera lenguaje humano, vas a ver al _open source_ como una
+variedad de la libertad de expresión") a "abierto a la competencia"
+([O'Reilly en 2000](http://www.oreillynet.com/pub/wlg/4179): "Para mí,
+'open source' en el sentido más amplio significa cualquier sistema donde
+el acceso abierto a escribir código disminuye las barreras para entrar
+en el mercado").
 
+Como era de esperar, la disponibilidad de código fuente para la
+examinación universal muy pronto se volvió el único estándar para medir
+la apertura.  Lo que el código hacía tenía muy poca importancia --¡el
+mercado sabe más!-- siempre y cuando cualquiera pudiera verificar
+"bugs".  El nuevo paradigma fue presentado como algo que escapaba a la
+ideología y que podía atraer a ejecutivos de corporaciones sin perder
+encanto ante la comunidad hacker.  "Las implicaciones de la etiqueta
+_open source_ es que intentamos convencer al mundo corporativo de
+adoptar nueestras formas por razones económicas, desinteresadas y no
+ideológicas" [decía Eric Raymond en
+1998](http://www.linuxjournal.com/article/2918).  Lo que Raymond y
+O'Reilly no pudieron comprender, o decidieron omitir, es que su esfuerzo
+para presentar el _open source_ como algo no ideológico fue apoyado por
+una ideología poderosa --una ideología que venera la innovación y la
+eficiencia a costa de todo lo demás.
 
-
-Unsurprisingly, the availability of source code for universal
-examination soon became the one and only benchmark of openness. What the
-code did was of little importance—the market knows best!—as long as
-anyone could check it for bugs. The new paradigm was presented as
-something that went beyond ideology and could attract corporate
-executives without losing its appeal to the hacker crowd. “The
-implication of \[the open source\] label is that we intend to convince
-the corporate world to adopt our way for economic, self-interested,
-non-ideological reasons,” [Eric Raymond noted in
-1998](http://www.linuxjournal.com/article/2918). What Raymond and
-O’Reilly failed to grasp, or decided to overlook, is that their effort
-to present open source as non-ideological was underpinned by a powerful
-ideology of its own—an ideology that worshiped innovation and efficiency
-at the expense of everything else.
-
-
-Como era de esperar, la disponibilidad de codigo fuente para la
-examinacion universal se volvio pronto el unico estandar de comparacion
-de "apertura". Lo que el codigo hacia era de muy poca importancia- el mercado
-sabe mas!- siempre y cuando cualquiera pudiera verificar "bugs"(errores).
-El nuevo paradigma fue presentado como algo que escapaba a la idiologia
-y que podia atraer ejecutivos de corporaciones sin que la comunidad hacker
-perdiera el encanto.
-"Las impliaciones de la etiqueta "open source" es que intentamos
-convencer al mundo corporativo de adoptar nueestras formas por razones
-economicas, desinteresadas y no ideologicas" [Eric Raymond noted in
-1998](http://www.linuxjournal.com/article/2918). Lo que Raymon
-y O'Reilly no pudieron comprender, o que decidieron omitir, es que
-su esfuerzo para presentar "open source" como algo no ideologico
-fue apoyado por una idiologia poderosa- Una ideologia que venera
-la innovacion y eficiencia a costa de todo lo demas.
-
-
-
-
-It took a lot of creative work to make the new paradigm stick. One
-common tactic was to present open source as having a much longer history
-that even predates 1998. Thus, writing shortly after O’Reilly’s historic
-open source summit, [Raymond noted
-that](http://www.linuxjournal.com/article/2918) “the summit was hosted
-by O’Reilly & Associates, a company that has been symbiotic with the
-Open Source movement for many years.” That the term “open source” was
-just a few months old by the time Raymond wrote this didn’t much matter.
-History was something that clever PR could easily fix. “As we thought
-about it, we said, gosh, this is also a great PR opportunity—we’re a
-company that has learned to work the PR angles on things,” [O’Reilly
-said in
+Tomó un montón de trabajo creativo lograr que este paradigma persevere.
+Una táctica común fue presentar al software como si tuviera una historia
+mucho más larga, incluso anterior a 1998.  Por tanto, poco después de la
+histórica reunión cumbre sobre el _open source_ organizada por O'Reilly,
+Raymond dijo que "la reunión cumbre fue organizada por _O'Reilly \&
+Associates_, una compañía que fue simbiótica con el movimiento _open
+source_ por muchos años".  Que el término _open source_ haya tenido solo
+unos pocos meses en el momento en que Raymond escribió esto no importó
+demasiado.  La historia es algo que brillante agentes de relaciones
+públicas pueden arreglar facilmente.  "Mientras pensamos en esto,
+dijimos, ¡dios mío!, es también una gran oportunidad en cuanto a
+relaciones publicas --somos una compañía que ha aprendido a trabajar las
+cosas desde las relaciones públicas", [dijo O'Reilly en
 1999](http://books.google.com/books?id=kIU1scm4w6QC&lpg=PA169&ots=XymvERLdeY&dq=%22So%20part%20of%20the%20agenda%20for%20the%20summit%20was%20hey%2C%20just%20to%20meet%20and%20find%20out%20what%20we%20had%20in%20common.%22&pg=PA169#v=onepage&q&f=false).
-“So part of the agenda for the summit was hey, just to meet and find out
-what we had in common. And the second agenda was really to make a
-statement of some kind \[that\] this was a movement, that all these
-different programs had something in common.”
+"Parte de la agenda de este encuentro cumbre fue solo juntarnos y ver
+qué teníamos en común.  La segunda agenda fue hacer una declaración de
+algún tipo diciendo que esto es un movimiento, que todos estos
+diferentes programas tienen algo en común."
 
+Lo que tenían en común era un desdén por la moralización de Stallman
+--aunque mantuvieron la suficiente para justificar su agenda
+revolucionaria, sobre todo hacia las comunidades hacker que
+tradicionalmente sospechaban de cualquier ansioso por chuparle las
+medias a las grandes corporaciones que aspiraban a dominar la escena
+_open source_.
 
+Al conectar este nuevo movimiento con la historia de Internet y su
+futuro, O'Reilly evitó la mayoría de estas preocupaciones.  No tenía que
+elegir _open source_, la decisión ya había sido tomada.  Mientras todas
+creyeran que _open source_ implicaba Internet y que Internet implicaba
+_open source_, sería muy difícil resistirse al nuevo paradigma.  Como
+O'Reilly --siempre haciendo relaciones públicas-- [escribió en un ensayo
+en el
+2004](http://oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html),
+"siempre me ha desilusionado y desconcertado que la comunidad del _open
+source_ no haya reclamado a la web como uno de sus más grandes exitos
+[...] ¡es un fracaso de las relaciones públicas!"  Para compensar ese
+fracaso, O'Reilly tuvo que establecer alguna relación causal entre los
+dos --los detalles se podían afinar después.
 
-Tomo un monton de trabajo creativo lograr que este paradigma se quede.
-Una tactica comun fue presentar al software como si tuviera una historia
-mucho mas larga, que incluso antedata 1998. Por consiguiente, poco despues
-de la historica reunion cumbre de O'Reilly, Raymon noto que " la reunion cumbre
-fue organizada por O'Reilly & Asociados, una compañia que fue simbiotica
-con el movimiento Open Source por muchos años." Que el termino "open source"
-tenga solo unos pocos meses en el momento que Raymon escribio esto no importo
-demasiado. La historia era algo que brillantes RRPP podian arreglar facilmente.
-"Mientras pensamos en esto, dijimos, Dios!, es tambien una gran oportunidad
-en cuanto a relaciones publicas- somos una compañia que aprendio a trabajar
-los lados RRPP de las cosas"
-[O’Reilly dijo en 1999](http://books.google.com/books?id=kIU1scm4w6QC&lpg=PA169&ots=XymvERLdeY&dq=%22So%20part%20of%20the%20agenda%20for%20the%20summit%20was%20hey%2C%20just%20to%20meet%20and%20find%20out%20what%20we%20had%20in%20common.%22&pg=PA169#v=onepage&q&f=false).
-"Parte de la agenda de este encuentro cumbre fue solo juntarnos y ver que
-teniamos en comun. La segunda agenda fue sobre hacer una declaracion
-de algun tipo de que esto es un movimiento, que todos estos diferentes programas
-tienen algo en comun."
-
-
-
-What they had in common was disdain for Stallman’s moralizing—barely
-enough to justify their revolutionary agenda, especially among the
-hacker crowds who were traditionally suspicious of anyone eager to suck
-up to the big corporations that aspired to dominate the open source
-scene.
-
-Lo que tenian en comun era desdén por Stallman moralizando
-lo suficiente para justificar su agenda revolucionaria, sobre todo
-entre las comunidades hackers que tradicionalmente sospechaban
-de cualquier ansioso por chuparle las medias a las grandes corporaciones
-que aspiran a dominar la escena open source.
-
-By linking this new movement to both the history of the Internet and its
-future, O’Reilly avoided most of those concerns. One didn’t have to
-choose open source, because the choice had already been made. As long as
-everyone believed that “open source” implied “the Internet” and that
-“the Internet” implied “open source,” it would be very hard to resist
-the new paradigm. As O’Reilly—always the PR man—[wrote in a 2004
-essay](http://oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html),
-“It has always baffled and disappointed me that the open source
-community has not claimed the web as one of its greatest success
-stories. . . . That’s a PR failure!” To make up for that failure,
-O’Reilly had to establish some causal relationship between the two—the
-details could be worked out later on.
-
-Conectando este nuevo movimiento a la historia de internet y
-su futuro, O'Reilly evitó la mayoria de estas preocupaciones. Uno
-no tenia que elegir open source, por que la decision ya se habia
-tomado. Mientras todos creyeran que "open source" implicaba
-"internet" y que "internet" implicaba "open source", seria  muy
-dificil de resistirse al nuevo paradigma. Como O'Reilly -siempre el RRPP-
-[Escribio en un ensayo en el 2004](http://oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html),
-"Siempre me ha desilucionado y desconcertado que la comunidad open source
-no haya reclamado a la web como uno de sus mas grandes exitos...
-Eso es un fracaso de RRPP!" Para compensar ese fracaso, O'Reilly
-tuvo que establecer alguna relacion causal entre los dos- los detalles
-se podian trabajar despues
-
-> “Openness” was the kind of multipurpose term that allowed one to look
-> political while advancing an agenda that had very little to do with
-> politics.
-
-> "apertura" (Openness) fue el tipo de termino multiproposito que le
-> permite a uno parecer politico mientras se avanza en una agenda
-> que nada tiene que ver con politica.
-
-
-
-“I think there’s a paradigm shift going on right now, and it’s really
-around both open source and the Internet, and it’s not entirely clear
-which one is the driver and which one is the passenger, but at least
-they are fellow travellers,” he announced in his [*InfoWorld*
-interview](http://www.infoworld.com/d/developer-world/tim-oreilly-software-licenses-dont-work-261).
-Compared to the kind of universal excitement generated by the Internet,
-Stallman’s license-talk was about as exciting as performing Mahler at a
-Jay-Z concert. [As O’Reilly himself
-acknowledged](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
-his “emphasis in talking about open source has never been on the details
-of licenses, but on open source as a foundation and expression of the
-Internet.” When something is touted as both a foundation and an
-expression of something else, the underlying logic could probably
-benefit from more rigor.
-
-
-"Creo que estamos atravesando un cambio de paradigma, y se trata tanto
-del open source como de Internet, y no esta totalmente claro cual es el
-conductor y cual el pasajero, pero almenos son compañeros de viaje"
-el anuncio en su  [entrevista en *InfoWorld*](http://www.infoworld.com/d/developer-world/tim-oreilly-software-licenses-dont-work-261).
-Comparado con e tpo de exitacion universal generada por internet,
-las charlas sobre licencias de Stallman eran tan exitantes como interpretar
-Mahler en un recital de Jay-Z. [Como  O’Reilly mismo reconocio](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
-su "enfasis en hablar sobre open source nunca estuvo en los detalles de las
-licencias, sino en open source como los cimientos y la expresión de internet."
-Cuando algo es promocionado tanto como un cimiento como la expresión de
-algo mas, la logica subyacente a esa idea podria beneficiarse de
-un poco mas de rigor.
+"Creo que estamos atravesando un cambio de paradigma involucrando tanto
+al _open source_ como a Internet y no está totalmente claro cual es el
+conductor y cual el pasajero, pero al menos son compañeros de viaje"
+anunció en una [entrevista en
+_InfoWorld_](http://www.infoworld.com/d/developer-world/tim-oreilly-software-licenses-dont-work-261).
+Comparado con el tipo de excitación universal generada por Internet, las
+charlas sobre licencias de Stallman eran tan excitantes como interpretar
+Mahler en un recital de Jay-Z.  [Como O'Reilly mismo
+reconoció](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
+su "enfásis en hablar sobre _open source_ nunca estuvo en los detalles
+de las licencias, sino en el _open source_ como cimiento y expresión de
+Internet".  Cuando algo es promocionado tanto como cimiento y expresión
+de algo más, la lógica subyacente a esa idea podría beneficiarse de un
+poco más de rigor.
 
 
 
