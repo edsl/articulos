@@ -16,7 +16,7 @@ El buscamemes
 > Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso del
 > autor.
 
-Mientras las mentes más brillantes de Silicon Valley
+Mientras las mentes más brillantes de _Silicon Valley_
 "desbaratan"[^disrupt] cualquier industria demasiado débil para
 pararlas, algo raro está ocurriendo con nuestro lenguaje.  Las viejas,
 confiables palabras ya no significan lo que otrora;  a menudo no
@@ -91,32 +91,6 @@ su actividad pública-- a través de un [fondo de
 riesgo](http://oatv.com/) que, como todas las cosas O'Reilly, lleva
 su propio nombre.
 
-[^author]: In researching this essay, I tried to read all of O’Reilly’s
-published writings: blog posts, essays, tweets. I read many of his
-interviews and pored over the comments he left on blogs and news sites.
-I watched all his talks on YouTube. But I decided against interviewing
-him. First of all, I don’t believe in interviewing spin doctors: the
-interviewer learns nothing new while the interviewee gets an
-extraordinary opportunity to spin the story even before it’s published.
-Second, my goal in writing this essay was not to profile O’Reilly. Of
-course, I could have told you all about the wonderful jams—plum,
-blackberry, raspberry, peach—that he likes to make in his spare time. I
-left out such trivia on purpose, as my main interest has been O’Reilly
-the thinker, not O’Reilly the human being. Serious thinkers can be
-judged by their published output alone. Third, the only two emails that
-I ever received from him hinted at his penchant for heavy-handed
-manipulation of the media. The first email arrived long before I started
-working on this essay. It was a complaint about something I had written
-about him in the past, a throwaway line in a long essay—a complaint I
-believe to be without merit. The second email came right after I
-finished writing the first draft, which, by coincidence, happened to be
-on the very day that O’Reilly and I had a brief but feisty exchange on
-Twitter (he initiated it). In that second email, he offered to explain
-all his positions to me face to face—an opportunity I turned down,
-having just spent three months of my life reading his tweets, blog
-posts, and essays. That said, I have no doubt that everything in this
-essay will be meme-engineered against me.
-
 [^autor]: Al hacer investigación para este ensayo, intenté leer todas
 las publicaciones de O'Reilly: artículos en su blog, ensayos, _tweets_.
 He leído muchas de sus entrevistas y comentarios que ha dejado en blogs
@@ -126,7 +100,7 @@ doctors_: la entrevistadora no aprende nada nuevo mientras la
 entrevistada obtiene una oportunidad extraordinaria para darle un giro
 \[spin\] a la historia incluso antes de ser publicada.  En segundo
 lugar, mi objetivo al escribir este ensayo no era hacer un perfil de
-O'Reilly.  Por supuerto, podría contar sobre las maravillosas mermeladas
+O'Reilly.  Por supuesto, podría contar sobre las maravillosas mermeladas
 que hace en su tiempo libre --ciruela, frutos rojos, durazno.  Dejé
 fuera estas cosas a propósito, porque mi interés principal es O'Reilly
 como pensador, no como ser humano.  Las pensadoras serias pueden ser
@@ -552,11 +526,11 @@ libre como el paradigma actual.  Seguramente hubo excepciones --como la
 comunidad altamente política y legalista que trabaja en _Debian_, otro
 sistema operativo-- pero fueron las que probaron la regla.
 
-[^nube]: De hecho lo fueron, ver por ejemplo "[Libertad en la nube,
+[^nube]: De hecho lo fueron, ver por ejemplo "Libertad en la nube,
 Libertad del Software, Privacidad y Seguridad para la Web 2.0 y
-Computación en la
-Nube](https://endefensadelsl.org/libertad_en_la_nube.html)" de Eben
-Moglen (nota de la traducción).
+Computación en la Nube" de Eben Moglen
+<https://endefensadelsl.org/libertad_en_la_nube.html> (nota de la
+traducción).
 
 Para maximizar el atractivo y la legitimidad de este nuevo paradigma,
 O'Reilly tuvo que establecer el _open source_ como antecesor del
@@ -673,126 +647,64 @@ Internet".  Cuando algo es promocionado tanto como cimiento y expresión
 de algo más, la lógica subyacente a esa idea podría beneficiarse de un
 poco más de rigor.
 
+Contar una historia coherente sobre el _open source_ requirió encontrar
+una lógica interna a la historia de Internet.  O'Reilly estaba listo
+para esta tarea.  "Si me creen cuando digo que _open source_ se trata
+sobre la colaboración permitida por Internet, en lugar de un estilo
+particular de licenciamiento de software" [decía en el
+2000](http://oreilly.com/tim/articles/paradigmshift_0504.html), "van  a
+ver los hilos que atan no solo proyectos _open source_ tradicionales,
+sino tambien projectos colaborativos de redes computacionales como
+_SETI@Home_, las críticas de usuarios en _Amazon.com_, las tecnologías
+como el filtrado colaborativo, nuevas ideas sobre marketing como esas
+expuestas en _The Cluetrain Manifesto_, weblogs y la forma en que los
+foros de Internet pueden mover el mercado de valores".  En otras
+palabras, todo en Internet estaba conectado con todo lo demás, vía el
+_open source_.
 
+Como lo veía O'Reilly, muchos de los principales desarrollos de la
+cultura de Internet estaban motivados por lo que llamó "comportamiento
+_open source_", aun si esos comportamientos no estaban codificados en
+licencias.  Por ejemplo, el hecho de poder ver el código fuente de una
+página web en el navegador, que poco tiene que ver con el software _open
+source_, era para él parte del mismo espíritu de "apertura" que veía en
+acción en Internet.  Ninguna moralización (ni hablar de legislación) era
+necesaria; Internet ya vivía y respiraba _open source_.  Lo que no dijo
+es que, por supuesto, no tenía que ser así por siempre.  Ahora que las
+aplicaciones están desplazando a los navegadores, la "apertura" que
+dábamos por sentada no existe más --contingencia que las licencias y la
+ética podrían haber prevenido fácilmente.  La "apertura" como un
+accidente de las condiciones de mercado es un animal muy diferente que
+la apertura como producto de una garantía legal.
 
-Telling a coherent story about open source required finding some inner
-logic to the history of the Internet. O’Reilly was up to the task. “If
-you believe me that open source is about Internet-enabled collaboration,
-rather than just about a particular style of software license,” [he said
-in 2000](http://oreilly.com/tim/articles/paradigmshift_0504.html),
-“you’ll see the threads that tie together not just traditional open
-source projects, but also collaborative ‘computing grid’ projects like
-SETIAtHome, user reviews on Amazon.com, technologies like collaborative
-filtering, new ideas about marketing such as those expressed in *The
-Cluetrain Manifesto*, weblogs, and the way that Internet message boards
-can now move the stock market.” In other words, everything on the
-Internet was connected to everything else—via open source.
+Una de las consecuencias principales de vincular Internet con el mundo
+del _open source_ fue establecer la primacía de Internet como el nuevo y
+reinventado escritorio --como la más grande, incluso la máxima,
+plataforma para alojar servicios y aplicaciones de terceros.  Acá es
+donde el ahora olvidado lenguaje de "libertad" re-aparece, dado que era
+importante garantizar que los randianos y heroicos hackers-emprendedores
+de O'Reilly pudieran transitar libremente.  Pronto esta "libertad para
+innovar" se transformó en "libertad de Internet" donde lo que estamos
+tratando de preservar es el potencial innovativo de la plataforma, sin
+importar el efecto en las usuarias individuales.
 
-Contar una historia coherente sobre open source requiere encontrar
-una logica interna a la historia de internet. O'Reilly estaba listo
-para esta tarea. "Si me creen que open source se trata sobre colaboracion
-permitida gracias a internet, en lugar de solo un estilo particular
-de licencias de software"[el dijo en el 2000](http://oreilly.com/tim/articles/paradigmshift_0504.html),
-"Van  a ver los hilos que atan no solo proyectos open source
-tradicionales, sino tambien projectos colaborativos de redes
-computacionales como "SETIAtHome", criticas de usuarios en Amazon.com,
-tecnologias como filtrado colaborativo, nuevas ideas sobre marketing
-como esas expuestas en "The Cluetrain Manifesto", weblogs, y como
-foros en internet pueden muever el mercado de acciones." En otras
-palabras, todo en Internet estaba conectado con todo lo demas,
-via open source.
+Stallman tenía una oferta mucho más precisa y revolucionaria: una forma
+de pensar acerca de las libertades de las usuarias individuales en
+contextos específicos, como si el bienestar de la mega-plataforma fuera
+secundario.  Pero esa visión nunca ocurrió.  En su lugar, la militancia
+pública fue canalizada hacia preservar una configuración abstracta y
+reificada de las tecnologías digitales --"la Internet"-- de manera que
+_Silicon Valley_ pudiera continuar haciendo dinero aspirando nuestra
+información privada.
 
-
-
-
-
-The way O’Reilly saw it, many of the key developments of Internet
-culture were already driven by what he called “open source behavior,”
-even if such behavior was not codified in licenses. For example, the
-fact that one could view the source code of a webpage right in one’s
-browser has little to do with open source software, but it was part of
-the same “openness” spirit that O’Reilly saw at work in the Internet. No
-moralizing (let alone legislation) was needed; the Internet already
-lived and breathed open source. What O’Reilly didn’t say is that, of
-course, it didn’t have to be this way forever. Now that apps might be
-displacing the browser, the openness once taken for granted is no more—a
-contingency that licenses and morals could have easily prevented.
-Openness as a happenstance of market conditions is a very different
-beast from openness as a guaranteed product of laws.
-
-De la forma en que O'Reilly lo vio, muchas de los principales
-desarrollos en la cultura de internet fueron motivados por
-lo que el llamo "conductas open source" incluso si estas conductas
-no estuvieran codificadas en licencias. Por ejemplo, el hecho de que
-uno podia ver el codigo fuente de una pagina web en el navegador, tiene
-poco que ver con software open source, pero era parte del mismo espiritu de
-"apertura"  que O'Reilly vio en trabajo en Internet. Ninguna moralizacion
-(ni hablar de legislacion) era necesaria; Internet ya vivia y respiraba
-open source. Lo que O'Reilly no dijo es que, por supuesto, no tenia
-que ser asi para siempre. Ahora que las aplicaciones estan desplazando
-a los navegadores, la "apertura" que dabamos por sentada no esta mas-
-una contingencia que licencias y moral podrian haber prevenido
-facilmente.- la "apertura" como un accidente de las condiciones
-de mercado es una bestia muy diferente que la apertura como un producto
-garantizado por leyes.
-
-
-One of the key consequences of linking the Internet to the world of open
-source was to establish the primacy of the Internet as the new,
-reinvented desktop—as the greatest, and perhaps ultimate, platform—for
-hosting third-party services and applications. This is where the
-now-forgotten language of “freedom” made a comeback, since it was
-important to ensure that O’Reilly’s heroic Randian hacker-entrepreneurs
-were allowed to roam freely. Soon this “freedom to innovate” morphed
-into “Internet freedom,” so that what we are trying to preserve is the
-innovative potential of the platform, regardless of the effects on
-individual users.
-
-Una de las consecuencias principales de conecar internet con el mundo
-open source fue establecer la prioridad de internet como el nuevo y
-reinventado escritorio - como la mas grande, inlcuso la máxima plataforma
-para alojar servicios y aplicaciones de terceros. Acá es donde el ahora
-olvidado lenguaje de "libertad" reaparece, dado que era importante
-garantizar que los randianos y heroicos hackers-emprendedores de O'Reilly
-pudieran deambular libremente. Pronto está "libertad para innovar" se
-transformo en "libertad de internet" por lo que lo qu eestamos tratando
-de preservar es el potencial innovativo de la plataforma, sin importar
-el efecto en los usuarios individuales.
-
-Stallman had on offer something far more precise and revolutionary: a
-way to think about the freedoms of individual users in specific
-contexts, as if the well-being of the mega-platform were of secondary
-importance. But that vision never came to pass. Instead, public advocacy
-efforts were channeled into preserving an abstract and reified
-configuration of digital technologies—“the Internet”—so that Silicon
-Valley could continue making money by hoovering up our private data.
-
-Stallman tenia una oferta un poco mas precisa y revolucionaria: una forma
-de pensar acerca de las libertades de los usuarios individuales en contextos
-especificos, como si el bienestar de la mega-plataforma fuera secundario.
-Pero  esa visión nunca ocurrio. En su lugar, esfuerzos de apoyo publico
-fueron conducidos hacia preservar una configuracion abstracta y reifiada de
-tecnologias digitales -"La Internet"-de manera que Sillicon Valley pudiera
-continuar haciendo dinero aspirando nuestra informacion privada.
-
-
-Lumping everything under the label of “Internet freedom” did have some
-advantages for those genuinely interested in promoting rights such as
-freedom of expression—the religious fervor that many users feel about
-the Internet has helped catalyze a lot of activist campaigns—but, by and
-large, the concept also blunted our analytical ability to balance rights
-against each other. Forced to choose between preserving the freedom of
-the Internet or that of its users, we were supposed to choose the
-former—because “the Internet” stood for progress and enlightenment.
-
-Apostar todo en la etiqueta de "Libertad de Internet" tuvo sus ventajas
-para aquellos genuinamente interesados en promover derechos como
-libertad de expresión -el fervor religioso que muchos usuarios tienen
-acerca de internet ayudo a catalizar muchas campañas activistas- pero,
-el concepto tambien mitigo nuestra habilidad analitica de balancear
-derechos entre ellos. Forzados a decidir entre preservar la libertad
-de internet o aquella de sus usuarios, supuestamente tuvimos que elegir
-la ultima- por que "Internet" significa progreso e iluminacion.
+Amontonar todo en la etiqueta "libertad de Internet" tuvo sus ventajas
+para aquellas genuinamente interesadas en promover derechos como la
+libertad de expresión --el fervor religioso que muchas usuarias tienen
+acerca de Internet ayudó a catalizar muchas campañas activistas-- pero
+el concepto también despuntó nuestra habilidad analítica para lograr un
+balance de derechos.  Forzadas a decidir entre preservar la libertad de
+Internet o la de sus usuarias, se esperaba que eligiéramos la última
+--porque "la Internet" significa progreso e iluminación.
 
 
 <span class="dropcap">I</span>n the late 1990s, O’Reilly began
@@ -810,21 +722,20 @@ its essential component, O’Reilly sought to reassure those who hadn’t
 joined the movement of their pivotal role in the future of computing, if
 not all human progress.
 
-
-<span class="dropcap">A</span> finales de los '90, O’Reilly comenzo
-a celebrar “infoware” como la proxima[gran cosa](http://oreilly.com/catalog/opensources/book/tim.html)
-despues de "hardware" y "software". Su premisa fue que las compañias
-de Internet como Yahoo y E-trade no estaban en el negocio del software
-si no que en el negocio de "infoware". Su funcionalidad era basante
-basica -Permiten a los clientes comprar o mirar algo en un mapa- por
-lo que su propuesta de valor yace en en la informacion que entregan,
-no en las funciones del software que ejecutan. Todos esos sofisticados
-servicios de internet que hacen posible que exista "infoware" fueron
-pegados entre ellos con software open source. Mostrando que infoware
-era el futuro y que el software open source era su componente esencial,
-O'Reilly buscó reasegurar a aquellos que todavia no se habian sumado
-al movimiento  su rol pivotal en el futuro de la computacion, incluso
-de todo el progreso humano.
+A finales de los '90, O’Reilly comenzo a celebrar “infoware” como la
+proxima[gran cosa](http://oreilly.com/catalog/opensources/book/tim.html)
+despues de "hardware" y "software". Su premisa fue que las compañias de
+Internet como Yahoo y E-trade no estaban en el negocio del software si
+no que en el negocio de "infoware". Su funcionalidad era basante basica
+-Permiten a los clientes comprar o mirar algo en un mapa- por lo que su
+propuesta de valor yace en en la informacion que entregan, no en las
+funciones del software que ejecutan. Todos esos sofisticados servicios
+de internet que hacen posible que exista "infoware" fueron pegados entre
+ellos con software open source. Mostrando que infoware era el futuro y
+que el software open source era su componente esencial, O'Reilly buscó
+reasegurar a aquellos que todavia no se habian sumado al movimiento  su
+rol pivotal en el futuro de la computacion, incluso de todo el progreso
+humano.
 
 
 
