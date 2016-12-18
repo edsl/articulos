@@ -706,557 +706,269 @@ balance de derechos.  Forzadas a decidir entre preservar la libertad de
 Internet o la de sus usuarias, se esperaba que eligiéramos la última
 --porque "la Internet" significa progreso e iluminación.
 
+A finales de los '90, O’Reilly comenzó a celebrar el "infoware" como la
+próxima [gran
+cosa](http://oreilly.com/catalog/opensources/book/tim.html) después del
+"hardware" y el "software".  La premisa era que las compañías de
+Internet como _Yahoo!_ y _E-Trade_ no estaban en el negocio del software
+sino en el del "infoware".  Su funcionalidad era bastante básica
+--permiten a clientes comprar o buscar algo en un mapa-- por lo que la
+propuesta de valor yace en la información que entregan, no en las
+funciones del software que ejecutan.  Todos esos sofisticados servicios
+de Internet que hacen posible que exista el _infoware_ estaban armados
+en base a software _open source_.  Al mostrar que el _infoware_ era el
+futuro y que el software _open source_ era su componente esencial,
+O'Reilly buscaba re-asegurar a aquellas que todavía no se habían sumado
+al movimiento del rol bisagra que tenía para el futuro de la
+computación, o aun de todo el progreso humano.
 
-<span class="dropcap">I</span>n the late 1990s, O’Reilly began
-celebrating “infoware” as the[next big
-thing](http://oreilly.com/catalog/opensources/book/tim.html) after
-“hardware” and “software.” His premise was that Internet companies such
-as Yahoo and E-Trade were not in the software business but in the
-infoware business. Their functionality was pretty basic—they allowed
-customers to make purchases or look up something on a map—so their value
-proposition lay in the information they delivered, not in the software
-function they executed. And all those fancy Internet services that made
-infoware possible were patched together with open source software. By
-showing that infoware was the future and that open source software was
-its essential component, O’Reilly sought to reassure those who hadn’t
-joined the movement of their pivotal role in the future of computing, if
-not all human progress.
+El _infoware_ no se volvió popular, por lo que O'Reilly se volvió hacia
+el trabajo de Douglas Engelbart, el inventor idiosincrático que nos dió
+el _mouse_ y el hipertexto, para argumentar que Internet podría ayudar a
+la humanidad a aumentar su "inteligencia colectiva" y que una vez más el
+software _open source_ era crucial para lograrlo.  Ahora se trataba de
+_Amazon_ aprendiendo de sus clientes y de _Google_ aprendiendo de sus
+sitios en su índice.  La idea de que Internet es tanto un repositorio
+como una incubadora de "inteligencia colectiva" fue bastante atractiva
+para _Silicon Valley_, en particular porque intervino la retórica _New
+Age_ de los '70, pero la crisis de las _puntocom_ forzó rápidamente a
+O'Reilly a suspender su filosofar.  Cuando la burbuja tecnológica
+explotó, la demanda por manuales y conferencias (la mayor parte de su
+negocio) se encogió, mientras que también tuvo que lidiar con
+desagradables litigios relacionados con su sede central en Sebastopol,
+California.  Despidió a un cuarto del personal y la situación parecía
+bastante terrible.
 
-A finales de los '90, O’Reilly comenzo a celebrar “infoware” como la
-proxima[gran cosa](http://oreilly.com/catalog/opensources/book/tim.html)
-despues de "hardware" y "software". Su premisa fue que las compañias de
-Internet como Yahoo y E-trade no estaban en el negocio del software si
-no que en el negocio de "infoware". Su funcionalidad era basante basica
--Permiten a los clientes comprar o mirar algo en un mapa- por lo que su
-propuesta de valor yace en en la informacion que entregan, no en las
-funciones del software que ejecutan. Todos esos sofisticados servicios
-de internet que hacen posible que exista "infoware" fueron pegados entre
-ellos con software open source. Mostrando que infoware era el futuro y
-que el software open source era su componente esencial, O'Reilly buscó
-reasegurar a aquellos que todavia no se habian sumado al movimiento  su
-rol pivotal en el futuro de la computacion, incluso de todo el progreso
-humano.
-
-
-
-The “infoware” buzzword didn’t catch on, so O’Reilly turned to the work
-of Douglas Engelbart, the idiosyncratic inventor who gave us the
-computer mouse and hypertext, to argue that the Internet could help
-humanity augment its “collective intelligence” and that, once again,
-open source software was crucial to this endeavor. Now it was all about
-Amazon learning from its customers and Google learning from the sites in
-its index. The idea of the Internet as both a repository and incubator
-of “collective intelligence” was very appealing to Silicon Valley, not
-least because it tapped into the New Age rhetoric of the 1970s, but the
-dotcom crash briefly forced O’Reilly to put his philosophizing on hold.
-When the tech bubble burst, the demand for manuals and conferences—the
-bulk of O’Reilly’s business—shrank, while he also had to deal with some
-unpleasant litigation concerning his office headquarters in Sebastopol,
-California. He fired a quarter of his staff, and things looked pretty
-dire.
-
-
-El "infoware" no se volvio popular, por ende O'Reilly giró hacia el
-trabajo de Douglas Engelbart, el inventor idiosincrásico que nos dio
-el mouse y el hipertexto, para argumentar que Internet podria ayudar
-a la humanidad a aumentar su "inteligencia colectiva"y que, una vez
-mas el software opensource era crucial para lograr esto. Ahora en realidad
-tenia que ver con Amazon aprendiendo de sus clientes y Google aprendiendo
-de sus sitios en su índice. La idea de que Internet es tanto un repositorio
-como un incubador de "inteligencia colectiva" fue bastante atractiva para
-Silicon Valley, en particular por que intervinó en la retórica New Age
-de los 70, pero el fallo putocom forzó momentaneamente a O'Reilly a
-suspender su filosofeo momentaneamente. Cuando la burbuja tecnológica
-exploto, la demanda por manuales y conferencias (La mayor parte del
-negocio de O'Reilly) se achicó, mientras que O'Reily tambien tuvo que
-lidiar con desagradables litigaciones relacionadas con la sede central
-de sus oficinas en Sebastopol,California. Despidió a un cuarto de
-su personal, y la situacion parecia bastante seria.
-
-[![b22\_fisher6\_godsofinternet\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher6_godsofinternet_308.png)](http://www.marksfisher.com/)Thus,
-a high-profile conference was born, aimed explicitly at helping VIPs in
-the Valley “see the shape of the future,” to be followed by many others.
-O’Reilly soon [expanded on the idea of Web
-2.0](http://gossgrove.com/sites/default/files/web2009_websquared-whitepaper.pdf)
-in an essay that he coauthored with writer and entrepreneur John
-Battelle. O’Reilly couldn’t improve on a concept as sexy as “collective
-intelligence,” so he kept it as the defining feature of this new
-phenomenon. What set Web 2.0 apart from Web 1.0, O’Reilly claimed, was
-the simple fact that those firms that didn’t embrace it went bust. All
-Silicon Valley companies should heed the lesson of those few who
-survived: they must find a way to harness collective intelligence and
-make it part of their business model. They must become true carriers of
-the Web 2.0 spirit.Then, in 2004, O’Reilly and his business partner Dale
-Dougherty hit on the idea of “Web 2.0.” What did “2.0” mean, exactly?
-There was some theoretical ambition to this label—more about that later
-on—but the primary goal was to show that the 2001 market crash did not
-mean the end of the web and that it was time to put the crash behind us
-and start learning from those who survived. Given how much rhetorical
-capital had been spent on linking the idea of the web with that of open
-source, the end of the web would also mean the end of so many other
-concepts. Tactically, “Web 2.0” could also be much bigger than “open
-source”; it was the kind of sexy umbrella term that could allow O’Reilly
-to branch out from boring and highly technical subjects to
-pulse-quickening futurology. “We normally have lots of technical talks
-focusing on how to use new software, building our conferences for the
-hackers who are inventing the future, and the early adopters who are
-taking their work to the next stage,” O’Reilly wrote in a [blog
-post](http://www.oreillynet.com/pub/wlg/5466) announcing his very first
-Web 2.0 conference. “In contrast, Web 2.0 is our first ‘executive
-conference’—a conference aimed at business people, with the focus on the
-big picture.”
-
-[![b22\_fisher6\_godsofinternet\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher6_godsofinternet_308.png)](http://www.marksfisher.com/)De aqui,
-el nacimiento de una notoria conferencia, dirigida explicitamente
-a ayudar a VIPs del valle (Silicon Valley) a ver "la forma del futuro"
-a ser seguida por muchos otros.
-Pronto O'Reilly [se expandio en la idea de internet](http://gossgrove.com
-/sites/default/files/web2009_websquared-whitepaper.pdf)
-en una redacción que coautorió con John Battelle otro escritor emprendedor.
-O'Reilly  no pudo mejorar un concepto tan sensual como "inteligencia colectiva"
-asi que lo mantuvo como la caracteristica que define este nuevo fenomeno.
-Lo que diferencia a la Web 2.0 de la Web 1.0 segun O'Reilly, fue el
-simple hecho que aquellas firmas que no acogieron la Web 2.0 quebraron.
-Todas las compañias de Silicon Valley deberian escuchar a aquellas
-pocas que sobrevivieron: tienen que encontrar la manera de emplear la
-inteligencia colectiva y hacerla parte de su modelo de negocios. Tienen
-que volverse verdaderos portadores del espiritu de la Web 2.0.
-Luego, en el 2004, O'Reilly y Dale Dougherty su compañero de negocios
-se golpearon con la idea de "Web 2.0". ¿Que es lo que "2.0" significaba,
-exactamente? Habia una ambición teórica con esta etiqueta - mas sobre esto
-despues - pero el principal objetivo era mostrar que el colapso del mercado
-en el 2001 no significo el fin de internet y que era el tiempo de dejar
-el colapso detras nuestro y comenzar a aprender de esos que sobrevivieron.
-Debido a la gran cantidad de capital retorico que se habia puesto
-en vincular la idea de la web con la de "open source", el fin de la web
-significaria tambien el fin de muchos otros conceptos. Tácticamente,
-"Web 2.0" podria ser mucho mas grande que "open source"; fue el tipo de
-término abarcativo y bonito que podria permitirle a O'Reilly diversificarse
-y expandirse de temas y extremadamente tecnicos y aburridos a futurologia
-acelera pulsos. "Normalmente tenemos muchisimas charlas tecnicas enfocadas
-en como usar software nuevo, construyendo nuestras conferencias para los
-hackers que estan inventando el futuro, y las personas que adoptaron al inicio
-estan llevando su trabajo al siguiente nivel" Esto escribio O'Reilly en su
+Así nació una conferencia de alta perfil, dirigida explícitamente a
+ayudar a los VIPs de _Silicon Valley_ a "ver la forma que tendrá el
+futuro".  Pronto O'Reilly [expandía la idea de la _web
+2.0_](http://gossgrove.com/sites/default/files/web2009_websquared-whitepaper.pdf)
+en un ensayo en coautoría con John Battelle, otro escritor y
+emprendedor.  O'Reilly  no pudo mejorar un concepto tan sensual como
+"inteligencia colectiva" así que lo mantuvo como la característica que
+define este nuevo fenómeno.  Lo que diferencia a la _Web 2.0_ de la _Web
+1.0_ según O'Reilly, fue el simple hecho que aquellas firmas que no
+abrazaron la primera terminaron quebrando.  Todas las compañias de
+_Silicon Valley_ deberían aprender la lección que dan las pocas que
+sobrevivieron: tienen que encontrar la manera de aprovechar la
+inteligencia colectiva y hacerla parte de su modelo de negocios.  Deben
+convertirse en verdaderos portadores del espíritu de la _Web 2.0_.
+Luego, en el 2004, O'Reilly y Dale Dougherty, su compañero de negocios,
+se dieron con la idea de "Web 2.0".  ¿Qué es lo que significa "2.0",
+exactamente?  Esta etiqueta tenía una ambición teórica --más sobre esto
+después-- pero el principal objetivo era mostrar que el colapso del
+mercado en el 2001 no significó el fin de la Web y que era el tiempo de
+dejar el colapso atrás y comenzar a aprender de los que lo
+sobrevivieron.  Debido a la gran cantidad de capital retórico que se
+había puesto en vincular la idea de la web con la del _open source_, el
+fin de la web significaría también el fin de muchos otros conceptos.
+Tácticamente, la _Web 2.0_ podría ser mucho más grande que el _open
+source_; fue el tipo de término abarcativo y sexy que podría permitirle
+a O'Reilly diversificarse de temas extremadamente técnicos y aburridos
+hacia la futurología acelerapulsos.  "Normalmente tenemos muchísimas
+charlas técnicas enfocadas en cómo usar software nuevo, construyendo
+nuestras conferencias para los hackers que están inventando el futuro y
+los _early adopters_[^early] que están llevando su trabajo al siguiente
+nivel" escribía O'Reilly en su
 [blog](http://www.oreillynet.com/pub/wlg/5466) anunciando su primer
-conferencia Web 2.0. "En contraste, Web 2.0 es nuestra primer 'conferencia
-ejecutiva' una conferencia orientada a gente de negocios, enfocada en
-el panorama general"
+conferencia _Web 2.0_.  "En contraste, _Web 2.0_ es nuestra primera
+'conferencia ejecutiva' --una conferencia orientada a gente de negocios,
+con el foco puesto en el panorama general."
 
+[^early]: Algo así como "adoptante temprana", es un término que se usa
+para nombrar a las personas que les gusta probar nuevas tecnologías y
+que por lo tanto son las primeras en recomendarlas (nota de la
+traducción).
 
-O’Reilly’s explanation of the crash is curious. First of all, some tech
-companies that did go under (Global Crossing comes to mind) couldn’t
-harness collective intelligence, as they were in the telecommunications
-business. Most memorable dotcom failures—cases like Pets.com—went under
-because they were driven by foolish business models and overly exuberant
-investors. (Pets.com would have made an even worse proposition if it had
-followed O’Reilly’s playbook and become a Web 2.0 company.) Furthermore,
-companies that didn’t follow the Web 2.0 mantra—like Barnes & Noble,
-which O’Reilly singled out as a company that, unlike Amazon, wasn’t
-learning from collective intelligence—didn’t go under at all.
+La explicación que da O'Reilly del colapso es curiosa.  Antes que nada,
+algunas de las compañías tecnológicas que se fueron en picada (se me
+ocurre _Global Crossing_) no podían emplear la inteligencia colectiva,
+porque estaban en el negocio de las telecomunicaciones.  La mayoría de
+los fracasos memorables de las _puntocom_ --casos como _Pets.com_-- se
+fueron en picada porque estaban manejados por modelos de mercado
+estúpidos e inversores excesivamente exhorbitantes. (_Pets.com_ hubiera
+tenido una propuesta aun peor si hubiera seguido el manual de O'Reilly y
+se hubiera convertido en una compañía de la _Web 2.0_.)  Además,
+compañías que no siguieron el mantra de la _Web 2.0_ --como _Barnes \&
+Noble_, que O'Reilly ejemplificó como una compañía que a diferencia de
+_Amazon_, no estaba aprendiendo de la inteligencia colectiva --no
+quebraron.
 
+Para el 2007 O'Reilly [admitía sin
+problemas](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
+que "_Web 2.0_ fue un nombre bastante berreta para lo que está pasando."
+En el 2004, sin embargo, parecía tomárselo muy en serio, promoviendo
+este concepto a diestra y siniestra.  La etiqueta prendió; como el _open
+source_ era ambigua y lo suficientemente amplia como para permitir
+muchísimos usos alternativos e interpretaciones.  Los socios de O'Reilly
+con quienes organizó la conferencia registraron la marca _Web 2.0_, pero
+esta noticia no fue bien recibida por sus compañeros de viaje (un
+esfuerzo similar por registrar "open source" como marca de la _Open
+Source Initiative_ no prosperó). Una vez que _Web 2.0_ se estableció
+como una referencia cultural, O'Reilly podía aventurarse fuera de
+_Silicon Valley_ y establecer su relevancia en otras industrias.  Como
+el software _open source_ dio nacimiento a las "políticas _open source_"
+y la "ciencia _open source_" también la _Web 2.0_ expandió su imperio
+terminológico.  O'Reilly eventualmente puso la etiqueta "2.0" atrás de
+todo lo que se acomodara a su plan de negocios, organizando eventos como
+_Gov 2.0_ y _Where 2.0_.  Hoy, cuando todos compraron el paradigma 2.0,
+O'Reilly esta abandonándolo silenciosamente.  El año pasado su
+conferencia _Where 2.0_ sobre geolocalizacion fue renombrada como
+_Where_.  Lo excepcional se convirtió en lo normal.
 
+Clasificar las alrededor de seis mil publicaciones académicas que citan
+el ensayo de  O'Reilly sobre la _Web 2.0_ no es tarea fácil.  Pareciera
+que cualquiera que quisiese declarar que una revolución estaba en marcha
+dentro de su propia disciplina lo hacía simplemente invocando la idea de
+la _Web 2.0_ en su propio trabajo:
 
-La explicacion del colapso de O'Reily es curiosa. Antes que nada, algunas
-de las compañias tecnologicas que se fueron en picada (se me ocurre Global
-Crossing) no pudieron emplear la inteligencia colectiva, por que estaban
-en el mercado de las telecomunicaciones. La mayoria de los fracasos memorables
-de las punto com(.com) - casos como Pets.com- se fueron en picada  por que
-estaban impulsados por  modelos de mercado estúpidos e inversores
-excesivamente eufóricos. ( Pets.com hubiera hecho una propuesta aun peor
-si hubiera seguido el manual estrategico de O'Reilly y se hubiera convertido
-en una Web 2.0) Ademas, compañias que no siguieron el mantra Web 2.0 - Como
-Barnes & Noble, que O'Reilly excluyo como una compañia que, a diferencia
-de Amazon, no estaba aprendiendo de la  inteligencia colectiva- no cayeron
-para nada en picada.
+* [Desarrollo 2.0](https://scholar.sun.ac.za/handle/10019.1/4226);
+* [Enfermería 2.0](http://nlnjournals.org/doi/pdf/10.1043/1536-5026-030.001.0048);
+* [Humanidades 2.0](http://inderscience.metapress.com/index/R765271R63403430.pdf);
+* [Protestas 2.0](http://mcs.sagepub.com/content/33/6/923.short);
+* [Música 2.0](http://www.ingentaconnect.com/content/intellect/jmte/2008/00000001/F0020002/art00004);
+* [Investigación 2.0](http://usir.salford.ac.uk/id/eprint/14628);
+* [Biblioteca 2.0](http://www.tandfonline.com/doi/abs/10.1300/J115v26S01_02);
+* [Desastres 2.0](http://www.iscramlive.org/ISCRAM2009/papers/Contributions/130_Disasters2.0-Application%20of%20Web2.0%20technologies_Camarero2009.pdf);
+* [Seguridad vial 2.0](https://domino.fov.uni-mb.si/proceedings.nsf/0/76115a8601158a71c1257757003bd6d6/$FILE/20_Fink.pdf);
+* [Identidad 2.0](http://operi.us/pdftribute/pdfs/helmond_identity20_dmiconference.pdf);
+* [Manejo del estrés 2.0](http://su.diva-portal.org/smash/record.jsf?pid=diva2:386481);
+* [Arqueología 2.0](http://dl.acm.org/citation.cfm?id=2161947);
+* [Crimen 2.0](http://champpenal.revues.org/7782);
+* [Pornografía 2.0](http://igitur-archive.library.uu.nl/student-theses/2010-0111-200145/UUindex.html);
+* [Amor 2.0](http://www.palgrave-journals.com/dddmp/journal/v9/n3/full/4350103a.html);
+* [Wittgenstein 2.0](http://books.google.com/books?hl=en&lr=&id=Y_mCcY7b_uUC&oi=fnd&pg=PA153&dq=Wittgenstein+2.0+&ots=FjMzz_ZuKT&sig=AQ0diiYu3gaweQw6lyej5TglyDM#v=onepage&q=Wittgenstein%202.0&f=false);
 
+Lo que une a la mayoría de estas publicaciones es la suposición de fondo
+que gracias a la llegada de la _Web 2.0_, estamos viviendo
+circunstancias históricas únicas.  Excepto que no hubo ninguna llegada
+de la _Web 2.0_ --era solo una forma de vender conferencias sobre
+tecnología a un público seriamente quemado por el colapso de las
+_puntocom_.  Por qué alguien lidiando con manejo del estrés o
+Wittgenstein se conmovería por la logística de la organización de
+conferencias es un misterio.
 
-
-
-By 2007, O’Reilly [readily
-admitted](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
-that “Web 2.0 was a pretty crappy name for what’s happening.” Back in
-2004, however, he seemed pretty serious, promoting this concept left and
-right. The label caught on; like “open source,” it was ambiguous and
-capacious enough to allow many alternative uses and interpretations.
-O’Reilly’s partners in organizing the conference duly trademarked the
-term “Web 2.0,” but this news wasn’t well received by their fellow
-travellers (a similar effort to trademark “open source” by the Open
-Source Initiative failed). Once “Web 2.0” was established as a term of
-cultural reference, O’Reilly could venture outside Silicon Valley and
-establish its relevance to other industries. Much as “open source
-software” gave rise to “open source politics” and “open source science,”
-so did “Web 2.0” expand its terminological empire. O’Reilly eventually
-stuck a 2.0 label on anything that suited his business plan, running
-events with titles like “Gov 2.0” and “Where 2.0.” Today, as everyone
-buys into the 2.0 paradigm, O’Reilly is quietly dropping it. Last year
-his “Where 2.0” conference on geolocation was rebranded as just “Where.”
-The exceptional has become the new normal.
-
-
-Para el 2007 O'Reilly [admitio
-sin problemas](http://radar.oreilly.com/2007/10/todays-web-30-nonsense-blogsto.html)
-que "La Web 2.0 fue un nombre bastante choto para lo que estaba pasando."
-En el 2004, sin embargo, parecia muy serio, promoviendo este concepto
-por todos lados. La etiqueta pescó, como "open source" era ambigua y
-lo suficientemente amplia para permitir muchisimos usos alternativos e
-interpretaciones. Los compañeros de O'Reilly con quienes organizaba la
-conferencia registraron debidamenten el termino "Web 2.0" pero estas
-novedades no fueron bien recibidas por sus compañeros de viaije
-(Un esfuerzo similar para registrar "open source" por  "the Open Source
-Initiative" no prospero). Una vez que "Web 2.0" se establecio cmo un termino
-de referencia cultural, O'Reilly podia aventurarse fuera de Silicon Valley
-y estbalecer su relevancia en otras industrias. Como el software open source
-le dio el nacimiento a las "politicas open source" y la "ciencia open source"
-tambien lo hiso la  "Web 2.0" expandiendo su imperio terminológico.
-O'Reilly eventualmente puso una etiqueta "2.0" atras de todo lo que se
-acomodara a su plan de negocios, organizando eventos como "Gov 2.0" y
-"Where 2.0".Hoy , como todos compran el paradigma 2.0, O'reilly esta
-dejandolo silenciosamente. El año pasado su conferencia "Where 2.0" en
-geolocalizacion se renombro solo "Where". La excepcion se volvio la norma.
-
-
-
-
-Sorting through the six thousand or so academic papers that cite
-O’Reilly’s essay on Web 2.0 is no easy feat. It seems that anyone who
-wanted to claim that a revolution was under way in their own field did
-so simply by invoking the idea of Web 2.0 in their work:
-
-Clasificar entre las casi seis mil publicaciones academicas
-que citan el ensayo de  O'Reilly  sobre la Web 2.0 no es facil. Pareceria
-que cualquiera que quisiera declarar que una revolucion estaba en camino
-en su propia disciplina lo hacia simplemente invocando la idea de
-la Web 2.0 en su propio trabajo.
-
-
-
-
-[Development
-2.0](https://scholar.sun.ac.za/handle/10019.1/4226), [Nursing
-2.0](http://nlnjournals.org/doi/pdf/10.1043/1536-5026-030.001.0048),
-[Humanities
-2.0](http://inderscience.metapress.com/index/R765271R63403430.pdf),
-[Protest 2.0](http://mcs.sagepub.com/content/33/6/923.short), [Music
-2.0](http://www.ingentaconnect.com/content/intellect/jmte/2008/00000001/F0020002/art00004),
-[Research 2.0](http://usir.salford.ac.uk/id/eprint/14628), [Library
-2.0](http://www.tandfonline.com/doi/abs/10.1300/J115v26S01_02),
-[Disasters
-2.0](http://www.iscramlive.org/ISCRAM2009/papers/Contributions/130_Disasters2.0-Application%20of%20Web2.0%20technologies_Camarero2009.pdf),
-[Road Safety
-2.0](https://domino.fov.uni-mb.si/proceedings.nsf/0/76115a8601158a71c1257757003bd6d6/$FILE/20_Fink.pdf),
-[Identity
-2.0](http://operi.us/pdftribute/pdfs/helmond_identity20_dmiconference.pdf),
-[Stress Management
-2.0](http://su.diva-portal.org/smash/record.jsf?pid=diva2:386481),
-[Archeology 2.0](http://dl.acm.org/citation.cfm?id=2161947), [Crime
-2.0](http://champpenal.revues.org/7782), [Pornography
-2.0](http://igitur-archive.library.uu.nl/student-theses/2010-0111-200145/UUindex.html),
-[Love
-2.0](http://www.palgrave-journals.com/dddmp/journal/v9/n3/full/4350103a.html),
-[Wittgenstein
-2.0](http://books.google.com/books?hl=en&lr=&id=Y_mCcY7b_uUC&oi=fnd&pg=PA153&dq=Wittgenstein+2.0+&ots=FjMzz_ZuKT&sig=AQ0diiYu3gaweQw6lyej5TglyDM#v=onepage&q=Wittgenstein%202.0&f=false).
-
-
-
-[Desarrollo
-2.0](https://scholar.sun.ac.za/handle/10019.1/4226), [Enfermeria
-2.0](http://nlnjournals.org/doi/pdf/10.1043/1536-5026-030.001.0048),
-[Humanidades
-2.0](http://inderscience.metapress.com/index/R765271R63403430.pdf),
-[Protestas 2.0](http://mcs.sagepub.com/content/33/6/923.short), [Musica
-2.0](http://www.ingentaconnect.com/content/intellect/jmte/2008/00000001/F0020002/art00004),
-[Investigacion 2.0](http://usir.salford.ac.uk/id/eprint/14628), [Biblioteca
-2.0](http://www.tandfonline.com/doi/abs/10.1300/J115v26S01_02),
-[Desastres
-2.0](http://www.iscramlive.org/ISCRAM2009/papers/Contributions/130_Disasters2.0-Application%20of%20Web2.0%20technologies_Camarero2009.pdf),
-[Seguridad vial
-2.0](https://domino.fov.uni-mb.si/proceedings.nsf/0/76115a8601158a71c1257757003bd6d6/$FILE/20_Fink.pdf),
-[Identidad
-2.0](http://operi.us/pdftribute/pdfs/helmond_identity20_dmiconference.pdf),
-[Manejo del stress
-2.0](http://su.diva-portal.org/smash/record.jsf?pid=diva2:386481),
-[Arqueologia 2.0](http://dl.acm.org/citation.cfm?id=2161947), [Crimen
-2.0](http://champpenal.revues.org/7782), [Pornografia
-2.0](http://igitur-archive.library.uu.nl/student-theses/2010-0111-200145/UUindex.html),
-[Amor
-2.0](http://www.palgrave-journals.com/dddmp/journal/v9/n3/full/4350103a.html),
-[Wittgenstein
-2.0](http://books.google.com/books?hl=en&lr=&id=Y_mCcY7b_uUC&oi=fnd&pg=PA153&dq=Wittgenstein+2.0+&ots=FjMzz_ZuKT&sig=AQ0diiYu3gaweQw6lyej5TglyDM#v=onepage&q=Wittgenstein%202.0&f=false).
-
-
-
-What unites most of these papers is a shared background assumption that,
-thanks to the coming of Web 2.0, we are living through unique historical
-circumstances. Except that there was no coming of Web 2.0—it was just a
-way to sell a technology conference to a public badly burned by the
-dotcom crash. Why anyone dealing with stress management or Wittgenstein
-would be moved by the logistics of conference organizing is a mystery.
-
-Lo que une a la mayoria de estas publicaciones es la suposición compartida
-de fondo que gracias a la llegada de la Web 2.0, estamos viviendo circunstancias
-historicas unicas. Excepto que no hay ninguna llegada de la Web 2.0 - es
-solo una forma de vender conferencias de tecnologia a un publico quemado
-seriamente por el colapso del punto com. Por que cualquiera que este lidiando
-con Manejo del stress o Wittgenstein estaria conmovido por la logistica de
-organizar conferencias es un misterio.
-
-
-
-> O’Reilly stuck a 2.0 label on anything that suited his business plan.
-
-> O'Reilly puso una etiqueta "2.0" atras de todo lo que se
-acomodara a su plan de negocios.
-
-O’Reilly himself pioneered this 2.0-ification of public discourse,
-aggressively reinterpreting trends that had been happening for decades
-through the prism of Internet history—a move that presented all those
-trends as just a logical consequence of the Web 2.0 revolution. Take
-[O’Reilly’s
-musings](http://radar.oreilly.com/2008/09/why-dell-dot-com-is-more-enterprise.html)
-on “Enterprise 2.0.” What is it, exactly? Well, it’s the same old
-enterprise—for all we know, it might be making widgets—but now it has
-learned something from Google and Amazon and found a way to harness
-“collective intelligence.” For O’Reilly, Walmart is a quintessential
-Enterprise 2.0 company simply because it tracks what its customers are
-buying in real time.
-
-O'Reilly mismo es es pionero en esta 2.0-ficación del discurso publico,
-reinterpretango agresivamente tendencias que estuvieron sucediendo
-durante decadas  a través del prisma de la historia de Internet- un
-movimiento que presento todas esas tendencias como solo una logica
-consecuencia de la revolucion de la Web 2.0. Tomen[Las reflexiones de
+O'Reilly mismo fue el pionero de esta 2.0-ficación del discurso público,
+reinterpretando agresivamente tendencias que estuvieron sucediendo
+durante décadas a través del prisma de la historia de Internet --una
+movida que presentó todas esas tendencias como consecuencia lógica de la
+revolucion de la _Web 2.0_.  Por ejemplo, [las reflexiones de
 O'Reilly](http://radar.oreilly.com/2008/09/why-dell-dot-com-is-more-enterprise.html)
-en "Empresas 2.0" ¿Que es, exactamente? Bueno, es la misma empresa
--Segun lo que tendriamos entendido, podrian vender widgets- pero
-aprendió algo de Google y Amazon y encontro una forma de emplear
-la "Inteligencia colectiva" Para O'Reilly, Walmart es la Empresa 2.0
-por excelencia simplemente por que monitorea que compran sus clientes
-en tiempo real.
+sobre las "Empresas 2.0".  ¿Qué son, exactamente?  Bueno, es la misma
+empresa --por lo poco que sabemos, podrían estar fabricando
+chirimbolos-- pero que aprendió algo de _Google_ y _Amazon_, parar
+encontrar una forma de aprovechar la "inteligencia colectiva".  Para
+O'Reilly, _Walmart_ es la _Empresa 2.0_ por excelencia simplemente
+porque monitorea en tiempo real todo lo que compran sus clientes.
 
-
-
-That this is a rather standard practice—known under the boring title of
-“just-in-time delivery”—predating both Google and Amazon didn’t register
-with O’Reilly. In a Web 2.0 world, all those older concepts didn’t
-matter or even exist; everything was driven by the forces of open source
-and the Internet. A revolution was in the making!
-
-
-Que esto sea una practica bastante estandard -conocida bajo el nombre
-aburrido de "delivery justo a tiempo"- antedatando a Google y Amazon
-"didn't register" con O'Reilly. En un mundo de Web 2.0, todos esos
+Que esto sea una práctica bastante estándar --conocida bajo el aburrido
+nombre de "delivery justo a tiempo"-- anterior a _Google_ y _Amazon_ no
+fue registrado por O'Reilly.  En el mundo de la _Web 2.0_, todos esos
 conceptos antiguos no importan o ni siquiera existen; todo fue impulsado
-por las fuerzas del open source y de internet. Una revolucion estaba en Camino!
+por las fuerzas del _open source_ y la Internet.  ¡Una revolución estaba
+en ciernes!
 
+Esta fue una consecuencia típica de descansar en la _Web 2.0_ como la
+metáfora que guiaba la época: en el caso de las _Empresas 2.0_, una
+tendencia que tiene poca conexión con Internet fue reinscrita en su
+marco, como si pegándole la etiqueta 2.0 fuera lo único necesario para
+establecer el paralelismo lógico entre los mundos de la venta minorista
+y la búsqueda.  Esta tendencia a re-describir la realidad en términos de
+la cultura de Internet sin importar cuan espurio y poco convincente sea
+el vínculo, es un buen ejemplo de lo que llamo "Internet-centrismo".
 
+La _Web 2.0_ pronto se volvió en la manera preferida de explicar
+cualquier cambio que estuviera sucediendo tanto en _Silicon Valley_ como
+más allá de este.  La mayoría de los analistas de tecnología simplemente
+tomaron prestada la etiqueta _Web 2.0_ para explicar cualquier cosa que
+necesitara explicación, tomando su utilidad y objetividad por sentado.
+_Open source_ nos dio la Internet, que nos dio la _Web 2.0_ y esta a su
+vez nos dió la _empresa 2.0_: en esta versión de la historia, Tim
+O'Reilly es más importante que la Unión Europea.  Todo lo que necesitaba
+re-pensarse y re-hacerse: empresas, gobiernos, el sistema de salud
+pública, las finanzas, la producción fabril.  Para O'Reilly, había pocos
+problemas que no pudieran [resolverse con la _Web
+2.0_](http://www.web2summit.com/web2008): "Nuestro mundo está plagado de
+problemas \[...\] desde turbios mercados financieros hasta el
+calentamiento global, desde sistemas de salud deteriorados hasta
+intratables guerras religiosas \[...\] muchos de nuestros sistemas más
+complejos están alcanzando sus límites.  Nos sacude que la Web nos
+enseñe nuevas maneras de abordar estos límites."  La _Web 2.0_ fue una
+fuente de sabiduría didáctica y O'Reilly tenía las herramientas
+necesarias para interpretar qué nos quería decir en todos los contextos,
+sean mercados financieros o calentamiento global.  Todos estos contextos
+pertenecen a Internet ahora. El Internet-centrismo ganó.
 
-This was a typical consequence of relying on Web 2.0 as the guiding
-metaphor of the age: in the case of Enterprise 2.0, a trend that had
-little connection to the Internet got reinscribed in the Internet frame,
-as if attaching the label of 2.0 was all that was needed to establish
-the logical parallels between the worlds of retail and search. This
-tendency to redescribe reality in terms of Internet culture, regardless
-of how spurious and tenuous the connection might be, is a fine example
-of what I call “Internet-centrism.”
+En su libro de 1976 [_Charla loca, charla
+estúpida_](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
+Neil Postman señaló cierto imperialismo lingüístico que impulsa charlas
+locas.  Para Postman, cada actividad humana --religión, ley, matrimonio,
+comercio-- representa un "ambiente semántico" distinto con su propio
+tono, propósito y estructura.  La _charla estúpida_ es relativamente
+inofensiva; no presenta riesgo alguno hacia su ambiente semántico y no
+cruza hacia otros.  Dado que consiste mayoritariamente de falsedades y
+opiniones "dadas por una persona falible sobre las observaciones de otra
+persona falible" puede ser fácilmente corregida con hechos.  Por
+ejemplo, decir que Teherán es la capital de Iraq es _charla estúpida_.
+La _charla loca_, en contraste, desafía al ambiente semántico, dado que
+"establece propósitos y conjeturas diferentes de aquellas que
+normalmente aceptamos".  Argumentar, como algunos nazis lo hicieron, que
+los soldados alemanes terminaron mucho más traumatizados que sus
+víctimas es _charla loca_.
 
-Esta era una consecuencia tipica de depender en Web 2.0 como la metafora
-referente de la edad:  una  tendencia que tiene poca conexion con Internet
-como Empresas 2.0 fue reinscripta en el marco de Internet, como si
-adjuntandole la etiqueta 2.0 fuera lo unico necesario para establecer
-el paralelismo logico entre las palabras "venta"(retail) y busqueda.
-Esta tendencia a re describir la realidad en terminos de la cultura de internet
-sin importar cuan espurio y poco convincente sea el vinculo, es un buen
-ejemplo de lo que yo llamo "Internet-centrismo"
+Para Postman, una de las principales funciones del lenguaje es codificar
+y preservar las distinciones entre los distintos ambientes semánticos.
+"Cuando el lenguaje se vuelve indiferenciable, las situaciones humanas
+se desintegran: la ciencia deja de distinguirse de la religión, que deja
+de distinguirse del comercio y este de las leyes, etc.  Si cada una
+cumple la misma función, entonces ninguna de ellas cumple ninguna
+función.  Cuando este proceso ocurre, la palabra apropiada es
+_contaminación_."  Algunas palabras --como "ley"-- son particularmente
+suceptibles a las _charlas locas_, ya que significan diferentes cosas:
+desde las _leyes_ científicas, pasando por las _leyes_ morales, hasta
+las _leyes_ del mercado y las administrativas, la misma palabra captura
+muchas relaciones sociales diferentes.  "Abierto", "redes" e
+"información" funcionan de manera similar a la palabra "ley" en el
+contexto del discurso actual sobre Internet.
 
-
-
-And soon Web 2.0 became the preferred way to explain any changes that
-were happening in Silicon Valley and far beyond it. Most technology
-analysts simply borrowed the label to explain whatever needed
-explaining, taking its utility and objectivity for granted. “Open
-source” gave us the “the Internet,” “the Internet” gave us “Web 2.0,”
-“Web 2.0” gave us “Enterprise 2.0”: in this version of history, Tim
-O’Reilly is more important than the European Union. Everything needed to
-be rethought and redone: enterprises, governments, health care, finance,
-factory production. For O’Reilly, there were few problems that could not
-be [solved with Web 2.0](http://www.web2summit.com/web2008): “Our world
-is fraught with problems . . . from roiling financial markets to global
-warming, failing healthcare systems to intractable religious wars . . .
-many of our most complex systems are reaching their limits. It strikes
-us that the Web might teach us new ways to address these limits.” Web
-2.0 was a source of didactic wisdom, and O’Reilly had the right tools to
-interpret what it wanted to tell us—in each and every context, be it
-financial markets or global warming. All those contexts belonged to the
-Internet now. Internet-centrism won.
-
-La Web 2.0 se volvio pronto la manera preferida de explicar cualquier
-cambio que estuviera sucediendo tanto en Silicon Valley como mas alla.
-La mayoria de los analistas de tecnologia simplemente tomaron prestado
-la etiqueta Web 2.0 para explicar cualquier cosa que necesitara
-explicacion, tomando su utilidad y objetividad por sentado. "Open Source"
-nos dio "la Internet" "la Internet" nos dio "la Web 2.0", "la Web 2.0"
-nos dio "Enterprise 2.0": en esta version de la historia, Tim O'Reilly
-es mas importante que la Union Europea. Todo lo que necesitaba
-repensarse y rehacerse: Empresas, Gobiernos, el Sistema de Salud,
-las Finanzas, la produccion fabril. Para O'Reilly, habia pocos problemas
-que no pudieran [resolverse con la Web 2.0](http://www.web2summit.com/web2008):
-"Nuestro mundo esta plagado de problemas... desde turbios mercados
-financieros hasta el calentamiento global, desde sistemas de salud
-deteriorados hasta intricadas guerras religiosas... muchos de nuestros
-sistemas mas complejos estan alcanzando sus limites. Nos sorprende
-que la Web nos enseñe nuevas maneras de abordar estos limites."
-La Web 2.0 fue una fuente de sabiduria didactica, y O'Reilly tenia
-las herramientas necesarias para interpretar que nos queria decir en
-todos los contextos, sean mercados financieros o calentamiento global.
-Todos estos contextos perteneces a Internet ahora. El Internet-centrismo
-gano.
-
-
-
-
-<span class="dropcap">I</span>n his 1976 book [*Crazy Talk, Stupid
-Talk*](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
-Neil Postman pointed to a certain linguistic imperialism that propels
-crazy talk. For Postman, each human activity—religion, law, marriage,
-commerce—represents a distinct “semantic environment” with its own tone,
-purpose, and structure. Stupid talk is relatively harmless; it presents
-no threat to its semantic environment and doesn’t cross into other ones.
-Since it mostly consists of falsehoods and opinions “given by one
-fallible human being about the remarks of another fallible human being,”
-it can be easily corrected with facts. For example, to say that Tehran
-is the capital of Iraq is stupid talk. Crazy talk, in contrast,
-challenges a semantic environment, as it “establishes different purposes
-and assumptions from those we normally accept.” To argue, as some Nazis
-did, that the German soldiers ended up far more traumatized than their
-victims is crazy talk.
-
-<span class="dropcap"> E</span>n su libro de 1976 [*Charla Loca, Charla
-Estupida* ](http://www.amazon.com/Crazy-Talk-Stupid-Defeat-Ourselves/dp/0385281781),
-Neil Postman señalo cierto imperialismo lingüístico que impulsa
-charlas locas(Crazy talk). Para Postman, cada actividad -religion humana, la ley,
-el matrimonio, el comercio- representa un distintivo "ambiente semantico"
-con su propio tono, propósito y estructura. La charla estupida (Stupid Talk) es
-relativamente inofensiva; no presenta riesgo alguno hacia su ambiente
-semantico y no cruza hacia otros.  Dado que consiste mayoritariamente
-de falacias y opiniones "dadas por una persona falible sobre las observaciones
-de otra persona falible" puede ser facilmente corregida con hechos.
-Por ejemplo, decir que Tehran es la capital de Iraq es charla estupida.
-La Charla Loca, en contraste, desafia al ambiente semantico, dado que
-"establece diferentes propósitos y conjeturas de aquellas que normalmente
-aceptariamos." Argumentar, como algunos Nazis lo hicieron, que los
-soldados Alemanes terminaron mucho mas traumatizados que sus victimas
-es Charla Loca.
-
-For Postman, one of the main tasks of language is to codify and preserve
-distinctions among different semantic environments. As he put it, “When
-language becomes undifferentiated, human situations disintegrate:
-Science becomes indistinguishable from religion, which becomes
-indistinguishable from commerce, which becomes indistinguishable from
-law, and so on. If each of them serves the same function, then none of
-them serves any function. When such a process is occurring, an
-appropriate word for it is *pollution.*” Some words—like “law”—are
-particularly susceptible to crazy talk, as they mean so many different
-things: from scientific “laws” to moral “laws” to “laws” of the market
-to administrative “laws,” the same word captures many different social
-relations. “Open,” “networks,” and “information” function much like
-“law” in our own Internet discourse today.
-
-Para Postma, una de las principales funciones del lenguaje es codificar
-y preservar las distinciones entre los distintos ambientes semanticos.
-Como lo presenta, "Cuando el lenguaje se hace indiferenciable, la
-situacion humana se desintegra: la ciencia  deja de distinguirse de la
-religion, que se deja de distinguir del comercio, asi de las leyes, etc.
-Si cada una cumple la misma funcion, entonces ninguna de ellas cumple
-ninguna funcion. Cuando este proceso ocurre, la palabra apripiada es
-*contaminacion*-." Algunas palabras como "ley" -son particularmente
-suceptibles a las charlas locas, ya que significan diferentes cosas:
-desde las "leyes" cientificas, pasando por las "leyes" morales, hasta
-las "leyes" del mercado y las administrativas, la misma palabra caputa
-distintos relaciones sociales. "Abierto", "redes" e "informacion"
-funcionan de manera similar a la palabra "ley" en el contexto del
-discuros actual sobre Internet.
-
-Postman’s thinking on the inner workings of language was heavily
-influenced by the work of [Alfred
-Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski), a Polish
-count now remembered—if at all—for his 1933 book [*Science and
-Sanity*](http://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018).
-Korzybski founded a movement called general semantics. While it has
-inspired many weird and dangerous followers—Scientology’s L. Ron Hubbard
-claimed to have been a fan—it also earned the support of many serious
-thinkers, from cyberneticians like Anatol Rapoport to philosophers like
-Gaston Bachelard. For Korzybski, the world has a relational structure
-that is always in flux; like Heraclitus, who argued that everything
-flows, Korzybski believed that an object A at time x1 is not the same
-object as object A at time x2 (he actually recommended indexing every
-term we use with a relevant numerical in order to distinguish “science
-1933” from “science 2013”). Our language could never properly account
-for the highly fluid and relational structure of our reality—or as he
-put it in his most famous aphorism, “the map is not the territory.”
-
-El pensamiento de Postman sobre el trabajo interno del lenguaje fue
-fuertemente influenciado por el trabajo de [Alfred
+El pensamiento de Postman sobre el funcionamiento interno del lenguaje
+fue fuertemente influenciado por el trabajo de [Alfred
 Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski) un conde
-polaco recordado por su libro [*Ciencia y
-Sanidad*](http://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018)
-de 1933. Korzybski fue el fundador de un movimiento llamado semanticas
-generales.  Ha inspirado a varios peligrosos y extraños seguidores -el
-ciencilogo L. Ron Hubbard afirma haber sido un fan- tambien gano el
-apoyo de varios pensadores serios, desde cyberciudadanos como Anatol
-Rapoport hasta filosofos como Gaston Bachelard. Para Korzybski, el mundo
-tiene una estructura relacion que esta siempre fluyendo; como Heraclito,
-quien argumntaba que todo fluye, Korzybski creia que un objeto A en un
-tiempo x1 no es el mismo que el objeto A en un tiempo x2 (lo que en
-realidad recomendaba era identificar cada termino en uso con un numero
-de relevancia para poder distinguir la "ciencia de 1933" de la "ciencia
-de 2013"). Nuestro lenguaje podria no conseguir nunca la estructura tan
-fluida y relacional de nuestra realidad -o como él dijo en su mas famoso
-aforismo, "el mapa no es el territorio."
-
-Korzybski argued that we relate to our environments through the process
-of “abstracting,” whereby our neurological limitations always produce an
-incomplete and very selective summary of the world around us. There was
-nothing harmful in this per se—Korzybski simply wanted to make people
-aware of the highly selective nature of abstracting and give us the
-tools to detect it in our everyday conversations. He wanted to
-artificially induce what he called a “neurological delay” so that we
-could gain more awareness of what we were doing in response to verbal
-and nonverbal stimuli, understand what features of reality have been
-omitted, and react appropriately.
+polaco recordado por su libro [_Ciencia y
+sanidad_](http://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018)
+de 1933.  Korzybski fue el fundador de un movimiento llamado semántica
+general.  Aunque ha inspirado a varios peligrosos y extraños seguidores
+--el cientólogo L. Ron Hubbard afirma haber sido un _fan_-- también ganó
+el apoyo de varios pensadores serios, desde cibernéticos como Anatol
+Rapoport hasta filósofos como Gaston Bachelard.  Para Korzybski, el
+mundo tiene una estructura relacional que está siempre fluyendo; como
+Heráclito, quien argumentaba que todo fluye, Korzybski creía que un
+objeto A en un tiempo x~1~ no es el mismo que el objeto A en un tiempo
+x~2~ (recomendaba identificar cada término en uso con un número de
+relevancia para poder distinguir la "ciencia de 1933" de la "ciencia de
+2013").  Nuestro lenguaje podrúa no conseguir nunca la estructura
+altamente fluida y relacional de nuestra realidad --o como dijo en su
+más famoso aforismo, "el mapa no es el territorio".
 
 Korzybski argumentó que nos relacionamos con nuestro ambiente mediante
-el proceso de la "abstraccion", donde nuestras limitaciones neurologicas
+el proceso de "abstracción", donde nuestras limitaciones neurológicas
 siempre producen un incompleto y muy selectivo resumen del mundo que nos
-rodea. No habia nadaa perjudicial en este per-se -Korzybski simplemente
-queria concientizar a la gente de la naturaleza altamente selectiva de
-la abstraccion y darnos herramientas para detectarlas en las
-conversaciones diarias. Queria inducir artificialmente a lo que él
-llamaba una "demora neurologica" para conseguir mayor conciencia de como
-uno responde a un estimulo ya sea verbal o no verbal, comprender que
-caracteristicas de la realidad fueron omitidas, y reaccion en
+rodea.  No había nada perjudicial en esto _per sé_ --Korzybski
+simplemente quería concientizar a la gente de la naturaleza altamente
+selectiva de la abstracción y darnos herramientas para detectarlas en
+las conversaciones diarias.  Quería inducir artificialmente a lo que
+llamaba una "demora neurológica" para conseguir mayor conciencia de cómo
+una persona responde a estímulos verbales o no verbales, comprender qué
+características de la realidad fueron omitidas y reaccionar en
 consecuencia.
 
-To that end, Korzybski developed a number of mental tools meant to
-reveal all the abstracting around us; he patented the most famous of
-those—the “structural differential”—in the 1920s. He also encouraged his
-followers to start using “etc.” at the end of their statements as a way
-of making them aware of their inherent inability to say everything about
-a given subject and to promote what he called the “consciousness of
-abstraction.”
-
-Con ese fin, Korzybski desarrollo varias herramientas mentales con el
-fin de revelar todas las abstracciones que nos rodean;  él patento el
-mas famoso -el "diferencial estructural"- en la decada del 1920. Tambien
-alento a sus seguidores a empezar a usar el "etc." al finalizar sus
-oracionas como forma de llamarles la atencion de la inherente
-imposibilidad de decirlo todo sobre un tema determinado y promover lo
-que llamo la "conciencia de la abstraccion".
-
-There was way too much craziness and bad science in Korzybski’s theories
-for him to be treated as a serious thinker, but his basic question—as
-Postman put it, “What are the characteristics of language which lead
-people into making false evaluations of the world around them?”—still
-remains relevant today.
+Con ese fin, Korzybski desarrolló varias herramientas mentales con el
+fin de revelar todas las abstracciones que nos rodean; patentó el más
+famoso --el "diferencial estructural"-- en la década del '20.  También
+alento a sus seguidoras a empezar a usar "etc." al finalizar sus
+oraciones como forma de llamar la atención sobre la inherente
+incapacidad de decirlo todo sobre un tema determinado y promover lo que
+llamó la "conciencia de la abstracción".
 
 Las teorías de Korzybski eran demasiado locas y basadas en mala ciencia
 como para haber sido tomado en serio como pensador, pero su pregunta
@@ -1264,86 +976,43 @@ básica --como dice Postman "¿cuáles son las características del lenguaje
 que lleva a la gente a realizar falsas evaluaciones del mundo que la
 rodea?"-- aun hoy es relevante.
 
-Tim O’Reilly is, perhaps, the most high-profile follower of Korzybski’s
-theories today. O’Reilly was introduced to Korzybski’s thought as a
-teenager while working with a strange man called George Simon in the
-midst of California’s counterculture of the early 1970s. O’Reilly and
-Simon were coteaching workshops at the Esalen Institute—then a hotbed of
-the “human potential movement” that sought to tap the hidden potential
-of its followers and increase their happiness. Bridging Korzybski’s
-philosophy with Sri Aurobindo’s integral yoga, Simon had an immense
-influence on the young O’Reilly. Simon’s rereading of general semantics,
-[noted O’Reilly in
-2004](http://oreilly.com/tim/articles/favebooks_0705.html), “gave me a
-grounding in how to see people, and to acknowledge what I saw, that is
-the bedrock of my personal philosophy to this day.” (In 1976 the
-twenty-two-year-old O’Reilly edited and [published
-notebooks](http://www.amazon.com/Notebooks-1965-1973-George-Simon/dp/B0006XM7K2/)
-by Simon after the latter died in an accident; even by the highly
-demanding standards of the 1970s, those notebooks look outright crazy.)
-
 Tim O'Reilly es tal vez el seguidor de más alto perfil de las teorías de
 Korzybski.  O'Reilly se introdujo en el pensamiento de Korzybski cuando
 en su adolescencia trabajó con un hombre muy extraño llamado George
 Simon, en medio de la contracultura californiana de los '70.  O'Reilly y
 Simon daban talleres en el _Esalen Institute_ --en ese entonces un
-hervidero del "movimiento del potencial humano" que buscaban desatar el
+hervidero del "movimiento del potencial humano" que buscaba desatar el
 potencial oculto de sus seguidoras y aumentar su felicidad.  Al unir la
 filosofía de Korzybski con el yoga integral de Sri Aurobindo, Simon tuvo
-una inmensa influencia en el joven O'Reilly.  La relectura que hizo
+una inmensa influencia en el joven O'Reilly.  La re-lectura que hizo
 Simon de la semántica general, [recordaba O'Reilly en el
 2004](http://oreilly.com/tim/articles/favebooks_0705.html), "me dio una
-base sobre la que observar a la gente y reconocer aquella que veía, que
+base sobre la que observar a la gente y reconocer aquello que veía, que
 es el fundamento de mi filosofía personal al día de hoy".  (En el '76,
 un O'Reilly de 22 años editó y [publicó los
 cuadernos](http://www.amazon.com/Notebooks-1965-1973-George-Simon/dp/B0006XM7K2/)
 de Simon luego de que este muriera en un accidente;  aun para los
 estándares de los '70, esos cuadernos son llanamente delirantes.)
 
-O’Reilly openly acknowledges his debt to Korzybski, listing *Science and
-Sanity* among [his favorite
-books](http://oreilly.com/tim/articles/favebooks_0705.html) and even
-showing [visualizations of the structural
-differential](http://www.youtube.com/watch?v=ir_7NJGhvsM) in his
-presentations. It would be a mistake to think that O’Reilly’s linguistic
-interventions—from “open source” to “Web 2.0”—are random or spontaneous.
-There is a philosophy to them: a philosophy of knowledge and language
-inspired by Korzybski. However, O’Reilly deploys Korzybski in much the
-same way that the advertising industry deploys the latest findings in
-neuroscience: the goal is not to increase awareness, but to manipulate.
-If general semanticists aimed to reveal the underlying emptiness of many
-concepts that pollute the public debate, O’Reilly is applying some of
-Korzybski’s language insights to practice some pollution of his own.
-
 O'Reilly reconoce abiertamente su deuda con Korzybski, incluyendo
-_Ciencia y cordura_ entre [sus libros
+_Ciencia y sanidad_ entre [sus libros
 favoritos](http://oreilly.com/tim/articles/favebooks_0705.html) y
 mostrando [visualizaciones del diferencial
 estructural](http://www.youtube.com/watch?v=ir_7NJGhvsM) en sus
 presentaciones.  Sería un error pensar que sus intervenciones
-lingüísticas --desde "open source" a "web 2.0"-- son aleatorias o
+lingüísticas --desde _open source_ a _web 2.0_-- son aleatorias o
 espontáneas.  Tienen una filosofía detrás: una filosofía del
 conocimiento y el lenguaje inspirado por Korzybski.  Sin embargo,
 O'Reilly emplea a Korzybski de la misma forma que la industria
-publicitaria emplea los últimos descubrimientos de la neurociencia:  el
+publicitaria emplea los últimos descubrimientos de la neurociencia: el
 objetivo no es aumentar la conciencia, sino manipularla.  Si las
 semanticistas generales intentaban revelar la vacuidad subyacente a
 muchos conceptos que contaminan el debate público, O'Reilly aplica
-algunas de las ideas de Korzybski para practicar una contaminación por
-su cuenta.
-
-O’Reilly, of course, sees his role differently, claiming that all he
-wants is to make us aware of what earlier commentators may have
-overlooked. “A metaphor is just that: a way of framing the issues such
-that people can see something they might otherwise miss,” [he wrote in
-response](http://blogs.gartner.com/andrea_dimaio/2009/09/08/why-government-is-not-a-platform/)
-to a critic who accused him of linguistic incontinence. But Korzybski’s
-point, if fully absorbed, is that a metaphor is primarily a way of
-framing issues such that we *don’t* see something we might otherwise
-see.
+algunas de las ideas de Korzybski para practicar una contaminación
+propia.
 
 Por supuesto, O'Reilly percibe su rol de otra manera, diciendo que todo
-lo que quiere es hacernos concientes de aquello que otros comentaristas
+lo que quiere es hacernos concientes de aquello que otras comentaristas
 podrían haber pasado por alto.  "Una metáfora es solo eso: una forma de
 enmarcar los problemas de forma que las personas puedan ver algo que de
 otra forma se perderían",
@@ -1352,20 +1021,6 @@ a una crítica que lo acusaba de incontinencia lingüística.  Pero el
 punto de Korzybski, si se lo absorbe plenamente, es que una metáfora es
 principalmente una forma de enmarcar problemas de manera que _no veamos_
 algo de otra forma veríamos.
-
-In public, O’Reilly modestly presents himself as someone who just
-happens to excel at detecting the “faint signals” of emerging trends. He
-does so by monitoring a group of überinnovators that he dubs the “alpha
-geeks.” “The ‘alpha geeks’ show us where technology wants to go. Smart
-companies follow and support their ingenuity rather than trying to
-suppress it,” [O’Reilly writes](http://www.oreillynet.com/pub/wlg/3123).
-His own function is that of an intermediary—someone who ensures that the
-alpha geeks are heard by the [right
-executives](http://www.oreillynet.com/network/2002/04/09/future.html):
-“The alpha geeks are often a few years ahead of their time. . . . What
-we do at O’Reilly is watch these folks, learn from them, and try to
-spread the word by writing down (or helping them write down) what
-they’ve learned and then publishing it in books or online.”
 
 En público, O'Reilly se presenta modestmente como alguien que
 casualmente sobresale en detectar las "débiles señales" de las
@@ -1378,51 +1033,26 @@ intermediar --ser quien se asegure que los _geeks alpha_ son escuchados
 por los [ejecutivos
 correctos](http://www.oreillynet.com/network/2002/04/09/future.html):
 "Los _geeks alpha_ a menudo se encuentran algunos años adelantados a su
-tiempo... lo que hacemos en O'Reilly es monitorearlos, aprender de ellos
-e intentar difundir la palabra escribiendo (o ayudándoles a escribir) lo
-que han aprendido, para luego publicarlo en libros o en la web.
-
-The name of his company’s blog—*O’Reilly Radar*—is meant to position him
-as an independent intellectual who is simply ahead of his peers in
-grasping the obvious. Some regular contributors to the *Radar* blog have
-titles like “[correspondents](http://radar.oreilly.com/alexh),” giving
-the whole operation a veneer of objectivity and disinterestedness, with
-O’Reilly merely a commentator knowledgeable enough to provide some
-context to busy Silicon Valley types. An [Edwin Schlossberg
-quotation](http://www.oreillynet.com/pub/wlg/2982) he really likes—“the
-skill of writing is to create a context in which other people can
-think”—is cited to explain his willingness to enter so many seemingly
-unrelated fields. As Web 2.0 becomes central to everything, O’Reilly—the
-world’s biggest exporter of crazy talk—is on a mission to provide the
-appropriate “context” to every field.
+tiempo \[...\] lo que hacemos en O'Reilly es monitorearlos, aprender de
+ellos e intentar difundir la palabra escribiendo (o ayudándoles a
+escribir) lo que han aprendido, para luego publicarlo en libros o en la
+web.
 
 El blog de su compañía, llamado _O'Reilly Radar_ está pensado para
 posicionarlo como un intelectual independiente que simplemente se
-encuentra a la vanguardia de sus pares para captar lo obvio.  Algunos
-contribuidores regulares a este blog tienen títulos como
+encuentra a la vanguardia de sus pares en cuanto a captar lo obvio.
+Algunos contribuidores regulares a este blog tienen títulos como
 "[corresponsal](http://radar.oreilly.com/alexh)", dándole a esta
 operación un manto de objetividad y desinterés, con O'Reilly como un
-remo comentarista con el conocimiento suficiente para proveer algo de
-contexto a los ocupados ejecutivos de Silicon Valley.  Una cita de
+mero comentarista con el conocimiento suficiente para proveer algo de
+contexto a los ocupados ejecutivos de _Silicon Valley_.  Una cita de
 [Edwin Schlossberg](http://www.oreillynet.com/pub/wlg/2982) que le gusta
 mucho --"la habilidad de escribir es crear un contexto donde otras
 personas puedan pensar"-- es utilizada para explicar su disposición a
 involucrarse en campos disímiles entre sí.  Mientras la _Web 2.0_ se
-vuelve central a todo, O'Reilly --el mayor exportador de locuras del
-mundo-- se encuentra en una misión para proveer el "contexto" apropiado
-para cada campo.
-
-In a fascinating essay published in 2000, O’Reilly sheds some light on
-his modus operandi. The thinker who emerges there is very much at odds
-with the spirit of objectivity that O’Reilly seeks to cultivate in
-public. That essay, in fact, is a revealing ode to what O’Reilly dubs
-“[meme-engineering](http://www.openp2p.com/lpt/a/495)”: “Just as gene
-engineering allows us to artificially shape genes, meme-engineering lets
-us organize and shape ideas so that they can be transmitted more
-effectively, and have the desired effect once they are transmitted.” In
-a move worthy of Frank Luntz, O’Reilly meme-engineers a nice
-euphemism—“meme-engineering”—to describe what has previously been known
-as “propaganda.”
+vuelve central a todo, O'Reilly --el mayor exportador de _charlas locas_
+del mundo-- se encuentra en una misión para proveer el "contexto"
+apropiado para cada campo.
 
 En un fascinante ensayo publicado en el 2000, O'Reilly nos ilumina sobre
 su _modus operandi_.  El pensador que emerge de este texto es muy
@@ -1434,170 +1064,77 @@ organizar y dar forma a ideas para que puedan transmitirse más
 efectivamente y tener el efecto deseado cuando lo son."  En una movida
 digna de Frank Luntz, O'Reilly crea mediante ingeniería memética un buen
 eufemismo --"ingeniería memética"-- que describe lo que antes se conocía
-como "propaganda".
+como "propaganda".[^meme]
 
-The essay’s putative goal is to show how one can meme-engineer a new
-meaning for “peer-to-peer” technologies—traditionally associated with
-piracy—and make them appear friendly and not at all threatening to the
-entertainment industry. Leading by example, O’Reilly invokes his success
-in rebranding “free software” as “open source.” The key to success, he
-notes, was to “put a completely different spin on what formerly might
-have been considered the ‘same space.’” To make that happen, O’Reilly
-and his acolytes “changed the canonical list of projects that we wanted
-to hold up as exemplars of the movement,” while also articulating what
-broader goals the projects on the new list served. He then proceeds to
-rehash the already familiar narrative: O’Reilly put the Internet at the
-center of everything, linking some “free software” projects like Apache
-or Perl to successful Internet start-ups and services. As a result, the
-movement’s goal was no longer to produce a completely free, independent,
-and fully functional operating system but to worship at the altar of the
-Internet gods.
+[^meme]: El _meme_ es un análogo del gen en cuanto a unidad de
+información cultural, propuesto por Richard Dawkins en _El gen egoísta_
+(nota de la traducción).
 
 El objetivo putativo del ensayo es mostrar cómo se puede hacer
 ingeniería memética de un nuevo significado para las tecnologías P2P
 --tradicionalmente asociadas a la piratería-- y volverlas amigables y no
 amenazantes a la industria del entretenimiento.  Liderando con el
-ejemplo, O'Reilly invoca su éxito en renombrar "software libre" como
-"open source".  La llave del éxito, dice, está en "darle un giro
-completamente diferente a lo que anteriormente se consideraba el 'mismo
-espacio'".  Para lograrlo, O'Reilly y sus acólitos "cambiaron la lista
-canónica de proyectos que queríamos sostener como ejemplos del
-movimiento", al mismo tiempo que articulaban los objetivos más amplios a
-los que servían esos proyectos.  Continúa refritando una narrativa
-familiar: O'Reilly pone la Internet en el centro de todo, vinculando
-algunos proyectos de software libre como Apache o Perl con _startups_ y
-servicios exitosos.  Como resultado, el objetivo del movimiento ya no
-era la producción de un sistema operativo completamente libre,
-independiente y funcional sino la adoración en el altar de los dioses de
-Internet.
-
-Another apt example of O’Reilly’s meme-engineering is his attempt to
-establish a strong intellectual link between the development of Unix—a
-proprietary operating system that Stallman sought to replace with free
-software—and the development of open source and the Internet. Thus, for
-instance, [O’Reilly
-claimed](http://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing)
-that Unix was built and improved in the spirit of open source because
-its academic cheerleaders were already swapping code with each other in
-the early 1970s. That such exchanges were just a regular part of the
-freewheeling academic culture and had little to do with philosophical
-attitudes toward code doesn’t weaken the argument; in fact, this is
-recast as an advantage, as now the open source model can be presented as
-just a natural extension of the scientific method. (Since O’Reilly
-himself played an important role in the production of Unix manuals, his
-own contribution to the Internet and open source suddenly looks even
-more significant.)
+ejemplo, O'Reilly invoca su éxito en renombrar software libre como _open
+source_.  La llave del éxito, dice, está en "darle un giro completamente
+diferente a lo que anteriormente se consideraba el 'mismo espacio'".
+Para lograrlo, O'Reilly y sus acólitos "cambiaron la lista canónica de
+proyectos que queríamos sostener como ejemplos del movimiento", al mismo
+tiempo que articulaban los objetivos más amplios a los que servían esos
+proyectos.  Continúa refritando una narrativa familiar: O'Reilly pone la
+Internet en el centro de todo, vinculando algunos proyectos de software
+libre como Apache o Perl con _startups_ y servicios exitosos.  Como
+resultado, el objetivo del movimiento ya no era la producción de un
+sistema operativo completamente libre, independiente y funcional sino la
+adoración de los dioses de Internet.
 
 Otro ejemplo de ingeniería memética es su intento de establecer un
-vínculo intelectual fuerte entre el desarrollo de Unix --un sistema
+vínculo intelectual fuerte entre el desarrollo de _Unix_ --un sistema
 operativo privativo al que Stallman intentaba reemplazar con software
 libre-- y el desarrollo del _open source_ y la Internet.  Entonces, por
 ejemplo,
 [proclamó](http://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing)
-que Unix fue construido y mejorado bajo el espíritu del _open source_
-porque sus animadores académicos ya intercambiaban código entre ellos en
+que _Unix_ fue construido y mejorado bajo el espíritu del _open source_
+porque sus animadoras académicas ya intercambiaban código entre ellas en
 los '70.  Que aquellos intercambios hayan sido parte normal de la
 despreocupada cultura académica y poco que ver con actitudes filosóficas
 con respecto al código no debilita el argumento;  de hecho, es
 recuperado como una ventaja, ya que el modelo del _open source_ puede
 presentarse como una extensión del método científico.  (Ya que O'Reilly
-jugó un papel importante en la producción de manuales de Unix, su propia
-contribución al desarrollo de Internet y el _open source_ adquiere un
-significado aun mayor.)
+jugó un papel importante en la producción de manuales de _Unix_, su
+propia contribución al desarrollo de Internet y el _open source_
+adquiere un significado aun mayor.)
 
-But O’Reilly’s meme-engineering around Unix doesn’t just stop at the
-purely discursive level. In his [talks and
-writings](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
-O’Reilly often points to one highly technical 1984 book—*The Unix
-Programming Environment*—as proof that, at least with respect to
-collaboration, Unix was some kind of proto-Internet. Indeed, the
-[Wikipedia page for the
-book](http://en.wikipedia.org/wiki/The_Unix_Programming_Environment)
-states that “the book is perhaps most valuable for its exposition of the
-Unix philosophy of small cooperating tools with standardized inputs and
-outputs, a philosophy that also shaped the end-to-end philosophy of the
-Internet. It is this philosophy, and the architecture based on it, that
-has allowed open source projects to be assembled into larger systems
-such as Linux, without explicit coordination between developers.”
-
-Pero la ingeniería memética sobre Unix no se detiene en el nivel
+Pero la ingeniería memética sobre _Unix_ no se detiene en el nivel
 puramente discursivo.  En sus [charlas y
-escrituras](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
+escritos](http://www.oreillynet.com/network/2000/06/09/java_keynote.html),
 a menudo apunta a un libro altamente técnico editado en 1984 --_El
 ambiente de desarrollo Unix_-- como prueba de que, al menos en cuanto a
-la colaboración, Unix fue una especie de proto-Internet.  En efecto, [el
-artículo de Wikipedia sobre el
+la colaboración, _Unix_ fue una especie de proto-Internet.  En efecto,
+[el artículo de Wikipedia sobre el
 libro](http://en.wikipedia.org/wiki/The_Unix_Programming_Environment)
 dice que "este libro es tal vez más valioso por su exposición de la
-filosofía Unix donde herramientas pequeñas colaboran entre sí con
+filosofía _Unix_ donde herramientas pequeñas colaboran entre sí con
 entradas y salidas estandarizadas.  Esta filosofía y la arquitectura en
-la que se basaba fue la que permitió a los proyectos _open source_ a
-ensamblarse en sistemas más grandes como Linux, sin una coordinación
+la que se basaba fue la que permitió a los proyectos _open source_
+ensamblarse en sistemas más grandes como _Linux_, sin una coordinación
 explícita entre desarrolladores".
-
-Could it be that O’Reilly is right in claiming that “open source” has a
-history that predates 1998? Well, Wikipedia won’t tell us much here: in
-a[recent Berkeley talk](http://www.youtube.com/watch?v=0D3_2iCldUA),
-O’Reilly admitted that he was the one to edit the Wikipedia page for the
-book. O’Reilly is perfectly positioned to control our technology
-discourse: as a publisher, he can churn out whatever books he needs to
-promote his favorite memes—and, once those have been codified in book
-form, they can be easily admitted into Wikipedia, where they quickly
-morph into facts. What’s not to like about “collective intelligence”?
 
 ¿Podría ser que O'Reilly tiene razón en proclamar que el _open source_
 tiene una historia previa a 1998?  Wikipedia no nos dice mucho.  En una
 [charla en Berkeley](http://www.youtube.com/watch?v=0D3_2iCldUA),
-O'Reilly admitió que fue el editor del artículo en Wikipedia sobre el
+O'Reilly admitió que fue el editor del artículo en _Wikipedia_ sobre el
 libro.  O'Reilly se encuentra perfectamente posicionado para controlar
 nuestro discurso sobre la tecnología: como editor, puede sacar todos los
 libros necesarios para promover sus memes favoritos --y una vez que se
 encuentran codificados en forma de libro, pueden ser fácilmente
-admitidos en Wikipedia, donde rápidamente se convierten en hechos.  ¿Qué
-no podría gustarnos de la "inteligencia colectiva"?
-
-[![b22\_fisher7\_techspeak\_308](The%20Meme%20Hustler%20-%20The%20Baffler_files/b22_fisher7_techspeak_308.png)](http://www.marksfisher.com/)Or
-take O’Reilly’s meme-engineering efforts around cyberwarfare. In a
-[recent
-post](http://radar.oreilly.com/2012/07/some-sideways-thinking-about-cyberwarfare.html)
-on the subject, he muses on just how narrowly we have defined the idea
-of “cyberwarfare” and suggests we expand it to encompass conflicts
-between states and individuals. Now, who stands to benefit from
-“cyberwarfare” being defined more broadly? Could it be those who, like
-O’Reilly, can’t currently grab a share of the giant pie that is
-cybersecurity funding? If O’Reilly’s meme-engineering efforts succeed,
-we might end up classifying acts that should be treated as crime,
-espionage, or terrorism under the ambiguous label of “war.” Such
-reframing would be disastrous for civil liberties and privacy and would
-only exacerbate the already awful legal prosecution of hacktivists. It
-probably won’t be long before a “cyberwarfare correspondent” is added to
-O’Reilly’s media empire.Seen through the prism of meme-engineering,
-O’Reilly’s activities look far more sinister. His “correspondents” at
-*O’Reilly Radar* don’t work beats; they work memes and epistemes,
-constantly reframing important public issues in accordance with the
-templates prophesied by O’Reilly. Recently, for example, O’Reilly has
-been interested in the meme of “[the industrial
-Internet](http://radar.oreilly.com/tag/industrial-internet),” forming a
-partnership with GE to participate in events and cover the company on
-the blog. Once “the industrial Internet” meme is out of the bag, only a
-lack of imagination prevents O’Reilly’s writers from seeing it
-absolutely everywhere. Here is how [one of them
-describes](http://radar.oreilly.com/2012/12/the-industrial-internet-from-a-startup-perspective.html)
-a company that might not otherwise fit the boundaries of the meme: “I’m
-sure \[its founder\] wouldn’t use the words ‘industrial Internet’ to
-describe what he and his team are doing, and it might be a little bit of
-a stretch to categorize 3Scan that way. But I think they are an exemplar
-of many of the core principles of the meme and it’s interesting to think
-about them in that frame.” Five years down the road, would you be
-surprised if there is, in fact, something called “the industrial
-Internet” and that the primary goal of most activism around it is to
-defend the freedom of GE to “innovate” on it as it pleases?
+admitidos en _Wikipedia_, donde rápidamente se convierten en hechos.
+¿Qué podría no gustarnos de la "inteligencia colectiva"?
 
 Tomemos los esfuerzos de ingeniería memética sobre la ciberguerra.  En
 un
 [artículo](http://radar.oreilly.com/2012/07/some-sideways-thinking-about-cyberwarfare.html)
 sobre el tema, discurre sobre cuán estrecha es la definición de la
-"ciberguerra" y sugiera expandirla para que incluya conflictos entre
+"ciberguerra" y sugiere expandirla para que incluya conflictos entre
 estados e individuos.  Ahora bien, ¿quién se beneficia de esta
 definición más amplia de la "ciberguerra"?  ¿Podrían ser aquellos que,
 como O'Reilly, no son capaces aun de captar una porción de la torta del
@@ -1607,10 +1144,10 @@ crímenes, espionaje o terrorismo bajo la etiqueta ambigua de la
 "guerra".  Tal reformulación sería desastrosa para las libertades
 civiles y la privacidad y solo exacerbarían la ya horrible persecución
 legal a hacktivistas.  Probablemente no falte mucho para que el imperio
-mediático O'Reilly incorpore un "corresponsal de ciberguerra".  Vistas a
-través del prisma de la ingeniería memética, las actividades de O'Reilly
-parecen aun más siniestras.  Los "correspondientes" del _Radar_ no
-trabajan sobre temas, sino sobre memes y epistemes, reformulando
+mediático de O'Reilly incorpore una "corresponsal de ciberguerra".
+Vistas a través del prisma de la ingeniería memética, las actividades de
+O'Reilly parecen aun más siniestras.  Sus "corresponsales" del _Radar_
+no trabajan sobre temas, sino sobre memes y epistemes, reformulando
 constantemente los problemas públicos de acuerdo a las plantillas
 profetizadas por O'Reilly.  Recientemente, por ejemplo, se ha interesado
 en el meme de la "[Internet
@@ -1621,62 +1158,33 @@ industrial" se hace público, solo la falta de imaginación previene a los
 escritores de O'Reilly a verlo en todos lados.  [Así describe uno de
 ellos](http://radar.oreilly.com/2012/12/the-industrial-internet-from-a-startup-perspective.html)
 una empresa que de otra forma no entraría dentro de los límites del
-meme: "Estoy seguro que su fundador no usaría las palabras 'Internet
+meme: "Estoy seguro que \[su fundador\] no usaría las palabras 'Internet
 industrial' para describir lo que él y su equipo están haciendo y hablar
 de _3Scan_ de esta forma podría resultar forzado.  Pero pienso que son
 un ejemplar de muchos de los principios fundamentales de este meme y
 resulta interesante pensarlos desde este marco."  Cinco años después,
-¿te sorprendería que exista algo llamado "la Internet industrial" cuyo
+¿te sorprendería que exista algo llamado la _Internet industrial_ cuyo
 objetivo principal es defender la libertad de _General Electric_ de
 "innovar" como le plazca?
-
-In his 2007 bestseller *Words That Work*, the Republican operative Frank
-Luntz lists ten rules of effective communication: simplicity, brevity,
-credibility, consistency, novelty, sound, aspiration, visualization,
-questioning, and context. O’Reilly, while employing most of them, has a
-few unique rules of his own. Clever use of visualization, for example,
-helps him craft his message in a way that is both sharp and open-ended.
-Thus, O’Reilly’s meme-engineering efforts usually result in “meme maps,”
-where the meme to be defined—whether it’s “open source” or “Web 2.0”—is
-put at the center, while other blob-like terms are drawn as connected to
-it.
 
 En el _bestseller_ del 2007 _Words That Work_ \[Palabras que funcionan\]
 el operador republicano Frank Luntz lista las diez reglas de la
 comunicación efectiva: simpleza, brevedad, credibilidad, consistencia,
 novedad, sonido, aspiración, visualización, cuestionamiento y contexto.
-Aunque O'Reilly utiliza muchas de ellas también tiene algunas propias.
+Aunque O'Reilly utiliza muchas de ellas, también tiene algunas propias.
 El uso astuto de la visualización, por ejemplo, le ayuda a crear su
 mensaje de forma que sea agudo y abierto.  Por lo tanto, la ingeniería
 memética que practica a menudo resulta en "mapas de memes", donde el
-meme a definirse --ya sea _open source_ como _web 2.0_-- es puesto en el
+meme a definirse --ya sea _open source_ o _web 2.0_-- es puesto en el
 centro, mientras que otros términos se colocan como conectados a él.
 
-The exact nature of these connections is rarely explained in full, but
-this is all for the better, as the reader might eventually interpret
-connections with their own agendas in mind. This is why the name of the
-meme must be as inclusive as possible: you never know who your eventual
-allies might be. “A big part of meme engineering is giving a name that
-creates a big tent that a lot of people want to be under, a train that
-takes a lot of people where they want to go,” [writes
-O’Reilly](http://www.slideshare.net/timoreilly/language-is-a-map-pdf-with-notes).
-Once the meme has been conceived, the rest of O’Reilly’s empire can step
-in and help make it real. His conferences, for example, play a crucial
-role: “When you look at any of our events, there’s ultimately some
-rewriting of the meme map in each of them. *Web 2.0* was about
-distinguishing companies that survived the dotcom bust from those that
-didn’t. *Strata* is about defining the new field of data science.
-*Velocity* is about making clear that the applications of the web depend
-on people to keep them running, unlike past generations of software that
-were simply software artifacts.”
-
 La naturaleza exacta de estas conexiones raramente es explicada, lo que
-resulta aun mejor, porque el lector eventualmente las interpreta con su
+resulta aun mejor, porque la lectora eventualmente las interpreta con su
 propia agenda en mente.  Es por esto que el nombre del meme tiene que
-ser lo más inclusive posible, porque nunca sabes quienes serán tus
+ser lo más inclusivo posible, porque nunca se sabe quienes serán tus
 aliados.  "Una parte importante de la ingeniería memética es encontrar
-un nombre que cree una gran carpa bajo la que mucha gente quiera estar,
-un tren que lleve a mucha gente a donde quieren ir",
+un nombre que cree un gran paraguas bajo la que mucha gente quiera
+estar, un tren que lleve a mucha gente a donde quieren ir",
 [escribe](http://www.slideshare.net/timoreilly/language-is-a-map-pdf-with-notes).
 Una vez que el meme es concebido, el resto del imperio O'Reilly puede
 involucrarse y ayudar a convertirlo en realidad.  Sus conferencias, por
@@ -1684,42 +1192,22 @@ ejemplo, juegan un rol crucial: "cuando observas nuestros eventos, en
 última instancia se trata de rescribir el mapa memético en cada uno de
 ellos.  La _web 2.0_ se trataba de distinguir las empresas que
 sobrevivieron la crisis de las _puntocom_ de aquellas que no.  Los
-estratos se tratan de definir el nuevo campo de la ciencia de datos.  La
-velocidad se trata de dejar en claro que las aplicaciones de la web
+_estratos_ se tratan de definir el nuevo campo de la ciencia de datos.
+La _velocidad_ se trata de dejar en claro que las aplicaciones de la web
 dependen de gente manteniéndolas en pie, al contrario de generaciones
 pasadas de software que eran meros artefactos."
-
-There is considerable continuity across O’Reilly’s memes—over time, they
-tend to morph into one another. Thus, [as he puts
-it](http://oreilly.com/pub/wlg/3017), “‘open source’ was a great
-reshaping of the meme for its day, moving us off some of the limitations
-of ‘free software,’ but it may not be the end of the story.” O’Reilly
-has gradually lost interest in “open source” and “Web 2.0,” moving on to
-new memes: “government as a platform” and “algorithmic regulation.” We
-can only guess what comes next. Such dexterity not only helps in
-organizing new events and investing in cool start-ups; it also, as those
-six thousand papers that cite Web 2.0 attest, leaves a huge imprint on
-our culture.
 
 Existe una considerable continuidad entre estos memes --a medida que
 pasa el tiempo, se mezclan unos con otros.  De esta forma, [como dice
 O'Reilly](http://oreilly.com/pub/wlg/3017), "_open source_ fue una gran
 reformulación del meme en su día, superando algunas de las limitaciones
-del software libre, aunque no fue el fin de la historia".  O'Reilly ha
+del 'software libre', aunque no fue el fin de la historia".  O'Reilly ha
 perdido interés en _open source_ y _web 2.0_, migrando hacia nuevos
 memes: "Estado como plataforma" y "regulación algorítmica".  Solo
 podemos adivinar lo que vendrá.  Esta destreza no solo le ayuda a
 organizar nuevos eventos e invertir en _startups_, también, como
-atestiguan los seis mil _papers_ que citan la _web 2.0_, le permitan
+atestiguan los seis mil _papers_ que citan la _web 2.0_, le permiten
 dejar una huella gigante en nuestra cultura.
-
-<span class="dropcap">A</span>ll the familiar pathologies of O’Reilly’s
-thinking are on full display in his quest to [meme-engineer his
-way](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
-to “Government 2.0.” The free software scenario is repeating itself:
-deeply political reform efforts are no longer seen as “moral crusades,”
-but are reinvented as mere attempts at increasing efficiency and
-promoting innovation.
 
 Todas las patologías familiares de su pensamiento están puestas en juego
 en su búsqueda por [hacer ingeniería
@@ -1729,47 +1217,27 @@ esfuerzos para las reformas profundamente políticas ya no se presentan
 como "cruzadas morales" sino que se re-inventan como meros intentos de
 incrementar la eficiencia y promover la innovación.
 
-Before O’Reilly went searching for a big-tent meme, there was little
-cohesion to the many disparate efforts to use technology to transform
-government. Some hoped that digitization would help reduce bureaucracy
-and allow everyone to fill out tax returns online. Others awaited the
-arrival of electronic town halls that would permit citizens to
-deliberate on the substance of policies that affect them. Yet another
-group hoped that digitization might make governments more transparent
-and accountable by forcing them to put some of the documents obtained
-through the Freedom of Information Act (FOIA) online. Finally, there
-were those who believed that increasing the availability and liquidity
-of government information would lead to new entrepreneurial projects and
-boost the economy.
-
-Antes de que O'Reilly comenzara la búsqueda de un meme-paraguas, había
-muy poca cohesión entre los muchos esfuerzos por utilizar tecnología
-para transformar el gobierno.  Algunos esperaban que la digitalización
-ayudara a reducir la burocracia y permitiera hacer los trámites
-tributarios en línea.  Otros esperaban la llegada de los consejos
-deliberantes electrónicos que permitieran a las ciudadanas deliberar
-sobre las políticas que les afectan.  Otro grupo esperaba que la
-digitalización volviera más transparentes y responsables a los
+Antes de que O'Reilly comenzara la búsqueda de un meme que sea un gran
+paraguas, había muy poca cohesión entre los muchos esfuerzos por
+utilizar tecnología para transformar el Estado.  Algunas esperaban que
+la digitalización ayudara a reducir la burocracia y permitiera realizar
+los trámites tributarios en línea.  Otras esperaban la llegada de los
+consejos deliberantes electrónicos que permitieran a las ciudadanas
+deliberar sobre las políticas que les afectan.  Otro grupo esperaba que
+la digitalización volviera más transparentes y responsables a los
 gobiernos, al forzarlos a publicar algunos de los documentos obtenidos a
 través de la _Freedom of Information Act_[^foia].  Finalmente, hubo
 aquellos que pensaban que la disponibilidad y liquidez de la información
-estatal llevaría al surgimiento de proyectos emprendedores que promuevan
-la economía.
+estatal llevaría al surgimiento de proyectos emprendedores que
+promoverían la economía.
 
-[^foia]: TODO
-
-Many of these efforts started long before the web and had no obvious
-connection to Internet culture, let alone Web 2.0. Occasionally, these
-four efforts—aiming at greater efficiency, deliberation, transparency,
-and innovation—overlapped, but mostly they have been driven by two very
-different agendas. One cohort, interested in increasing efficiency and
-spurring innovation, pursued campaigns that were mostly economic in
-character; these folks were not particularly interested in the political
-nature of the regimes they were seeking to reform. Singapore—where
-anyone can file their paperwork in minutes—was their role model.
+[^foia]: La _Ley de libertad de información_ es una ley federal
+estadounidense que desde el '66 permitiría acceso a las ciudadanas a
+información clasificada por agencias estatales, con algunas excepciones
+(nota de la traducción.)
 
 Muchos de estos esfuerzos comenzaron mucho antes que la _web_ y no
-tenían una conexión obvia con la cultura de Internet y ni hablar de la
+tenían una conexión obvia con la cultura de Internet, ni hablar de la
 _web 2.0_.  Ocasionalmente, estos cuatro esfuerzos --mayor eficiencia,
 deliberación, transparencia e innovación-- se superpusieron, pero han
 sido llevados por dos agendas distintas.  Por un lado, el grupo
@@ -1778,17 +1246,7 @@ económico, sin interesarse particularmente en la naturaleza política de
 los regímenes que buscaban reformar.  Singapur --donde cualquiera puede
 hacer trámites en minutos-- era su modelo a seguir.
 
-The other cohort, interested in deliberation and transparency, was
-primarily concerned with transferring power from governments to citizens
-and increasing the accountability of public institutions. They argued
-that citizens have a right to obtain information about how their
-governments operate. Such explicitly political demands became the
-cornerstone of various Right to Information campaigns. This second group
-wouldn’t accept authoritarian Singapore as a role model, since most of
-its e-innovations do very little to promote meaningful citizen
-participation in policy-making or increase accountability.
-
-El otro grupo, interesado en la deliberación y la transparencia, se
+La otra facción, interesada en la deliberación y la transparencia, se
 preocupaba principalmente en la transferencia de poder desde los
 gobiernos a las ciudadanas y en el incremento de la responsabilidad de
 las instituciones públicas.  Argumentaban que las ciudadanas tiene el
@@ -1799,15 +1257,6 @@ no aceptaría a la autoritaria Singapur como modelo, ya que la mayoría de
 sus e-innovaciones hacen muy poco por promover una participación
 ciudadana significativa en la elaboración de políticas o el incremento
 de la responsabilidad.
-
-Most modern governments, not surprisingly, prefer the economic aspects
-of digitization reform to the political ones. Innovative schemes, like
-smart parking systems, can help at election time; lengthy disclosures of
-government deliberations are likely to cause headaches. Right-leaning
-governments have an extra reason to celebrate the economism of the first
-cohort: publishing aggregate information about the performance of
-individual public service providers may help convince the electorate
-that those services should be provided by the private sector.
 
 No es sorprendente que la mayoría de los estados modernos prefieran los
 aspectos económicos de la digitalización que los políticos.  Los
@@ -1820,58 +1269,22 @@ sobre la performance de proveedores de servicios públicos puede ayudar a
 convencer al electorado que esos servicios deberían ser provistos por el
 sector privado.
 
-> A clique of techno-entrepreneurs has hijacked our language and, with
-> it, our reason.
-
-% Imagino que esto era un resaltado en el texto original -- fauno
-
-By the early 2000s, as O’Reilly and his comrades were celebrating open
-source as a new revolutionary approach to everything, their discussions
-wandered into debates about the future of governance. Thus, a term like
-“open government”—which, until then, had mostly been used as a synonym
-for “transparent and accountable government”—was reinvented as a
-shortened version of “open source government.” The implication of this
-subtle linguistic change was that the main cultural attributes of open
-source software—the availability of the source code for everyone’s
-inspection, the immense contribution it can make to economic growth, the
-new decentralized production model that relies on contributions from
-numerous highly distributed participants—were to displace older criteria
-like “transparency” or “accountability” as the most desirable attributes
-of open government. The coining of the “open government” buzzwords was
-meant to produce a very different notion of openness.
-
-Al principio de los 2000, mientras O'Reilly y sus camaradas celebraban
-el _open source_ como el nuevo y revolucionario abordaje de todo, sus
+Al principio del 2000, mientras O'Reilly y sus camaradas celebraban el
+_open source_ como el nuevo y revolucionario abordaje de todo, sus
 discusiones empezaron a derivar en debates sobre el futuro del gobierno.
 Por eso, un término como "gobierno abierto" --que hasta el momento había
 sido utilizado como sinónimo de "gobierno transparente y responsable"--
-fue reinventado como una versión recortada de "gobierno de código
+fue re-inventado como una versión recortada de "gobierno de código
 abierto".  La implicación de este pequeño y sutil cambio lingüístico fue
 que los principales atributos culturales del _open source_ --la
 disponibilidad del código fuente para la inspección pública, la inmensa
 contribución que puede hacer al crecimiento económico, el nuevo modelo
-de producción decentralizada, basado en las contribuciones de numerosos
-participantes altamente distribuidos-- desplazaron los viejos criterios
+de producción decentralizada, basado en las contribuciones de numerosas
+participantes altamente distribuidas-- desplazaron los viejos criterios
 de "transparencia" y "responsabilidad" como los atributos más deseables
 del gobierno abierto.  La acuñación de términos pegadizos como "gobierno
 abierto" tenía como objetivo la producción de una noción muy diferente
 de apertura.
-
-Initially, O’Reilly had little role in this process; the meme of “open
-source” was promiscuous enough to redefine many important terms without
-his intervention. But in 2007, O’Reilly [hosted yet another
-summit](http://www.opengovdata.org/), attended by technologists and
-civic hackers, to devise a list of key principles of open government.
-The group came up with [eight
-principles](https://public.resource.org/8_principles.html), all focused
-on the purely technical issue of how to ensure that, once data was
-released by the government, nothing would hold it back. As long as this
-“open data” was liquid and reusable, others could build on it. Neither
-the political process that led to the release of the data nor its
-content was considered relevant to openness. Thus, data about how many
-gum-chewers Singapore sends to prison would be “open” as long as the
-Singaporean government shared it in suitable formats. Why it shared such
-data was irrelevant.
 
 Inicialmente, O'Reilly tuve un rol muy pequeño en este proceso.  El meme
 del _open source_ fue lo suficientemente promiscuo como para redefinir
@@ -1890,39 +1303,16 @@ mascadoras de chicle envía Singapur a la cárcel serían "abiertos"
 siempre que el gobierno singapurense los compartiera en formatos
 adecuados.  Por qué los compartiría resulta irrelevante.
 
-With Obama’s election, Washington was game for all things 2.0. This is
-when O’Reilly turned his full attention to government reform, deploying
-and manipulating several memes at once—“Gov 2.0,” “open government,” and
-“government as a platform”—in order to establish the semantic primacy of
-the economic dimension of digitization. A decade earlier, O’Reilly had
-redefined “freedom” as the freedom of developers to do as they wished;
-now it was all about recasting “openness” in government in purely
-economic and innovation-friendly terms while downplaying its political
-connotations.
-
-Con la elección de Obama, Washington se convirtió en territorio de caza
+Con el triunfo de Obama, Washington se convirtió en territorio de caza
 para todo lo que sea 2.0.  Aquí es donde O'Reilly volcó toda su atención
-a la reforma estatal, lanzando y manipulando varios memes a la vez
+en la reforma estatal, lanzando y manipulando varios memes a la vez
 --"gobierno 2.0", "gobierno abierto" y "Estado como plataforma"-- para
 establecer la primacía semántica de la dimensión economicista de la
 digitalización.  Una década antes, O'Reilly había redefinido la
 "libertad" como la libertad de los desarrolladores de hacer lo que
 quisieran, ahora era el tiempo de reciclar la "apertura" del estado en
 términos puramente económicos y orientados a la innovación mientras se
-minizan las connotaciones políticas.
-
-O’Reilly’s writings on Gov 2.0 reveal the same talented meme-engineer
-who gave us open source and Web 2.0. In his [seminal essay on the
-subject](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html),
-O’Reilly mixes semantic environments without a shred of regret. Both Web
-2.0 and Gov 2.0, he argues, return us to earlier, simpler ways, away
-from the unnecessary complexity of modern institutions. “Web 2.0 was not
-a new version of the World Wide Web; it was a renaissance after the dark
-ages of the dotcom bust, a rediscovery of the power hidden in the
-original design of the World Wide Web,” he writes. “Similarly,
-Government 2.0 is not a new kind of government; it is government
-stripped down to its core, rediscovered and reimagined as if for the
-first time.”
+minimizan las connotaciones políticas.
 
 Sus escritos sobre el _gobierno 2.0_ revelan el mismo ingeniero de memes
 que con tanto talento nos diera el _open source_ y la _web 2.0_.  En su
@@ -1933,8 +1323,8 @@ _web 2.0_ como el _gobierno 2.0_, argumenta, nos devuelven a maneras más
 tempranas y simples, lejos de la complejidad innecesaria de las
 instituciones modernas.  "La _web 2.0_ no era una nueva versión de la
 _World Wide Web_, sino un renacimiento luego de la edad media de la
-burbuja de las _dotcom_, un redescubrimiento del poder escondido en el
-diseño original de la WWW.  De la misma forma, el _gobierno 2.0_ no es
+burbuja de las _puntocom_, un redescubrimiento del poder escondido en el
+diseño original de la _WWW_.  De la misma forma, el _gobierno 2.0_ no es
 un nuevo tipo de gobierno, sino un gobierno despojado hasta el núcleo,
 redescubierto y reimaginado como si fuera la primera vez."
 
