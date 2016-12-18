@@ -1328,55 +1328,27 @@ diseño original de la _WWW_.  De la misma forma, el _gobierno 2.0_ no es
 un nuevo tipo de gobierno, sino un gobierno despojado hasta el núcleo,
 redescubierto y reimaginado como si fuera la primera vez."
 
-Once it’s been established that new paradigms of government can be
-modeled on the success of technology companies, O’Reilly can argue that
-“it’s important to think deeply about what the three design principles
-of transparency, participation, and collaboration mean in the context of
-technology.” These were the very three principles that the Obama
-administration articulated in its “Open Government Directive,” published
-on the president’s first day in office. But why do we have to think
-about their meaning in “the context of technology”? The answer is quite
-simple: whatever transparency and participation used to mean doesn’t
-matter any longer. Now that we’ve moved to an era of Everything 2.0, the
-meaning of those terms will be dictated by the possibilities and
-inclinations of technology. And what is technology today if not “open
-source” and “Web 2.0”?
-
-Una vez establecido que los nuevos paradigmas del gobierno pueden
+Una vez establecido que los nuevos paradigmas del Estado pueden
 modelarse a semejanza del éxito de las empresas tecnológicas, O'Reilly
 puede argumentar que "es importante pensar profundamente acerca de lo
 que los tres principios de diseño que son la transparencia, la
 participación y la colaboración significan en el contexto de la
 tecnología".  Estos eran los mismos tres principios que el gobierno de
-Obama articulaba en sus "directivas para el gobierno abierto", publicado
-en su primer día como presidente.  ¿Pero por qué tenemos que pensarlos
-en el "contexto de la tecnología"?  La respuesta es bastante simple: lo
-que sea que la transparencia y la participación significaran ya no
-importa.  Ahora que estamos en la era de Todo 2.0, el significado de
-estos términos será dictado por las posibilidades e inclinaciones de la
-tecnología.  ¿Y qué es la tecnología sino el _open source_ y la _web
-2.0_?
-
-Here, for example, is how O’Reilly tries to reengineer the meme of
-transparency:
+Obama articulaba en sus "Directivas para el Gobierno Abierto",
+publicadas en su primer día como presidente.  ¿Pero por qué tenemos que
+pensarlos en el "contexto de la tecnología"?  La respuesta es bastante
+simple: lo que sea que la transparencia y la participación significaran
+ya no importa.  Ahora que estamos en la era de _Todo 2.0_, el
+significado de estos términos será dictado por las posibilidades e
+inclinaciones de la tecnología.  ¿Y qué es la tecnología actual sino el
+_open source_ y la _web 2.0_?
 
 Por ejemplo, así es como O'Reilly intenta hacer reingeniería del meme de
 la transparencia:
 
-> The word “transparency” can lead us astray as we think about the
-> opportunity for Government 2.0. Yes, it’s a good thing when government
-> data is available so that journalists and watchdog groups like the
-> Sunlight Foundation can disclose cost overruns in government projects
-> or highlight the influence of lobbyists. But that’s just the
-> beginning. The magic of open data is that the same openness that
-> enables transparency also enables innovation, as developers build
-> applications that reuse government data in unexpected ways.
-> Fortunately, Vivek Kundra and others in the administration understand
-> this distinction, and are providing data for both purposes.
-
 > La palabra "transparencia" nos puede desviar mientras pensamos en la
 > oportunidad que es el _gobierno 2.0_.  Sí, es bueno que los datos del
-> estado estén disponibles para que los periodistas y grupos activistas
+> Estado estén disponibles para que los periodistas y grupos activistas
 > como la _Sunlight Foundation_[^sunlight] puedan publicar los costos
 > inflados de proyectos estatales o resaltar la influencia de los
 > _lobbies_.  Pero eso es sólo el comienzo.  La magia de los datos
@@ -1387,23 +1359,10 @@ la transparencia:
 > comprenden esta distinción y están proveyendo datos para ambos
 > propósitos.
 
+[^sunlight]: Una fundación sobre datos abiertos (nota de la traducción).
 
-[^sunlight]: Una fundación sobre datos abiertos.
-
-Vivek Kundra is the former chief information officer of the U.S.
-government who oversaw the launch of a portal called data.gov, which
-required agencies to upload at least three “high-value” sets of their
-own data. This data was made “open” in the same sense that open source
-software is open—i.e., it was made available for anyone to see. But,
-once again, O’Reilly is dabbling in meme-engineering: the data dumped on
-data.gov, while potentially beneficial for innovation, does not
-automatically “enable transparency.” O’Reilly deploys the highly
-ambiguous concept of openness to confuse “transparency as
-accountability” (what Obama called for in his directive) with
-“transparency as innovation” (what O’Reilly himself wants).
-
-Vivek Kundra es el anterior jefe de información del gobierno
-estadounidense, que supervisó el lanzamiento de un portal llamado
+Vivek Kundra es el ex-jefe de información del gobierno estadounidense,
+que supervisó el lanzamiento de un portal llamado
 [data.gov](http://data.gov), requiriendo a las agencias estatales
 publicar al menos tres conjuntos de "alto valor" de los datos que
 manejan.  Estos datos fueron "abiertos" en el mismo sentido que el
@@ -1413,60 +1372,31 @@ ingeniería memética: los datos lanzados a través de _data.gov_, mientras
 que son potencialmente benéficos para la innovación, no "habilitan la
 transparencia" automáticamente.  O'Reilly emplea el concepto altamente
 ambiguo de "apertura" para confundir "transparencia como
-responsabilidad" (lo que Obama decía en su directiva) con "transparencia
-como innovación" (lo que O'Reilly quiere).
-
-How do we ensure accountability? Let’s forget about databases for a
-moment and think about power. How do we make the government feel the
-heat of public attention? Perhaps by forcing it to make targeted
-disclosures of particularly sensitive data sets. Perhaps by
-strengthening the FOIA laws, or at least making sure that government
-agencies comply with existing provisions. Or perhaps by funding
-intermediaries that can build narratives around data—much of the
-released data is so complex that few amateurs have the processing power
-and expertise to read and make sense of it in their basements. This
-might be very useful for boosting accountability but useless for
-boosting innovation; likewise, you can think of many data releases that
-would be great for innovation and do nothing for accountability. The
-language of “openness” does little to help us grasp key differences
-between the two. In this context, openness leads to Neil Postman’s
-“crazy talk,” resulting in the pollution of the values of one semantic
-environment (accountability) with those of another (innovation).
+responsabilidad" (lo que Obama decía en sus directivas) con
+"transparencia como innovación" (lo que O'Reilly quiere).
 
 ¿Cómo aseguramos la responsabilidad?  Olvidemos las bases de datos por
 un momento y pensemos sobre el poder.  ¿Cómo logramos que el gobierno
 sienta el calor de la atención pública?  Tal vez forzándolo a hacer
 publicaciones puntuales de conjuntos de datos particularmente sensibles.
-O tal vez fortaleciendo las leyes FOIA o al menos asegurándonos que las
-agenciales estatales cumplen con las provisiones existentes.  O tal vez
-financiando intermediarios que puedan construir narrativas sobre esos
-datos --ya que muchos de los datos publicados son tan complejos que
-pocos amateurs tiene la capacidad de procesamiento y experticia para
-leerlos y darles sentido.  Esto podría ser muy útil para promover la
-responsabilidad pero inútil para promover la innovación.  Del mismo
-modo, podemos imaginar muchas publicaciones de datos que serían geniales
-para la innovación y no provocar nada en cuanto a responsabilidad.  El
-lenguaje de la "apertura" no nos ayuda mucho a captar las principales
-diferencias entre ambos intereses.  En este contexto, la apertura lleva
-a la "charla loca" de Neil Postman, resultando en la polución de los
-valores de un ambiente semántica (la responsabilidad) con los de otro
-(la innovación).
-
-O’Reilly doesn’t always coin new words. Sometimes he manipulates the
-meanings of existing words. Cue his framing of “participation”:
+O tal vez fortaleciendo las leyes de libertad de información o al menos
+asegurándonos que las agenciales estatales cumplen con las provisiones
+existentes.  O tal vez financiando intermediarias que puedan construir
+narrativas sobre esos datos --ya que muchos de los datos publicados son
+tan complejos que pocas amateurs tienen la capacidad de procesamiento y
+experticia para leerlos y darles sentido.  Esto podría ser muy útil para
+promover la responsabilidad pero inútil para promover la innovación.
+Del mismo modo, podemos imaginar muchas publicaciones de datos que
+serían geniales para la innovación y no provocar nada en cuanto a
+responsabilidad.  El lenguaje de la "apertura" no nos ayuda mucho a
+captar las principales diferencias entre ambos intereses.  En este
+contexto, la apertura lleva a la _charla loca_ de Neil Postman,
+resultando en la polución de los valores de un ambiente semántico (la
+responsabilidad) con los de otro (la innovación).
 
 O'Reilly no siempre acuña términos nuevos.  A veces manipula los
 significados de los existentes.  Aquí su concepción de la
 "participación":
-
-> We can be misled by the notion of participation to think that it’s
-> limited to having government decision-makers “get input” from
-> citizens. This would be like thinking that enabling comments on a
-> website is the beginning and end of social media! It’s a trap for
-> outsiders to think that Government 2.0 is a way to use new technology
-> to amplify the voices of citizens to influence those in power, and by
-> insiders as a way to harness and channel those voices to advance their
-> causes.
 
 > La noción de la participación nos puede despistar hacia pensar que
 > está limitada a que los que toman las decisiones "reciban las
@@ -1478,19 +1408,8 @@ significados de los existentes.  Aquí su concepción de la
 > aquellos que tienen el poder y para los interiorizados como una forma
 > de aprovechar y canalizar esas voces para promover sus causas.
 
-It’s hard to make sense of this passage without understanding the exact
-meaning of a term like “participation” in the glossary of All Things Web
-2.0. According to O’Reilly, one of the key attributes of Web 2.0 sites
-is that they are based on an “[architecture of
-participation](http://oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html)”;
-it’s this architecture that allows “collective intelligence” to be
-harnessed. Ranking your purchases on Amazon or reporting spammy emails
-to Google are good examples of clever architectures of participation.
-Once Amazon and Google start learning from millions of users, they
-become “smarter” and more attractive to the original users.
-
 Resulta difícil darle sentido a esta cita sin comprender el significado
-exacto del término "participación" en el glosario de Todo 2.0.  Según
+exacto del término "participación" en el glosario del _Todo 2.0_.  Según
 O'Reilly, uno de los atributos clave de los sitios de la _web 2.0_ es
 que están basados en una "[arquitectura de
 participación](http://oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html)",
@@ -1500,33 +1419,14 @@ arquitecturas de participación astutas.  Una vez que _Amazon_ y _Google_
 empiezan a aprender de sus millones de usuarias, se vuelven "más
 inteligentes" y más atractivas a las usuarias originales.
 
-This is a very limited vision of participation. It amounts to no more
-than a simple feedback session with whoever is running the system. You
-are not participating in the design of that system, nor are you asked to
-comment on its future. There is nothing “collective” about such
-distributed intelligence; it’s just a bunch of individual users acting
-on their own and never experiencing any sense of solidarity or group
-belonging. Such “participation” has no political dimension; no power
-changes hands.
-
 Esta visión de lo que es la participación es muy limitada.  No es más
-que una simple sesión de _feedback_ con quien sea que está controlando
-el sistema.  No estamos participando en el diseño de dicho sistema, ni
-nos preguntan opinión sobre su futuro.  No hay nada "colectivo" en esa
-inteligencia distribuida, solo somos un montón de usuarias individuales
-actuando por nuestra cuenta y nunca experimentando un sentido de
-solidaridad o pertenencia de grupo.  Tal "participación" carece de
-dimensión política, no hay poder cambiando de manos.
-
-Occasionally, O’Reilly’s illustrations include activities that demand no
-actual awareness of participation—e.g., a blog that puts up links to
-other blogs ends up improving Google’s search index—which is, not
-coincidentally perhaps, how we think of “participation” in the market
-system when we go shopping. To imply that “participation” means the same
-thing in the context of Web 2.0 as it does in politics is to do the very
-opposite of what Korzybski and general semantics prescribe. Were he
-really faithful to those principles, O’Reilly would be pointing out the
-differences between the two—not blurring them.
+que una simple sesión de retroalimentación con quien sea que está
+controlando el sistema.  No estamos participando en el diseño de dicho
+sistema, ni nos preguntan opinión sobre su futuro.  No hay nada
+"colectivo" en esa inteligencia distribuida, solo somos un montón de
+usuarias individuales actuando por nuestra cuenta y nunca experimentando
+un sentido de solidaridad o pertenencia de grupo.  Tal "participación"
+carece de dimensión política, no hay poder cambiando de manos.
 
 En ocasiones, las ilustraciones de O'Reilly incluyen actividades que no
 demandan una verdadera conciencia de la participación --por ejemplo,
@@ -1539,48 +1439,18 @@ prescriben Korzybski y la semántica general.  Si fuera fiel a esos
 principios, O'Reilly estaría demostrando las diferencias entre ambos, no
 difuminándolas.
 
-So what are we to make of O’Reilly’s exhortation that “it’s a trap for
-outsiders to think that Government 2.0 is a way to use new technology to
-amplify the voices of citizens to influence those in power”? We might
-think that the hallmark of successful participatory reforms would be
-enabling citizens to “influence those in power.” There’s a very explicit
-depoliticization of participation at work here. O’Reilly wants to
-redefine participation from something that arises from shared grievances
-and aims at structural reforms to something that arises from individual
-frustration with bureaucracies and usually ends with citizens using or
-building apps to solve their own problems.
-
 ¿Entonces qué tenemos que hacer con su exhortación sobre "la trampa para
 los ajenos pensar que el _gobierno 2.0_ es una forma de usar nuevas
 tecnologías para amplificar las voces de los ciudadanos para influenciar
 a aquellos que tienen el poder"?  Podríamos pensar que el sello
 distintivo de reformas participativas exitosas sería la capacidad de las
-ciudadanas de "influenciar a aquellos que tienen el poder".  Aquí hay una
-despolitización muy explítica de la participación.  O'Reilly quiere
+ciudadanas de "influenciar a aquellos que tienen el poder".  Aquí hay
+una despolitización muy explítica de la participación.  O'Reilly quiere
 redefinir la participación desde algo que surge de reivindicaciones
 compartidas y miras a reformas estructurales a algo que surge de
 frustraciones individuales con las burocracias y que usualmente termina
-con ciudadanas usando o construyendo _apps_ para resolver sus problemas.
-
-> There is nothing “collective” about Amazon’s distributed intelligence;
-> it’s just a bunch of individual users acting on their own.
-
-As a result, once-lively debates about the content and meaning of
-specific reforms and institutions are replaced by governments calling on
-their citizens to help find spelling mistakes in patent applications or
-use their phones to report potholes. If Participation 1.0 was about the
-use of public reason to push for political reforms, with groups of
-concerned citizens coalescing around some vague notion of the shared
-public good, Participation 2.0 is about atomized individuals finding or
-contributing the right data to solve some problem without creating any
-disturbances in the system itself. (These citizens do come together at
-“hackathons”—to help Silicon Valley liberate government data at no
-cost—only to return to their bedrooms shortly thereafter.) Following the
-open source model, citizens are invited to find bugs in the system, not
-to ask whether the system’s goals are right to begin with. That politics
-can aspire to something more ambitious than bug-management is not an
-insight that occurs after politics has been reimagined through the prism
-of open source software.
+con ciudadanas usando o construyendo _apps_ para resolver sus propios
+problemas.
 
 Como resultado, los alguna vez acalorados debates sobre el contenido y
 significado de reformas específicas e instituciones son reemplazados por
@@ -1592,29 +1462,14 @@ ciudadanas comprometidas juntándose alrededor de vagas nociones del bien
 público común, la _participación 2.0_ se trata de individuos atomizados
 encontrando o contribuyendo los datos correctos para resolver algún
 problema, sin alterar el sistema mismo.  (Estas ciudadanas se juntan en
-_hackatones_ para ayudar a Silicon Valley a liberar datos estatales sin
-costo, volviendo a la inactividad después.)  Siguiendo el modelo del
-_open source_, las ciudadanas son invitadas a encontrar _bugs_ en el
-sistema, no a preguntar si los objetivos del sistema son adecuados.  Que
-la política pueda inspirar a algo más ambicioso que la administración de
-_bugs_ no es una visión que ocurra luego de que la política haya sido
-reimaginada a través del prisma del software _open source_.
-
-Protest is one activity that [O’Reilly hates
-passionately](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html).
-“There’s a kind of passivity even to our activism: we think that all we
-can do is to protest,” he writes. “Collective action has come to mean
-collective complaint. Or at most, a collective effort to raise money.”
-In contrast, he urges citizens to “apply the DIY spirit on a civic
-scale.” To illustrate the DIY spirit in action, O’Reilly [likes to
-invoke](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html)
-the example of a Hawaiian community that, following a period of
-government inaction, raised \$4 million and repaired a local park
-essential to its livelihood. For O’Reilly, the Hawaiian example reveals
-the natural willingness of ordinary citizens to solve their own
-problems. Governments should learn from Hawaii and offload more work
-onto their citizens; this is the key insight behind O’Reilly’s
-“government as a platform” meme.
+_hackatones_ para ayudar a _Silicon Valley_ a liberar datos estatales
+sin cobrar, volviendo a una cómoda inactividad después.)  Siguiendo el
+modelo del _open source_, las ciudadanas son invitadas a encontrar
+_bugs_ en el sistema, no a preguntar si los objetivos del sistema son
+adecuados.  Que la política pueda inspirar a algo más ambicioso que la
+administración de _bugs_ no es una visión que ocurra luego de que la
+política haya sido reimaginada a través del prisma del software _open
+source_.
 
 La protesta es una actividad que O'Reilly [odia con
 pasión](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html).
@@ -1633,48 +1488,26 @@ sus propios problemas.  Los estados deberían aprender de Hawaii y
 descargar más trabajo en sus ciudadanas.  Esta es la visión clave detrás
 del meme "Estado como plataforma".
 
-
 [^diy]: _Do It Yourself_ --hazlo tú misma-- es un principio de acción
 directa punk (nota de la traducción).
 
-This platform meme was, of course, inspired by Silicon Valley. Instead
-of continuing to build its own apps, Apple built an App Store, getting
-third-party developers to do all the heavy lifting. This is the model
-that governments must emulate. In fact, notes O’Reilly, they once did:
-in the 1950s, the U.S. government built a system of highways that
-allowed the private sector to build many more settlements around them,
-while in the 1980s the Reagan administration started opening up the GPS
-system, which gave us amazing road directions and Foursquare (where
-O’Reilly is an investor).
-
 Por supuesto que este meme de las plataformas fue inspirado por _Silicon
 Valley_.  En lugar de construir sus propias _apps_, _Apple_ construyó la
-_Apple Store_, logrando que desarrolladores ajenos a la empresa cargaran
-con el peso.  Este es el modelo que el estado debe emular.  De hecho,
-nota O'Reilly, alguna vez lo hicieron: en los '50, el estado
+_Apple Store_, logrando que desarrolladoras ajenas a la empresa cargaran
+con el peso.  Este es el modelo que el Estado debe emular.  De hecho,
+nota O'Reilly, alguna vez lo hicieron: en los '50, el Estado
 estadounidense construyó un sistema de autopistas que permitieron al
 sector privado construir muchos más asentamientos a su alrededor,
 mientras que en los '80 el gobierno de Reagan comenzó por abrir el
-sistema de GPS, lo que nos dio las maravillosas direcciones de tránsito
+sistema de GPS, lo que nos dió las maravillosas direcciones de tránsito
 y _Foursquare_ (de la que O'Reilly es inversor).
 
-O’Reilly’s prescriptions, as is often the case, do contain a grain of
-truth, but he nearly always exaggerates their benefits while obfuscating
-their costs. One of the main reasons why governments choose not to
-offload certain services to the private sector is not because they think
-they can do a better job at innovation or efficiency but because other
-considerations—like fairness and equity of access—come into play. “If
-Head Start were a start-up it would be out of business. It doesn’t
-work,” remarked O’Reilly in a [recent
-interview](http://thehill.com/blogs/hillicon-valley/interviews-profiles).
-Well, exactly: that’s why Head Start is not a start-up.
-
 Sus prescripciones a menudo contienen una pizca de verdad, pero casi
-siempre exagera los beneficioes mientras ofusca los costos.  Una de las
+siempre exagera los beneficios mientras ofusca los costos.  Una de las
 razones por las que los estados no eligen descargar ciertos servicios al
 sector privado no se deben a que piensen que pueden hacer un mejor
 trabajo en cuando a innovación o eficiencia sino porque existen otras
-consideraciones --como justifica y acceso igualitario-- que están en
+consideraciones --como justicia y acceso igualitario-- que están en
 juego.  "Si _Head Start_ fuera una _startup_ iría a la quiebra.  No
 funciona", remarcaba en una [entrevista
 reciente](http://thehill.com/blogs/hillicon-valley/interviews-profiles).
@@ -1683,15 +1516,7 @@ Exactamente, por eso _Head Start_[^head_start] no lo es.
 [^head_start]: _Head Start_ es un programa estatal que desde 1965 provee
 ayuda escolar a niñas de bajos recursos (nota de la traducción).
 
-The real question is not whether developers should be able to submit
-apps to the App Store, but whether citizens should be paying for the
-apps or counting on the government to provide these services. To push
-for the platform metaphor as the primary way of thinking about the
-distribution of responsibilities between the private and the public
-sectors is to push for the economic-innovative dimension of Gov 2.0—and
-ensure that the private sector always emerges victorious.
-
-La pregunta real no es si los desarrolladores deberían poder enviar
+La pregunta real no es si las desarrolladoras deberían poder enviar
 _apps_ a la _App Store_, sino si las ciudadanas deberían pagar por ellas
 o esperar que el Estado provea esos servicios.  Promover la metáfora de
 la plataforma como la forma principal de pensar sobre la distribución de
@@ -1699,91 +1524,41 @@ responsabilidades entre los sectores público y privado es promover la
 dimensión económica-innovativa del _gobierno 2.0_ --y asegurarse que el
 sector privado siempre emerja victorioso.
 
-O’Reilly defines “government as a platform” as “the notion that the best
-way to shrink the size of government is to introduce the idea that
-government should provide fewer citizen-facing services, but should
-instead consciously provide infrastructure only, with APIs and standards
-that let the private sector deliver citizen facing services.” [He
-believes
-that](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
-“the idea of government as a platform applies to every aspect of the
-government’s role in society”—city affairs, health care, financial
-services regulation, police, fire, and garbage collection. “\[Government
-as a platform\] is the right way to frame the question of Government
-2.0.”
-
-O'Reilly define el "Estado como plataforma" como "la noción de que la
+O'Reilly define el _Estado como plataforma_ como "la noción de que la
 mejor manera de achicar el Estado es introduciendo la idea de que debe
 proveer menos servicios a los ciudadanos y en su lugar proveer solo la
 infraestructura, con APIs[^api] y estándares que permitan al sector
 privado proveer esos mismos servicios."  [Cree
 que](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
-"la idea del Estado como plataforma aplica a todo aspecto del rol del
+"la idea del _Estado como plataforma_ aplica a todo aspecto del rol del
 Estado en la sociedad" --gestión de la ciudad, salud, regulación de
 servicios financieros, policía, bomberos y recolección de basura.  "\[El
 Estado como plataforma\] es la forma correcta de enmarcar la pregunta
 del _gobierno 2.0_.
 
 [^api]: Una _API_ en este contexto es una forma de obtener datos de una
-plataforma desde otra (nota de la traducción).
+plataforma desde otra, usando un protocolo público (nota de la
+traducción).
 
-One person who is busy turning the “government as a platform” meme into
-reality is David Cameron in the U.K. Cameron’s “[Big
-Society](http://www.number10.gov.uk/news/big-society-speech/)” idea is
-based on three main tenets: decentralization of power from London to
-local governments, making information about the public sector more
-transparent to citizens, and paying providers of public services based
-on the quality of their service, which, ideally, would be measured and
-published online, thanks to feedback provided by the public. The idea
-here is that the government will serve as a coordinator of sorts,
-allowing people to come together—perhaps even giving them seed funding
-to kick-start alternatives to inefficient public services.
-
-Una persona que está muy ocupada en volver realidad el meme del "Estado
-como plataforma" es David Cameron en el Reino Unido.  La idea de _[Big
-Society](http://www.number10.gov.uk/news/big-society-speech/)_ de
-Cameron está basada en tres principios: decentralización del poder desde
+Una persona que está muy ocupada en volver realidad el meme del _Estado
+como plataforma_ es David Cameron en el Reino Unido.  La idea de [_Big
+Society_](http://www.number10.gov.uk/news/big-society-speech/) de
+Cameron está basada en tres principios: decentralizar el poder desde
 Londres a los gobiernos locales, transparentar la información del sector
 público a las ciudadanas y pagar a los proveedores de servicios públicos
 de acuerdo a la calidad del servicio, que idealmente sería medido y
-publicado en línea, gracias al _feedback_ provisto por el público.  La
-idea aquí es que el Estado funcionaría como una especie de coordinador,
-permitiendo a la gente a unirse --tal vez proveyendo el capital semilla
-para arrancar alternativas a servicios públicos ineficientes.
-
-> Once-lively debates about reform are replaced by governments calling
-> on their citizens to use their phones to report potholes.
-
-Cameron’s motivation is clear: the government simply has no money to pay
-for services that were previously provided by public institutions, and
-besides, shrinking the government is something his party has been
-meaning to do anyway. Cameron immediately grasped the strategic
-opportunities offered by the ambiguity of a term like “open government”
-and embraced it wholeheartedly—in its most apolitical, economic version,
-of course. At the same time that he celebrated the ability of “[armchair
-auditors](http://www.dailymail.co.uk/debate/article-1345777/David-Cameron-Armchair-auditors-leave-councils-hide.html)”
-to pore through government databases, he also criticized freedom of
-information laws, alleging that FOI requests are “[furring up the
-arteries of
-government](http://www.telegraph.co.uk/news/politics/9149322/What-price-freedom-of-information.html)”
-and even threatening to start charging for them. Francis Maude, the Tory
-politician who Cameron put in charge of liberating government data, is
-[on the record
-stating](http://ci-journal.net/index.php/ciej/article/view/845) that
-open government is “what modern deregulation looks like” and that he’d
-“like to make FOI redundant.” In 2011, Cameron’s government released a
-white paper on “[Open Public
-Services](http://www.openpublicservices.cabinetoffice.gov.uk/)” that
-uses the word “open” in a peculiar way: it argues that, save for
-national security and the judiciary, all public services must become
-open to competition from the market.
+publicado en línea, gracias a la retroalimentación provista por el
+público.  La idea aquí es que el Estado funcionaría como una especie de
+coordinador, permitiendo a la gente unirse --tal vez proveyendo el
+capital semilla para arrancar alternativas a servicios públicos
+ineficientes.
 
 La motivación de Cameron es clara: el Estado no tiene dinero para pagar
 por servicios que anteriormente eran provistos por instituciones
 públicas y de todas maneras el achicamiento estatal siempre ha sido un
 objetivo de su partido.  Cameron captó inmediatamente las oportunidades
-estratégicas ofrecidas por la ambigüedad de términos como "gobierno
-abierto" y las abrazó de todo corazón --en su versión más apolítica y
+estratégicas ofrecidas por la ambigüedad de términos como _gobierno
+abierto_ y las abrazó de todo corazón --en su versión más apolítica y
 económica, por supuesto.  Al mismo tiempo que celebraba la habilidad de
 los "[auditores de
 sillón](http://www.dailymail.co.uk/debate/article-1345777/David-Cameron-Armchair-auditors-leave-councils-hide.html)"
@@ -1795,7 +1570,7 @@ e incluso amenazó con cambiarlas.  Francis Maude, el político
 conservador al que Cameron puso a cargo de liberar datos estatales,
 [dijo
 públicamente](http://ci-journal.net/index.php/ciej/article/view/845) que
-el gobierno abierto es "la desregulación moderna" y que le gustaría
+el _gobierno abierto_ es "la desregulación moderna" y que le gustaría
 "volver redundante la libertad de información".  En el 2011, el gobierno
 de Cameron publicó un libro blanco sobre "[Servicios Públicos
 Abiertos](http://www.openpublicservices.cabinetoffice.gov.uk/)" que
@@ -1803,28 +1578,12 @@ utiliza el término "abierto" de una forma muy peculiar:  argumenta que,
 salvo la seguridad nacional y la justicia, todos los servicios públicos
 deben abrirse a la competencia de mercado.
 
-Here’s just one example of how a government that is nominally promoting
-Tim O’Reilly’s progressive agenda of Gov 2.0 and “government as a
-platform” is rolling back the welfare state and increasing government
-secrecy—all in the name of “openness.” The reason why Cameron has
-managed to get away with so much crazy talk is simple: the positive spin
-attached to “openness” allows his party to hide the ugly nature of its
-reforms. O’Reilly, who had [otherwise
-praised](http://www.youtube.com/watch?v=OIlxdpfu71o) the Government
-Digital Service, the unit responsible for the digitization of the
-British government, is aware that the “Big Society” might reveal the
-structural limitations of his quest for “openness.” Thus, he publicly
-[distanced himself from
-Cameron](http://whimsley.typepad.com/whimsley/2012/05/open-data-movement-redux-tribes-and-contradictions.html),
-complaining of “the shabby abdication of responsibility of Cameron’s Big
-Society.”
-
 Este es solo un ejemplo de cómo un gobierno que nominalmente promueve la
-agenda progresista de Tim O'Reilly sobre el _gobierno 2.0_ y el "Estado
-como plataforma" en realidad está haciendo retroceder el Estado de
+agenda progresista de Tim O'Reilly sobre el _gobierno 2.0_ y el _Estado
+como plataforma_ en realidad está haciendo retroceder el Estado de
 bienestar e incrementando el secreto de Estado --todo en el nombre de la
 "apertura".  La razón por la que Cameron ha logrado salir impune de tal
-charla loca es simple: el giro positivo asociado a la "apertura" le
+_charla loca_ es simple: el giro positivo asociado a la "apertura" le
 permite a su partido esconder la fea naturaleza de sus reformas.
 O'Reilly, que [de otra forma
 festejaba](http://www.youtube.com/watch?v=OIlxdpfu71o) el Servicio
@@ -1836,63 +1595,27 @@ Cameron](http://whimsley.typepad.com/whimsley/2012/05/open-data-movement-redux-t
 quejándose de la "lamentable abdicación de responsabilidad que es la
 _Big Society_ de Cameron".
 
-But is this the same O’Reilly who [once claimed
-that](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
-the goal of his proposed reforms is to “design programs and supporting
-infrastructure that enable ‘we the people’ to do most of the work”? His
-rejection of Cameron is pure PR, as they largely share the same
-agenda—not an easy thing to notice, as O’Reilly constantly alternates
-between two visions of open government. O’Reilly the good cop claims
-that he wants the government to release its data to promote more
-innovation by the private sector, while O’Reilly the bad cop wants to
-use that newly liberated data to shrink the government. “There is no
-Schumpeterian ‘creative destruction’ to bring unneeded government
-programs to an end,” [he lamented in
-2010](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html).
-“Government 2.0 will require deep thinking about how to end programs
-that no longer work, and how to use the platform power of the government
-not to extend government’s reach, but instead, how to use it to better
-enable its citizenry and its economy.” [Speaking to British civil
-servants](http://www.youtube.com/watch?v=OIlxdpfu71o), O’Reilly
-positions open government as the right thing to do in times of
-austerity, not just as an effective way to promote innovation.
-
 ¿Pero no es el mismo O'Reilly que [una vez
 proclamó](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
 que el objetivo de las reformas que propone es "diseñar programas e
 infraestructura de apoyo que permita que 'nosotros el pueblo' hagamos la
 mayor parte del trabajo"?  Su rechazo a Cameron fueron puras relaciones
 públicas, porque comparten la misma agenda --algo difícil de notar, ya
-que O'Reilly alterna constantemente entre dos visiones del gobierno
-abierto.  O'Reilly el policía bueno proclama que quiere que el Estado
+que O'Reilly alterna constantemente entre dos visiones del _gobierno
+abierto_.  O'Reilly el policía bueno proclama que quiere que el Estado
 publique sus datos para promover la innovación en el sector público,
 mientras que O'Reilly el policía malo quiere usar los datos liberados
 para reducir el Estado.  "No hay 'creación destructiva' schumpeteriana
 que elimine los programas estatales innecesarios", [lamentaba en el
 2010](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html).
-"El _gobierno 2.0_ requiere una meditación profunda sobre cómo
-eliminar aquellos programas que ya no funcionan y sobre cómo usar
-el poder de la plataforma estatal no para extender el alcance del
-Estado, sino para mejorar la ciudadanía y su economía."
-[Hablándole a funcionarios públicos
-ingleses](http://www.youtube.com/watch?v=OIlxdpfu71o), O'Reilly propone
-que el _gobierno abierto_ es la manera correcta de hacer las cosas en
-tiempos de austeridad, no solo como una forma efectiva de promover la
-innovación.
-
-After *The New Yorker* ran a [long, critical
-article](http://www.newyorker.com/reporting/2010/10/25/101025fa_fact_collins)
-on the Big Society in 2010, Jennifer Pahlka—O’Reilly’s key ally, who
-runs an NGO called Code for America—quickly [moved to
-dismiss](http://codeforamerica.org/2010/10/29/the-challenges-of-do-it-ourselves-dio-government/)
-any parallels between Cameron and O’Reilly. “The beauty of the
-government as a platform model is that it doesn’t assume civic
-participation, it encourages it subtly by aligning with existing
-motivations in its citizens, so that anyone—ranging from the fixers in
-Hawaii to the cynics in Britain—would be willing to get involved,” she
-noted in a blog post. “We’d better be careful we don’t send the wrong
-message, and that when we’re building tools for citizen engagement, we
-do it in the way that taps existing motivations.”
+"El _gobierno 2.0_ requiere una meditación profunda sobre cómo eliminar
+aquellos programas que ya no funcionan y sobre cómo usar el poder de la
+plataforma estatal no para extender el alcance del Estado, sino para
+mejorar la ciudadanía y su economía." [Hablándole a funcionarios
+públicos ingleses](http://www.youtube.com/watch?v=OIlxdpfu71o), O'Reilly
+propone que el _gobierno abierto_ es la manera correcta de hacer las
+cosas en tiempos de austeridad, no solo como una forma efectiva de
+promover la innovación.
 
 Luego de que _The New Yorker_ publicara un [artículo largo y
 crítico](http://www.newyorker.com/reporting/2010/10/25/101025fa_fact_collins)
@@ -1901,8 +1624,8 @@ O'Reilly desde su posición como dirigente de la ONG _Code for America_--
 rápidamente [llamó a
 rechazar](http://codeforamerica.org/2010/10/29/the-challenges-of-do-it-ourselves-dio-government/)
 cualquier paralelismo entre Cameron y O'Reilly.  "La belleza del modelo
-del Estado como plataforma es que no asume la participación cívica, sino
-que la alienta sutilmente al alinearse con las motivaciones
+del _Estado como plataforma_ es que no asume la participación cívica,
+sino que la alienta sutilmente al alinearse con las motivaciones
 pre-existentes de sus ciudadanos, para que cualquiera --desde los
 arregladores en Hawaii a los cínicos en Gran Bretaña-- tengan la
 disposición a involucrarse", decía en su blog.  "Tengamos cuidado de no
@@ -1910,40 +1633,16 @@ enviar el mensaje incorrecto y que cuando construyamos herramientas para
 el involucramiento cívico, lo hagamos de forma que aproveche
 motivaciones pre-existentes."
 
-But what kinds of “existing motivations” are there to be tapped?
-O’Reilly writes that, in [his ideal
-future](http://codeforamerica.org/2010/10/29/the-challenges-of-do-it-ourselves-dio-government/#comment-92778371),
-governments will be “making smart design decisions, which harness the
-self-interest of society and citizens to achieve positive results.”
-That, in fact, is how his favorite technology platforms work: users tell
-Google that some of their incoming email is spam in order to improve
-their own email experience. In other words, it’s self-interest through
-and through. “The architecture of Linux, the Internet, and the World
-Wide Web are such that users pursuing their own ‘selfish’ interests
-build collective value as an automatic byproduct,” [writes
-O’Reilly](http://oreilly.com/lpt/a/6228). This is also how the likes of
-Eric Raymond explain the motivation of those contributing to open source
-projects—they do it for strictly selfish reasons. “The ‘utility
-function’ Linux hackers are maximizing is not classically economic, but
-is the intangible of their own ego satisfaction and reputation among
-other hackers,” [Raymond
-writes](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s11.html)
-in *The Cathedral and the Bazaar*. He goes on to say that “one may call
-their motivation ‘altruistic’, but this ignores the fact that altruism
-is itself a form of ego satisfaction for the altruist.” If it sounds
-like Ayn Rand, that’s because Raymond [explicitly draws on her crazy
-talk](http://www.catb.org/esr/writings/homesteading/homesteading/ar01s10.html).
-
 ¿Pero qué tipos de "motivaciones pre-existentes" hay para aprovechar?
 O'Reilly escribe que [en su futuro
 ideal](http://codeforamerica.org/2010/10/29/the-challenges-of-do-it-ourselves-dio-government/#comment-92778371),
 los gobiernos "tomarán decisiones de diseño inteligente, que aprovechen
 el interés propio de la sociedad y los ciudadanos para alcanzar
 resultados positivos".  En efecto, así es como funcionan sus plataformas
-tecnológicas favoritas:  las usuarias le dicen a _Google_ que algunos de
+tecnológicas favoritas: las usuarias le dicen a _Google_ que algunos de
 sus correos son _spam_ para mejorar su propia experiencia.  "La
 arquitectura de _Linux_, la Internet y la _World Wide Web_ es tal que
-los usuarios en busca de sus intereses "egoístas" construyen valor
+los usuarios en busca de sus intereses 'egoístas' construyen valor
 colectivamente como un producto derivado",
 [escribe](http://oreilly.com/lpt/a/6228).  Así también es como a Eric
 Raymond le gusta explicar la motivación de aquellas personas que
