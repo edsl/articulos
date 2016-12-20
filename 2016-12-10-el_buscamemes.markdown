@@ -1653,88 +1653,44 @@ intangible satisfacción de sus egos y la reputación entre pares",
 escribió en "[La Catedral y el
 Bazar](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s11.html)".
 
-When pressed, O’Reilly the good cop refuses to acknowledge that his
-thinking about open government is not very different from Raymond’s
-thinking about open source software. When earlier this year Nathaniel
-Tkacz, a media academic, [noted these
-similarities](http://www.aeonmagazine.com/world-views/nathaniel-tkacz-open-source-government/),
-O’Reilly complained that he was “a bit surprised to learn that my ideas
-of ‘government as a platform’ are descended from Eric Raymond’s ideas
-about Linux, since: a) Eric is a noted libertarian with disdain for
-government b) Eric’s focus on Linux was on its software development
-methodology.” Well, perhaps O’Reilly shouldn’t act so surprised: as
-Tkacz points out, O’Reilly’s writings on “government as a platform”
-explicitly credit Raymond as the source of the metaphor. [O’Reilly in
-2011](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html):
-“In *The Cathedral & the Bazaar*, Eric Raymond uses the image of a
-bazaar to contrast the collaborative development model of open source
-software with traditional software development, but the analogy is
-equally applicable to government.”
-
 Bajo presión, O'Reilly el policía bueno se niega a reconocer que su
-pensamiento sobre el gobierno abierto no es muy diferente de lo que
+pensamiento sobre el _gobierno abierto_ no es muy diferente de lo que
 piensa Raymond sobre el software _open source_.  Cuando Nathaniel Tkacz,
 un académico de los medios, [apuntó estas
 similitudes](http://www.aeonmagazine.com/world-views/nathaniel-tkacz-open-source-government/),
 O'Reilly se quejó de "estar un poco sorprendido de aprender que mis
-ideas sobre el 'Estado como plataforma' descienden de las ideas de Eric
+ideas sobre el _Estado como plataforma_ descienden de las ideas de Eric
 Raymond sobre Linux, ya que: a) Eric es un notable _libertarian_ que
 desprecia el Estado; y b) Eric se enfoca en la metodología de desarrollo
-de Linux".  Bien, aunque tal vez no debería hacerse el sorprendido: como
-menciona Tkacz, los artículos de O'Reilly sobre "Estado como plataforma"
-dar crédito explícito a Raymond como la fuente de la metáfora.
-[O'Reilly dijo en
+de _Linux_".  Bien, aunque tal vez no debiera hacerse el sorprendido:
+como menciona Tkacz, los artículos de O'Reilly sobre _Estado como
+plataforma_ dan crédito explícito a Raymond como la fuente de la
+metáfora.  [O'Reilly dijo en
 2011](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
 que "en 'La Catedral y el Bazar', Eric Raymond utiliza la imagen de un
 bazar para contrastar el modelo de desarrollo colaborativo del software
 _open source_ con el modelo tradicional, pero esta analogía puede
 aplicarse de la misma forma al Estado".
 
-
-But is it really? Applied to politics, all this talk of bazaars,
-existing motivations, and self-interest treats citizenship as if it were
-fully reducible to market relations—yet another form of crazy talk. And
-it doesn’t easily square with the aspirations to active citizenship
-implicit in the “DIY spirit on a civic scale.” Of course, with some
-clever PR, one can say that the Hawaiians who rebuilt their park had
-some “existing motivations,” like having to earn a living to stay alive.
-But if the bar for “existing motivations” is set so low, then there are
-no limits to dismantling the welfare state and replacing it with some
-wild DIY hacker culture. Why do we need an expensive health care system
-if people have “existing motivations” to self-monitor at home and
-purchase drugs directly from Big Pharma? Why bother with police if we
-can print out guns at home—thanks, 3-D printers!—and we are already
-highly motivated to stay alive?
-
-¿Pero es cierto?  Aplicada a la política, todo este discurso sobre los
+¿Pero es cierto?  Aplicado a la política, todo este discurso sobre los
 bazares, motivaciones pre-existentes e interés propio trata a la
 ciudadanía como si fuera reducible a las relaciones de mercado --otra
-forma de charla loca.  Tampoco se alinea con las aspiraciones de la
-ciudadanía activa del "espíritu DIY a escala cívica".  Por supuesto, con
-un poco de astucia en las relaciones públicas, podría decirse que las
-hawaianas que reconstruyeron su parque tenían "motivaciones
-pre-existentes", como tener que ganarse la vida.  Pero si el umbral de
-lo que son es muy bajo, no hay límites para el desmantelamiento del
-Estado de bienestar y su reemplazo por una salvaje cultura hacker DIY.
-¿Por qué necesitamos un caro sistema de salud pública si las personas
-tienen "motivaciones pre-existentes" para auto-monitorearse en casa y
-adquirir drogas directamente de _Big Pharma_[^big_pharma]?  ¿Para qué
-preocuparnos por la policía si podemos imprimir armas en casa --¡gracias
-impresoras 3D!-- y ya estamos altamente motivadas para mantenernos con
-vida?
+forma de _charla loca_.  Tampoco se alinea con las aspiraciones de
+activar la ciudadanía implícitas en el "espíritu DIY a escala cívica".
+Por supuesto, con un poco de astucia en las relaciones públicas, podría
+decirse que las hawaianas que reconstruyeron su parque tenían
+"motivaciones pre-existentes", como tener que ganarse la vida.  Pero si
+el umbral de lo que son estas motivaciones es muy bajo, no hay límites
+para el desmantelamiento del Estado de bienestar y su reemplazo por una
+salvaje cultura hacker DIY.  ¿Por qué necesitamos un caro sistema de
+salud pública si las personas tienen "motivaciones pre-existentes" para
+auto-monitorearse en casa y adquirir drogas directamente de _Big
+Pharma_[^big_pharma]?  ¿Para qué preocuparnos por la policía si podemos
+imprimir armas en casa --¡gracias impresoras 3D!-- y ya estamos
+altamente motivadas para mantenernos con vida?
 
 [^big_pharma]: _Big Pharma_ es el nombre colectivo para las
 corporaciones farmacéuticas (nota de la traducción).
-
-Once we follow [O’Reilly’s
-exhortation](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html)
-not to treat the government as “the deus ex machina that we’ve paid to
-do for us what we could be doing for ourselves,” such questions are hard
-to avoid. In all of O’Reilly’s theorizing, there’s not a hint as to what
-political and moral principles should guide us in applying the platform
-model. Whatever those principles are, they are certainly not exhausted
-by appeals to innovation and efficiency—which is the language that
-O’Reilly wants us to speak.
 
 Una vez que seguimos a [O'Reilly en su
 exhortación](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html)
@@ -1746,58 +1702,27 @@ la aplicación del modelo de plataforma.  Cualesquiera sean, ciertamente
 no están agotados por los pedidos de innovación y eficiencia --que es el
 lenguaje que quiere que hablemos.
 
-> O’Reilly is perfectly positioned to control our technology discourse:
-> he can churn out whatever books he needs to promote his favorite
-> memes.
-
-The fundamental problem with O’Reilly’s vision is that, on the one hand,
-it’s all about having the private sector build new services that were
-unavailable when the government ran the show. Thus, it’s all about
-citizen-consumers, guided by the Invisible Hand, creating new value out
-of thin air. But O’Reilly also likes to invoke “DIY spirit on a civic
-scale” to call on citizens to take on functions that were previously
-performed by the government (even if poorly); here, we are not building
-new services—we are outsourcing public services to the private sector.
-O’Reilly’s logic in a nutshell: the government didn’t have to build its
-own Foursquare—hence, disaster response should be delegated to the
-private sector. Is the government meant to be a platform for providing
-services or for stimulating innovation? It’s certainly both—but the
-principles that ought to regulate its behavior in each case are
-certainly different.
-
 El problema fundamental con su visión es que, por un lado, se trata de
 que el sector privado construya nuevos servicios que no estaban
 disponibles cuando el Estado organizaba las cosas.  Por lo tanto se
 trata de ciudadanas-consumidoras, guiadas por la Mano Invisible, creando
-valor del aire.  Pero a O'Reilly también le gusta invocar el "espíritu
-DIY a escala cívica" para llamar a las ciudadanas a tomar funciones que
-fueron previamente realizadas por el Estado (aun pobremente);  aquí no
-estamos construyendo nuevos servicios --estamos tercerizando los
-servicios públicos al sector privado.  En resumen de su lógica: el
-Estado no tenía que construir su propio _Foursquare_ --la respuesta
-antes los desastres debería delegarse al sector privado.  ¿El Estado
-debe ser una plataforma para proveer servicios o para estimular la
-innovación?  Ciertamente es ambas cosas --pero los principios que deben
-regular su comportamiento en cada caso son diferentes.
+valor a partir del aire.  Pero a O'Reilly también le gusta invocar el
+"espíritu DIY a escala cívica" para llamar a las ciudadanas a tomar
+funciones que fueron previamente realizadas por el Estado (aun
+pobremente);  aquí no estamos construyendo nuevos servicios --estamos
+tercerizando los servicios públicos al sector privado.  El resumen de su
+lógica: el Estado no tenía que construir su propio _Foursquare_ --la
+respuesta ante los desastres debería delegarse al sector privado.  ¿El
+Estado debe ser una plataforma para proveer servicios o para estimular
+la innovación?  Ciertamente es ambas cosas --pero los principios que
+deben regular su comportamiento en cada caso son diferentes.
 
-For O’Reilly, the memes of “Government 2.0” and “government as a
-platform” serve one major function: they make him relevant to the
-conversation about governance and politics, allowing him to expand his
-business into new territories. The Internet and open source have become
-universal connectors that can relate anything to anything. “Just as the
-interstate highway system increased the vitality of our transportation
-infrastructure, it is certainly possible that greater government
-involvement in health care could do the same,” [he
-writes](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html).
-Got it? But what if the dynamics of building highways are different from
-those of providing health care? What then?
-
-Para O'Reilly, los memes de "gobierno 2.0" y "Estado como plataforma"
+Para O'Reilly, los memes de _gobierno 2.0_ y _Estado como plataforma_
 sirven una función mayor: lo vuelven relevante en la conversación sobre
 gobierno y política, permitiéndole expandir sus negocios hacia nuevos
 territorios.  La Internet y el _open source_ se han convertido en
 conectores universales capaces de relacionar cualquier cosa con
-cualquier otra.  "Así como el sistema de autopistas interestatales han
+cualquier otra.  "Así como el sistema de autopistas interestatales ha
 incrementado la vitalidad de nuestra infraestructura de transporte, es
 ciertamente posible que un mayor involucramiento del Estado en el
 sistema de salud produzca el mismo efecto",
@@ -1805,35 +1730,16 @@ sistema de salud produzca el mismo efecto",
 ¿Comprendido?  ¿Pero qué pasa si la dinámica de construir autopistas es
 diferente de la de la provisión de salud pública?  ¿Qué pasa entonces?
 
-<span class="dropcap">O</span>’Reilly’s attempts to meme-engineer how we
-think about politics are all the more disturbing for the deeply
-reductionist, anti-democratic flavor of his own politics. Positivist to
-his core, O’Reilly believes that there is just one right answer to
-policy dilemmas, and that it’s the job of the government (for him, it’s
-all just “government”) to produce legislation that gets at this “right”
-answer and then pass the necessary measures to make it happen. The means
-don’t much matter; it’s all about the ends—and the ends are perfectly
-knowable, as long as we have the data.
-
 Sus intentos de hacer ingeniería memética sobre cómo pensamos la
-política son aun más perturbadores por el sabor profundamente
+política son aun más perturbadores por el carácter profundamente
 reduccionista y antidemocrático de su propia posición política.
-Positivista hasta el corazón, O'Reilly cree que existe sólo una
-respuesta a los problemas de políticas públicas, que es que el trabajo
-del gobierno (para él, solo hay "gobierno") es producir legislación que
-llegue a esta respuesta "correcta" y tomar las medidas necesarias para
-volverla realidad.  Los medios tienen mucha importancia; solo se trata
-de los fines --y los fines son perfectamente conocidos, siempre y cuando
+Positivista de corazón, O'Reilly cree que existe sólo una respuesta a
+los problemas de políticas públicas, que es que el trabajo del gobierno
+(para él, solo hay "gobierno") es producir legislación que llegue a esta
+respuesta "correcta" y tomar las medidas necesarias para volverla
+realidad.  Los medios no tienen mucha importancia; solo se trata de los
+fines --y los fines son perfectamente conocidos, siempre y cuando
 tengamos los datos.
-
-O’Reilly’s latest meme, which he calls “[algorithmic
-regulation](https://plus.google.com/+TimOReilly/posts/CPiAX9YiVUB),” was
-inspired by—what else?—the Internet. This idea, writes O’Reilly, “is
-central to all Internet platforms, and provides a fruitful area for
-investigation in the design of 21st century government.” This is how he
-explained it in a [recent
-talk](http://longnow.org/seminars/02012/sep/05/birth-global-mind/) at
-the Long Now Foundation:
 
 El último meme de O'Reilly, al que llama "[regulación
 algorítmica](https://plus.google.com/+TimOReilly/posts/CPiAX9YiVUB)"
@@ -1844,99 +1750,43 @@ XXI".  Así lo explicaba en una [charla
 reciente](http://longnow.org/seminars/02012/sep/05/birth-global-mind/)
 en la _Long Now Foundation_:
 
-> If you look at, say, the way spam is regulated on the Internet, that’s
-> the beginnings of a kind of an immune system response to a pathogen
-> and works a lot like biology: you recognize the signature of something
-> new and hostile and you fix it. . . . You compare that to how
-> government regulation works, and you go: “It’s just badly broken!”
-> Somebody puts out some rules, and there’s no method of enforcement.
-
 > Si miramos a la forma en que el _spam_ es regulado en Internet, es el
 > principio de un tipo de respuesta del sistema inmunológico a un
 > patógeno, funciona como en la biología: reconoces la firma de algo
 > nuevo y hostil y lo arreglas [...] comparen esto con el funcionamiento
 > de las regulaciones estatales y se dan cuenta: "¡Está roto!"  Alguien
-> dispara algunas reglas, pero no hay un método para ejecutarlas.
+> dispone algunas reglas, pero no hay un método para ejecutarlas.
 
-Not a very sharp definition yet, but this is how many of O’Reilly’s
-memes start. Once he’s cornered the meme, his “correspondents” will do
-the rest, highlighting it in their blog posts and reports. (“In the
-future, better outcomes might come . . . through adopting what Tim
-O’Reilly has described as ‘algorithmic regulation,’ applying the dynamic
-feedback loops that web giants use to police their systems against
-malware and spam in government agencies entrusted with protecting the
-public interest,” [writes Alex
-Howard](http://radar.oreilly.com/2012/07/rethinking-regulatory-reform-in-the-internet-age.html),
-the “Government 2.0” correspondent of *O’Reilly Radar*.)
-
-No es una definición filosa todavía, pero así es como empiezan muchos de
-sus memes.  Una vez que lo ha encasillado, sus "corresponsales" harán el
-resto, resaltándolos en sus artículos y reportes.  ("En el futuro
-podrían haber mejores resultados... mediante la adopción de lo que Tim
-O'Reilly ha descrito como 'regulación algorítmica', aplicando la
+No es una definición afilada todavía, pero así es como empiezan muchos
+de sus memes.  Una vez que lo ha encasillado, sus "corresponsales" harán
+el resto, resaltándolos en sus artículos y reportes.  ("En el futuro
+podrían haber mejores resultados \[...\] mediante la adopción de lo que
+Tim O'Reilly ha descrito como _regulación algorítmica_, aplicando la
 dinámica de los ciclos de retroalimentación que los gigantes de la web
 usan para supervisar sus sistemas contra el _malware_ y el _spam_ en
 agencias estatales encargadas de la protección del interés público",
 [escribe Alex
 Howard](http://radar.oreilly.com/2012/07/rethinking-regulatory-reform-in-the-internet-age.html),
-el corresponsal del "gobierno 2.0" del _O'Reilly Radar_.)
+el corresponsal del _gobierno 2.0_ del _O'Reilly Radar_.)
 
-Quite appropriately, the only political institution that corresponds to
-O’Reilly’s vision for “algorithmic regulation” is a central bank.
-Central banks have very clear, numerical targets—they know what’s
-“right” and don’t have to bother with deliberations—and they try to meet
-those targets with just a few specific tools at their disposal. They
-love feedback and think like Google. According to O’Reilly, the way they
-regulate is “kind of like the way Google regulates. They kind of say: I
-have an outcome in mind and a couple of knobs and levers. Periodically,
-I might get a few new knobs and levers, and I tweak them to get the
-outcome. I don’t just sort of say: This is a rule and I’m going to
-follow it regardless of whether it has a good outcome or a bad outcome.”
-Central banks are elegant and simple; they just do stuff, instead of
-succumbing to, well, politics. “\[In central banks\] we have a couple of
-levers, and we keep tweaking them to see if we can get where we want to
-go. And that’s really how I would like to see us thinking about
-government regulatory processes.”
-
-Apropiamente, la única institución política que corresponde con la
-visión de la "regulación algorítmica" es el banco central.  Los bancos
-centrales tienen objetivos muy claros y numéricos --saben lo que "está
-bien" y no se tienen que preocupar con deliberaciones-- y tratan de
-cumplir esos objetivos con algunas herramientas específicas que tienen a
-su disposición.  Aman la retroalimentación y piensan como _Google_.
-Según O'Reilly, la forma en que regulan es "casi como la forma en que
-_Google_ regula.  Dicen algo como: tengo un resultado en mente y algunos
-botones y palancas.  Periódicamente, podría obtener otros botones y
-palancas y los manipularé para llegar a ese resultado.  No digo: esto es
-una regla y la voy a seguir independientemente de si el resultado es
-bueno o malo".  Los bancos centrales son elegantes y simples; solo hacen
-cosas, en lugar de sucumbir a la política.  "\[En los bancos centrales\]
+La única institución política que corresponde con la visión de la
+_regulación algorítmica_ es el banco central.  Los bancos centrales
+tienen objetivos muy claros y numéricos --saben lo que "está bien" y no
+se tienen que preocupar con deliberaciones-- y tratan de cumplir esos
+objetivos con algunas herramientas específicas que tienen a su
+disposición.  Aman la retroalimentación y piensan como _Google_.  Según
+O'Reilly, la forma en que regulan es "casi como la forma en que _Google_
+regula.  Dicen algo como: tengo un resultado en mente y algunos botones
+y palancas.  Periódicamente, podría obtener otros botones y palancas y
+los manipularé para llegar a ese resultado.  No digo: esto es una regla
+y la voy a seguir independientemente de si el resultado es bueno o
+malo".  Los bancos centrales son elegantes y simples; solo hacen cosas,
+en lugar de sucumbir a la política.  "\[En los bancos centrales\]
 tenemos un par de palancas y las manipulamos para ver si llegamos a
 donde queremos ir.  Así es como me gustaría vernos pensar sobre los
 procesos regulatorios del Estado."
 
-Expanding on this notion of “algorithmic regulation,” O’Reilly reveals
-his inner technocrat:
-
-Expandiendo esta noción, revela su tecnócrata interno:
-
-> I remember having a conversation with Nancy Pelosi not long after
-> Google did their Panda search update, and it was in the context of
-> SOPA/PIPA. . . . \[Pelosi\] said, “Well, you know, we have to satisfy
-> the interests of the technology industry *and* the movie industry.”
-> And I thought, “No, you don’t. You have to get the right answer.” So
-> that’s the reason I mentioned Google Panda search update, when they
-> downgraded a lot of people who were building these content farms and
-> putting low quality content in order to get pageviews and clicks in
-> order to make money and not satisfy the users. And I thought, “Gosh,
-> what if Google had said, yeah, yeah, we have to sit down with Demand
-> Media and satisfy their concerns, we have to make sure that at least
-> 30 percent of the search results are crappy so that their business
-> model is preserved.” You wouldn’t do that. You’d say, “No, we have to
-> get it right!” And I feel like, we don’t actually have a government
-> that actually understands that it has to be building a better platform
-> that starts to manage things like that with the best outcome for the
-> real users. *\[loud applause\]*
+Expandiendo esta noción, revela su tecnócrata inherente:
 
 > Recuerdo una conversación que tuve con Nancy Pelosi poco después que
 > _Google_ hiciera la actualización a Panda y en el contexto de
@@ -1956,72 +1806,36 @@ Expandiendo esta noción, revela su tecnócrata interno:
 > gobierno que comprenda que lo que tiene que hacer es construir una
 > mejor plataforma para empezar a administrar las cosas con el mejor
 > resultado para los usuarios reales. \[gran aplauso\]
->
-
-Here O’Reilly dismisses the entertainment industry as just “wrong,”
-essentially comparing them to spammers. But what makes Google an
-appropriate model here? While it has obligations to its shareholders,
-Google doesn’t owe anything to the sites in its index. Congress was
-never meant to work this way. SOPA and PIPA were bad laws with too much
-overreach, but to claim that the entertainment industry has no
-legitimate grievances against piracy seems bizarre.
 
 Aquí O'Reilly descarta la industria del entretenimiento como
 "equivocada", esencialmente comparándola con _spammers_.  ¿Pero qué es
 lo que hace que _Google_ sea el modelo apropiado en este caso?  Mientras
 tiene obligaciones con sus accionistas, no le debe nada a los sitios que
-indexa.  El Congreso nunca fue pensado para funcionar de esta forma.
-SOPA y PIPA eran malas leyes con un tremendo sobrealcance, pero
-proclamar que la industria del entretenimiento no tiene reivindicaciones
-legítimas contra la piratería suena bizarro.[^piracy]
-
+agrega en su índice.  El Congreso nunca fue pensado para funcionar de
+esta forma.  SOPA y PIPA eran malas leyes con un tremendo sobrealcance,
+pero proclamar que la industria del entretenimiento no tiene
+reivindicaciones legítimas contra la piratería suena bizarro.[^piracy]
 
 [^piracy]: WTF (nota de la traducción.)
 
-Underpinning O’Reilly’s faith in algorithmic regulation is his naive
-belief that big data, harnessed through collective intelligence, would
-allow us to get at the right answer to every problem, making both
-representation and deliberation unnecessary. After all, why let
-contesting factions battle it out in the public sphere if we can just
-study what happens in the real world—with our sensors, databases, and
-algorithms? No wonder O’Reilly ends up claiming that “we have to
-actually start moving away from the notion that politics really has very
-much to do with governance. To the extent that we can fix things without
-politics, we’d be much better off.” It’s the ultimate conceit of Silicon
-Valley: if only we had more data and better tools, we could suspend
-politics once and for all.
-
 Lo que subyace a su fe en la regulación algorítmica es la creencia
-inocente en que los grandes datos, aprovechados a través de la
-inteligencia colectiva, nos permitirían llegar a la respuesta correcta
-para cualquier problema, volviendo a la representación tanto como a la
-deliberación innecesarias.  Después de todo, ¿por qué dejar que las
-facciones involucradas luchen en la esfera pública si podemos estudiar
-lo que pasa en el mundo real --con sensores, bases de datos y
-algoritmos?  No sorprende que O'Reilly termine proclamando que "tenemos
-que alejarnos de la noción de que la política tiene que ver con el
-gobierno.  En la medida en que podamos arreglar las cosas sin política,
-estaremos mucho mejor."  Es la presunción extrema de Silicon Valley: si
-solo tuviéramos más datos y mejores herramientas, podríamos suspender la
+inocente en que el _big data_, aprovechado a través de la inteligencia
+colectiva, nos permitirían llegar a la respuesta correcta para cualquier
+problema, volviendo a la representación tanto como a la deliberación
+innecesarias.  Después de todo, ¿por qué dejar que las facciones
+involucradas luchen en la esfera pública si podemos estudiar lo que pasa
+en el mundo real --con sensores, bases de datos y algoritmos?  No
+sorprende que O'Reilly termine proclamando que "tenemos que alejarnos de
+la noción de que la política tiene que ver con el gobierno.  En la
+medida en que podamos arreglar las cosas sin política, estaremos mucho
+mejor."  Es la presunción extrema de _Silicon Valley_: si solo
+tuviéramos más datos y mejores herramientas, podríamos suspender la
 política de una vez por todas.
 
-The magic “feedback” that O’Reilly touts so passionately is really the
-voice of the market—and [occasionally he lets that
-slip](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html):
-“Government programs must be designed from the outset not as a fixed set
-of specifications, but as open-ended platforms that allow for
-extensibility and revision by the marketplace. Platform thinking is an
-antidote to the complete specifications that currently dominate the
-government approach not only to IT but to programs of all kinds.” But we
-prefer to have complete specifications at the outset not because no one
-had thought of building dynamic feedback systems before O’Reilly but
-because this is the only way to ensure that everyone’s grievances are
-addressed before the policies are implemented.
-
 La "retroalimentación" mágica que O'Reilly promociona tan
-apasionadamente es realmente la voz del mercado --que [ocasionalmente
-deja
-escapar](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html):
+apasionadamente es realmente la voz del mercado --y [ocasionalmente se
+le
+escapa](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html):
 "Los programas estatales deben diseñarse desde el principio no como un
 conjunto fijo de especificaciones, sino como plataformas sin límites
 fijos que permitan una extensibilidad y revisión del mercado.  El
@@ -2032,33 +1846,20 @@ especificaciones completas desde el principio no porque nadie haya
 pensado en construir sistemas dinámicos de retroalimentación antes que
 O'Reilly, sino porque es la única forma de asegurar que todas las
 reivindicaciones son tenidas en cuenta antes que las políticas sean
-implementadas[^wtf].
+implementadas[^wtf2].
 
-His treatment of feedback as essentially an Internet phenomenon is
-vintage O’Reilly. As long as “algorithmic regulation” is defined against
-a notion like Web 2.0, O’Reilly feels no need to engage with the vast
-body of thought on feedback systems and the sociology of performance
-indicators. That most of the [ideas behind algorithmic
-regulation](http://www.amazon.com/Feedback-Thought-Social-Science-Systems/dp/1883823463)
-were articulated by the likes of Karl Deutsch and David Easton in the
-1960s would probably be news to O’Reilly. Nor is his intellectual
-equilibrium perturbed by the fact that the RAND Corporation was pitching
-something very similar to “algorithmic regulation” to American cities in
-the late 1960s in the hopes of making city governance [more
-cybernetic](http://www.amazon.com/Warfare-Welfare-Defense-Intellectuals-Problems/dp/0801882737).
-The plans, alas, didn’t work; the models could never account for the
-messy reality of urban life.
+[^wtf2]: WTF (nota de la traducción).
 
 El tratamiento que da a la retroalimentación como un fenómeno esencial
-de Internet es clásico de O'Reilly.  Siempre y cuando la "regulación
-algorítmica" se defina sobre nociones como la _web 2.0_, O'Reilly no
+de Internet es clásico de O'Reilly.  Siempre y cuando la _regulación
+algorítmica_ se defina sobre nociones como la _web 2.0_, O'Reilly no
 siente necesidad de involucrar el vasto cuerpo de pensamiento sobre los
 sistemas de retroalimentación y la sociología de los indicadores de
-performance.  Que las [ideas detrás de la regulación
-algorítmica](http://www.amazon.com/Feedback-Thought-Social-Science-Systems/dp/1883823463)
-hayan sido articuladas por personajes como Karl Deustch y David Easton en los
-'60 probablemente sea una novedad para O'Reilly.  Ni su equilibrio
-intelectual se vería perturbado por el hecho de que la _RAND
+performance.  Que las [ideas detrás de la _regulación
+algorítmica_](http://www.amazon.com/Feedback-Thought-Social-Science-Systems/dp/1883823463)
+hayan sido articuladas por personajes como Karl Deustch y David Easton
+en los '60 probablemente sea una novedad para O'Reilly.  Ni su
+equilibrio intelectual se vería perturbado por el hecho de que la _RAND
 Corporation_ ya estaba implementado algo muy similar en las ciudades
 estadounidenses a fines de los '60, con la esperanza de [hacer que el
 gobierno sea más
@@ -2066,78 +1867,38 @@ cibernético](http://www.amazon.com/Warfare-Welfare-Defense-Intellectuals-Proble
 Esos planes, sin embargo, no funcionaron.  Los modelos nunca pudieron
 abarcar la enmarañada realidad de la vida urbana.
 
-> It’s the ultimate conceit of Silicon Valley: if only we had more data
-> and better tools, we could suspend politics once and for all.
-
-A decade before he wrote *Science and Sanity*, Alfred Korzybski wrote
-another weird book—[*Manhood of
-Humanity*](http://www.amazon.com/Manhood-Humanity-Alfred-Korzybski/dp/1463748000/ref=sr_1_1?s=books&ie=UTF8&qid=1364695542&sr=1-1&keywords=Manhood+of+Humanity).
-He, too, was very keen on feedback. “Philosophy, law and ethics, to be
-effective in a dynamic world must be dynamic; they must be made vital
-enough to keep pace with the progress of life and science,” he
-proclaimed. Korzybski’s solution, surprisingly, also lay in turning
-government into an algorithmically driven platform: “A natural first
-step would probably be the establishment of a new institution which
-might be called a Dynamic Department—Department of Coordination or a
-Department of Cooperation—the name is of little importance, but it would
-be the *nucleus* of the new civilization.” Like O’Reilly’s “government
-as a platform,” this new department would aspire to enable citizens.
-“Its functions,” wrote Korzybski, “would be those of encouraging,
-helping and protecting the people in such cooperative enterprises as
-agriculture, manufactures, finance, and distribution.”
-
-Una década antes de escribir _Ciencia y cordura_, Alfred Korzybski
-escribió otro extraño libro --_[Manhood of
-Humanity](http://www.amazon.com/Manhood-Humanity-Alfred-Korzybski/dp/1463748000)_
+Una década antes de escribir _Ciencia y sanidad, Alfred Korzybski
+escribió otro extraño libro --[_Manhood of
+Humanity_](http://www.amazon.com/Manhood-Humanity-Alfred-Korzybski/dp/1463748000)
 \[La madurez de la humanidad\].  A él también le gustaba la
 retroalimentación.  "Para que filosofía, ley y ética sean efectivas en
-un mundo dinámico deben también serlo; deben ser lo suficientemente
+un mundo dinámico deben serlo a su vez; deben ser lo suficientemente
 vitales para seguir el paso del progreso de la vida y la ciencia."  La
 solución de Korzybski, sorprendentemente, también descansaba en
 convertir el Estado en una plataforma orientada algorítmicamente: "Un
-primer paso natural podría llamarse el Departamento Dinámica --o
-Departamento de Coordinacin o Departamento de Cooperación-- no importa
+primer paso natural podría llamarse el Departamento de Dinámica --o
+Departamento de Coordinación o Departamento de Cooperación-- no importa
 mucho el nombre, pero sería el núcleo de una nueva civilización".  Como
-en el "Estado como plataforma" de O'Reilly, este departamento aspiraría
+en el _Estado como plataforma_ de O'Reilly, este departamento aspiraría
 a habilitar a las ciudadanas.  "Sus funciones", decía Korzybski, "serán
 las de fomentar, ayudar y proteger a las personas en empresas
 cooperativas como la agricultura, la manufactura, finanza y
 distribución".
 
-Korzybski envisioned this new scientific government to consist of ten
-sections, which ranged from the Section of Mathematical Sociology or
-Humanology (“composed of at least one sociologist, one biologist, one
-mechanical engineer, and one mathematician”) to the Section of
-Mathematical Legislation (“composed of (say) one lawyer, one
-mathematician, one mechanical engineer”) and from the Promoters’ Section
-(“composed of engineers whose duty would be to study all of the latest
-scientific facts, collect data, and elaborate plans”) to the News
-Section (its task would be “to edit a large daily paper giving true,
-uncolored news with a special supplement relating to progress in the
-work of Human Engineering”).
-
 Korzybski imaginaba este gobierno científico consistiendo en diez
 secciones, que iban desde el Sector de Sociología Matemática o
 Humanología ("compuesta de al menos un sociólogo, un biólogo, un
-ingeniero mecánico y un matemático") al Sector de Legislación
-Matemática ("compuesta de, digamos, un abogado, un matemático y un
-ingeniero mecánico") y el Sector de las Promotoras ("compuesta de
-ingenieros cuyo deber ser estudiar todos los últimos hechos científicos,
-recolectar datos y elaborar planes") o el Sector de las Noticias (cuya
-tarea sería "editar un periódico diario proveyendo noticias verdaderas e
-incoloras, con un suplemento especial narrando el progreso de la
-Ingeniería Humana").
-
-For all his insight into the nature of language and reality, Korzybski
-was a kooky technocrat who believed that science could resolve all
-political problems. He would certainly agree with O’Reilly that there is
-one right way to decide on pending legislation and that any issues and
-controversies that come up in deliberations are just semantic
-noise—clever meme-engineering by the parties involved. Scientism is
-still scientism, even when it’s clothed in the rhetoric of big data.
+ingeniero mecánico y un matemático") al Sector de Legislación Matemática
+("compuesta de, digamos, un abogado, un matemático y un ingeniero
+mecánico") y el Sector de los Promotores ("compuesta de ingenieros cuyo
+deber será estudiar todos los últimos hechos científicos, recolectar
+datos y elaborar planes") o el Sector de las Noticias (cuya tarea sería
+"editar un periódico diario proveyendo noticias verdaderas e incoloras,
+con un suplemento especial narrando el progreso de la Ingeniería
+Humana").
 
 A pesar de toda su profundización en la naturaleza del lenguaje y la
-realidad, Korzybski un loquito tecnócrata que creía que la ciencia
+realidad, Korzybski era un loquito tecnócrata que creía que la ciencia
 podría resolver todos los problemas políticos.  Ciertamente estaría de
 acuerdo con O'Reilly que hay una única forma correcta de decidir sobre
 legislación y que cualquier problema o controversia que resulte de la
@@ -2145,36 +1906,19 @@ deliberación se trataría de ruido semántico --astuta ingeniería memética
 de las partes involucradas.  El cientificismo es cientificismo, aun
 envuelto en la retórica del _big data_.
 
-<span class="dropcap">A</span>t least O’Reilly is perfectly clear about
-how people can succeed in the future. Toward the end of his Long Now
-Foundation talk, he admits that
-
 Al menos O'Reilly es perfectamente claro sobre cómo el pueblo puede
 triunfar en el futuro.  Hacia el fin de su charla en la _Long Now
 Foundation_, admite que:
-
-> \[the\] future of collective intelligence applications is a future in
-> which the individual that we prize so highly actually has less
-> power—except to the extent that that individual is able to create new
-> mind storms. . . . How will we influence this global brain? The way
-> we’ll influence it is seen in the way that people create these viral
-> storms . . . . We’re going to start getting good at that. People will
-> be able to command vast amounts of attention and direct large groups
-> of people through new mechanisms.
 
 > \[el\] futuro de las aplicaciones de inteligencia colectiva es un
 > futuro en el que el individuo que tanto premiamos en realidad tiene
 > menos poder --excepto en la medida en que el individuo es capaz de
 > crear nuevas lluvias de ideas [...] ¿cómo vamos a influenciar este
 > cerebro global?  La forma en que lo haremos será la forma en que las
-> personas crean estas lluvias virales [...] vamos a ponernos buenos
-> haciendo eso.  Las personas serán capaces de comandar vastas
-> cantidades de atención y dirigir grandes grupos de personas a través
-> de nuevos mecanismos.
-
-Yes, let that thought sink in: our Mindstormer-in-Chief is telling us
-that the only way to succeed in this brave new world is to become a Tim
-O’Reilly. Anyone fancy an O’Reilly manual on meme hustling?
+> personas crean estas lluvias virales [...] vamos a ser buenos haciendo
+> eso.  Las personas serán capaces de comandar vastas cantidades de
+> atención y dirigir grandes grupos de personas a través de nuevos
+> mecanismos.
 
 Sí, quedémonos con este pensamiento: nuestro Ideador en Jefe nos está
 diciendo que la única forma de triunfar en este mundo feliz es
