@@ -17,7 +17,7 @@ El buscamemes
 > autor.
 
 Mientras las mentes más brillantes de _Silicon Valley_
-"desbaratan"[^disrupt] cualquier industria demasiado débil para
+"disrumpen"[^disrupt] cualquier industria demasiado débil para
 pararlas, algo raro está ocurriendo con nuestro lenguaje.  Las viejas,
 confiables palabras ya no significan lo que otrora;  a menudo no
 significan nada en absoluto.  Nuestro lenguaje, como todo lo demás en
@@ -28,7 +28,8 @@ debates sobre política, derechos y libertades han sido remoldadeados al
 lenguaje aparentemente natural de la economía, la innovación y la
 eficiencia.  La complejidad, al final, no es particularmente viral.
 
-[^disrupt]: Traducción de _disrupt_ (Nota de la traducción.)
+[^disrupt]: Anglicismo de _disrupt_, interrumpir, desbaratar (nota de la
+traducción.)
 
 Afortunadamente, _Silicon Valley_, esa fuente inagotable de conceptos
 berreta y paradigmas dudosos --de wiki-todo a i-algo, de e-nada a
@@ -235,12 +236,11 @@ solo se trata de la hacker como una heroína que O'Reilly no se cansa de
 celebrar.  Su verdadera heroína es la hacker-devenida-emprendedora,
 alguien que supera los innumerables obstáculos erigidos por
 corporaciones gigantes y burócratas perezosos, para cumplir con el Sueño
-Americano 2.0:  empezar una compañía, desbaratar una industria, acuñar
-una _buzzword_.  Escondido detrás de toda este desbaratamiento de
-brillantina está el mismo viejo pregón individualista del gobierno
-mínimo y el fundamentalismo de mercado que asociamos con los personajes
-randianos.  Para _Silicon Valley_ y sus ídolos, la innovación es el
-nuevo egoísmo.
+Americano 2.0:  empezar una compañía, disrumpir una industria, acuñar
+una _buzzword_.  Escondido detrás de toda esta disrupción de brillantina
+está el mismo viejo pregón individualista del gobierno mínimo y el
+fundamentalismo de mercado que asociamos con los personajes randianos.
+Para _Silicon Valley_ y sus ídolos, la innovación es el nuevo egoísmo.
 
 O'Reilly se inició en el negocio en el '78 al lanzar una consultora que
 se especializaba en escritura técnica.  Seis años después, empezó a
@@ -418,12 +418,12 @@ el paradigma del _open source_, es importante recordar que muchos de los
 esfuerzos de Stallman se dirigieron a las licencias de software.  La
 apuesta de O'Reilly fue que mientras el software migraba de los
 escritorios a los servidores --lo que luego llamaríamos "la nube" en
-otra muestra de _runrunfilia_-- las licencias dejarían de importar.  Ya
-que no hay un intercambio de código cuando usamos _Google_ o _Amazon_,
-resulta contraproductivo obsesionarse por las licencias.  "Dejemos de
-pensar en las licencias por un rato.  Dejemos de pensar que eso es lo
-principal en la importancia del _open source_", [urgía O'Reilly en una
-entrevista para
+otra muestra de amor por las palabras pegadizas-- las licencias dejarían
+de importar.  Ya que no hay un intercambio de código cuando usamos
+_Google_ o _Amazon_, resulta contraproductivo obsesionarse por las
+licencias.  "Dejemos de pensar en las licencias por un rato.  Dejemos de
+pensar que eso es lo principal en la importancia del _open source_",
+[urgía O'Reilly en una entrevista para
 _InfoWorld_](http://www.infoworld.com/d/developer-world/tim-oreilly-software-licenses-dont-work-261)
 del 2003.
 
@@ -461,7 +461,7 @@ infiltrado en los debates sobre políticas públicas una vez que el
 elegido.  Los estados son empujados constantemente a hacer cosas que a
 alguien en el sector privado no le gustaría, ¿por qué la industria del
 software debería ser especial?  La promoción de la responsabilidad
-pública o la mejora de la seguridad de la red podrían desbaratar el
+pública o la mejora de la seguridad de la red podrían disromper el
 modelo de negocios de alguien, ¿pero qué importa?  Una vez que el
 término _open source_ entró en nuestro vocabulario, pudimos
 re-interpretar el cálculo completo de las políticas públicas en términos
