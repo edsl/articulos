@@ -104,14 +104,32 @@ magical pane of glass that can become anything you want it to be. It’s a
 more personal experience with technology than people have ever had.<a href="#fn-ipadtrailer" id="fnref-ipadtrailer" class="footnote">2</a>
 </blockquote>
 
+"Creemos que la tecnologia esta en su estado mas optimo cuando es invisible, Cuando
+solo sos consciente de lo que estas haciendo, y no del dispositivo que usas un iPad
+es la exprecion perfecta de esta idea, es este panel magico de vidrio  que puede 
+convertirse en cualquier cosa que quieras. Es la experiencia  mas intima que la gente
+llego a tener con la tecnologia." 
+
+
 In this last sentence, the word “experience” is not an accident, neither 
 is the word “people”.  
+
+La palabra "experiencia" en esta ultima oracio no es un accidente, tampoco lo es
+la palabra "gente".
 
 Invisible computers, or more accurately the illusion of the computerless, is
 destroyed if we continue to talk about “user interfaces”. This is why Interface
 Design starts to rename itself to Experience Design — whose primary goal
 is to  make users forget that computers and interfaces exist. With Experience
 Design there is only you and your emotions to feel, goals to achieve, tasks to complete. 
+
+Computadoras invisibles, o mejor dicho la ilusion de la falta de computadoras, esta destruida
+si seguimos hablando de "interfaz de usuario". Es por esto que el diseño de interfaces
+empieza a renombrararse como Diseño de Experiencias - que su objetivo principal
+es hacer a las usuarias olvidarse que las computadoras y las interfaces existen. Con 
+Diseño de Experiencias existen solo vos y tus emociones a sentir, tus objetivos a cumplir
+y tus tareas a completar.
+
 
 The field is abbreviated as UXD, where X is for eXperience and U is still for
 the Users. Wikipedia says Don Norman coined the term UX in 1995. However, in 2012 UX
