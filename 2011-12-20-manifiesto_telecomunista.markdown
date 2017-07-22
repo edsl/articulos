@@ -3037,7 +3037,7 @@ Investigación en Artes y Humanidades del Reino Unido.
 
 [^telecomunista-34]: El archivo de la Internacional Situacionista y el
 periódico _Internationale Situationniste_ pueden leerse en el sitio
-<Situationist International Online_:
+_Situationist International Online_:
 <http://www.cddc.vt.edu/sionline/index.html>
 
 [^telecomunista-36]: Free Software Foundation <http://fsf.org>
