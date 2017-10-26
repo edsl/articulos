@@ -6,7 +6,7 @@ cover: "images/cover_endefensadelsl_nr5.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
-Usuario Turing Completo
+Usuaria Turing Completa
 =======================
 
 > Publicado como "[Turing Complete
@@ -27,27 +27,33 @@ we do acknowledge the significance of the moment.
 
 Invisible y muy ocupada
 -----------------------
-Las computadoras se estan volviendo invisibles. Se achican y se esconden.
-Merodean bajo la piel y desaparecen en la nube. Observamos el proceso como
-si fuera un eclipse solar, con un poco de miedo y un poco abrumados. 
-Divididos en campamentos peleamos sobre las ventajas y peligros de lo ubicuo.
 
-With the disappearance of the computer, something else is silently becoming invisible 
-as well — the User.  Users are disappearing as both phenomena and term,
-and this development is either unnoticed or accepted as progress — an evolutionary step. 
+Las computadoras se están volviendo invisibles.  Se achican y se
+esconden.  Merodean bajo la piel y desaparecen en la nube.  Observamos
+el proceso como si se tratara de un eclipse solar, mitad asustadas y
+mitad abrumadas.  Divididas en campos peleamos sobre las ventajas y
+peligros de Lo Ubicuo.  Pero desde cualquier posición que tomemos,
+reconocemos el significado del momento.
 
-Con la desaparicion de la computadora, algo mas esta volviendose invisible silenciosamente
--La Usuaria. Las usuarias estan desapareciendo tanto como fenomeno como como termino y
-este desarrollo  pasa inadvertido o es aceptado como progreso - un paso evolutivo.
+With the disappearance of the computer, something else is silently
+becoming invisible as well — the User.  Users are disappearing as both
+phenomena and term, and this development is either unnoticed or accepted
+as progress — an evolutionary step. 
+
+Con la desaparición de la computadora, algo más está volviéndose
+silenciosamente invisible --La Usuaria.  Las usuarias están
+desapareciendo como fenómeno tanto como término y este desarrollo pasa
+inadvertido o es aceptado como progreso --un paso evolutivo.
 
 The notion of  the Invisible User is pushed by influential user interface designers, 
 specifically by Don Norman a guru of user friendly design and long time advocate of
 invisible computing. He can be actually called the father of Invisible Computing.
 
-La nocion de la Usuaria invisible es fomentada por diseñadoras influeyentes
-de interfaces de usuario (UI), especificamente por Don Norman un guru del diseño
-amistoso al usuario o "user friendly" y un defensor veterano de la informatica invisible.
-Podriamos llamarlo el padre de la informatica invisible(computacion ubicua).
+La noción de la Usuaria Invisible es fomentada por influyentes
+diseñadoras de interfaces de usuario (UI), específicamente por Don
+Norman, un gurú del diseño amigable al usuario o "_user friendly_" y un
+defensor veterano de la informática invisible.  Podríamos llamarlo el
+padre de la informática invisible.
 
 
 Those who study interaction design read his “Why Interfaces Don’t Work” published
@@ -56,11 +62,12 @@ interface is that it is an interface”.  What’s to be done? “We need to aid
 task, not the interface to the task. The computer of the future should
 be invisible!”<a href="#fn-invisible" id="fnref-invisible" class="footnote">1</a>
 
-Aquellas que estudian diseño de interacciones leyeron su libro
-"Por que las interfaces no funcionan" publicado en 1990 en donde se pregunta y se responde
-su propia incognita: "El problema real con la interfaz es que es una interfaz".
-¿Que podemos hacer? "Necesitamos ayudar a la tarea, no a la interfaz para la tarea. 
-¡La informatica del futuro deberia ser invisible!"[1]()
+Aquellas que estudian diseño de interacciones leyeron su libro "Por que
+las interfaces no funcionan" publicado en 1990 en donde se pregunta y se
+responde su propia incognita: "El problema real con la interfaz es que
+es una interfaz".  ¿Que podemos hacer? "Necesitamos ayudar a la tarea,
+no a la interfaz para la tarea.  ¡La informatica del futuro deberia ser
+invisible!"[1]()
 
 
 It took almost two decades, but the future arrived around five years ago,
@@ -137,6 +144,14 @@ designers avoid to use the U-word in papers and conference announcements, in ord
 not to remind themselves about all those clumsy buttons and input devices of
 the past. Users were for the interfaces. Experiences, they are for the PEOPLE!<a href="#fn-gamification" id="fnref-gamification" class="footnote">3</a>
 
+Este campo es abreviado como _UXD_, donde la _X_ es e_X_periencia y la
+_U_ todavía es por usuarias.  La Wikipedia dice que Don Norman acuñó el
+término _UX_ en 1995. Sin embargo, en 2012 las diseñadoras de UX
+evitaron la palabra con U en _papers_ y llamadas a conferencias, para no
+tener que recordar aquellos incómodos botones y dispositivos de entrada
+del pasado.  Las usuarias son para las interfaces.  !Las experiencias
+son para la _gente_![^turing-3]
+
 In 2008 Don Norman simply ceased to address Users as Users. At an event sponsored
 by Adaptive Path, a user interface design company, Norman stated “One of
 the horrible words we use is users. I am on a crusade to get rid of
@@ -144,25 +159,60 @@ the word ‘users’. I would prefer to call them &#8216;people.’”<a href="#
 effect of his words on the audience he added with a charming smile, “We design for
 people, we don’t design for users.” 
 
+En 2008 Don Norman simplemente dejó de referirse a las usuarias como
+tales.  En un evento esponsoreado por _Adaptive Path_, una empresa de
+diseño de interfaces de usuaria, Norman dijo que "una de las palabras
+horribles que usamos es usuarias.  Me encuentro en una cruzada para
+eliminar la palabra 'usuarias'.  Prefiero llamarlas 'gente'."[^turing-4]
+Después de disfrutar el efecto de sus palabras sobre la audiencia,
+agregó con una sonrisa cautivadora, "diseñamos para la gente, no
+diseñamos para las usuarias".
+
 A noble goal in deed, but only when perceived in the narrow context of Interface
 Design. Here, the use of the term “people” emphasizes the need to follow the user
 centered in opposition to an implementation centered paradigm. The use of “people”
 in this context is a good way to remind software developers that the User is
 a human being and needs to be taken into account in design and validation processes.
 
+Sin duda un objetivo muy noble, pero solo cuando es percibido en el
+estrecho contexto del diseño de interfaces.  Aquí, el uso del término
+"gente" enfatiza la necesidad de centrarse en la usuaria en oposición al
+paradigma centrado en la implementación.  El uso de "gente" en este
+contexto es una buena manera de recordar a las desarrolladoras de
+software que la usuaria es una persona y necesita ser tomada en cuenta
+en el diseño y la validación de los procesos.
+
 But when you read it in a broader context, the denial of the word “user” in
 favor of “people” becomes dangerous. Being a User is the last reminder that there
 is, whether visible or not, a computer, a programmed system you use.
 
+Pero cuando se lo leo en un contexto más amplio, la negación de la
+palabra "usuaria" en favor de la "gente" se torna peligrosa.  Ser una
+usuaria es el último recordatorio de que existe, aun invisible, una
+computadora, un sistema programado para ser usado.
+
 In 2011 new media theoretician Lev Manovich also became unhappy about the word “user”.
 He writes on his blog “For example, how do we call a person who
 is interacting with digital media? User? No good.”<a href="#fn-lev" id="fnref-lev" class="footnote">5</a>
+
+En 2011 el teórico de los nuevos medios Lev Manovich también se volvió
+contra la palabra "usuaria".  Escribe en su blog: "por ejemplo, ¿cómo
+llamamos a una persona que interactúa con un medio digital? ¿Usuaria? No
+está bien."[^turing-5]
 
 Well, I can agree that with all the great things we can do with new media
 — various modes of  initiation and participation, multiple roles we can fill — that
 it is a pity to narrow it down to “users”, but this is what it is.
 Bloggers, artists, podcasters and even trolls are still users of systems they didn’t program.
 So they (we) are all the users.
+
+Puedo estar de acuerdo en que con todas las grandes cosas que podemos
+hacer con los nuevos medios --los varios modos de iniciación y
+participación, los múltiples roles que podemos tomar--, es una lástima
+reducirlo todo a meras "usuarias", pero esto es lo que tenemos.  Las
+_bloggers_, artistas, _podcasters_ e incluso las trolls todavía son
+usuarias de sistemas que no programaron.  Así que todas ellas (nosotras)
+somos usuarias.
 
 We need to take care of this word because addressing people and not users hides
 the existence of  two classes of people — developers and users. And if we lose
@@ -172,17 +222,42 @@ to demand better software, the ability “to choose none of the above”<a href=
 class="footnote">6</a>, to delete your files, to get your files back, to fail epically and,
 back  to the fundamental one, to  see the computer.
 
+Necesitamos hacernos cargo de esta palabra porque dirigiéndonos a gente
+y no a usuarias esconde la existencia de dos clases de personas
+--desarrolladoras y usuarias.  Y si perdemos esta distinción, las
+usuarias podrían perder sus derechos y la oportunidad de protegerlos.
+[Estos derechos](http://userrights.contemporary-home-computing.org/) son
+demandar mejor software, la habilidad de elegir "nada de lo
+anterior"[^turing-6], de borrar nuestros archivos, de recuperar nuestros
+archivos, de fallar épicamente y, de vuelta al derecho fundamental, de
+_ver_ la computadora.
+
 <strong>In other words: the Invisible User is more of an issue than an Invisible Computer.</strong>
+
+**En otras palabras: la usuaria invisible es un problema mucho más
+grande que la computadora invisible.**
 
 What can be done to protect the term, the notion and the existence of the
 Users? What  counter arguments can I find to stop Norman’s crusade and dispel
 Manovich’s skepticism? What do we know about a user, apart from the opinion that
 it is “no good” to be one?
 
+¿Qué se puede hacer para proteger el término, la noción y la existencia
+de las usuarias?  ¿Cuáles contra-argumentos puedo encontrar para detener
+la cruzada de Norman y disipar el escepticismo de Manovich?  ¿Qué
+sabemos sobre una usuaria, aparte de la opinión de que "no está bien"
+ser una?
+
 We know that it was not always like this. Before Real Users (those who
 pay money to use the system) became “users”, programmers and hackers proudly used this
 word to describe themselves. In their view, the user was the best role one
 could take in relation to their computer.<a href="#fn-tron" id="fnref-tron" class="footnote">7</a>
+
+Sabemos que no siempre es así.  Antes de las usuarias reales (aquellas
+que pagan dinero para usar el sistema) se conviertan en "usuarias", las
+programadoras y hackers usaban orgullosamente este término para
+referirse a sí mismas.  En su visión, la usuaria es el mejor rol que una
+puede tomar en relación con su computadora.[^turing-7]
 
 Furthermore, it is wrong to think that first there were computers and developers and
 only later users entered the scene. In fact, it was the opposite. At the
@@ -194,6 +269,17 @@ than the Memex itself.  He described a scientists of the future, a superman.
 He, the user of the Memex, not the Memex, itself was heading the article.<a
 href="#fn-memex" id="fnref-memex" class="footnote">8</a>
 
+Aun más, es un error pensar que primero hubo computadoras y
+desarrolladoras y que solo después aparecieron las usuarias.  De hecho,
+fue lo opuesto.  En el amanecer de la computadora personal la usuaria
+era el centro de atención.  La usuaria no se desarrolló en paralelo con
+la computadora, sino que la precedió.  Tomemos _"As we may think"_
+(1945) de Vanevar Bush, uno de los textos más influenciales de la
+cultura informática.  Bush usa más palabras describiendo a la persona
+que utiliza el _Memex_ que a la _Memex_ misma.  Describía a las
+científicas del futuro como super-personas.  Él mismo, usuario de la
+_Memex_, no la _Memex_, encabezaba el artículo.[^turing-8]
+
 20 years later, Douglas Engelbart, inventor of the pioneering personal computer system NLS, as
 well as hypertext, and the mouse, talked about his research on the augmentation of
 human intellect as  “bootstraping” — meaning that human beings, and their brains and
@@ -201,6 +287,17 @@ bodies, will evolve along with new technology. This is how French sociologist Th
 describes this approach in his book about Douglas Engelbart: “Engelbart wasn’t interested in just
 building the personal computer. He was interested in building the person who could use
 the computer to manage increasing complexity efficiently.”<a href="#fn-bootstrapping" id="fnref-bootstrapping" class="footnote">9</a>
+
+20 años después, Douglas Engelbart, inventor del sistema de computadoras
+personales _NLS_, así como del hipertexto y el _mouse_, hablaba sobre su
+investigación sobre el aumento del intelecto humano como en su período
+de arranque --queriendo decir que los seres humanos, con sus cerebros y
+cuerpos, evolucionarían a la par que las nuevas tecnologías.  Así es
+como el sociólogo francés Thierry Bardini describe el abordaje de su
+libro sobre Engelbart: "Engelbart no estaba interesado en la simple
+construcción de la computadora personal.  Le interesaba construir la
+persona que pudiera usar la computadora para administrar eficientemente
+la complejidad en aumento."[^turing-9]
 
 And let’s not forget the title of J.C.R. Licklider’s famous text, the one that
 outlined the principles for APRAs Command and Control research on Real Time System, from
