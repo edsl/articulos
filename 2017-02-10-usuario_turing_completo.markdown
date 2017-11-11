@@ -304,6 +304,12 @@ outlined the principles for APRAs Command and Control research on Real Time Syst
 which the interactive/personal computer developed
 — <em>Man</em>-Computer Symbiosis (1960).<a href="#fn-lick" id="fnref-lick" class="footnote">10</a>
 
+No olvidemos el título del famoso texto de J. C. R. Licklider, que
+delineó los principios para la investigación de Comando y Control de
+APRA sobre los Sistemas en Tiempo Real, a partir del que se
+desarrollaron las computadoras personales: _Simbiosis Hombre-Máquina_
+(1960)[^turing-10]
+
 When the personal computer was getting ready to enter the market 15 years later,
 developers thought about who would be model users. At XEROX PARC, Alan Kay and
 Adele Goldberg introduced the idea of kids, artists, musicians and others as potential users
@@ -315,26 +321,66 @@ user centered design”) brought the idea of a Secretary into the imagination of
 colleagues. This image of the  “Lady with the Royal Typewriter”<a href="#fn-lady" id="fnref-lady" class="footnote">12</a>
 predetermined the designs of  XEROX Star, Apple Lisa and and further electronic offices.
 
+Cuando la computadora personal estaba preparándose para entrar al
+mercado 15 años después, las desarrolladoras pensaron también en cuáles
+serían las usuarias modelo.  En _XEROX PARC_, Alan Kay y Adele Goldberg
+introdujeron la idea de las niñas, artistas, músicas y otras como
+potenciales usuarias de esta nueva tecnología.  Su _paper_ "_Personal
+Dynamic Media_" de 1977[^turing-11] describe principios importantes del
+hardware y el software de la computadora personal.  Pero leemos este
+texto como revolucionario porque establece claramente posibles usuarias,
+distintas de las desarrolladoras de sistemas, como esenciales a las
+dinámicas de estas tecnologías.  Otro empleado de Xerox, Tim Mott
+(también conocido como "el padre del diseño centrado en la usuaria")
+introdujo la idea de una secretaria en la imaginación de sus colegas.
+Esta imagen de la "señora con la máquina de escribir"[^turing-12]
+predeterminó los diseños de la _XEROX Star_, _Apple Lisa_ y otros
+dispositivos electrónicos para oficina.
+
 So, it’s important to acknowledge that users existed prior to computers, that they were
 imagined and invented — Users are the figment of the imagination. As a result
 of their fictive construction, they continued to be re-imagined and re-invented through the 70’s,
 80’s, 90’s, and the new millennium. But however reasonable, or brave, or futuristic, or
 primitive these models of users were, there is a constant.
 
+Entonces resulta importante reconocer que las usuarias existieron antes
+que las computadoras, que también fueron imaginadas e inventadas --un
+producto de la imaginación.  Como resultado de esta construcción
+fictiica, continuaron siendo re-imaginadas y re-inventadas a través de
+los '70, los '80 y los '90 e incluso en el nuevo milenio.  Pero aun
+cuando razonables, o valientes, o futurísticos, o primitivos fueran
+estos modelos de usuarias, existía una constante.
+
 Let me refer to another guru of user centered design, Alan Cooper. In 2007,
 when the U word was still allowed in interaction design circles, he and his
 colleagues shared their secret in “About Face, The Essentials of Interaction Design”:
+
+Voy a referirme a otro gurú del diseño centrado en la usuaria, Alan
+Cooper.  En el 2007, cuando la palabra con U todavía estaba permitida en
+los círculos del diseño de interacciones, él y sus colegas compartieron
+su secreto en "_About Face, The Essentials of Interaction Design_":
 
 <blockquote>
   “As an interaction designer, it’s best to imagine that users – especially —
   beginners — are simultaneously very intelligent and very busy.”<a href="#fn-cooper" id="fnref-cooper" class="footnote">13</a>
 </blockquote>
 
+> Como diseñadores de interacciones, es mejor imaginarse a los usuarios
+> --especialmente a los principiantes-- como simultáneamente muy
+> inteligentes y muy ocupados[^turing-13].
+
 It is very kind advice (and one of the most reasonable books on interface
 design, btw) and can be translated roughly as “hey, front end developers, don’t assume
 that your users are more stupid than you, they are just busy.” But it
 is more than this. What the second part of this quote gets to so
 importantly is that Users are people who are very busy <em>with something else</em>.
+
+Es un consejo muy amable (y por cierto uno de los libros más razonables
+sobre diseño de interfaces) y puede traducirse toscamente como "che,
+desarrolladoras de interfaces, no asuman que las usuarias son más
+estúpidas que ustedes, solo están ocupadas".  Pero es más que esto.  A
+lo que la segunda parte de la cita es que las usuarias son personas muy
+ocupadas _en otras cosas_.
 
 Alan Cooper is not the one who invented this paradigm, and not even Don
 Norman with his concentration on task rather than the tool. It originated in the
@@ -344,15 +390,41 @@ for people who are <em>not thinking about computers</em> but about the subject o
 the computer is supposed to help them with.”<a href="#fn-userlevel" id="fnref-userlevel" class="footnote">14</a>  Some pages
 before he claims: 
 
+Alan Cooper no es el inventor de este paradigma, tampoco Don Norman con
+su foco en la tarea antes que en la herramienta.  Su origen es en los
+'70.  Al enumerar los térmnos informáticos más comunes de aquellos años,
+Ted Nelson menciona los denominados "sistemas a nivel de usuaria" y dice
+que "estos sistemas están orientados a personas _que no están pensando
+en computadoras_ sino en el asunto o actividad en que la computadora
+debería serles útil"[^turing-14].  Algunas páginas antes, dice:
+
 <figure id="hugeassquote"><img src="personal-computing.png" width="1000" height="432" alt="" /></figure>
+
+![Figura 1. La informática siempre ha sido
+personal...](/images/personal-computing.png)
+
+> La informática siempre ha sido personal.  Con esto quiero decir que si
+> nunca estuviste intensamente involucrada hasta la médula, no estabas
+> haciendo informática, solo eras una usuaria[^turing-15].
 
 <a href="#fn-justauser" id="fnref-justauser" class="footnote">15</a>One should remember that Ted Nelson was always on the side
 of users and even “naïve users” so his bitter “just a user” means a lot. 
+
+[^turing-15]: Hay que recordar que Ted Nelson siempre estuvo a favor de
+  las usuarias e incluso de las "usuarias inocentes", por lo que este
+  amargo "solo eras una usuaria" es muy significativo.
 
 Alienation of users from their computers started in XEROX PARC with secretaries, as well
 as artists and musicians. And it never stopped. Users were seen and marketed as
 people who’s real jobs, feelings, thoughts, interests, talents — everything what matters — lie
 outside of  their interaction with personal computers.
+
+La alienación de las usuarias de sus computadoras comenzó en _XEROX
+PARC_ con las secretarias, así como las artistas y músicas.  Y nunca se
+detuvo.  Las usuarias fueron vistas y mercantilizadas como personas
+cuyos trabajos, sentimientos, pensamientos, intereses, talentos --todo
+lo que importa-- están alejados de su interacción con las computadoras
+personales.
 
 For instance, in 2007, when Adobe, the software company who’s products are dominating the
 so called “creative industries”, introduced version 3 of Creative Suite,  they filmed 
@@ -366,12 +438,35 @@ creative you are as a web designer. What a lie. I liked to show
 it to fresh design students as an example of misunderstanding the core of the
 profession.
 
+Por ejemplo, en el 2007, cuando _Adobe_, la empresa de software cuyos
+productos dominan las llamadas "industrias creativas", introdujo la
+versión 3 de su _Creative Suite_, grabaron artistas gráficas,
+productoras de video y otras hablando sobre las ventajas de este nuevo
+paquete de software.  Resulta particularmente interesante un video donde
+una diseñadora web (o una actriz en el rol de una diseñadora web)
+demostraba entusiásticamente lo que podía hacer con el nuevo _Dream
+Weaber_, cerrando con un "ahora tengo tiempo para hacer lo que más me
+gusta --ser creativa".  El mensaje de _Adobe_ es claro.  Cuanto menos
+pienses sobre código fuente, _scripts_, _links_ y la web misma, más
+creativa serás como diseñadora web.  Qué mentira.  Me gustaba
+mostrárselo a mis estudiantes de diseño como un ejemplo de la falta de
+comprensión sobre el núcleo de la profesión.
+
 This video is not online anymore, but actual ads for Creative Suite 6 are
 not much different – they feature designers and design evangelists talking about unleashing, increasing
 and enriching creativity as a direct result of fewer clicks to achieve this or
 that effect.<a href="#fn-adobe" id="fnref-adobe" class="footnote">16</a>
 
+Este video ya no está disponible, pero las publicidades de la _Creative
+Suite 6_ no son muy diferentes --muestran diseñadoras y evangelistas del
+diseño hablando sobre liberar, incrementar y enriquecer la creatividad
+como resultado directo de una menor cantidad de _clicks_ para lograr tal
+o cual efecto[^turing-16].
+
 In the book “Program or be Programmed”, Douglas Rushkoff describes similar phenomena: 
+
+En el libro "_Program or be Programmed_" \[Programa o sé programada\],
+Douglas Rushkoff describe un fenómeno similar:
 
 <blockquote>
   [&#8230;] We see actual coding as some boring chore, a working class skill
@@ -381,12 +476,28 @@ In the book “Program or be Programmed”, Douglas Rushkoff describes similar p
   task better offloaded to people somewhere else.<a href="#fn-rushkoff" id="fnref-rushkoff" class="footnote">17</a>
 </blockquote>
 
+> Vemos la escritura de código como una tarea aburridad, una habilidad
+> obrera como la albañilería, que bien podría tercerizarse a una nación
+> pobre mientras nuestras hijas juegan e incluso diseñan video juegos.
+> Vemos el desarrollo de la trama y las personajes del juego como la
+> parte interesante y la programación como la tarea rutinaria que es
+> mejor descargar sobre personas en otros lugares[^turing-17].
+
 Rushkoff states that code writing is not seen as a creative activity, but the
 same applies to engagement with the computer in general. It is not seen as
 a creative task or as “mature thought”.
 
+Rushkoff dice que la escritura de código no es vista como una actividad
+creativa, pero lo mismo aplica para el involucramiento en la informática
+en general.  No es vista como una actividad creativa o un "pensamiento
+maduro".
+
 In “As we may think”, while describing an ideal instrument that would augment the scientist of the future,
 Vanevar Bush mentions
+
+En "_As we may think_" \[Como podríamos pensar\], mientras describe el
+instrumento ideal para aumentar a la científica del futuro, Vanevar Bush
+menciona:
 
 <blockquote>
   For mature thought there is no mechanical substitute. But creative thought and essentially
@@ -394,37 +505,77 @@ Vanevar Bush mentions
   powerful mechanical aids<a href="#fn-mature" id="fnref-mature" class="footnote">18</a>
 </blockquote>
 
+> No hay un sustituto mecánico para el pensamiento maduro.  Pero el
+> pensamiento creativo y el esencialmente repetitivo son cosas muy
+> diferentes.  Para este último existen y existirán ayudas mecánicas
+> poderosas[^turing-18].
+
 Opposed to this, users, as  imagined by computer scientists, software developers and usability
 experts are the ones who’s task is to spend as little time as possible
 with the computer, without wasting a single thought on it. They require a specialized,
 isolated app for every “repetitive thought”, and, most importantly, delegate drawing the border in
 between creative and repetitive, mature and primitive, real and virtual, to app designers.
 
+Al contrario de esto, las usuarias, así imaginadas por las científicas
+informáticas, las desarrolladoras de software y las expertas en
+usabilidad, son aquellas cuya tarea es pasar el menor tiempo posible con
+la computadora, sin desperdiciar un solo pensamiento en ella.  Requieren
+una aplicación especializada y aislada para cada "pensamiento
+repetitivo".  Además, y esto es más importante, delegan el
+establecimiento del límite entre creativo y repetitivo, maduro y
+primitivo, real o virtual, a las diseñadoras de aplicaciones.
+
 There are periods in history, moments in life (and many hours a day!) where
 this approach makes sense, when delegation and automation are required and enjoyed. But in
 times when every aspect of life is computerized it is not possible to accept
 “busy with something else” as a norm.
 
+Hay períodos históricos, momentos en la vida (¡y muchas horas al día!)
+donde este abordaje tiene sentido, donde la delegación y la
+automatización son necesarias y disfrutadas.  Pero en tiempo donde cada
+aspecto de la vida resulta informatizado, no es posible aceptar que
+"ocupadas en otra cosa" sea la norma.
+
 So let’s look at another model of  users that evolved outside and despite
 usability experts’ imagination.
+
+Tomemos entonces otro modelo de usuarias que ha evolucionado por fuera y
+a pesar de la imaginación de las expertas en usabilidad.
 
 <div class="two_images">
 <figure>
 <img src="scientist.jpg" width="500" height="336" alt="" />
 <figcaption>“A scientist of the Future”<br>Title picture of Vanevar Bush’s “As we make think”<br>
-<a href="http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf">Illustrated version</a> from Life magazine, 1945</figcaption>
+<a href="">Illustrated version</a> from Life magazine, 1945</figcaption>
 </figure>
 <figure>
 <img src="sergey-dolya.jpg" width="500" height="336" alt="" />
-<figcaption>Russian travel blogger <a href="http://sergeydolya.livejournal.com/510565.html">Sergey Dolya</a><br>photo by Mik Sazonov, 2012</figcaption>
+<figcaption>Russian travel blogger <a href="">Sergey Dolya</a><br>photo by Mik Sazonov, 2012</figcaption>
 </figure>
 </div>
 
+!["Un científico del futuro", imagen de tapa de "_As we may think_" de
+Vanevar Bush. [Versión
+ilustrada](http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf)
+de la revista _Life_, 1945.](/images/scientist.jpg)
+
+![[Sergey Dolya](http://sergeydolya.livejournal.com/510565.html),
+_blogger_ ruso de viajes.  Foto por Mik Sazonov,
+2012](/images/sergey-dolia.jpg)
+
 <h2 id="generalpurposestupidanduniversal">General Purpose, “Stupid” and Universal</h2>
+
+De propósito general, "estúpida" y universal
+--------------------------------------------
 
 In “Why Interfaces Don’t Work” Don Norman heavily criticizes the world of visible computers,
 visible interfaces and users busy with all this. Near the end of the text
 he suggests the source of the problem: 
+
+En "_Why Interfaces Don't Work_" \[Por qué las interfaces no funcionan\]
+Don Norman critica duramente el mundo de las computadoras visibles, las
+interfaces visibles y las usuarias que se ocupan de ellas.  Hacia el
+final de su texto, sugiere una fuente de este problema:
 
 <blockquote>
   “We are here in part, because  this is probably the best we
@@ -433,11 +584,31 @@ he suggests the source of the problem:
   using general tools.”<a href="#fn-accident" id="fnref-accident" class="footnote">19</a>
 </blockquote>
 
+> Estamos en este punto en parte porque esto es probablemente lo mejor
+> que podemos lograr con la tecnología actual y también como
+> consecuencia de un accidente histórico.  Hemos adaptado una tecnología
+> de propósito general a tareas altamente especializadas usando
+> herramientas generales[^turing-19].
+
 In December 2011 science fiction writer and journalist Cory Doctorow gave a marvelous talk
 at the 28th Chaos Communication Congress in Berlin titled “The coming war on general
 computation”.<a href="#fn-cory" id="fnref-cory" class="footnote">20</a> He explains that there is only one possibility for computers
 to truly become appliances, the tiny, invisible, comfortable one purpose things Don Norman was
 preaching about: to be loaded with spyware. He explains, 
+
+En diciembre del 2011 el escritor de ciencia ficción y periodista Cory
+Doctorow dio una charla maravillosa en Berlín en el vigésimo octavo
+_Chaos Communication Congress_ titulada "La guerra sobre la informática
+general que se aproxima"[^turing-20].  Explica que existe solo una
+posibilidad para que las computadoras se conviertan en verdaderos
+electrodomésticos, los pequeños, invisibles y cómodos objetos de un solo
+propósito que Don Norman predicaba: llenarse de _spyware_[^spyware].
+Explica:
+
+
+[^spyware]: Software espía, programas diseñados para obtener información
+privada de las usuarias para regresar en forma de publicidad dirigida o
+controlar el uso que se hace de la computadora (nota de la traducción).
 
 <blockquote>
   “So today we have marketing departments who say things like &#8216;[&#8230;] Make me a
@@ -452,6 +623,20 @@ preaching about: to be loaded with spyware. He explains,
   it out of the box.”
 </blockquote>
 
+> Hoy tenemos departamentos de márketing diciendo cosas como "haceme una
+> computadora que no corra cualquier programa, solo un programa que
+> realice esta tarea especializada, como transmitir sonido, o enrutar
+> paquetes o reproducir juegos de _Xbox_".  Pero esto no es lo que
+> hacemos cuando convertimos la computadora en un electrodoméstico.  No
+> estamos haciendo una computadora que solo corre la aplicación
+> "electrodoméstico", sino una computadora que puede correr cualquier
+> programa, pero que usa una combinación de _rootkits_, _spyware_ y
+> firma de código para prevenir a la usuaria de conocer cuales procesos
+> están corriendo, instalar su propio software y terminar los procesos
+> que no quiere.  En otras palabras, un electrodoméstico no es una
+> computadora despojada --es una computadora completamente funcional con
+> _spyware_ de fábrica.
+
 By fully functional computer  Doctorow means the general purpose computer,  or as
 US mathematician John von Neumann referred to it in his 1945 “First Draft of
 a Report on the EDVAC” — the “all purpose  automatic digital computing system”.<a
@@ -461,9 +646,27 @@ so called “stored program” concept was born. In the mid 40’s the revolutio
 of it was  that “by storing the instructions electronically, you could change the
 function of the computer without having to change the wiring.”<a href="#fn-wiring" id="fnref-wiring" class="footnote">22</a>
 
+Por computadora completamente funcional Doctorow se refiere a la
+computadora de propósito general, o como el matemático estadounidense
+John von Neumann se refirió en su "_First Draft of a Report on the
+EDVAC_" \[Primer borrador de un reporte sobre la EDVAC\], el "sistema
+informático automático digital para todo propósito"[^turing-21].  En
+este _paper_ delineaba los principios de la arquitectura de computación
+digital (la arquitectura von Neumann), donde el hardware era separado
+del software y del que nació el concepto de "programa almacenado".  A
+mediados de los '40 el impacto revolucionario que tuvo fue que "al
+almacenar las instrucciones electrónicamente, es posible cambiar la
+función de la computadora sin tener que cambiar el
+cableado"[^turing-22].
+
 Today the rewiring aspect doesn’t have to be emphasized, but the idea itself that
 a  single computer can do everything is essential, and that it is the
 same general purpose computer behind “everything” from dumb terminals to super computers.
+
+Hoy el aspecto del cableado no necesita énfasis, pero la idea misma de
+que una sola computadora puede hacer de todo resulta esencial.  Esta es
+la misma computadora de propósito general detrás de "todo" desde las
+terminales bobas a las super computadoras.
 
 Doctorow’s talk is a perfect entry point to get oneself acquainted with the subject.
 To go deeper into the history of the war on general computation you may
@@ -471,11 +674,24 @@ consider reading Ted Nelson. He was the first to attract attention to the signif
 of the personal computer’s all-purpose nature. In 1974 in his glorious fanzine “Computer Lib”
 which aimed to explain computers to everybody, he writes in caps lock:
 
+La charla de Doctorow es el punto de entrada perfecto para
+interiorizarse en el asunto.  Para profundizar en la historia de la
+guerra contra la informática general hay que considerar leer a Ted
+Nelson.  Fue el primero en atraer atención sobre el significado de la
+naturaleza de propósito general de la computadora personal.  En 1974 en
+su glorioso fanzine "_Computer Lib_", cuyo objetivo era explicar la
+informática a todo el mundo, escribía en mayúsculas:
+
 <blockquote>
   COMPUTERS HAVE NO NATURE AND NO CHARACTER<br>
   Computers are, unlike any other piece of equipment, perfectly BLANK. And that is
   how we have projected on it so many different faces.<a href="#fn-capslock" id="fnref-capslock" class="footnote">23</a>
 </blockquote>
+
+> LAS COMPUTADORAS NO TIENEN NATURALEZA NI CARÁCTER  
+> Las computadoras son, a diferencia de cualquier otra pieza de
+> equipamiento, perfectamente RASAS.  Y es por esto que le hemos
+> proyectado tantas caras tan diferentes[^turing-23].
 
 Some great texts written this century are “The Future of the Internet and How
 to Stop It” (2008) by Jonathan Zittrain and of course “The Future of Ideas”
@@ -485,10 +701,27 @@ build into the network. The network stays neutral or “stupid”, simply delive
 asking what’s inside. It is the same with the von Neuman computer — it
 just runs programs.
 
+Algunos de los grandes textos de este siglo son "The Future of the
+Internet and How to Stop It" \[El futuro de la Internet y como
+evitarlo\] (2008) por Jonathan Zittrain y por supuesto "The Future of
+Ideas" \[El futuro de las ideas\] (2001) de Lawrence Lessig.  Ambos
+autores están más preocupados por la arquitectura de Internet que por la
+computadora misma, pero ambos escriben acerca del principio fin-a-fin
+que descansa en el núcleo de esta --es decir que no hay una inteligencia
+(control) construido en la red.  La red permanece neutral o "estúpida",
+simplemente entregando paquetes sin preguntar qué hay dentro.  Es lo
+mismo que con la computadora de von Neumann --solo corre programas.
+
 The works of Lessig, Zittrain and  Doctorow do a great job of explaining
 why both computer and network architectures are neither historic accidents nor “what technology wants”.<a
 href="#fn-kelly" id="fnref-kelly" class="footnote">24</a> The stupid network and the general purpose computer were conscious design
 decisions.
+
+Las obras de Lessig, Zittrain y Doctorow hacen un muy buen trabajo en
+explicar por qué las arquitecturas de la computadora y de la red no son
+ni accidentes históricos ni "lo que la tecnología quiere"[^turing-24].
+La red estúpida y la computadora de propósito general fueron decisiones
+concientes de diseño.
 
 For Norman, further generations of hardware and software designers and their invisible
 users dealing with General Purpose technology is both accident and obstacle.
@@ -500,15 +733,40 @@ that happen to people who work and live with connected computers. These prescien
 decisions have to be protected today, because technically it would be no big deal
 to make networks and computers “smart”, i.e. controlled.
 
+Para Norman, las próximas generaciones de diseñadoras de hardware y
+software y sus usuarias invisibles lidiando con tecnología de propósito
+general son tanto un accidente como un obstáculo. Para el resto de
+nosotras el auge y el uso de la tecnología de propósito general es el
+núcleo de las _new media_, la cultura digital y la sociedad de la
+información (si creemos que algo así existe).  Las computadoras de
+propósito general y las redes estúpidas son los valores centrales del
+tiempo que pasamos en ellas y la fuerza motriz detrás de las todas las
+cosas maravillosas y terribles que le suceden a las personas que
+trabajan y viven con computadoras conectadas.  Estas decisiones
+prescientes de diseno necesitan ser protegidas en la actualidad, porque
+no sería un gran problema técnico convertir las redes y computadoras en
+"inteligentes", es decir controladas.
+
 What does it all have to do with “users” versus “people” — apart from
 the self evident fact that only the users who are  busy with computers
 at least a little bit — to the extent of watching Doctorow’s video till
 the end — will fight for these values?
 
+¿Pero qué tiene que ver esto con "usuarias" versus "personas", aparte
+del hecho auto-evidente de que sólo las usuarias que se ocupan en las
+computadoras al menos un poquito, al colmo de mirar el video completo de
+Doctorow, serán las que luchen por estos valores?
+
 I would like to apply the concept of General Purpose Technology to users by
 flipping the discourse around and redirecting attention from technology to the user  that
 was formed through three  decades of adjusting general purpose technology to their needs:
 <strong>The General Purpose User.</strong>
+
+Me gustaría aplicar el concepto de tecnología de propósito general a las
+usuarias mediante la inversión del discurso y redirigir la atención
+de la tecnología a la usuaria que ha sido formada durante tres décadas
+de ajustar la tecnología de propósito general a sus necesidades:  **la
+usuaria de propósito general**.
 
 General Purpose Users can write an article in their e-mail client, layout
 their business card in Excel and  shave in front of a web cam.
@@ -517,11 +775,28 @@ without twitter, like without facebook, make a black frame around pictures witho
 a black frame from an instagram picture and even wake up at 7:00 without
 a “wake up at 7:00” app.
 
+Las usuarias de propósito general pueden escribir un artículo en su
+cliente de correo electrónico, maquetar su tarjeta profesional en
+_Excel_ y afeitarse enfrente de una _webcam_.  También pueden encontrar
+una forma de publicar fotos sin _Flickr_, _twittear_ sin _Twitter_,
+gustar de algo sin _Facebook_, ponerle un marco negro alrededor de las
+fotos sin _Instagram_, eliminar el marco negro de una foto de
+_Instagram_ e incluso despertarse a las 7:00 sin una _app_ de
+"levantarse a las 7:00".
+
 Maybe these Users could more accurately be called Universal Users or Turing Complete Users,
 as a reference to the Universal  Machine, also known as Universal Turing Machine
 — Alan Turing’s conception of a computer that can solve any logical task given
 enough time and memory. Turing’s 1936 vision and design  predated and  most
 likely influenced  von Neuman’s First Draft and All-purpose Machine.
+
+Tal vez estas usuarias puedan ser más adecuadamente llamadas usuarias
+universales o usuarias Turing completas, como referencia a la máquina
+universal, también conocida como la máquina universal de Turing --el
+concepto propuesto por Alan Turing de que una computadora puede resolver
+cualquier tarea lógica con suficiente tiempo y memoria.  La visión y
+diseño que hizo Turing en 1936 precedían y muy probablemente
+influenciaban el borrador de von Neumann.
 
 But whatever name I chose, what I mean are users who have the ability
 to achieve their goals regardless of the primary purpose of an application or device.
@@ -529,16 +804,37 @@ Such users will find a way to their aspiration without an app or utility
 programmed specifically for it. The Universal user is not a super user, not half
 a hacker. It is not an exotic type of user.
 
+Pero cualquiera sea el nombre que elija, lo que quiero decir es que las
+usuarias tienen la habilidad de lograr sus objetivos a pesar del
+propósito principal de una aplicación o dispositivo.  Estas usuarias
+encontrarán una forma para cumplir sus aspiraciones sin una _app_ o
+utilidad programada específicamente para ellas.  La usuaria universal no
+es una super usuaria, ni una casi hacker.  No es un tipo exótico de
+usuaria.
+
 There can be different examples and levels of autonomy that users can imagine for
 themselves, but the capacity to be universal is still in all of us. Sometimes
 it is a conscious choice not to delegate particular  jobs to the computer,
 and sometimes it is just a habit. Most often it is not more than
 a click or two that uncover your general purpose architecture.
 
+Puede haber diferentes ejemplos y niveles de autonomía que las usuarias
+pueden imaginar para sí mismas, pero la capacidad de ser universales
+es inherente a todas nosotras.  A veces es la elección conciente de no
+delegar tareas particulares a una computadora y a veces es solo un
+hábito.  Muy a menudo solo se requieren un _click_ o dos para descubrir
+nuestra arquitectura de propósito general.
+
 For instance, you can decide not to use Twitter at all and instead inform
 the world about your breakfast through your own website. You can use Live Journal
 as if it is Twitter, you can use Twitter as Twitter, but instead of
 following people, visit their profiles as you’d visit a homepage.
+
+Por ejemplo, podemos decidir no usar _Twitter_ y en cambio informar al
+mundo sobre nuestros desayunos a través de nuestro propio sitio web.
+Podemos usar _Live Journal_ como si fuese _Twitter_, o _Twitter_ como si
+fuese _Twitter_, pero en lugar de seguir a otras personas, visitamos sus
+perfiles como si visitáramos su sitio web.
 
 You can have two Twitter accounts and log in to one in Firefox, and
 the other in Chrome. This is how I do it and it  doesn’t
@@ -547,18 +843,41 @@ an app for managing multiple accounts exists, maybe I knew but didn’t like it,
 or maybe I’m too lazy to install it. Whatever, I found a way. And
 you will do as well.
 
+Podemos tener dos cuentas de _Twitter_ e ingresar a una desde _Firefox_
+y a la otra desde _Chrome_.  Así lo hago yo y no importa por qué
+prefiero hacerlo de esta forma.  Tal vez no se que existe una sola
+_app_ para administrar varias cuentas, tal vez las conozco pero no me
+gustan o tal vez soy muy vaga para instalarlas.  Sin embargo, encontré
+una forma.  Y siempre podemos encontrar las propias.
+
 A Universal User’s mind set (it is a mind set, not set of rules,
 not a vow) means to liaise with hardware and software. Behavior that is antipodal
 to the “very busy” user. This kind of interaction makes the user visible, most
 importantly to themselves. And, if you wish to think about it in terms of
 Interface Design and UX, it is the ultimate experience.
 
+El esquema mental de una usuaria universal (un esquema mental no es un
+juego de reglas o un voto) es enlazarse con el hardware y el software.
+Este comportamiento está en las antípodas de la usuaria "muy ocupada".
+Este tipo de interacción vuelve visible a la usuaria, para sí misma.  Si
+quisiéramos pensalo en términos del diseño de interfaces y la
+experiencia de usuaria, esta es la mejor experiencia.
+
 Does this mean that to deliver this kind of user experience the software industry
 needs to produce imperfect software or hold itself back from improving existing tools? Of
 course not! Tools can be perfect.
 
+¿Esto significa que para entregar esta clase de experiencia de usuaria
+la industria del software necesita producir software imperfecto o
+contenerse de mejorar las herramientas existentes?  ¡Por supuesto que
+no!  Las herramientas pueden ser perfectas.
+
 Though the idea of perfect software could be revised, taking into account that it
 is used by the General Purpose User, valuing ambiguity and users’ involvement.
+
+Aunque la idea del software perfecto necesita revisarse, tomando en
+cuenta que es utilizado por la usuaria de propósito general, valorando
+la ambigüedad y el involucramiento de la usuaria.
 
 And thankfully ambiguity is not that rare. There are online services where users are
 left alone to use or ignore features.  For example, the developers of Twitter
@@ -569,6 +888,17 @@ be happy.  Blingee.com, who’s primary goal is to let users add glitter to
 their photos, allows to upload whatever stamps they want — not glittery, not even
 animated. It just delivers the user merged layers in return. 
 
+Por suerte la ambigüedad no es rara.  Existen servicios en línea donde
+las usuarias pueden usar o ignorar capacidades.  Por ejemplo, las
+desarrolladoras de _Twitter_ no tomaron medidas para prevenirme de
+saltar de perfil en perfil de personas a las que no sigo.  La red social
+holandesa _Hyves_ permite a sus usuarias jugar con las imágenes de fondo
+y no necesitan álbumes de fotos o _instagrams_ para ser felices.
+_Blingee.com_, cuyo objetivo principal es permitir a las usuarias
+agregar brillantina a sus fotos, también les permite subir cualquier
+estampa que quieran --ni brillantina, ni necesariamente animada.  Solo
+le devuelve capas unidas.
+
 I can also mention here an extreme example of a service that nourishes the
 user’s universality — <a href="http://myknet.org/">myknet.org</a> — an Aboriginal social network in Canada. It is
 so “stupid” that users can re-purpose their profiles every time they update them. Today
@@ -576,7 +906,18 @@ it functions as a twitter feed, yesterday it was a youtube channel, and tomorrow
 it might be an online shop. Never-mind that it looks very low-tech and like
 it was made 17 years ago, it works!
 
+Puedo mencionar otro ejemplo extremo de un servicio que nutre la
+universalidad de las usuarias, <http://myknet.org>, una red social de
+los pueblos originarios de Canadá.  Es tan "estúpida" que sus usuarias
+pueden re-orientar sus perfiles cada que vez que los actualizan.  Hoy
+funciona como un _feed_ de _Twitter_, ayer era un canal de _Youtube_
+y mañana podría ser una tienda en línea.  No importa que se vea muy
+_low-tech_ y como si estuviera hecha hace 17 años, ¡funciona!
+
 In general the WWW, outside of Facebook, is an environment open for interpretation.
+
+En general, la _World Wide Wide_, aparte de _Facebook_ es un entorno
+abierto a la interpretación.
 
 Still, I have difficulties finding  a site or an app, that actually addresses
 the users, and sees their presence as a part of  the work flow.
@@ -587,10 +928,28 @@ I mean a situation when the work flow of an application has gaps that
 can be filled by users, where smoothness and seamlessness are broken and some of
 the final links in the chain are left for the users to complete.
 
+Aun así, tengo dificultades en encontrar un sitio o una _app_ que
+realmente se dirija a las usuarias y tome en cuenta su presencia como
+parte del flujo de trabajo.  Esto puede sonar extraño, porque la _web
+2.0_ se trata de empujar a las personas a contribuir y el "diseño
+emocional" se supone que se trata de establecer conexiones personales
+entre las personas que hacen la _app_ y las personas que la compran,
+pero me refiero a algo diferente.  Me refiero a una situación donde el
+flujo de trabajo de una aplicación tiene brechas que solo pueden ser
+llenadas por usuarias, donde la suavidad y las costuras invisibles se
+rompen y algunos de los eslabones finales de la cadena son dejados a la
+usuaria para ser completados.
+
 I’ll leave you with an extreme example, an anonymous (probably student) project:<br>“Google Maps +
 Google Video + Mashup — Claude Lelouch’s Rendezvous”:
 
+Voy a dejar un ejemplo extremo, un proyecto anónimo (probablemente de
+una estudiante):
+
 <figure><img src="mashup.png" width="1000" height="720" alt="" /></figure>
+
+![Google Maps + Google Video + Mashup -- el _Rendez-vous de Claude
+Lelouch_](/images/mashup.png)
 
 It was made in 2006, at the very rise of Web 2.0<a href="#fn-w20" id="fnref-w20"
 class="footnote">25</a>, when the mash-up was a very popular cultural, mainstream artistic form. Artists were
@@ -603,17 +962,45 @@ to synchronize the video and the car’s movement on the map. As a result
 the user is left with the instruction:  “Hit play on the video. [&#8230;]
 At the 4 second mark, hit the &#8216;Go!’ button.” 
 
+Fue hecho en 2006, en el auge mismo de la _web 2.0_[^turing-25], cuando
+el _mashup_ era una forma muy popular y _mainstream_ de hacer arte.  Las
+artistas celebraban las nuevas convergencias y el desdibujamiento de
+los límites entre las distintas piezas de software.  El _Rendez-vous de
+Claude Leloch_ es un _mashup_ que pone en el misma página el famoso film
+de carreras del mismo nombre en un mapa de París, para que podamos
+seguir el auto en la película y ver su posición en el mapa de _Google_
+al mismo tiempo.  Pero la autora falló (o tal vez no fue su intención)
+en sincronizar el video con el movimiento del auto en el mapa.  Como
+resultado la usuaria es dejada con una instrucción: "Dale _play_ al
+video, a los 4 segundos, presiona el botón de 'Comenzar!'".
+
 The user is asked not only to press one but two buttons! It suggests
 that we take care ourselves, that we make can complete a task at the
 right moment. The author obviously counts on users intelligence, and never heard that
 they are “very busy”.
+
+¡A la usuaria se le pide que presione no uno sino dos botones!  Sugiere
+que debemos hacernos cargo de nosotras mismas para completar una tarea
+en el momento preciso.  La autora obviamente cuenta con la inteligencia
+de las usuarias y jamás escuchó que están "muy ocupadas".
 
 The fact that the original video file that was used in the mash up
 was removed, makes this project even more interesting. To enjoy it, you’ll have to
 go to YouTube and look for  another version of the film. I found
 one, which means you’ll succeed as well. 
 
+El hecho de que el video original utilizado en el _mashup_ fue eliminado
+hace que este proyecto sea más interesante.  Para disfrutarlo, tenemos
+que ir a _Youtube_ a buscar otra versión.  Encontré una, así que es
+posible que otras lo hagan.
+
 <strong>There is nothing one user can do, that another can’t given enough time and respect. Computer Users are Turing Complete.</strong>
+
+**No hay nada que una usuaria pueda hacer, que otra no pueda dados
+suficiente tiempo y respeto.  Las usuarias de computadoras son Turing
+completas.**
+
+***
 
 <p style="text-align:center">* * *
 
@@ -625,9 +1012,23 @@ apps it will be wonderful. But apart from the fact that it is not
 realistic, I would say it is also not enough. I would say it is
 wrong to say either you understand computers or u are the user.<a href="#fn-schools" id="fnref-schools" class="footnote">27</a>
 
+Cuando Sherry Turkle, Douglas Rushkoff y otras mentes brillantes
+establecieron que necesitamos aprender programación y comprender
+nuestras computadoras para no ser las programdas y "demandar
+transparencia de los otros sistemas"[^turing-26], no puedo dejar de
+estar de acuerdo.  Sería maravilloso que el abordaje a la educación
+informática en las escuelas cambiara de administrar aplicaciones
+particulares a escribirlas.  Pero aparte de hecho de que no es realista,
+debo decir que no es suficiente.  Digo que es un error decir que se
+entienden a las computadoras o somos las usuarias[^turing-27].
+
 An effort must be made to educate the users about themselves. There should be
 understanding of  what it means to be a user of  an “all
 purpose  automatic digital computing system”.
+
+El esfuerzo debe hacerse en educar a las usuarias sobre sí mismas.
+Necesitamos una comprensión de lo que significa ser una usuaria de un
+"sistema de computación digital automático para todo propósito".
 
 General Purpose Users are not a historic accident or a temporary anomaly. We are
 the product  of the “worse is better”  philosophy of UNIX, the end-to
@@ -638,24 +1039,25 @@ time taking control. We are the children of  the misleading and clumsy Desktop
 Metaphor, we know how to open doors without knobs.<a href="#fn-knobs"
 id="fnref-knobs" class="footnote">28</a>
 
+Las usuarias de propósito general no son un accidente histórico ni una
+anomalía temporal.  Somos el productor es de la filosofía "peor es
+mejor" de _UNIX_, el principio fin-a-fin de la Internet, el "bajo
+construcción" y el posterior "beta" que es el espíritu de la web.  Todos
+estos diseños que demandan atención y solicitan perdón e involucramiento
+son los que nos formaron como usuarias siempre ajustándonos,
+improvisando y al mismo tiempo retomando el control.  Somos las hijas de
+la engañosa y torpe metáfora de escritorio, sabemos cómo abris puertas
+sin perilla[^turing-28].
+
 We, general purpose users — not hackers and not people — who are challenging, consciously
 or subconsciously, what we can do and what computers can do, are the ultimate
 participants of man-computer symbiosis. Not exactly the kind of symbiosis Licklider envisioned,
 but a true one.
 
-<strong><em><a href="http://art.teleportacia.org/olia.html">Olia Lialina</a>, October 2012</em></strong>
+Nosotras, las usuarias de propósito general --ni hackers ni personas--
+las que estamos desafiando, conciente o inconcientemente, lo que podemos hacer y
+lo que las computadoras pueden hacer, somos el súmun de la simbiosis
+persona-máquina.  No es exactamente la simbiosis que predecía Licklider,
+pero una verdadera.
 
-<em>I would like to thank<br>
-Caitlin Jones for correcting my English and<br>
-<a href="http://1x-upon.com/~despens/">Dragan Espenschied</a> for designing this page.</em>
-<br>
-<br>
-<em>Consider reading the folow up articles</em>
-<br>
-        <h3><a href="../RUE/">Rich User Experience, UX and Desktopization of War</a></h3>
-            The morning after experience design<br>
-            Olia Lialina, 2015-01-03
-            <h3><a href="../art-and-tech/not/">Not Art&Tech</a></h3>
-            On the role of Media Theory at Universities of Applied Art, Technology and Art and Technology. <br>
-            Olia Lialina, 2015-11-17
-
+_[Olia Lialina](http://art.teleportacia.org/olia.html), octubre de 2012._
