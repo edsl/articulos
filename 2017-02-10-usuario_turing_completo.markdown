@@ -83,8 +83,7 @@ las interfaces no funcionan" publicado en 1990 en donde se pregunta y se
 responde su propia incognita: "El problema real con la interfaz es que
 es una interfaz".  ¿Que podemos hacer? "Necesitamos ayudar a la tarea,
 no a la interfaz para la tarea.  ¡La informatica del futuro deberia ser
-invisible!"[1]()
-
+invisible!" [@norman-1990, pp. 218]
 
 It took almost two decades, but the future arrived around five years ago,
 when clicking mouse buttons  ceased to be our main input method and touch and
@@ -127,11 +126,12 @@ magical pane of glass that can become anything you want it to be. It’s a
 more personal experience with technology than people have ever had.<a href="#fn-ipadtrailer" id="fnref-ipadtrailer" class="footnote">2</a>
 </blockquote>
 
-"Creemos que la tecnologia esta en su estado mas optimo cuando es invisible, Cuando
-solo sos consciente de lo que estas haciendo, y no del dispositivo que usas un iPad
-es la exprecion perfecta de esta idea, es este panel magico de vidrio  que puede 
-convertirse en cualquier cosa que quieras. Es la experiencia  mas intima que la gente
-llego a tener con la tecnologia." 
+> Creemos que la tecnologia esta en su estado mas optimo cuando es
+> invisible, Cuando solo sos consciente de lo que estas haciendo, y no
+> del dispositivo que usas un iPad es la exprecion perfecta de esta
+> idea, es este panel magico de vidrio que puede convertirse en
+> cualquier cosa que quieras. Es la experiencia mas intima que la gente
+> llego a tener con la tecnologia [@apple-2012].
 
 
 In this last sentence, the word “experience” is not an accident, neither 
@@ -168,6 +168,14 @@ tener que recordar aquellos incómodos botones y dispositivos de entrada
 del pasado.  Las usuarias son para las interfaces.  !Las experiencias
 son para la _gente_![^turing-3]
 
+Another strong force behind ignoring the term User comes from adepts of
+Gamification. They prefer to address users as gamers. But that’s another
+topic. 
+
+[^turing-3]: Otra fuerza detrás de la invisibilización del término
+usuaria proviene de los adeptos de la _gamificación_.  Prefieren
+llamarles _gamers_.  Pero esto es otro tema.
+
 In 2008 Don Norman simply ceased to address Users as Users. At an event sponsored
 by Adaptive Path, a user interface design company, Norman stated “One of
 the horrible words we use is users. I am on a crusade to get rid of
@@ -183,6 +191,25 @@ eliminar la palabra 'usuarias'.  Prefiero llamarlas 'gente'."[^turing-4]
 Después de disfrutar el efecto de sus palabras sobre la audiencia,
 agregó con una sonrisa cautivadora, "diseñamos para la gente, no
 diseñamos para las usuarias".
+
+Video of the talk
+
+See also Norman’s 2006 essay Words matter: “Psychologists depersonalize
+the people they study by calling them ‘subjects.’ We depersonalize the
+people we study by calling them ‘users.’ Both terms are derogatory. They
+take us away from our primary mission: to help people. Power to the
+people, I say, to repurpose an old phrase. People. Human Beings. That’s
+what our discipline is really about.” 
+
+[^footnote-4]: Video de la charla:
+<http://www.youtube.com/watch?v=WgJcUHC3qJ8>.  Ver también su ensayo del
+2006 _Word matter_ \[Las palabras importan\]: "Los psicólogos
+despersonalizan a las personas que estudian llamándolas 'sujetos'.
+Nosotros despersonalizamos a las personas que estudiamos llamándolas
+'usuarios'.  Ambos son términos despectivos.  Nos alejan de nuestro
+misión principal: ayudar a las personas.  _Power to the people_, diría,
+para reutilizar una vieja frase.  Personas.  Seres humanos.  Eso es de
+lo que se trata nuestra disciplina".
 
 A noble goal in deed, but only when perceived in the narrow context of Interface
 Design. Here, the use of the term “people” emphasizes the need to follow the user
@@ -214,7 +241,7 @@ is interacting with digital media? User? No good.”<a href="#fn-lev" id="fnref-
 En 2011 el teórico de los nuevos medios Lev Manovich también se volvió
 contra la palabra "usuaria".  Escribe en su blog: "por ejemplo, ¿cómo
 llamamos a una persona que interactúa con un medio digital? ¿Usuaria? No
-está bien."[^turing-5]
+está bien" [@manovich-2011].
 
 Well, I can agree that with all the great things we can do with new media
 — various modes of  initiation and participation, multiple roles we can fill — that
@@ -248,6 +275,14 @@ anterior"[^turing-6], de borrar nuestros archivos, de recuperar nuestros
 archivos, de fallar épicamente y, de vuelta al derecho fundamental, de
 _ver_ la computadora.
 
+Borrowed from the subtitle “You May Always Choose None of the Above” of
+the chapter “Choice” in: Douglas Rushkoff, Program or be Programmed,
+2010, p.46 
+
+[^turing-6]: Parafraseado del subtítulo "_You May Always Choose None of
+the Above_" \[Siempre podés elegir nada de lo anterior\] del capítulo
+"_Choice_" \[Elección\] [@rushkoff-2010, pp. 46].
+
 <strong>In other words: the Invisible User is more of an issue than an Invisible Computer.</strong>
 
 **En otras palabras: la usuaria invisible es un problema mucho más
@@ -275,6 +310,19 @@ programadoras y hackers usaban orgullosamente este término para
 referirse a sí mismas.  En su visión, la usuaria es el mejor rol que una
 puede tomar en relación con su computadora.[^turing-7]
 
+“The movie Tron (1982) marks the highest appreciation and most glorious
+definition of this term. […] The relationship of users and programs is
+depicted as a very close and personal one, almost religious in nature,
+with a caring and respecting creator and a responsible and dedicated
+progeny.” — Olia Lialina and Dragan Espenschied, Do you believe in
+users?, in: Digital Folklore, 2009 
+
+[^turing-7]: "La película _Tron_ (1982) demarca la más alta apreciación
+y la más gloriosa definición de este término. [...] La relación entre
+usuarias y programas es manifestada como muy cercana y personal, casi
+de una naturaleza religiosa, con una creadora bondadosa y respetuosa y
+una progenie responsable y dedicada" [@lialina-espenschied-2009].
+
 Furthermore, it is wrong to think that first there were computers and developers and
 only later users entered the scene. In fact, it was the opposite. At the
 dawn of personal computer the user was the center of attention.  The user
@@ -294,7 +342,7 @@ la computadora, sino que la precedió.  Tomemos _"As we may think"_
 cultura informática.  Bush usa más palabras describiendo a la persona
 que utiliza el _Memex_ que a la _Memex_ misma.  Describía a las
 científicas del futuro como super-personas.  Él mismo, usuario de la
-_Memex_, no la _Memex_, encabezaba el artículo.[^turing-8]
+_Memex_, no la _Memex_, encabezaba el artículo [@bush-1945].
 
 20 years later, Douglas Engelbart, inventor of the pioneering personal computer system NLS, as
 well as hypertext, and the mouse, talked about his research on the augmentation of
@@ -313,7 +361,7 @@ como el sociólogo francés Thierry Bardini describe el abordaje de su
 libro sobre Engelbart: "Engelbart no estaba interesado en la simple
 construcción de la computadora personal.  Le interesaba construir la
 persona que pudiera usar la computadora para administrar eficientemente
-la complejidad en aumento."[^turing-9]
+la complejidad en aumento" [@bardini-2000].
 
 And let’s not forget the title of J.C.R. Licklider’s famous text, the one that
 outlined the principles for APRAs Command and Control research on Real Time System, from
@@ -324,7 +372,7 @@ No olvidemos el título del famoso texto de J. C. R. Licklider, que
 delineó los principios para la investigación de Comando y Control de
 APRA sobre los Sistemas en Tiempo Real, a partir del que se
 desarrollaron las computadoras personales: _Simbiosis Hombre-Máquina_
-(1960)[^turing-10]
+[-@licklider-1960, pp. 4-11].
 
 When the personal computer was getting ready to enter the market 15 years later,
 developers thought about who would be model users. At XEROX PARC, Alan Kay and
@@ -342,16 +390,16 @@ mercado 15 años después, las desarrolladoras pensaron también en cuáles
 serían las usuarias modelo.  En _XEROX PARC_, Alan Kay y Adele Goldberg
 introdujeron la idea de las niñas, artistas, músicas y otras como
 potenciales usuarias de esta nueva tecnología.  Su _paper_ "_Personal
-Dynamic Media_" de 1977[^turing-11] describe principios importantes del
+Dynamic Media_" [-@kay-1977] describe principios importantes del
 hardware y el software de la computadora personal.  Pero leemos este
 texto como revolucionario porque establece claramente posibles usuarias,
 distintas de las desarrolladoras de sistemas, como esenciales a las
 dinámicas de estas tecnologías.  Otro empleado de Xerox, Tim Mott
 (también conocido como "el padre del diseño centrado en la usuaria")
 introdujo la idea de una secretaria en la imaginación de sus colegas.
-Esta imagen de la "señora con la máquina de escribir"[^turing-12]
-predeterminó los diseños de la _XEROX Star_, _Apple Lisa_ y otros
-dispositivos electrónicos para oficina.
+Esta imagen de la "señora con la máquina de escribir"
+[@smith-alexander-1999, pp. 110] predeterminó los diseños de la _XEROX
+Star_, _Apple Lisa_ y otros dispositivos electrónicos para oficina.
 
 So, it’s important to acknowledge that users existed prior to computers, that they were
 imagined and invented — Users are the figment of the imagination. As a result
@@ -383,7 +431,7 @@ su secreto en "_About Face, The Essentials of Interaction Design_":
 
 > Como diseñadores de interacciones, es mejor imaginarse a los usuarios
 > --especialmente a los principiantes-- como simultáneamente muy
-> inteligentes y muy ocupados[^turing-13].
+> inteligentes y muy ocupados [@cooper-2007, pp. 45].
 
 It is very kind advice (and one of the most reasonable books on interface
 design, btw) and can be translated roughly as “hey, front end developers, don’t assume
@@ -412,23 +460,24 @@ su foco en la tarea antes que en la herramienta.  Su origen es en los
 Ted Nelson menciona los denominados "sistemas a nivel de usuaria" y dice
 que "estos sistemas están orientados a personas _que no están pensando
 en computadoras_ sino en el asunto o actividad en que la computadora
-debería serles útil"[^turing-14].  Algunas páginas antes, dice:
+debería serles útil" [@nelson-1987, pp. 9].  Algunas páginas antes, dice:
 
 <figure id="hugeassquote"><img src="personal-computing.png" width="1000" height="432" alt="" /></figure>
 
-![Figura 1. La informática siempre ha sido
-personal...](/images/personal-computing.png)
+![La informática siempre ha sido personal...](/images/personal-computing.png)
 
 > La informática siempre ha sido personal.  Con esto quiero decir que si
 > nunca estuviste intensamente involucrada hasta la médula, no estabas
 > haciendo informática, solo eras una usuaria[^turing-15].
 
+[^turing-15]: Escaneado de _Computer Lib_, página 3.
+
 <a href="#fn-justauser" id="fnref-justauser" class="footnote">15</a>One should remember that Ted Nelson was always on the side
 of users and even “naïve users” so his bitter “just a user” means a lot. 
 
-[^turing-15]: Hay que recordar que Ted Nelson siempre estuvo a favor de
-  las usuarias e incluso de las "usuarias inocentes", por lo que este
-  amargo "solo eras una usuaria" es muy significativo.
+Hay que recordar que Ted Nelson siempre estuvo a favor de las usuarias e
+incluso de las "usuarias inocentes", por lo que este amargo "solo eras
+una usuaria" es muy significativo.
 
 Alienation of users from their computers started in XEROX PARC with secretaries, as well
 as artists and musicians. And it never stopped. Users were seen and marketed as
@@ -479,6 +528,10 @@ diseño hablando sobre liberar, incrementar y enriquecer la creatividad
 como resultado directo de una menor cantidad de _clicks_ para lograr tal
 o cual efecto[^turing-16].
 
+[^turing-16]: Ver por ejemplo los _trailers_ de _Adobe Creative Suite
+6_:
+<http://www.adobe.com/products/creativesuite/design-web-premium.html>
+
 In the book “Program or be Programmed”, Douglas Rushkoff describes similar phenomena: 
 
 En el libro "_Program or be Programmed_" \[Programa o sé programada\],
@@ -497,7 +550,8 @@ Douglas Rushkoff describe un fenómeno similar:
 > pobre mientras nuestras hijas juegan e incluso diseñan video juegos.
 > Vemos el desarrollo de la trama y las personajes del juego como la
 > parte interesante y la programación como la tarea rutinaria que es
-> mejor descargar sobre personas en otros lugares[^turing-17].
+> mejor descargar sobre personas en otros lugares [@rushkoff-2010, pp.
+> 131].
 
 Rushkoff states that code writing is not seen as a creative activity, but the
 same applies to engagement with the computer in general. It is not seen as
@@ -524,7 +578,7 @@ menciona:
 > No hay un sustituto mecánico para el pensamiento maduro.  Pero el
 > pensamiento creativo y el esencialmente repetitivo son cosas muy
 > diferentes.  Para este último existen y existirán ayudas mecánicas
-> poderosas[^turing-18].
+> poderosas [@bush-1945b].
 
 Opposed to this, users, as  imagined by computer scientists, software developers and usability
 experts are the ones who’s task is to spend as little time as possible
@@ -604,7 +658,7 @@ final de su texto, sugiere una fuente de este problema:
 > que podemos lograr con la tecnología actual y también como
 > consecuencia de un accidente histórico.  Hemos adaptado una tecnología
 > de propósito general a tareas altamente especializadas usando
-> herramientas generales[^turing-19].
+> herramientas generales [@norman-1990, pp. 218].
 
 In December 2011 science fiction writer and journalist Cory Doctorow gave a marvelous talk
 at the 28th Chaos Communication Congress in Berlin titled “The coming war on general
@@ -625,6 +679,10 @@ Explica:
 [^spyware]: Software espía, programas diseñados para obtener información
 privada de las usuarias para regresar en forma de publicidad dirigida o
 controlar el uso que se hace de la computadora (nota de la traducción).
+
+[^turing-20]: Transcripción:
+<http://joshuawise.com/28c3-transcript#the_coming_war_on_general_computation>.
+Video: <http://youtu.be/HUEvRyemKSg>
 
 <blockquote>
   “So today we have marketing departments who say things like &#8216;[&#8230;] Make me a
@@ -666,14 +724,14 @@ Por computadora completamente funcional Doctorow se refiere a la
 computadora de propósito general, o como el matemático estadounidense
 John von Neumann se refirió en su "_First Draft of a Report on the
 EDVAC_" \[Primer borrador de un reporte sobre la EDVAC\], el "sistema
-informático automático digital para todo propósito"[^turing-21].  En
+informático automático digital para todo propósito" [@neumann-1945].  En
 este _paper_ delineaba los principios de la arquitectura de computación
 digital (la arquitectura von Neumann), donde el hardware era separado
 del software y del que nació el concepto de "programa almacenado".  A
 mediados de los '40 el impacto revolucionario que tuvo fue que "al
 almacenar las instrucciones electrónicamente, es posible cambiar la
 función de la computadora sin tener que cambiar el
-cableado"[^turing-22].
+cableado" [@waldrop-2001, pp. 61].
 
 Today the rewiring aspect doesn’t have to be emphasized, but the idea itself that
 a  single computer can do everything is essential, and that it is the
@@ -707,7 +765,7 @@ informática a todo el mundo, escribía en mayúsculas:
 > LAS COMPUTADORAS NO TIENEN NATURALEZA NI CARÁCTER  
 > Las computadoras son, a diferencia de cualquier otra pieza de
 > equipamiento, perfectamente RASAS.  Y es por esto que le hemos
-> proyectado tantas caras tan diferentes[^turing-23].
+> proyectado tantas caras tan diferentes [@nelson-1987, pp. 37].
 
 Some great texts written this century are “The Future of the Internet and How
 to Stop It” (2008) by Jonathan Zittrain and of course “The Future of Ideas”
@@ -735,7 +793,7 @@ decisions.
 
 Las obras de Lessig, Zittrain y Doctorow hacen un muy buen trabajo en
 explicar por qué las arquitecturas de la computadora y de la red no son
-ni accidentes históricos ni "lo que la tecnología quiere"[^turing-24].
+ni accidentes históricos ni "lo que la tecnología quiere" [@kelly-2010].
 La red estúpida y la computadora de propósito general fueron decisiones
 concientes de diseño.
 
@@ -990,6 +1048,15 @@ en sincronizar el video con el movimiento del auto en el mapa.  Como
 resultado la usuaria es dejada con una instrucción: "Dale _play_ al
 video, a los 4 segundos, presiona el botón de 'Comenzar!'".
 
+Web 2.0 was supposed to be a complete merge of people and technology,
+but was again progressing alienation and keeping users and developers
+apart. People were driven from self-made home pages to social networks. 
+
+[^turing-25]: La _Web 2.0_ iba a ser una fusión completa entre personas
+y tecnologías, pero fue una nueva alienación que mantuvo separaadas a
+usuarias y desarrolladoras.  Las personas fueron llevadas de sitios web
+hechos a mano hacia redes sociales.
+
 The user is asked not only to press one but two buttons! It suggests
 that we take care ourselves, that we make can complete a task at the
 right moment. The author obviously counts on users intelligence, and never heard that
@@ -1016,9 +1083,7 @@ posible que otras lo hagan.
 suficiente tiempo y respeto.  Las usuarias de computadoras son Turing
 completas.**
 
-***
-
-<p style="text-align:center">* * *
+---
 
 When Sherry Turkle, Douglas Rushkoff and other great minds state that we need to
 learn programming and understand our computers in order to not be programmed and “demand
@@ -1037,6 +1102,26 @@ informática en las escuelas cambiara de administrar aplicaciones
 particulares a escribirlas.  Pero aparte de hecho de que no es realista,
 debo decir que no es suficiente.  Digo que es un error decir que se
 entienden a las computadoras o somos las usuarias[^turing-27].
+
+“Politics is a system, complex to be sure, all the same. If people
+understand something as complicated as a computer, they will demand
+greater understanding of other things.” — Respondent’s statement,
+discussed in Sherry Turkle, The Second Self, edition 2004, p.163 
+
+[^turing-26]: "La política es un sistema, complejo por cierto.  Si las
+personas comprenden algo tan complicado como una computadora, comenzarán
+a demandar una mejor comprensión de otras cosas", discutido en _The
+Second Self_ \[El segundo yo\] [@turkle-2004, pp. 163].
+
+“Instead of teaching programming, most schools with computer literacy
+curriculums teach programs [… ] The bigger problem is that their entire
+orientation to computing will be from perspective of users” — Douglas
+Rushkoff, Program or be Programmed, 2010, p.130 
+
+[^turing-27]: "En lugar de enseñar programación, la mayoría de las
+escuelas que incluyen informática en sus currículas enseñan programas
+[...] El problema principal es que la orientación de la informática es
+llevada desde la perspectiva de las usuarias" [@rushkoff-2010, pp. 130]
 
 An effort must be made to educate the users about themselves. There should be
 understanding of  what it means to be a user of  an “all
@@ -1064,6 +1149,26 @@ son los que nos formaron como usuarias siempre ajustándonos,
 improvisando y al mismo tiempo retomando el control.  Somos las hijas de
 la engañosa y torpe metáfora de escritorio, sabemos cómo abris puertas
 sin perilla[^turing-28].
+
+“Direct-manipulation systems, like the Macintosh desktop, attempt to
+bridge the interface gulf by representing the world of the computer as a
+collection of objects that are directly analogous to objects in the real
+world. But the complex and abundant functionality of today’s new
+applications — which parallels people’s rising expectations about what
+they might accomplish with computers — threatens to push us over the
+edge of the metaphorical desktop. The power of the computer is locked
+behind a door with no knob.” — Brenda Laurel, Computer as Theater, 1993,
+p. xviii 
+
+[^turing-28]: "Los sistemas de manipulación directa, como las
+_Macintosh_ de escritorio, intentan cerrar la brecha de la interfaz
+representando el mundo de la computadora como una colección de objetos
+en analogía directa con los objetos del mundo real.  Pero la
+funcionalidad compleja y abundante de las aplicaciones de hoy en día
+--paralelamente a las expectativas de las personas acerca de lo que se
+puede lograr con computadoras-- amenaza con empujarnos al borde del
+escritorio metafórico.  El poder de la computadora está encerrado detrás
+de una puerta sin perilla" [@laurel-1993, pp. xviii]
 
 We, general purpose users — not hackers and not people — who are challenging, consciously
 or subconsciously, what we can do and what computers can do, are the ultimate
