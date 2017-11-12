@@ -1182,3 +1182,103 @@ persona-máquina.  No es exactamente la simbiosis que predecía Licklider,
 pero una verdadera.
 
 _[Olia Lialina](http://art.teleportacia.org/olia.html), octubre de 2012._
+
+Apéndice A: Sujetos de la interacción humana-computadora
+--------------------------------------------------------
+
+|                         | UX          | Web 2.0        | Computación en la nube | Gamificación |
+|-------------------------|-------------|----------------|------------------------|--------------|
+| **Computadora**         | tecnología  | red social     | la nube                | _epic win_   |
+| **Interfaz de usuaria** | experiencia | botón de envío | botón de carga         | _epic win_   |
+| **Usuarias**            | personas    | vos            | botón de descarga      | _gamers_     |
+
+Apéndice B: Usuarias imaginadas
+-------------------------------
+
+“One can now picture a future investigator in his laboratory. His hands
+are free, and he is not anchored. As he moves about and observes, he
+photographs and comments.”
+
+“Consider the intellectual domain of a creative problem solver […].
+These […] could very possibly contribute specialized processes and
+techniques to a general worker in the intellectual domain: Formal
+logic—mathematics of many varieties, including statistics—decision
+theory—game theory—time and motion analysis—operations
+research—classification theory—documentation theory—cost accounting, for
+time, energy, or money—dynamic programming—computer programming.”
+
+“People who are buying computers, especially personal computers, just
+aren’t going to take a long time to learn something. They are going to
+insist on using it awfully quick.”
+
+“Person who doesn’t know about computers but is going to use the system.
+Naive user systems are those set up to make things easy and clear for
+such people.
+
+ We are all naive users at some time or other; its nothing to be ashamed
+ of. Though some computer people seem to think it is.”
+
+“My model for this was a lady in her late fifties who had been
+publishing all her life and still used a Royal typewriter.”
+
+“Another interesting nugget was that children really needed as much or
+more computing power than adults were willing to settle for when using a
+timesharing system. […] The kids […] are used to finger-paints, water
+colors, color television, real musical instruments, and records.”
+
+— “You believe in the users?”
+— “Yes, sure. If I don’t have a user, then who wrote me?” 
+
+The “person of the year” is a machine:
+
+“Machine of the Year: The Computer Moves In”
+
+“September that never ended: All time since September 1993. One of the
+seasonal rhythms of the Usenet used to be the annual September influx of
+clueless newbies who, lacking any sense of netiquette, made a general
+nuisance of themselves. This coincided with people starting college,
+getting their first internet accounts, and plunging in without bothering
+to learn what was acceptable.”
+
+“hacker n. […] 1. A person who enjoys exploring the details of
+programmable systems and how to stretch their capabilities, as opposed
+to most users, who prefer to learn only the minimum necessary.” — p.233
+
+“lamer n. […] Synonym for luser, not used much by hackers but common
+among warez d00dz, crackers and phreakers. Oppose elite. Has the same
+connotations of self-conscious elitism that use of luser does among
+hackers.” — p.275
+
+“[User] is another convinient and somewhat outdated term, like
+”interface” […] A user may be seeking to complete an immediate task; an
+interactor is engaged in a prolonged give and take with the machine”
+p.11
+
+
+
+All of our dashboards, instead of saying ‘daily average users,’ say
+    ‘daily average people.’
+
+The privacy activist group Europe vs Facebook analysed a data set
+disclosed by Facebook in 2012, finding out that ”target” is the name of
+the item containing a user’s ID number and the date of its generation.
+
+| Año | Fuente | Usuaria imaginada | Descripción |
+| 1945 | Vannevar Bush, _As we may think_ | Científica | "Una puede imaginarse a una investigadora del futuro en su laboratorio.  Sus manos están libres y nada le ancla.  Mientras se mueve y observa, fotografía y comenta." |
+| 1962 | Douglas Engelbart, [Augmenting Human Intellect](http://www.dougengelbart.org/pubs/augment-3906.html) | Trabajadora cognitiva, trabajadora intelectual, programadora | "Consideremos el dominio intelectual de un programa que resuelve problemas creativos [...].  Estos [...] bien podrían contribuir procesos especializados y técnicas a una trabajadora general del dominio intelectual: lógica formal, matemáticas variadas, incluyendo estadísticas, teoría de decisiones, teoría de juegos, análisis de tiempo y movimiento, investigación de operaciones, teoría de clasificación, teoría de documentación, contabilidad de costos, en tiempo, energía o dinero, programación dinámica, programación de computadoras." |
+| 197x | J.C.R Licklider, _Some Reflections on Early History_ [-@licklider-1988, pp. 119] | Usuarias reales | "Las personas que compran computadoras, especialmente computadoras personales, no van a tardar en aprender a usarlas.  Van a insistir en hacerlo muy rápidamente." |
+| 1974 | Ted Nelson, _Computer Lib/Dream Machines_ [-@nelson-1987, pp.  9] | Usuarias inocentes | "Una persona que no sabe nada de computadoras pero es usuaria del sistema.  Los sistemas para personas inocentes son aquellos que están preparados para volver las cosas fáciles y claras para tales personas.  Todas somos usuarias inocentes en un momento u otro, no hay nada de lo que avergonzarse.  Aunque algunas informáticas parecen pensar que sí lo es." |
+| 1975 | Tim Mott, _Fumbling the Future_ [-@mott-1999, pp. 110] | La señora con la máquina de escribir | "Mi modelo para esto es una mujer bien entrada en sus 50 que ha trabajado en edición toda su vida y todavía usa una máquina de escribir." |
+| 1977 | Alan Kay, _Personal Dynamic Media_ [-@kay-1977] | Niñas, artistas, músicas | "Otra cosa interesante es que las niñas necesitan más poder del que las computadoras de tiempo compartido a las que se han acostumbrado las adultas pueden otorgar.  [...] Las niñas [...] están acostumbradas a pintar con los dedos, las acuarelas, la televisión a color, los instrumentos musicales reales y los discos." |
+| 1982 | Steven Lisberger, _TRON_ | Deidad | -- "¿Crees en las usuarias?" -- "Por supuesto, si no tengo una usuaria, ¿entonces quién me escribió?" Ver el dialogo en Youtube: <http://youtu.be/Ng1U4LMZz7Y?t=35s> |
+| 1983 | TIME Magazine | ![TIME Machine of the Year](/images/time-1983.jpg) | La "persona del año" es una máquina: "La máquina del año: el ingreso de la computadora". |
+| 1993 | Eric S. Raymond, _September that never ended_ [-@raymond-1993] | Novatas sin una pista | "El septiembre que nunca terminó: todo el tiempo a partir de septiembre de 1993.  Uno de los ritmos estacionales de la _Usenet_ solía ser la afluencia de novatas sin una pista que, careciendo de cualquier sentido de la netiqueta, se convertían en una molestia.  Esto coincidía con el comienzo de la universidad, el primer acceso a Internet, tirándose de cabeza sin molestarse en aprender lo que era aceptable." |
+| 1996 | Eric S. Raymond, _The New Hacker's Dictionary_ [-@raymond-1996] | Hackers = Implementadoras ; _Lamers_ = Usuarias | "**hacker**. [...] una persona que disfruta explorar los detalles de los sistemas programables y expandir sus capacidades.  El opuesto de la mayoría de los usuarios, quienes prefieren aprender el mínimo necesario." (página 233) "**lamer**.  Sinónimo de _luser_, no es muy usado entre _hackers_ pero común entre _warez d00dz_, _crackers_ y _phreakers_.  El opuesto de la élite.  Posee las mismas connotaciones de elitismo auto-percibido que el uso de _luser_ entre _hackers_." (página 275) |
+| 2006 | TIME Magazine | VOS | ![TIME Magazine.  YOU](/images/time-2006.jpg) |
+| 2008 | Don Norman en [UX Week 2008](http://www.youtube.com/watch?v=WgJcUHC3qJ8) | Personas | "Prefiero llamarlas personas." |
+| 2009 | Sir Tim Berners-Lee, _[The New Web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html)_ | Ellas | "Hace 20 años [...] inventé la _World Wide Web_." |
+| 2012 | Jack Dorsey, director ejecutivo de _Twitter_: "[Reconsideremos a nuestros usuarios](http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users)" | Clientes | "Si vuelvo a decir la palabra 'usuario' de vuelta, cóbrenme $ 140 de _inmediato_." |
+| 2012 | Janet Murry, diseñadora de interacciones, educadora, autora de _Hamlet on the Holodeck: In Introduction to Inventing the Medium_. | Interactora | "[Usuaria es un término conveniente pero algo vetusto, como "interfaz" [...] Una usuaria puede estar intentando completar una tarea inmediata; una interactora se involucra en un toma y daca prolongado con la máquina." |
+| 2013 | Bruce Tognazzini, el principio del grupo normal de Nielsen: _[The Third User](http://asktog.com/atc/the-third-user/)_ | Compradora | ![The Third User](/images/buyer-naive-expert.png) |
+| 2011 | Facebook | Personas (relaciones públicas) | Todos nuestros tableros dicen "personas promedio a diario" en lugar de "usuarios promedio a diario". [A Facebook ya no le gusta la palabra 'usuarios'](http://www.theatlantic.com/technology/archive/2014/12/facebook-doesnt-call-them-users-anymore/383638/), Robinson Meyer, _The Atlantic_, 2014 |
+| 2014 | Facebook | Objetivos (internamente) | El grupo activista [Europa vs Facebook](http://europe-v-facebook.org/) analizó un conjunto de datos publicado por _Facebook_ en el 2012 y encontró que "[objetivo](http://europe-v-facebook.org/EN/Data_Pool/data_pool.html#Target)" es el nombre del ítem que contiene el identificador de usuaria y la fecha de su creación. |
