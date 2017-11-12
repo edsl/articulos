@@ -15,6 +15,22 @@ Usuaria Turing Completa
 > Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso de la
 > autora.
 
+“Any error may vitiate the entire output of the device. For the
+recognition and correction of such malfunctions intelligent human
+intervention will in general be necessary.”
+— John von Neumann, First Draft of a Report on the EDVAC, 1945
+
+“If you can’t blog, tweet! If you can’t tweet, like!”
+— Kim Dotcom, Mr. President, 2012
+
+_"Cualquier error podría viciar el resultado que devuelva el dispositivo.
+Para reconocer y corregir tales desperfectos se necesita la intervención
+general de la inteligencia humana."_ -- John von Neumann, _First Draft
+of a Report on the EDVAC_, 1945.
+
+_"Si no tenés un blog,_ ¡twittea! _Si no podés_ twittear, _dale_ like_!_
+-- Kim Dotcom, _[Mr.
+President](http://www.youtube.com/watch?v=MokNvbiRqCM&t=3m38s)_, 2012.
 
 
 Invisible and Very Busy
