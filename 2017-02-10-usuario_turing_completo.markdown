@@ -10,7 +10,7 @@ Usuaria Turing Completa
 =======================
 
 > Publicado como "[Turing Complete
-> User](http://contemporary-home-computing.org/turing-complete-user/).
+> User](http://contemporary-home-computing.org/turing-complete-user/)".
 > Traducción liberada bajo la [Licencia de Producción de
 > Pares](http://endefensadelsl.org/ppl_deed_es.html) con permiso de la
 > autora.
@@ -28,13 +28,14 @@ Para reconocer y corregir tales desperfectos se necesita la intervención
 general de la inteligencia humana."_ -- John von Neumann, _First Draft
 of a Report on the EDVAC_, 1945.
 
-_"Si no tenés un blog,_ ¡twittea! _Si no podés_ twittear, _dale_ like_!_
+_"Si no tenés un blog,_ ¡twittea! _Si no podés_ twittear, _dale_ like!
 -- Kim Dotcom, _[Mr.
 President](http://www.youtube.com/watch?v=MokNvbiRqCM&t=3m38s)_, 2012.
 
 
 Invisible and Very Busy
 -----------------------
+
 Computers are getting invisible. They shrink and hide. They lurk under the
 skin and dissolve in the cloud. We observe the process like an eclipse of 
 the sun, partly scared, partly overwhelmed. We divide into camps and fight 
@@ -201,9 +202,9 @@ take us away from our primary mission: to help people. Power to the
 people, I say, to repurpose an old phrase. People. Human Beings. That’s
 what our discipline is really about.” 
 
-[^footnote-4]: Video de la charla:
+[^turing-4]: Video de la charla:
 <http://www.youtube.com/watch?v=WgJcUHC3qJ8>.  Ver también su ensayo del
-2006 _Word matter_ \[Las palabras importan\]: "Los psicólogos
+2006 _Words matter_ \[Las palabras importan\]: "Los psicólogos
 despersonalizan a las personas que estudian llamándolas 'sujetos'.
 Nosotros despersonalizamos a las personas que estudiamos llamándolas
 'usuarios'.  Ambos son términos despectivos.  Nos alejan de nuestro
@@ -1279,7 +1280,7 @@ the item containing a user’s ID number and the date of its generation.
 | 2008 | Don Norman en [UX Week 2008](http://www.youtube.com/watch?v=WgJcUHC3qJ8)                                                                                 | Personas                                                     | "Prefiero llamarlas personas."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 2009 | Sir Tim Berners-Lee, [_The New Web_](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html)                                                      | Ellas                                                        | "Hace 20 años [...] inventé la _World Wide Web_."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 2012 | Jack Dorsey, director ejecutivo de _Twitter_: "[Reconsideremos a nuestros usuarios](http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users)" | Clientes                                                     | "Si vuelvo a decir la palabra 'usuario' de vuelta, cóbrenme $ 140 de _inmediato_."                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 2012 | Janet Murry, diseñadora de interacciones, educadora, autora de _Hamlet on the Holodeck: In Introduction to Inventing the Medium_.                        | Interactora                                                  | "[Usuaria es un término conveniente pero algo vetusto, como "interfaz" [...] Una usuaria puede estar intentando completar una tarea inmediata; una interactora se involucra en un toma y daca prolongado con la máquina."                                                                                                                                                                                                                                                                                                                                 |
+| 2012 | Janet Murry, diseñadora de interacciones, educadora, autora de _Hamlet on the Holodeck: In Introduction to Inventing the Medium_.                        | Interactora                                                  | "\[Usuaria\] es un término conveniente pero algo vetusto, como "interfaz" [...] Una usuaria puede estar intentando completar una tarea inmediata; una interactora se involucra en un toma y daca prolongado con la máquina."                                                                                                                                                                                                                                                                                                                              |
 | 2013 | Bruce Tognazzini, el principio del grupo normal de Nielsen: _[The Third User](http://asktog.com/atc/the-third-user/)_                                    | Compradora                                                   | ![The Third User](/images/buyer-naive-expert.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 2011 | Facebook                                                                                                                                                 | Personas (relaciones públicas)                               | Todos nuestros tableros dicen "personas promedio a diario" en lugar de "usuarios promedio a diario". [A Facebook ya no le gusta la palabra 'usuarios'](http://www.theatlantic.com/technology/archive/2014/12/facebook-doesnt-call-them-users-anymore/383638/), Robinson Meyer, _The Atlantic_, 2014                                                                                                                                                                                                                                                       |
 | 2014 | Facebook                                                                                                                                                 | Objetivos (internamente)                                     | El grupo activista [Europa vs Facebook](http://europe-v-facebook.org/) analizó un conjunto de datos publicado por _Facebook_ en el 2012 y encontró que "[objetivo](http://europe-v-facebook.org/EN/Data_Pool/data_pool.html#Target)" es el nombre del ítem que contiene el identificador de usuaria y la fecha de su creación.                                                                                                                                                                                                                            |
