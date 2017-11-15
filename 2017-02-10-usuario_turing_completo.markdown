@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Usuario Turing Completo"
+title: "Usuaria Turing Completa"
 author: "Olia Lialina"
-cover: "images/cover_endefensadelsl_nr5.png"
+cover: "images/cover_endefensadelsl_nr4.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
 ---
 
@@ -20,7 +20,7 @@ Para reconocer y corregir tales desperfectos en general se necesita la
 intervención de la inteligencia humana."_ -- John von Neumann, _First Draft
 of a Report on the EDVAC_, 1945.
 
-_"Si no tenés un blog,_ ¡twittea! _Si no podés_ twittear, _dale_ like_!_
+_"Si no tenés un blog,_ ¡twittea! _Si no podés_ twittear, _dale_ like!
 -- Kim Dotcom, _[Mr.
 President](http://www.youtube.com/watch?v=MokNvbiRqCM&t=3m38s)_, 2012.
 
@@ -37,62 +37,67 @@ tomemos, reconocemos el significado del momento.
 
 Con la desaparición de la computadora, algo más está volviéndose
 silenciosamente invisible --La Usuaria.  Las usuarias están
-desapareciendo, tanto como fenómeno y como término, y este desarrollo pasa
-inadvertido o es aceptado como progreso --un paso evolutivo.
+desapareciendo, tanto como fenómeno y como término y este desarrollo
+pasa inadvertido o es aceptado como progreso --un paso evolutivo.
 
 La noción de la Usuaria Invisible es fomentada por influyentes
 diseñadoras de interfaces de usuario (UI), específicamente por Don
-Norman, un gurú del diseño amigable al usuario o "_user friendly_" y un
-defensor veterano de la informática invisible.  Podríamos llamarlo el
+Norman, un gurú del diseño amigable a la usuaria o "_user friendly_" y
+un defensor veterano de la informática invisible.  Podríamos llamarlo el
 padre de la informática invisible.
 
-Aquellas que estudian diseño de interacciones leyeron su libro "Por que
+Aquellas que estudian diseño de interacciones leyeron su libro "Por qué
 las interfaces no funcionan" (publicado en 1990), donde se pregunta y se
 responde su propia incognita: "El problema real con la interfaz es que
 es una interfaz".  ¿Qué podemos hacer? "Necesitamos ayudar a la tarea,
-no a la interfaz para la tarea.  ¡La informatica del futuro deberia ser
+no a la interfaz para la tarea.  ¡La informática del futuro debería ser
 invisible!" [@norman-1990, pp. 218]
 
-Tomó cerca de dos decadas, pero el futuro llego hace 5 años, cuando clickear botones dejo de ser
-nuestro metodo principal de entrada y las tecnologias touch y multi-touch dieron a entender
-una emancipacion del hardware. Lo acogedor de los iProductos, como también los avances exitosos en
-realidad Aumentada (se volvió móvil cuando llegó a nuestros teléfonos móviles), el crecimiento de 
-dispositivos portatiles, la maduracion de todo tipo de tracking (movimiento, facial) y el avance 
-de tecnologías de proyección borraron la frontera visible entre dispositivos de entrada (input) 
-y de salida (output). Estos desarrollos empezaron a convertir nuestras interacciones con computadoras
-en acciones pre-computadoras, o como las diseñadoras de interfaces prefieren decir, gestos
-y movimientos "naturales".
+Tomó cerca de dos decadas, pero el futuro llego hace 5 años, cuando
+clickear botones dejó de ser nuestro método principal de entrada y las
+tecnologías _touch_ y multi-_touch_ dieron a entender una emancipacion
+del hardware.  Lo acogedor de los iProductos, como también los avances
+exitosos en realidad aumentada (se volvió móvil cuando llegó a nuestros
+teléfonos móviles), el crecimiento de dispositivos portátiles, la
+maduracion de todo tipo de _tracking_ (movimiento, facial) y el avance
+de tecnologías de proyección borraron la frontera visible entre
+dispositivos de entrada y de salida.  Estos desarrollos empezaron a
+convertir nuestras interacciones con computadoras en acciones
+pre-computadoras, o como las diseñadoras de interfaces prefieren decir,
+gestos y movimientos "naturales".
 
-Por supuesto las computadoras siguen siendo distinguibles y localizables, pero
-ya no son algo frente a lo que te sentás. El pronóstico de invisibilidad es 
-tan optimista que en 2012 Apple se tomó la libertad de parafrasear la
-predicción de Norman poniéndola en presente perfecto y vinculándola a 
-un dispositivo electrónico de consumo especifico para consumidoras .
+Por supuesto las computadoras siguen siendo distinguibles y
+localizables, pero ya no son algo frente a lo que nos sentamos. El
+pronóstico de invisibilidad es tan optimista que en 2012 _Apple_ se tomó
+la libertad de parafrasear la predicción de Norman poniéndola en
+presente perfecto y vinculándola a un dispositivo electrónico de consumo
+especifico para consumidoras.
 
-> Creemos que la tecnologia está en su estado más óptimo cuando es
-> invisible, cuando sólo sos consciente de lo que estás haciendo, y no
-> del dispositivo que usás. El iPad es la expresión perfecta de esa
-> idea, un panel mágico de vidrio que puede convertirse en
-> cualquier cosa que quieras. Es la experiencia más íntima que la gente
-> llegó a tener con la tecnologia [@apple-2012].
+> Creemos que la tecnología está en su estado más óptimo cuando es
+> invisible, cuando sólo sos consciente de lo que estás haciendo y no
+> del dispositivo que usás.  El iPad es la expresión perfecta de esa
+> idea, un panel mágico de vidrio que puede convertirse en cualquier
+> cosa que quieras.  Es la experiencia más íntima que las personas
+> llegaron a tener con la tecnología [@apple-2012].
 
-En esta última oración, La palabra "experiencia" no es un accidente, tampoco lo es
-la palabra "gente".
+En esta última oración, la palabra "experiencia" no es un accidente,
+tampoco lo es la palabra "personas".
 
-Las computadoras invisibles, o mejor dicho la ilusión de la ausencia de la computadora, está
-destruida si seguimos hablando de "interfaz de usuario". Es por esto que el diseño de
-interfaces empieza a renombrarse como Diseño de Experiencias, cuyo objetivo 
-principal es hacer a las usuarias olvidarse que las computadoras y las interfaces existen.
-Con "Diseño de Experiencias" existen solo vos y tus emociones a sentir, tus objetivos a cumplir
-y tus tareas a completar.
+Las computadoras invisibles, o mejor dicho la ilusión de la ausencia de
+la computadora, se destruye si seguimos hablando de "interfaz de
+usuaria".  Es por esto que el diseño de interfaces empieza a renombrarse
+como _diseño de experiencias_, cuyo objetivo principal es hacer a las
+usuarias olvidarse que las computadoras y las interfaces existen.  En el
+"diseño de experiencias" solo existimos nosotras y nuestras emociones,
+nuestros objetivos a cumplir y tareas a completar.
 
 Este campo es abreviado como _UXD_, donde la _X_ es e_X_periencia y la
-_U_ todavía es por Usuarios.  La Wikipedia dice que Don Norman acuñó el
-término _UX_ en 1995. Sin embargo, en 2012 las diseñadoras de UX
+_U_ todavía es por usuarias.  La _Wikipedia_ dice que Don Norman acuñó
+el término _UX_ en 1995.  Sin embargo, en 2012 las diseñadoras de UX
 evitaron la palabra con U en _papers_ y llamadas a conferencias, para no
 tener que recordar aquellos incómodos botones y dispositivos de entrada
 del pasado.  Las usuarias eran para las interfaces.  !Las experiencias
-son para la _gente_![^turing-3]
+son para las _personas_![^turing-3]
 
 [^turing-3]: Otra fuerza detrás de la invisibilización del término
 usuaria proviene de los adeptos de la _gamificación_.  Prefieren
@@ -102,14 +107,14 @@ En 2008 Don Norman simplemente dejó de referirse a las usuarias como
 tales.  En un evento esponsoreado por _Adaptive Path_, una empresa de
 diseño de interfaces de usuaria, Norman dijo que "una de las palabras
 horribles que usamos es usuarias.  Me encuentro en una cruzada para
-eliminar la palabra 'usuarias'.  Prefiero llamarlas 'gente'."[^turing-4]
-Después de disfrutar el efecto de sus palabras sobre la audiencia,
-agregó con una sonrisa cautivadora, "diseñamos para la gente, no
-diseñamos para las usuarias".
+eliminar la palabra 'usuarias'.  Prefiero llamarlas
+'personas'."[^turing-4] Después de disfrutar el efecto de sus palabras
+sobre la audiencia, agregó con una sonrisa cautivadora, "diseñamos para
+personas, no diseñamos para usuarias".
 
 [^footnote-4]: Video de la charla:
 <http://www.youtube.com/watch?v=WgJcUHC3qJ8>.  Ver también su ensayo del
-2006 _Word matter_ \[Las palabras importan\]: "Los psicólogos
+2006 _Words matter_ \[Las palabras importan\]: "Los psicólogos
 despersonalizan a las personas que estudian llamándolas 'sujetos'.
 Nosotros despersonalizamos a las personas que estudiamos llamándolas
 'usuarios'.  Ambos son términos despectivos.  Nos alejan de nuestro
@@ -119,16 +124,16 @@ lo que se trata nuestra disciplina".
 
 Sin duda un objetivo muy noble, pero solo cuando es percibido en el
 estrecho contexto del diseño de interfaces.  Aquí, el uso del término
-"gente" enfatiza la necesidad de centrarse en la usuaria en oposición al
-paradigma centrado en la implementación.  El uso de "gente" en este
-contexto es una buena manera de recordar a las desarrolladoras de
+"personas" enfatiza la necesidad de centrarse en la usuaria en oposición
+al paradigma centrado en la implementación.  El uso de "personas" en
+este contexto es una buena manera de recordar a las desarrolladoras de
 software que la usuaria es una persona y necesita ser tomada en cuenta
 en el diseño y la validación de los procesos.
 
 Pero cuando se lo lee en un contexto más amplio, la negación de la
-palabra "usuaria" en favor de la "gente" se torna peligrosa.  Ser una
-usuaria es el último recordatorio de que existe, ya sea visible o no, una
-computadora, un sistema programado para ser usado.
+palabra "usuaria" en favor de "personas" se torna peligrosa.  Ser una
+usuaria es el último recordatorio de que existe, ya sea visible o no,
+una computadora, un sistema programado para ser usado.
 
 En 2011 el teórico de los nuevos medios Lev Manovich también se volvió
 contra la palabra "usuaria".  Escribió en su blog: "por ejemplo, ¿cómo
@@ -139,12 +144,12 @@ Puedo estar de acuerdo en que con todas las grandes cosas que podemos
 hacer con los nuevos medios --los varios modos de iniciación y
 participación, los múltiples roles que podemos tomar--, es una lástima
 reducirlo todo a meras "usuarias", pero esto es lo que tenemos.  Las
-_bloggers_, artistas, _podcasters_ e incluso las trolls todavía son
+_bloggers_, artistas, _podcasters_ e incluso las _trolls_ todavía son
 usuarias de sistemas que no programaron.  Así que todas ellas (nosotras)
 somos usuarias.
 
-Necesitamos hacernos cargo de esta palabra porque decir "gente"
-y no "usuarias", esconde la existencia de dos clases de personas
+Necesitamos hacernos cargo de esta palabra porque decir "personas" y no
+"usuarias", esconde la existencia de dos clases de personas
 --desarrolladoras y usuarias.  Y si perdemos esta distinción, las
 usuarias podrían perder sus derechos y la oportunidad de protegerlos.
 [Estos derechos](http://userrights.contemporary-home-computing.org/) son
@@ -183,7 +188,7 @@ desarrolladoras y que solo después aparecieron las usuarias.  De hecho,
 fue lo opuesto.  En el amanecer de la computadora personal la usuaria
 era el centro de atención.  La usuaria no se desarrolló en paralelo con
 la computadora, sino que la precedió.  Tomemos _"As we may think"_
-(1945) de Vanevar Bush, uno de los textos más influenciales de la
+[-@bush-1945] de Vanevar Bush, uno de los textos más influenciales de la
 cultura informática.  Bush usa más palabras describiendo a la persona
 que utiliza el _Memex_ que a la _Memex_ misma.  Describía a las
 científicas del futuro como super-personas.  Él mismo, usuario de la
@@ -192,7 +197,7 @@ _Memex_, no la _Memex_, encabezaba el artículo [@bush-1945].
 20 años después, Douglas Engelbart, inventor del sistema de computadoras
 personales _NLS_, así como del hipertexto y el _mouse_, hablaba de su
 investigación sobre el aumento del intelecto humano como en su período
-de arranque --queriendo decir que los seres humanos, con sus cerebros y
+de arranque --queriendo decir que las seres humanas, con sus cerebros y
 cuerpos, evolucionarían a la par que las nuevas tecnologías.  Así es
 como el sociólogo francés Thierry Bardini describe el abordaje de su
 libro sobre Engelbart: "Engelbart no estaba interesado en la simple
@@ -225,10 +230,10 @@ Star_, _Apple Lisa_ y otros dispositivos electrónicos para oficina.
 Entonces resulta importante reconocer que las usuarias existieron antes
 que las computadoras, que también fueron imaginadas e inventadas --un
 producto de la imaginación.  Como resultado de esta construcción
-fictiica, continuaron siendo re-imaginadas y re-inventadas a través de
-los '70, los '80 y los '90 e incluso en el nuevo milenio.  Por mas
-razonables, o valientes, o futurísticos, o primitivos que fueran
-estos modelos de usuarias, existía una constante.
+ficticia, continuaron siendo re-imaginadas y re-inventadas a través de
+los '70, los '80 y los '90 e incluso en el nuevo milenio.  Por más
+razonables, o valientes, o futurísticos, o primitivos que fueran estos
+modelos de usuarias, existía una constante.
 
 Voy a referirme a otro gurú del diseño centrado en la usuaria, Alan
 Cooper.  En el 2007, cuando la palabra con U todavía estaba permitida en
@@ -254,8 +259,6 @@ que "estos sistemas están orientados a personas _que no están pensando
 en computadoras_ sino en el asunto o actividad en que la computadora
 debería serles útil" [@nelson-1987, pp. 9].  Algunas páginas antes, dice:
 
-<figure id="hugeassquote"><img src="personal-computing.png" width="1000" height="432" alt="" /></figure>
-
 ![La informática siempre ha sido personal...](/images/personal-computing.png)
 
 > La informática siempre ha sido personal.  Con esto quiero decir que si
@@ -263,9 +266,6 @@ debería serles útil" [@nelson-1987, pp. 9].  Algunas páginas antes, dice:
 > haciendo informática, solo eras una usuaria[^turing-15].
 
 [^turing-15]: Escaneado de _Computer Lib_, página 3.
-
-<a href="#fn-justauser" id="fnref-justauser" class="footnote">15</a>One should remember that Ted Nelson was always on the side
-of users and even “naïve users” so his bitter “just a user” means a lot. 
 
 Hay que recordar que Ted Nelson siempre estuvo a favor de las usuarias e
 incluso de las "usuarias inocentes", por lo que su amargo "solo eras
@@ -299,15 +299,12 @@ como resultado directo de una menor cantidad de _clicks_ para lograr tal
 o cual efecto[^turing-16].
 
 [^turing-16]: Ver por ejemplo los _trailers_ de _Adobe Creative Suite
-6_:
-<http://www.adobe.com/products/creativesuite/design-web-premium.html>
+6_: <http://www.adobe.com/products/creativesuite/design-web-premium.html>
 
 En el libro "_Program or be Programmed_" \[Programa o sé programada\],
 Douglas Rushkoff describe un fenómeno similar:
 
-</blockquote>
-
-> Vemos la escritura de código como una tarea aburridad, una habilidad
+> Vemos la escritura de código como una tarea aburrida, una habilidad
 > obrera como la albañilería, que bien podría tercerizarse a una nación
 > pobre mientras nuestras hijas juegan e incluso diseñan video juegos.
 > Vemos el desarrollo de la trama y las personajes del juego como la
@@ -324,8 +321,6 @@ En "_As we may think_" \[Como podríamos pensar\], mientras describe el
 instrumento ideal para aumentar a la científica del futuro, Vanevar Bush
 menciona:
 
-</blockquote>
-
 > No hay un sustituto mecánico para el pensamiento maduro.  Pero el
 > pensamiento creativo y el esencialmente repetitivo son cosas muy
 > diferentes.  Para este último existen y existirán ayudas mecánicas
@@ -336,30 +331,18 @@ informáticas, las desarrolladoras de software y las expertas en
 usabilidad, son aquellas cuya tarea es pasar el menor tiempo posible con
 la computadora, sin desperdiciar un solo pensamiento en ella.  Requieren
 una aplicación especializada y aislada para cada "pensamiento
-repetitivo".  Además, y esto es más importante, delegan el
+repetitivo".  Además y esto es más importante, delegan el
 establecimiento del límite entre creativo y repetitivo, maduro y
 primitivo, real o virtual, a las diseñadoras de aplicaciones.
 
 Hay períodos históricos, momentos en la vida (¡y muchas horas al día!)
 donde este abordaje tiene sentido, donde la delegación y la
-automatización son necesarias y disfrutadas.  Pero en tiempo donde cada
-aspecto de la vida resulta informatizado, no es posible aceptar que
+automatización son necesarias y disfrutadas.  Pero en el tiempo donde
+cada aspecto de la vida resulta informatizado, no es posible aceptar que
 "ocupadas en otra cosa" sea la norma.
 
 Tomemos entonces otro modelo de usuarias que ha evolucionado por fuera y
 a pesar de la imaginación de las expertas en usabilidad.
-
-<div class="two_images">
-<figure>
-<img src="scientist.jpg" width="500" height="336" alt="" />
-<figcaption>“A scientist of the Future”<br>Title picture of Vanevar Bush’s “As we make think”<br>
-<a href="">Illustrated version</a> from Life magazine, 1945</figcaption>
-</figure>
-<figure>
-<img src="sergey-dolya.jpg" width="500" height="336" alt="" />
-<figcaption>Russian travel blogger <a href="">Sergey Dolya</a><br>photo by Mik Sazonov, 2012</figcaption>
-</figure>
-</div>
 
 !["Un científico del futuro", imagen de tapa de "_As we may think_" de
 Vanevar Bush. [Versión
@@ -370,8 +353,6 @@ de la revista _Life_, 1945.](/images/scientist.jpg)
 _blogger_ ruso de viajes.  Foto por Mik Sazonov,
 2012](/images/sergey-dolia.jpg)
 
-<h2 id="generalpurposestupidanduniversal">General Purpose, “Stupid” and Universal</h2>
-
 De propósito general, "estúpida" y universal
 --------------------------------------------
 
@@ -379,8 +360,6 @@ En "_Why Interfaces Don't Work_" \[Por qué las interfaces no funcionan\]
 Don Norman critica duramente el mundo de las computadoras visibles, las
 interfaces visibles y las usuarias que se ocupan de ellas.  Hacia el
 final de su texto, sugiere una fuente de este problema:
-
-</blockquote>
 
 > Estamos en este punto en parte porque esto es probablemente lo mejor
 > que podemos lograr con la tecnología actual y también como
@@ -390,7 +369,7 @@ final de su texto, sugiere una fuente de este problema:
 
 En diciembre del 2011 el escritor de ciencia ficción y periodista Cory
 Doctorow dio una charla maravillosa en Berlín en el vigésimo octavo
-_Chaos Communication Congress_ titulada "La guerra sobre la informática
+_Chaos Communication Congress_ titulada "La guerra a la informática
 general que se aproxima"[^turing-20].  Explica que existe solo una
 posibilidad para que las computadoras se conviertan en verdaderos
 electrodomésticos, los pequeños, invisibles y cómodos objetos de un solo
@@ -401,8 +380,6 @@ Explica:
 <http://joshuawise.com/28c3-transcript#the_coming_war_on_general_computation>.
 Video: <http://youtu.be/HUEvRyemKSg>
 
-</blockquote>
-
 > Hoy tenemos departamentos de márketing diciendo cosas como "haceme una
 > computadora que no corra cualquier programa, solo un programa que
 > realice esta tarea especializada, como transmitir sonido, o enrutar
@@ -411,7 +388,7 @@ Video: <http://youtu.be/HUEvRyemKSg>
 > estamos haciendo una computadora que solo corre la aplicación
 > "electrodoméstico", sino una computadora que puede correr cualquier
 > programa, pero que usa una combinación de _rootkits_, _spyware_ y
-> firma de código para prevenir a la usuaria de conocer cuales procesos
+> firma de código para prevenir a la usuaria conocer cuales procesos
 > están corriendo, instalar su propio software y terminar los procesos
 > que no quiere.  En otras palabras, un electrodoméstico no es una
 > computadora despojada --es una computadora completamente funcional con
@@ -442,12 +419,6 @@ Nelson.  Fue el primero en atraer atención sobre el significado de la
 naturaleza de propósito general de la computadora personal.  En 1974 en
 su glorioso fanzine "_Computer Lib_", cuyo objetivo era explicar la
 informática a todo el mundo, escribía en mayúsculas:
-
-<blockquote>
-  COMPUTERS HAVE NO NATURE AND NO CHARACTER<br>
-  Computers are, unlike any other piece of equipment, perfectly BLANK. And that is
-  how we have projected on it so many different faces.<a href="#fn-capslock" id="fnref-capslock" class="footnote">23</a>
-</blockquote>
 
 > LAS COMPUTADORAS NO TIENEN NATURALEZA NI CARÁCTER  
 > Las computadoras son, a diferencia de cualquier otra pieza de
@@ -536,16 +507,16 @@ perfiles como si visitáramos su sitio web.
 
 Podemos tener dos cuentas de _Twitter_ e ingresar a una desde _Firefox_
 y a la otra desde _Chrome_.  Así lo hago yo y no importa por qué
-prefiero hacerlo de esta forma.  Tal vez no se que existe una sola
+prefiero hacerlo de esta forma.  Tal vez no sé que existe una sola
 _app_ para administrar varias cuentas, tal vez las conozco pero no me
 gustan o tal vez soy muy vaga para instalarlas.  Sin embargo, encontré
 una forma.  Y siempre podemos encontrar las propias.
 
 El esquema mental de una usuaria universal (un esquema mental no es un
-juego de reglas o un voto) es enlazarse con el hardware y el software.
-Este comportamiento está en las antípodas de la usuaria "muy ocupada".
-Este tipo de interacción vuelve visible a la usuaria, para sí misma.  Si
-quisiéramos pensalo en términos del diseño de interfaces y la
+juego de reglas o un juramento) es enlazarse con el hardware y el
+software.  Este comportamiento está en las antípodas de la usuaria "muy
+ocupada".  Este tipo de interacción vuelve visible a la usuaria, para sí
+misma.  Si quisiéramos pensarlo en términos del diseño de interfaces y la
 experiencia de usuaria, esta es la mejor experiencia.
 
 ¿Esto significa que para entregar esta clase de experiencia de usuaria
@@ -553,9 +524,9 @@ la industria del software necesita producir software imperfecto o
 contenerse de mejorar las herramientas existentes?  ¡Por supuesto que
 no!  Las herramientas pueden ser perfectas.
 
-Aunque la idea del software perfecto necesita revisarse, tomando en
-cuenta que es utilizado por la usuaria de propósito general, valorando
-la ambigüedad y el involucramiento de la usuaria.
+Pero la idea del software perfecto necesita revisarse, tomando en cuenta
+que es utilizado por la usuaria de propósito general, valorando la
+ambigüedad y el involucramiento de la usuaria.
 
 Por suerte la ambigüedad no es rara.  Existen servicios en línea donde
 las usuarias pueden usar o ignorar capacidades.  Por ejemplo, las
@@ -565,8 +536,8 @@ holandesa _Hyves_ permite a sus usuarias jugar con las imágenes de fondo
 y no necesitan álbumes de fotos o _instagrams_ para ser felices.
 _Blingee.com_, cuyo objetivo principal es permitir a las usuarias
 agregar brillantina a sus fotos, también les permite subir cualquier
-estampa que quieran --ni brillantina, ni necesariamente animada.  Solo
-le devuelve capas unidas.
+patrón que quieran --ni brillantina, ni necesariamente animada.  Solo
+les devuelve capas de imágenes unidas.
 
 Puedo mencionar otro ejemplo extremo de un servicio que nutre la
 universalidad de las usuarias, <http://myknet.org>, una red social de
@@ -587,32 +558,30 @@ emocional" se supone que se trata de establecer conexiones personales
 entre las personas que hacen la _app_ y las personas que la compran,
 pero me refiero a algo diferente.  Me refiero a una situación donde el
 flujo de trabajo de una aplicación tiene brechas que solo pueden ser
-llenadas por usuarias, donde la suavidad y las costuras invisibles se
-rompen y algunos de los eslabones finales de la cadena son dejados a la
-usuaria para ser completados.
+llenadas por usuarias, donde las transiciones suaves y las costuras
+invisibles se rompen y algunos de los eslabones finales de la cadena son
+dejados a la usuaria para ser completados.
 
 Voy a dejar un ejemplo extremo, un proyecto anónimo (probablemente de
-una estudiante):
-
-<figure><img src="mashup.png" width="1000" height="720" alt="" /></figure>
+una estudiante), el _Rendez-vous de Claude Lelouch_.
 
 ![Google Maps + Google Video + Mashup -- el _Rendez-vous de Claude
 Lelouch_](/images/mashup.png)
 
 Fue hecho en 2006, en el auge mismo de la _web 2.0_[^turing-25], cuando
-el _mashup_ era una forma muy popular y _mainstream_ de hacer arte.  Las
-artistas celebraban las nuevas convergencias y el desdibujamiento de
-los límites entre las distintas piezas de software.  El _Rendez-vous de
-Claude Leloch_ es un _mashup_ que pone en el misma página el famoso film
-de carreras del mismo nombre en un mapa de París, para que podamos
-seguir el auto en la película y ver su posición en el mapa de _Google_
-al mismo tiempo.  Pero la autora falló (o tal vez no fue su intención)
-en sincronizar el video con el movimiento del auto en el mapa.  Como
-resultado la usuaria es dejada con una instrucción: "Dale _play_ al
-video, a los 4 segundos, presiona el botón de 'Comenzar!'".
+el _mashup_ era una forma muy popular y hasta _mainstream_ de hacer
+arte.  Las artistas celebraban las nuevas convergencias y el
+desdibujamiento de los límites entre las distintas piezas de software.
+El _Rendez-vous de Claude Leloch_ es un _mashup_ que pone en la misma
+página el famoso film de carreras del mismo nombre en un mapa de París,
+para que podamos seguir el auto en la película y ver su posición en el
+mapa de _Google_ al mismo tiempo.  Pero la autora falló (o tal vez no
+fue su intención) en sincronizar el video con el movimiento del auto en
+el mapa.  Como resultado la usuaria es dejada con una instrucción: "Dale
+_play_ al video, a los 4 segundos, presiona el botón de 'Comenzar!'".
 
 [^turing-25]: La _Web 2.0_ iba a ser una fusión completa entre personas
-y tecnologías, pero fue una nueva alienación que mantuvo separaadas a
+y tecnologías, pero fue una nueva alienación que mantuvo separadas a
 usuarias y desarrolladoras.  Las personas fueron llevadas de sitios web
 hechos a mano hacia redes sociales.
 
@@ -639,8 +608,8 @@ transparencia de los otros sistemas"[^turing-26], no puedo dejar de
 estar de acuerdo.  Sería maravilloso que el abordaje a la educación
 informática en las escuelas cambiara de administrar aplicaciones
 particulares a escribirlas.  Pero aparte del hecho de no ser realista,
-debo decir que no es suficiente.  Yo diría que es un error sostener 
-que o se entiende a las computadoras o somos usuarias[^turing-27].
+debo decir que no es suficiente.  Yo diría que es un error sostener que
+o se entiende a las computadoras o somos usuarias[^turing-27].
 
 [^turing-26]: "La política es un sistema, complejo por cierto.  Si las
 personas comprenden algo tan complicado como una computadora, comenzarán
@@ -650,7 +619,7 @@ Second Self_ \[El segundo yo\] [@turkle-2004, pp. 163].
 [^turing-27]: "En lugar de enseñar programación, la mayoría de las
 escuelas que incluyen informática en sus currículas, enseñan programas
 [...] El problema principal es que la orientación de la informática es
-llevada desde la perspectiva de las usuarias" [@rushkoff-2010, pp. 130]
+llevada desde la perspectiva de las usuarias" [@rushkoff-2010, pp. 130].
 
 El esfuerzo debe hacerse en educar a las usuarias sobre sí mismas.
 Necesitamos una comprensión de lo que significa ser una usuaria de un
@@ -663,7 +632,7 @@ construcción" y el posterior "beta" que es el espíritu de la web.  Todos
 estos diseños que demandan atención y solicitan perdón e involucramiento
 son los que nos formaron como usuarias siempre ajustándonos,
 improvisando y al mismo tiempo retomando el control.  Somos las hijas de
-la engañosa y torpe metáfora de escritorio, sabemos cómo abris puertas
+la engañosa y torpe metáfora de escritorio, sabemos cómo abrir puertas
 sin perilla[^turing-28].
 
 [^turing-28]: "Los sistemas de manipulación directa, como las
@@ -671,15 +640,15 @@ _Macintosh_ de escritorio, intentan cerrar la brecha de la interfaz
 representando el mundo de la computadora como una colección de objetos
 en analogía directa con los objetos del mundo real.  Pero la
 funcionalidad compleja y abundante de las aplicaciones de hoy en día
---paralelamente a las expectativas de las personas acerca de lo que se
-puede lograr con computadoras-- amenaza con empujarnos al borde del
-escritorio metafórico.  El poder de la computadora está encerrado detrás
-de una puerta sin perilla" [@laurel-1993, pp. xviii]
+--corriendo en paralelo con las expectativas de las personas acerca de
+lo que se puede lograr con computadoras-- amenaza con empujarnos sobre
+el borde del escritorio metafórico.  El poder de la computadora está
+encerrado detrás de una puerta sin perilla" [@laurel-1993, pp. xviii].
 
 Nosotras, las usuarias de propósito general --ni hackers ni personas--
-las que estamos desafiando, conciente o inconcientemente, lo que podemos hacer y
-lo que las computadoras pueden hacer, somos el súmun de la simbiosis
-persona-máquina.  No es exactamente la simbiosis que predecía Licklider,
-pero una verdadera.
+las que estamos desafiando, conciente o inconcientemente, lo que podemos
+hacer y lo que las computadoras pueden hacer, somos el súmun de la
+simbiosis persona-máquina.  No es exactamente la simbiosis que predecía
+Licklider, pero una verdadera al fin y al cabo.
 
 _[Olia Lialina](http://art.teleportacia.org/olia.html), octubre de 2012._
