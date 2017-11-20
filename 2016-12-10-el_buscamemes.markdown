@@ -7,8 +7,8 @@ license: http://endefensadelsl.org/ppl_deed_es.html
 category: [ "En Defensa del Software Libre #4" ]
 ---
 
-El buscamemes
-=============
+El buscamemes --- Evgeny Morozov
+================================
 
 > Publicado como "[The Meme
 > Hustler](http://thebaffler.com/salvos/the-meme-hustler)" en _[The
@@ -1868,7 +1868,7 @@ cibernético](http://www.amazon.com/Warfare-Welfare-Defense-Intellectuals-Proble
 Esos planes, sin embargo, no funcionaron.  Los modelos nunca pudieron
 abarcar la enmarañada realidad de la vida urbana.
 
-Una década antes de escribir _Ciencia y sanidad, Alfred Korzybski
+Una década antes de escribir _Ciencia y sanidad_, Alfred Korzybski
 escribió otro extraño libro --[_Manhood of
 Humanity_](http://www.amazon.com/Manhood-Humanity-Alfred-Korzybski/dp/1463748000)
 \[La madurez de la humanidad\].  A él también le gustaba la
