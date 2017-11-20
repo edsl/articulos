@@ -4,6 +4,7 @@ title: "Cooperativismo de plataforma"
 author: "Trebor Scholz"
 cover: "images/cover_endefensadelsl_nr0.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
+category: [ "En Defensa del Software Libre #4" ]
 ---
 
 
@@ -1494,7 +1495,7 @@ Los proyectos como _Seed.coop_ ayudan a cooperativas a
 despegar[^platform-101].  El impulso del _crowdfunding_ puede tener
 éxito.  Cabe destacar aquí el sitio de _crowdfunding_ español _Goteo_,
 ya que solo permite que busquen financiamiento aquellos proyectos que
-sigan un conjunto de valores orientado al bien común[^102].
+sigan un conjunto de valores orientado al bien común[^platform-102].
 
 [^platform-101]: <http://seed.coop>
 
