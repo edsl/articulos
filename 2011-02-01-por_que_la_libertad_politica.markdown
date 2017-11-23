@@ -2,10 +2,10 @@
 layout: post
 title: "Por qué la libertad política depende de la libertad del software más que nunca"
 author: "Eben Moglen"
-cover: "images/cover_endefensadelsl_nr1.png"
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
 old-slug: why_political_liberty.html
 license: https://creativecommons.org/licenses/by-sa/3.0/us/
-category: [ "En Defensa del Software Libre #1", "En Defensa del Software Libre #0-1" ]
+category: [ "En Defensa del Software Libre #0-1" ]
 ---
 
 Por qué la libertad política depende de la libertad del software más que nunca --- Eben Moglen

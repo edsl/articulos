@@ -2,8 +2,8 @@
 layout: post
 author: "Lucy Watts"
 title: "Richard Stallman: Qué es el Software Libre"
-cover: "images/cover_endefensadelsl_nr0.png"
-category: [ "En Defensa del Software Libre #0", "En Defensa del Software Libre #0-1" ]
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
+category: [ "En Defensa del Software Libre #0-1" ]
 license: https://creativecommons.org/licenses/by-sa/3.0/
 ---
 

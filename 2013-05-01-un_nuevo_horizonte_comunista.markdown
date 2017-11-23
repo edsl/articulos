@@ -3,7 +3,7 @@ layout: post
 title: "La producción de pares como alternativa al capitalismo: un nuevo horizonte comunista"
 author: Jakob Rigi
 license: http://endefensadelsl.org/ppl_deed_es.html
-cover: "images/cover_endefensadelsl_nr2.png"
+cover: "images/covers/en-defensa-del-software-libre-2.png"
 category: [ "En Defensa del Software Libre #2" ]
 ---
 

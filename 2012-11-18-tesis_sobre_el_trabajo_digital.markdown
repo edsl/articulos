@@ -3,7 +3,7 @@ layout: post
 author: "Michel Bauwens"
 title: "Tesis sobre el trabajo digital"
 license: http://creativecommons.org/licenses/by-sa/3.0/
-cover: "images/cover_endefensadelsl_nr2.png"
+cover: "images/covers/en-defensa-del-software-libre-2.png"
 category: [ "En Defensa del Software Libre #2" ]
 ---
 

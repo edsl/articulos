@@ -2,10 +2,10 @@
 layout: post
 title: "Proyecto Harmony considerado dañino"
 author: "Bradley M. Kuhn"
-cover: "images/cover_endefensadelsl_nr1.png"
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
 old-slug: harmony_harmful.html
 license: https://creativecommons.org/licenses/by-sa/3.0/us
-category: [ "En Defensa del Software Libre #1", "En Defensa del Software Libre #0-1" ]
+category: [ "En Defensa del Software Libre #0-1" ]
 ---
 
 Proyecto Harmony considerado dañino --- Bradley Kuhn

@@ -3,7 +3,7 @@ layout: post
 title: "Más allá de la abundancia digital: Bloques para la construcción de la producción de pares física"
 author: Christian Siefkes
 license: http://endefensadelsl.org/ppl_deed_es.html
-cover: "images/cover_endefensadelsl_nr2.png"
+cover: "images/covers/en-defensa-del-software-libre-2.png"
 category: [ "En Defensa del Software Libre #2" ]
 ---
 

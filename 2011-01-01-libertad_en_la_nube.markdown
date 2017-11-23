@@ -2,10 +2,10 @@
 layout: post
 title: "Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube"
 author: "Eben Moglen"
-cover: "images/cover_endefensadelsl_nr0.png"
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
 old-slug: freedom_in_the_cloud.html
 license: https://creativecommons.org/licenses/by-sa/3.0/us/
-category: [ "En Defensa del Software Libre #0", "En Defensa del Software Libre #0-1" ]
+category: [ "En Defensa del Software Libre #0-1" ]
 ---
 
 Libertad en la nube, Libertad del Software, Privacidad y Seguridad para la Web 2.0 y Computación en la Nube --- Eben Moglen

@@ -2,9 +2,8 @@
 layout: post
 author: "Dmytri Kleiner"
 title: "El comunismo de pares contra el estado capitalista cliente-servidor"
-cover: "images/cover_endefensadelsl_nr1.png"
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
 license: http://endefensadelsl.org/ppl_deed_es.html
-category: [ "En Defensa del Software Libre #1" ]
 ---
 
 El comunismo de pares contra el estado capitalista cliente-servidor --- Dmytri Kleiner

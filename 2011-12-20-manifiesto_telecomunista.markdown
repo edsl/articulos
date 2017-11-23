@@ -2,7 +2,7 @@
 layout: post
 title: "El Manifiesto Telecomunista"
 author: "Dmytri Kleiner"
-cover: "images/cover_manifiesto_telecomunista.png"
+cover: "images/covers/el-manifiesto-telecomunista.png"
 old-slug: telekommunist_manifesto.html
 license: http://endefensadelsl.org/ppl_deed_es.html
 category: [ "El Manifiesto Telecomunista" ]

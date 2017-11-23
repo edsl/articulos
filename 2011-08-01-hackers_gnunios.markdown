@@ -2,10 +2,10 @@
 layout: post
 author: "Johan Söderberg"
 title: "¡Hackers GNUníos!"
-cover: "images/cover_endefensadelsl_nr0.png"
+cover: "images/covers/en-defensa-del-software-libre-0-1.png"
 old-slug: hg.html
 license: https://creativecommons.org/licenses/by-sa/3.0/deed.es
-category: [ "En Defensa del Software Libre #0", "En Defensa del Software Libre #0-1" ]
+category: [ "En Defensa del Software Libre #0-1" ]
 ---
 
 ¡Hackers GNUníos! --- Johan Söderberg
