@@ -1017,7 +1017,7 @@ lo que quiere es hacernos concientes de aquello que otras comentaristas
 podrían haber pasado por alto.  "Una metáfora es solo eso: una forma de
 enmarcar los problemas de forma que las personas puedan ver algo que de
 otra forma se perderían",
-[respondió]((http://blogs.gartner.com/andrea_dimaio/2009/09/08/why-government-is-not-a-platform/)
+[respondió](http://blogs.gartner.com/andrea_dimaio/2009/09/08/why-government-is-not-a-platform/)
 a una crítica que lo acusaba de incontinencia lingüística.  Pero el
 punto de Korzybski, si se lo absorbe plenamente, es que una metáfora es
 principalmente una forma de enmarcar problemas de manera que _no veamos_
