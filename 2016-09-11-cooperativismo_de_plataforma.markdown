@@ -57,17 +57,17 @@ un futuro mejor, más flexible, del trabajo?  ¿Qué es lo que esta
 economía nos trae realmente?
 
 Bienvenida a las Aldeas Potemkin de la _sharing economy_, en las que
-finalmente puedes venderle las frutas que crecen en tu jardín a tus
+finalmente podés venderle las frutas que crecen en tu jardín a tus
 vecinas, compartir un viaje en coche, alquilar una casa de árbol en el
 bosque _Redwood_ o visitar un _KinkBnB_.  Esta amigable comodidad supone
 para muchas trabajadoras un salario bajo y una trampa precaria.  Pero
-tú, por el contrario, puedes escuchar tu propia cuenta de _Spotify_ en
-un taxi de _Uber_.  Ya no tienes que sufrir lo que el economista George
-Akerlof [-@akerlof-1970] denominó "mercado de limones"; estas nuevas
-plataformas están introduciendo nuevos pesos y contrapesos.  Has sido
-promovida a la gerencia media, tienes derecho a despedir a tu
-conductora.  Hay empresas que hasta han encontrado una manera de sacar
-valor financiero de tus interacciones con los objetos cotidianos,
+vos, por el contrario, podés escuchar tu propia cuenta de _Spotify_ en
+un taxi de _Uber_.  Ya no tenés que sufrir lo que el economista George
+Akerlof [-@akerlof-1970] denominó "mercado de limones".  Estas nuevas
+plataformas están introduciendo nuevos pesos y contrapesos.  Fuiste
+promovida a la gerencia media, tenés derecho a despedir a tu conductora.
+Hay empresas que hasta han encontrado una manera de sacar valor
+financiero de tus interacciones con los objetos cotidianos,
 reclutándolos como informantes para el capitalismo de vigilancia.
 
 Compañías laborales tan amantes de lo _cool_ como _Handy_, _Postmates_ y
@@ -131,10 +131,10 @@ formas jurásicas del trabajo mientras desencadena una maquinaria colosal
 de represión sindical; pasando por encima de las personas de mayor edad
 en especial.  El autor alemán Byung-Chul Han enmarca el momento actual
 como "sociedad de fatiga" [@han-2010].  Vivimos, escribe, en una
-sociedad orientada a los logros que es supuestamente libre, determinada
-por el "sí se puede".  Al principio esto crea una sensación de libertad,
-pero que pronto viene acompañada de ansiedad, auto-explotación y
-depresión.
+sociedad orientada a los logros, que es supuestamente libre y
+determinada por el "sí se puede".  Al principio esto crea una sensación
+de libertad, pero que pronto viene acompañada de ansiedad,
+auto-explotación y depresión.
 
 Es importante señalar que no podemos iniciar este debate sin antes
 reconocer que la _sharing economy_ no es una especie de cubo
@@ -148,17 +148,17 @@ del océano.
 
 No se pueden tomar en consideración los tan amados dispositivos de
 _Apple_ sin antes recordarnos a nosotras mismas las condiciones de
-trabajo en lo que Andrew Ross llama "fábricas suicidas de Foxconn" en
+trabajo en las que Andrew Ross llama "fábricas suicidas de Foxconn" en
 Shenzhen, China.  O la extracción de minerales raros en la República
 Democrática del Congo; es esencial seguir las cadenas de suministro que
 facilitan todos estos estilos de vida digitales, aparentemente limpios y
 glamorosos.
 
-Hay una masa de cuerpos sin nombre, escondidos tras la pantalla,
-expuesta a vigilancia laboral, el desplume colectivo, robo de salarios y
-al software privativo.  Como la activista del software libre Micky Metts
-advertía: "Cuando se construyen plataformas, no se puede construir la
-libertad sobre la esclavitud de otra persona"[^platform-3].
+Hay una masa de cuerpas sin nombre, escondidas tras la pantalla,
+expuestas a vigilancia laboral, el desplume colectivo, el robo de
+salarios y al software privativo.  Como la activista del software libre
+Micky Metts advertía: "Cuando se construyen plataformas, no se puede
+construir la libertad sobre la esclavitud de otra persona"[^platform-3].
 
 [^platform-3]:
 <http://livestream.com/internetsociety/platformcoop/videos/105663835>
@@ -226,7 +226,7 @@ En Alemania, los sindicatos como _ver.di_ concentran sus esfuerzos en la
 defensa de los derechos de las empleadas, mientras que en Estados Unidos
 veo pocas posibilidades de un retorno de la semana de trabajo de 40
 horas para aquellas que están en el sector eventual.  La pregunta,
-entonces, es: ¿cómo podemos mejorar las condiciones de un tercio de la
+entonces, es: ¿Cómo podemos mejorar las condiciones de un tercio de la
 fuerza de trabajo que no está empleada de modo tradicional?
 
 Los modelos de negocio extractivos de hoy, basados en plataformas, hacen
@@ -293,7 +293,7 @@ mente y de la plataforma.
 ¿Quién va a estar dispuesto a ofrecer derechos laborales a todas las
 trabajadoras autónomas, a las temporales y por contrato?  El senador
 Mark Warner, de Virginia [@warner-2015] y sobre todo el economista de
-Princeton Alan Krueger, entre otras, han sugerido una tercera categoría
+Princeton Alan Krueger, entre otros, han sugerido una tercera categoría
 de trabajadoras que no es ni un contratista independiente, ni una
 empleada: la trabajadora independiente [@harris-krueger-2015].  Esta
 categoría de trabajadora recibiría muchas de las protecciones laborales
@@ -337,7 +337,7 @@ parecen a vehículos autónomos que se dirigen hacia el Armagedón.
 Es _On the Waterfront_ \[Nido de ratas\] de Elia Kazan en anfetaminas.
 Las jornaleras digitales se levantan cada mañana solo para unirse a la
 subasta de sus propias changas.  Según la economista Juliet Schor, la
-_sharing economy_ ofrece acceso al trabajo descualificado a la clase
+_sharing economy_ ofrece acceso al trabajo descalificado a la clase
 media educada, que ahora puede conducir taxis y ensamblar muebles en
 casas de otra gente, mientras que al mismo tiempo desplaza a las
 trabajadoras de bajos ingresos de estas ocupaciones[^platform-28].
@@ -354,14 +354,14 @@ protecciones sociales.
 
 ### Generación de beneficios para unos pocos
 
-El software que está impulsando la _sharing economy_ está envuelto
-en una interfaz de diseño adictivo.  En la pantalla, el ícono de tamaño
+El software que está impulsando la _sharing economy_ está envuelto en
+una interfaz de diseño adictivo.  En la pantalla, el ícono de tamaño
 hormiga de un taxi acercándose a tu ubicación es tan seductor y
 peligroso como las sirenas que atraían a Ulises; es un diseño que
 escala.  Por el lado empresarial, los emprendedores e ingenieros de
 software han creado nuevos mercados.  Pero, ¿es esto pura innovación o
 hay una fábrica detrás del parque de juegos?  ¿La innovación debe
-consistir solo en beneficios para los pocos, dejando a su paso una mano
+consistir solo en beneficios para unos pocos, dejando a su paso una mano
 de obra en la que predominan protecciones sociales insuficientes?  ¿Es
 la innovación centrada en la extracción de valor y el crecimiento, o se
 trata de la circulación de este valor entre la gente?
@@ -493,8 +493,8 @@ fragmentos, que se asignan a las llamadas _crowd workers_.  Estas
 trabajadoras novatas, a menudo bien formadas, están ganando entre \$2 y
 \$3 USD por hora en este entorno.  Al igual que las trabajadoras
 migrantes o temporales en la industria de la comida rápida, están
-trabajando largas horas, siendo mal pagadas y maltratadas por sus jefes
-virtuales y obtienen poco o ningún beneficio social.
+trabajando largas horas, siendo mal remuneradas y maltratadas por sus
+jefes virtuales al tiempo que obtienen poco o ningún beneficio social.
 
 Se podría pensar que en un país rico y democrático como Estados Unidos,
 las trabajadoras estarían protegidas legalmente contra tales abusos y
@@ -614,7 +614,7 @@ menos de \$30.000 USD [@washington-2015] al año y el 76% no cuenta con
 ningún tipo de ahorro [@johnson-2013].
 
 Entre el 2000 y el 2010, el ingreso promedio en los Estados Unidos se
-redujo un 7% cuando lo ajustamos a la inflación [@nadeau-2012].  En
+redujo un 7% cuando se lo ajusta a la inflación [@nadeau-2012].  En
 términos de bienestar social y sostenibilidad del medio ambiente, para
 cada vez más personas el capitalismo ya no está funcionando.  Por lo
 tanto, tenemos que pensar en cómo cambiar las formas en que Internet es
@@ -623,7 +623,7 @@ proceso.  Mi colaborador Nathan Schneider se preguntó: "¿Podría _Silicon
 Alley_ hacer las cosas de forma más democrática que Silicon Valley?"
 
 Ya sea que estemos pensando en puestos de trabajo seguros, salario
-mínimo, seguridad, cobertura médica o en jubilación, ninguno de estos
+mínimo, seguridad, cobertura médica o jubilación, ninguno de estos
 problemas puede abordarse radicalmente sin la reorganización del
 trabajo, sin cambios estructurales.  Ninguno de estos problemas puede
 abordarse de manera efectiva hasta que revitalicemos la solidaridad,
@@ -637,35 +637,35 @@ vigilancia, el monopolio, la proliferación de los lugares de trabajo sin
 fronteras, ha llevado a muchas personas a revivir el espíritu del
 cooperativismo.  ¿Cuáles son las perspectivas a largo plazo para el
 cooperativismo de plataforma?  ¿No son las cooperativas un modelo caduco
-de organización del trabajo?  Cualquiera que haga esta afirmación debe
-considerar en primer lugar que en todo el mundo la economía solidaria
-está en crecimiento;  las cooperativas emplean más personas que todas
-las multinacionales juntas[^platform-55].  El candidato presidencial
-demócrata, el senador estadounidense Bernie Sanders, promueve la
-propiedad obrera como una forma viable de progresar [@johnson-2015].  En
-Estados Unidos, 900.000 personas son empleadas por cooperativas
-[@nadeau-2012].
+de organización del trabajo?  Cualquiera que plantee este interrogante
+debe considerar en primer lugar que la economía solidaria está en
+crecimiento en todo el mundo;  las cooperativas emplean más personas que
+todas las multinacionales juntas[^platform-55].  El candidato
+presidencial demócrata, el senador estadounidense Bernie Sanders,
+promueve la propiedad obrera como una forma viable de progresar
+[@johnson-2015].  En Estados Unidos, 900.000 personas son empleadas por
+cooperativas [@nadeau-2012].
 
 [^platform-55]: Las estadísticas de este párrafo están tomadas de _Owning
 Our Future: The Emerging Ownership Revolution_, de Marjorie Kelly.
 
 En su libro _Collective Courage_, Jessica Gordon Nembhard describe la
 experiencia negra en las cooperativas de Estados Unidos como una
-experiencia de activismo, basada en la experiencia de la lucha por los
+experiencia de activismo, basada en la tradición de la lucha por los
 derechos humanos.  La Unión Cooperativa de Consumo japonesa sirve al 31%
-de los hogares de la nación y Mondragón, séptima mayor corporación
-industrial de España, es una red de cooperativas que en 2013 empleaba a
-74.061 personas.  Emilia Romagna, un área en Italia que alentó a la
-propiedad de las empleadas, las cooperativas de consumo y las
-cooperativas agrícolas, tiene el desempleo más bajo que otras regiones
-de Italia[^platform-58].
+de los hogares de esa nación mientras que Mondragón, séptima mayor
+corporación industrial de España, es una red de cooperativas que en 2013
+empleaba a 74.061 personas.  Emilia Romagna, una región en Italia que
+alentó a la propiedad de las empleadas, las cooperativas de consumo y
+las cooperativas agrícolas, tiene el desempleo más bajo de todas las
+regiones de Italia[^platform-58].
 
 [^platform-58]:
 <http://dept.kent.edu/oeoc/oeoclibrary/emiliaromagnalong.htm>
 
-El 40% de la agricultura en Brasil y el 36% de los mercados minoristas
-en Dinamarca están constituidos por cooperativas, según Kelly.  El 45%
-del PBI de Kenia y el 22% del PBI de Nueva Zelanda provienen de
+Según Kelly, el 40% de la agricultura en Brasil y el 36% de los mercados
+minoristas de Dinamarca están constituidos por cooperativas.  El 45% del
+PBI de Kenia y el 22% del PBI de Nueva Zelanda provienen de
 cooperativas.  A pesar de haber experimentado contratiempos, sería
 difícil argumentar con éxito que el modelo cooperativo está acabado.
 
@@ -720,7 +720,7 @@ mínimo de protección social; de lo contrario habrá una rebelión.  Robin
 Chase, co-fundadora de _ZipCar_, se hizo eco del sentimiento de Reich.
 Por supuesto, si se desea conservar la paz social, se tiene que dar algo
 a las trabajadoras.  Se puede apelar a lo mejor de los líderes
-corporativos, como quizás hace Tim O'Reilly, puedes confiar en su buena
+corporativos, como quizás hace Tim O'Reilly, podés confiar en su buena
 voluntad.  Pero la cuestión sigue siendo si estas apelaciones pueden
 cambiar la misión central de esas empresas.  Es cierto que las
 trabajadoras necesitan protecciones sólidas y alguien que realmente se
@@ -732,7 +732,7 @@ históricos de la "economía solidaria" extractiva y de la economía
 solidaria.
 
 No se puede contrarrestar la desigualdad económica con la benevolencia
-de los propietarios; juntos tenemos que rediseñar la infraestructura
+de los propietarios; juntas tenemos que rediseñar la infraestructura
 situando la democracia en su núcleo.
 
 Como parte de este nuevo diseño, vale la pena volver a examinar la
@@ -814,7 +814,7 @@ varios"[^platform-66].  Los estados del sur de Estados Unidos, por
 ejemplo, tienen una larga historia de cooperativas agrícolas con
 auto-determinación económica y social construida por las comunidades
 afro-americanas.  A veces, sin embargo, las cooperativas han reforzado
-las jerarquías de raza y género, reproduciendo, en lugar de cuestionar,
+las jerarquías de raza y género, reproduciendo en lugar de cuestionar,
 las prácticas de la sociedad en general.  Juliet Schor afirma que:
 
 [^platform-66]: <https://vimeo.com/149516216>
@@ -1017,9 +1017,9 @@ Collaborative_,[^platform-dc] Gar Alperovitz, escribe que hay más de
 2.000 compañías de electricidad de propiedad pública que, junto con las
 cooperativas, suministran más del 25% de la electricidad del país
 [@nyt-2015b].  Alperovitz señala la larga historia de ciudades como
-Dallas, propietaria de varios hoteles y de municipios a lo largo de
-Estados Unidos que poseen hospitales y al parecer, contrariamente a la
-opinión pública, ese modelo ha estado funcionando bastante bien.
+Dallas, propietaria de varios hoteles y de otros municipios a lo largo
+de Estados Unidos que poseen hospitales y al parecer --contrariamente a
+la opinión pública-- ese modelo ha estado funcionando bastante bien.
 
 [^platform-dc]: <http://democracycollaborative.org/>
 
@@ -1049,12 +1049,12 @@ Orsi se pregunta:
 
 Otra aplicación también sugerida por Orsi, se llama _Allbnb_ y supondría
 que las residentes recibieran un dividendo de los beneficios de tales
-plataformas de alquiler, algo comparable con el Fondo Permanente de
+plataformas de alquiler.  Algo comparable con el Fondo Permanente de
 Alaska, que paga a las residentes del estado unos pocos miles de dólares
 cada año, un porcentaje de los beneficios que Alaska obtiene de la venta
 de petróleo.  Definitivamente, parece factible implementar estas
 aplicaciones; lo que permitiría que las ciudades no solo jueguen un
-papel en la regulación de la economía a demanda, sino que pudieran ser
+papel en la regulación de la economía a demanda, sino que puedan ser
 activas a la hora de darle forma.
 
 
@@ -1117,7 +1117,7 @@ junto con las fundadoras y las inversoras originales.
 
 Hay varios ejemplos, de Denver a Newark, en que las taxistas y los
 sindicatos han comenzado a trabajar en conjunto, construyendo
-aplicaciones y organizando el sector del taxi.  Y si las empresas son
+aplicaciones y organizando el sector del taxi.  Y si las empresas fueran
 inteligentes, darían la bienvenida a los sindicatos ya que varios
 estudios muestran que las trabajadoras agremiadas representan una mejor
 tasa de permanencia y al menos la misma productividad [@triplett-1983].
@@ -1137,9 +1137,9 @@ _Union Taxi_, la primera cooperativa propiedad de las conductoras en
 Denver.  También reciben apoyo de la organización _1worker1vote.org_,
 que apoya a las cooperativas sindicalizadas ayudándoles a encontrar la
 manera de negociar los salarios, planes de beneficios y programas de
-formación.  Los costes de capital iniciales, a menudo un gran reto para
-las cooperativas, aquí son menos problemáticos porque las conductoras ya
-son dueñas del equipo.
+formación.  Los costes de capitales iniciales, a menudo un gran reto
+para las cooperativas, aquí son menos problemáticos porque las
+conductoras ya son dueñas del equipo.
 
 La _California App-Based Drivers Association_ (CADA)[^platform-81] es
 una organización sin ánimo de lucro que unifica a las conductoras de
@@ -1154,13 +1154,13 @@ que trabajan para empresas como _Lyft_ y _Uber_ hablen con una sola voz.
 
 ### Las cooperativas desde dentro
 
-Otra atractiva aunque imaginaria propuesta es la idea de las
+Otra atractiva propuesta, aunque imaginaria, es la idea de las
 cooperativas de trabajo formadas en el estómago del monstruo de la
 _sharing economy_.  Las conductoras de _Uber_ podrían utilizar la
 infraestructura técnica de la empresa para establecer sus propias
-empresas.  Esta absorción hostil por parte de las trabajadoras podría ser
-imaginable como resultado de una demanda anti-monopolio comparable a la
-que se llevó adelante contra _Microsoft_ después del lanzamiento de
+empresas.  Esta absorción hostil por parte de las trabajadoras podría
+ser imaginable como resultado de una demanda anti-monopolio comparable a
+la que se llevó adelante contra _Microsoft_ después del lanzamiento de
 _Internet Explorer_.
 
 
@@ -1170,7 +1170,7 @@ El trabajo del futuro quizás no será dictado por las plataformas
 centralizadas, ni siquiera por las que son operadas por cooperativas.
 Tal vez serán interacciones entre pares facilitadas por los protocolos
 P2P.  En Israel, por ejemplo, _La'Zooz_[^platform-82] es una red
-distribuida entre pares de transporte compartido.  Así como desde
+distribuida de transporte compartido entre pares.  Así como desde
 _Member's Media_ querrían que piensen en ellas como el _Netflix_ de las
 cineastas y aficionadas, bajo propiedad de esas _produsuarias_,
 _La'Zooz_ podría compararse con el _BitTorrent_ de compartir transporte.
@@ -1312,23 +1312,23 @@ Estados Unidos informan que con frecuencia se les paga con retraso.
 a varias redes en caso de que falle alguna. _(Nota de la traducción.)_
 
 7) _Portabilidad de la protección de las trabajadoras y prestaciones:_
-   Las trabajadoras tanto de la economía tradicional como la contingente
-   deberían ser capaces de llevarse los beneficios y protecciones con
-   ellas en escenarios laborales cambiantes.  Las protecciones sociales
-   no deben estar vinculadas a un espacio de trabajo en particular.  El
-   gobierno francés está poniendo a prueba esta idea y en Estados Unidos
-   Steven Hill, un autor residente en San Francisco, es una de las
-   personas que hicieron esta propuesta en su último libro _Raw Deal:
-   How the 'Uber Economy' and Runaway Capitalism Are Screwing American
-   Workers_.  A cada trabajadora se le asignaría una cuenta de seguridad
-   individual en la que todas las empresas que la contraten pagarían una
-   pequeña tarifa de seguridad, prorrateando el número de horas por las
-   que se mantuvo empleada.  Esos fondos se utilizarían para pagar la
-   red de seguridad de cada trabajadora, dirigiendo los fondos a la
-   infraestructura ya establecida, como la salud pública y seguros
-   contra accidentes y de desempleo.  Además, este plan proporcionaría
-   un mínimo de cinco días de baja por enfermedad y vacaciones pagas
-   para cada trabajadora[^platform-91].
+   Las trabajadoras tanto de la economía tradicional como las de la
+   contingente deberían ser capaces de llevarse los beneficios y
+   protecciones con ellas en escenarios laborales cambiantes.  Las
+   protecciones sociales no deben estar vinculadas a un espacio de
+   trabajo en particular.  El gobierno francés está poniendo a prueba
+   esta idea y en Estados Unidos Steven Hill, un autor residente en San
+   Francisco, es una de las personas que hicieron esta propuesta en su
+   último libro _Raw Deal: How the 'Uber Economy' and Runaway Capitalism
+   Are Screwing American Workers_.  A cada trabajadora se le asignaría
+   una cuenta de seguridad individual en la que todas las empresas que
+   la contraten pagarían una pequeña tarifa de seguridad, prorrateando
+   el número de horas por las que se mantuvo empleada.  Esos fondos se
+   utilizarían para pagar la red de seguridad de cada trabajadora,
+   dirigiendo los fondos a la infraestructura ya establecida, como la
+   salud pública y seguros contra accidentes y de desempleo.  Además,
+   este plan proporcionaría un mínimo de cinco días de baja por
+   enfermedad y vacaciones pagas para cada trabajadora[^platform-91].
 
    Una consecuencia importante de esta propuesta es que, al poner a casi
    todas las trabajadoras en iguales condiciones, se podrían reducir en
@@ -1430,7 +1430,7 @@ la mayoría de aspectos, aisladas unas de otras.  "Si estas personas
 tienen que ganar en propiedad y en poder de toma de decisiones, la
 mejora de sus redes sociales debe ser parte del proyecto," enfatiza la
 economista Paola Tubaro en respuesta a la idea del cooperativismo de
-plataforma [@tubaro-2015].  Ha habido algunos intentos de crear nuevas
+plataforma [@tubaro-2015].  Han habido algunos intentos de crear nuevas
 formas de solidaridad entre trabajadoras, incluyendo una intervención de
 diseño como _Turkopticon_,[^platform-98] un sistema de reputación de
 empleadores utilizado por las trabajadoras en la plataforma de _Amazon
@@ -1471,7 +1471,7 @@ Las cooperativas de plataforma dependen de otras cooperativas, sistemas
 de financiamiento, ingenieras de software, abogadas, trabajadoras y
 diseñadoras.  Las alianzas entre cooperativas son esenciales.  Tienen
 que estar basadas en normas, en el compromiso con los bienes comunes
-abiertos, en estrategias compartidas, metas y valores: Un cambio de
+abiertos, en estrategias compartidas, metas y valores: un cambio de
 mentalidad que vaya de Ayn Rand a Robert Owen, con el apoyo de una
 plataforma política.
 
@@ -1515,8 +1515,8 @@ campaña recaudó más de un millón de dólares.
 Pero los reguladores no facilitan las cosas.  En 2011, Brewster Kahle,
 fundador de _archive.org_, intentó iniciar una cooperativa de crédito;
 pero se encontró con un aluvión de auditorías reglamentarias y la
-burocracia finalmente le llevó a abandonar [@popper-2015].  Silicon
-Valley, que se basa en la especulación, devoluciones a corto plazo y
+burocracia finalmente le llevó a abandonar [@popper-2015].  _Silicon
+Valley_, que se basa en la especulación, devoluciones a corto plazo y
 abandonar el barco a través de ofertas públicas de venta, no es el
 modelo de financiación adecuado para las cooperativas, que crecen
 lentamente y están diseñadas para la sostenibilidad.
@@ -1557,7 +1557,7 @@ sostenibles.  _FairShares_ apoya a cooperativas agrícolas y _The Workers
 Lab_ es la primera aceleradora de innovación con respaldo de un
 sindicato.  El inversor institucional Kanyi Maqubela afirma que lo más
 importante para el movimiento cooperativo es la escalabilidad.  En
-_Collaborative Fund_, Maqubela trata de ayudar a cooperativas de
+_Collaborative Fund_ Maqubela trata de ayudar a cooperativas de
 plataforma para lograr escala, proporcionándoles liquidez suficiente
 para que puedan atraer a grandes fondos de capital.  "Necesitamos todas
 las manos, incluidos los inversores, para crear un mundo más
@@ -1584,7 +1584,7 @@ cooperativa, se convirtió en centralizada y corporativa[^platform-111].
 
 Las cooperativas de plataforma construyen sobre los bienes comunes,
 necesitan del diseño abierto y licencias de hardware libre para la
-impresión tridimensinal.  Facilitan el ecosistema cooperativo.  Michel
+impresión tridimensional.  Facilitan el ecosistema cooperativo.  Michel
 Bauwens trabaja actualmente en una licencia reciprocitaria basada en
 bienes comunes [@p2pf-2015b] que puede, por ejemplo, permitir que las
 cooperativas compartan fragmentos de código como bienes comunes.  El
