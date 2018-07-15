@@ -229,8 +229,11 @@ implicancias de investigaciones futuras sobre el activismo digital,
 enfatizando la necesidad de traer la ideología de vuelta al análisis de
 los movimientos de protesta de la era digital.
 
-[[2.[   ]{style="font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"}]{style=""}]{style=""} Techno-politics Beyond Techno-Determinism {#techno-politics-beyond-techno-determinism style="margin-left: 21.3pt; text-align: left; text-indent: -21.3pt;" align="left"}
-====================================================================================================================================================================================================================================================================
+Techno-politics Beyond Techno-Determinism
+=========================================
+
+La tecno-política más allá del tecno-determinismo
+-------------------------------------------------
 
 Digital activism is a form of activism that by definition brings into
 question the relationship between politics and technology, or to use a
@@ -249,6 +252,24 @@ transformation as resulting from technological transformation, thus
 overlooking that also the converse is the case, namely that changes in
 political and ideological orientations modify the way technology is
 conceived of and used.[]{style=""}
+
+El activismo digital es una forma de activismo que pone en el eje de su
+discusión la relación entre política y tecnología.  Para hacer uso de
+un término en boga entre las activistas e investigadoras en los últimos
+años, se trata de la naturaleza y la dinámica de la "tecno-política".
+La tecno-política es un término acuñado por el político y académico
+italiano Stefano Rotodà[-@rodota-1997] para referirse al nexo entre la
+política y la tecnología y desde entonces ha sido popularizado por
+académicas activistas como Javier Toret[-@toret-2013] en España, para
+definir el nuevo campo de análisis que enmarca el activismo digital.  Al
+referirnos a los dos conceptos constitutivos de la tecno-política,
+podemos argumentar que hasta este momento los estudios sobre el
+activismo digital se han enfocado excesivamente en la tecnología antes
+que en la política.  Las académicas han tendido a leer la transformación
+política como el resultado de la transformación tecnológica, por lo
+tanto soslayando que lo inverso también es apropiado, es decir que los
+cambios políticos e ideológicos modifican la forma en que la tecnología
+es concebida y utilizada.
 
 The techno-deterministic nature of much contemporary scholarship on
 digital activism is seen in the way in which the nature of digital
@@ -284,6 +305,41 @@ in the 2016 presidential elections have both proficiently used social
 media, yet in radically different ways, and on the back of radically
 different organisational structures.
 
+La naturaleza tecno-determinista de gran parte de la academia
+contemporánea sobre el activismo digital propone que la naturaleza de
+esta forma de activismo se deriva directamente de propiedades
+específicas de la tecnología.  Esto puede ser verse en el debate sobre
+los efectos de la cobertura mediática sobre el activismo digital.  Un
+ejemplo es el libro de Earl y Kimport[-@earl-kimport-2011] y la forma en
+que aborda los medios digitales como un grupo de aparatos que reducen
+los costos de participación y por lo tanto facilitan nuevas formas de
+interacción que anteriormente eran imposibles.  En líne con gran parte
+de la literatura proveniente de las ciencias políticas, esta perspectiva
+propone una comprensión instrumental y económica de los efectos de los
+medios, como puede verse en el lenguaje de los "costos" y "beneficios"
+que utilizan para explicar el uso de la tecnología digital.  Este
+abordaje explica las ventajas prácticas de la tecnología digital para
+las activistas, pero omite la dimensión simbólica y cultural del
+activismo digital, empezando por el mismo contenido de aquello que es
+canalizado a través de esta tecnología.  Puede hacerse una crítica
+similar de la obra de Lance W. Bennett y Alexandra Sederberg.  Su teoría
+describe una "acción conectiva"[@bennet-sederberg-2012] en oposición a
+la noción de la acción colectiva.  Argumentan que los _social media_,
+con su capacidad de promover la conectividad, superan la lógica
+colectiva de los movimientos sociales anteriores y su necesidad de
+liderazgo e identidad colectiva[@beneet-sederberg-2012].  Gracias a la
+tecnología digital, los movimientos pueden volverse más personalizados y
+menos controlados por centros organizacionales.  Pero lo que se soslaya
+en este contexto es que la aplicación liberadora de la tecnología
+digital está muy lejos de ser el resultado inevitable.  Las
+potencialidades de la tecnología digital pueden volverse hacia objetivos
+políticos totalmente distintos y acoplarse a diferentes formatos
+organizacionales.  Resulta suficiente pensar, por ejemplo, que fenómenos
+políticos tan dispares como _Occupy Wall Street_ y la campaña
+presidencial de Donald Trumb se han servido tan eficientemente de los
+_social media_, aun en formas y estructuras organizacionales
+radicalmente distintas.
+
 A techno-deterministic element is arguably also present in the work of
 Manuel Castells on digital activism. To be fair, Castells\' account is
 far more nuanced than purely structuralist accounts originating mostly
@@ -313,6 +369,33 @@ horizontal and leaderless space, but is accompanied by the rise of new
 forms of leadership ([2012](#Gerbaudo2012);
 [2016](#Gerbaudo2016)).[]{style=""} []{style=""}
 
+El elemento tecno-determinista también se encuentra presente en la obra
+de Manuel Castells.  Para ser justas, el registro de Castells tiene
+muchos más matices que los puramente estructuralistas que provienen del
+resto de las ciencias políticas.  Esto es así porque Castells trabaja
+desde la tradición sociológica y su abordaje también toma en cuenta los
+factores culturales que se ponen en juego en la Internet y el activismo
+digital.  A diferencia de otras autoras, no ve a la tecnología como un
+monolito todopoderoso sino también como un producto social y cultural.
+Desde este punto de vista, Castells ha argumentado que un factor
+importante para comprender la cultura digital es la influencia del
+espíritu libertario de los movimientos de protesta de los '60 y '70 y la
+forma en que inspiraron la arquitectura decentralizada de la
+Internet[@castells-2004].  Sin embargo, su teoría de la sociedad red y
+su visión sobre la tecnología digital como apartándose de la estructura
+piramidal de la sociedad fordista hacia unas estructuras de red
+apropiadas a la sociedad de la información todavía contiene algunos
+elementos tecno-deterministas.  La tecnología provoca un cambio
+"morfológico" que atraviesa a toda la sociedad y tiene consecuencias en
+todos los campos y organizaciones que adoptan la tecnología digital.
+Esta perspectiva sin duda contiene un elemento de verdad, pero parece
+omitir la flexibilidad con la que los procesos organizacionales son
+influenciados.  Es un error asumir que la tecnología digital tiende a
+erosionar las jerarquías.  Como he demostrado en mis obras anteriores,
+el activismo digital no es un espacio horizontal sin líderes sino que
+está acompañado por nuevas formas de
+liderazgo[-@gerbaudo-2012;-@gerbaudo-2016].
+
 A similar tendency is also seen in Castells\' work on social media.
 Castells has argued that the diffusion of social media as Facebook and
 Twitter has transformed internet communication and introduce a new media
@@ -332,6 +415,27 @@ this shift also ideological and political factors have concurred. As I
 will demonstrate in the course of the article, without a change in
 ideology the new opportunities of mass mobilisation offered by social
 media would have not been reaped by protest movements.[]{style=""}
+
+Esta tendencia también puede observarse en las obras de Castells sobre
+los _social media_.  Castells argumenta que la difusión de _social
+media_ como _Facebook_ y _Twitter_ ha transformado la comunicación en
+Internet e introducido una nueva lógica mediática a la que describe como
+"auto-comunicación de masas"[@castells-2009], que combina la lógica de
+la auto-comunicación de los medios personales, una-a-una, como el
+teléfono, con las masas y la capacidad una-a-muchas de los medios
+masivos.  Según Castells, esta lógica comunicacional estuvo en la base
+de los movimientos del 2011 como los indignados, _Occupy_ y la
+primavera árabe y contribuyó fuertemente a su alcance
+masivo[@castells-2012].  Esto ciertamente provee razones poderosas para
+comprender la forma en que la segunda ola del activismo digital ha
+superado las políticas minoritarias de la primera ola.  Los _social
+media_ proveyeron las condiciones técnicas necesarias para que emerjan
+las nuevas formas de activismo.  No obstante, Castells tiende a omitir
+cómo han convergido factores ideológicos y políticos en este cambio.
+Como veremos en el curso de este artículo, sin un cambio ideológico las
+nuevas oportunidades de movilización de masas ofrecidas por los _social
+media_ no hubieran podido ser cosechadas por los movimientos de
+protesta.
 
 The work of Jeffrey Juris, an anthropologist and a former student of
 Manuel Castells has followed a similar line of reasoning, reading the
@@ -358,6 +462,32 @@ interesting insights about the technological underpinnings of the
 transformation of protest tactics. Yet, it overlooks how this change in
 the way of doing protest is also informed by significant changes in
 protest culture and ideology.
+
+La obra de Jeffrey Juris, antropólogo y alumno de Manuel Castells, ha
+seguido una línea similar de razonamiento, leyendo la transformación del
+activismo como resultado de la transformación tecnológica.  En su
+influyente libro _Networking Futures_[-@juris-2008], Juris argumenta que
+el movimiento anti-globalización se basaba en un imaginario de la red
+que constituyó la inspiración clave de una cantidad de proyectos de
+activismo digital que emergieron en ese tiempo, incluyendo el sitio de
+noticias alternativo _Indymedia_ y las listas de correo alternativas
+utilizados por las activistas para organizar actividades y campañas
+específicas.  En su obra sobre el movimiento de las plazas de 2011,
+Juris dice que esta ola tuvo una lógica diferente a la de la
+anti-globalización.  Argumenta que hubo un cambio de una lógica de red
+de las activistas anti-globalización hacia lo que describe como una
+"lógica de agregación".  Esta transformación deriva de la evolución de
+la _Web 1.0_ hacia la _Web 2.0_ y esta lógica de agregación refleja las
+nuevas potencialidades de difusión masiva de las plataformas de _social
+media_.  Esta lógica es apoyada por la "viralidad", es decir la
+capacidad para la difusión rápida permitida por las redes sociales
+corporativas como _Facebook_ y _Twitter_.  Esta capacidad ha sido
+trasladada físicamente a las plazas ocupadas de 2011, rebosantes de
+grandes multitudes[@juris-2012].  El inspirador análisis de Juris provee
+algunas ideas interesantes sobre el apuntalamiento tecnológico que
+encontramos en la transformación de las tácticas de protesta.  Aun así,
+omite cómo este cambio en la forma de protestar también está basado en
+cambios significativos en la cultura e ideología de las protestas.
 
 [[2.1.[       ]{style="font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"}]{style=""}]{style=""} Bringing Protest Culture Back into the Equation[]{style=""}
 ============================================================================================================================================================================================================================================================================================
